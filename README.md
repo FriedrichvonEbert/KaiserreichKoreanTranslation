@@ -1,7 +1,7 @@
 # 단어사전 보고 수정 부탁드립니다.
 # [0.11.2 호환작업 ](https://www.reddit.com/r/Kaiserreich/comments/fjrfso/hotfix_0112_is_out/) (패치노트)
 # [Kaiserreich 한국어 번역](https://steamcommunity.com/sharedfiles/filedetails/?id=1972234971)은 공개 번역으로써 누구든지 참여하실 수 있습니다.
-# 이미 [Pull requests](https://github.com/skullbe/Kaiserreich-Korean-Translation/pulls)를 하셨다면 아무리 여러개를 하셔도 가장 최근에 수락된 것만 적용됩니다. 부디 이미 request하신건 하지 말아 주시기 바랍니다. (수락 될때까지 다른 국가를 해주세요.)
+# 이미 [Pull requests](https://github.com/FriedrichvonEbert/KaiserreichKoreanTranslation/pulls)를 하셨다면 아무리 여러개를 하셔도 가장 최근에 수락된 것만 적용됩니다. 부디 이미 request하신건 하지 말아 주시기 바랍니다. (수락 될때까지 다른 국가를 해주세요.)
 # [번역 방법](https://github.com/skullbe/Kaiserreich-Korean-Translation/wiki/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%A0%80%EC%9E%A5%EB%B2%95)
 
 현재 카라 특성상, 계속 문법/단어 수정이 이뤄지고 있으므로, 번역하려고 보니 문장이 이상하다고 생각하신다면, 재량에 따라 의역하셔도 됩니다.
@@ -19,6 +19,8 @@
 - 번역 전 상단의 `Pull requests` 탭을 눌러 번역할 부분이 이미 다른 사람에 의해 번역 요청이 된 부분인지 확인해 주세요.
 
 - 반드시 큰따옴표(`""`)안의 내용만 번역합니다.
+
+- 이를 관리자가 수락하면 번역이 반영될 것입니다.
 
 - 대괄호(`[]`)나 달러 기호(`$$`) 사이의 내용은 번역하지 않습니다.
 
