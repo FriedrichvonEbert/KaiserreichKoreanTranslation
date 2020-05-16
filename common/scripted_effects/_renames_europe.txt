@@ -6,11 +6,11 @@ do_polish_renames_in_europe = {
 				has_state_flag = renamed_state_polish
 			}
 		}
-		set_state_name = "Prusy"
+		set_state_name = "프루시"
 		set_state_flag = renamed_state_polish
 		set_province_name = {
 			id = 6332
-			name = "Królewiec"
+			name = "크룰레비에츠"
 		}
 	}
 	else_if = {
@@ -39,11 +39,11 @@ do_polish_renames_in_europe = {
 				has_state_flag = renamed_state_polish
 			}
 		}
-		set_state_name = "Dolny Slask"
+		set_state_name = "돌니 실롱스크"
 		set_state_flag = renamed_state_polish
 		set_province_name = {
 			id = 9570
-			name = "Wrocław"
+			name = "브로츠와프"
 		}
 	}
 	else_if = {
@@ -53,15 +53,15 @@ do_polish_renames_in_europe = {
 				has_state_flag = renamed_state_polish
 			}
 		}
-		set_state_name = "Górny Slask"
+		set_state_name = "구르니 실롱스크"
 		set_state_flag = renamed_state_polish
 		set_province_name = {
 			id = 11467
-			name = "Zabrze"
+			name = "자브제"
 		}
 		set_province_name = {
 			id = 6464
-			name = "Katowice"
+			name = "카토비체"
 		}
 	}
 	else_if = {
@@ -71,14 +71,14 @@ do_polish_renames_in_europe = {
 				has_state_flag = renamed_state_polish
 			}
 		}
-		set_state_name = "Zakarpacie"
+		set_state_name = "자카르파치에"
 		clr_state_flag = renamed_state_slovak
 		clr_state_flag = renamed_state_german
 		set_state_flag = renamed_state_polish
 		clr_state_flag = renamed_state_ukrainian
 		set_province_name = {
 			id = 11691
-			name = "Użhorod"
+			name = "우슈호로트"
 		}
 	}
 	else_if = {
@@ -108,11 +108,11 @@ do_polish_renames_in_europe = {
 				has_state_flag = renamed_state_polish
 			}
 		}
-		set_state_name = "Poznan"
+		set_state_name = "포즈난"
 		set_state_flag = renamed_state_polish
 		set_province_name = {
 			id = 6558
-			name = "Poznan"
+			name = "포즈난"
 		}
 	}
 	else_if = {
@@ -191,11 +191,11 @@ do_polish_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_belarusian
-		set_state_name = "Brzesc"
+		set_state_name = "브제시치"
 		set_state_flag = renamed_state_polish
 		set_province_name = {
 			id = 3392
-			name = "Brzesc"
+			name = "브제시치"
 		}
 	}
 	else_if = {
@@ -207,11 +207,11 @@ do_polish_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_lithuanian
-		set_state_name = "Wołkowysk"
+		set_state_name = "보우코비스크"
 		set_state_flag = renamed_state_polish
 		set_province_name = {
 			id = 13736
-			name = "Wołkowysk"
+			name = "보우코비스크"
 		}
 	}
 	else_if = {
@@ -260,11 +260,11 @@ do_polish_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_lithuanian
-		set_state_name = "Litwa Mniejsza"
+		set_state_name = "리트바 므니에이샤"
 		set_state_flag = renamed_state_polish
 		set_province_name = {
 			id = 3288
-			name = "Kłajpeda"
+			name = "크와이페다"
 		}
 	}
 	else_if = {
@@ -294,19 +294,19 @@ do_polish_renames_in_europe = {
 				has_state_flag = renamed_state_polish
 			}
 		}
-		set_state_name = "Pomorskie"
+		set_state_name = "포모르스키에"
 		set_state_flag = renamed_state_polish
 		set_province_name = {
 			id = 279
-			name = "Bydgoszcz"
+			name = "비드고슈치"
 		}
 		set_province_name = {
 			id = 3295
-			name = "Toruń"
+			name = "토룬"
 		}
 		set_province_name = {
 			id = 362
-			name = "Gdansk"
+			name = "그단스크"
 		}
 	}
 	else_if = {
@@ -316,11 +316,11 @@ do_polish_renames_in_europe = {
 				has_state_flag = renamed_state_polish
 			}
 		}
-		set_state_name = "Mazury"
+		set_state_name = "마주리"
 		set_state_flag = renamed_state_polish
 		set_province_name = {
 			id = 3380
-			name = "Elbląg"
+			name = "엘블롱크"
 		}
 	}
 	else_if = {
@@ -331,11 +331,11 @@ do_polish_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Równe"
+		set_state_name = "루브네"
 		set_state_flag = renamed_state_polish
 		set_province_name = {
 			id = 11543
-			name = "Równe"
+			name = "루브네"
 		}
 	}
 	else_if = {
@@ -380,11 +380,11 @@ do_polish_but_not_plc_renames_in_europe = {
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_belarusian
-		set_state_name = "Kowno"
+		set_state_name = "코브노"
 		set_state_flag = renamed_state_polish
 		set_province_name = {
 			id = 6296
-			name = "Kowno"
+			name = "코브노"
 		}
 	}
 	else_if = {
@@ -397,15 +397,15 @@ do_polish_but_not_plc_renames_in_europe = {
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_belarusian
-		set_state_name = "Wilno"
+		set_state_name = "빌노"
 		set_state_flag = renamed_state_polish
 		set_province_name = {
 			id = 3320
-			name = "Wilno"
+			name = "빌노"
 		}
 		set_province_name = {
 			id = 3393
-			name = "Grodno"
+			name = "그로드노"
 		}
 	}
 	else_if = {
@@ -417,15 +417,15 @@ do_polish_but_not_plc_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_german
-		set_state_name = "Zmudz"
+		set_state_name = "주무치"
 		set_state_flag = renamed_state_polish
 		set_province_name = {
 			id = 6314
-			name = "Połaga"
+			name = "포웡가"
 		}
 		set_province_name = {
 			id = 6376
-			name = "Szawle"
+			name = "샤블레"
 		}
 	}
 	else_if = {
@@ -470,16 +470,16 @@ do_czech_renames_in_europe = {
 				has_state_flag = renamed_state_slovak
 			}
 		}
-		set_state_name = "Zápádne Slovensko"
+		set_state_name = "자파드네 슬로벤스코"
 		set_state_flag = renamed_state_slovak
 		clr_state_flag = renamed_state_german
 		set_province_name = {
 			id = 541
-			name = "Nitra"
+			name = "니트라"
 		}
 		set_province_name = {
 			id = 9692
-			name = "Prešporok"
+			name = "프레슈포로크"
 		}
 	}
 	else_if = {
@@ -489,12 +489,12 @@ do_czech_renames_in_europe = {
 				has_state_flag = renamed_state_slovak
 			}
 		}
-		set_state_name = "Východné Slovensko"
+		set_state_name = "비호드네 슬로벤스코"
 		set_state_flag = renamed_state_slovak
 		clr_state_flag = renamed_state_german
 		set_province_name = {
 			id = 3550
-			name = "Prešov"
+			name = "프레쇼우"
 		}
 	}
 	else_if = {
@@ -504,14 +504,14 @@ do_czech_renames_in_europe = {
 				has_state_flag = renamed_state_slovak
 			}
 		}
-		set_state_name = "Podkarpatsko"
+		set_state_name = "포트카르파츠코"
 		set_state_flag = renamed_state_slovak
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_polish
 		clr_state_flag = renamed_state_ukrainian
 		set_province_name = {
 			id = 11691
-			name = "Užhorod"
+			name = "우주호로트"
 		}
 	}
 	else_if = {
@@ -537,12 +537,12 @@ do_czech_renames_in_europe = {
 				has_state_flag = renamed_state_slovak
 			}
 		}
-		set_state_name = "Južné Slovensko"
+		set_state_name = "유주네 슬로벤스코"
 		set_state_flag = renamed_state_slovak
 		clr_state_flag = renamed_state_german
 		set_province_name = {
 			id = 6573
-			name = "Košice"
+			name = "코시체"
 		}
 	}
 }
@@ -576,11 +576,11 @@ do_lithuanian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Livonija"
+		set_state_name = "리보니야"
 		set_state_flag = renamed_state_lithuanian
 		set_province_name = {
 			id = 9501
-			name = "Valmiera"
+			name = "발미에라"
 		}
 	}
 	else_if = {
@@ -592,11 +592,11 @@ do_lithuanian_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_polish
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Valkaviskas"
+		set_state_name = "발카비스카스"
 		set_state_flag = renamed_state_lithuanian
 		set_province_name = {
 			id = 13736
-			name = "Valkaviskas"
+			name = "발카비스카스"
 		}
 	}
 	else_if = {
@@ -607,19 +607,19 @@ do_lithuanian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Pinskas"
+		set_state_name = "핀스카스"
 		set_state_flag = renamed_state_lithuanian
 		set_province_name = {
 			id = 560
-			name = "Pinskas"
+			name = "핀스카스"
 		}
 		set_province_name = {
 			id = 3309
-			name = "Slanimas"
+			name = "슬라니마스"
 		}
 		set_province_name = {
 			id = 9359
-			name = "Naugardukas"
+			name = "나우가르두카스"
 		}
 	}
 	else_if = {
@@ -655,11 +655,11 @@ do_lithuanian_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_belarusian
-		set_state_name = "Balstoge"
+		set_state_name = "발스토게"
 		set_state_flag = renamed_state_lithuanian
 		set_province_name = {
 			id = 11301
-			name = "Balstogė"
+			name = "발스토게"
 		}
 	}
 	else_if = {
@@ -670,11 +670,11 @@ do_lithuanian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_polish
-		set_state_name = "Mazoji Lietuva"
+		set_state_name = "마조이 리에투바"
 		set_state_flag = renamed_state_lithuanian
 		set_province_name = {
 			id = 3288
-			name = "Klaipeda"
+			name = "클라이페다"
 		}
 	}
 	else_if = {
@@ -708,15 +708,15 @@ do_lithuanian_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_latvian
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Kuršas"
+		set_state_name = "쿠르샤스"
 		set_state_flag = renamed_state_lithuanian
 		set_province_name = {
 			id = 6342
-			name = "Jelgava"
+			name = "옐가바"
 		}
 		set_province_name = {
 			id = 9262
-			name = "Liepoja"
+			name = "리에포야"
 		}
 	}
 	else_if = {
@@ -725,11 +725,11 @@ do_lithuanian_renames_in_europe = {
 			NOT = { has_state_flag = renamed_state_lithuanian }
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Breslauja"
+		set_state_name = "브레슬라우야"
 		set_state_flag = renamed_state_lithuanian
 		set_province_name = {
 			id = 233
-			name = "Breslauja"
+			name = "브레슬라우야"
 		}
 	}
 	else_if = {
@@ -760,11 +760,11 @@ do_lithuanian_renames_in_europe = {
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_belarusian
 		clr_state_flag = renamed_state_latvian
-		set_state_name = "Daugpilis"
+		set_state_name = "다욱필리스"
 		set_state_flag = renamed_state_lithuanian
 		set_province_name = {
 			id = 310
-			name = "Daugpilis"
+			name = "다욱필리스"
 		}
 	}
 	else_if = {
@@ -791,11 +791,11 @@ do_latvian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Livonija"
+		set_state_name = "리보니야"
 		set_state_flag = renamed_state_lithuanian
 		set_province_name = {
 			id = 9501
-			name = "Valmiera"
+			name = "발미에라"
 		}
 	}
 	else_if = {
@@ -807,15 +807,15 @@ do_latvian_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_lithuanian
-		set_state_name = "Kurzeme"
+		set_state_name = "쿠르제메"
 		set_state_flag = renamed_state_latvian
 		set_province_name = {
 			id = 6342
-			name = "Jelgava"
+			name = "옐가바"
 		}
 		set_province_name = {
 			id = 9262
-			name = "Liepaja"
+			name = "리에파야"
 		}
 	}
 	else_if = {
@@ -828,11 +828,11 @@ do_latvian_renames_in_europe = {
 		clr_state_flag = renamed_state_lithuanian
 		clr_state_flag = renamed_state_belarusian
 		clr_state_flag = renamed_state_german
-		set_state_name = "Daugavpils"
+		set_state_name = "다우가우필스"
 		set_state_flag = renamed_state_latvian
 		set_province_name = {
 			id = 310
-			name = "Daugavpils"
+			name = "다우가우필스"
 		}
 	}	
 }
@@ -845,20 +845,20 @@ do_estonian_renames_in_europe = {
 				has_state_flag = renamed_state_estonian
 			}
 		}
-		set_state_name = "Tallinn"
+		set_state_name = "탈린"
 		set_state_flag = renamed_state_estonian
 		clr_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 185
-			name = "Kuressaare"
+			name = "쿠레사레"
 		}
 		set_province_name = {
 			id = 3152
-			name = "Tallinn"
+			name = "탈린"
 		}
 		set_province_name = {
 			id = 4640
-			name = "Narva"
+			name = "나르바"
 		}
 	}
 	else_if = {
@@ -869,15 +869,15 @@ do_estonian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Tartu"
+		set_state_name = "타르투"
 		set_state_flag = renamed_state_estonian
 		set_province_name = {
 			id = 3174
-			name = "Pärnu"
+			name = "패르누"
 		}
 		set_province_name = {
 			id = 9221
-			name = "Tartu"
+			name = "타르투"
 		}
 	}
 }
@@ -1057,7 +1057,7 @@ do_hungarian_renames_in_europe = {
 		set_state_flag = renamed_state_hungarian
 		set_province_name = {
 			id = 11564
-			name = "Fiume"
+			name = "피우메"
 		}
 	}
 	else_if = {
@@ -1067,11 +1067,11 @@ do_hungarian_renames_in_europe = {
 				has_state_flag = renamed_state_hungarian
 			}
 		}
-		set_state_name = "Szávamente"
+		set_state_name = "사버멘테"
 		set_state_flag = renamed_state_hungarian
 		set_province_name = {
 			id = 11581
-			name = "Zágráb"
+			name = "자그라브"
 		}
 	}
 	else_if = {
@@ -1162,7 +1162,7 @@ do_hungarian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_serbian
-		set_state_name = "Szerémség"
+		set_state_name = "세렘셰그"
 		set_state_flag = renamed_state_hungarian
 	}
 	else_if = {
@@ -1195,15 +1195,15 @@ do_south_slav_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_german
-		set_state_name = "Vojvodina"
+		set_state_name = "보이보디나"
 		set_state_flag = renamed_state_serbian
 		set_province_name = {
 			id = 9621
-			name = "Subotica"
+			name = "수보티차"
 		}
 		set_province_name = {
 			id = 3617
-			name = "Novi Sad"
+			name = "노비 사드"
 		}
 	}
 	else_if = {
@@ -1213,13 +1213,13 @@ do_south_slav_renames_in_europe = {
 				has_state_flag = renamed_state_serbian
 			}
 		}
-		set_state_name = "Banat"
+		set_state_name = "바나트"
 		set_state_flag = renamed_state_serbian
 		clr_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_german
 		set_province_name = {
 			id = 9606
-			name = "Temišvar"
+			name = "테미슈바르"
 		}
 	}
 	else_if = {
@@ -1230,11 +1230,11 @@ do_south_slav_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_italian
-		set_state_name = "Kranjska"
+		set_state_name = "크란스카"
 		set_state_flag = renamed_state_serbian
 		set_province_name = {
 			id = 9627
-			name = "Ljubljana"
+			name = "류블랴나"
 		}
 	}
 	else_if = {
@@ -1262,11 +1262,11 @@ do_south_slav_renames_in_europe = {
 				has_state_flag = renamed_state_serbian
 			}
 		}
-		set_state_name = "Makedonija"
+		set_state_name = "마케도니야"
 		set_state_flag = renamed_state_serbian
 		set_province_name = {
 			id = 3882
-			name = "Skoplje"
+			name = "스코플레"
 		}
 	}
 	else_if = {
@@ -1312,12 +1312,12 @@ do_south_slav_renames_in_europe = {
 				has_state_flag = renamed_state_serbian
 			}
 		}
-		set_state_name = "Belomorska Makedonija"
+		set_state_name = "벨로모르스카 마케도니야"
 		set_state_flag = renamed_state_serbian
 		clr_state_flag = renamed_state_greek
 		set_province_name = {
 			id = 9837
-			name = "Florina"
+			name = "플로리나"
 		}
 	}
 	else_if = {
@@ -1327,16 +1327,16 @@ do_south_slav_renames_in_europe = {
 				has_state_flag = renamed_state_serbian
 			}
 		}
-		set_state_name = "Primorje"
+		set_state_name = "프리모레"
 		set_state_flag = renamed_state_serbian
 		clr_state_flag = renamed_state_italian
 		set_province_name = {
 			id = 6626
-			name = "Trst"
+			name = "트르스트"
 		}
 		set_province_name = {
 			id = 11735
-			name = "Pula"
+			name = "풀라"
 		}
 	}
 	else_if = {
@@ -1371,7 +1371,7 @@ do_south_slav_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_greek
-		set_state_name = "Istocna Makedonija"
+		set_state_name = "이스토츠나 마케도니야"
 		set_state_flag = renamed_state_serbian
 		set_province_name = {
 			id = 9930
@@ -1385,13 +1385,13 @@ do_south_slav_renames_in_europe = {
 				has_state_flag = renamed_state_serbian
 			}
 		}
-		set_state_name = "Zapadni Banat"
+		set_state_name = "자파드니 바나트"
 		set_state_flag = renamed_state_serbian
 		clr_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_german
 		set_province_name = {
 			id = 11787
-			name = "Veliki Bečkerek"
+			name = "벨리키 베치케레크"
 		}
 	}
 	else_if = {
@@ -1418,15 +1418,15 @@ do_romanian_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_serbian
 		clr_state_flag = renamed_state_german
-		set_state_name = "Voivodina"
+		set_state_name = "보이보디나"
 		set_state_flag = renamed_state_romanian
 		set_province_name = {
 			id = 9621
-			name = "Subotica"
+			name = "수보티카"
 		}
 		set_province_name = {
 			id = 3617
-			name = "Novi Sad"
+			name = "노비 사드"
 		}
 	}
 	else_if = {
@@ -1441,11 +1441,11 @@ do_romanian_renames_in_europe = {
 		set_state_flag = renamed_state_romanian
 		set_province_name = {
 			id = 6711
-			name = "Cluj"
+			name = "클루지"
 		}
 		set_province_name = {
 			id = 3696
-			name = "Oradea"
+			name = "오라데아"
 		}
 	}
 	else_if = {
@@ -1455,11 +1455,11 @@ do_romanian_renames_in_europe = {
 				has_state_flag = renamed_state_romanian
 			}
 		}
-		set_state_name = "Cadrilater"
+		set_state_name = "카드릴라테르"
 		set_state_flag = renamed_state_romanian
 		set_province_name = {
 			id = 11597
-			name = "Bazargic"
+			name = "바자르지크"
 		}
 	}
 	else_if = {
@@ -1492,11 +1492,11 @@ do_romanian_renames_in_europe = {
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_ukrainian
-		set_state_name = "Cernauti"
+		set_state_name = "체르나우티"
 		set_state_flag = renamed_state_romanian
 		set_province_name = {
 			id = 9548
-			name = "Cernauti"
+			name = "체르나우티"
 		}
 	}
 	else_if = {
@@ -1508,11 +1508,11 @@ do_romanian_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_serbian
-		set_state_name = "Banat"
+		set_state_name = "바나트"
 		set_state_flag = renamed_state_romanian
 		set_province_name = {
 			id = 9606
-			name = "Timişoara"
+			name = "티미쇼아라"
 		}
 	}
 	else_if = {
@@ -1522,7 +1522,7 @@ do_romanian_renames_in_europe = {
 				has_state_flag = renamed_state_romanian
 			}
 		}
-		set_state_name = "Crisana"
+		set_state_name = "크리사나"
 		set_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_german
 	}
@@ -1533,16 +1533,16 @@ do_romanian_renames_in_europe = {
 				has_state_flag = renamed_state_romanian
 			}
 		}
-		set_state_name = "Transilvania"
+		set_state_name = "트란실바니아"
 		set_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_german
 		set_province_name = {
 			id = 690
-			name = "Braşov"
+			name = "브라쇼브"
 		}
 		set_province_name = {
 			id = 6679
-			name = "Sibiu"
+			name = "시비우"
 		}
 	}
 	else_if = {
@@ -1552,12 +1552,12 @@ do_romanian_renames_in_europe = {
 				has_state_flag = renamed_state_romanian
 			}
 		}
-		set_state_name = "Câmpie Ungara"
+		set_state_name = "큼피에 운가러"
 		clr_state_flag = renamed_state_german
 		set_state_flag = renamed_state_romanian
 		set_province_name = {
 			id = 11659
-			name = "Debreţin"
+			name = "데브레친"
 		}
 	}
 	else_if = {
@@ -1570,11 +1570,11 @@ do_romanian_renames_in_europe = {
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_ukrainian
-		set_state_name = "Suceava"
+		set_state_name = "수차바"
 		set_state_flag = renamed_state_romanian
 		set_province_name = {
 			id = 6761
-			name = "Suceava"
+			name = "수차바"
 		}
 	}
 	else_if = {
@@ -1584,11 +1584,11 @@ do_romanian_renames_in_europe = {
 				has_state_flag = renamed_state_romanian
 			}
 		}
-		set_state_name = "Dobrogea"
+		set_state_name = "도브로자"
 		set_state_flag = renamed_state_romanian
 		set_province_name = {
 			id = 9635
-			name = "Constanţa"
+			name = "콘스탄차"
 		}
 	}
 	else_if = {
@@ -1598,12 +1598,12 @@ do_romanian_renames_in_europe = {
 				has_state_flag = renamed_state_romanian
 			}
 		}
-		set_state_name = "Secuimea"
+		set_state_name = "세쿠이메아"
 		set_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_german
 		set_province_name = {
 			id = 9670
-			name = "Târgu Mureş"
+			name = "트르구 무레슈"
 		}
 	}
 	else_if = {
@@ -1613,13 +1613,13 @@ do_romanian_renames_in_europe = {
 				has_state_flag = renamed_state_romanian
 			}
 		}
-		set_state_name = "Vestic Banat"
+		set_state_name = "베스티크 바나트"
 		set_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_serbian
 		set_province_name = {
 			id = 11787
-			name = "Becicherecul Mare"
+			name = "베치케레쿠 마레"
 		}
 	}
 }
@@ -1690,11 +1690,11 @@ do_bulgarian_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_greek
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Odrin"
+		set_state_name = "오드린"
 		set_state_flag = renamed_state_bulgaria
 		set_province_name = {
 			id = 11842
-			name = "Odrin"
+			name = "오드린"
 		}
 	}
 	else_if = {
@@ -1705,7 +1705,7 @@ do_bulgarian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_greek
-		set_state_name = "Galipoli"
+		set_state_name = "갈리폴리"
 		set_state_flag = renamed_state_bulgaria
 	}
 	else_if = {
@@ -1730,11 +1730,11 @@ do_bulgarian_renames_in_europe = {
 				has_state_flag = renamed_state_bulgaria
 			}
 		}
-		set_state_name = "Nish"
+		set_state_name = "니시"
 		set_state_flag = renamed_state_bulgaria
 		set_province_name = {
 			id = 11887
-			name = "Nish"
+			name = "니시"
 		}
 	}
 	else_if = {
@@ -1771,11 +1771,11 @@ do_bulgarian_renames_in_europe = {
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_greek
 		clr_state_flag = renamed_state_turkish
-		set_state_name = "Tsarigrad"
+		set_state_name = "차리그라드"
 		set_state_flag = renamed_state_bulgaria
 		set_province_name = {
 			id = 9833
-			name = "Tsarigrad"
+			name = "차리그라드"
 		}
 	}
 	else_if = {
@@ -1796,11 +1796,11 @@ do_bulgarian_renames_in_europe = {
 				has_state_flag = renamed_state_bulgaria
 			}
 		}
-		set_state_name = "Solun"
+		set_state_name = "솔룬"
 		set_state_flag = renamed_state_bulgaria
 		set_province_name = {
 			id = 11818
-			name = "Solun"
+			name = "솔룬"
 		}
 	}
 	else_if = {
@@ -1810,7 +1810,7 @@ do_bulgarian_renames_in_europe = {
 				has_state_flag = renamed_state_bulgaria
 			}
 		}
-		set_state_name = "Veriya"
+		set_state_name = "베리야"
 		set_state_flag = renamed_state_bulgaria
 	}
 }
@@ -1824,11 +1824,11 @@ do_swedish_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Tavastland"
+		set_state_name = "타바스틀란드"
 		set_state_flag = renamed_state_swedish
 		set_province_name = {
 			id = 3137
-			name = "Tammerfors"
+			name = "탐메르포르스"
 		}
 	}
 	else_if = {
@@ -1850,7 +1850,7 @@ do_swedish_renames_in_europe = {
 				has_state_flag = renamed_state_swedish
 			}
 		}
-		set_state_name = "Åland"
+		set_state_name = "올란드"
 		set_state_flag = renamed_state_swedish
 	}
 	else_if = {
@@ -1861,11 +1861,11 @@ do_swedish_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Karelen"
+		set_state_name = "카렐렌"
 		set_state_flag = renamed_state_swedish
 		set_province_name = {
 			id = 9206
-			name = "Viborg"
+			name = "비보리"
 		}
 	}
 	else_if = {
@@ -1876,7 +1876,7 @@ do_swedish_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Salla"
+		set_state_name = "살라"
 		set_state_flag = renamed_state_swedish
 	}
 	else_if = {
@@ -1887,7 +1887,7 @@ do_swedish_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Finska Lapland"
+		set_state_name = "핀스카 라플란드"
 		set_state_flag = renamed_state_swedish
 	}
 	else_if = {
@@ -1898,15 +1898,15 @@ do_swedish_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Österbotten"
+		set_state_name = "외스테르보텐"
 		set_state_flag = renamed_state_swedish
 		set_province_name = {
 			id = 11121
-			name = "Uleåborg"
+			name = "울레오보리"
 		}
 		set_province_name = {
 			id = 3122
-			name = "Vasa"
+			name = "바사"
 		}
 	}
 	else_if = {
@@ -1917,7 +1917,7 @@ do_swedish_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Kajanaland"
+		set_state_name = "카야날란드"
 		set_state_flag = renamed_state_swedish
 	}
 	else_if = {
@@ -1936,11 +1936,11 @@ do_swedish_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Nyland"
+		set_state_name = "뉠란드"
 		set_state_flag = renamed_state_swedish
 		set_province_name = {
 			id = 11105
-			name = "Helsingfors"
+			name = "헬싱포르스"
 		}
 	}
 	else_if = {
@@ -1951,7 +1951,7 @@ do_swedish_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Enare"
+		set_state_name = "에나레"
 		set_state_flag = renamed_state_swedish
 	}
 	else_if = {
@@ -1962,11 +1962,11 @@ do_swedish_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Egentliga Finland"
+		set_state_name = "에겐틀리가 핀란드"
 		set_state_flag = renamed_state_swedish
 		set_province_name = {
 			id = 3083
-			name = "Åbo"
+			name = "오보"
 		}
 	}
 	else_if = {
@@ -1977,11 +1977,11 @@ do_swedish_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Savolax"
+		set_state_name = "사볼락스"
 		set_state_flag = renamed_state_swedish
 		set_province_name = {
 			id = 11141
-			name = "Sankt Michel"
+			name = "상트 미셸"
 		}
 	}
 	else_if = {
@@ -1992,11 +1992,11 @@ do_swedish_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Västra Karelen"
+		set_state_name = "베스트라 카렐렌"
 		set_state_flag = renamed_state_swedish
 		set_province_name = {
 			id = 6082
-			name = "Villmanstrand"
+			name = "빌만스트란드"
 		}
 	}
 	else_if = {
@@ -2033,7 +2033,7 @@ do_norwegian_renames_in_europe = {
 				has_state_flag = renamed_state_norwegian
 			}
 		}
-		set_state_name = "Jemtland"
+		set_state_name = "옘틀란"
 		set_state_flag = renamed_state_norwegian
 	}
 	else_if = {
@@ -2043,7 +2043,7 @@ do_norwegian_renames_in_europe = {
 				has_state_flag = renamed_state_norwegian
 			}
 		}
-		set_state_name = "Båhuslen"
+		set_state_name = "보후슬렌"
 		set_state_flag = renamed_state_norwegian
 	}
 	else_if = {
@@ -2219,11 +2219,11 @@ do_finnish_renames_in_europe = {
 				has_state_flag = renamed_state_finnish
 			}
 		}
-		set_state_name = "Kuola"
+		set_state_name = "쿠올라"
 		set_state_flag = renamed_state_finnish
 		set_province_name = {
 			id = 3134
-			name = "Muurmanni"
+			name = "무르만니"
 		}
 	}
 	else_if = {
@@ -2233,11 +2233,11 @@ do_finnish_renames_in_europe = {
 				has_state_flag = renamed_state_finnish
 			}
 		}
-		set_state_name = "Vienan Karjala"
+		set_state_name = "비에난 카리알라"
 		set_state_flag = renamed_state_finnish
 		set_province_name = {
 			id = 9195
-			name = "Vienanlinna"
+			name = "비에난린나"
 		}
 	}
 	else_if = {
@@ -2247,11 +2247,11 @@ do_finnish_renames_in_europe = {
 				has_state_flag = renamed_state_finnish
 			}
 		}
-		set_state_name = "Aunuksen Karjala"
+		set_state_name = "아우눅센 카리알라"
 		set_state_flag = renamed_state_finnish
 		set_province_name = {
 			id = 11159
-			name = "Äänislinna"
+			name = "애니슬린나"
 		}
 	}
 	else_if = {
@@ -2351,7 +2351,7 @@ do_finnish_renames_in_europe = {
 				has_state_flag = renamed_state_finnish
 			}
 		}
-		set_state_name = "Tornionlaakso"
+		set_state_name = "토르니온락소"
 		set_state_flag = renamed_state_finnish
 	}
 	else_if = {
@@ -2361,7 +2361,7 @@ do_finnish_renames_in_europe = {
 				has_state_flag = renamed_state_finnish
 			}
 		}
-		set_state_name = "Vesisaari"
+		set_state_name = "베시사리"
 		set_state_flag = renamed_state_finnish
 	}
 	else_if = {
@@ -2371,7 +2371,7 @@ do_finnish_renames_in_europe = {
 				has_state_flag = renamed_state_finnish
 			}
 		}
-		set_state_name = "Koutokeino"
+		set_state_name = "코우토케이노"
 		set_state_flag = renamed_state_finnish
 	}
 	else_if = {
@@ -2381,7 +2381,7 @@ do_finnish_renames_in_europe = {
 				has_state_flag = renamed_state_finnish
 			}
 		}
-		set_state_name = "Kiiruna"
+		set_state_name = "키루나"
 		set_state_flag = renamed_state_finnish
 	}
 }
@@ -2406,11 +2406,11 @@ do_danish_renames_in_europe = {
 				has_state_flag = renamed_state_danish
 			}
 		}
-		set_state_name = "Skånelandene"
+		set_state_name = "스코넬라네"
 		set_state_flag = renamed_state_danish
 		set_province_name = {
 			id = 9279
-			name = "Malmø"
+			name = "말뫼"
 		}
 	}
 	else_if = {
@@ -2420,7 +2420,7 @@ do_danish_renames_in_europe = {
 				has_state_flag = renamed_state_norwegian
 			}
 		}
-		set_state_name = "Jemtland"
+		set_state_name = "옘틀란"
 		set_state_flag = renamed_state_norwegian
 	}
 	else_if = {
@@ -2430,7 +2430,7 @@ do_danish_renames_in_europe = {
 				has_state_flag = renamed_state_norwegian
 			}
 		}
-		set_state_name = "Båhuslen"
+		set_state_name = "보후슬렌"
 		set_state_flag = renamed_state_norwegian
 	}
 	else_if = {
@@ -2441,10 +2441,10 @@ do_danish_renames_in_europe = {
 			}
 		}
 		set_state_flag = renamed_state_danish
-		set_state_name = "Nordslesvig"
+		set_state_name = "노르슬레스비"
 		set_province_name = {
 			id = 11366
-			name = "Flensborg"
+			name = "플렌스보르"
 		}
 	}
 }
@@ -2505,11 +2505,11 @@ do_albanian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_serbian
-		set_state_name = "Maqedonia"
+		set_state_name = "마체도니아"
 		set_state_flag = renamed_state_albanian
 		set_province_name = {
 			id = 3882
-			name = "Shkup"
+			name = "슈쿠프"
 		}
 	}
 	else_if = {
@@ -2519,11 +2519,11 @@ do_albanian_renames_in_europe = {
 				has_state_flag = renamed_state_albanian
 			}
 		}
-		set_state_name = "Çamëria"
+		set_state_name = "차머리아"
 		set_state_flag = renamed_state_albanian
 		set_province_name = {
 			id = 9916
-			name = "Arta"
+			name = "아르타"
 		}
 	}
 	else_if = {
@@ -2533,11 +2533,11 @@ do_albanian_renames_in_europe = {
 				has_state_flag = renamed_state_albanian
 			}
 		}
-		set_state_name = "Kosova"
+		set_state_name = "코소바"
 		set_state_flag = renamed_state_albanian
 		set_province_name = {
 			id = 9874
-			name = "Prishtina"
+			name = "프리슈티나"
 		}
 	}
 	else_if = {
@@ -2574,7 +2574,7 @@ do_serbian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_hungarian
-		set_state_name = "Srem"
+		set_state_name = "스렘"
 		set_state_flag = renamed_state_serbian
 	}
 	else_if = {
@@ -2587,7 +2587,7 @@ do_serbian_renames_in_europe = {
 		clr_state_flag = renamed_state_serbian
 		set_province_name = {
 			id = 13560
-			name = "Vranje"
+			name = "브라네"
 		}
 	}
 }
