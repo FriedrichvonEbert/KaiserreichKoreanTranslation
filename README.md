@@ -1,7 +1,7 @@
 # 단어사전을 보시고 수정 부탁드립니다.
 # 20.05.16 기준 0.12 호환작업 완료
 # [0.12 패치노트](https://www.reddit.com/r/Kaiserreich/comments/ghrzdc/kaiserreich_beta_012_stay_at_home_is_out/)
-# [Kaiserreich 한국어 번역](https://steamcommunity.com/sharedfiles/filedetails/?id=1972234971)은 공개 번역으로써 누구든지 참여하실 수 있습니다.
+# [Kaiserreich 한국어 번역](https://steamcommunity.com/sharedfiles/filedetails/?id=2098453801)은 공개 번역으로써 누구든지 참여하실 수 있습니다.
 # 이미 [Pull requests](https://github.com/FriedrichvonEbert/KaiserreichKoreanTranslation/pulls)를 하셨다면 아무리 여러개를 하셔도 가장 최근에 수락된 것만 적용됩니다. 부디 이미 request하신건 하지 말아 주시기 바랍니다. (수락 이전까지 다른 국가를 해주세요.)
 
 # [번역 방법](https://github.com/skullbe/Kaiserreich-Korean-Translation/wiki/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%A0%80%EC%9E%A5%EB%B2%95)
