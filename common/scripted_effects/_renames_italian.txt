@@ -12,7 +12,7 @@ do_italian_renames_in_europe = {
 			id = 3838
 			name = endo_vp_3838_italian
 		}
-		
+
 	}
 	else_if = {
 		limit = {
@@ -21,11 +21,11 @@ do_italian_renames_in_europe = {
 				has_state_flag = renamed_state_italian
 			}
 		}
-		set_state_name = "Alto Adige"
+		set_state_name = "알토 아디제"
 		set_state_flag = renamed_state_italian
 		set_province_name = {
 			id = 6675
-			name = "Bolzano"
+			name = "볼차노"
 		}
 	}
 	else_if = {
@@ -36,11 +36,11 @@ do_italian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_serbian
-		set_state_name = "Carniola"
+		set_state_name = "카르니올라"
 		set_state_flag = renamed_state_italian
 		set_province_name = {
 			id = 9627
-			name = "Lubiana"
+			name = "루비아나"
 		}
 	}
 	else_if = {
@@ -52,11 +52,11 @@ do_italian_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_hungarian
-		set_state_name = "Licca"
+		set_state_name = "리카"
 		set_state_flag = renamed_state_italian
 		set_province_name = {
 			id = 11564
-			name = "Fiume"
+			name = "피우메"
 		}
 	}
 	else_if = {
@@ -69,7 +69,7 @@ do_italian_renames_in_europe = {
 		set_state_flag = renamed_state_italian
 		set_province_name = {
 			id = 12003
-			name = "La Valletta"
+			name = "라 발레타"
 		}
 	}
 	else_if = {
@@ -79,11 +79,11 @@ do_italian_renames_in_europe = {
 				has_state_flag = renamed_state_italian
 			}
 		}
-		set_state_name = "Dalmazia"
+		set_state_name = "달마치아"
 		set_state_flag = renamed_state_italian
 		set_province_name = {
 			id = 3924
-			name = "Spalato"
+			name = "스팔라토"
 		}
 	}
 	else_if = {
@@ -94,7 +94,7 @@ do_italian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_occitan
-		set_state_name = "Savoia"
+		set_state_name = "사보이아"
 		set_state_flag = renamed_state_italian
 	}
 	else_if = {
@@ -104,12 +104,12 @@ do_italian_renames_in_europe = {
 				has_state_flag = renamed_state_italian
 			}
 		}
-		set_state_name = "Pola"
+		set_state_name = "폴라"
 		set_state_flag = renamed_state_italian
 		clr_state_flag = renamed_state_serbian
 		set_province_name = {
 			id = 6626
-			name = "Trieste"
+			name = "트리에스테"
 		}
 		set_province_name = {
 			id = 11735
@@ -140,11 +140,11 @@ do_italian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_occitan
-		set_state_name = "Nizza"
+		set_state_name = "니차"
 		set_state_flag = renamed_state_italian
 		set_province_name = {
 			id = 9909
-			name = "Nizza"
+			name = "니차"
 		}
 	}
 	else_if = {
@@ -154,11 +154,11 @@ do_italian_renames_in_europe = {
 				has_state_flag = renamed_state_italian
 			}
 		}
-		set_state_name = "Trentino"
+		set_state_name = "트렌티노"
 		set_state_flag = renamed_state_italian
 		set_province_name = {
 			id = 9598
-			name = "Trento"
+			name = "트렌토"
 		}
 	}
 	else_if = {
@@ -169,11 +169,11 @@ do_italian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_occitan
-		set_state_name = "Alta Savoia"
+		set_state_name = "알타 사보이아"
 		set_state_flag = renamed_state_italian
 		set_province_name = {
 			id = 778
-			name = "Ennèsia"
+			name = "엔네시아"
 		}
 	}
 }
