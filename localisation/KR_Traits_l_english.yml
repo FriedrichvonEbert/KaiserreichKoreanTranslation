@@ -2,17 +2,17 @@
 
 ### From DH ###
 undistinguished_suit:0 "특별한 것 없는 중역"
-grand_protector:0 "위대한 수호자"
+grand_protector:0 "대호국경"
 paranoid_francophobe:0 "편집증적인 프랑스 혐오자"
 
-TAN_first_reformer:0 "초대 개혁가\n§gNasīr is seen as the first real political reformer in the Kumul Khanate following the rule of the autocratic Masqud Shah. While he is not willing to give up his power completely, he is interested in increasing the duties of both his advisors and the Begs to reduce the reliance on himself.§!"
-TAN_first_reformer2:0 "초대 개혁가\n§gNasīr is seen as the first real political reformer in the Kumul Khanate following the rule of the autocratic Masqud Shah. While he is not willing to give up his power completely, he is interested in increasing the duties of both his advisors and the Begs to reduce the reliance on himself.§!"
-TAN_first_reformer3:0 "초대 개혁가\n§gNasīr is seen as the first real political reformer in the Kumul Khanate following the rule of the autocratic Masqud Shah. While he is not willing to give up his power completely, he is interested in increasing the duties of both his advisors and the Begs to reduce the reliance on himself.§!"
-TAN_first_reformer4:0 "초대 개혁가\n§gNasīr is seen as the first real political reformer in the Kumul Khanate following the rule of the autocratic Masqud Shah. While he is not willing to give up his power completely, he is interested in increasing the duties of both his advisors and the Begs to reduce the reliance on himself.§!"
+TAN_first_reformer:0 "초대 개혁가\n§g전제적인 마스쿠드 샤의 뒤를 이은 나스르는 쿠물 칸국 최초의 진정한 정치 개혁가로 여겨집니다. 그의 권력을 완전히 포기할 의향은 없지만 자신에 대한 의존을 줄이기 위해 그의 조언가들과 베그의 직무를 증가시키는 데에는 관심이 있습니다.§!"
+TAN_first_reformer2:0 "초대 개혁가\n§g전제적인 마스쿠드 샤의 뒤를 이은 나스르는 쿠물 칸국 최초의 진정한 정치 개혁가로 여겨집니다. 그의 권력을 완전히 포기할 의향은 없지만 자신에 대한 의존을 줄이기 위해 그의 조언가들과 베그의 직무를 증가시키는 데에는 관심이 있습니다.§!"
+TAN_first_reformer3:0 "초대 개혁가\n§g전제적인 마스쿠드 샤의 뒤를 이은 나스르는 쿠물 칸국 최초의 진정한 정치 개혁가로 여겨집니다. 그의 권력을 완전히 포기할 의향은 없지만 자신에 대한 의존을 줄이기 위해 그의 조언가들과 베그의 직무를 증가시키는 데에는 관심이 있습니다.§!"
+TAN_first_reformer4:0 "초대 개혁가\n§g전제적인 마스쿠드 샤의 뒤를 이은 나스르는 쿠물 칸국 최초의 진정한 정치 개혁가로 여겨집니다. 그의 권력을 완전히 포기할 의향은 없지만 자신에 대한 의존을 줄이기 위해 그의 조언가들과 베그의 직무를 증가시키는 데에는 관심이 있습니다.§!"
 XSM_hero_northwest:0 "북서부의 영웅"
 XSM_fundementalist:0 "원리주의자"
 XSM_modernist:0 "근대주의자"
-SIK_panicked_isolationism:0 "Panicked Isolationism\n§gEver since the Northern Expedition and proceeding German intervention, Yang Zengxin has been highly panicked and sickly with his old age. Spending most of his time hidden inside his home, he is hardly ever heading out due to fear of assassination or catching his last fateful disease. On top of remaining completely politically isolated within China, people don't know how much longer he will last in his current state, but he is certainly not in stable condition.§!"
+SIK_panicked_isolationism:0 "공포에 질린 고립주의자\n§g북벌과 뒤이은 독일의 개입 이래로 양쩡신은 매우 공포에 질렸고 고령으로 골골대고있습니다. 그는 대부분의 시간을 집 안에 숨어서 보내고 암살과 끔찍한 질병에 걸리는 것에 대한 두려움과 거의 밖으로 나오지 않습니다. 그는 중국에서 정치적으로 거의 완전히 고립되어 있고 사람들은 그가 현 상태를 얼마나 오래 유지할지를 알지는 못하지만 현재 안정적인 상황이 아니라는 것은 확실합니다.§!"
 MON_the_mad_baron:0 "미친 남작"
 MON_princes_puppet:0 "군주의 허수아비"
 MON_buddhist_figurehead:0 "불교 얼굴마담"
@@ -44,11 +44,11 @@ hog_the_new_administrator:0 "신임 행정관"
 hog_the_peasant_marshal:0 "농민 원수"
 hog_the_tiger:0 "호랑이"
 hog_the_vozhd:0 "보즈드"
-hog_totalist_chairman:0 "전체주의 주석"
+hog_totalist_chairman:0 "전체주의 의장"
 hog_gentleman_politician:0 "신사 정치인"
 hog_supreme_ruler:0 "최고통치자"
 hog_the_grand_old_man:0 "위대한 노장"
-hog_hooded_chairman:0 "정체불명 주석"
+hog_hooded_chairman:0 "복면을 쓴 의장"
 
 ### Economy Minister ###
 eco_administrative_genius:0 "행정의 천재"
@@ -120,11 +120,11 @@ int_o:0 "\"O\""
 int_fortune_teller:0 "점쟁이"
 
 ### Knight-Captain of the Livonian Knighthood (BAT) ###
-kcap_white_knight:0 "The White Knight"
+kcap_white_knight:0 "백기사"
 
 ### Land Marshal of the Landtag (BAT) ###
-lama_natural_philosopher:0 "Natural Philosopher"
-lama_reactionary_erudite:0 "Reactionary Erudite"
+lama_natural_philosopher:0 "천부적인 철학자"
+lama_reactionary_erudite:0 "반동적인 학자"
 
 ### Leader of the British Exiles (CAN) ###
 lobe_disgraced_statesman:0 "실각한 정치인"
@@ -149,8 +149,8 @@ carm_armoured_spearhead_doctrine:0 "기갑 돌파 교리"
 carm_guns_and_butter_doctrine:0 "군사 민생 양립 교리"
 carm_commando_doctrine:0 "특공대 교리"
 carm_doctrine_of_autonomy:0 "자율성 교리"
-carm_jade_marshal:0 "Jade Marshal"
-carm_jade_marshal_desc:0 "Widely recognized as China’s foremost tactician, and among its most daring strategists, Wu Peifu’s fearsome reputation precedes him. Unlike many of his fellow generals whose achievements might end at military matters, Wu is also renowned as a Confucian man of principles; an esteemed philosopher-general bridging the traditional divide between soldier and scholar. It is this gravitas that binds the empire together, and grants him far-reaching influence outside the official political system."
+carm_jade_marshal:0 "옥수(비취의 장군)"
+carm_jade_marshal_desc:0 "중국에서 가장 뛰어난 전술가이자 가장 대담한 전략가로 널리 인정받는 우페이푸는 그 명성이 자자합니다. 그 업적이 군사적인 부문에서만 머무는 그의 동료 장군들 대다수와는 달리 우페이푸는 절조있는 유학자로도 이름이 높아 문무의 구분을 넘나드는 철학자이자 장군으로 찬탄받습니다. 제국을 하나로 묶는 것도, 공식적인 정치 권력 없이도 원대한 영향력을 부여하는 것도 그의 이런 진중함 때문입니다."
 
 
 ### Chief of Navy Minister ###
@@ -171,15 +171,15 @@ cair_the_red_baron:0 "붉은 남작"
 
 ### Unit Leader Traits ###
 artillery_officer:0 "포병"
-artillery_officer_desc:0 "포병으로 훈련되었습니다."
+artillery_officer_desc:0 "포병 장교로 훈련되었습니다."
 artillery_specialist:0 "포병 전문가"
-artillery_specialist_desc:1 "포병을 지시하는 즉시 기술을 익혔습니다."
+artillery_specialist_desc:1 " 전투에서 포병을 지휘하는 기술이 있습니다."
 artillery_expert:0 "포병 숙련가"
-artillery_expert_desc:1 "포병을 지시하는 진정한 전문가입니다."
+artillery_expert_desc:1 "포병 지휘의 진정한 전문가입니다."
 artillery_ratio_over_30:1 "포병 비율 > §H30%§!"
-GXC_guangdong_clique_officer:0 "광도군벌 장교"
-GXC_guangdong_clique_officer_desc:0 "This officer is either native to Guangdong Province or aligned with its leader."
+GXC_guangdong_clique_officer:0 "광동군벌 장교"
+GXC_guangdong_clique_officer_desc:0 "이 장교는 광둥성 출신이거나 그 지도자와 동맹하고 있습니다."
 GXC_guangxi_clique_officer:0 "광서군벌 장교"
-GXC_guangxi_clique_officer_desc:0 "This officer is either native to Guangxi Province or aligned with its leader."
+GXC_guangxi_clique_officer_desc:0 "이 장교는 광시성 출신이거나 그 지도자와 동맹하고 있습니다."
 four_musketeers:0 "사총사"
 four_musketeers_desc:0 "현대 시암 참모장의 '백골'로 간주됩니다."
