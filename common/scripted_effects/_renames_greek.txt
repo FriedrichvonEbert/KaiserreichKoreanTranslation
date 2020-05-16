@@ -240,7 +240,7 @@ do_greek_renames_in_middle_east = {
 		}
 		set_province_name = {
 			id = 11881
-			name = "삼프순"
+			name = "삼프순타"
 		}
 	}
 }
