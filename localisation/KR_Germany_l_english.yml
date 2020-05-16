@@ -230,7 +230,7 @@ GER_angry_ukraine:0 "§R이는 우크라이나와의 관계를 해칠 것이며 
 GER_angry_socialists:0 "§G그들은 우리 군대의 일부가 될 것입니다.§!"
 GERfor.25_tooltip:0 "우리는 분쟁에 도움이 될 몇몇 사단을 양성할 것입니다."
 GER_reichstag_in_progress_tooltip:0 "우리는 정책이 실행되는 동안 다른 정책에 대한 토론을 시작할 수 없습니다."
-german_investments_flock_in_aze:0 "Investors will increasingly flock to Azerbaijan."
+german_investments_flock_in_aze:0 "투자자들은 점점 아제르바이잔으로 몰려들 것입니다."
 GER_frapartwll_tt:0 "왈로니아 민병대 사단이 형성될 것입니다."
 GER_frapartals_tt:0 "두 개의 알자스 민병대 사단이 형성될 것입니다."
 GER_ruswar_tt:0 "11개의 새로운 예비 사단이 추가될 것입니다."
@@ -238,10 +238,10 @@ GER_cannot_join_ally_war:0 "이 전쟁에 참전할 수 없습니다"
 GER_colonial_resources_distribution_full_tt:0 "§R8§!개의 민간공장이 §R365§!일 동안 식민지들의 요구에 맞추기 위해 사용될 것입니다.\n"
 GER_colonial_resources_distribution_partly_tt:0 "§R5§!개의 민간공장이 §R260§!일 동안 식민지들의 요구에 맞추기 위해 사용될 것입니다.\n"
 GER_agricultural_mitteleuropa_help_tt:0 "§R나라가 결딴나고 있습니다.§!\n"
-GER_csavol_tt:0 "Two volunteer divisions will arrive in Detroit."
-GER_received_equipment_10000:0 "We will receive 10000 units of infantry equipment."
+GER_csavol_tt:0 "2개의 자원병 사단이 디트로이트에 도착할 것입니다."
+GER_received_equipment_10000:0 "우리는 10000개의 보병 장비를 받을 것입니다."
 GER_OTT_victory:0 "The Axis has capitulated."
-GER_cannot_join_until_WK:0 "§R[From.GetName] cannot join the [ROOT.GetFactionName] before the Weltkrieg.§!"
+GER_cannot_join_until_WK:0 "§R[From.GetName]은 세계대전이 일어나기 전에는 [ROOT.GetFactionName]에 참가할 수 없습니다§!"
 
 ### Opinion Modifiers ###
 sri_lanka:0 "제국주의 괴짜"
@@ -276,7 +276,7 @@ financial_help_satisfactionary:0 "도움에 만족"
 GER_raised_tarrifs:0 "관세 인상"
 Ostraum_more_liberties:0 "허가된 자유"
 Ostraum_denied_liberties:0 "허가된 자유"
-ott_ger_statusquo:0 "Upheld the status-quo in the Middle-East"
+ott_ger_statusquo:0 "중동의 현 상태를 유지합니다"
 
 ### Parties ###
 GER_totalist_party:0 "적군 민병대"
@@ -312,7 +312,7 @@ french_occupation_decisions:0 "프랑스 점령"
 french_occupation_decisions_desc:0 "[FRA.GetNameDef] 영토 내에서 저항이 계속되고 있습니다. 제3인터내셔널 전체를 물리치는 것이 아니라 프랑스의 저항세력들이 완전히 항복할 정도로 코뮌 망명 정부의 정통성을 잠식하는 것이 가능할지도 모릅니다. \n\n[FRA.GetNameDef]의 현재 §Y정통성§!: §R[?FRA.legitimacy|-0]§!\n"
 GER_erode_cof_legitimacy:0 "코뮌 정통성을 잠식"
 GER_erode_cof_legitimacy_desc:0 "우리의 노력은 프랑스 국민들에게 코뮌 정부가 진정한 압제자일 뿐만 아니라 항상 불법적이었다는 것을 확신시키는 것이어야 합니다. 생디칼리슴에 대항해 싸우겠다는 그들의 의지가 무너지면 우리 점령에 대한 반대는 거의 없을 것입니다."
-GER_invite_nfa_to_france:0 "Invite [NFA.GetNameDef] Back to France"
+GER_invite_nfa_to_france:0 "[NFA.GetNameDef]를 프랑스 본토로 불러들이자"
 GER_invite_nfa_to_france_desc:0 "[NFA.GetNameDefCap] has far more ability than we do to erode [FRA.GetNameDef]'s legitimacy... but only if they hold enough territory in continental France to claim some kind of victory. Currently that isn't the case. In order to expedite the progress of defeating the French resistance, perhaps it's worth considering whether we could turn over some of our occupied territory to them in the south? At the very least, it would establish some gratitude on their part."
 
 GER_black_monday_decisions:0 "검은 월요일 사태"
@@ -726,8 +726,8 @@ GER_economy_desc:0 "현재 경제는 매우 좋습니다. 산업은 활기를 �
 GER_research_expansion:0 "추가 연구 기금"
 GER_research_expansion_desc:0 "군사 및 민간 문제 해결을 위해 과학 기술에 투자한다. 그거 엄청 좋은 거 아닌가요? 아무 말도 하지 않았지만, 어쨌든 정말 좋은 것 같습니다. 아무튼, 실험실은 저쪽에 있습니다..."
 
-GER_ig_farben:0 "Embrace Synthetic Rubber"
-GER_ig_farben_desc:0 "With increasing demand of rubber skyrocketing prices, we should remind the world that the first synthetic rubber was created in the Bayer laboratories in Elberfield, and as such we can employ the minds of our chemists to further refine the methods of creating it, to augment our sources of natural rubber."
+GER_ig_farben:0 "합성 고무 도입"
+GER_ig_farben_desc:0 "고무 수요의 증가로 가격이 치솟음에 따라, 우리는 엘버펠트의 바이엘 연구실에서 합성 고무를 최초로 만들어 냈다는 것을 세계에 알려야 합니다. 그리고 우리는 화학자들을 고용해서 고무 제작 방법을 더욱 정교하게 발전시키고 천연 고무 원료를 증가시켜야 합니다."
 
 GER_krupp_focus:0 "크루프 AG 독점"
 GER_krupp_focus_desc:0 "크루프 가문은 약 400년이 된 독일의 산업가 가문으로, 30년 전쟁 때부터 독일의 군수 산업을 떠받쳐왔습니다! 그들의 재능은 세계대전이 새로 벌어지면 필요할 것이기 때문에, 우리는 이제 그들을 다시 채용해야 합니다."
@@ -943,9 +943,9 @@ GER_ostwall_desc:0 "우리 동부 동맹국은 러시아 곰들의 침략에 극
 GER_poland_war:0 "송환 명령"
 GER_poland_war_desc:0 "폴란드는 유럽에서 외교적으로 너무 오랫동안 이상했습니다. 세계대전이 끝난 이래로 폴란드는 독일과 오스트리아 세력 사이 정치적 공백에 갇힌 상태였습니다. 이제는 적절한 독일의 체제가 폴란드에 돌아 올 때가 되었습니다. 강력한 외교적 노력이나 무력으로 폴란드는 원래 속해있던 독일의 영토로 돌아 올 것입니다."
 
-poland_refused_demands:0 "The border strip was not ceded"
-GER_poland_hostile_tooltip:0 "§Y[POL.GetName]§! has a hostile government"
-GER_poland_hostile_tooltip_NOT:0 "§Y[POL.GetName]§! does §Rnot§! have a hostile government"
+poland_refused_demands:0 "국경지대가 할양되지 않았습니다"
+GER_poland_hostile_tooltip:0 "§Y[POL.GetName]§!에 적대적인 정부가 들어섰습니다"
+GER_poland_hostile_tooltip_NOT:0 "§Y[POL.GetName]§! 에 적대적인 정부가 들어서지 §R않았습니다§!"
 
 GER_poland_alliance:0 "폴란드와 유대 강화"
 GER_poland_alliance_desc:0 "폴란드와의 외교 관계를 개선하려는 초기의 노력은 어느 정도 성공을 거두었습니다. 폴란드도 과거의 분쟁을 해결하고 지난 20년간의 정치적 교착 상태를 깨기를 바라고 있는 듯 합니다. 폴란드에 적절한 외교 사절을 보내면 상호 관계를 고취되고 폴란드가 결국에는 우리 영향권으로 들어올 수 있는 토대가 마련될 것입니다."
@@ -999,13 +999,13 @@ GER_oil_gulf_safe:0 "안전 공갈"
 GER_oil_gulf_safe_desc:0 "카이로와 오스만 제국이 사소한 분쟁을 벌이는 동안, 제국은 석유에 굶주리고 있습니다. 우리가 약속했던 것을 얻는 것은 중요합니다."
 
 GER_oil_romania:0 "루마니아산 석유"
-GER_oil_romania_desc:0 "Romania has historically been a large exporter of oil. Indeed, the occupied oil fields of Wallachia were critical to success in the Weltkrieg. Though the Romanians have been unruly, circumstance requires that we bring their oil back under our control by whatever means necessary."
+GER_oil_romania_desc:0 "루마니아는 역사적으로 석유를 대량으로 수출해 왔습니다. 사실, 왈라키아의 점령된 유전들은 세계대전의 승리에 결정적인 역할을 했습니다. 비록 루마니아인들이 제멋대로이긴 했지만, 어떠한 수단을 써서라도 우리는 그곳의 석유를 다시 손에 넣어야 합니다."
 
 GER_oil_romania_war:0 "군단병 유도"
-GER_oil_romania_war_desc:0 "The Romanians have refused to work with us on the oil issue. As no other solution has presented itself, we must force them to comply."
+GER_oil_romania_war_desc:0 "루마니아인들은 석유 문제에 대해 논의하는 것을 거절했습니다. 다른 해결책은 없고, 우리는 그들이 따르도록 강요해야 합니다."
 
 GER_oil_romania_alliance:0 "군단병 종결"
-GER_oil_romania_alliance_desc:0 "Civil war rages in Romania. We can offer to intervene on the monarchist side in exchange for oil and their admission to the Reichspakt."
+GER_oil_romania_alliance_desc:0 "내전이 루마니아를 덮쳤습니다. 우리는 군주주의자 편에 개입하고 대신 석유와 라이히스팍트 가입을 대가로 얻어낼 수도 있습니다."
 
 GER_oil_bad_romania_alliance:0 "철위대 지원"
 GER_oil_bad_romania_alliance_desc:0 "철위대는 자신들을 합법적인 루마니아 세력으로 인정해 달라고 우리에게 로비를 했습니다. 그들은 혐오스럽지만, 우리는 그들의 관리 하에 석유를 계속 공급받을 수 있습니다."
@@ -1697,7 +1697,7 @@ gerfor.49.d:0 "불운하게도 우리의 지원을 수용할 아일랜드의 의
 gerfor.49.a:0 "없는 것보다 낫지."
 
 gerfor.50.t:0 "[ENG.GetNameDef](와)과 휴전?"
-gerfor.50.d:0 "[GER.GetNameDefCap] has negotiated a Second Peace with Honour with [ENG.GetNameDef], since it's clear the [ENG.GetAdjective] have lost their will to carry on the war. This might be a chance for us to end our war with them, as well. Should we take advantage of the opportunity, or continue the battle?"
+gerfor.50.d:0 "[ENG.GetAdjective]의 전쟁 의지가 떨어짐에 따라, [GER.GetNameDefCap]은 [ENG.GetNameDef]와 두번째 명예로운 평화 협상을 시작했습니다. 이는 그들과의 전쟁을 끝낼 기회입니다. 이 기회를 활용해야 할까요? 아니면 전투를 계속해야 할까요?"
 gerfor.50.a:0 "이 전쟁을 끝내자"
 gerfor.50.b:0 "아니다, 전쟁을 계속한다!"
 
@@ -2304,15 +2304,15 @@ gerfor.187.t:0 "포위당한 제국"
 gerfor.187.d:0 "세계대전 이후, 러시아는 큰 모욕을 당하고 영토를 잃어버렸습니다. 늦게까지 팽창주의 의제에도 불구하고, 독일 내의 대부분의 정책 전문가들은 이반이 결코 우리의 힘에 도전하지 않을 것이라는 데 동의했습니다--이는 오늘 동방에서 들려온 공식적인 선전포고 때문에 끔찍하게 틀린 것으로 판명되었습니다. 러시아군이 국경을 넘어 전면적인 공세를 가하고 있다는 보고가 들어왔습니다. 우리가 코뮌주의자들과의 전쟁 준비가 되었는지 논쟁의 여지가 있습니다..."
 gerfor.187.a:0 "하지만 우리는 버텨낼 것이다."
 
-gerfor.188.t:0 "An Invitation to the Reichspakt"
-gerfor.188.d:0 "Building upon their previous showings of goodwill and the signing of a pact of non-aggression between our two countries, Germany today has offered us an official invitation into the Reichspakt, Germany's economic and military alliance. Joining would bring great benefits to our nation, but put us under strong German influence and risks war with Russia. How should we respond to the invitation?"
-gerfor.188.a:0 "We graciously accept."
-gerfor.188.b:0 "We must decline."
+gerfor.188.t:0 "라이히스팍트로의 초대"
+gerfor.188.d:0 "지금까지의 우호 증진 활동과 양국간의 불가침 조약 체결을 바탕으로 독일은 오늘 독일의 경제 군사 동맹인 라이히스팍트에 대한 공식 초청을 했습니다. 가입하는 것은 우리나라에 큰 이익을 가져다 줄 것이지만, 강력한 독일의 영향력과 러시아와의 전쟁 위험에 처하게 될 것입니다. 초대에 어떻게 응답해야 할까요?"
+gerfor.188.a:0 "받아들이자."
+gerfor.188.b:0 "거절하자."
 
-gerfor.189.t:0 "[From.GetNameDefCap] Refuses"
-gerfor.189.d:0 "While German diplomatic envous spent days in the [From.GetAdjective] capital, attempting to convince [From.GetAdjective] officials of our good intentions, they have rebuffed any intentions to warm the relations between [GER.GetNameDef] and [From.GetNameDef]."
-gerfor.189.a:0 "We will control [From.GetNameDefCap], one war or another."
-gerfor.189.b:0 "We can do nothing."
+gerfor.189.t:0 "[From.GetNameDefCap]이 거절하다"
+gerfor.189.d:0 "독일 사절단은 [From.GetAdjective]의 수도에 며칠 머물며 [From.GetAdjective] 관리들로 하여금 우리의 좋은 의도에 대해 설명하려 했지만, 그들은 [GER.GetNameDef]와 [From.GetNameDef]간 관계 개선에 관한 모든 시도를 퇴짜놓았습니다."
+gerfor.189.a:0 "우리는 전쟁이나 다른 방법을 통해 [From.GetNameDefCap]를 통제할 것이다."
+gerfor.189.b:0 "우리는 할 수 있는 것이 없다."
 
 ### Flavour Events ###
 
