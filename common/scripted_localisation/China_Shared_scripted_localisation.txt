@@ -93,7 +93,7 @@ defined_text = {
 				}
 			}
 		}
-		localization_key = "연방 지도자"
+		localization_key = "연성주의 지도자"
 	}
 	text = {
 		trigger = {
@@ -106,13 +106,13 @@ defined_text = {
 				is_ruled_by_pro_manchu = yes
 			}
 		}
-		localization_key = "Qing-aligned"
+		localization_key = "청 가맹"
 	}
 	text = {
 		trigger = {
 			is_in_faction_with = NPA
 		}
-		localization_key = "호국동맹원"
+		localization_key = "호국동맹 가맹"
 	}
 	text = {
 		trigger = {
@@ -136,7 +136,7 @@ defined_text = {
 		trigger = {
 			is_ruled_by_federalists = yes
 		}
-		localization_key = "연방 가맹"
+		localization_key = "연성주의 가맹"
 	}
 	text = {
 		trigger = {
@@ -156,7 +156,7 @@ defined_text = {
 			}
 			is_subject = yes
 		}
-		localization_key = "[OVERLORD.GetAdjective] Puppet"
+		localization_key = "[OVERLORD.GetAdjective]의 속국"
 	}
 	text = {
 		localization_key = "비가맹"
