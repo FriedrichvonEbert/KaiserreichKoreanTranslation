@@ -1,0 +1,831 @@
+﻿l_english:
+####################
+# El Salvador Localisation
+# Done by Drozdovite and Beelzebub
+####################
+
+El_Salvador:0 "엘살바도르 중점계통도"
+
+### Parties ###
+ELS_totalist_party_long:0 "전체주의 국민연대"
+ELS_totalist_party:0 "전체주의 국민연대"
+ELS_syndicalist_party_long:0 "인민해방군"
+ELS_syndicalist_party:0 "인민해방군"
+ELS_radical_socialist_party_long:0 "개혁운동"
+ELS_radical_socialist_party:0 "개혁운동"
+ELS_social_democrat_party_long:0 "노동당"
+ELS_social_democrat_party:0 "노동당"
+ELS_social_liberal_party_long:0 "국민민주당"
+ELS_social_liberal_party:0 "국민민주당"
+ELS_market_liberal_party_long:0 "기독민주당"
+ELS_market_liberal_party:0 "기독민주당"
+ELS_social_conservative_party_long:0 "민주국민동맹"
+ELS_social_conservative_party:0 "민주국민동맹"
+ELS_authoritarian_democrat_party_long:0 "통일민주혁명당"
+ELS_authoritarian_democrat_party:0 "통일민주혁명당"
+ELS_paternal_autocrat_party_long:0 "엘살바도르 국군"
+ELS_paternal_autocrat_party:0 "엘살바도르 국군"
+ELS_national_populist_party_long:0 "국가 프로파트리아당"
+ELS_national_populist_party:0 "국가 프로파트리아당"
+
+### Leaders ###
+POLITICS_MAZIMILIANO_HERNANDEZ_MARTINEZ_DESC:0 "Maximiliano's political career has been tough ever since it began. With his coup against the civilian government in December of 1931, he's been bombarded with tough decisions which led to the Salvadoran Uprising in 1932. This has proven to be a stain on his political career, with sentiment against him being rampant not only among the general populace but also in some elements of the army. However, the United States aligns with him which is the only thing keeping his political career safe for the time being."
+POLITICS_OSMIN_AGUIRRE_Y_SALINAS_DESC:0 "Osmin Aguirre y Salinas has been a military officer for since he came of age, and as such, has dwindled little in the local Salvadorian politics. This changed in the 1931 coup d'etat led by Martinez, where Salinas became General Director of the National Police, War Minister and provisional leader of the Civic Directory, which gave supreme power to General Martinez. However, mounting unrest in the army have turned Salinas into the voice of opposition against Martinez. With Martinez' mistakes during the Second Western Uprising have made the army choose to overthrow Martinez for Salinas, but whether Salinas will be able to secure El Salvador and reform it effectively remains to be seen..."
+POLITICS_Salvador_Castaneda_Castro_DESC:0 "Salvador Castañeda Castro, elected as the headmaster of the Gerardo Barrios Military Academy and Minister of Government by Martinez after his coup in 1931, has kept a rather low profile in the country overall. Having defected from Martinez' forces during the Second Western Uprising, it almost seemed like the General was a defender of democracy. Apparently, He has other plans for the Salvadorian democracy, ones that differed greatly from the PL and the PND. Seeing the Red Menace looming over Central America, Castro took advantage of the government's refusal to crack down on rebellious military elements and secretly allied with them, waiting for the Laboristas to make a wrong move to take over El Salvador. Now that he is in control of the nation, he'll purge the Syndicalists from any position of power, all while trying to provide some semblance of democracy to the populace to avoid a new uprising, even if this 'Democracy' will prove to be nothing but a ruse..."
+POLITICS_ALFONSO_MOLINA_DESC:0 "Alfonso Quiñónez Molina has had a long political career by Salvadorian standards. He had been learning the ropes of governance from his time as Vice-President for his Brothers-in-law Carlos Meléndez and Jorge Meléndez from 1915 to 1918 and then from 1919 to 1923 respectively; becoming Provisional President in 1914 and 1919 first and then being elected as Constitutional President in 1923. Public outraged ensued after his election, with plenty of media outlets considering his rule as a pseudo-monarchy which came to be known as the Meléndez-Quiñones Dynasty. Despite the bad press though, his rule saw the greatest coffee boom ever registered in El Salvador's history, making the nation reach record levels of economic prosperity and catapulting Molina's popularity to new heights. However, many episodes of repression during his rule had severely damaged his reputation and was forced to step down when his term was over. The hardships El Salvador has been forced to endure in his absence have made many miss the times of prosperity that he brought, and with a lack of any other strong liberal candidates, the PND decided to contact Molina once again to lead the liberal coalition, to which Molina has gladly accepted. Now that he's back in power, he has promised to do anything in his power to deliver prosperity back to the Salvadorian nation and its people."
+POLITICS_ARTURO_ARUAJO_DESC:0 "Arturo Araujo Fajardo studied to become an engineer in England, where he became a strong follower of the British Labour Party's policies before the Weltkrieg. Upon his return to El Salvador, he quickly became a follower of Alfredo Masferrer and his ideology, 'Vitalismo' and in 1930 he made up his mind to finally take part in Salvadorian politics officially and formed his own party, the Partido Laborista, which received immediate support thanks to Masferrer's endorsement. The Laboristas won the 1931 election, and Araujo's career seemed to have practically skyrocketed overnight. However, economic hardship, social instability and opposing the interests of the army and the rural oligarchy only weakened Araujo's position further and further. His presidency came to an end when his Vice-President and Minister of War, Maximiliano Hernandez Martínez made a successful coup d'etat in December 2nd, 1931, sidelining Araujo from any politically relevant position and ending democracy in El Salvador. However, with the Second Western Rebellion being successful and Araujo having been chosen to lead his country for the transition to a full democracy once again, he has become a beloved figure in El Salvador, and his rule is bound to see progressive reforms and welfare be introduced to the nation."
+POLITICS_FELICIANO_AMA_DESC:0 "José Feliciano Ama, a chieftain of the Pipil tribes in Izalco that successfully escaped the 1932 massacre, has managed to become the Head of State of El Salvador. Ama, lacking any sort of formal education and ideology, will delegate most of his work to his ministers and will work mostly to uphold the status quo and improve the overall situation of El Salvador's natives and peasants, regarldess of language, ethnicity or religion."
+POLITICS_AGUSTIN_FARABUNDO_MARTI_DESC:0 "Agustin Farabundo Martí started his political career protesting against the Meléndez-Quiñones Dynasty and taking part in the first worker's organisations in El Salvador. He'd later volunteer to help the Zapatista forces after the Plan of Agua Prieta came into effect, where he would meet who would be one of his closest friends for years, Augusto Cesar Sandino. He would continue his career of political activism, and would later help Sandino with his fight in Nicaragua. However, with time, Martí grew further and further apart from Sandino, with them disagreeing more and more often on the fate of their countries should their revolutions succeed. Martí eventually gew further and further appart, and their relationship reached a breaking point in 1929 where Martí tried to punch Sandino in a drunken rampage. Despite having apologized formally with Sandino several times, he decided to return to El Salvador in 1930 and start leading the revolutionary movement by himself. His time would come in 1932 where he tried to lead the First Western Uprising, but after being delivered a crushing defeat by Martinez, he fled to Mexico to continue preparing for the revolution in El Salvador. Now that he's in power, he'll do his best to bring about the European-style Syndicalist Utopia he has dreamed of, even if this dream may seem far off for an agrarian region like Central America..."
+
+##Modifiers##
+ELS_border_treaty_accepted:0 "국경조약을 수락함"
+ELS_border_treaty_refused:0 "국경조약을 거부함"
+ELS_accepted_trade_deal:0 "무역거래를 수락함"
+ELS_refused_trade_deal:0 "무역거래를 거부함"
+
+### Tooltips ###
+ELS_revolution_begins_flag:0 "§R1937년 살바도르 혁명이 시작됬습니다.§!"
+ELS_vanguard_stands_flag:0 "§R군대 선봉대가 견고히 서있습니다.§!"
+ELS_pro_patria_destroyed_flag:0 "§Y살리나스가 마르티네스를 성공적으로 축출했습니다.§!"
+ELS_pro_patria_stands_flag:0 "§Y마르티네스가 모든 역경을 이겨냈습니다.§!"
+
+ELS_revolution_success_flag:0 "§R프로파트리아에 저항하는 혁명이 성공했습니다.§!"
+ELS_presidency_restored_flag:0 "§Y대통령제가 재건되었습니다.§!"
+ELS_syndicalist_country_flag:0 "§Y생디칼리슴 제도를 따르기로 결정했습니다§!"
+ELS_military_victory_flag:0 "§Y군부가 권력을 되찾았습니다.§!"
+ELS_national_democratic_victory_flag:0 "§Y국민민주당이 정계에 목귀해냈습니다.§!"
+ELS_labour_victory_flag:0 "§Y노동당이 대통령직을 유지해냈습니다.§!"
+ELS_military_takeover_flag:0 "§Y육군이 돌아왔고 산살바도르를 확보했습니다§!"
+ELS_revolution_over_flag:0 "§Y혁명이 끝나야 합니다.§!"
+ELS_conscription_flood_tooltip:0 "§R전쟁이 끝난 이후에 우리를 물어버릴지도 모릅니다.§!"
+
+ELS_will_upgrade_union:0 "§G우리가 택한 노동조합에 힘을 실어줄 겁니다.§!"
+
+els_ratification_treaty:0 "§G온두라스와 과테말라에 조약 체결을 끝내자는 전갈을 보낼 겁니다.§!"
+
+ELS_foreign_asset_status:0 "§G외국인 자산 상태를 결정할 겁니다.§!"
+
+ELS_buy_planes_tt:0 "외국 회사에서 항공기를 구매하는 £decision_icon_small §H국가적 결정§!을 해금할 겁니다"
+
+##Decisions##
+ELS_Buying_planes_decisions:0 "항공기 생산 요청"
+ELS_buying_fighters:0 "외국산 전투기 획득"
+ELS_buying_fighters_desc:0 "국내 항공기 산업에 결점이 있기 때문에 영공이 침범당했을때 스스로 보호하기 위해서는 외국인 전문가가 설계한 비행기의 라이센스 생산에 의존해야 합니다. 과거 1933년, 미국 기업 커티스-라이트 사가 상당히 괜찮은 복엽기 모델을 제안했었습니다. 그 항공기를 이용해 국내 조종사 훈련에 쏠쏠하게 사용했지만, 현재 공군에 화력 투사가 요구되고 있으니 기술자들을 동원해서 기관총을 장착할 수 있도록 파생형을 설계했습니다. 이제 신식 디자인의 항공기 생산에 생산력을 쏟아부어야 합니다. 물론 적절한 가격이 제시될 때만 말이지요."
+ELS_buying_fighters1:0 "외국산 전투기 획득"
+ELS_buying_fighters1_desc:0 "국내 항공기 산업에 결점이 있기 때문에 영공이 침범당했을때 스스로 보호하기 위해서는 외국인 전문가가 설계한 비행기의 라이센스 생산에 의존해야 합니다. 미국 기업 페어차일드는 새로운 훈련기 모델을 설계했지만 현재 미국이 처한 상황으로 인해 누구도 이 항공기를 사용할 수 없게 되었습니다. 우리는 공중전에 적합하도록 이 모델에 변형을 요청할 겁니다. 이로써 공군을 강화하는데 도움이 될 겁니다."
+ELS_buying_CAS:0 "외국산 근접항공지원기 획득"
+ELS_buying_CAS_desc:0 "국내 항공기 산업에 결점이 있기 때문에 우리 영토에 위협이 닥쳤을 때 스스로 보호하기 위해서는 외국인 전문가가 설계한 비행기의 라이센스 생산에 의존해야 합니다. 이탈리아 기업 카프로니는 최근 공격기 설계도를 발표했는데, 우리 공군 장교 중 많은 이들이 여기에 깊은 인상을 받았습니다. 미래의 전장에서 보병대를 지원하기 위해 그들의 항공기를 몇 대 구매해야 합니다."
+ELS_buying_nav_bombers:0 "외국산 해군 폭격기 획득"
+ELS_buying_nav_bombers_desc:0 "국내 항공기 산업에 결점이 있기 때문에 우리 영해에 위협이 닥쳤을 때 스스로 보호하기 위해서는 외국인 전문가가 설계한 비행기의 라이센스 생산에 의존해야 합니다. 미국 회사인 노스아메리칸 항공이 1935년 훈련기 모델 설계를 발표했는데, 우리 장교들 중 많은 이들이 깊은 감명을 받았습니다. 커티스-라이트나 페어차일드 항공기보다 더 높은 조종 능력이 필요하지는 않지만, 우리 기술자들은 해안 순찰과 해군 폭격에 사용할 수 있는 T-6 개량형을 고안해냈습니다. 이 새로운 디자인을 생산하기 위해 생산 능력을 요청할 겁니다. 물론 적절한 가격에 말이지요."
+
+### Ideas ###
+## Starting ideas ##
+
+CEN_monroe_doctrine:0 "먼로 독트린"
+CEN_monroe_doctrine_desc:0 "미국이 주창한 먼로 독트린은 우리나라가 가진 군사력 대부분과 다른 아메리카 국가와 전쟁이 발발했을 때 대응할 수 있는 능력을 거세해 버렸습니다. 먼로 독트린이 국가 안보를 보장해 주는 것도 사실이지만, 확장 가능성을 완전히 봉쇄하기도 했습니다."
+
+ELS_memories_32:0 "'32년도의 기억"
+ELS_memories_32_desc:0 "엘살바도르 서부에서 벌어진 사회주의자와 원주민 학살로 인해 반역자 사회주의 게릴라들이 사방에서 암약하는 등 우리나라에 상처가 남았습니다. 미국이 개입할 능력이 없다고 밝혀진다면 정권이 완전히 무너져 버릴지도 모릅니다."
+
+ELS_depression_leftovers:0 "대공황의 잔재"
+ELS_depression_leftovers_desc:0 "미국발 대공황이 우리의 커피 시장을 크게 황폐화했고 결과적으로 20년대 내내 불안정성이 국가를 집어삼켰습니다. 수없이 많이 시행했던 은행 개혁과 함께 시간이 흐르면서 점차 공황이 사그라들었고 현재 불황은 엘살바도르에서 거의 사라졌습니다. 하지만 일부 지역에서는 여전히 영향을 끼치고 있습니다."
+
+## Industrial ideas ##
+
+ELS_coffee_exports:0 "커피 수출"
+ELS_coffee_exports_desc:0 "다른 중앙아메리카 국가들 중 대다수가 바나나 공화국이라는 별명으로 불리지만, 우리나라는 바나나가 상대적으로 부족하고 그 대신에 어마어마한 커피 생산량을 가진 특이한 국가입니다. 우리나라는 커피 품목을 사실상 독점하고 있기 때문에 다른 국가들에게 훌륭한 무역 상대국이 되어 줍니다."
+
+ELS_coffee_exports_2:0 "커피 수출"
+ELS_coffee_exports_2_desc:0 "다른 중앙아메리카 국가들 중 대다수가 바나나 공화국이라는 별명으로 불리지만, 우리나라는 바나나가 상대적으로 부족하고 그 대신에 어마어마한 커피 생산량을 가진 특이한 국가입니다. 우리나라는 커피 품목을 사실상 독점하고 있기 때문에 다른 국가들에게 훌륭한 무역 상대국이 되어 줍니다."
+
+ELS_coffee_exports_3:0 "커피 수출"
+ELS_coffee_exports_3_desc:0 "다른 중앙아메리카 국가들 중 대다수가 바나나 공화국이라는 별명으로 불리지만, 우리나라는 바나나가 상대적으로 부족하고 그 대신에 어마어마한 커피 생산량을 가진 특이한 국가입니다. 우리나라는 커피 품목을 사실상 독점하고 있기 때문에 다른 국가들에게 훌륭한 무역 상대국이 되어 줍니다."
+
+ELS_coffee_exports_4:0 "무역 경제"
+ELS_coffee_exports_4_desc:0 "최근 해외 무역 호황으로 인해 경제 대부분이 해외 무역에 기반한 상태입니다. 무역이 지금 경제적 번영을 보장해 주는 만큼 미래에도 당연히 보장해 줄겁니다. 그렇겠죠?"
+
+ELS_depression_revamped:0 "경제 공황 개선"
+ELS_depression_revamped_desc:0 "미국발 대공황이 독일 검은 월요일의 결과로 인해 더욱 심각해졌습니다. 이로써 우리 경제가 타격을 입었지만, 공황이 처음 터졌을 때에 비하면 아무것도 아닙니다. 조만간 이 사태를 확실하게 처리할 수 있을 겁니다."
+
+ELS_depression_revamped_2:0 "경제 공황 개선"
+ELS_depression_revamped_2_desc:0 "미국발 대공황이 독일 검은 월요일의 결과로 인해 더욱 심각해졌습니다. 이로써 우리 경제가 타격을 입었지만, 공황이 처음 터졌을 때에 비하면 아무것도 아닙니다. 조만간 이 사태를 확실하게 처리할 수 있을 겁니다."
+
+ELS_depression_revamped_3:0 "경제 공황 개선"
+ELS_depression_revamped_3_desc:0 "미국발 대공황이 독일 검은 월요일의 결과로 인해 더욱 심각해졌습니다. 이로써 우리 경제가 타격을 입었지만, 공황이 처음 터졌을 때에 비하면 아무것도 아닙니다. 조만간 이 사태를 확실하게 처리할 수 있을 겁니다."
+
+ELS_revolution_scars:0 "혁명의 상처"
+ELS_revolution_scars_desc:0 "혁명이 끝난지 한참 지났지만, 유혈사태와 인구 내에 만연한 불만이 국가 발전을 저해하고 있습니다. 정권을 유지하기 위해서는 이런 상황을 조만간 해결해야만 합니다."
+
+ELS_revolution_scars_2:0 "혁명의 상처"
+ELS_revolution_scars_2_desc:0 "혁명이 끝난지 한참 지났지만, 유혈사태와 인구 내에 만연한 불만이 국가 발전을 저해하고 있습니다. 정권을 유지하기 위해서는 이런 상황을 조만간 해결해야만 합니다."
+
+ELS_revolution_scars_3:0 "혁명의 상처"
+ELS_revolution_scars_3_desc:0 "혁명이 끝난지 한참 지났지만, 유혈사태와 인구 내에 만연한 불만이 국가 발전을 저해하고 있습니다. 정권을 유지하기 위해서는 이런 상황을 조만간 해결해야만 합니다."
+
+ELS_agriculture_reform:0 "농업 개혁"
+ELS_agriculture_reform_desc:0 "최근 급부상한 사회주의자들은 과도한 커피 농사 의존을 해결하고 농업을 뿌리부터 개혁하기 위해 엄청난 수고를 들이고 있습니다. 이로써 상당한 이익을 얻었고 자립 경제에 한 발짝 더 가까워졌습니다."
+
+ELS_agriculture_reform_2:0 "농업 & 안전"
+ELS_agriculture_reform_2_desc:0 "최근 급부상한 사회주의자들은 과도한 커피 농사 의존을 해결하고 농업을 뿌리부터 개혁하기 위해 엄청난 수고를 들이고 있습니다. 이로써 상당한 이익을 얻었고 자립 경제에 한 발짝 더 가까워졌습니다. 그뿐만 아니라 농장 환경을 개선하고 인민들을 행복하게 해주는데도 일조했습니다."
+
+ELS_civillian_union:0 "전국 노동자 연맹 지원"
+ELS_civillian_union_desc:0 "UNT를 지원했으니 이제 인민들에게 더 나은 삶의 질을 보장해 주고 제국주의 열강으로부터 경제 통제권을 지킬 수 있게 되었습니다."
+
+ELS_civillian_union_2:0 "전국 노동자 연맹 지원"
+ELS_civillian_union_2_desc:0 "UNT를 지원했으니 이제 인민들에게 더 나은 삶의 질을 보장해 주고 제국주의 열강으로부터 경제 통제권을 지킬 수 있게 되었습니다."
+
+ELS_military_union:0 "엘살바도르 노동자 지역 연맹 지원"
+ELS_military_union_desc:0 "FETRES를 지원했으니 미국과 같은 해외 강대국들이 다시는 우리의 독립을 침해할 수 없도록 무기 산업에 초점을 맞출 수 있게 되었습니다."
+
+ELS_military_union_2:0 "엘살바도르 노동자 지역 연맹 지원"
+ELS_military_union_2_desc:0 "FETRES를 지원했으니 미국과 같은 해외 강대국들이 다시는 우리의 독립을 침해할 수 없도록 무기 산업에 초점을 맞출 수 있게 되었습니다."
+
+ELS_bank_reform:0 "은행 개혁"
+ELS_bank_reform_desc:0 "프로파트리아당은 국가위원회 설치 등 여러 정책들을 통해 엄청난 경기 침체에서 국가를 회복시키는데 중요한 방점을 두었습니다. 이후 다가올지도 모르는 경제 붕괴에 대비하고 스스로를 방어하기 위해서는 개혁 조치들을 계속 시행해야만 합니다."
+
+ELS_industrial_idea:0 "산업화 개시"
+ELS_industrial_idea_desc:0 "경제 정책이 확고히 자리잡으면서 위대한 미래를 위해 산업화와 번영에 초점을 맞추었습니다."
+
+ELS_coffee_exportation_to_our_friends:0 "커피 수입"
+ELS_coffee_exportation_to_our_friends_desc:0 ""
+
+## Military ideas ##
+
+ELS_guerilla_warfare_knowledge:0 "게릴라전"
+ELS_guerilla_warfare_knowledge_desc:0 "우리나라의 지형적 특성을 고려해, 육군은 어떤 상황에 놓이든지 싸우기 위해서 게릴라 전술에 집중하기로 결정했습니다. 이로써 아군 방어력과 험지에서 싸우는 능력이 강화되겠지만, 공격력이 그만큼 약화될겁니다."
+
+ELS_guerilla_warfare_knowledge_2:0 "게릴라전"
+ELS_guerilla_warfare_knowledge_2_desc:0 "우리나라의 지형적 특성을 고려해, 육군은 어떤 상황에 놓이든지 싸우기 위해서 게릴라 전술에 집중하기로 결정했습니다. 이로써 아군 방어력과 험지에서 싸우는 능력이 강화되겠지만, 공격력이 그만큼 약화될겁니다."
+
+ELS_inspired_youth:0 "고무된 젊은이들"
+ELS_inspired_youth_desc:0 "게릴라 전술에 집중한 결과, 일반인이 군에 입대하기 더 쉬워졌으며 외세의 위협으로부터 조국과 스스로를 지키려는 열정을 고무하는데 용이해졌습니다."
+
+ELS_inspired_youth_dangerous:0 "입대 희망자 홍수"
+ELS_inspired_youth_dangerous_desc:0 "최근 우리나라에 위협이 가해지면서 더 많은 사람들이 군대로 밀려들어오기 시작했습니다. 이로써 전시에 큰 도움이 되겠지만, 전쟁이 끝난 이후에 피해로 돌아올 수 있습니다."
+
+ELS_professional_army_knowledge:0 "전문 군대"
+ELS_professional_army_knowledge_desc:0 "미래 전장에서 스스로를 보호하기 위해 혼란스러운 전투 방식을 버리고 한층 더 조직된 군대로 전환하기로 결정했습니다."
+
+ELS_professional_army_knowledge_2:0 "전문 군대"
+ELS_professional_army_knowledge_2_desc:0 "미래 전장에서 스스로를 보호하기 위해 혼란스러운 전투 방식을 버리고 한층 더 조직된 군대로 전환하기로 결정했습니다."
+
+ELS_military_academy_idea:0 "헤라르도 바리오스 장군 제독 사관학교"
+ELS_military_academy_idea_desc:0 "더 많은 젊운이들이 국내에서 가장 유명한 사관학교로 진학하고자 결정하였으며, 군 운영 방식에 있어서 혁신성을 증대시키는데 도움이 되었습니다."
+
+ELS_naval_production_idea:0 "조국 방위"
+ELS_naval_production_idea_desc:0 "최근 해군이 창설된 이래로 많은 사람들에게 해군에 입대해서 바다와 싸우는 길이 열렸고, 소규모 해군을 더욱 효율적으로 운용하는데 도움이 되었습니다."
+
+ELS_air_production_idea:0 "신 항공산업"
+ELS_air_production_idea_desc:0 "미국이 우리에게 끼치는 영향력이 한계를 드러냈으니 모든 적국에 대항해 중앙아메리카의 창공을 지배할 수 있는 공군을 자유롭게 창설할 수 있게 되었습니다."
+
+##Political tree ideas
+ELS_new_guard1:0 "신 국가수비대"
+ELS_new_guard1_desc:0 "구 프로파트리아당이 상당히 약화되자 무장세력이 국가에서 장악력을 키우고 있습니다. 프로파트리아 폭군들보다 훨씬 정당성을 가지고 사회 문제에 비교적 온건한 방책을 택하는 살리나스의 통치에 의문의 여지는 없습니다."
+
+ELS_new_guard2:0 "신 국가수비대"
+ELS_new_guard2_desc:0 "구 프로파트리아당이 상당히 약화되자 무장세력이 국가에서 장악력을 키우고 있습니다. 프로파트리아 폭군들보다 훨씬 정당성을 가지고 사회 문제에 비교적 온건한 방책을 택하는 살리나스의 통치에 의문의 여지는 없습니다."
+
+ELS_new_guard3:0 "신 국가수비대"
+ELS_new_guard3_desc:0 "구 프로파트리아당이 상당히 약화되자 무장세력이 국가에서 장악력을 키우고 있습니다. 프로파트리아 폭군들보다 훨씬 정당성을 가지고 사회 문제에 비교적 온건한 방책을 택하는 살리나스의 통치에 의문의 여지는 없습니다."
+
+ELS_new_guard4:0 "공화정 부활"
+ELS_new_guard4_desc:0 "군부의 정당성 통합 작업을 끝마치기 위해 살리나스는 중단된 공화정을 부활시키고 스스로 엘살바도르 대통령직에 올랐습니다."
+
+ELS_new_guard5:0 "헌정 복원"
+ELS_new_guard5_desc:0 "대중의 관점에서 정당성을 확보하는 마지막 단계로 살리나스는 국가 안정을 위해 비록 일부분 만일지라도 헌법을 복원했습니다. 하지만 엘살바도르 시민들에게는 부분적인 자유만 주어졌습니다."
+
+ELS_propatriaholds:0 "강화된 프로파트리아"
+ELS_propatriaholds_desc:0 "프로파트리아가 다시 한번 적들을 압도하고 있으며, 마르티네스는 권력을 공고히 하면서 반대 세력을 완전히 무너트리려고 노력할 겁니다."
+
+ELS_propatriaholds2:0 "강화된 프로파트리아"
+ELS_propatriaholds2_desc:0 "프로파트리아가 다시 한번 적들을 압도하고 있으며, 마르티네스는 권력을 공고히 하면서 반대 세력을 완전히 무너트리려고 노력할 겁니다."
+
+ELS_propatriaholds3:0 "강화된 프로파트리아"
+ELS_propatriaholds3_desc:0 "프로파트리아가 다시 한번 적들을 압도하고 있으며, 마르티네스는 권력을 공고히 하면서 반대 세력을 완전히 무너트리려고 노력할 겁니다."
+
+ELS_propatriaholds4:0 "강화된 프로파트리아"
+ELS_propatriaholds4_desc:0 "프로파트리아가 다시 한번 적들을 압도하고 있으며, 마르티네스는 권력을 공고히 하면서 반대 세력을 완전히 무너트리려고 노력할 겁니다."
+
+ELS_propatriaholds5:0 "강화된 프로파트리아"
+ELS_propatriaholds5_desc:0 "프로파트리아가 다시 한번 적들을 압도하고 있으며, 마르티네스는 권력을 공고히 하면서 반대 세력을 완전히 무너트리려고 노력할 겁니다."
+
+ELS_cleanse_gommies:0 "사회주의자 강력 탄압"
+ELS_cleanse_gommies_desc:0 ""
+
+ELS_militirazation1:0 "엘살바도르 군사국가화"
+ELS_militirazation1_desc:0 "반란 문제를 해결하는 과정에서 보여주었던 문제점들은 엘살바도르가 나약하다는 사실을 여실히 드러냈고, 우리나라가 충돌에 휩싸일 경우에 대비하기 위해서는 무언가 조치를 취해야만 합니다. 하지만 현재 우리 군대는 프로파트리아 충성파와 온건파 장교들 사이에서 균열이 일어난 상태이며, 의견 차이를 해결하지 못한다면 그들 사이에서 효율적인 협동이 있을 수 없습니다."
+
+ELS_militirazation15:0 "연합된 군사정권"
+ELS_militirazation15_desc:0 "반란 문제를 해결하는 과정에서 보여주었던 문제점들은 엘살바도르가 나약하다는 사실을 여실히 드러냈고, 우리나라가 충돌에 휩싸일 경우에 대비하기 위해서는 무언가 조치를 취해야만 합니다. 프로파트리아 장교진과 그 외 장교들간에 불화가 해결되어가고 있으니, 엘살바도르 군사국가화를 완료하는데 주력하여 전면전 상황에 대비할 수 있게 되었습니다."
+
+ELS_militirazation2_left:0 "국가와 함께하는 군대"
+ELS_militirazation2_left_desc:0 "이제 전면전 대비가 완전히 끝났습니다. 국토 방위를 더욱 효과적으로 수행하기 위해 군에 더 많은 행정적 권한을 부여하기로 결정했습니다. 군사국가화 작업을 진행하면서 엘살바도르는 서서히 병영국가가 되어 가고 있습니다."
+
+ELS_militirazation2_right:0 "군대 보조금"
+ELS_militirazation2_right_desc:0 "이제 전면전 대비가 완전히 끝났습니다. 군인들에게 더 많은 봉급과 장비를 제공하기 위해 군에 더 많은 자원을 지원하기로 결정했습니다. 군사국가화 작업을 진행하면서 전쟁이 일어났을 때 무시할 수 없는 존재가 되었습니다."
+
+ELS_memories_32_part_2:0 "1932년의 기억"
+ELS_memories_32_part_2_desc:0 "엘살바도르 서부에서 벌어진 사회주의자와 원주민 학살로 인해 반역자 사회주의 게릴라들이 사방에서 암약하는 등 우리나라에 상처가 남았습니다. 미국이 무너지면서 폭발한 긴장 상태는 새로운 반란으로 나타났습니다. 이전에 비해 훨씬 강하게 서있는 지금, 권력을 유지하고자 한다면 이런 사건에 관한 기억을 빠르게 잊는데 주력해야 합니다."
+
+ELS_memories_32_part_3:0 "1932년의 기억"
+ELS_memories_32_part_3_desc:0 "엘살바도르 서부에서 벌어진 사회주의자와 원주민 학살로 인해 반역자 사회주의 게릴라들이 사방에서 암약하는 등 우리나라에 상처가 남았습니다. 미국이 무너지면서 폭발한 긴장 상태는 새로운 반란으로 나타났습니다. 이전에 비해 훨씬 강하게 서있는 지금, 권력을 유지하고자 한다면 이런 사건에 관한 기억을 빠르게 잊는데 주력해야 합니다."
+
+ELS_native_rights_for_all:0 "원주민 권리 향상"
+ELS_native_rights_for_all_desc:0 ""
+
+ELS_divided_no_more:0 "더 이상 분단은 없다"
+ELS_divided_no_more_desc:0 ""
+
+ELS_unruly_military:0 "날뛰는 군대"
+ELS_unruly_military_desc:0 "우리가 승리를 선언하면서 잔존한 군부가 공개적으로 반란을 일으켰습니다. 반군은 작은 마을 몇 개를 점령해 게릴라 진지를 조직하고 전초기지들을 군사화하면서 심지어는 정부 관리들을 총살하기도 했습니다. 정권을 유지하고자 한다면 가까운 시일 내에 이 사태를 해결해야 합니다."
+
+ELS_unruly_military2:0 "남아있는 군부 영향력"
+ELS_unruly_military2_desc:0 "우리가 승리를 선언하면서 잔존한 군부가 공개적으로 반란을 일으켰습니다. 반군은 작은 마을 몇 개를 점령해 게릴라 진지를 조직하고 전초기지들을 군사화하면서 심지어는 정부 관리들을 총살하기도 했습니다. 최근 반란분자를 강력히 진압했음에도 불구하고 그들의 영향력은 여전하고, 많은 시민들이 구 군부의 영향력으로 인해 군 복부를 기피합니다. 구 군부의 영향력을 뿌리뽑고 완전히 새로운 군대를 처음부터 재창설해야 합니다."
+
+ELS_military_purge:0 "숙청된 군대"
+ELS_military_purge_desc:0 ""
+
+ELS_no_censorship:0 "검열 해제"
+ELS_no_censorship_desc:0 ""
+
+ELS_classless_society:0 "무계급 사회"
+ELS_classless_society_desc:0 ""
+
+ELS_democratic_salvador:0 "민주주의로 가는 길"
+ELS_democratic_salvador_desc:0 ""
+
+ELS_democratic_salvador2:0 "민주주의로 가는 길"
+ELS_democratic_salvador2_desc:0 ""
+
+ELS_democratic_salvador3right:0 "확고히 자리잡은 중산층"
+ELS_democratic_salvador3right_desc:0 ""
+
+ELS_democratic_salvador3left:0 "극빈층에게 희망을"
+ELS_democratic_salvador3left_desc:0 ""
+
+ELS_remade_constitution:0 "헌법 재작성"
+ELS_remade_constitution_desc:0 ""
+
+ELS_remade_constitution2:0 "정치적 영향력 확장"
+ELS_remade_constitution2_desc:0 ""
+
+ELS_scheming_military:0 "무언가 일을 꾸미는 군부"
+ELS_scheming_military_desc:0 ""
+
+ELS_loyalty_to_democracy:0 "민주주의에 충성"
+ELS_loyalty_to_democracy_desc:0 ""
+
+ELS_a_military_reborn:0 "군대 부활"
+ELS_a_military_reborn_desc:0 ""
+
+### Events ###
+els.1.t:0 "엘살바도르 소개"
+els.1.d:0 "1931년 12월 부통령 막시밀리아노 에르난데스 마르티네스가 노동당과 아르투로 아라우호 정권에 쿠데타를 일으키자, 진정한 민주주의의 복원은 시작하자마자 끝나버렸고 국가를 두고 정치적 투쟁이 벌어졌습니다. 쿠데타의 원인은 경찰에게 유리하도록 군 봉급을 엄청나게 삭감한 조치 때문이었는데, 이로 인해 대중 지지도가 급격히 낮아졌습니다. 모든 반대파를 탄압하는 정책을 펼치면서 국가를 요새화하고 자신이 속한 프로파트리아당 외에 모든 정당을 금지한 마르티네즈는 엘살바도르 지배권을 손에 넣었습니다. 이런 조치들이 처음에는 효과가 있었습니다. 하지만 1932년 5월 16일, 상황은 완전히 바뀌어 버립니다.\n\n1932년 막시밀리아노가 아우구스틴 파라분도 마르티와 펠리시아노 아마에게 영향을 받은 서부 원주민들에 대항하는 정책을 입안하면서 소작농 학살이 시작되었습니다. 처음에는 그들이 그다지 위협으로 다가오지 않았지만, 산디노의 니카라과 혁명이 성공을 거두면서 더 많은 사람들이 반군에 가담했습니다. 여전히 군부에 대항한 저항이 성공할 가능성이 희박한 가운데, 멕시코 선거에서 승리를 거둔 사파타가 반군에게 총기를 지원하기 시작했습니다. 반란은 1933년 1월 22일까지 이어졌습니다. 7만명이 사망했고 반군 지도자 펠리시아노 아마와 아우구스틴 파라분도 마르티는 멕시코로 망명했습니다.\n\n파르티잔의 공격은 더 이상 엘살바도르에서 생소한 풍경이 아니며, 막시밀리아노 정권은 대부분 사람들에게 인기를 잃었습니다. 그뿐만 아니라 군 내에서도 막시밀리아노의 반란 대처 방식에 불만을 품은 인사들이 등장했습니다. 막시밀리아노 정권은 미국의 지원에만 매달려 있는 상황입니다."
+els.1.a:0 "막시밀리아노는 자신의 실수로 잃어버린 것들을 되찾을 것이다."
+
+els.2.t:0 "공황 악화"
+els.2.d:0 "최근 벌어진 독일 증시 붕괴로 인해 수출 의존도가 높은 우리 경제가 다시 한번 완전히 박살났습니다. 다른 국가들이 우리의 커피를 살 수 없게 되고 미국 국가 안정성도 바닥에 떨어진 이 상황에 마르티네스 정권은 점점 더 정치적 궁지로 몰리고 있습니다. 우리나라가 사회주의의 파도에서 살아남기를 바란다면 신중하게 행동해야 합니다."
+els.2.a:0 "마르티네즈가 경제를 잘 다룬다는건 확실히 다행이로군."
+
+els.3.t:0 "파라분도 마르티가 멕시코에서 돌아오다"
+els.3.d:0 "32개 학살의 영웅 파라분도 마르티가 최근 미국 내전과 그 결과로 우리나라를 뒤덮은 혼란에 대응하기 위해 귀국했습니다. 사람들은 국내에서 계속되는 충돌의 결과로 인한 국경 방비 실수를 가지고 마르티네스를 비난하기 시작했습니다. 그럼에도 불구하고 마르티의 귀환으로 인해 점점 더 많은 사람들이 우리에게 저항하기 시작했고, 군 내부에서 질서를 회복하기 위한 쿠데타를 일으키려 한다는 소문이 돌고 있습니다."
+els.3.a:0 "전국에 유혈이 낭자하군."
+
+els.4.t:0 "군사 반란!"
+els.4.d:0 "반동세력에게 승리를 거뒀음에도 불구하고 엘살바도르 군대 대부분은 여전히 우리의 지배력이 합법적이라고 인정하지 않습니다. 군부의 산발적인 저항은 아직 정권에 위협을 끼칠 정도가 아니지만 전국 각지에서 반동주의자들을 모집하고 있습니다. 여전히 정부에 반하는 행보를 보이는 그들을 조심스럽게 다루어야 합니다. 더 중요한 사실은 반군이 여차하면 인근 마타판 정글로 도망쳐 온두라스나 과테말라로 빠져나갈 수 있는 북서부에서 주둔하며 보급품을 얻기 위해 마을과 정부측 호송대를 습격하고 있다는 겁니다."
+els.4.a:0 "혁명을 멈출 수는 없을 거다!"
+
+els.5.t:0 "군대와 대치"
+els.5.d:0 "북서부 공격이 심해지면서 인민은 점점 함들게 살아가고 있습니다. 또한 산타아나의 라몬 다빌라 주지사는 정부에 최대한의 군사력을 투입한 개입을 요청했습니다. 그러나 현재 내각은 여전히 군부를 적으로 돌리는 행동이 현명할지에 대해 결정 내리지 못하고 있습니다. 군인들은 엘살바도르를 지키겠다고 맹세한 이들이니, 어쩌면 조금만 더 기다린다면 우리측으로 넘어올지도 모르는 일이지요."
+els.5.a:0 "요청을 거부해라. 정부와 군대는 타협할 거다."
+els.5.b:0 "대적해라. 민주주의를 지키는 유일한 방법이다."
+
+#els.6.t:0 "최후의 반군 잔당과 마주치다"
+#els.6.d:0 "반군과 맞서기 위해 상당한 규모의 민병대를 모을 수 있었습니다. 하지만 내각 내에서는 여전히 평화로운 해결책이 있다고 주장하는 사람들이 많으며, 최근 군부 게릴라로부터 협상 개시를 제안하는 사절이 왔습니다. 어찌해야 할까요?"
+#els.6.a:0 "수뇌부와 만나서 협상에 돌입하자."
+#els.6.b:0 "협상은 없다. 마지막 공격을 준비해라."
+
+#els.7.t:0 "메타판 마을 회담"
+#els.7.d:0 "사절단과 일시 휴전에 합의한 후, 양측은 메타판 마을에 대표단을 파견했습니다. 거기서 게릴라 대표단은 군대가 정치로부터 완전히 독립하고 군대 내 문제에 대해서 어느 정도 집행권과 자치권을 허용해 달라고 요구했습니다. 협상 내용이 알려지자 언론과 대중은 분노에 휩싸였습니다. 여전히 평화로운 방식으로 끝낼 수는 있지만, 저들의 요구를 받아들인다면 분명 나중에 고통스러운 결과가 따라올 겁니다. 그렇지 않다면 대중의 분노를 등에 업고 공격을 개시할 수도 있습니다..."
+#els.7.a:0 "저들의 요구를 수용하고 엘살바도르의 안정을 되찾을 것이다."
+#els.7.b:0 "다시는 저들이 우리의 앞길을 막지 못하게 하리라! 공격 계획을 승인해라."
+
+els.17.t:0 "도시 내 저항"
+els.17.d:0 "4년간 폭력을 통한 통치를 휘둘렀던 마르티네즈는 여전히 미국의 지원을 등에 업고 엘살바도르에 철권통치를 계속하려 합니다. 하지만 최근 미국과 세상의 문제가 커져감에 따라 마르티네즈의 권력도 느리지만 계속해서 약화하고 있습니다. 이제는 많은 사람들의 정권에게 공개적으로 의문을 제기하는 상황에 이르렀습니다..."
+els.17.a:0 "이런 상황은 불확실하게 흘러가기 마련이지."
+
+els.18.t:0 "엘살바도르 무역 붕괴"
+els.18.d:0 "검은 월요일은 이미 약해진 엘살바도르 수출길을 완전히 죽여버렸으며, 토지 소유자들은 살아남기 위해 대규모 구조조정을 감행할 수 밖에 없었습니다. 현재 엄청난 설탕, 커피, 코코아가 팔 곳이 없이 이러지도 저러지도 못하는 상태로 수도에 쌓여 있습니다. 게다가 공급은 계속 증가하고 있지만 내수시장이 충분하지 않아 더 문제입니다."
+els.18.a:0 "재앙이야!"
+
+els.19.t:0 "산살바도르 설탕 제분소 파업"
+els.19.d:0 "산살바도르 시의 한 제분소에서 노동자들이 더 나은 노동조건과 임금 인상을 요구하면서 3개월째 파업에 돌입한 상태입니다. 마르티네즈는 자진 해산하지 않으면 필요시 폭력을 사용할 수 있다는 성명을 발표했습니다. 전국적으로 긴장이 고조되고 있는 상황에 이번 파업이 마지막 기회일지도 모릅니다..."
+els.19.a:0 "제발 눈치보고 알아서 해산해라..."
+
+els.20.t:0 "마르티네즈가 파업을 진압하다"
+els.20.d:0 "마르티네즈가 파업 참가자들을 진압하기 위해 군대를 수도로 소집했습니다. 일단 파업자들이 사정거리 안에 들어오기만 하면 겁을 주기 위해 발포하여 해산시키라는 명령이 내려졌습니다. 하지만 격렬한 저항이 일어날까 두려워했던 군인들은 군중에게 정면으로 사격을 해버렸고 파업자들이 병사들에게 승산 없이 맞서거나 도망치는 등 도시가 혼돈속으로 빠져들었습니다. 마르티네즈는 반체제 인사들에게 대응해야 한다는 명목으로 임시 계엄령을 선포했고 체포된 파업자들은 마르티네즈의 법령에 의해 사형을 선고받았습니다..."
+els.20.a:0 "이번에는 너무 심하게 간 것 같은데..."
+
+els.21.t:0 "쿠데타가 일어난다는 소문이 언론에 오르다"
+els.21.d:0 "일부 익명의 고발자들이 산 에스테반 데 카타리나의 Centro del Ejercito Armado de El Salvador에서 육군 고위 장교들 사이에서 비밀 회담이 개최되었다는 사실을 언론에 폭로했습니다. 어떤 주제로 회의를 개최했는지는 밝혀지지 않았지만, 최근 상황을 비추어 보아 이 장교들이 마르티네즈 대통령을 끌어내리려는 계획을 꾸미고 있다는 추측도 가능합니다. 대통령은 이런 추측을 언론이 조장하는 공포심에 지나지 않는다고 일축햇지만, 쿠데타에 대한 두려움이 대중의 마음 속에 박히는 것 까지는 막을 수 없었습니다."
+els.21.a:0 "누가 이런 말도 안되는 이야기를 믿겠어?"
+
+els.22.t:0 "마르티네스가 공무원 월급을 감축하다"
+els.22.d:0 "마르티네스 대통령은 자신이 받을 급여를 포함해 모든 공무원의 봉급을 최소한으로 낮추겠다는 과감한 조치를 시행하겠다고 선언했습니다. 이 조치가 전반적 경제에 실질적인 영향을 끼치지는 않겠지만, 여태까지 엘살바도르 정부가 부패하고 탐욕스러운 존재라고 바라보던 국내 노동자들은 조치에 환호하고 있습니다. 노동 계급의 지지를 얻은 마르티네스는 비록 기대치가 높아졌기는 했지만 그래도 개혁을 위한 더 많은 여지를 얻었습니다..."
+els.22.a:0 "대통령의 형식적인 조치였겠지만 어찌되었든간에 환영한다."
+
+els.23.t:0 "엘살바도르 중앙 준비은행 폐쇄?"
+els.23.d:0 "1934년 마르티네스는 엘살바도르 화폐 콜론화의 가치 안정을 위해 엘살바도르 중앙은행을 설립했습니다. 이 조치는 당시에는 효과적이었지만, 다시 위기가 닥친 지금 정부가 국가 부채 청산을 위해 콜론을 남발하면서 가치가 계속 떨어지는 중입니다. 내각 내에서는 과거에는 유용했던 은행을 폐쇄하고 민간은행이 우리나라 화폐를 발행하던 시대로 복귀해야 한다는 목소리가 커지고 있습니다. 어찌해야 할까요?"
+els.23.a:0 "계속 운영해라."
+els.23.b:0 "폐쇄해라."
+
+els.24.t:0 "노동계급을 위한 저렴한 주택 건설"
+els.24.d:0 "경제 상황이 개선됨에 따라 마르티네스 대통령은 노동계급 시민과 농민을 위한 새롭고 저렴한 주택을 만들겠다는 야심찬 건설 계획을 발표했습니다. Junta Nacional de Mejoramiento Social을 책임지는 본 계획은 개인 담보 대출을 받을 수 없는 국내 수많은 노동자들에게 값싼 주택과 감당할 수 있는 수준의 대출금을 제공하는 것을 목표로 합니다. 계획이 즉각적인 결과를 가져오지는 않겠지만, 최소한 이번 조치로 대통령에 대한 서민층의 지지를 확실하게 확보할 수 있습니다."
+els.24.a:0 "¡비바 마르티네스!"
+
+els.25.t:0 "농업 노동자 보조금"
+els.25.d:0 "검은 월요일으로 가장 큰 타격을 입은 이들은 중소 토지 소유주와 농업 노동자들입니다. 그들은 이전과 동일한 생산량을 유지했지만 더 이상 외국 구매자들이 생산품을 사갈 수 없는 상황에 이르렀기 때문에 상품이 항구에서 놀고 있습니다. 이로 인해 국내 농업 생산량이 크게 줄었고 많은 소작농들이 자금 부족으로 인해 해고되었습니다. 문제를 해결하고 농업 부문을 다시 활성화시키기 위해 마르티네스 대통령은 새로운 국가 보조금을 지불하라는 명령을 내렸습니다. 주요 농작물 생산량을 검은 월요일 이전 수준까지 끌어올리는 것을 목표로 Federación de Cajas de Crédito Rural에서 보조금을 커피, 설탕, 면화를 생산하는 농장에 전달할 것입니다."
+els.25.a:0 "¡비바 마르티네스!"
+
+els.26.t:0 "팬아메리칸 도로망 엘살바도르 구간 개통"
+els.26.d:0 "마르티네스 대통령 집권 이래로 수많은 아메리카 국가들이 참여하는 다국적 프로젝트 팬아메리카 도로망이 엘살바도르까지 확장되고 있습니다. 수년간 계속된 고된 노력과 투자 끝에 오늘 마침내 팬아메리칸 도로 엘살바도르 구간이 개통했습니다. 대통령은 엘살바도르 노동자들의 노고를 치하하고 도로망이 엘살바도르에 길이 기여할 혜택에 대해 말하는 공개 연설을 했습니다."
+els.26.a:0 "¡비바 마르티네스!"
+
+els.27.t:0 "과테말라-엘살바도르-온두라스 국경 협정 최종 승인"
+els.27.d:0 "수년간 과테말라와 온두사르 사이에서 확정된 국경을 지키기 위해 부단히 노력해 왔습니다. 자연 국경이 부족하기 때문에 국경은 예로부터 여러 차례 바뀌었지만 마침내 몬테크리스토 언덕의 리오프리오 구역에 확정될 공동 국경 조약 최종안 초안을 보낼 준비가 되었습니다. 하지만 내각 내 몇몇 의원들은 이 조약을 체결하지 말아야 한다고 주장합니다. 나중에 주변국 영토를 점령하고자 한다면 이런 불안정한 국경상태를 활용할 수 있기 때문입니다. 어찌해야 할까요?"
+els.27.a:0 "제안을 보내자."
+els.27.b:0 "현상을 유지하자."
+
+els.28.t:0 "설탕수출이 줄어들었지만 경제는 튼튼하다"
+els.28.d:0 "세계 시장이 안정되었고 브라질과 콜롬비아같은 설탕시장 경쟁자들이 이전 생산 수준을 느리지만 꾸준히 회복하기 시작했습니다. 설탕시장에서 경쟁국들에게 생산량과 질 양쪽 모두에서 경쟁할 수 없기 때문에 우리의 설탕 재배는 어려운 상황에 놓였습니다. 그럼에도 불구하고 여전히 안전한 지역 시장을 점유하고 있으며 국내 농업 생산이 완전히 설탕에만 의존하고 있지 않다는 사실을 고려하면, 이번 매출 감소가 그렇게 큰 문제가 아니기도 합니다."
+els.28.a:0 "다각화 시도가 성공적이었군."
+
+els.30.t:0 "새로운 정치적 왕조 수립?"
+els.30.d:0 "카스트로 대통령은 엘살바도르의 미래를 확보하기 위해 앞으로 수년간 엘살바도르 정계를 어떻게 이끌어갈지에 대한 청사진을 작성했습니다. 그 계획에서 카스트로는 차기 선거를 어떻게 조작할 것이며, 기밀 유지를 위해 누가 내각에 임명될 지에 대해 상세히 설명했습니다. 엘살바도르에 새로운 안정의 시대가 열렸습니다!"
+els.30.a:0 "어떤 대가를 치르던지 엘살바도르를 극단주의로부터 지켜야 한다!"
+
+els.31.t:0 "[GetYear]년 선거"
+els.31.d:0 "오늘 새 헌법에 의해 예정된 대로 카스트로 대통령이 선거를 소집했고 선거운동이 시작했습니다. 노동당과 국민민주당은 통일민주혁명당을 비난합니다. 하지만 사실 통일민주혁명당이 모든 대중 여론 조사를 이끌었으며, 저들의 주장은 개표를 하기도 전에 이미 패배해 있는 뼈아픈 패배자들의 넋두리에 지나지 않습니다."
+els.31.a:0 "살바도르 카스타녜다 카스트로와 통일민주혁명당이 승리했다!"
+els.31.b:0 "음, 투표용지에 뭔가 이상이 있는거 같은데..."
+
+els.32.t:0 "[GetYear]년 선거"
+els.32.d:0 "오늘 새 헌법에 의해 예정된 대로 카스트로 대통령이 선거를 소집했고 선거운동이 시작했습니다. 노동당과 국민민주당은 통일민주혁명당을 비난합니다. 하지만 사실 통일민주혁명당이 모든 대중 여론 조사를 이끌었으며, 저들의 주장은 개표를 하기도 전에 이미 패배해 있는 뼈아픈 패배자들의 넋두리에 지나지 않습니다."
+els.32.a:0 "살바도르 카스타녜다 카스트로와 통일민주혁명당이 승리했다!"
+els.32.b:0 "음, 투표용지에 뭔가 이상이 있는거 같은데..."
+
+els.33.t:0 "[GetYear]년 선거"
+els.33.d:0 "오늘 새 헌법에 의해 예정된 대로 카스트로 대통령이 선거를 소집했고 선거운동이 시작했습니다. 노동당과 국민민주당은 통일민주혁명당을 비난합니다. 하지만 사실 통일민주혁명당이 모든 대중 여론 조사를 이끌었으며, 저들의 주장은 개표를 하기도 전에 이미 패배해 있는 뼈아픈 패배자들의 넋두리에 지나지 않습니다."
+els.33.a:0 "살바도르 카스타녜다 카스트로와 통일민주혁명당이 승리했다!"
+els.33.b:0 "음, 투표용지에 뭔가 이상이 있는거 같은데..."
+
+els.60.t:0 "살바도르 카스타녜다 카스트로가 배신하다!"
+els.60.d:0 "오늘, 카스트로 장군이 탈니크에 있는 막사를 버렸다는 사실을 알아차렸고, 정찰대로부터 카스트로가 연대 전체와 함께 반란군으로 가담했다는 보고가 들어왔습니다. 카스트로가 에전부터 반란군의 세력에 대해 계속해서 우려를 표명했던 것은 사실이지만, 여전히 그의 배신이 일반 공무원들에게는 충격적인 사실로 다가왔습니다."
+els.60.a:0 "상황이 심각해졌군."
+
+els.61.t:0 "원주민들이 온두라스로 도망치기 시작하다"
+els.61.d:0 "손소난테 주에서 반군이 패배한 이후 수많은 원주민들이 온두라스로 도주하기 시작했습니다. 1932년 반란 이후 마르티네스는 원주민 피필족 대량 학살을 감행했고, 새로운 반란마저 진압되자 수많은 부족 지도자들이 도주를 결정했습니다. 마르티네스카 국경 봉쇄를 명령했기 때문에 이 문제가 그다지 위협적이지 않다고 생각했지만, 사람들이 숨풀강을 통해 폐쇄된 국경을 우회할 방법을 찾는 것은 막을 수 없었습니다."
+els.61.a:0 "저들은 정의를 피해갈 수 없다."
+
+els.62.t:0 "엘살바도르에서 도망친 원주민 피난민이 온두라스에 도착하다"
+els.62.d:0 "엘살바도르에 최근 농민 반란이 일어났는데, 마르티네스 대통령이 짧게 이어진 혁명을 진압한 이후 많은 반군이 온두라스로 도망쳤습니다. 실제로 문제를 일으킬 정도로 많은 숫자는 아니며 그냥 주변국에 벌어진 문제로 인해 생긴 사소한 골칫거리 수준입니다..."
+els.62.a:0 "저 불쌍한 사람들을 받아들이자."
+
+els.63.t:0 "살리나스 권력 강화"
+els.63.d:0 "공식적으로 오늘 살리나스가 엘살바도르의 대통령으로 선포되었습니다. 원주민 반란군에게 승리를 거둔 이후 명성을 얻은 그는 엘살바도르 국가를 지금의 권위주의 정권과는 다른 형태를 띤, 국민들의 의견에 항상 귀를 기울이는 한편으로 극단주의로부터 모두를 보호하는 정부로 재구축하기 시작하겠다는 결단을 내렸습니다. 이런 목표를 이루기 위해 살리나스는 시민적 자유를 일부 부활시키겠다고 선언했고, 낡은 권위주의 정권을 개방하여 더욱더 철저한 개혁을 실시했습니다."
+els.63.a:0 "¡비바 엘 프레지덴테 살리나스!"
+
+els.64.t:0 "외국인 자산 현황"
+els.64.d:0 "상법 체계를 분석해본 결과 엘살바도르 안에 있는 수많은 외국계 기업들이 법률망의 허점을 틈타 규제와 과세를 회피하며 경영을 해왔다는 사실이 드러났습니다. 내각 내 일부 인사가 엄중한 처벌을 해야 한다고 주장했지만, 우리는 이 외국계 기업들이 새로 도입한 법률과 납부해야만 하는 세금에 대해 동의하기만 한다면 살려주기로 결정내렸습니다."
+els.64.a:0 "자네와 함께 사업하게 되어 기쁘다네."
+
+els.65.t:0 "외국인 자산 현황"
+els.65.d:0 "상법 체계를 분석해본 결과 엘살바도르 안에 있는 수많은 외국계 기업들이 법률망의 허점을 틈타 규제와 과세를 회피하며 경영을 해왔다는 사실이 드러났습니다. 내각 내 일부 인사가 관대한 대처를 해야 한다고 주장했지만, 우리는 더 이상 이런 모욕을 참을 수는 없으며 기업에 고용된 노동자들의 행복을 보장하고 저들이 우리 인민들에게 저지른 잘못을 속죄시키기 위해 즉시 기업 자산을 압류해야 한다고 결정내렸습니다."
+els.65.a:0 "인민을 위한 승리로다!"
+
+els.66.t:0 "노동조합 지원"
+els.66.d:0 "노동조합은 엘살바도르에서 낮선 개념이므로, 노조 활동을 확장시킬 방법을 찾아야 합니다. 하지만 최근 엘살바도르 노조 문제를 논하던 도중 어느 집단이 어느 집단을 이끌도록 상하관게를 설정하는 과정에서 낭패를 거뒀습니다. 첫 번째 선택지는 '엘살바도르 노동자 지역 연맹', 줄여서 'FETRES'라고 불리는 단체입니다. 이들은 최근 몇년간 크게 급진주의로 기울었고, 이들에게 더 힘을 부여한다면 중앙아메리카에 세계 혁명을 가져오면서 해외 제국주의로부터 우리나라를 지키는 방향으로 경제를 재구축할겁니다. 또 다른 선택지는 새롭게 설립된 '전국 노동자 연맹', 줄여서 'UNT'라고 부르는 단체입니다. 이들은 보다 온건한 접근 방식을 채택하며 우리의 전쟁 지속 능력을 희생하면서까지 산업 발전과 국민의 생계를 돕는데 주력할 겁니다."
+els.66.a:0 "FETRES를 지원하라."
+els.66.b:0 "UNT를 지원하라."
+
+els.100.t:0 "과테말라-엘살바도르-온두라스 국경 조약 최종안"
+els.100.d:0 "수년간 우리나라, 과테말라, 엘살바도르 사이에 국경선을 확정하려는 노력을 계속해 왔습니다. 자연 국경이 없다보니 예로부터 국경선에 계속해서 변화가 있었지만, 엘살바도르는 몬테크리스토 언덕의 리오프리오 구역에 확립될 공통 국경 조약의 최종안을 제시했습니다. 어찌해야 할까요?"
+els.100.a:0 "조약을 승인해라."
+els.100.b:0 "조약을 거부해라."
+
+els.101.t:0 "과테말라-엘살바도르-온두라스 국경 조약 최종안"
+els.101.d:0 "수년간 우리나라, 온두라스, 엘살바도르 사이에 국경선을 확정하려는 노력을 계속해 왔습니다. 자연 국경이 없다보니 예로부터 국경선에 계속해서 변화가 있었지만, 엘살바도르는 몬테크리스토 언덕의 리오프리오 구역에 확립될 공통 국경 조약의 최종안을 제시했습니다. 어찌해야 할까요?"
+els.101.a:0 "조약을 승인해라."
+els.101.b:0 "조약을 거부해라."
+
+els.102.t:0 "온두라스가 조약에 서명하다"
+els.102.d:0 "온두라스 정부는 공통 국경 조약에 서명하였고 외교 사절단을 되돌려보냈습니다. 바라건대 이로서 양국간에 더 안정된 우호관계가 시작되기를 바랍니다"
+els.102.a:0 "엑셀렌테(완벽해)."
+
+els.103.t:0 "과테말라가 조약에 서명하다"
+els.103.d:0 "과테말라 정부는 공통 국경 조약에 서명하였고 외교 사절단을 되돌려보냈습니다. 바라건대 이로서 양국간에 더 안정된 우호관계가 시작되기를 바랍니다"
+els.103.a:0 "엑셀렌테(완벽해)."
+
+els.104.t:0 "온두라스가 조약을 거부하다"
+els.104.d:0 "온두라스 정부는 우리가 제안한 공동 국경 조약안에 동의하지 않으며 서명을 거부한다는 결정 사항을 통보했습니다. 내각 내 많은 인사가 그들의 거부에 우려를 표명했는데, 저들이 완전히 국경 조약을 체결하기 전까지는 국경 지역 영토를 빼앗으려 시도할 지도 모른다는 사실을 의미하기 때문입니다."
+els.104.a:0 "말디토스 온두라뇨스(망할 온두라스놈들)..."
+
+els.105.t:0 "과테말라가 조약을 거부하다"
+els.105.d:0 "과테말라 정부는 우리가 제안한 공동 국경 조약안에 동의하지 않으며 서명을 거부한다는 결정 사항을 통보했습니다. 내각 내 많은 인사가 그들의 거부에 우려를 표명했는데, 저들이 완전히 국경 조약을 체결하기 전까지는 국경 지역 영토를 빼앗으려 시도할 지도 모른다는 사실을 의미하기 때문입니다."
+els.105.a:0 "말디토스 과테말테코스(망할 과테말라놈들)..."
+
+els.106.t:0 "미국 내전"
+els.106.d:0 "혁명의 불길이 미국을 삼키면서 마르티네스 대통령이 위기에 처했습니다. 이제 미국의 감시를 벗어났으니 수많은 사람들이 거리로 뛰쳐나와 외로운 독재자에 반대하는 시위에 참여하고 있으며, 그늘 속에 숨어있던 내부 분파들이 양지로 드러났으니 마르티네스 독재정권과 언제 부딪힐지 모르는 상황입니다. 주변 적국들이 나쁜 의도를 가지고 엘살바도르를 지켜볼지도 모르기 때문에 국가 안보에 관해서도 또한 걱정해야 합니다..."
+els.106.a:0 "포르 디오스(신이시여)..."
+
+els.107.t:0 "파라분도 마르티가 니카라과에서 돌아오다"
+els.107.d:0 "32개 대학살의 영웅 파라분도 마르티가 최근 미국 내전과 그 결과로 우리나라를 뒤덮은 혼란에 대응하기 위해 귀국했습니다. 사람들은 국내에서 계속되는 충돌의 결과로 인해 발생한 국경 방비 실수를 가지고 마르티네스를 비난하기 시작했습니다. 그럼에도 불구하고 마르티의 귀환으로 점점 더 많은 사람들이 우리에게 저항하기 시작했고, 군 내부에서 질서를 회복하기 위한 쿠데타를 일으키려 한다는 소문이 돌고 있습니다."
+els.107.a:0 "전국에 유혈이 낭자하군."
+
+els.108.t:0 "2차 서부 반란"
+els.108.d:0 "며칠간 이어진 협상 끝에 마르티는 서부에 남아 있는 원주민들을 정부에 대항하는데 함께하자고 회유하는데 성공해낸 모양입니다. 오늘, 대부분 원주민 출신의 소작농 수천명이 정부에 대항한 봉기에 참가했습니다. 마체테로 무장하고 마르티 아래에서 싸우는 소작농들은 소소난테 지역에 있는 여러 작은 마을과 무기고를 점거하는데 성공했습니다. 반란이 인근 지역으로 확산되면서 우리나라는 혼돈에 빠졌고 경찰과 반군간에 총격전이 전국적으로 벌어지는 추세입니다."
+els.108.a:0 "다시 피바다가 벌어지겠군."
+
+els.109.t:0 "군대 이동"
+els.109.d:0 "반란이 한창 진행중이던 와중 마르티네스 대통령이 산살바도르를 완전히 장악하기 위해 군대를 집결시켰습니다. 하지면 마르티네스는 반군과 직접 결전을 벌일지 아니면 반군이 접수하지 못한 다른 지역을 먼저 접수할지 결정을 아직도 내리지 못했습니다. 반란군과 직접 결전을 벌인다는 선택지에 더 끌릴지도 모르지만, 아군의 사기가 낮은 상태이고 조직력도 좋게 말해봐야 어두운 상태이므로 힘들지도 모릅니다. 한편 반란군이 통제하지 못한 지역을 확보하기로 결정내린다면 저들이 이미 통제권을 손에 넣은 지역에서 장악력을 더욱 공고히 할 지도 모른다는 위험이 존재합니다."
+els.109.a:0 "군대를 파견해서 사태를 끝내버려라!"
+els.109.b:0 "소모전을 벌일 때다."
+
+els.110.t:0 "군사 반란"
+els.110.d:0 "반란군과 직접 대면하기 위해 군대를 보낸 직후 비극적인 실패를 맛보게 되었습니다. 반군 점령지에 도착한 부대는 곧바로 전역에서 게릴라 공격에 계속해서 두들겨 맞았고 결국 작은 마을 아르메니아에서 엄청난 패배를 당하면서 정점을 찍었습니다. 아르메니아 전투에서 몇개 대대는 아예 궤멸되었고 살아남은 부대는 장교들이 내부 분열을 일으키면서 완전히 마비상태에 이르렀습니다. 군대는 산살바도르로 돌아오고 있으며, 오스민 아기레 이 살리나스가 대통령과 지금 당장 대면하고 싶다는 요청을 전해왔습니다."
+els.110.a:0 "뭐 그렇다면..."
+
+els.111.t:0 "마르티네스의 종말"
+els.111.d:0 "오스민 아기레 이 살레나스 장군의 지휘 아래 군대가 산살바도르에 진주하여 도시를 접수했고, 날이 지나기 전에 대통령 관저에 돌입하여 마르티네스를 감옥에 쳐넣었습니다. 살리나스는 스스로 대통령이 되었고, 군대의 지원을 받아 서부 반란군을 몰살하겠다는 대담한 선언을 발표했습니다. 군인들의 사기가 올라갔고 현재 집결하고 있는 반란군의 공격을 방어하는 작전을 수행하기 위해 준비하고 있습니다."
+els.111.a:0 "새로운 시대가 시작했다!"
+
+els.112.t:0 "사회주의자들이 서부를 장악하다!"
+els.112.d:0 "아구스틴 파라분도 마르티가 이끄는 사회주의 세력이 서부에 고립된 소규모 주둔군들을 마침내 처리해냈고 서부 지역을 확실하게 장악하는데 성공했습니다. 반군은 이제 외국의 지원을 받으며 세력을 불리고 있으며, 엘살바도르의 앞날은 여전히 불투명합니다."
+els.112.a:0 "우리의 운명이 경각에 달했다."
+
+els.113.t:0 "아르투로 아라우호가 혁명을 지지하다!"
+els.113.d:0 "1932년 마르티네스의 쿠데타로 쫓겨났으며 현재 노동당 지도자로 활동하는 아르투로 아라우호 전대통령이 반군에 지지를 표명하면서 조국의 민주주의를 지키고자 하는 모든 엘살바도르 사람들이 반군에 가담해 폭군에 대항하여 싸워야 한다고 역설했습니다. 그가 대중에 끼치는 영향력을 과소평가해서는 안되며, 국민들이 공개적으로 반군에 가담하지 않도록 순찰대를 국경 도시로 파견해야 합니다. 날이 갈수록 상황이 심각해져만 갑니다..."
+els.113.a:0 "¡말디토 세아(망할 자식)!"
+
+els.114.t:0 "거리에서의 전투"
+els.114.d:0 "마르티네스의 명령에 따라 아군이 서부 전역으로 산개해서 배치되었고 지리한 전쟁에서 적과 마주칠 준비를 완료했습니다. 하지만 아군이 넓고 얇게 퍼져 있기 때문에 빨치산 집단이 산살바도르에 직접 공격을 가하기 시작했습니다. 반군이 서부에서 공세를 개시한 이 상황에 전선으로 군대를 더 보내야 할지 아니면 빨치산을 진압하기 위해 군을 투입할지 결정해야 합니다."
+els.114.a:0 "수도를 확보해야만 한다. 반빨치산 부대를 증원해라!"
+els.114.b:0 "전선이 무너지도록 놔둘 수는 없다. 주력군을 증원해라!"
+
+els.115.t:0 "전선 유지"
+els.115.d:0 "증원이 부족했음에도 불구하고 전선에 주둔한 부대는 공격을 가까스로 물리쳤고, 빨치산도 격파하면서 반란군 세력 대부분이 진압되었습니다. 이제 숙련된 병사가 되어버린 반빨치산 부대를 전선으로 보냈으니 반란군 심장부에 마지막 대공세를 실시할 날도 멀지 않았습니다. 반군 패잔병을 짓밟으며 전진하는 아군을 막는 저항 세력도 그다지 없으니 마르티네스의 승리가 거의 확실해 보입니다."
+els.115.a:0 "프로파트리아는 항상 견뎌낸다."
+
+els.116.t:0 "빨치산이 수도를 점령하다"
+els.116.d:0 "전선을 강화하기로 결정한 이래로 더 이상 반빨치산 부대가 수도의 주요 보급 요충지와 무기고를 계속해서 습격하는 빨치산 공세에 당해낼 수 없는 상황에 놓였습니다. 결국 빨치산 세력은 도시를 접수할 수 있을 만큼 불어났고 산살바도르가 함락되었습니다. 산살바도르 함락으로 전선이 붕괴되었고 반란군이 전국 대부분을 장악했습니다. 마르티네스 정권의 몰락이 거의 확실시 되었습니다."
+els.116.a:0 "끔찍한 시대가 지나갔구나."
+
+els.117.t:0 "대치 상황"
+els.117.d:0 "반란군에게 대패한 이후 가까스로 군대를 수습했습니다. 그리고 병사들은 살리나스가 공세를 지휘하는 동안 전투를 계속할 준비가 되어있습니다. 하지만 군 내 많은 사람들이 살리나스 대통령의 안전 문제에 우려를 제기하고 있으며, 인기 있는 대통령에게 전투가 벌어지는 동안 산살바도르에 머물러 있으라고 요청했습니다. 그를 수도에 남겨둔다면 분명히 군 사기가 떨어지겠지만, 전선에 놔둔다면 살리나스가 큰 부상을 입거나 죽을 수도 있고 그렇게 된다면 아군은 끝장이 나고 말 겁니다. 어찌해야 할까요?"
+els.117.a:0 "지도자 없이 싸울 수는 없다."
+els.117.b:0 "국가 전체를 위해서 살리나스는 안전한 지역에 있어야 한다."
+
+els.118.t:0 "살리나스가 승리를 거두다!"
+els.118.d:0 "살리나스가 전선에서 아군을 이끄는 가운데, 우리는 급하게 소집된 반란군을 격파해냈고 산소난테와 아우아차판에서 승리를 거두면서 반라눈에 엄청난 타격을 입혔습니다. 아직 농촌에는 작은 빨치산 집단들이 산개해 있지만, 살리나스의 승리는 이제 거의 확실합니다."
+els.118.a:0 "엘살바도르를 위하여!"
+
+els.119.t:0 "살리나스가 부상입다!"
+els.119.d:0 "산소난테 전투 동안 눈먼 총알 한 발이 살리나스 장군을 덮쳤고, 의료진의 보호를 받기 위해 뒤로 물러날 수 밖에 없었습니다. 살리나스가 사망했다는 소문이 퍼지기 시작하자 부대 사기가 급격히 떨어졌고 이로 인해 반란군이 엘살바도르군을 격파해낸 성공적인 반격 작전을 실시할 수 있었습니다. 반란군이 산살바도르를 확보하였으니 반군의 승리가 거의 확실해 보입니다."
+els.119.a:0 "혁명을 위하여!"
+
+els.120.t:0 "메넨데스의 실패"
+els.120.d:0 "살리나스의 빈자리에 메넨데스가 군을 이끌고 산소난테의 반란군을 물리치기 위해 파견되었습니다. 대통령이 비교적 안전한 관저에서 머무르는데 반해 사기가 매우 저하된 엘살바도르군은 포위된 채로 적과 맞닥트리게 되었습니다. 살리나스에게 배신감을 느낀 병사들은 그가 포학한 마르티네스와 다를 바 없다고 토로하며 도망쳤고, 남은 병사들은 힘을 얻은 반군의 공격에 패퇴했습니다. 살리나스가 가족과 스스로를 지키기 위해 외국으로 망명을 떠났다는 보고가 있었고, 혁명의 승리는 거의 확실시되었습니다."
+els.120.a:0 "혁명을 위하여!"
+
+els.121.t:0 "신 엘살바도르"
+els.121.d:0 "산살바도르에서 마지막으로 저항하는 포위망을 정리하고 대통령 관저를 확보한 후, 반란을 이끈 여러 정치 파벌들이 대통령 관저에서 회의를 개최했습니다. 회의에서 나라의 정치적 미래를 둘러싼 주제를 논의할 겁니다. 아라우호가 이끄는 민주주의자 파벌은 민주주의 체제와 대통령제를 복원하기를 원하지만, 마르티가 이끄는 생디칼리스트 파벌은 구체제를 혁파하고 새로운 생디칼리슴 체제를 수립해야 한다고 주장합니다. 밤이 가까워지고 있고 인민들은 엘살바도르의 미래를 결정할 선언을 기다리고 있습니다."
+els.121.a:0 "생디칼리슴 국가가 수립되었다."
+els.121.b:0 "엘살바도르에 대통령제가 항상 최선의 선택이었으니 민주주의를 복원해야 한다."
+
+els.122.t:0 "신 엘살바도르"
+els.122.d:0 "산살바도르에서 마지막으로 저항하는 포위망을 정리하고 대통령 관저를 확보한 후, 반란을 이끈 여러 정치 파벌들이 대통령 관저에서 회의를 개최했습니다. 회의에서 나라의 정치적 미래를 둘러싼 주제를 논의할 겁니다. 아라우호가 이끄는 민주주의자 파벌은 민주주의 체제와 대통령제를 복원하기를 원하지만, 마르티가 이끄는 생디칼리스트 파벌은 구체제를 혁파하고 새로운 생디칼리슴 체제를 수립해야 한다고 주장합니다. 밤이 가까워지고 있고 인민들은 엘살바도르의 미래를 결정할 선언을 기다리고 있습니다."
+els.122.a:0 "생디칼리슴 국가가 수립되었다."
+els.122.b:0 "엘살바도르에 대통령제가 항상 최선의 선택이었으니 민주주의를 복원해야 한다."
+
+els.123.t:0 "[GetYear]년 엘살바도르 조기 선거"
+els.123.d:0 "거의 10년간 이어진 독재 정권 끝에 마침내 임시 대통령 아라우호가 약속했던 대로 첫 선거가 열렸습니다. 개표가 진행되면서 국민들은 과연 누가 엘살바도르에 새로운 시대를 열 주춧될이 될지 애타게 기다리고 있습니다."
+els.123.a:0 "노동당이 승리를 지켜냈다!"
+els.123.b:0 "국민민주당이 돌아왔다!"
+els.123.c:0 "마르티의 생디칼리스트들이 민주적 승리를 쟁취했다!"
+
+els.124.t:0 "살바도르 카스타녜다 카스트로의 정부 장악!"
+els.124.d:0 "민주주의를 지지하는 지역에서 큰 파업이 터지자 한 특공부대가 대통령 관저에 잠입해 대통령을 감금하는 놀라운 사태가 터졌습니다. 이번 사건을 총괄한 살바도르 카스타녜다 카스트로는 생디칼리슴 극단주의로부터 엘살바도르 민주주의를 수호하겠다고 천명했고 사태가 해결될 때 까지 엘살바도르 임시 대통령직을 수행하겠다고 선언했습니다."
+els.124.a:0 "마침내 국가 안정이 조금이나마 돌아오겠군..."
+
+els.125.t:0 "민주적 자유 회복"
+els.125.d:0 "오늘 민주공화국이 공식적으로 재건되었고 구 헌법이 복원되었습니다. 마르티네스 시대 헌법과 민주정을 해체한 이래로 다른 정당들을 마음대로 다룰 수 있게 되었고, 이로서 타 정당들이 해체되고 기본적으로 일당 독재체제가 확립되었습니다. 이제 국민의 권리가 다시 확보되었으니 여러 소수 정당들이 부활하는 등 구 정권이 밀려나고 있습니다."
+els.125.a:0 "국민을 위한 날이로다."
+
+els.126.t:0 "국민민주당 재탄생"
+els.126.d:0 "알폰소 퀴뇨네스 몰리나가 오늘 국민민주당 개혁을 실시하겠다고 발표했습니다. 자유주의자들의 연대체인 몰리나의 정당은 '멜렌데스-퀴뇨네스 왕조' 시대의 자유주의 정책을 복원하는 것을 목표로 합니다. 노동계급 안에서는 별로 인기를 끌지 못했지만, 몰리나스의 부에 대한 약속이 기업가적인 중산층 뿐만 아니라 노동당을 생디칼리슴이 엘살바도르를 점령하기 위한 도구에 지나지 않는다고 보는 군부 내 온건파의 지지를 받는데 매우 효과적이라는 사실이 증명되었습니다."
+els.126.a:0 "미래가 밝구나."
+
+els.130.t:0 "해외 투자 요청"
+els.130.d:0 "현재 경제가 유례가 없을 정도로 튼튼해졌으니 무역 상대국에게 기술 지원을 요청하는 쪽이 현명할 겁니다. 만약 엄청난 커피 생산량과 비축량을 협상 재료로 사용한다면, 나라를 발전시키는데 쓰일 캐나다의 도구와 기술적인 전문 지식을 귀중한 농작물과 교환할 수 있습니다. 캐나다에서 무역 협정이 가져다줄 이익을 보고 장기적인 발전에 도움이 되는 선택을 하기 바랍니다."
+els.130.a:0 "캐나다에서 우리가 내놓은 무역 제안을 어떻게 생각할지 보자."
+
+els.131.t:0 "엘살바도르가 지원을 주고받는 무역관계를 제안하다"
+els.131.d:0 "엘살바도르 대표단이 오늘 무역 제안서를 들고 오타와에 왔습니다. 그들은 우리나라 커피 수요량을 충족시켜주는 대가로 자국 발전에 꼭 필요한 도구와 기술 지원을 제공해 달라는 교환 조건을 제시했습니다. 중앙아메리카에 있는 약소국 엘살바도르는 제국과 동맹국들에게 그다지 위협이 되지 않으며, 저들의 발전을 도와준다면 우리에게도 이익이 올 겁니다. 어찌해야 할까요?"
+els.131.a:0 "무역 계약을 체결하자."
+els.131.b:0 "무역 계약을 거부하자."
+
+els.132.t:0 "캐나다가 무역 협정에 동의하다"
+els.132.d:0 "오타와에 파견한 대표단이 캐나다가 무역 조약을 체결하는데 동의했다는 소식을 보냈습니다. 엘살바도르와 국민들에게 좋은 순간입니다!"
+els.132.a:0 "그들의 도움에 감사를 표한다."
+
+els.133.t:0 "캐나다가 무역 협정을 거부하다"
+els.133.d:0 "오타와에 파견한 대표단이 캐나다가 무역 조약을 거부했다는 소식을 보냈습니다. 제안을 수정하지 않는다면 저들은 빈손으로 돌아올 수 밖에 없을 것이고, 조국의 발전도 잠시 늦어질 겁니다. 그렇다고 하더라도 우리나라가 강인하다는 사실은 변하지 않으며 우리는 이 좌절을 극복해내고 말겁니다."
+els.133.a:0 "¡말디타 세아(망할 놈들)!"
+
+els.134.t:0 "해외 투자 요청"
+els.134.d:0 "현재 경제가 유례가 없을 정도로 튼튼해졌으니 무역 상대국에게 기술 지원을 요청하는 쪽이 현명할 겁니다. 만약 엄청난 커피 생산량과 비축량을 협상 재료로 사용한다면, 나라를 발전시키는데 쓰일 브리튼의 도구와 기술적인 전문 지식을 귀중한 농작물과 교환할 수 있습니다. 브리튼에서 무역 협정이 가져다줄 이익을 보고 장기적인 발전에 도움이 되는 선택을 하기 바랍니다."
+els.134.a:0 "브리튼에서 우리가 내놓은 무역 제안을 어떻게 생각할지 보자."
+
+els.135.t:0 "엘살바도르가 지원을 주고받는 무역관계를 제안하다"
+els.135.d:0 "엘살바도르 대표단이 오늘 무역 제안서를 들고 런던에 왔습니다. 그들은 우리나라 커피 수요량을 충족시켜주는 대가로 자국 발전에 꼭 필요한 도구와 기술 지원을 제공해 달라는 교환 조건을 제시했습니다. 중앙아메리카에 있는 약소국 엘살바도르는 제국과 동맹국들에게 그다지 위협이 되지 않으며, 저들의 발전을 도와준다면 우리에게도 이익이 올 겁니다. 어찌해야 할까요?"
+els.135.a:0 "무역 계약을 체결하자."
+els.135.b:0 "무역 계약을 거부하자."
+
+els.136.t:0 "브리튼 연방이 무역 협정에 동의하다"
+els.136.d:0 "런던에 파견한 대표단이 브리튼이 무역 조약을 체결하는데 동의했다는 소식을 보냈습니다. 엘살바도르와 국민들에게 좋은 순간입니다!"
+els.136.a:0 "그들의 도움에 감사를 표한다."
+
+els.137.t:0 "브리튼 연방이 무역 협정을 거부하다"
+els.137.d:0 "런던에 파견한 대표단이 브리튼이 무역 조약을 거부했다는 소식을 보냈습니다. 제안을 수정하지 않는다면 저들은 빈손으로 돌아올 수 밖에 없을 것이고, 조국의 발전도 잠시 늦어질 겁니다. 그렇다고 하더라도 우리나라가 강인하다는 사실은 변하지 않으며 우리는 이 좌절을 극복해내고 말겁니다."
+els.137.a:0 "¡말디타 세아(망할 놈들)!"
+
+els.200.t:0 "프루덴시아 아얄라 사망"
+els.200.d:0 "오늘 작가이자 언론인, 그리고 여성 참정권 운동가 프루덴시아 아얄라가 자던 중에 평화롭게 세상을 떠났습니다. 아얄라는 원주민 가족에서 태어났고 세계대전에서 카이저가 승리할 것이고 미국은 여기에 개입하지 않으리라는 당시 논쟁이 많았던 사실을 예측해낸 일로 엘살바도르 내에서 유명세를 얻었습니다. 아얄라는 자신의 유명세를 활용해 여성의 권리와 엘살바도르 여성 선거권 운동을 전개했고, 수많은 책과 기사를 쏟아냈으며 1930년에는 대통령 선거에 출마까지 했습니다. 그녀의 정치 경력은 대법원이 대통령 출마를 거부하면서 짧게 끝나 버렸지만, 대통령 선거 출마를 시도하려 해봤다는 사실 하나만으로도 엘살바도르 사회 내에서 여성의 역할에 대한 논쟁을 불러일으켰습니다. 아얄라가 국내 페미니스트 운동을 사실상 만들어냈다는 사실을 볼때, 그녀의 유산이 여전히 살아 숨쉬고 있음을 알 수 있습니다."
+els.200.a:0 "케 엔 파스 데스칸세(고이 잠드소서)."
+
+els.201.t:0 "펠리시아노 아마가 원주민 평의회 창립을 제안하다"
+els.201.d:0 "아마가 파라분도 마르티에게 다소 특이한 정책을 제안했습니다. 원주민들이 엘살바도르 정치게에 더 큰 목소리를 낼 수 있도록 원주민 평의회를 창설하자는 겁니다. 이론상으로 평의회가 전통적인 노동조합보다 더 큰 권한을 가질 수는 없겠지만, 아마는 이 정책이 모든 엘살바도르 인민을 통합하기 위한 첫 단추가 되리라고 생각합니다. 피필족과 렌카족 두 거대 원주민 집단이 평의회를 주도하겠지만, 신카족, 믹세족, 마야 포코맘족, 알라길락족, 마야 초르티족, 그리고 서부의 카카오페라족과 동부의 망게족 등 수많은 다른 소수 부족들에게도 참석의 기회를 존중하고 보장해 줄 겁니다. 정부의 승인만 내려진다면 평의회가 이 모든 부족들을 소집해 목소리 높여 의견을 개진하고 우리 정부를 지원할 수 있습니다."
+els.201.a:0 "물론이지! 환영한다네."
+
+els.202.t:0 "홍수가 발레 돌로레스와 아풀로 마을을 파괴하다!"
+els.202.d:0 "최근 날씨 때문에 일로팡고 호수가 범람하여 근처에 있던 작은 마을 발레 돌로레스와 아풀로가 물에 잠겨버렸습니다. 홍수로 인한 사망자가 있는지는 아직 확인되지 않았지만, 여전히 홍수에 갇혀 있는 시민들에게는 충분한 보급품이 없으며 자신들을 구조해줄 정부의 도움을 필요로 하고 있습니다. 하지만 희생자들을 즉각 돕기 위해 출동할 만한 제대로 된 해군이나 해안경비대가 없습니다. 때문에 많은 공무원들이 희생자들을 돕기 위해 국민들에게 기부금을 모금하자는 계획을 제시했습니다."
+els.202.a:0 "우리에게는 저들을 도와야만 하는 의무가 있다."
+
+els.203.t:0 "공군이 항공기를 이용한 공중 보급을 통해 수재민에게 식량을 공급하다"
+els.203.d:0 "정부가 수재민을 돕기 위해 목선 몇 척을 준비하는 동안 공군이 자진해서 구조 업무를 돕겠다고 나섰습니다. 공군은 구형 WACO기와 신형 커티스-라이트 복엽기에 보급품과 편지들을 싣고 날아가 피해 지역에 고립된 생존자들에게 물품을 뿌리는 이전에 본 적 없던 방법을 사용했습니다. 공급량이 늘어나면서 목선 함대를 빨리 집결시켜 수재민을 구할 수 있는 시간을 벌었습니다. 이제 침수된 마을들에서 건져낼 수 있는 모든 것들을 건져내고 마을 사람들을 이주시키는데 집중해야 합니다."
+els.203.a:0 "공군의 모토는 단순한 겉치레가 아니었군."
+
+els.209.t:0 "메넨데스가 육군으로 복귀를 요청하다"
+els.209.d:0 "감옥에 갇힌 메넨데스 장군이 공개 서한을 작성했습니다. 여기서 그는 마르티네스 독재정권 동안 자신이 행한 행동을 자세히 설명했습니다. 또한 조국 민주화 과정에 함께하지 못했다는 사실에 안타까움을 느끼지만, 앞으로 우리와 함께하고자 하는 의향이 있다고 역설했습니다. 뒤이어 다비드 호아킨 구스만이 1916년 쓴 '엘살바도르 국기에 바치는 기도'를 인용했습니다. 편지의 마지막 부분은 조국에 다시 한번 봉사하고 싶다는 마음을 다시 한번 드러내며 끝냈습니다. 메넨데스 장군을 복직시켜야 할까요?"
+els.209.a:0 "복귀시켜줘라."
+els.209.b:0 "구 군부 구성원을 믿을 수는 없다."
+
+els.210.t:0 "산타아나 지역에서 천연두 창궐"
+els.210.d:0 "연례 보고서가 들어오던 와중, 의료기관에서 작년 엘살바도르에서 천연두 발병이 다시 시작했다는 놀라운 보고서를 제출했습니다. 1935년에 일어났던 수준으로 심각하지는 않지만, 많은 사람에게 의료 서비스를 제공할 수 없는 상황이기 때문에 천연두 발병은 여전히 정부에 있어서 걱정거리입니다."
+els.210.a:0 "재수없는 사건이 터졌군."
+
+els.211.t:0 "마르티네스가 천연두 발병 대응책을 강구하다"
+els.211.d:0 "오늘 마르티네스 대통령이 전국적으로 모든 광장에 설치된 램프들을 덮어버리라는 명령을 내렸습니다. 그의 엄밀한 이론적 견해에 따르면 램프를 가림으로써 국민들을 질병으로부터 보호할 수 있으며, 이미 전염된 사람들을 치료할 수 있다고 합니다."
+els.211.a:0 "그다지 도움이 되지 않을텐데..."
+
+els.212.t:0 "마르티네스가 개인 총기소지 금지령을 강화하다"
+els.212.d:0 "최근 일어난 봉기로 인해 마르티네스는 경찰법을 강화하기로 결정했습니다. 이제 누구든 어떤 이유든 무기 소지는 완전히 금지되며 적발시에는 처벌할 수 있게 되었습니다. 총기 소유주들은 공개적으로 금지 조치에 반대 입장을 표명했지만 결국 따를 수 밖에 없었습니다. 이제 우리나라에 질서를 회복하는데 사용할 수 있는 총기 몇 정을 획득했습니다."
+els.212.a:0 "모두에게 환영받지는 않겠지만 질서를 보장하기 위해 꼭 필요한 조치였다."
+
+els.213.t:0 "아고스티나스 축제"
+els.213.d:0 "식민지 시대 이래로 엘살바도르의 여러 기독교적 전통을 전국적 문화로 채택해야 한다는 굉장히 강력한 기독교 운동이 계속되었습니다. 부활절과 크리스마스에 준하는 엘살바도르의 주요 국경일은 '피에스타스 파트로나레스 데 산 살바도르(산 살바도르 수호성인 축제)' 줄여서 '아고스티나스 축제'를 여는 날입니다. 일주일간 계속되는 축제 기간 동안 신약성서에 기록된 예수님의 현성용을 기념하기 위한 수많은 종교적 제례와 박람회가 열립니다. 마지막 날에는 산살바도르 대성당에서 연병장까지 이어지는 행진과 동시에 기념 행사를 개최합니다. 한편으로는 사람들과 정부를 돕기 위해 쓰일 성금을 모금하기도 합니다."
+els.213.a:0 "다함께 축하하세!"
+
+els.214.t:0 "아고스티나스 축제"
+els.214.d:0 "아고스티나스 축제날이 돌아왔습니다. 현재 우리나라 전체가 종교적 믿음을 축하하며 다시 한번 크게 기뻐하고 있습니다"
+els.214.a:0 "다함께 축하하세!"
+
+els.215.t:0 "산미구엘 축제"
+els.215.d:0 "엘살바도르보다 동쪽에 있는 지역에서 가장 중요한 도시인 산미겔 마을에서는 매년 5월 8일마다 406년전 루이스 데 모스코소 선장이 도시를 처음 지은 날을 기념하면서 '카르나발론'이나 '산미구엘 축제' 라고 부르는 축제를 엽니다. 전국적인 규모로 본다면 그다지 중요한 축제가 아닐 지도 모릅니다. 하지만 이 날을 전후해서 전국적으로 퍼레이드와 기념행사를 여는 지역이 많기 때문에 엘살바도르의 주요 국책 축제로 선정되었고 수많은 예술가들과 공연자들을 끌어들이며 모든 방문객들이 즐길 수 있는 행사로 육성했습니다. 그 외에도 카니발을 통해 수천명의 관광객들과 여러 상인들, 그리고 사업가들이 도시로 모여들었고 이로 인해 적지만 안정된 세금 수입이 추가로 들어옵니다."
+els.215.a:0 "건배!"
+
+els.216.t:0 "산미구엘 축제 연기"
+els.216.d:0 "산미구엘 축제는 처음 개최한 이래로 엄청나게 성장했지만, 사실은 기념일이 지역의 '건기'와 겹쳐버리면서 더 이상 성장하기 힘든 상황에 놓였습니다. 엘살바도르 국내 여행자든 해외 관광객이든간에 오기 힘든 때이기 때문입니다. 이를 염두에 두고 산미구엘 시의회는 축하 행사를 11월 마지막 주 주말로 연기하는 안을 통과시켰고, 대통령의 공식적 인가를 기다리고 있습니다. 통과시킨다면 더 많은 이익이 들어올 것이고, 더 많은 사람들을 축제로 끌어들일 수 있습니다. 하지만 우리의 전통에 대한 작은 위배가 됩니다. 어찌해야 할까요?"
+els.216.a:0 "승인해라"
+els.216.b:0 "거절해라"
+
+els.217.t:0 "산미구엘 축제"
+els.217.d:0 "산미구엘 축제가 연간 일정에 맞추어 다시 시작되었습니다. 국민들은 축제를 흥겹게 즐기고 있으며, 유입된 관광객들도 우리가 사용할 수 있는 추가 이익을 가져다 주었습니다."
+els.217.a:0 "건배!"
+
+els.218.t:0 "산미구엘 축제"
+els.218.d:0 "산미구엘 축제가 연간 일정에 맞추어 다시 시작되었습니다. 국민들은 축제를 흥겹게 즐기고 있으며, 유입된 관광객들도 우리가 사용할 수 있는 추가 이익을 가져다 주었습니다."
+els.218.a:0 "건배!"
+
+### Focuses ###
+
+## Rightist tree ##
+ELS_37_revolution:0 "37년도 혁명"
+ELS_37_revolution_desc:0 "1932년에 엘살바도르를 덮쳤던 혁명의 불길이 다시 돌아왔습니다. 파라분도 마르티의 지휘 아래 서부가 다시 일어섰고, 정부 내 반동 세력은 그들을 멈춰 세워야 할 의무가 있습니다. 오직 시간만이 둘 중에 누가 우세를 점하고 엘살바도르를 손에 넣는데 성공할지 알고 있습니다."
+ELS_vanguard_stands:0 "굳건한 군대"
+ELS_vanguard_stands_desc:0 "남부 생디칼스트 반군을 또 다시 격파해냈으니 새로운 안정의 시대를 회복해야만 합니다. 적군의 마지막 패잔병이 아군에게 완전히 쓸려나간 지금 누가 국가를 새로운 안정의 시대로 이끌지 알 필요가 있습니다..."
+ELS_new_guard:0 "새로운 수호자"
+ELS_new_guard_desc:0 "마침내 폭군 마르티네스가 물러났고 그 대신에 카리스마 넘치는 오스민 아귀레 이 살리나스가 새로 대통령직에 취임했습니다. 살리나스는 여전히 엘살바도르에 안전과 질서를 유지하는데 주력하고 있습니다. 하지만 동시에 국민을 위해 더 나은 엘살바도르를 만들어야 한다고 믿는 개혁주의자이기도 합니다."
+ELS_small_liberties:0 "권리 제한"
+ELS_small_liberties_desc:0 "엘살바도르 시민은 마르티네스 대통령 시대 동안 개인적 자유가 폐지되는 모습을 보았습니다. 상황이 그렇다 보니 자유를 되돌려 주겠다는 거짓 약속을 내걸은 반란군에 수많은 시민들이 참전했다는 사실은 그다지 놀라운 소식이 아닙니다. 미래에 또 다른 봉기가 일어나는 사태를 막기 위해, 제한적인 자유화 과정을 시작할 겁니다. 이로써 급진주의자들이 대중을 거짓된 자유의 약속으로 호도하지 않도록 할 수 있습니다."
+ELS_strengthen_police:0 "국가수비대 확충"
+ELS_strengthen_police_desc:0 "1912년 아라우호 대통령이 창설한 국가수비대는 엘살바도르가 처한 상황 때문에 엄청난 노력이 들어가는 업무인 국가 전역에서 평화를 유지하고 범죄와 싸우는 임무를 부여받았습니다. 마르티네스 정권 시절 시행된 몇 차례의 재편이 국가수비대를 크게 악화시켰습니다. 또 다른 반란을 피하기 위해서는 국가수비대를 강화해야 합니다."
+ELS_military_loyalties:0 "군의 충성"
+ELS_military_loyalties_desc:0 "일부 장교들이 마르티네스를 지지했다고 해도 군부 대부분은 그의 독재 정권에 반대했고, 우리와 함께함으로써 그런 사실을 증명했습니다. 이제 우리가 정권을 잡았으니, 군부가 앞으로도 우리를 후원하고 다른 이에게 책임을 돌릴 수 있다는 사실을 인식해야 합니다. 그들의 충성심을 확보해야 하고, 그러기 위해서는 연금과 복리 후생을 부여해야 합니다."
+ELS_new_republic:0 "공화국 재천명"
+ELS_new_republic_desc:0 "마르티네스 대통령은 독재 정권을 유지하기 위해 엘살바도르 공화정 체제를 중단시켰습니다. 이제 신 정부가 들어섰으니 옛 체제를 복원해야 합니다. 그래야만 통치자로서 정당성과 해방자라는 명성을 확실히 할 수 있습니다."
+ELS_constitution:0 "헌법 복원"
+ELS_constitution_desc:0 "1883년 처음 작성된 엘살바도르 헌법은 아라우호 대통령이 축출된 이래로 계속 중단된 상태입니다. 국내 민주주의자들과 친해지기 위해서는 헌법을 복원해야 합니다. 이로써 국내 권력 통합이 완전히 끝날 겁니다."
+ELS_military_state:0 "군과 함께하는 국가"
+ELS_military_state_desc:0 "이런 힘든 시기에 엘살바도르 사람들을 지켜줄 강력한 보호자가 필요합니다. 마침 군대가 정확히 국가와 국민을 위협하는 자들로부터 국민을 보호하겠다는 맹세를 했더군요. 그러니 더 나은 미래를 위해서 군대가 국가기구를 완전히 뒤바꿀 수 있도록 권한을 부여하는 것이 가장 현명한 선택일 겁니다."
+ELS_eliminating_socialists:0 "사회주의자 축출"
+ELS_eliminating_socialists_desc:0 "혁명의 먼지가 가라앉았으니 국내 사회주의자들을 처리하는 일에 주력해야 합니다. 이미 결정적으로 패배했음에도 불구하고 여전히 많은 사람들이 우리의 통치를 인정하지 않고 정글 깊숙히 숨어들어 공격과 암살을 시도하며 전투를 계속하고 있습니다. 저들은 엘살바도르와 국민들에게 위협적인 존재입니다. 그러므로 어떻게든 처리해야만 합니다."
+ELS_militarization:0 "군국화"
+ELS_militarization_desc:0 "시골에서 우리의 장악력이 공고해질수록 우리가 필요로 하는 군인 수도 함께 늘어납니다. 엘살바도르는 약소국이기 때문에 군인 수를 늘리는 유일한 방법은 우리 사회를 뿌리부터 가지까지 완전히 군사화 하는 방법밖에 없습니다. 하지만 군대 내 일부 장교들과 프로파트리아를 지지하는 장교들 사이에 분열이 일어나면서 이들간의 의견 차이를 해결하기 전에는 군대를 효율적으로 전투에 투입할 수 없게 되었습니다."
+ELS_loyal_military_board:0 "선전선동"
+ELS_loyal_military_board_desc:0 "사회주의를 기억하는 마지막 패잔병을 처리하면서 이상한 입장에 처했습니다. 우리가 보호하기 위해 목숨바쳤던 사람들 중 일부가 우리를 반역자이자 살인자라고 매도하고 있었던 겁니다. 국민들에게 우리 정부가 엘살바도르를 더 나은 국가로 만들기 위해 존재한다는 사실을 알려주어야 합니다. 그러기 위해서 가장 벽지에 떨어진 마을까지도 도달할 대대적인 선전활동에 자금을 지원할 겁니다."
+ELS_rooting_memories:0 "과거를 지우다"
+ELS_rooting_memories_desc:0 "혁명가들을 기념하는 팜플렛, 기념비, 그리고 비공식적 기념품들이 전국에서 흔하게 발견됩니다. 엘살바도르에서 사회주의를 뿌리뽑기 위해서는 이런 상징물들을 완전히 없애야 합니다. 혁명가를 숭배하는 관습이 완전히 잊혀지고 순교자들이 그냥 범죄자가 될 때까지 반군의 명예를 손상시키는 대대적인 선전전을 개시할 겁니다."
+ELS_military_relations:0 "군과의 관계"
+ELS_military_relations_desc:0 "혁명이 시작된 이후 수년간 군대와 프로파트리아당 사이에 형성되어 있던 깊은 갈등이 마침내 세상에 알려졌습니다. 차이점보다는 결속력이 우선되어야만 하기 때문에 확대된 군대와 우리 사이에 금가버린 관계를 해결할 필요가 있습니다. 최소한 파라분도 마르티 같은 사회주의자들의 엘살바도르에 대한 위협이 없어질 때까지 만이라도 그렇게 해야 합니다."
+ELS_pro_patria_stands:0 "프로파트리아당의 정권유지"
+ELS_pro_patria_stands_desc:0 "1931년 마르티네스가 엘살바도르에 대한 지배력을 공고히 하기 위해 창당한 프로파트리아당은 엘살바도르를 파괴하려 했던 폭풍을 다시 한번 이겨냈습니다. 적들이 서부에서 완전히 박살났으니 우리의 위치를 다시 한번 확보하면서 이번에야말로 엘살바도르를 위협하는 모든 반역자들을 완전히 제거하기를 희망합니다."
+ELS_expand_military_youth:0 "유소년 군조직 확충"
+ELS_expand_military_youth_desc:0 "혁명가들 가운데 유토피아에 대한 약속에 속아넘어간 이상주의적인 젊은이 출신이 굉장히 많다는 사실을 알아챘습니다. 앞으로 다시는 이런 일이 없도록 군사청소년 프로그램을 확대하여 의무화해야 합니다. 그렇다면 모든 엘살바도르 십대들이 마르티나 아마 같은 급진주의자들에게 선동당하지 않도록 엘살바도르를 사랑하고 존경하는 법을 배을 겁니다."
+ELS_promote_national_board:0 "국채 발행"
+ELS_promote_national_board_desc:0 "우리의 주요 지지층은 국가위원회를 통해 통치자에게 조언을 제공하는 농촌 유력자들로부터 나옵니다. 우리나라를 경제적 혼란에 빠트렸던 경제위기가 마침내 진정되었으니 우리와 함께했던 이들에게 보상하는 쪽이 현명할 겁니다. 이런 이유로 국가위원회를 강화하고 충성을 바친 이들에게 보조금을 지급하여 앞으로도 이런 제휴관계를 이어갈 수 있도록 해야 합니다."
+ELS_power_one:0 "권력을 하나로"
+ELS_power_one_desc:0 "엘살바도르 민주주의는 처음 시도된 이래로 계속해서 실패만 거뒀고, 더 이상 언쟁만을 일삼는 정치인들에게 국가의 미래를 믿고 맡길 수는 없습니다. 마르티네스 대통령은 엘살바도르를 더 나은 국가로 만들기 위해 일생바쳐 노력해왔으니, 대통령에게 더 넓은 행정적 권리를 보장해주어야 합니다. 낡은 법 체계가 부과하는 제한을 해제하여 마르티네스가 엘살바도르를 더 나은 미래로 이끌어가는데 필요한 힘을 실어주어야 합니다."
+ELS_consolidate_state:0 "국가통합"
+ELS_consolidate_state_desc:0 "엘살바도르 정치체제는 나라가 완전한 무정부 상태에 빠지지 않도록 막는 유일한 존재입니다. 모든 엘살바도르 시민의 복리를 추구하기 위해 시민들의 일상생활에까지 정부의 역할을 확대해서 국가가 모두를 감시하고 있다는 확신을 주어 모두를 안심시켜 줄 겁니다."
+ELS_law_reform:0 "사법개혁"
+ELS_law_reform_desc:0 "마르티네스 대통령은 엘살바도르의 미래를 보장하기 위해서는 사법 개혁을 실시해야만 한다고 믿습니다. 개혁 중 하나는 시민사회에서 단순한 사냥용 소총부터 도검류까지 어떤 종류의 무기라도 소유할 수 없도록 조치하는 겁니다. 이로써 우리가 폭력 사용을 독점하는데 도움이 될 것이며, 새로운 법률과 함께 범죄와 싸우고 새로운 반란을 피하는 방향으로 대중을 더 잘 다룰 수 있게 됩니다."
+ELS_military_grants:0 "군 상여금"
+ELS_military_grants_desc:0 "우리가 권력을 확보했다고 해도 조국을 안전하게 지키도록 해주는 혈맹을 버려서는 안됩니다. 최근 군대와 사이가 좋지 않았기 때문에 마르티네스는 육군 봉급과 연금 인상안을 제안했습니다. 이로써 여러 충성심이 의심되는 관리들의 충성심을 확보할 수 있는 것은 물론이고, 시민들 중 더 많은 사람들이 봉급이 센 직업을 찾아 정부를 위해 기꺼이 봉사하기를 원하기 때문에 신병 모집에도 도우미 될 겁니다."
+
+## Syndie Tree ##
+ELS_revolutionary_ideals:0 "혁명의 이상"
+ELS_revolutionary_ideals_desc:0 "엘살바도르 인민들은 군부 독재와 폭군 마르티네스에게 너무도 많은 억압을 받았습니다! 수도가 인민의 손에 들어온 지금, 민주주의자와 생디칼리스트의 연대로 엘살바도르의 운명이 다시 한번 밝게 빛나고 있습니다. 그러나 앞으로 누가 엘살바도르를 이끌지에 대한 의견 충돌은 여전히 해결되지 않은 상태입니다..."
+ELS_social_ideal:0 "생디칼리스트의 꿈"
+ELS_social_ideal_desc:0 "엘살바도르를 이끌 인물은 자유와 평등의 이상을 품은 파라분도 마르티일 겁니다. 전사이자 학자인 마르티는 엘살바도르 노동자, 원주민, 소작농들 사이에서 단결의 상징이 되었습니다. 엘살바도르를 더 나은 내일로 이끌기 위해서는 그를 선택하는 쪽이 자연스럽습니다."
+ELS_presidency_restoration:0 "대통령제 복원"
+ELS_presidency_restoration_desc:0 "엘살바도르는 1881년 '프리메르 그리토 데 인데펜덴시아 센트로아메리카나(중앙아메리카 최초의 독립선언)'을 선언한 이래로 강력한 민주적 전통을 가지고 있습니다. 선조들이 남겨준 참된 민주주의 체제에 다시 한번 의지할 겁니다. 마르티네스가 폐지한 민주체제를 복원해 적절히 기능할 때까지 아르투로 아라우호가 임시 대통령직을 수행할 겁니다."
+ELS_ensure_liberties:0 "권리 보장"
+ELS_ensure_liberties_desc:0 "마르티네스와 군부가 최근 저지른 악행들은 이전 법 체계와 헌법이 취약하다는 사실을 여실히 드러냈습니다. 이런 폐해가 다시 일어나지 않도록 하기 위해 구 헌법을 복원하면서 동시에 법적 안전장치와 부속 법안들을 제정하기 시작할 겁니다."
+ELS_recall_election:0 "조기선거"
+ELS_recall_election_desc:0 "헌정과 법 체계가 회복되고 정당들이 재구성되고 여러 제도들이 준비되었습니다. 이제 인민이 스스로 우리나라를 이끌어갈 사람들 결정해야 하는 때가 왔습니다..."
+ELS_military_back:0 "돌아온 군대"
+ELS_military_back_desc:0 "이제 국가가 다시 군부의 지배 아래로 돌아왔습니다. 생디칼리슴의 위협이 국내에서 너무도 자유롭게 활개치고 돌아다녔습니다! 그들이 엘살바도르를 파멸로 이끌게 놔두지 않을 겁니다!"
+ELS_reform_constitution:0 "헌법 수정"
+ELS_reform_constitution_desc:0 "헌정이 복원되었지만, 민중의 의지에 반해 마르티네스식 전제정권을 부활시키는 것 외에는 아무것도 할 수 있는 일이 없습니다. 카스트로는 우리가 필요로 하는 바에 알맞게 헌법을 개정하는 방향이 유일한 선택지이며 최선의 선택지라는 결정을 내렸습니다. 헌법 조문을 꼬아놓는다면 엘살바도르 내의 반체제 인사들을 완전히 처분할 수 있는 정당성과 권력을 모두 얻게 될 겁니다."
+ELS_stacked_cabinet:0 "정직한 인물"
+ELS_stacked_cabinet_desc:0 "우리 정부는 정직한 엘살바도르 사람을 향하고자 합니다. 들판에서 노동하고 작업장에서 힘들게 일하며 항구와 배에서 일하는 사람들 말입니다. 그들은 누구도 두려워할 이유가 없으며, 지금 무엇을 하고 있느냐고 묻는 정부 관리 앞에서 공포를 느낄 필요가 전혀 없습니다. 반면에 관리들에게 거짓말하면서 기만을 일삼는 자들은 반체제 인사로 감옥에 가게 될 겁니다."
+ELS_removing_socialist_ideals:0 "민주화"
+ELS_removing_socialist_ideals_desc:0 "우리나라가 완전한 민주주의로 향할 준비를 마치기 전에 이전 정부의 영향력을 제거할 필요가 있습니다. 엘살바도르 내에는 아직도 이 아름다운 국가에 해를 끼칠지도 모르는 사람들이 꽤 많이 있습니다. 그들이 선거에서 결정적인 세력을 모으기 전에 반드시 찾아서 투옥해야 합니다. 이것만이 충분히 가동되는 민주주의를 성취할 수 있는 유일한 방법입니다..."
+ELS_new_dynasty:0 "새로운 체제"
+ELS_new_dynasty_desc:0 "멜렌데스-키뇨네스 왕조 시대처럼 한 정치적 왕조가 정권을 휘어잡는 방향으로 확고한 민주주의 체제를 구축하는데 주력해야 합니다. 민중이 이런 사실을 눈치챈다면 그다지 좋아하지 않겠지만, 그렇지 않는다면 우리가 투표에서 패배할 것이 분명하고 엘살바도르에 평화와 안정을 가져다 주기 위해 실시한 개혁을 되돌릴 수 밖에 없을 겁니다."
+ELS_labour_secured:0 "노동당 선출"
+ELS_labour_secured_desc:0 "노동당을 지지하는 인민의 의지에 의해 아르투로 아라우호는 임시 대통령직을 그만두고 오늘 부로 완전하게 민주적으로 선출된 입헌정체의 대통령이 될 겁니다. 오늘은 엘살바도르에서 역사적인 날이며, 모두를 위한 성공적인 민주주의를 확립하기 위한 수많은 절차들 중 하나를 완성한 날입니다."
+ELS_land_redistribution:0 "토지 재분배"
+ELS_land_redistribution_desc:0 "마르티네스 정권에 대한 가장 큰 지지층은 시골 유력자였는데, 그들은 엘살바도르 인민들에게 커다란 해를 끼친 마르티네스 독재 정권을 계속해서 지원했습니다. 만약 엘살바도르를 군부 독재에서 완전히 해방시키고자 한다면, 군부 독재를 지지하는 이들을 물리쳐야만 합니다. 이는 빈곤층을 돕고 유력자들을 무너트리는 토지재분배 프로그램을 실시하겠다는 뜻입니다."
+ELS_national_liberal_comeback:0 "민주국민당의 귀환"
+ELS_national_liberal_comeback_desc:0 "국민민주당을 지지하는 인민의 의지에 의해 아르투로 아라우호가 임시 대통령직에서 내려오고 알폰소 키뇨네스 몰리나가 오늘 부로 완전하게 민주적으로 선출된 입헌정체의 대통령이 될 겁니다. 오늘은 엘살바도르에서 역사적인 날이며, 모두를 위한 성공적인 민주주의를 확립하기 위한 수많은 절차들 중 하나를 완성한 날입니다."
+ELS_natural_mix:0 "자연스러운 연정"
+ELS_natural_mix_desc:0 "마르티네스가 강제 해산하기 전 국민민주당이 추진하던 한 회유책이 여전히 남아 있었습니다. '라 메즈클라 나투랄(자연스러운 연정)'이라고 불리는 이 정책은 노동자와 유력자, 그리고 군부와 사회주의자들을 모두 만족시키려는 노력을 대표합니다. 해당 정책을 회복하고 모든 국민들과 함께 더 나은 내일을 위해 노력할 겁니다."
+ELS_rooting_military:0 "군의 영향력 제거"
+ELS_rooting_military_desc:0 "5년간 이어진 군사 정권과 최근 정권 붕괴를 겪은 이후에도 여전히 군부가 전국적으로 높은 지지를 받고 있습니다. 수많은 비공식 민병대가 결성되었고 몇몇 막사에서는 아직도 우리의 통치를 인정하지 않고 있습니다. 국내 군부 영향력을 뿌리뽑고 군을 우리 손아귀에 넣기 위한 범국민적 운동을 조직해야 합니다."
+ELS_ending_strife:0 "고군분투의 끝"
+ELS_ending_strife_desc:0 "엘살바도르는 부유한 유력자들은 사치스러운 생활을 하는 반면 농촌 노동자들은 굶어죽는 등 심각한 불평등을 겪고 있습니다. 이는 용납할 수 없는 일이고, 지금부터라도 엘살바도르 시민들의 곤경을 끝내기 위한 일련의 복지 개혁을 마련하기 위해 사회주의자들과 협력할 겁니다."
+ELS_rooting_up_poor:0 "빈민구제"
+ELS_rooting_up_poor_desc:0 "폭압적인 군사 정권을 가까스로 전복시키는데 성공한 것은 우리나라의 보잘것없는 농민들과 정직한 노동자들 덕분입니다. 정당으로서 우리가 해야만 하는 의무는 엘살바도르 민주주의라는 이상을 지켜나간 그들의 헌신에 감사를 표하는 뜻에서 생계를 개선해주는 겁니다."
+ELS_establish_middle_class:0 "중산층 형성"
+ELS_establish_middle_class_desc:0 "끊임없는 직권 남용과 정치적 편들기, 그리고 만연한 파벌주의로 인해 우리나라는 농촌 유력자와 살아남기 위해 고군분투하는 노동자계급이라는 두 집단으로 분열되었습니다. 국가가 진정으로 발전하는 유일한 길은 모든 엘살바도르 시민들에게 더 나은 삶으로 도달할 수 있는 사다리를 보장해 주는 겁니다. 이처럼 기발한 재주를 통해 국가의 미래를 대표하는 신생 중산층을 창출하기 위한 노력을 해야 합니다."
+ELS_native_rights:0 "원주민의 권리"
+ELS_native_rights_desc:0 "국내 수많은 원주민 부족들이 우리와 함께 폭압적인 압제자에 맞서 싸웠습니다. 혁명을 성공한 일을 도와준 펠리시아노 아마 같은 족장들에게 감사를 표합니다. 원주민에게 완전한 엘살바도르 시민권을 부여하고 수십년간 엘살바도르 사회를 괴롭혔던 분열을 완전히 없애버림으로써 그들이 바친 충성을 보상할 의무가 있습니다."
+ELS_unifying_salvador:0 "사회통합"
+ELS_unifying_salvador_desc:0 "사회 내에서 원주민 부족들에게 시민권을 부여했지만, 여전히 그들은 고용주와 더 많은 봉급과 더 나은 직업 기회를 가진 크리오요의 후손들에게 심한 차별을 받고 있습니다. 사회 내에서 인종 차별을 종식시키기 위한 엄격한 법률을 제정할 겁니다. 이렇게 한다면 확실하게 국내 인종 갈등을 완전히 끝낼 수 있습니다!"
+ELS_trade_unionism:0 "노동조합주의"
+ELS_trade_unionism_desc:0 "옛 엘살바도르가 타고 남은 재 속에서 새로운 국가가 태어나면서 이제 정치제도도 현대화할 필요성이 제기되었습니다. 파라분도 마르티는 노동조합이 정부 내에서 더 큰 역할을 수행할 수 있도록 하라는 명령을 내렸습니다. 또한 전체적으로 볼 때 엘살바도르 내에서 노동조합 수가 부족하기 때문에 조합을 확장하기도 해야 합니다."
+ELS_removing_class:0 "계급의 종말"
+ELS_removing_class_desc:0 "우리나라는 농촌 유력자가 자신만을 위해 모든 부를 쌓아놓는 반면에 농민들은 간신히 가족들이라도 먹여살리기 위해 힘겹게 살아가는 등 불평등에 시달리고 있습니다. 유력자의 자산을 국유화하고 토지를 압류하기 시작해야 합니다. 이렇게 한다면 우리나라 노동자들과 농민들이 탐욕스러운 유력자의 권력으로부터 진정 자유로워질 겁니다."
+ELS_snapping_military:0 "군을 휘어잡다"
+ELS_snapping_military_desc:0 "군부는 정당한 국가 권력을 거부하면서 숲과 정글로 숨어들어가 지지자들을 공격하고 있습니다. 우리가 우세를 점하고 있지만 반동세력의 잔재를 정리하는데 꽤 많은 노력과 시간이 들어갈 겁니다. 다만 저들이 발전시켜 놓은 전술을 다년간 활용한 덕분에 효과적으로 반동 세력을 진압하고 물리칠 수 있다는 사실을 알고 있습니다!"
+ELS_removing_censorship:0 "검열의 끝"
+ELS_removing_censorship_desc:0 "마르티네스 정권은 가장 온건한 민주주의 성향을 띈 언론부터 우리 민병대가 운영하는 급진 생디칼리즘 언론까지 이념에 상관없이 광범위하게 언론의 자유를 제한했습니다. 정부의 합법성을 공고히하고 민주주의 위에서 경쟁하는 이들의 존경을 받기 위해 단합된 행동을 취하고 언론의 자유를 회복해야 합니다."
+
+## Industrial Tree ##
+ELS_coffee_republic:0 "커피 공화국"
+ELS_coffee_republic_desc:0 "1840년 이래로 커피 수출이 엘살바도르 경제를 온전히 지탱하고 있습니다. 이로 인해 우리는 오랜 기간 동안 '레푸블리카 카페타렐라(커피 공화국)'이라는 별명으로 불렸습니다. 커피에 크게 의존하다 보니 커피 시장에 문제가 생겼을 때 경제에도 다소 문제가 발생하기는 했지만, 커피 수출로 인해 엘살바도르가 크게 강화되었다는 사실은 부정할 수 없습니다."
+ELS_initial_crash:0 "경제파탄의 초기대응"
+ELS_initial_crash_desc:0 "검은 월요일의 영향이 엘살바도르에 마침내 도달하면서 이상한 상황에 처하게 되었습니다. 자체 생산 능력을 가지고 있지 않은 우리의 물품을 사줄 매입국이 사라진 겁니다. 수출이 중단되면서 우리 경제가 세계적인 경제 대재앙으로 큰 고통을 받기 시작했습니다."
+ELS_tapping_entente:0 "협상국을 만나보자"
+ELS_tapping_entente_desc:0 "검은 월요일이 터지기 전에는 미국과 독일에 커피를 수출하는데 크게 의존했습니다. 두 국가 경제가 모두 심각한 상황에 빠진 지금 더 이상 그들에게 의존할 수 없으며, 새로운 동맹국을 찾아야만 합니다. 검은 월요일에도 불구하고 협상국은 여전히 안전한 번영을 구가하고 있습니다. 그들에게 약간 양보를 해준다면 이익을 볼 수 있을 겁니다."
+ELS_promoting_coffee:0 "커피생산 장려"
+ELS_promoting_coffee_desc:0 "커피가 그 어느 때보다도 가장 큰 경제의 활력소가 되었습니다. 이런 경제 위기 상황 속에서는 더 이상 농민들에게 마음대로 재배 품목을 정할 수 있는 권한을 주는 사치를 부릴 수 없습니다. 경제 상황을 개선하기 위해서는 커피 재배에 나서야 합니다."
+ELS_temporary_recovery:0 "일시적인 회복"
+ELS_temporary_recovery_desc:0 "여러 개혁들 끝에 마침내 검은 월요일이 끼친 경제적 피해를 복구할 수 있었습니다. 하지만 여전히 대공황의 여파는 계속되고 있습니다. 완전히 재기하기 위해서는 개혁을 약간 더 시행해야 합니다."
+ELS_minor_development:0 "부차적인 개발"
+ELS_minor_development_desc:0 "개혁을 실시한 이래로 경제가 활기를 회복하기 시작했습니다. 이제 정부가 라리베르타드주 소규모 산업단지 조성 계획에 집중할 수 있게 되었습니다. 이 계획은 국내 산업 확산에 도움이 될 것이며, 여기에 투자한다면 장기적으로 이익을 볼 겁니다."
+ELS_status_foreign_assets:0 "외국인 자산의 현황"
+ELS_status_foreign_assets_desc:0 "악명 높은 유나이티드 프루트 컴퍼니 지부를 위시한 수많은 외국계 기업들이 엘살바도르에 진출해 있습니다. 해당 기업들이 노동법을 왜곡하여 노동자들을 학대하고 있다는 사실이 최근 드러났습니다. 대중이 분노를 터트리기 전애 이 문제를 어떻게 해결할지 결정해야 합니다."
+ELS_revolution_wounds:0 "혁명의 상흔"
+ELS_revolution_wounds_desc:0 "전번에 일어났던 반란은 단순히 사회와 정치에만 악영향을 끼친 것이 아니라 이미 상당히 취약한 상태였던 국내 경제에도 큰 상처를 남겼습니다. 격전지였던 손소난테주와 아우아차판주는 완전히 박살이 나버렸습니다.  해당 주에 커피 재배 가능 지역인 아파네카-이야마테펙 산지가 있기 때문에 그들이 다시 일어서도록 돕는다면 우리에게도 커다란 이익이 돌아올 겁니다."
+ELS_foreign_aid:0 "해외의 원조"
+ELS_foreign_aid_desc:0 "최근 입은 피해는 우리의 힘만으로 복구할 수 없는 수준입니다. 다행이도 우리에게는 풍부한 자원이 주어져 있고 무역 상대국들은 여전히 우리를 충분히 도울 수 있을 정도로 번영하고 있습니다. 무역 상대국에게 새로운 제안을 보내야 합니다. 또한 외국계 기업이 국내에 쉽게 진출할 수 있도록 여러 법률을 개혁함과 함께 세금을 감면하거나 면제해주는 혜택을 부여할 겁니다."
+ELS_agriculture_funding:0 "농업기금 조성"
+ELS_agriculture_funding_desc:0 "엘살바도르의 생명줄은 항상 그랬다시피 농업에 달려있습니다. 최근 위기가 농업노동자와 대지주 양측 모두에게 똑같이 큰 피해를 입혔습니다. 만약 위기에서 회복하고자 한다면 그들을 다시 일으켜 새로운 농작물을 생산하게 만들어야 합니다. 보조금 지급을 시작해 모두가 정상 상태로 돌아가 우리나라가 다시 번영하도록 도울 겁니다."
+ELS_resuming_development:0 "개발사업 재개"
+ELS_resuming_development_desc:0 "혁명이 남긴 상처가 마침내 회복되기 시작하면서 경제가 정상 궤도에 올랐습니다. 또한 엘살바도르 경제 위기가 결국 끝나면서 조국 발전을 재개할 시간이 돌아왔습니다. 엘살바도르가 이웃국가들보다 뒤쳐지도록 놔둘 수는 없으며, 온 중앙아메리카 국가들에게 질시를 받을 정도로 위대한 경제를 건설할 수 있도록 노력할 겁니다."
+ELS_syndie_economy:0 "사회주의 경제"
+ELS_syndie_economy_desc:0 "수년간 우리나라 노동자들은 자본주의 노동 체제 아래에서 부당하게 고통받았습니다. 앞으로 엘살바도르는 알베르토 마스페레르의 생기론 사상에 기반해 성별이나 인종에 관계 없이 모든 개인이 교육, 노동, 식사, 거주 권리에 동등하게 접근 가능한 더욱 공정한 사회를 만들기 위해 노력해야 합니다."
+ELS_agriculture_reforms:0 "농지개혁"
+ELS_agriculture_reforms_desc:0 "엘살바도르에서 농업은 가장 중요한 경제 부문으로 남을 겁니다. 하지만 수십년간 부유한 엘리트들이 농업을 지배해 왔으며, 그들은 이익을 얻기 위해 농촌 소작농들을 착취하는 것 외에는 아무것도 하지 않았습니다. 이제 지주들이 누리던 번영을 농민들이 똑같이 누리도록 도와야 할 의무가 있지만, 그렇게 하기 위해서는 심도 있는 농업 개혁을 실시해야 합니다."
+ELS_safety_common_man:0 "서민을 위한 안전망"
+ELS_safety_common_man_desc:0 "엘살바도르 안전 규제는 멜렌데스-퀴뇨네스 왕조 시대 노동자들을 회유하기 위해 통과시킨 여러 조잡한 조항들을 대충 갖다붙인 법률에 불과합니다. 우리나라 모든 개인들에게 가치 있는 삶을 살 권리를 주고자 한다면 노동법 안전 규제 부분을 개선해야 합니다."
+ELS_supporting_unions:0 "노동조합 지원"
+ELS_supporting_unions_desc:0 "엘살바도르 노동조합은 마르티네스 독재정권으로 인해 지난 수년간 지속해서 약화되었습니다. 하지만 이제 인민이 권력을 쟁취했으니 그 어떤 기업도 노동자든지 농민이든지간에 하여튼 시민들을 착취하지 못하도록 하기 위해 노동조합을 다시 일으켜 세워야 합니다. 하지만 이를 위해서는 어느 노조를 지지해야 하는가를 먼저 택해야 합니다..."
+ELS_follow_fellow_unions:0 "유럽식으로 가자"
+ELS_follow_fellow_unions_desc:0 "엘살바도르를 발전시키기 위해 항상 해외를 바라봤습니다. 그 중에서도 특히 유럽은 언제나 영감을 주는 곳이었습니다. 유럽에서 누군가에게는 위협으로 비쳐지지만 우리에게는 광명을 가져다주는 생디칼리슴이 부상하면서 노동조합이 주도하는 사회가 실현 가능하면서 동시에 효율적이기도 하다는 사실이 증명되고 있습니다. 그들을 뒤따라 노조에 정부 문제에 대한 더 큰 발언권을 제공할 겁니다."
+ELS_new_socialist_economy:0 "신경제"
+ELS_new_socialist_economy_desc:0 "개혁 조치가 완전히 효과를 거두고 실시한 계획들이 막바지에 이르면서 마침내 신경제체제를 선언할 수 있게 되었습니다. 더 나은 안전 규정과 더 평등한 노동버이 시행되면서 경제는 번창할 것이고 엘살바도르의 노동자들에게 이익이 돌아갈 겁니다."
+ELS_starting_industrialization:0 "산업화 시작"
+ELS_starting_industrialization_desc:0 "엘살바도르 전체가 농업 수출에 전적으로 의존할 수는 없으며 최근 벌어진 검은 월요일 사태가 이를 증명합니다. 독일이나 미국같은 거대 산업 국가들이 붕괴하더라도 국내에서 경제 생산을 돌릴 수 있도록 한정된 수준이라도 산업화 과정을 실시해야 합니다."
+ELS_foreign_development:0 "외국기술 배우기"
+ELS_foreign_development_desc:0 "이 작은 나라가 오직 자기 손으로만 발전할 수 있다고 믿는 일은 어리석은 짓입니다. 우리에게 발전하기 위한 도구와 지식이 부족하다고 해도 세계적으로 보자면 이를 소유한 국가들은 수없이 많습니다. 만약 그들에게 소중한 국산 농산물을 제공한다면 우리에게도 국가 발전을 위한 재료를 나누어 주는 더없이 행복한 무역이 이루어질 겁니다."
+ELS_military_funding:0 "군에 투자"
+ELS_military_funding_desc:0 "최근 군대 내부에서 드러난 문제에도 불구하고 그들이 진정한 엘살바도르의 수호자라는 사실까지 부정할 수는 없습니다. 중앙아메리카에서 긴장이 고조되면서 군대에서 생산 가능한 모든 소총을 필요로 할 겁니다. 이를 모두 외국 무기 제조업체에 의존할 수는 없으니 자체 무기 산업 확대를 모색해야 합니다."
+ELS_promoting_civillian:0 "민간개발 지원"
+ELS_promoting_civillian_desc:0 "민간 산업의 중요성을 과소평가해서는 안됩니다. 인민들은 의복과 건축 자재, 그리고 기초 소비재를 필요로 하는데, 모든 물품 생산을 외국 기업에 의존할 수는 없습니다. 최소한 수준이라도 자립 경제를 이루기 위해서는 민간 부분 경제를 개선해야 합니다."
+ELS_san_salvador_la_union:0 "엘살바도르 노조"
+ELS_san_salvador_la_union_desc:0 "엘살바도르시에서 라유니온시로 가는 도로는 기껏 좋게 말해 봐야 험난하다고 표현할 수 있는 수준입니다. 서부 지역과 수도를 연결하기 위해 태평양 연안 도로와 팬아메리칸 하이웨이를 개선하기 위한 대규모 토목 공사를 시작해야 합니다. 그렇게 한다면 산미구엘과 우술루탄 등 여러 마을에 이익을 가져다 주는 동시에 새로운 교통로를 만들 수 있습니다."
+ELS_normal_economy:0 "천리길도 한걸음부터"
+ELS_normal_economy_desc:0 "떠돌아다니는 급진 사상들이 너무 많은 이 상황에 엘살바도르가 작은 나라이며 우리에게 번영을 가져다 줄 수 있는 존재도 극히 드물다는 사실을 잊지 말아야 합니다. 번영하게 해줄 존재 중 하나는 지금 시도하고 있는 엘살바도르의 비옥한 토양을 이용한 진정한 무역 경제입니다. 정책 기조를 고수하고 계속해서 시행해야 합니다."
+ELS_promoting_banking_reforms:0 "금융개혁"
+ELS_promoting_banking_reforms_desc:0 "신경제의 정점에 다다르기 위해 시민들이 사업, 농지, 도구 그리고 기계에 투자할 수 있도록 더 많은 자본을 제공해야 합니다. 은행 체계를 통해 자금을 조달할 수는 있겠지만 현재 엄격한 금융 조항으로 인해 막혀 있는 상태입니다. 시민들이 더 쉽게 재정적 지원을 받고 창업할 수 있도록 하기 위해 은행개혁에 착수해야 합니다."
+ELS_beginnings_economy:0 "정상적인 경제체제"
+ELS_beginnings_economy_desc:0 "후진적인 농업과 경제 정책에 의존해온 과거의 엘살바도르에 종말을 고해야 합니다. 이제부터 엘살바도르 정부는 중앙아메리카에서 가장 현대적인 내부 경제 구조를 가진 국가를 만들기 위해 노력할 겁니다."
+ELS_american_market_washover:0 "미국의 시장경제와 함께"
+ELS_american_market_washover_desc:0 "엘살바도르가 이용하던 주요 시장은 항상 미구이었습니다. 최근 미국의 발전으로 인해 경제적 유대가 상당히 약해졌지만, 이로 인해 창출해낸 이익은 매우 소중합니다. 이념에 관계 없이 미국 대중과 우리나라 사이에 유익한 경제 관계를 재조명하기 위해 노력할 겁니다."
+ELS_promoting_trade:0 "커피무역 장려"
+ELS_promoting_trade_desc:0 "현재 커피 생산량이 사상 최대치를 기록하고 있지만, 커피 공급량 대부분을 판매할 만큼 안정적인 구매자가 아직 많지 않습니다. 지역 전체의 커피 판매를 촉진하기 위해 외교적인 노력을 시작할 겁니다. 이로써 경제 이윤이 증가할 것이며, 효율성 향상을 위한 재투자에 사용할 자본이 생길 겁니다."
+ELS_new_trade_economy:0 "노조중심 경제"
+ELS_new_trade_economy_desc:0 "개혁 조치가 완전히 효과를 거두고 실시한 계획들이 막바지에 이르면서 마침내 신경제체제를 선언할 수 있게 되었습니다. 많은 이들이 우리가 여전히 옛 경제 정책을 답습하고 있을 뿐이라고 주장하지만, 현재 창출해낸 이익이 그 어느 때보다 커졌다는 점을 들어서 그런 주장에 반론을 펼 수 있습니다. 또한 생디칼리스트들이 착취라고 부름에도 불구하고, 외부에 집중함으로 인해 엄청난 성공을 거두었습니다. 오늘은 엘살바도르에게 최고의 날입니다!"
+
+## Army Tree ##
+ELS_beginning_army:0 "군제개혁"
+ELS_beginning_army_desc:0 "중앙아메리카에서 긴장이 고조되면서 우리가 대규모 분쟁에 대비한 준비가 제대로 되어 있지 않다는 사실이 드러났습니다. 중부 지역에서 실시할 기동 훈련을 시작으로 현대화 프로그램에 박차를 가할 겁니다. 이 조치가 우리를 위협하는 적과 어깨를 나란히 하기 위한 첫걸음이어야 합니다."
+ELS_guerilla_warfare:0 "게릴라 전술"
+ELS_guerilla_warfare_desc:0 "엘살바도르 내에서 최근 몇 년간 벌어진 반란 시도로 인해 우리나라 지형이 분산된 게릴라 부대에 유리하다는 사실이 증명되었습니다. 군 현대화 프로그램을 재래식 전쟁술 대신에 비대칭 전력과 게릴라 전술에 초점을 맞출 겁니다."
+ELS_low_recruitment:0 "광범위한 징병"
+ELS_low_recruitment_desc:0 "엘살바도르 인구는 중앙아메리카에서 두 번째로 많으며, 1위인 과테말라와는 근소한 차이가 있을 뿐입니다. 많은 인구를 이용할 수 있겠지만, 게릴라전은 엄청난 인력을 필요로 하며 현재 모병 방식으로는 필요로 하는 신병을 모집하는데 충분하지 않습니다. 명예와 영광과 동지애를 약속하면서 젊은 이상주의자들을 대상으로 우리 군으로 끌어들이기 위한 대대적인 선전전을 시작할 겁니다."
+ELS_never_surrender:0 "자랑스러운 엘살바도르"
+ELS_never_surrender_desc:0 "센트로아메리카 독립의 영웅들은 대부분 엘살바도르 출신이었습니다. 호세 시메온 카냐스, 도밍고 안토니오 데 라라, 아길라르 이 부스타만테 형제를 위시한 수많은 영웅들이 압도적인 군대에 대항해 저항했습니다. 다시 한번 우리나라가 위협받고 있습니다. 이번에는 외국 압제자가 아니라 소위 형제들이라 불리는 이들입니다. 국가 생존이 경각에 달한 지금, 모든 엘살바도르 사람들이 군의 부름을 받을 겁니다!"
+ELS_jungle_warfare:0 "정글전"
+ELS_jungle_warfare_desc:0 "엘살바도르 지형은 다양한 환경에서 싸울 수 있는 전사에게 유리합니다. 시가전 능력은 산살바도르나 마나구아같은 인구 밀집지역에서 활용할 수 있으며, 산악전 능력은 우리나라를 둘러싼 산악 지역에서 사용할 수 있고, 국토를 뒤덮은 가장 넓은 지형은 정글이기도 합니다. 이런 이유로 만일의 사태에 대비하기 위해 라호야 정글에서 훈련을 실시할 겁니다."
+ELS_supply_focus:0 "무기를 아끼자"
+ELS_supply_focus_desc:0 "엘살바도르는 이웃국가들에 필적할 만한 산업을 가지고 있지 않습니다. 우리가 다른 강대국들로부터 구입하는 양을 상쇄하기 위해 노력하고는 있지만, 항상 열려있지 않은 외국 무기 수입에 의존하고 있는 것은 사실입니다. 모든 엘살바도르 군인들이 무기고 안에 있는 무기들을 어떻게 수리하고 유지해야 하는지에 관해, 그리고 탄약을 최대한 재활용하는 방법에 대해 깊은 지식을 배워야 합니다."
+ELS_professional_army:0 "정예군"
+ELS_professional_army_desc:0 "우리 군은 건국 이래로 계속된 개혁 조치로 인해 매우 높은 수준을 유지하고 있습니다. 1824년 데 아르케 이 파고가 대통령이 완성한 이 전통은 우리 군대가 중앙아메리카에서 가장 선진적인 군대가 될 수 있도록 만들었습니다. 게릴라 전술보다는 재래식 전쟁 능력 향상에 주력해야 합니다."
+ELS_consolidated_divisions:0 "사단 현대화"
+ELS_consolidated_divisions_desc:0 "아군이 장교 훈련과 장비 면에서는 선진적이라고는 해도, 군 구조는 여전히 19세기 수준에 머물러 있습니다. 20세기에 걸맞는 군제를 들여와야 하며, 군 조직 체계를 위에서 아래로 개혁하는데 주력해야 합니다. 이런 개혁을 통해 전투 효율이 좋아지기를 바랄 뿐입니다."
+ELS_heavy_weaponry:0 "대구경 포"
+ELS_heavy_weaponry_desc:0 "세계대전은 보병만이 현대전의 유일한 요소가 아니라는 사실을 증명했습니다. 승리하고자 하는 현대군은 보병의 진격을 엄호하며 적군의 반격을 막아낼 수 있는 포병력이 필요합니다. 이를 명심하고 포병대를 향상시키기 위한 자금을 제공하고 크루프 수준으로 뛰어난 대포를 구매하기 위해 업체들을 경쟁시켜야 합니다!"
+ELS_foreign_doctrine:0 "외국의 교리를 빌려오다"
+ELS_foreign_doctrine_desc:0 "세계는 지난 30년동안 끊임없이 충돌해 왔습니다. 우리가 해외로 장교를 유학보내는 한편으로 관찰자로서 세계 곳곳의 전투들을 기록해 왔지만, 여전히 전쟁 경험에서는 독일과 프랑스를 따라가고 그들처럼 복잡한 군사 교리를 발전시킬 수는 없습니다. 대신에 그들로부터 교리를 빌려오려고 노력할 수는 있으며, 원컨대 이로써 이웃 국가들보다 우위에 설 수 있기를 바랍니다."
+ELS_military_academy:0 "사관학교 확충"
+ELS_military_academy_desc:0 "'헤라르도 바리오스 장군 군사학교'는 우리의 모교입니다. 이 사관학교에서는 독일, 칠레 그리고 미국 등 전 세계에서 모인 교사들과 장서들로부터 교육받을 수 있습니다. 후일 위협이 다가올 때를 대비해서 학교를 홍보하고 병사들이 입학하여 장교가 될 수 있도록 경제적으로 지원하며 교육 수준을 전체적으로 향상시켜야 한다는 주장은 지극히 논리적입니다."
+
+## Air and Navy Tree ##
+ELS_beginning_air:0 "공군 창설"
+ELS_beginning_air_desc:0 "엘살바도르 공군은 비교적 신생 군 부문입니다. 엘살바도르 영공 주권을 온전하게 지키기 위해 창설된 공군은 여전히 개혁을 진행중이며 다른 군 부문과 민간 부문에서 열렬히 지원병을 모으는 중입니다. 어떤 중요한 개혁을 실시하기 전에 신병들을 몇 가지 연습에 투입해야 합니다."
+ELS_basic_fighters:0 "주력전투기 개발"
+ELS_basic_fighters_desc:0 "지난 10년간 전투기 여러 대를 수입했습니다. 기술적으로 말하자면 대부분이 훈련기이기는 하지만, 우리 기술자들이 훈련기들을 괜찮은 전투기로 개조하기 위해 열심히 일했습니다. 만약 그들의 지식을 활용한다면 이 외국산 비행기들을 역설계하고 복제품을 생산할 수 있을 겁니다."
+ELS_plane_lease:0 "비행기 랜드리스"
+ELS_plane_lease_desc:0 "스스로 비행기 생산을 지속하고는 싶지만, 사실 소총 생산도 버거운 나라가 비행기 생산을 어떻게 감당하겠습니까. 우리 손으로는 지역 공군을 창설하는 것만도 벅찹니다. 운이 좋게도, 여전히 전 세계 항공기 업계에서 조국을 방어하기 위한 전투기를 많이 팔고자 혈안이 되어 있습니다."
+ELS_bombers:0 "폭격기 개발"
+ELS_bombers_desc:0 "세계대전은 유능한 공군력이 미래 전쟁에서 결정적인 요소가 되리라는 사실을 전 세계에 보여주었습니다. 전투기가 하늘을 확보하는 동안 폭격기가 전장을 직접 지원하거나 적의 기반시설을 포격하는 등 지상군을 지원합니다. 우리는 이미 많은 전투기를 보유하고 있지만, 주변국과 경쟁하고자 한다면 공군에 더 많은 폭격기가 필요합니다."
+ELS_plane_production:0 "언제 어디서나"
+ELS_plane_production_desc:0 "엘살바도르는 생산력으로는 주변국과 경쟁도 할 수 없는 약소국입니다. 그러므로 상대적으로 적은 인력으로 수많은 적을 물리칠 수 있는 공군에 대규모로 집중 투자해야 합니다. 그렇게 한다면 '제 시간에 어디에든'이라는 목표를 달성하는데 충분한 항공기를 배치할 수 있을 겁니다'."
+ELS_naval_bombers:0 "해군 뇌격기"
+ELS_naval_bombers_desc:0 "엘살바도르는 해상에서 적을 물리칠 만한 수상 함대를 가지고 있지 못합니다. 만약 적 상륙 부대에 허를 찔리고 싶지 않다면, 해안을 지킬 수 있는 더 나은 뇌격기를 개발하기 위해 수입한 T6모델을 연구해야만 합니다."
+ELS_beginning_navy:0 "해군 창설"
+ELS_beginning_navy_desc:0 "엘살바도르에는 공식적인 해군이 없습니다. 해군 사관 학교를 시작으로 해군 창설 노력을 시작할 겁니다. 최초의 해군은 일로팡고 호수에서 활동할 것이며, 공식적인 함대가 출범하기 전까지는 목선으로 운항할 겁니다. 또한 건물 공사가 완료될 때까지 신임 해군 장교들은 공군 격납고 중 하나를 이용해야만 합니다..."
+ELS_commission_flagship:0 "아카후틀라 항만 확장"
+ELS_commission_flagship_desc:0 "태평양 연안의 작은 해안 마을 아카후틀라는 국내에서 가장 크고 해양 무역을 지속할 수 있는 규모의 유일한 항구를 보유하고 있습니다. 만약 가치가 있는 수상 함대를 지닌 해군을 보유하고자 한다면, 해군이 출발할 수 있는 소규모 선착장을 포함해 아카후틀라에 있는 설비들을 확장하는데 초점을 맞추어야 합니다."
+ELS_sticking_basics:0 "기초부터"
+ELS_sticking_basics_desc:0 "엘살바도르에는 거대한 전투함대까지는 필요 없습니다. 전쟁이 엘살바도르를 위협한다면 우리 인력은 바다에서보다 육지에서 더 가치있게 싸울 겁니다. 그러나 그렇다고 해서 해군 보유가 완전히 의미가 없지는 않습니다. 무역이 엘살바도르의 생명을 유지시켜 주기 때문에, 무역로를 유지하기 위해서는 호위함이 필요합니다. 기술자들이 생산 가능한 괜찮은 호위함 설계도를 고안할 수 있도록 자금을 지원할 겁니다."
+ELS_convey_interception:0 "무역차단 교리"
+ELS_convey_interception_desc:0 "세계대전의 가장 놀라운 결과 중 하나는 잠수함의 효용성이었습니다. 이 발명품은 소규모 해군력을 분산시켜 고립된 수송선을 파괴한다면 적의 전쟁 수행 능력에 잠재적인 위협이 될 수 있다는 사실을 증명했습니다. 이웃과 전쟁이 벌어졌을 때 우리에게 유리한 고지를 가져다 줄 이 새로운 기술에 투자해야 합니다."
+ELS_salvador_rules_waves:0 "아름다운 내 조국"
+ELS_salvador_rules_waves_desc:0 "해군 사관학교가 마침내 설립되고 국내 조선소에서 우리 손으로 설계한 선박을 생산하면서 마침내 공식적으로 '엘살바도르 국가 해군' 창설을 선언할 때가 왔습니다. 해군은 야네스 우리아스 제독의 요청에 따라 '국가, 충성 그리고 용맹'이라는 모토를 채택했습니다."
+
+#Army Generals#
+
+ELS_MAXIMILIANO_HERNANDEZ_MARTINEZ_DESC:0 "§Y장군 약력\n§Y출생:§W 1882년 8월 20일, 엘살바도르 라리베르타드주 산마티아스에서 출생\n§Y군 경력:§W 막시밀리아노 에르난데스 마르티네스는 과테말라의 '과학기술 학교'에 입학하여 기초 전쟁술을 공부했고 1903년 소위로 졸업해 엘살바도르로 돌아왔습니다. 귀국한 이후에는 산살바도르 대학에서 법학과 사회과학을 공부하기 시작했지만, 2학년때 자퇴하고 사회생활을 시작했습니다. 마르티네스는 1903년 말에 중위로 진급했고, 과테말라와 전쟁이 한창이던 1906년 대위 계급장을 달았습니다. 전쟁 중에 그는 토마스 레갈라도 장군 아래에서 복무했고 마침내 1919년 준장으로 진급했습니다. 1921년에는 전쟁부와 해군부 장관에 임명되었고 1931년 아라우호에 대항한 쿠데타를 이르키기 전까지는 아르투로 아라우호 대통령 아래에서 부통령으로 일했습니다. 또한 마르티네스는 이잘코 전투에서 농민군을 박살내고 승리를 거둬 1932년 농민 반란을 끝낸 주역이기도 합니다.\n§Y중요한 사항:§W- 프로파트리아당 지도자.\n- 무자비하기 때문에 병사들 사이에서 인기가 없습니다."
+ELS_OSMIN_AGUIRRE_Y_SALINAS_DESC:0 "§Y장군 약력\n§Y출생:§W 1899년 12월 24일, 엘살바도르 산미구엘시에서 출생\n§Y군 경력:§W 오스민 아기레 이 살리나스는 고등학교를 졸업한 직후 군에 입대했습니다. 입대한 이래로 계속해서 진급을 거듭해 1930년에는 대령 계급장을 달았습니다. 아라우호가 축출된 이후에는 집행위원회의 일원이 되었고 1932년 마르티네스가 농민 반란을 진압했을 때도 함께하면서 장교로서의 재능을 밝게 펼쳤습니다. 살리나스는 방위군 사령관에 임명되었고 결국 장군으로 진급합니다. 이후 프로파트리아당과 마르티네스와 다른 견해를 가지고 있었음에도 불구하고 엘살바도르군에서 중요한 인사로 남아있습니다.\n§Y중요 사항:§W- 마르티네스를 싫어합니다."
+ELS_SALVADOR_CASTANEDA_CASTRO_DESC:0 "§Y장군 약력\n§Y출생:§W 1888년 8월 6일, 엘살바도르 찰추아파에서 출생\n§Y군 경력:§W 살바도르 카스타녜다 카스트로는 성인이 되자마자 군에 입대했습니다. 사관학교에서 우수한 성적을 거두었기 때문에 빠르게 진급했고 엘살바도르 사관학교 교장에 부임하기에 이르렀습니다. 그는 마르티네스와 살리나스 모두와 의견이 다름에도 불구하고 여태까지 흠잡을데 없이 완벽한 복무 이력을 세웠습니다."
+ELS_ANDRES_IGNACIO_MENENDEZ_DESC:0 "§Y장군 약력\n§Y출생:§W 1879년 2월 1일, 엘살바도르 산타아나에서 출생\n§Y군 경력:§W 안드레스 이그나시오 메넨데스는 18세가 되었을 때 단순히 모병자로 군에 입대했지만, 몇 년간 모범적인 복무 자세를 보여주었기 때문에 장교 과정을 시작하는게 어떻겠냐는 제안을 받았습니다. 1898년에 엘살바도르 사관학교에서 소위로 졸업했고 천천히 진급을 거듭해 1920년에는 준장으로 진급했습니다. 1934년에는 의회에서 그를 임시 대통령에 임명했습니다. 임시대통령이 된 메넨데스는 마르티네스가 2년간 만들어온 문제점들을 해결하고 진정한 민주주의를 복원시키고자 노력했습니다. 하지만 그의 통치는 마르티네스가 쿠데타를 일으키고 미국의 지원 하에 독재자로 군림했기 때문에 오래가지 못했습니다. 그렇다고 해도 메넨데스의 명성은 여전히 높으며 총참모부의 두터운 신임을 받고 있습니다. 메넨데스는 군부와 시민사회 양측 모두에서 명예롭고 충성스러운 사람이라는 평판을 얻었습니다.\n§Y중요한 사항:§W- 정치에 무관심함."
+ELS_AGUSTIN_MARTI_DESC:0 "§Y장군 약력\n§Y출생:§W 1893년 2월 1일, 엘살바도르 라리베르타드주 테오테페케에서 출생\n§Y군 경력:§W 아구스틴 파라분도 마르티 로드리게스는 정식 군사 교육을 받은 적이 없습니다. 하지만 오랜 기간 동안 산디니스타 군대에 참가해 함께 싸웠고 1929년 엘살바도르로 돌아왔습니다. 1932년 무장봉기를 일으키려 했으나 미국이 반동 세력을 지원했기 때문에 실패로 끝났고 처음에는 과테말라로, 다음에는 옛 친구들이 있는 니카라과로 망명을 떠날 수 밖에 없었습니다. 1937년 혁명이 승리했기 때문에 마르티는 게릴라전에 관한 지식을 상당히 습득했고 엘살바도르의 국가적 상징이 되기도 했습니다.\n§Y중요한 사항:§W- 부대원에게는 호감을, 원주민에게는 사랑을 받습니다."
+ELS_JOSE_AMA_DESC:0 "§Y장군 약력\n§Y출생:§W 1881년 즈음, 엘살바도르 산소난테주 이살코에서 출생\n§Y군 경력:§W 펠리시아노 아마는 정규 군사 교육을 받은 적이 없습니다. 하지만 1932년 봉기와 최근 정권 탈취에 참여했기 때문에 용맹과 지도력을 인정받았고 명성을 얻었습니다.\n§Y중요한 사항:§W- 피필 원주민의 현 족장."
+
+ELS_KR_GATHERING_STORM_DESC:0 "1931년 막시밀리아노 에르난데스 마르티네스가 이끈 쿠데타로 인해 초국가주의적인 프로파트리아당이 국가를 손아귀에 쥐었고 엘살바도르 민주주의는 과거의 유물로 전락했습니다. 1932년 사회주의 봉기가 진압되면서 마르티네스의 권력은 튼튼해졌고 그에게 반기를 들 사람은 어디에도 없습니다... 최소한 본인은 그렇게 생각하고 있지요. 마르티네스의 국가 통제는 미국의 지지에 크게 의존하고 있습니다. 1932년 봉기 당시 사회주의 인사들이 탈출하고 니카라과에서 산디노가 승리했으며 미국 내 긴장이 고조되는 가운데, 북쪽의 거인이 엘살바도르가 불길에 휩싸이는 사태를 외면할지도 모릅니다..."

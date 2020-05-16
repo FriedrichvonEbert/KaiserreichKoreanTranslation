@@ -1,0 +1,153 @@
+﻿l_english:
+
+# 이 파일은 바닐라 localisation을 덮어쓰기 위한 파일이며, 여기 있는 모든 문자열이 바닐라 localisation의 동일한 문자열을 대체합니다.
+# 두 파트로 분류하자면,
+# Part one은 바닐라에서 크게 변화(아예 새로운 의미를 가지게 되는 듯이)되므로 번역이 필요합니다.
+# Part two는 철자법과 문법 수정만 있으니 번역할 필요가 없습니다.
+
+################
+### Part One ###
+################
+
+### core_l_english
+MENU_HOMEPAGE:0 "카이저라이히 디스코드"
+MENU_FORUM:0 "카이저라이히 포럼\n패러독스 포럼에 로그인 한 후 열람할 수 있습니다"
+MENU_FACEBOOK:0 "카이저라이히 스팀"
+MENU_TWITTER:0 "카이저라이히 트위터"
+
+LOADING_GUI:0 "명예로운 평화에 서명하는 중"
+LOADING_HISTORY:0 "러시아에 개입하는 중"
+LOADING_SAVEGAME:0 "역사를 다시 쓰는 중: $NAME$"
+LOADING_SAVEGAME_NO_NAME:0 "역사를 다시 쓰는 중"
+LOADING_DATABASES:0 "생디칼리스트들을 숙청하는 중"
+LOADING_MAP_SPRITES:0 "해가 떠있는 곳을 찾는 중"
+LOAD_GFX_PDXMAP_SHADERS:0 "군주주의자들을 비난하는 중"
+LOAD_GFX_PDXMAP_TERRAIN:0 "사슬을 끊는 중"
+LOAD_GFX_PDXMAP_BORDERS:0 "청나라를 부활시키는 중"
+LOAD_GFX_PDXMAP_TEXTURES:0 "서방 제국주의자들을 추방하는 중"
+LOAD_GFX_PDXMAP_TREES:0 "상하이에서 밀수하는 중"
+LOAD_GFX_PDXMAP_RIVERS:0 "모든 사람을 왕으로 만드는 중"
+LOAD_GFX_PDXMAP_STATIC_OBJECTS:0 "부를 공유하는 중"
+LOAD_EVENTS:0 "이중 제국을 중앙집권화하는 중"
+LOAD_GFX:0 "아시아에서 지상전을 치르는 중"
+LOADING_MAIN_MENU:0 "쓰러져가는 제국을 받치는 중"
+PRECALC_NAVAL_DIST:0 "케렌스키를 암살하는 중"
+EXITING_TO_FRONTEND:0 "나폴레옹을 복권시키는 중"
+LOAD_INIT:0 "황제 해군을 배치시키는 중"
+LOAD_FLAGS:0 "미국의 민주주의를 구원하는 중"
+PROC_FLAGS:0 "중화제국을 재건하는 중"
+INIT_MAP_LOGIC:0 "아프리카로 탈출하는 중"
+INIT_GAMESTATE:0 "유럽의 환자를 치료하는 중"
+EXECUTE_HISTORY:0 "라인강을 바라보는 중"
+CREATING_CHKSUM:0 "직속 통치를 실시하는 중"
+GENERATING_GRADIENT_BORDERS:0 "혁명을 배반하는 중"
+
+### deployment_l_english
+DIVISION_EQUIPMENT:0 "사단 장비"
+
+### diplomacy_l_english
+claims_on_us:0 "그들은 우리 영토의 소유권을 주장합니다"
+same_ruling_party:0 "기본"
+different_party_types:0 "기본"
+DIPLOMACY_REQUEST_EXP_FORCE_ACTION_DESC:0 "종속국에게 여러개의 사단에 대한 통제권을 요구합니다."
+DIPLOMACY_MILACC:0 "군사 이용"
+
+### game_rules_l_english
+RULE_GROUP_GAMEPLAY:0 "게임 플레이"
+RULE_ALLOW_LEAVE_FACTION_ALLOWED_DESC:0 "완전한 독립국은 평화롭게 세력을 떠날 수 있습니다.\n\n§R참고 : 이 옵션은 완벽히 지원되지 않습니다. 정상적인 검사나 기타 버그방지 조치는 무시되므로, 이 옵션을 가지고 놀면 문제가 발생할 수 있습니다. 발견된 어떤 문제도 보고하지 마십시오. 분명히 경고하였습니다.§!"
+RULE_ALLOW_KICK_FACTION_ALLOWED_DESC:0 "세력 지도자는 해당 세력에서 어느 국가던 추방할 수 있습니다.\n\n§R참고 : 이 옵션은 완벽히 지원되지 않습니다. 정상적인 검사나 기타 버그방지 조치는 무시되므로, 이 옵션을 가지고 놀면 문제가 발생할 수 있습니다. 발견된 어떤 문제도 보고하지 마십시오. 분명히 경고하였습니다.§!"
+
+### goals_l_english
+take_state:0 "정복"
+take_state_desc:0 "$TARGET|Y$(으)로부터 $STATE|Y$(을)를 가져옵니다."
+take_state_short_desc:0 "이 전쟁목표는 평화협정에서 선택한 주를 더 저렴히 가져오게 할 것 입니다."
+take_state_focus:0 "정복 (국가 중점)"
+take_state_focus_desc:0 "$TARGET|Y$(으)로부터 $STATE|Y$(을)를 가져옵니다."
+take_state_focus_short_desc:0 "이 전쟁목표는 평화협정에서 선택한 주를 더 저렴히 가져오게 할 것 입니다."
+liberate_wargoal:0 "해방"
+liberate_wargoal_short_desc:0 "해방합니다."
+liberate_wargoal_desc:0 "이 전쟁목표는 평화협정에서 해방을 더 저렴하게 할 것입니다."
+puppet_wargoal_focus:0 "괴뢰국 (국가 중점)"
+puppet_wargoal_focus_desc:0 "괴뢰국으로 만듭니다. (국가 중점)"
+puppet_wargoal_focus_short_desc:0 "이 전쟁목표는 평화협정에서 괴뢰국으로 만드는 것을 더 저렴하게 할 것입니다."
+take_claimed_state:0 "영유권 주장"
+take_claimed_state_desc:0 "$TARGET|Y$(으)로부터 $STATE|Y$(을)를 가져옵니다."
+take_claimed_state_short_desc:0 "이 전쟁목표는 평화협정에서 영유권을 가진 지역을 더 저렴하게 할 것입니다."
+take_core_state:0 "핵심지역 탈환"
+take_core_state_desc:0 "$TARGET|Y$(으)로부터 $STATE|Y$(을)를 탈환합니다."
+take_core_state_short_desc:0 "이 전쟁목표는 평화협정에서 선택한 주를 더 저렴히 가져오게 할 것 입니다."
+annex_everything:0 "합병"
+annex_everything_desc:0 "선택한 주를 합병합니다."
+annex_everything_short_desc:0 "이 전쟁목표는 평화협정에서 합병을 더 저렴하게 할 것 입니다."
+civil_war:0 "내전"
+civil_war_desc:0 "내전입니다! 국가 통제권을 거머쥐기 위해 여러 세력으로 나뉘어 싸웁니다."
+civil_war_short_desc:0 "이 전쟁목표는 평화협정에서 합병을 더 저렴하게 할 것 입니다."
+topple_government:0 "정부 전복"
+topple_government_desc:0 "정부를 실각시키십시오."
+topple_government_short_desc:0 "이 전쟁목표는 평화협정에서 정부 전복을 더 저렴하게 할 것 입니다."
+
+### frontend_l_english.yml ###
+custom_diff_strong_ger:0 "£KR_game_rule_flag_GER   독일 제국 강화"
+custom_diff_strong_fra:0 "£KR_game_rule_flag_FRA   프랑스 코뮌 강화"
+custom_diff_strong_eng:0 "£KR_game_rule_flag_ENG   브리튼 연방 강화"
+custom_diff_strong_jap:0 "£KR_game_rule_flag_JAP   일본 제국 강화"
+custom_diff_strong_usa:0 "£KR_game_rule_flag_USA   미합중국 강화"
+
+### ideas_l_english
+government:0 "법률"
+minister:0 "정부"
+military_staff:0 "군사 참모"
+mobilization_laws:0 "징병법"
+person_of_influence:0 "영향력 있는 인물"
+KR_mobilization_laws:0 "징병법"
+idea_group_KR_mobilization_laws:0 "징병법"
+KR_trade_laws:0 "무역법"
+KR_economy:0 "경제법"
+EFFECT_CHANGE_LAW_KR_mobilization_laws:0 "징병법을 '$NAME|Y$'(으)로 변경합니다. 변경시 효과 ($DESC$)."
+EFFECT_CHANGE_LAW_KR_economy:0 "경제법을 '$NAME|Y$'(으)로 변경합니다. 변경시 효과 ($DESC$)."
+EFFECT_CHANGE_LAW_KR_trade_laws:0 "무역법을 '$NAME|Y$'(으)로 변경합니다. 변경시 효과 ($DESC$)."
+aircraft_manufacturer:0 "항공기 제조사"
+materiel_manufacturer:0 "군수품 제조사"
+industry_concern:0 "산업 업체"
+chief_of_staff:0 "참모총장"
+chief_of_army:0 "육군 참모"
+chief_of_navy:0 "해군 참모"
+chief_of_air_force:0 "공군 참모"
+
+### politics_l_english
+POLITICS_LEADER:0 "§T정부수반: $LEADER|H$§!"
+POLITICS_NEXT_ELECTION:0 "선거: $DATE|H$"
+RELEASE_NATION_TITLE:0 "경고"
+RELEASE_NATION_DESC:0 "정말로 $COUNTRY|H$(을)를 해방시키시겠습니까?\n\n§R국가를 임의로 해방시킬 경우 많은 버그가 일어날 수 있습니다!§!"
+REMOVE_IDEA:0 ""
+
+### peace_l_english
+PEACE_CONFERENCE_WHITE_PEACE:0 "\n@$ACTOR_TAG$$ACTOR_COUNTRY|Y$(와)과 $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$\n 사이에 §Y평화협정§!이 체결되며 상호 교전은 마침표를 찍었습니다."
+
+### state_l_english
+twelve:0 "초거대 도시 지역"
+eleven:0 "거대 도시 지역"
+nine:0 "인구밀도가 매우 높은 도시 지역"
+eight:0 "인구밀도가 높은 도시 지역"
+seven:0 "발전하고 있는 도시 지역"
+six:0 "도시 지역"
+five:0 "인구밀도가 낮은 도시 지역"
+four:0 "개발된 시골 지역"
+three:0 "개발 중인 시골 지역"
+two:0 "시골 지역"
+one:0 "목축 지역"
+zero:0 "소수민족 거주지"
+wasteland:0 "불모지"
+one_island:0 "작은 섬"
+zero_island:0 "아주 작은 섬"
+
+### wtt_decisions_l_english
+improved_worker_conditions:0 "노동 환경 개선"
+improved_worker_conditions_desc:0 "공장일은 힘들고 위험요소가 가득합니다. 공장 노동자들의 환경을 개선한다면, 단기적 측면에선 생산량은 줄어들겠지만, 장기적 측면으론 그만한 가치가 있습니다."
+
+################
+### Part Two ###
+################
+
+##Part two는 바닐라에서 채용해오는 문자열을 카이저라이히에서 철자법과 문법 수정을 한 것이라, 만약 남겨 놓는다면 번역을 했어도 part two로 인해 해당 내용이 영문으로 출력이 됩니다.
+##때문에 번역할 필요가 없어 삭제하였습니다.
