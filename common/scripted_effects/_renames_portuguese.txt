@@ -6,11 +6,11 @@ do_portuguese_renames_in_africa = {
 				has_state_flag = renamed_state_portuguese
 			}
 		}
-		set_state_name = "Porto Afonso"
+		set_state_name = "포르투 아폰수"
 		set_state_flag = renamed_state_portuguese
 		set_province_name = {
 			id = 5117
-			name = "Porto Afonso"
+			name = "포르투 아폰수"
 		}
 	}
 	else_if = {
@@ -20,11 +20,11 @@ do_portuguese_renames_in_africa = {
 				has_state_flag = renamed_state_portuguese
 			}
 		}
-		set_state_name = "Lacerdia Meridional"
+		set_state_name = "라세르디아 메리디오날"
 		set_state_flag = renamed_state_portuguese
 		set_province_name = {
 			id = 5199
-			name = "Lacerdia"
+			name = "라세르디아"
 		}
 	}
 	else_if = {
@@ -34,11 +34,11 @@ do_portuguese_renames_in_africa = {
 				has_state_flag = renamed_state_portuguese
 			}
 		}
-		set_state_name = "Niassalândia"
+		set_state_name = "니아살란디아"
 		set_state_flag = renamed_state_portuguese
 		set_province_name = {
 			id = 12986
-			name = "Lilongué"
+			name = "릴롱게"
 		}
 	}
 	else_if = {
@@ -48,15 +48,15 @@ do_portuguese_renames_in_africa = {
 				has_state_flag = renamed_state_portuguese
 			}
 		}
-		set_state_name = "Garanganja"
+		set_state_name = "가랑간자"
 		set_state_flag = renamed_state_portuguese
 		set_province_name = {
 			id = 191
-			name = "Mariana"
+			name = "마리아나"
 		}
 		set_province_name = {
 			id = 1929
-			name = "Bunquênia"
+			name = "붕케니아"
 		}
 	}
 	else_if = {
@@ -66,7 +66,7 @@ do_portuguese_renames_in_africa = {
 				has_state_flag = renamed_state_portuguese
 			}
 		}
-		set_state_name = "Congo Central"
+		set_state_name = "콩구 센트랄"
 		set_state_flag = renamed_state_portuguese
 	}
 	else_if = {
@@ -76,11 +76,11 @@ do_portuguese_renames_in_africa = {
 				has_state_flag = renamed_state_portuguese
 			}
 		}
-		set_state_name = "Zanzibar"
+		set_state_name = "잔지바르"
 		set_state_flag = renamed_state_portuguese
 		set_province_name = {
 			id = 13551
-			name = "Zanzibar"
+			name = "잔지바르"
 		}
 	}
 	else_if = {
@@ -90,7 +90,7 @@ do_portuguese_renames_in_africa = {
 				has_state_flag = renamed_state_portuguese
 			}
 		}
-		set_state_name = "Lacerdia Oriental"
+		set_state_name = "라세르디아 오리엔탈"
 		set_state_flag = renamed_state_portuguese
 	}
 	else_if = {
@@ -100,7 +100,7 @@ do_portuguese_renames_in_africa = {
 				has_state_flag = renamed_state_portuguese
 			}
 		}
-		set_state_name = "Lacerdia Setentrional"
+		set_state_name = "라세르디아 세텐트리오날"
 		set_state_flag = renamed_state_portuguese
 	}
 	else_if = {
@@ -110,7 +110,7 @@ do_portuguese_renames_in_africa = {
 				has_state_flag = renamed_state_portuguese
 			}
 		}
-		set_state_name = "Baroce Ocidental"
+		set_state_name = "바로스 오시덴탈"
 		set_state_flag = renamed_state_portuguese
 	}
 	else_if = {
@@ -120,7 +120,7 @@ do_portuguese_renames_in_africa = {
 				has_state_flag = renamed_state_portuguese
 			}
 		}
-		set_state_name = "Baroce Oriental"
+		set_state_name = "바로스 오리엔탈"
 		set_state_flag = renamed_state_portuguese
 	}
 	else_if = {
@@ -130,11 +130,11 @@ do_portuguese_renames_in_africa = {
 				has_state_flag = renamed_state_portuguese
 			}
 		}
-		set_state_name = "Darés Salã"
+		set_state_name = "다레스 살랑"
 		set_state_flag = renamed_state_portuguese
 		set_province_name = {
 			id = 2196
-			name = "Darés Salã"
+			name = "다레스 살랑"
 		}
 	}
 	else_if = {
@@ -144,11 +144,11 @@ do_portuguese_renames_in_africa = {
 				has_state_flag = renamed_state_portuguese
 			}
 		}
-		set_state_name = "Mombaça"
+		set_state_name = "몸바사"
 		set_state_flag = renamed_state_portuguese
 		set_province_name = {
 			id = 5210
-			name = "Mombaça"
+			name = "몸바사"
 		}
 	}
 }
@@ -163,5 +163,13 @@ do_portuguese_renames_in_asia = {
 		}
 		set_state_name = endo_state_422_portuguese
 		set_state_flag = renamed_state_portuguese
+	}
+	else_if = {
+		limit = {
+			state = 972
+			has_state_flag = renamed_state
+		}
+		clr_state_flag = renamed_state
+		set_state_name = endo_state_972
 	}
 }
