@@ -3,8 +3,8 @@
 WHR_focus:0 "백루테니아 중점계통도"
 
 ### Leaders ###
-POLITICS_VLADIMIR_DESC:0 "King Uladzimir von Hohenzollern, born Waldemar, nephew of Emperor Wilhelm II of Germany, though German by birth, has largely assimilated into Ruthenian culture. Though his adopted nation is poor, and by German standards quite backwards, it is rapidly modernising. With an increasingly uncertain political climate both in White Ruthenia and abroad, Uladzimir seeks to lead his country and people into a brighter future while mitigating the influence of political radicals."
-POLITICS_SIGISMUND_DESC:0 "King Žyhimont von Hohenzollern, born Sigismund, former head of the Ruthenian national security service and brother of ex-king Uladzimir, has assumed control of White Ruthenia. He is closely linked to Belarusian ultra-nationalists, and supports the forced assimilation and persecution of minority groups within White Ruthenia."
+POLITICS_VLADIMIR_DESC:0 "카이저 빌헬름 2세의 조카, 발데마르 태생의 국왕 울라지미르 폰 호엔촐레른은 독일 태생이지만 루테니아 문화에 꽤나 동화되어 있습니다. 비록 가난하고, 독일에 비해서는 까마득히 후진적이지만, 그의 지도력 아래에서 나라는 빠르게 현대화되고 있습니다. 백루테니아와 해외에서의 정치적 상황이 점점 불확실해지면서, 울라지미르는 정치적 급진주의자들의 영향력을 줄여나가면서 나라와 국민들을 더 밝은 미래로 이끌고자 합니다."
+POLITICS_SIGISMUND_DESC:0 "루테니아 국가방위대의 전 지도자이자 망명한 전 국왕 울라지미르의 형제인 '지기스문트' 지히문트 폰 호엔촐레른이 백루테니아의 지도자가 되었습니다. 그는 벨라루스 초국가주의자들과 깊이 연관되어 있으며, 백루테니아 내 소수민족들에 대한 동화 정책과 박해를 지지합니다."
 
 ### Ideas ###
 WHR_black_monday:0 "검은 월요일"
