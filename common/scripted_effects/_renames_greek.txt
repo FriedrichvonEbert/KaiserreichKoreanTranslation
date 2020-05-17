@@ -6,11 +6,11 @@ do_greek_renames_in_europe = {
 				has_state_flag = renamed_state_greek
 			}
 		}
-		set_state_name = "Kýpros"
+		set_state_name = "키프로스"
 		set_state_flag = renamed_state_greek
 		set_province_name = {
 			id = 11984
-			name = "Lefkosía"
+			name = "레프코시아"
 		}
 	}
 	else_if = {
@@ -21,11 +21,11 @@ do_greek_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_turkish
-		set_state_name = "Thráki"
+		set_state_name = "트라키"
 		set_state_flag = renamed_state_greek
 		set_province_name = {
 			id = 11905
-			name = "Alexandroúpoli"
+			name = "알렉산드루폴리"
 		}
 	}
 	else_if = {
@@ -47,7 +47,7 @@ do_greek_renames_in_europe = {
 				has_state_flag = renamed_state_greek
 			}
 		}
-		set_state_name = "Nisiá Aigaíou"
+		set_state_name = "니시아 에예우"
 		set_state_flag = renamed_state_greek
 	}
 	else_if = {
@@ -59,11 +59,11 @@ do_greek_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_bulgaria
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Anatolikí Thráki"
+		set_state_name = "아나톨리키 트라키"
 		set_state_flag = renamed_state_greek
 		set_province_name = {
 			id = 11842
-			name = "Adrianoúpolis"
+			name = "아드리아누폴리"
 		}
 	}
 	else_if = {
@@ -74,7 +74,7 @@ do_greek_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_bulgaria
-		set_state_name = "Kallípolis"
+		set_state_name = "칼리폴리"
 		set_state_flag = renamed_state_greek
 	}
 	else_if = {
@@ -85,11 +85,11 @@ do_greek_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_serbian
-		set_state_name = "Vória Makedonía"
+		set_state_name = "보리아 마케도니아"
 		set_state_flag = renamed_state_greek
 		set_province_name = {
 			id = 9837
-			name = "Flórina"
+			name = "플로리나"
 		}
 	}
 	else_if = {
@@ -99,7 +99,7 @@ do_greek_renames_in_europe = {
 				has_state_flag = renamed_state_greek
 			}
 		}
-		set_state_name = "Vórios Ípiros"
+		set_state_name = "보리오스 이피로스"
 		set_state_flag = renamed_state_greek
 	}
 	else_if = {
@@ -110,11 +110,11 @@ do_greek_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_serbian
-		set_state_name = "Anatolikí Makedonía"
+		set_state_name = "아나톨리키 마케도니아"
 		set_state_flag = renamed_state_greek
 		set_province_name = {
 			id = 9930
-			name = "Kávala"
+			name = "카발라"
 		}
 	}
 	else_if = {
@@ -127,11 +127,11 @@ do_greek_renames_in_europe = {
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_bulgaria
 		clr_state_flag = renamed_state_turkish
-		set_state_name = "Konstantinoúpolis"
+		set_state_name = "콘스탄티누폴리스"
 		set_state_flag = renamed_state_greek
 		set_province_name = {
 			id = 9833
-			name = "Konstantinoúpolis"
+			name = "콘스탄티누폴리스"
 		}
 	}
 	else_if = {
@@ -162,7 +162,7 @@ do_greek_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_turkish
-		set_state_name = "Kártsali"
+		set_state_name = "코자엘리"
 		set_state_flag = renamed_state_greek
 	}
 }
@@ -175,11 +175,11 @@ do_greek_renames_in_middle_east = {
 				has_state_flag = renamed_state_greek
 			}
 		}
-		set_state_name = "Dodekánisa"
+		set_state_name = "도데카니사"
 		set_state_flag = renamed_state_greek
 		set_province_name = {
 			id = 10007
-			name = "Ródos"
+			name = "로도스"
 		}
 	}
 	else_if = {
@@ -189,11 +189,11 @@ do_greek_renames_in_middle_east = {
 				has_state_flag = renamed_state_greek
 			}
 		}
-		set_state_name = "Smýrna"
+		set_state_name = "스미르나"
 		set_state_flag = renamed_state_greek
 		set_province_name = {
 			id = 4112
-			name = "Smýrna"
+			name = "스미르나"
 		}
 	}
 	else_if = {
@@ -204,11 +204,11 @@ do_greek_renames_in_middle_east = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Proúsa"
+		set_state_name = "프루사"
 		set_state_flag = renamed_state_greek
 		set_province_name = {
 			id = 947
-			name = "Proúsa"
+			name = "프루사"
 		}
 	}
 	else_if = {
@@ -218,11 +218,11 @@ do_greek_renames_in_middle_east = {
 				has_state_flag = renamed_state_greek
 			}
 		}
-		set_state_name = "Moúgla"
+		set_state_name = "무글라"
 		set_state_flag = renamed_state_greek
 		set_province_name = {
 			id = 10122
-			name = "Marmarís"
+			name = "마르마리스"
 		}
 	}
 	else_if = {
@@ -232,11 +232,15 @@ do_greek_renames_in_middle_east = {
 				has_state_flag = renamed_state_greek
 			}
 		}
-		set_state_name = "Trebizond"
+		set_state_name = "폰토스"
 		set_state_flag = renamed_state_greek
 		set_province_name = {
 			id = 9932
-			name = "Trebizond"
+			name = "트라페준타"
+		}
+		set_province_name = {
+			id = 11881
+			name = "삼프순타"
 		}
 	}
 }
