@@ -6,15 +6,15 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Varshava"
+		set_state_name = "바르샤바"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 3544
-			name = "Varshava"
+			name = "바르샤바"
 		}
 		set_province_name = {
-			id = 11274
-			name = "Lomzha"
+			id = 9508
+			name = "로지"
 		}
 	}
 	else_if = {
@@ -27,11 +27,11 @@ do_russian_renames_in_europe = {
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_polish
 		clr_state_flag = renamed_state_belarusian
-		set_state_name = "Kovno"
+		set_state_name = "코브노"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 6296
-			name = "Kovno"
+			name = "코브노"
 		}
 	}
 	else_if = {
@@ -42,11 +42,11 @@ do_russian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_lithuanian
-		set_state_name = "Liflandiya"
+		set_state_name = "리플란디야"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 9501
-			name = "Vladimirets Livonskiy"
+			name = "블라디미레츠 리본스키"
 		}
 	}
 	else_if = {
@@ -56,12 +56,20 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
+		set_state_name = "예스틸란디야"
 		clr_state_flag = renamed_state_estonian
-		set_state_name = "Revel"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
+			id = 185
+			name = "아렌스부르크"
+		}
+		set_province_name = {
 			id = 3152
-			name = "Estlandiya"
+			name = "레벨"
+		}
+		set_province_name = {
+			id = 4640
+			name = "나르바"
 		}
 	}
 	else_if = {
@@ -72,15 +80,15 @@ do_russian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_ukrainian
-		set_state_name = "Bessarabia"
+		set_state_name = "베사라비아"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 3707
-			name = "Kishinyev"
+			name = "키시니예프"
 		}
 		set_province_name = {
 			id = 6727
-			name = "Akkerman"
+			name = "아케르만"
 		}
 	}
 	else_if = {
@@ -93,11 +101,11 @@ do_russian_renames_in_europe = {
 		clr_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_ukrainian
-		set_state_name = "Chernovitsy"
+		set_state_name = "체르노비치"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 9548
-			name = "Chernovitsy"
+			name = "체르노비치"
 		}
 	}
 	else_if = {
@@ -107,15 +115,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Kalish"
+		set_state_name = "칼리시"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
-			id = 9508
-			name = "Lodz"
-		}
-		set_province_name = {
 			id = 9546
-			name = "Kalish"
+			name = "칼리시"
 		}
 	}
 	else_if = {
@@ -125,11 +129,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Krakov"
+		set_state_name = "크라코프"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 9427
-			name = "Krakov"
+			name = "크라코프"
 		}
 	}
 	else_if = {
@@ -139,11 +143,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Stanislavov"
+		set_state_name = "스타니슬라보프"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 11411
-			name = "Stanislavov"
+			name = "스타니슬라보프"
 		}
 	}
 	else_if = {
@@ -153,15 +157,15 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Keltsy"
+		set_state_name = "켈치"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 3586
-			name = "Chenstokhov"
+			name = "첸스토호프"
 		}
 		set_province_name = {
 			id = 6416
-			name = "Keltsy"
+			name = "켈치"
 		}
 	}
 	else_if = {
@@ -171,11 +175,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Lvov"
+		set_state_name = "리보프"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 11479
-			name = "Lvov"
+			name = "리보프"
 		}
 	}
 	else_if = {
@@ -187,11 +191,11 @@ do_russian_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_polish
 		clr_state_flag = renamed_state_belarusian
-		set_state_name = "Brest-Litovsk"
+		set_state_name = "브레스트-리톱스크"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 3392
-			name = "Brest-Litovsk"
+			name = "브레스트-리톱스크"
 		}
 	}
 	else_if = {
@@ -203,11 +207,11 @@ do_russian_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_polish
 		clr_state_flag = renamed_state_lithuanian
-		set_state_name = "Volkovysk"
+		set_state_name = "볼코비스크"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 13736
-			name = "Volkovysk"
+			name = "볼코비스크"
 		}
 	}
 	else_if = {
@@ -217,17 +221,20 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		clr_state_flag = renamed_state_polish
 		clr_state_flag = renamed_state_lithuanian
-		set_state_name = "Novogrudok"
+		set_state_name = endo_state_95
 		set_state_flag = renamed_state_russian
 		set_province_name = {
+			id = 560
+			name = endo_vp_560
+		}
+		set_province_name = {
 			id = 3309
-			name = "Slonim"
+			name = endo_vp_3309
 		}
 		set_province_name = {
 			id = 9359
-			name = "Novogrudok"
+			name = "노보그루도크"
 		}
 	}
 	else_if = {
@@ -244,11 +251,11 @@ do_russian_renames_in_europe = {
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 3320
-			name = "Vilna"
+			name = "빌나"
 		}
 		set_province_name = {
 			id = 3393
-			name = "Grodno"
+			name = "그로드노"
 		}
 	}
 	else_if = {
@@ -260,11 +267,11 @@ do_russian_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_lithuanian
 		clr_state_flag = renamed_state_belarusian
-		set_state_name = "Belostok"
+		set_state_name = "벨로스토크"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 11301
-			name = "Belostok"
+			name = "벨로스토크"
 		}
 	}
 	else_if = {
@@ -275,11 +282,15 @@ do_russian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_german
-		set_state_name = "Plotsk"
+		set_state_name = "플로츠크"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 3230
-			name = "Plotsk"
+			name = "플로츠크"
+		}
+		set_province_name = {
+			id = 11274
+			name = "롬자"
 		}
 	}
 	else_if = {
@@ -373,7 +384,7 @@ do_russian_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_polish
 		clr_state_flag = renamed_state_german
-		set_state_name = "Zhemaitija"
+		set_state_name = "제마이티야"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 6314
@@ -381,7 +392,7 @@ do_russian_renames_in_europe = {
 		}
 		set_province_name = {
 			id = 6376
-			name = "Shavli"
+			name = "샤블리"
 		}
 	}
 	else_if = {
@@ -393,11 +404,15 @@ do_russian_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_latvian
 		clr_state_flag = renamed_state_lithuanian
-		set_state_name = "Kurlyandiya"
+		set_state_name = "쿠를랸디야"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
+			id = 6342
+			name = "미타바"
+		}
+		set_province_name = {
 			id = 9262
-			name = "Libava"
+			name = "리바바"
 		}
 	}
 	else_if = {
@@ -408,11 +423,15 @@ do_russian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_estonian
-		set_state_name = "Yuriev"
+		set_state_name = "유리예프"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
+			id = 3174
+			name = "페르노프"
+		}
+		set_province_name = {
 			id = 9221
-			name = "Yuriev"
+			name = "유리예프"
 		}
 	}
 	else_if = {
@@ -422,11 +441,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Odessa"
+		set_state_name = "오데사"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 11670
-			name = "Odessa"
+			name = "오데사"
 		}
 	}
 	else_if = {
@@ -436,11 +455,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Chernigov"
+		set_state_name = "체르니고프"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 3568
-			name = "Chernigov"
+			name = "체르니고프"
 		}
 	}
 	else_if = {
@@ -450,11 +469,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Mozyr"
+		set_state_name = "모지리"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 6232
-			name = "Mozyr"
+			name = "모지리"
 		}
 	}
 	else_if = {
@@ -464,11 +483,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Nikolayev"
+		set_state_name = "니콜라예프"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 11546
-			name = "Nikolayev"
+			name = "니콜라예프"
 		}
 	}
 	else_if = {
@@ -478,11 +497,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Vinnitsa"
+		set_state_name = "빈니차"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 9481
-			name = "Vinnitsa"
+			name = "빈니차"
 		}
 	}
 	else_if = {
@@ -492,11 +511,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Proskurov"
+		set_state_name = "프로스쿠로프"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 3457
-			name = "Proskurov"
+			name = "프로스쿠로프"
 		}
 	}
 	else_if = {
@@ -506,11 +525,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Aleksandrovsk"
+		set_state_name = "알렉산드롭스크"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 11405
-			name = "Aleksandrovsk"
+			name = "알렉산드롭스크"
 		}
 	}
 	else_if = {
@@ -520,11 +539,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Zhitomir"
+		set_state_name = "지토미르"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 11514
-			name = "Zhitomir"
+			name = "지토미르"
 		}
 	}
 	else_if = {
@@ -534,11 +553,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Kiyev"
+		set_state_name = "키예프"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 525
-			name = "Kiyev"
+			name = "키예프"
 		}
 	}
 	else_if = {
@@ -548,11 +567,23 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Cherkassy"
+		set_state_name = "체르카시"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 488
-			name = "Cherkassy"
+			name = "체르카시"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 204
+			NOT = { has_state_flag = renamed_state_russian }
+		}
+		set_state_name = "보브루이스크"
+		set_state_flag = renamed_state_russian
+		set_province_name = {
+			id = 331
+			name = "보브루이스크"
 		}
 	}
 	else_if = {
@@ -562,15 +593,15 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Minsk"
+		set_state_name = "민스크"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 11370
-			name = "Minsk"
+			name = "민스크"
 		}
 		set_province_name = {
 			id = 294
-			name = "Borisov"
+			name = "보리소프"
 		}
 	}
 	else_if = {
@@ -580,8 +611,12 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Braslav"
+		set_state_name = "브라슬라프"
 		set_state_flag = renamed_state_russian
+		set_province_name = {
+			id = 233
+			name = "브라슬라프"
+		}
 	}
 	else_if = {
 		limit = {
@@ -622,11 +657,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Kharkov"
+		set_state_name = "하리코프"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 418
-			name = "Kharkov"
+			name = "하리코프"
 		}
 	}
 	else_if = {
@@ -636,15 +671,15 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Yekaterinoslav"
+		set_state_name = "예카테리노슬라프"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 11437
-			name = "Yekaterinoslav"
+			name = "예카테리노슬라프"
 		}
 		set_province_name = {
 			id = 11561
-			name = "Krivoy Rog"
+			name = "크리보이 로크"
 		}
 	}
 	else_if = {
@@ -654,15 +689,15 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Yuzovka"
+		set_state_name = "유좁카"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 6474
-			name = "Yuzovka"
+			name = "유좁카"
 		}
 		set_province_name = {
 			id = 9461
-			name = "Lugansk"
+			name = "루간스크"
 		}
 	}
 	else_if = {
@@ -672,11 +707,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Starobelsk"
+		set_state_name = "스타로벨스크"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 523
-			name = "Starobelsk"
+			name = "스타로벨스크"
 		}
 	}
 	else_if = {
@@ -712,11 +747,11 @@ do_russian_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_greek
 		clr_state_flag = renamed_state_bulgaria
-		set_state_name = "Adrianopol"
+		set_state_name = "아드리아노폴"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 11842
-			name = "Adrianopol"
+			name = "아드리아노폴"
 		}
 	}
 	else_if = {
@@ -745,11 +780,11 @@ do_russian_renames_in_europe = {
 		clr_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_ukrainian
-		set_state_name = "Sucava"
+		set_state_name = "수차바"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 6761
-			name = "Sucava"
+			name = "수차바"
 		}
 	}
 	else_if = {
@@ -774,11 +809,11 @@ do_russian_renames_in_europe = {
 		clr_state_flag = renamed_state_greek
 		clr_state_flag = renamed_state_turkish
 		clr_state_flag = renamed_state_bulgaria
-		set_state_name = "Konstantinopol"
+		set_state_name = "콘스탄티노폴"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 9833
-			name = "Konstantinopol"
+			name = "콘스탄티노폴"
 		}
 	}
 	else_if = {
@@ -788,11 +823,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Mogilyev-Podolskiy"
+		set_state_name = "모길레프-포돌스키"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
-			id = 476
-			name = "Mogilyev-Podolskiy"
+			id = 6455
+			name = "모길레프-포돌스키"
 		}
 	}
 	else_if = {
@@ -803,11 +838,11 @@ do_russian_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_polish
-		set_state_name = "Rovno"
+		set_state_name = "로브노"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 11543
-			name = "Rovno"
+			name = "로브노"
 		}
 	}
 	else_if = {
@@ -817,11 +852,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Pavlograd"
+		set_state_name = "파블로그라드"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 453
-			name = "Pavlograd"
+			name = "파블로그라드"
 		}
 	}
 	else_if = {
@@ -922,15 +957,11 @@ do_russian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Mogilev"
+		set_state_name = "모길레프"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 9289
-			name = "Mogilev"
-		}
-		set_province_name = {
-			id = 331
-			name = "Bobruysk"
+			name = "모길레프"
 		}
 	}
 	else_if = {
@@ -941,11 +972,11 @@ do_russian_renames_in_europe = {
 			}
 		}
 		set_state_flag = renamed_state_russian
-		set_state_name = "Kholm"
+		set_state_name = "홀름"
 		clr_state_flag = renamed_state_ukrainian
 		set_province_name = {
 			id = 9452
-			name = "Kholm"
+			name = "홀름"
 		}
 	}
 }
@@ -1010,11 +1041,11 @@ do_russian_renames_in_middle_east = {
 		}
 		clr_state_flag = renamed_state_greek
 		clr_state_flag = renamed_state_bulgaria
-		set_state_name = "Prusa"
+		set_state_name = "프루사"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 947
-			name = "Prusa"
+			name = "프루사"
 		}
 	}
 	else_if = {
@@ -1219,6 +1250,19 @@ do_russian_renames_in_asia = {
 	}
 	else_if = {
 		limit = {
+			state = 618
+			NOT = {
+				has_state_flag = renamed_state_russian
+			}
+		}
+		set_state_name = endo_state_618_russian
+		clr_state_flag = renamed_state_uighur
+		clr_state_flag = renamed_state_chinese
+		clr_state_flag = renamed_state_mongolian
+		set_state_flag = renamed_state_russian
+	}
+	else_if = {
+		limit = {
 			state = 716
 			NOT = {
 				has_state_flag = renamed_state_russian
@@ -1284,7 +1328,7 @@ do_russian_renames_in_asia = {
 		clr_state_flag = renamed_state_japanese
 		clr_state_flag = renamed_state_korean
 		set_state_flag = renamed_state_russian
-		
+
 		set_state_name = endo_state_885_russian
 		set_province_name = {
 			id = 12412
@@ -1302,7 +1346,7 @@ do_russian_renames_in_asia = {
 		clr_state_flag = renamed_state_japanese
 		clr_state_flag = renamed_state_korean
 		set_state_flag = renamed_state_russian
-		
+
 		set_state_name = endo_state_886_russian
 		set_province_name = {
 			id = 4572
@@ -1316,38 +1360,17 @@ do_bielarusian_renames_in_europe = {
 		limit = {
 			state = 11
 			NOT = {
-				has_state_flag = renamed_state
+				has_state_flag = renamed_state_belarusian
 			}
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_polish
-		set_state_name = "Koŭna"
+		set_state_name = "카우나"
 		set_state_flag = renamed_state_belarusian
 		set_province_name = {
 			id = 6296
-			name = "Koŭna"
-		}
-	}
-	else_if = {
-		limit = {
-			state = 96
-			NOT = {
-				has_state_flag = renamed_state
-			}
-		}
-		clr_state_flag = renamed_state_russian
-		clr_state_flag = renamed_state_german
-		clr_state_flag = renamed_state_polish
-		set_state_name = "Vilnja"
-		set_state_flag = renamed_state_belarusian
-		set_province_name = {
-			id = 3320
-			name = "Viľňa"
-		}
-		set_province_name = {
-			id = 3393
-			name = "Horodno"
+			name = "카우나"
 		}
 	}
 	else_if = {
@@ -1359,11 +1382,11 @@ do_bielarusian_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_polish
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Berestye"
+		set_state_name = "베레스체"
 		set_state_flag = renamed_state_belarusian
 		set_province_name = {
 			id = 3392
-			name = "Berestye"
+			name = "베레스체"
 		}
 	}
 	else_if = {
@@ -1389,14 +1412,16 @@ do_bielarusian_renames_in_europe = {
 			state = 95
 			OR = {
 				has_state_flag = renamed_state_russian
-				has_state_flag = renamed_state_polish
 				has_state_flag = renamed_state_lithuanian
 			}
 		}
-		set_state_name = endo_state_95
 		clr_state_flag = renamed_state_russian
-		clr_state_flag = renamed_state_polish
 		clr_state_flag = renamed_state_lithuanian
+		set_state_name = endo_state_95
+		set_province_name = {
+			id = 560
+			name = endo_vp_560
+		}
 		set_province_name = {
 			id = 3309
 			name = endo_vp_3309
@@ -1408,20 +1433,23 @@ do_bielarusian_renames_in_europe = {
 	}
 	else_if = {
 		limit = {
-			state = 1087
-			OR = {
-				has_state_flag = renamed_state_russian
+			state = 96
+			NOT = {
+				has_state_flag = renamed_state_belarusian
 			}
 		}
-		set_state_name = endo_state_1087
 		clr_state_flag = renamed_state_russian
+		clr_state_flag = renamed_state_german
+		clr_state_flag = renamed_state_polish
+		set_state_name = "Vilnja"
+		set_state_flag = renamed_state_belarusian
 		set_province_name = {
-			id = 9289
-			name = endo_vp_9289
+			id = 3320
+			name = "빌냐"
 		}
 		set_province_name = {
-			id = 331
-			name = endo_vp_331
+			id = 3393
+			name = "흐로드노"
 		}
 	}
 	else_if = {
@@ -1433,19 +1461,17 @@ do_bielarusian_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_lithuanian
 		clr_state_flag = renamed_state_russian
-		set_state_name = "Belastok"
+		set_state_name = "벨라스토크"
 		set_state_flag = renamed_state_belarusian
 		set_province_name = {
 			id = 11301
-			name = "Belastok"
+			name = "벨라스토크"
 		}
 	}
 	else_if = {
 		limit = {
 			state = 194
-			OR = {
-				has_state_flag = renamed_state_russian
-			}
+			has_state_flag = renamed_state_russian
 		}
 		set_state_name = endo_state_194
 		clr_state_flag = renamed_state_russian
@@ -1456,20 +1482,30 @@ do_bielarusian_renames_in_europe = {
 	}
 	else_if = {
 		limit = {
+			state = 204
+			has_state_flag = renamed_state_russian
+		}
+		set_state_name = endo_state_204
+		clr_state_flag = renamed_state_russian
+		set_province_name = {
+			id = 331
+			name = endo_vp_331
+		}
+	}
+	else_if = {
+		limit = {
 			state = 206
-			OR = {
-				has_state_flag = renamed_state_russian
-			}
+			has_state_flag = renamed_state_russian
 		}
 		set_state_name = endo_state_206
 		clr_state_flag = renamed_state_russian
 		set_province_name = {
-			id = 11370
-			name = endo_vp_11370
-		}
-		set_province_name = {
 			id = 294
 			name = endo_vp_294
+		}
+		set_province_name = {
+			id = 11370
+			name = endo_vp_11370
 		}
 	}
 	else_if = {
@@ -1477,23 +1513,27 @@ do_bielarusian_renames_in_europe = {
 			state = 207
 			OR = {
 				has_state_flag = renamed_state_russian
+				has_state_flag = renamed_state_lithuanian
 			}
 		}
 		set_state_name = endo_state_207
 		clr_state_flag = renamed_state_russian
+		clr_state_flag = renamed_state_lithuanian
+		set_province_name = {
+			id = 233
+			name = endo_vp_233
+		}
 	}
 	else_if = {
 		limit = {
 			state = 241
-			NOT = {
-				has_state_flag = renamed_state_belarusian
-			}
+			NOT = { has_state_flag = renamed_state_belarusian }
 		}
-		set_state_name = "Homel"
+		set_state_name = "호멜"
 		set_state_flag = renamed_state_belarusian
 		set_province_name = {
 			id = 9288
-			name = "Homel"
+			name = "호멜"
 		}
 	}
 	else_if = {
@@ -1503,15 +1543,15 @@ do_bielarusian_renames_in_europe = {
 				has_state_flag = renamed_state_belarusian
 			}
 		}
-		set_state_name = "Smaliensk"
+		set_state_name = "스말렌스크"
 		set_state_flag = renamed_state_belarusian
 		set_province_name = {
 			id = 11241
-			name = "Viciebsk"
+			name = "비쳅스크"
 		}
 		set_province_name = {
 			id = 306
-			name = "Smaliensk"
+			name = "스말렌스크"
 		}
 	}
 	else_if = {
@@ -1521,7 +1561,7 @@ do_bielarusian_renames_in_europe = {
 				has_state_flag = renamed_state_belarusian
 			}
 		}
-		set_state_name = "Roslawl"
+		set_state_name = "로슬라울"
 		set_state_flag = renamed_state_belarusian
 	}
 	else_if = {
@@ -1534,11 +1574,11 @@ do_bielarusian_renames_in_europe = {
 		clr_state_flag = renamed_state_lithuanian
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_latvian
-		set_state_name = "Dzvinsk"
+		set_state_name = "즈빈스크"
 		set_state_flag = renamed_state_belarusian
 		set_province_name = {
 			id = 310
-			name = "Dzvinsk"
+			name = "즈빈스크"
 		}
 	}
 	else_if = {
@@ -1554,6 +1594,18 @@ do_bielarusian_renames_in_europe = {
 		set_state_name = endo_state_997_belarusian
 		set_state_flag = renamed_state_belarusian
 	}
+	else_if = {
+		limit = {
+			state = 1087
+			has_state_flag = renamed_state_russian
+		}
+		set_state_name = endo_state_1087
+		clr_state_flag = renamed_state_russian
+		set_province_name = {
+			id = 9289
+			name = endo_vp_9289
+		}
+	}
 }
 do_ukrainian_renames_in_europe = {
 	if = {
@@ -1563,14 +1615,14 @@ do_ukrainian_renames_in_europe = {
 				has_state_flag = renamed_state_ukrainian
 			}
 		}
-		set_state_name = "Zakarpattia"
+		set_state_name = "자카르파탸"
 		clr_state_flag = renamed_state_slovak
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_polish
 		set_state_flag = renamed_state_ukrainian
 		set_province_name = {
 			id = 11691
-			name = "Užhorod"
+			name = "우주호로드"
 		}
 	}
 	else_if = {
@@ -1585,11 +1637,11 @@ do_ukrainian_renames_in_europe = {
 		set_state_flag = renamed_state_ukrainian
 		set_province_name = {
 			id = 3707
-			name = "Kyshyniv"
+			name = "키시니우"
 		}
 		set_province_name = {
 			id = 6727
-			name = "Akkerman"
+			name = "아케르만"
 		}
 	}
 	else_if = {
@@ -1602,11 +1654,11 @@ do_ukrainian_renames_in_europe = {
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_german
-		set_state_name = "Chernivtsi"
+		set_state_name = "체르니우치"
 		set_state_flag = renamed_state_ukrainian
 		set_province_name = {
 			id = 9548
-			name = "Chernivtsi"
+			name = "체르니우치"
 		}
 	}
 	else_if = {
@@ -1658,11 +1710,11 @@ do_ukrainian_renames_in_europe = {
 				has_state_flag = renamed_state_russian
 			}
 		}
-		set_state_name = "Mozyr"
+		set_state_name = "모즈리"
 		set_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 6232
-			name = "Mozyr"
+			name = "모즈리"
 		}
 	}
 	else_if = {
@@ -1843,11 +1895,11 @@ do_ukrainian_renames_in_europe = {
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_german
-		set_state_name = "Sucava"
+		set_state_name = "수차바"
 		set_state_flag = renamed_state_ukrainian
 		set_province_name = {
 			id = 6761
-			name = "Sucava"
+			name = "수차바"
 		}
 	}
 	else_if = {
@@ -1874,8 +1926,8 @@ do_ukrainian_renames_in_europe = {
 		set_state_name = endo_state_791
 		clr_state_flag = renamed_state_russian
 		set_province_name = {
-			id = 476
-			name = endo_vp_476
+			id = 6455
+			name = endo_vp_6455
 		}
 	}
 	else_if = {
@@ -1918,11 +1970,11 @@ do_ukrainian_renames_in_europe = {
 			}
 		}
 		set_state_flag = renamed_state_ukrainian
-		set_state_name = "Cholm"
+		set_state_name = "홀름"
 		clr_state_flag = renamed_state_russian
 		set_province_name = {
 			id = 9452
-			name = "Cholm"
+			name = "홀름"
 		}
 	}
 }
