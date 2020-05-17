@@ -166,7 +166,7 @@ do_arab_renames_in_africa = {
 		set_state_flag = renamed_state_arabic
 		set_province_name = {
 			id = 4073
-			name = "아스 "
+			name = "아스 수와이스"
 		}
 	}
 }
