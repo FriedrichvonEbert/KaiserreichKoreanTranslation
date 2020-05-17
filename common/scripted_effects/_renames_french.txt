@@ -168,7 +168,7 @@ do_french_renames_in_europe = {
 				has_state_flag = renamed_state_french
 			}
 		}
-		set_state_name = endo_state_741
+		set_state_name = endo_state_741_french
 		set_state_flag = renamed_state_french
 	}
 	else_if = {
@@ -306,11 +306,11 @@ do_occitan_renames_in_europe = {
 				has_state_flag = renamed_state_occitan
 			}
 		}
-		set_state_name = "Aquitània"
+		set_state_name = "아키타뇨"
 		set_state_flag = renamed_state_occitan
 		set_province_name = {
 			id = 9737
-			name = "Bordèu"
+			name = "부르데우"
 		}
 	}
 	else_if = {
@@ -320,11 +320,11 @@ do_occitan_renames_in_europe = {
 				has_state_flag = renamed_state_occitan
 			}
 		}
-		set_state_name = "Lionés"
+		set_state_name = "리요네"
 		set_state_flag = renamed_state_occitan
 		set_province_name = {
 			id = 6613
-			name = "Lion"
+			name = "리용"
 		}
 	}
 	else_if = {
@@ -334,15 +334,15 @@ do_occitan_renames_in_europe = {
 				has_state_flag = renamed_state_occitan
 			}
 		}
-		set_state_name = "Provency"
+		set_state_name = "프로방시"
 		set_state_flag = renamed_state_occitan
 		set_province_name = {
 			id = 11834
-			name = "Marselha"
+			name = "마르세요"
 		}
 		set_province_name = {
 			id = 911
-			name = "Tolon"
+			name = "툴룬"
 		}
 	}
 	else_if = {
@@ -352,11 +352,11 @@ do_occitan_renames_in_europe = {
 				has_state_flag = renamed_state_occitan
 			}
 		}
-		set_state_name = "Lengadòc"
+		set_state_name = "렝고도크"
 		set_state_flag = renamed_state_occitan
 		set_province_name = {
 			id = 9898
-			name = "Montpelhièr"
+			name = "뭄펠리에"
 		}
 	}
 	else_if = {
@@ -366,11 +366,11 @@ do_occitan_renames_in_europe = {
 				has_state_flag = renamed_state_occitan
 			}
 		}
-		set_state_name = "Lemosin"
+		set_state_name = "리모진"
 		set_state_flag = renamed_state_occitan
 		set_province_name = {
 			id = 620
-			name = "Lemòtges"
+			name = "리모제스"
 		}
 	}
 	else_if = {
@@ -380,7 +380,7 @@ do_occitan_renames_in_europe = {
 				has_state_flag = renamed_state_occitan
 			}
 		}
-		set_state_name = "Auvèrnhe"
+		set_state_name = "아우베르냐"
 		set_state_flag = renamed_state_occitan
 	}
 	else_if = {
@@ -390,11 +390,11 @@ do_occitan_renames_in_europe = {
 				has_state_flag = renamed_state_occitan
 			}
 		}
-		set_state_name = "Garona"
+		set_state_name = "가루노"
 		set_state_flag = renamed_state_occitan
 		set_province_name = {
 			id = 6766
-			name = "Tolosa"
+			name = "툴루조"
 		}
 	}
 	else_if = {
@@ -404,7 +404,7 @@ do_occitan_renames_in_europe = {
 				has_state_flag = renamed_state_occitan
 			}
 		}
-		set_state_name = "Ròse"
+		set_state_name = "로제"
 		set_state_flag = renamed_state_occitan
 	}
 	else_if = {
@@ -415,7 +415,7 @@ do_occitan_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_french
-		set_state_name = "Savòia"
+		set_state_name = "사보이아"
 		set_state_flag = renamed_state_occitan
 	}
 	else_if = {
@@ -426,11 +426,11 @@ do_occitan_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_italian
-		set_state_name = "Nissa"
+		set_state_name = "니사"
 		set_state_flag = renamed_state_occitan
 		set_province_name = {
 			id = 9909
-			name = "Nissa"
+			name = "니사"
 		}
 	}
 	else_if = {
@@ -440,7 +440,7 @@ do_occitan_renames_in_europe = {
 				has_state_flag = renamed_state_occitan
 			}
 		}
-		set_state_name = "Aups"
+		set_state_name = "아우프스"
 		set_state_flag = renamed_state_occitan
 	}
 	else_if = {
@@ -450,7 +450,7 @@ do_occitan_renames_in_europe = {
 				has_state_flag = renamed_state_occitan
 			}
 		}
-		set_state_name = "Rosselhon"
+		set_state_name = "루젤리우"
 		set_state_flag = renamed_state_occitan
 	}
 	else_if = {
@@ -461,11 +461,11 @@ do_occitan_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_italian
-		set_state_name = "Nauta Savòia"
+		set_state_name = "나우토 사보이아"
 		set_state_flag = renamed_state_occitan
 		set_province_name = {
 			id = 778
-			name = "Anecí"
+			name = "아네시"
 		}
 	}
 	else_if = {
