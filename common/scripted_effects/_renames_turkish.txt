@@ -32,11 +32,11 @@ do_turkish_renames_in_europe = {
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_greek
 		clr_state_flag = renamed_state_bulgaria
-		set_state_name = "Istanbul"
+		set_state_name = "이스탄불"
 		set_state_flag = renamed_state_turkish
 		set_province_name = {
 			id = 9833
-			name = "Istanbul"
+			name = "이스탄불"
 		}
 	}
 }
@@ -61,12 +61,12 @@ do_turkish_and_ottoman_renames_in_europe = {
 				has_state_flag = renamed_state_turkish
 			}
 		}
-		set_state_name = "Bati Trakya"
+		set_state_name = "바티 트라키아"
 		set_state_flag = renamed_state_turkish
 		clr_state_flag = renamed_state_greek
 		set_province_name = {
 			id = 11905
-			name = "Dedeağaç"
+			name = "데데아아치"
 		}
 	}
 	else_if = {
@@ -76,7 +76,7 @@ do_turkish_and_ottoman_renames_in_europe = {
 				has_state_flag = renamed_state_turkish
 			}
 		}
-		set_state_name = "Mestanli"
+		set_state_name = "메스탄리"
 		set_state_flag = renamed_state_turkish
 	}
 	else_if = {
@@ -198,6 +198,17 @@ do_turkish_renames_in_middle_east = {
 	}
 	else_if = {
 		limit = {
+			state = 344
+			has_state_flag = renamed_state_arabic
+		}
+		clr_state_flag = renamed_state_arabic
+		set_province_name = {
+			id = 9893
+			name = endo_vp_9893
+		}
+	}
+	else_if = {
+		limit = {
 			state = 354
 			has_state_flag = renamed_state_greek
 		}
@@ -206,6 +217,10 @@ do_turkish_renames_in_middle_east = {
 		set_province_name = {
 			id = 9932
 			name = endo_vp_9932
+		}
+		set_province_name = {
+			id = 11881
+			name = endo_vp_11881
 		}
 	}
 	else_if = {
@@ -254,10 +269,6 @@ do_turkish_renames_in_middle_east = {
 		set_province_name = {
 			id = 12473
 			name = endo_vp_12473
-		}
-		set_province_name = {
-			id = 9893
-			name = endo_vp_9893
 		}
 	}
 	else_if = {
