@@ -6,11 +6,24 @@ do_arab_renames_in_middle_east = {
 				has_state_flag = renamed_state_arabic
 			}
 		}
-		set_state_name = "Baghdad"
+		set_state_name = "바그다드"
 		set_state_flag = renamed_state_arabic
 		set_province_name = {
 			id = 2097
-			name = "Baghdad"
+			name = "바그다드"
+		}
+	}
+	else_if = {
+		limit = {
+			state = 344
+			NOT = {
+				has_state_flag = renamed_state_arabic
+			}
+		}
+		set_state_flag = renamed_state_arabic
+		set_province_name = {
+			id = 9893
+			name = "아인타브"
 		}
 	}
 	else_if = {
@@ -20,11 +33,11 @@ do_arab_renames_in_middle_east = {
 				has_state_flag = renamed_state_arabic
 			}
 		}
-		set_state_name = "Al Quds"
+		set_state_name = "알 쿠드스"
 		set_state_flag = renamed_state_arabic
 		set_province_name = {
 			id = 1086
-			name = "Al Quds"
+			name = "알 쿠드스"
 		}
 	}
 	else_if = {
@@ -34,11 +47,11 @@ do_arab_renames_in_middle_east = {
 				has_state_flag = renamed_state_arabic
 			}
 		}
-		set_state_name = "Suriya"
+		set_state_name = "수리야"
 		set_state_flag = renamed_state_arabic
 		set_province_name = {
 			id = 4111
-			name = "Dimashq"
+			name = "디마스쿠"
 		}
 	}
 	else_if = {
@@ -48,11 +61,11 @@ do_arab_renames_in_middle_east = {
 				has_state_flag = renamed_state_arabic
 			}
 		}
-		set_state_name = "Al Mawsil"
+		set_state_name = "알 마우실"
 		set_state_flag = renamed_state_arabic
 		set_province_name = {
 			id = 10106
-			name = "Al Mawsil"
+			name = "알 마우실"
 		}
 	}
 	else_if = {
@@ -62,15 +75,11 @@ do_arab_renames_in_middle_east = {
 				has_state_flag = renamed_state_arabic
 			}
 		}
-		set_state_name = "Halab"
+		set_state_name = "할라브"
 		set_state_flag = renamed_state_arabic
 		set_province_name = {
 			id = 12473
-			name = "Halab"
-		}
-		set_province_name = {
-			id = 9893
-			name = "Aintab"
+			name = "할라브"
 		}
 	}
 	else_if = {
@@ -80,15 +89,15 @@ do_arab_renames_in_middle_east = {
 				has_state_flag = renamed_state_arabic
 			}
 		}
-		set_state_name = "Hijaz"
+		set_state_name = "히자즈"
 		set_state_flag = renamed_state_arabic
 		set_province_name = {
 			id = 12883
-			name = "Jeddah"
+			name = "제다"
 		}
 		set_province_name = {
 			id = 5037
-			name = "Makkah"
+			name = "마카"
 		}
 	}
 	else_if = {
@@ -98,7 +107,7 @@ do_arab_renames_in_middle_east = {
 				has_state_flag = renamed_state_arabic
 			}
 		}
-		set_state_name = "Dayr Az Zur"
+		set_state_name = "다이르 아즈 주르"
 		set_state_flag = renamed_state_arabic
 	}
 	else_if = {
@@ -108,11 +117,11 @@ do_arab_renames_in_middle_east = {
 				has_state_flag = renamed_state_arabic
 			}
 		}
-		set_state_name = "Madinah"
+		set_state_name = "마디나"
 		set_state_flag = renamed_state_arabic
 		set_province_name = {
 			id = 10835
-			name = "Madinah"
+			name = "마디나"
 		}
 	}
 	else_if = {
@@ -122,11 +131,11 @@ do_arab_renames_in_middle_east = {
 				has_state_flag = renamed_state_arabic
 			}
 		}
-		set_state_name = "Al Basrah"
+		set_state_name = "알 바스라"
 		set_state_flag = renamed_state_arabic
 		set_province_name = {
 			id = 2089
-			name = "Al Basrah"
+			name = "알 바스라"
 		}
 	}
 	else_if = {
@@ -136,11 +145,11 @@ do_arab_renames_in_middle_east = {
 				has_state_flag = renamed_state_arabic
 			}
 		}
-		set_state_name = "Karkuk"
+		set_state_name = "카르쿠크"
 		set_state_flag = renamed_state_arabic
 		set_province_name = {
 			id = 8123
-			name = "Karkuk"
+			name = "카르쿠크"
 		}
 	}
 }
@@ -153,11 +162,11 @@ do_arab_renames_in_africa = {
 				has_state_flag = renamed_state_arabic
 			}
 		}
-		set_state_name = "Qanat As Suways"
+		set_state_name = "카나트 아스 수와이스"
 		set_state_flag = renamed_state_arabic
 		set_province_name = {
 			id = 4073
-			name = "As Suways"
+			name = "아스 수와이스"
 		}
 	}
 }
