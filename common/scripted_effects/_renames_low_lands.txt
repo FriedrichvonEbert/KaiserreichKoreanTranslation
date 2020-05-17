@@ -6,7 +6,7 @@ do_belgian_renames_in_europe = {
 				has_state_flag = renamed_state_french
 			}
 		}
-		set_state_name = "Wallonie du Sud"
+		set_state_name = "Wallonie 뒤 쉬드"
 		set_state_flag = renamed_state_french
 	}
 }
@@ -35,10 +35,10 @@ do_dutch_renames_in_europe = {
 			}
 		}
 		set_state_flag = renamed_state_dutch
-		set_state_name = "Frans Henegouwen"
+		set_state_name = "프란스 헤네하우언"
 		set_province_name = {
 			id = 11483
-			name = "Rijsel"
+			name = "레이설"
 		}
 	}
 }
@@ -186,6 +186,14 @@ do_dutch_renames_in_asia = {
 		set_state_name = endo_state_843
 		clr_state_flag = renamed_state_indonesian
 		clr_state_flag = renamed_state_german
+	}
+	else_if = {
+		limit = {
+			state = 972
+			NOT = { has_state_flag = renamed_state }
+		}
+		set_state_flag = renamed_state
+		set_state_name = endo_state_972_non_portuguese
 	}
 	else_if = {
 		limit = {
