@@ -25,18 +25,18 @@ ETH_totalist_party:0 "에티오피아 인민위원회의"
 ETH_totalist_party_long:0 "에티오피아 인민위원회의"
 
 ### Leaders ###
-POLITICS_HAILE_SELASSIE_DESC:0 "Following the death of Zauditu on 2 April 1930, Ras Tafari Makonnen was crowned Emperor of Ethiopia on 2 November 1930 at Addis Ababa's Cathedral of St. George. Upon climbing the throne the new Emperor, eager to wield the power he had finally obtained, started a series of sweeping political reforms to bring Abyssinia 'into the west'. In 1923 he toured Europe, inspecting schools, hospitals, factories, and churches, and the contact with the European way of life had greatly impressed him, for he intended to modernise Abyssinia to the European standard. These reforms, however, were fiercely opposed by the powerful conservative elements of the nation and have been delayed by the economic problems affecting the Empire, especially the debt he inherited from Zewditu's reign, and the pervasive and invasive German economic influence"
+POLITICS_HAILE_SELASSIE_DESC:0 "1930년 4월 2일 저우디투 여제의 승하 이후 1930년 11월 2일, 러스 터퍼리 머콘는은 아디스 아바바의 성 조지 대성당에서 에티오피아의 황제의 제관을 썼습니다. 그는 새로운 황제의 자리에 오르며 마침내 획득한 권력을 열정적으로 휘둘렀고 아비시니아를 '서방으로' 끌고가게 하기 위한 일련의 정치적 개혁을 시작했습니다. 1923년에는 유럽을 순방해서 학교, 병원, 공장, 교회를 사찰했습니다. 유럽인들의 삶의 방식과 접촉한 것은 그에게 큰 인상을 남겼고 아비시니아를 유럽의 기준에 맞게 근대화 시킬 생각을 품게 만들었습니다. 하지만 이 개혁들은 국가의 막강한 보수적 인사들의 거센 반대를 받았고 제국에 영향을 미친 경제 문제, 특히 저우디투의 통치로부터 물려받은 빚과, 서서히 만연하며 침범해오는 독일의 경제적 영향력에 의해 둔화되었습니다."
 
 ### Tooltips ###
 ETH_People_cons:0 "국민의 헌법이 승인되었습니다"
 ETH_Sellasie_cons:0 "황제의 헌법이 승인되었습니다"
 ETH_Noble_cons:0 "귀족의 헌법이 승인되었습니다"
-ETH_public_rail:0 "The DKAEB is owned by the Ethiopian state"
-ETH_private_rail:0 "The DKAEB is owned by German companies"
-ETH_Haile_Reforms:0 "Haile Sellasie has started his reforms"
-ETH_Constitucion_tt:0 "Ethiopia will have a new constitution depending on the reforms passed"
-ETH_Eritrea_tt:0 "§RIf Eritrea is not properly integrated by the time we enter conflict, we shouldn't expect them to remain loyal!§!\n"
-ETH_flag_change_ETE_tt:0 "§GA new flag shall celebrate this momentous occasion!§!\n"
+ETH_public_rail:0 "독일 범아프리카 철도는 에티오피아 국가 소유입니다."
+ETH_private_rail:0 "독일 범아프리카 철도는 독일 회사 소유입니다."
+ETH_Haile_Reforms:0 "하일레 셀라시에가 그의 개혁을 시작했습니다."
+ETH_Constitucion_tt:0 "에티오피아는 통과된 개혁에 따라 새로운 헌법을 가질 것입니다."
+ETH_Eritrea_tt:0 "§R전쟁에 들어갈 때까지 에리트레아가 제대로 통합되지 않으면, 그들의 충성을 장담할 수 없습니다!§!\n"
+ETH_flag_change_ETE_tt:0 "§G새로운 깃발로 이 중대한 순간을 기념할 것입니다!§!\n"
 
 ### Ideas ###
 ETH_Debt_idea_1:0 "주체 불가능한 채무"
@@ -274,7 +274,7 @@ ETH_Finish_Modernisation_desc:0 "우리의 산업화에 대한 노력은 결국 
 
 ### Events ###
 ethiopia.1.t:0 "교차로에 선 제국, 에티오피아"
-ethiopia.1.d:0 "Abyssinia, also known by the endonym of Ethiopia, was the only African state which managed to remain independent during the nineteenth century, having successfully defeated an Italian invasion in 1896. This victory was symbolic of the process of modernisation within the Abyssinian Empire which had sought to bring the country up to date with European standards in terms of its economy, military and administration. In 1918, under empress Zewditu, Abyssinia entered the Weltkrieg on the side of the Germans, successfully annexing the Italian colony Eritrea and dealing with the pretender emperor Iyasu. However the army performed rather poorly against Italy's garrisons and the few Entente raids into the Empire. Control over the disputed area of Harar was not enforced as the Somali forces which held much of the area could not be dislodged and have not been even to this day. When the old Empress Zewditu died with no surviving children, her cousin, regent and often times rival Ras Tafari Makonnen ascended to the throne as Emperor Haile Selassie. The new monarch announced his intention to undertake a new series of reforms in order to westernise Abyssinia as the main leader of the reactionary faction, his predecessor, was out of the picture.\n\nThese initiatives, however, were fiercely opposed by the conservative nobility of the nation, minor kings and dukes who saw in Zewditu someone much more amenable to their vision for the Empire. Ties with Germany, the new owners of nearby Djbouti, were strengthened as a railroad connecting the outpost, Adis Ababa and Kenya was built (mostly with German capital). Relations have since been positive, despite reports of eccentric behaviour by the new Mittelafrikan governor. However relations with Somalia and their Ottoman backers continue to be tense at best and a confrontation seems inevitable. The Emperor knows that such a war would require a united empire, under one banner and cause, as the ambitious dukes may well side with an enemy if they remain with their power unchecked and thus matters at home must be dealt with first."
+ethiopia.1.d:0 "현지 지명으로는 에티오피아라고 부르는 아비시니아는 19세기 동안 독립을 유지하는데 성공한 유일한 아프리카 국가로 1896년 이탈리아의 침공을 성공적으로 막아냈습니다. 이 승리는 경제·군사·행정 면에서 유럽에 발맞추어 나라를 현대화시키고자 하던 아비시니아 제국 내의 현대화 과정의 상징이 되었습니다. 1918년 저우디투 여제 치하의 아비시니아는 세계대전에 독일의 편으로 참전해 이탈리아의 식민지인 에리트레아를 성공적으로 합병했고 제위 요구자 이야수를 처리했습니다. 그러나 군대는 이탈리아의 주둔군을 상대할 때나 협상국 군의 제국 내로의 습격을 막을 때 더 한심한 모습을 보였습니다. 분쟁지역이었던 하라르에 대한 영유권은 지역 대다수를 점령한 소말리아 군을 몰아내지 못하며 주장할 수 없게 되었고 오늘날까지 이어지고 있습니다. 고령의 저우디투 여제가 살아있는 아이 없이 사망하자 그녀의 사촌이자, 섭정이며, 오랫동안 대립해왔던 러스 터퍼리 머콘는이 하일레 셀라시에 황제로 제위에 올랐습니다. 반동적인 파벌의 지도자였던 그의 전임자의 색채를 지우고 아비시니아를 서구화하기 위해 새로운 개혁들을 실시하려는 그의 의도에 따라 새로운 왕조가 선포되었습니다.\n\n하지만 이 계획은 저우디투를 호의적으로 바라보았던 소 왕이나 공작 등의 국가의 보수적인 귀족들에게는 거센 반대를 맞았습니다. 근거리에 있는 지부티의 새로운 주인이 된 독일과의 연계는 해군 기지와 아디스 아바바, 케냐를 연결하는 철도가 (독일 자본의 힘으로) 완공되며 더 강해졌습니다. 그 이후로 신임 중앙아프리카 총독의 기이한 행동에 대한 보고가 들어왔지만 독일과의 관계는 좋아졌습니다. 하지만 소말리아와 그들의 후원자인 오스만과의 관계는 계속해서 최고조의 긴장을 유지하고 있으며 분쟁은 피할 수 없을 것으로 보입니다. 황제는 하나의 깃발과 대의 아래에 통일된 제국을 만들기 위해서는 전쟁이 필요하다는 것을 알고 있지만 야심찬 공작들의 권력을 제한하지 않는다면 그들이 적의 편에 설 수도 있기 때문에 국내의 문제를 먼저 해결해야만 할 다."
 ethiopia.1.a:0 "우리는 강하게 서 있다!"
 ethiopia.2.t:0 "DKAEB와 파산 위기"
 ethiopia.2.d:0 "독일 황립 에티오피아 철도(DKAEB)는 20세기 초반에 세워졌으며 아디스아바바와 지부티를 연결합니다. 독일이 후원한 일련의 확장 이후 철도는 이제 주로 미텔아프리카의 콩고 분지에서 나온 광석을 지부티로 이송하는데 사용됩니다. 세계적으로 전반적인 경기 침체로 광석이 예전만 못하게 팔리면서 독일 범 아프리카 철도의 수송량이 더 적어지게 만들었습니다. 이제 철도의 상황은 파산 직전에 이르렀습니다."
@@ -351,7 +351,7 @@ ethiopia.21.t:0 "평의회에 권력을"
 ethiopia.21.d:0 "귀족들로 구성된 평의회가 셀라시에의 건달들로부터 정부의 완전한 권력을 장악할 때입니다. 이제부터 셀라시에는 왕중왕으로 통치하되 평의회에게 쓸모가 있을 때 지지를 구할 연약한 얼굴마담으로 남을 것입니다."
 ethiopia.21.a:0 "평의회를 찬양하라"
 ethiopia.22.t:0 "에리트레아 반란!"
-ethiopia.22.d:0 "에리트레아인들은 세금으로  에리트레아의 민족주의자들은 통합되지 않은 부족 족장들과 군의 장교들과 함께 이 필사적인 전쟁의 시간에 우리의 통치에 대항하는 반란을 일으켰습니다. 우리가 그들을 누르고 안정을 얻기 위해서는 빨리 징집을 시작해야만 합니다."
+ethiopia.22.d:0 "에리트레아인들에게 납세의 의무가 부과되자 에리트레아의 민족주의자들은 통합되지 않은 부족 족장들과 군의 장교들과 함께 이 필사적인 전쟁의 시간에 우리의 통치에 대항하는 반란을 일으켰습니다. 우리가 그들을 누르고 안정을 얻기 위해서는 빨리 징집을 시작해야만 합니다."
 ethiopia.22.a:0 "빌어먹을 배신자들!"
 ethiopia.23.t:0 "소말리아에 대한 승리"
 ethiopia.23.d:0 "우리는 마침내 소말리아인들을 전쟁에서 격파했고 이제는 선택의 시간입니다. 소말리아에 우호적인 정권을 세울까요? 아니면 완전히 합병해버릴까요?"
