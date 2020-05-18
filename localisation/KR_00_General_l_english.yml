@@ -6,10 +6,10 @@ KR_MAIN_MENU_LINK:0 "여기를 눌러서 카이저라이히 위키로 이동하�
 LOGO_MAIN_MENU_LINK:0 "여기를 눌러서 패치노트를 확인하세요"
 
 ### Diplomacy Tooltips ###
-REQUEST_EXP_FORCE_BLOCKED_TT:0 "§RThis country doesn't allow you to request their forces.§!"
+REQUEST_EXP_FORCE_BLOCKED_TT:0 "§R이 나라는 당신이 그들의 군대를 요청하는 것을 거부합니다.§!"
 
 ### Minister Tooltip ###
-general_minister_change_tt:0 "Their ministers will change according to our ideology."
+general_minister_change_tt:0 "그들의 장관들은 우리의 이념에 따라 교체될 것입니다."
 
 ### Renaming System ###
 toggle_renaming_button_tooltip:0 "[toggle_renaming_button_tooltip_loc]"
@@ -23,7 +23,7 @@ toggle_renaming_button_tooltip_disable_desc:0 "지역 소유자가 바뀌어도 
 ### Continents ###
 central_america:0 "중앙아메리카"
 india:0 "인도"
-is_actually_an_island:0 "is an island state"
+is_actually_an_island:0 "내륙 "
 
 ### Intelligence Agency Blocker ###
 INTELLIGENCE_AGENCY_BLOCK_TOOLTIP:0 "[!intelligence_agency_blocker_button_click_enabled]"
@@ -51,8 +51,8 @@ puppet_can_become_free:0 "독립할 수 있습니다\n"
 puppet_can_be_annexed:0 "종주국에게 합병될 수 있습니다\n"
 may_raise_autonomy:0 "§Y[Root.GetNameDefCap]§!의 자치도를 낮출 수 있습니다\n"
 may_become_free:0 "§Y[Root.GetNameDefCap]§!(은)는 독립을 향해가고 있습니다\n"
-clamour_for_independence:0 "Clamour for independence\n"
-clamour_for_autonomy:0 "Clamour for autonomy\n"
+clamour_for_independence:0 "독립을 요구합니다\n"
+clamour_for_autonomy:0 "자치를 요구합니다\n"
 
 ### Modifiers ###
 KR_trade_laws_cost_factor:0 "무역법 비용"
@@ -87,29 +87,29 @@ FOCUS_FILTER_RESISTANCE:0 "저항군"
 FOCUS_FILTER_LEC_CURRENCY:0 "Currency Reserves"
 
 ### Autonomy Events ###
-FROM_becomes_puppet:0 "§H[From.GetNameDefCap]§! is no longer an §HOccupied Puppet§!."
-FROM_becomes_autonomous_puppet:0 "§H[From.GetNameDefCap]§! becomes an §HAutonomous Puppet§!."
-FROM_becomes_nominal_puppet:0 "§H[From.GetNameDefCap]§! becomes a §HNominal Puppet§!."
+FROM_becomes_puppet:0 "§H[From.GetNameDefCap]§!은 더이상 §H점령된 괴뢰국§!이 아닙니다."
+FROM_becomes_autonomous_puppet:0 "§H[From.GetNameDefCap]§!은 §H자치 괴뢰국§!이 됩니다."
+FROM_becomes_nominal_puppet:0 "§H[From.GetNameDefCap]§!은 §H명목상 괴뢰국§!이 됩니다."
 
 ### Operatives ###
-CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC:5 "You can get the first slot by building the intelligence agency. Other slots will be available after the 5th upgrade or after recruiting a §HHead of Intelligence§! (available via decision).\nAs a spymaster, more operative slots are unlocked by having more countries in your faction. Puppets or countries with very low factory counts do not contribute to more operative slots."
+CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC:5 "첩보부를 세우는 것으로 첫 번째 슬롯을 열 수 있습니다. 다른 슬롯은 5번째 업그레이드를 하거나 디시전으로 §H정보부장§!을 모집한 후에 열 수 있습니다.\n스파이마스터가 되면 당신의 세력에 더 많은 국가가 들어올 수록 더 많은 슬롯을 열 수 있습니다. 속국이나 공장 수가 매우 적은 국가는 첩보원 슬롯을 추가해주지 않습니다."
 
 kr.political.100.t:0 "[Root.GetNameDef]의 질서가 복구되다"
 kr.political.100.d:0 "[Root.GetNameDef](은)는 여전히 [overlord_name.GetAdjective]의 통제 하에 분투하고 있지만, [Root.GetAdjective] 군대는 이제 더 큰 자율성을 발휘하도록 자국의 국경에 대한 통제권을 주장하게 되었습니다. 이것은 독립과는 거리가 멀지만 국경을 통제하기 위해 더 이상 [overlord_name.GetAdjective] 군대에 의존 할 필요가 없다는 것을 의미합니다."
 kr.political.100.a:0 "훌륭하군."
 
-kr.political.101.t:0 "Order Restored in [From.GetNameDef]"
-kr.political.101.d:0 "While [From.GetNameDef] still labours under [Root.GetAdjective] control, the [From.GetAdjective] military has asserted enough control over its own borders that a semblance of autonomy is now possible. This is not independence - far from it - but it does mean they no longer have to rely on [Root.GetAdjective] troops to secure their borders, and are thus not so tightly under our control."
-kr.political.101.a:0 "So be it"
+kr.political.101.t:0 "[From.GetNameDef]의 질서가 복구되다"
+kr.political.101.d:0 "[From.GetNameDef](은)는 여전히 [Root.GetAdjective]의 통제 하에 분투하고 있지만, [From.GetAdjective] 군대는 이제 더 큰 자율성을 발휘하도록 자국의 국경에 대한 통제권을 주장하게 되었습니다. 이것은 독립과는 거리가 멀지만 국경을 통제하기 위해 더 이상 [Root.GetAdjective] 군대에 의존 할 필요가 없다는 것을 의미합니다."
+kr.political.101.a:0 "그렇게 해라"
 
 kr.political.102.t:0 "[Root.GetAdjective]의 더 많은 자치권?"
 kr.political.102.d.tfv:0 "[Root.GetNameDefCap](은)는 [overlord_name.GetAdjective] 정부의 통제 하에 있지만, 우리의 힘이 다시 강해지며 그 통제권은 확실히 줄어들기 시작하고 있습니다. [Root.GetAdjective]의 힘은 쉽게 억제될 수 있는 것이 아니며, 이미 우리의 지도자들은 우리 자신의 문제에 대한 더 많은 통제권을 요구하고 있습니다. 물론 [overlord_name.GetAdjective]에서도 오래 반대할 수는 없을 것입니다."
 kr.political.102.d:0 "[Root.GetNameDefCap](은)는 [overlord_name.GetAdjective] 정부의 통제 하에 있지만, 우리의 힘이 다시 강해지며 그 통제권은 줄어들기 시작하고 있습니다. [Root.GetAdjective]의 힘은 쉽게 억제될 수 있는 것이 아니며, 이미 우리의 지도자들은 우리 자신의 문제에 대한 더 많은 통제권을 요구하고 있고 그 효과는 온 나라에서 느낄 수 있습니다."
 kr.political.102.a:0 "[Root.GetNameDef] 만세!"
 
-kr.political.103.t:0 "Greater [From.GetAdjective] Autonomy"
-kr.political.103.d:0 "[From.GetNameDefCap] remains under the control of the [Root.GetAdjective] government, but that control is beginning to lessen as their strength reasserts itself. [From.GetAdjective] power is not something to be easily contained, and the clamouring of their leaders for more control over their own affairs is being felt throughout the country."
-kr.political.103.a:0 "We will need to watch this carefully"
+kr.political.103.t:0 "[From.GetAdjective]의 더 많은 자치권"
+kr.political.103.d:0 "[From.GetNameDefCap](은)는 [Root.GetAdjective] 정부의 통제 하에 있지만, 그들의 힘이 다시 강해지며 그 통제권은 확실히 줄어들기 시작하고 있습니다. [From.GetAdjective]의 힘은 쉽게 억제될 수 있는 것이 아니며, 이미 그들의 지도자들은 그들 자신의 문제에 대한 더 많은 통제권을 요구하고 있고 그 효과는 온 나라에서 느낄 수 있습니다."
+kr.political.103.a:0 "조심스럽게 지켜볼 필요가 있다"
 
 kr.political.106.t:0 "The Struggle for Independence"
 kr.political.106.d.tfv:0 "[overlord_name.GetAdjective] control over the [Root.GetAdjective] government has been slipping for some time, now. We are too powerful for them to contain. There is a general clamouring among the [Root.GetAdjective] people for [Root.GetNameDef] to become free, and soon our time will come."
@@ -146,12 +146,12 @@ kr.political.111.a:0 "Yes, let's end this"
 kr.political.111.b:0 "No! We will finish this!"
 
 ### Unit Leader Events ###
-unit_leader.1.t:0 "[From.From.GetName] Falls Ill"
-unit_leader.1.d:0 "In [From.From.GetHerHis] service to the nation, it seems [From.From.GetRank] [From.From.GetName] has pushed [From.From.GetHerselfHimself] too far. As a result of the bad climate in [From.From.GetHerHis] operational area, the [From.From.GetRank] has now fallen ill, and will likely need some time to recover. Until [From.From.GetSheHe] gets well, [From.From.GetSheHe] will not be performing at [From.From.GetHerHis] usual level."
-unit_leader.1.a:0 "Unfortunate."
-unit_leader.2.t:0 "[From.From.GetName] Wounded"
-unit_leader.2.d:0 "In bringing the battle to a successful conclusion, it seems [From.From.GetRank] [From.From.GetName] put [From.From.GetHerselfHimself] at a bit too much risk while leading [From.From.GetHerHis] men. [From.From.GetSheHeCap] has been wounded, and it will likely take some time for the wounds to fully heal, until which time the [From.From.GetRank] will not be performing at [From.From.GetHerHis] usual level."
-unit_leader.2.a:0 "Unfortunate."
+unit_leader.1.t:0 "병에 걸린 [From.From.GetName]"
+unit_leader.1.d:0 "[From.From.GetNameDef]에서의 [From.GetHerHis](으)로 복무하던 [From.GetRank] [From.GetName](은)는 [From.GetHerselfHimself](을)를 지나치게 진격하려 한 듯보입니다.  작전 구역의 나쁜 기후로 인해, [From.GetRank](은)는 질병에 걸렸고 회복하려면 시간이 필요할 것 같습니다. [From.GetSheHe](이)가 낫기 전까지, [From.GetSheHe](은)는 [From.GetHerHis](이)가 지닌 원래의 수준을 발휘할 수 없을 것입니다."
+unit_leader.1.a:0 "유감스럽군."
+unit_leader.2.t:0 "부상당한 [From.From.GetName]"
+unit_leader.2.d:0 "전투의 성공적인 결과를 위해, [From.GetHerHis]의 병력을 이끌던 [From.GetRank] [From.GetName](은)는 [From.GetHerselfHimself] 스스로를 지나친 위험 부담에 처하게 한 것 같습니다. [From.GetSheHeCap](은)는 부상을 입었고, 완전히 치료되려면 시간이 필요할 것이며, 그 때까지 [From.GetRank](은)는 [From.GetHerHis](이)가 지닌 원래의 수준을 발휘할 수 없을 것입니다."
+unit_leader.2.a:0 "유감스럽군."
 
 ### Government in Exile Events ###
 mtg_exile_government.1.t:0 "[exile_nation.GetAdjective]의 망명 지도자가 군복무를 원하다"
@@ -289,8 +289,8 @@ received_equipment_1000:0 "그 나라에서 §G1000§! 보병 장비를 받을 �
 received_equipment_1500:0 "그 나라에서 §G1500§! 보병 장비를 받을 것입니다\n"
 received_equipment_2000:0 "그 나라에서 §G2000§! 보병 장비를 받을 것입니다\n"
 received_equipment_5000:0 "그 나라에서 §G5000§! 보병 장비를 받을 것입니다\n"
-generic_head_of_intelligence:0 "Head of Intelligence"
-recruit_generic_spymaster:0 "Recruit Head of Intelligence"
+generic_head_of_intelligence:0 "정보부장"
+recruit_generic_spymaster:0 "정보부장 고용"
 recruit_generic_spymaster_desc:0 "We will need to put someone in charge of our intelligence agency who can be an effective director."
 
 ### Ministers ###
