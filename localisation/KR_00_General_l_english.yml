@@ -23,7 +23,7 @@ toggle_renaming_button_tooltip_disable_desc:0 "지역 소유자가 바뀌어도 
 ### Continents ###
 central_america:0 "중앙아메리카"
 india:0 "인도"
-is_actually_an_island:0 "내륙 "
+is_actually_an_island:0 ""
 
 ### Intelligence Agency Blocker ###
 INTELLIGENCE_AGENCY_BLOCK_TOOLTIP:0 "[!intelligence_agency_blocker_button_click_enabled]"
@@ -123,19 +123,19 @@ kr.political.107.d:0 "[Root.GetAdjective] control over the [From.GetAdjective] g
 kr.political.107.a:0 "Let them go, while we're still friends"
 kr.political.107.b:0 "Are they joking? Forget it"
 
-kr.political.108.t:0 "Independence Refused"
+kr.political.108.t:0 "독립 거부"
 kr.political.108.d:0 "The [From.GetAdjective] government has dismissed our demand for independence. While we are only nominally under their control as it is, still the restrictions chafe at us."
 kr.political.108.a:0 "This does not end here"
 
-KR_fight_for_independence:0 "Declare Independence"
+KR_fight_for_independence:0 "독립 선언"
 KR_fight_for_independence_desc:0 "[From.GetNameDefCap] may have refused our demand for independence, but that is not the end of the matter. We will be free, even if we must fight for it!"
 
 kr.political.109.t:0 "[From.GetNameDefCap] Declares Independence"
 kr.political.109.d:0 "It seems our refusal to grant [From.GetNameDef] independence wasn't enough for them. They have declared themselves free of [Root.GetAdjective] control, anyhow."
 kr.political.109.a:0 "Bah! Let them go"
-kr.political.109.b:0 "We'll see about that!"
+kr.political.109.b:0 "두고 보라지!"
 
-kr.political.110.t:0 "The War for Independence"
+kr.political.110.t:0 "독립을 위한 전쟁"
 kr.political.110.d:0 "It seems our former overlord can't gain a clear foothold in [Root.GetNameDef]... but neither can we defeat them. Perhaps it is time to call for a truce and end this?"
 kr.political.110.a:0 "Yes, let's end this"
 kr.political.110.b:0 "No! This is about more than independence now!"
