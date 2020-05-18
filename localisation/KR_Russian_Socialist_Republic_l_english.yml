@@ -39,9 +39,9 @@ SOV_industrial_democracy:0 "산업민주주의"
 SOV_aftermath_of_the_civil_war:0 "[SOV_aftermath_of_the_civil_war_text]의 여파"
 SOV_gosplan:0 "소비에트 국가재건계획"
 SOV_chaotic_revolution:0 "혼돈속의 혁명"
-SOV_new_red_army:0 "새로운 붉은군대"
+SOV_new_red_army:0 "새로운 붉은 군대"
 SOV_war_communism:0 "전시공산주의"
-SOV_krasnaya_gvardiya:0 "러시아 근위대"
+SOV_krasnaya_gvardiya:0 "적위대"
 SOV_armament_production:0 "무기 생산"
 SOV_frunzes_reform_plan:0 "프룬제의 개혁"
 SOV_tukhachevskiys_reform_plan:0 "투하쳅스키의 개혁"
@@ -50,8 +50,8 @@ SOV_tukhachevskiys_reform_plan:0 "투하쳅스키의 개혁"
 SOV_The_First_Five_Year_Plan:0 "새로운 5개년개발계획"
 
 SOV_Spreading_The_Revolution_decisions:0 "혁명 전파"
-SOV_Join_The_Internationale:0 "인터네셔널 가입"
-SOV_Join_The_Internationale_desc:0 "혼자 독일 제국주의자들과 맞서려고 애쓰기보다는 영국, 프랑스, 이탈리아 등의 동지들과 손을 잡아야만 합니다."
+SOV_Join_The_Internationale:0 "인터내셔널 가입"
+SOV_Join_The_Internationale_desc:0 "혼자 독일 제국주의자들과 맞서려 애쓸 필요는 없습니다. 영국, 프랑스, 이탈리아 등의 동지들과 손을 잡아야만 합니다."
 
 ### Tooltips ###
 SOV_Control_The_Unions_tooltip:0 "Modify §HProletarian Humanism§! or §HRevolutionary Vanguard§! by\nDaily Political Power Gain: [?-0.3|=+]\nFactory Output: [?0.1|+=%]"
@@ -119,14 +119,14 @@ SOV_Militarisation_of_Labour_desc:0 "Man, at its basis, wants to avoid work. Thu
 SOV_Proletarian_Revolution:0 "프롤레타리아 혁명"
 SOV_Proletarian_Revolution_desc:0 "The revolution must be complete and all-encompassing. For socialism to be achieved we must put all our efforts towards its accomplishment and radically change society from top to bottom. Only by removing the rotten core left behind by the previous regime can the workers truly be free from its oppression."
 
-SOV_First_Five_Year_Plan:0 "새로운 5개년개발계획"
+SOV_First_Five_Year_Plan:0 "새로운 5개년 계획"
 SOV_First_Five_Year_Plan_desc:0 "The taxation of the peasantry and thus taking the surplus value of the peasants will allow for the productive forces to transition to socialism to be created, which is best done through a central planning agency creating plans which allow for rapid industrialisation."
 
 SOV_Industrial_Democracy:0 "산업민주주의"
 SOV_Industrial_Democracy_desc:0 "Kollontay's vision for union control over the economy has succeeded in winning over a majority of comrades. Despite her noble ancestry, she has always been a fighter for more control of unions and thus workers over the economy, as unions are the best representation of the will of the proletariat."
 
 SOV_Break_The_Smychka:0 "스미치카 혁파"
-SOV_Break_The_Smychka_desc:0 "As a result of centuries of feudal and capitalist rule, Russia has few true peasants. It's therefore inconceivable that the farmer will be at the center of the revolution, albeit through no fault of their own. No, it's the worker and not the peasant that will be the vanguard of the revolution, and he should be elevated as such."
+SOV_Break_The_Smychka_desc:0 "봉건주의와 자본주의가 수세기간 지배해온 러시아에는 진정한 의미의 소작농이 거의 없습니다. 그들 잘못은 아니지만, 농민들은 결코 혁명의 중심이 될 수 없을 것입니다. 아니, 혁명의 선봉에 설 것은 농민이 아니라 노동자이며, 그렇게 만들어야만 합니다."
 
 SOV_Create_the_VSR:0 "VSR 창설"
 SOV_Create_the_VSR_desc:0 "By establishing the All-Russian Union of Producers (VSR - Vserossiyskiy Soyuz Rabochikh), the trade unions will be granted a far greater influence over labour and the economy as a whole. In the end, this will serve to strengthen the worker and the Union alike."
@@ -176,13 +176,13 @@ SOV_Secure_Central_Asia_desc:0 "Formerly part of Russia, the central Asian plain
 SOV_The_Final_Battle:0 "최후의 결전"
 SOV_The_Final_Battle_desc:0 "The treaty of Brest-Litovsk handed over millions of workers to the German industrialists on a silver platter and gave them Russia's most heavily industrialised lands on top of it. It's our duty to liberate the people of the East from the German yoke once and for all."
 
-SOV_Enemy_In_The_East:0 "동쪽의 적"
-SOV_Enemy_In_The_East_desc:0 "The Empire of Japan holds a large portion Asia's workers hostage under its despotic military rule. These workers and peasants of Asia yearn to be freed from Japan and her band of warlords and only Russian might is capable of achieving this!"
+SOV_Enemy_In_The_East:0 "동방의 적"
+SOV_Enemy_In_The_East_desc:0 "일본 제국은 폭군의 지배 아래 많은 아시아 노동자들을 인질로 잡고 있습니다. 아시아의 노동자, 농민은 일본과 그 군벌 집단들로부터 해방되기만을 갈망하고 있으며, 오직 러시아만이 이를 해낼 수 있습니다!"
 
 SOV_Mobilise_Urban_Militias:0 "도시 민병대 동원"
 SOV_Mobilise_Urban_Militias_desc:0 "The cities have been the heartland of the revolution ever since the beginning - they were its birthland. We must rally militias from the cities to serve in the revolution and allow for its spread, for if we do not, the revolution may be crushed yet again."
 
-SOV_Krasnaya_Gvardiya_Units:0 "러시아 근위대들"
+SOV_Krasnaya_Gvardiya_Units:0 "적위대"
 SOV_Krasnaya_Gvardiya_Units_desc:0 "Many members of the Bolshevik Party are still in hiding. We must mobilise and organise these people into military formations, as we need every soldier we can at this point if we want to survive the incoming onslaught."
 
 SOV_Rally_The_Defectors:0 "반동분자 재교육"
