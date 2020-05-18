@@ -1,24 +1,24 @@
 ﻿l_english:
 
-Patagonia_Focus:0 "파나고니아 중점계통도"
+Patagonia_Focus:0 "파타고니아 중점계통도"
 
 ### Starting Tree ###
-FOP_the_revolutionary_fires:0 "The Revolutionary Fires"
+FOP_the_revolutionary_fires:0 "혁명의 불꽃"
 FOP_the_revolutionary_fires_desc:0 "Despite the attempts of the Argentinean government to quell the flames of revolution, our movement is still alive, and growing stronger by the day. While our victory is far from certain, we must start preparing for the final showdown against the reactionaries in the north."
 
-FOP_the_three_main_issues:0 "The Three Economic Issues"
+FOP_the_three_main_issues:0 "3대 경제 사안"
 FOP_the_three_main_issues_desc:0 "The Patagonian landscape has not been easy on our movement. We will need to be smart if we wish to prevail on the battlefield, and to prepare ourselves for it, we must first survey the issues that plague our local economy."
 
-FOP_we_need_more_production:0 "Arms Smuggling"
-FOP_we_need_more_production_desc:0 "Our first step towards a Patagonian industrial revolution is to give ourselves the means to defend our revolutionary state from the reactionaries to the north. As we even lack the means to set up an industrial base, however, we'll need to look abroad for whatever weapons our meager resources can get us."
+FOP_we_need_more_production:0 "무기 밀수"
+FOP_we_need_more_production_desc:0 "파타고니아의 산업 혁명을 위한 첫 단계는 먼저 북쪽의 반동 세력으로부터 우리 스스로를 지킬 능력을 갖추는 것입니다. 그러나 현재 우리에게는 산업 기반을 구축하는 것조차 버거우므로, 해외에서 우리의 빈약한 자원으로 구할 수 있는 무기라면 무엇이든 찾아야만 할 것입니다."
 
-FOP_adapt_the_fishing_industry:0 "The Patagonian Fishing Industry"
+FOP_adapt_the_fishing_industry:0 "파타고니아 어업"
 FOP_adapt_the_fishing_industry_desc:0 "The sizable Atlantic fishing industry in Patagonia was effectively shuttered by the revolution. Before we can build a build a navy to defend our coasts, we must first help our fishermen reclaim the seas and restore Patagonia's mothballed merchant fleet. Above all else, this will help us feed both our people and our army."
 
-FOP_prospect_for_resources:0 "Exploiting Resources"
+FOP_prospect_for_resources:0 "자원 활용"
 FOP_prospect_for_resources_desc:0 "The Patagonian economy is grievously underdeveloped with many of the region's riches being left trapped beneath the earth. There is no reason for this other than the neglect of the previous regime and now that we're in control of our own fate we'll have to jump-start a resource industry to support both our people and our revolutionary army."
 
-FOP_grandes_trabajos_de_progreso:0 "Industrial Planning Scheme"
+FOP_grandes_trabajos_de_progreso:0 "산업 계획도 조직"
 FOP_grandes_trabajos_de_progreso_desc:0 "The old regime left Patagonia in a state of abject destitution, lacking any semblance of modern industry. Patagonia's own industrial revolution will have the ultimate goal of bringing prosperity to our people, but before we can fulfill it we'll need to establish the supply chains needed to fuel it from abroad."
 
 FOP_where_we_gonna_build:0 "Central Construction Agency"
@@ -57,7 +57,7 @@ FOP_coastal_defences_desc:0 "Should our coast guard be forced back into port or 
 FOP_the_population_issue:0 "Population Surveys"
 FOP_the_population_issue_desc:0 "In order to properly prepare for the incoming war, we need to carry out a census of our population, and begin drafting conscription lists, as we will need to dig our claws deep for every reserve soldier we can send to the front"
 
-FOP_rally_the_people:0 "Rally the Workers!"
+FOP_rally_the_people:0 "노동자들을 소집하라!"
 FOP_rally_the_people_desc:0 "The Frente Obrero's Cause is just! The workers of the north would be wise to see this, and while their voices are kept quiet by the northern regime, we can still reach them via our informants and hidden transmissions. We will help them reach our lines so that they can help us overthrow the regime that dared oppress them."
 
 FOP_increase_conscription:0 "Women at Arms"
@@ -133,17 +133,17 @@ FOP_national_defence:0 "A Militarized Society"
 FOP_national_defence_desc:0 "There can be no permanent peace with the counter-revolutionaries and to safeguard our revolution we'll need to militarize our society for the inevitably conflicts that lie ahead. With a citizenry that's prepared and ready for war, anyone foolish enough to wage war against our lands will be met with fierce resistance from every layer of society."
 
 ### Political Tree ###
-FOP_The_revolution_succesful:0 "The Revolution Successful"
-FOP_The_revolution_succesful_desc:0 "Against all odds, we stand triumphant. Our country may be rubble, and our people may need to adapt to this for a time. But let's not forget that it was us workers who got this country up and running, and as such, we shall do so again!"
+FOP_The_revolution_succesful:0 "혁명의 성공"
+FOP_The_revolution_succesful_desc:0 "그 모든 역경에도 불구하고, 우리는 위풍당당하게 서 있습니다. 조국은 폐허가 되었으며, 우리 인민들은 당분간 이런 상황에 적응해야 할지도 모릅니다. 그러나 이 나라를 일으켜 세운 것은 우리 노동자들이라는 것을 잊어선 안 됩니다. 그리고 우리는 다시 한 번 일으켜 세울 준비가 되었습니다!"
 FOP_first_national_TUC:0 "The First National Trade Union Congress"
 FOP_first_national_TUC_desc:0 "Coming from a tradition of Republican democracy, Argentina had never had a Trade Union Congress up to this point, and while many are anxious to see this historical events, many are wary of it being simply a masquerade for a dictatorial regime. As the gates to the old Congress open to the Union delegates, the fate of the nation hangs in the balance..."
 FOP_the_anarchist_radicals:0 "The Anarchist Radicals"
 FOP_the_anarchist_radicals_desc:0 "With Severino di Giovanni now serving as the acting chairman, the Anarchist Radicals of the USA have come out on top of the other factions decisively. With a very harsh stance on religion, inequality and nationalism, the Anarchists will attempt to sweep whatever remained from the old Argentina away, and make the Argentinean territory a nation for all workers of the world."
-FOP_Equal_Roles_for_Men_and_Women:0 "Female Rights Debate"
+FOP_Equal_Roles_for_Men_and_Women:0 "여성의 권리 논쟁"
 FOP_Equal_Roles_for_Men_and_Women_desc:0 "With the conservative regimes trying to keep women as separate from men for a long time, the coming of more liberal regimes over the years changed the outlook for many of them, leading to the creation of many feminist organizations and the inclusion of women in many areas like cinema with equal status. However, Giovanni wish to take this a step further, and such matter will need to be discussed in the congress..."
-FOP_Seize_Church_Property:0 "Confront the Church"
-FOP_Seize_Church_Property_desc:0 "Argentina de-facto has never been a secular country, with the church playing the role of a major power broker in politics. However, with the coming of the revolutionary regime, this is clearly at an end. With Severino's men at the ready to prosecute every member of the clergy in Argentina, it is only the congress that stands between them and the complete removal of the church from the nation..."
-FOP_Build_a_New_Society:0 "Build a New Society"
+FOP_Seize_Church_Property:0 "교회와의 전쟁"
+FOP_Seize_Church_Property_desc:0 "아르헨티나는 교회가 정치계의 주요 권력 브로커 역할을 하는 등, 사실상 세속 국가였던 적이 한 번도 없습니다. 그러나 혁명 정권이 들어선 지금, 이런 사태는 반드시 종식될 것입니다. 세베리노의 부하들이 아르헨티나의 모든 성직자들을 기소할 준비를 하고 있으며, 그들이 원하는 것은 교회를 국가에서 완전히 제거하는 것뿐입니다..."
+FOP_Build_a_New_Society:0 "새로운 사회 건설"
 FOP_Build_a_New_Society_desc:0 "Now that the Congress' tasks have been completed, Severino has offered to pass a bill severely weakening the Congress, in exchange transferring most of its duties to a Federal council elected by regional councils. While that may reduce our control over the farthest regions of our nation, it will allow the more industrialized sectors to run more smoothly."
 FOP_the_anarchist_moderates:0 "The Anarchist Moderates"
 FOP_the_anarchist_moderates_desc:0 "With Soto remaining in his post of chairman, the USA remains on top of the other Trade Unions, and is now preparing to carry out sweeping changes to the nation. While ideologically driven, Soto is by far a pragmatist within the revolutionary movement, and he'll seek to compromise the anarchist ideals with the society he now has the duty to rebuild. Only time will tell whether this will be succesful..."
@@ -253,7 +253,7 @@ FOP_resource_exploitation_scheme_desc:0 "With the Argentinean industry slowly ge
 
 ### Army Tree ###
 
-FOP_modernise_the_army:0 "The Revolutionary Army"
+FOP_modernise_the_army:0 "혁명군"
 FOP_modernise_the_army_desc:0 "Our army has gone from their humble beginnings as a struggling militia to the heroic vanguard that liberated Buenos Aires. Their respite will be short, however, as the reactionaries surrounding us want nothing more than to take our hard-fought freedom away from us. We must prepare for the conflicts that lie ahead by properly organizing this fighting force."
 
 FOP_focus_on_decentralization:0 "Focus on Decentralization"
@@ -268,7 +268,7 @@ FOP_command_structure_reorganization_desc:0 "After removing the restrictive natu
 FOP_a_rifle_for_every_man:0 "A Rifle for Every Man"
 FOP_a_rifle_for_every_man_desc:0 "The eagerness that our people have shown to join the ranks of our militia means that our enlistment offices often have more volunteers than we have guns in our armories. To rectify this problem, we must fine-tune our production of rifles so that we can arm every single aspiring revolutionary in Argentina!"
 
-FOP_a_red_army:0 "A Red Army"
+FOP_a_red_army:0 "붉은 군대"
 FOP_a_red_army_desc:0 "The militias may have won the day thanks to our resolve and cunning. Going forward, however, we ought to convert this underdog guerrilla force into a professional standing army able to take the fight to the enemy."
 
 FOP_the_status_of_fma:0 "Socialist Military Industry"
@@ -292,7 +292,7 @@ FOP_revive_military_academies_desc:0 "Because of its foundation as an insurrecti
 FOP_copy_foreign_models:0 "Copy Foreign Models"
 FOP_copy_foreign_models_desc:0 "Our war for liberation led to countless thousands of guns and other pieces of equipment flooding into our country from the the European powers. Studying these weapons and using that as a blueprint for future arms production would allow us to more rapidly catch up with the foreign arms industries."
 
-FOP_reduce_forts:0 "No Forts Left Standing"
+FOP_reduce_forts:0 "요새를 남겨두지 마라"
 FOP_reduce_forts_desc:0 "Since the inception of our army we've had a difficult time overcoming enemy field fortifications. By modernizing both our field artillery pieces and the equipment used by our engineers our army will be far more potent on the offensive."
 
 FOP_army_training:0 "Expand the Vanguard"
@@ -319,8 +319,8 @@ FOP_army_branch_desc:0 "The primary function of the air force should be to suppo
 FOP_an_independent_force:0 "An Independent Air Force"
 FOP_an_independent_force_desc:0 "Rather than being there to supplement an existing branch, we'll let our air force focus on its natural strengths. As such, the air force will be its independent branch of our military, focusing on aerial supremacy and the destruction of our enemy's strategic targets."
 
-FOP_naval_necessity:0 "Armada de los Pueblos"
-FOP_naval_necessity_desc:0 "After reclaiming all Argentine lands we must now reclaim the seas as well. By formally founding the People's Navy and establishing its basic institutions we'll take our first bold step towards doing so."
+FOP_naval_necessity:0 "아르마다 데 로스 푸에블로스"
+FOP_naval_necessity_desc:0 "아르헨티나 땅을 모두 수복한 후에, 우리는 바다도 수복할 것입니다. 공식적으로 '인민해군'을 창설하고 관련 기관을 설립하는 것으로 그 첫 삽을 뜰 것입니다."
 
 FOP_foreign_naval_research:0 "Escuela Naval Militar"
 FOP_foreign_naval_research_desc:0 "Tt the end of the war the institutional knowledge of the old regime vanished along with it. If we want our navy to be able to challenge the reactionaries in the Atlantic ocean in the future we must restore the old naval college under a loyal administration so that we can teach the next generation of naval officers."
