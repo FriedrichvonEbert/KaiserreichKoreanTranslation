@@ -6,7 +6,7 @@ KR_MAIN_MENU_LINK:0 "여기를 눌러서 카이저라이히 위키로 이동하�
 LOGO_MAIN_MENU_LINK:0 "여기를 눌러서 패치노트를 확인하세요"
 
 ### Diplomacy Tooltips ###
-REQUEST_EXP_FORCE_BLOCKED_TT:0 "§R이 나라는 당신이 그들의 군대를 요청하는 것을 거부합니다.§!"
+REQUEST_EXP_FORCE_BLOCKED_TT:0 "§R이 나라는 당신의 군대 요청을 거부합니다.§!"
 
 ### Minister Tooltip ###
 general_minister_change_tt:0 "그들의 장관들은 우리의 이념에 따라 교체될 것입니다."
@@ -23,7 +23,7 @@ toggle_renaming_button_tooltip_disable_desc:0 "지역 소유자가 바뀌어도 
 ### Continents ###
 central_america:0 "중앙아메리카"
 india:0 "인도"
-is_actually_an_island:0 ""
+is_actually_an_island:0 "섬"
 
 ### Intelligence Agency Blocker ###
 INTELLIGENCE_AGENCY_BLOCK_TOOLTIP:0 "[!intelligence_agency_blocker_button_click_enabled]"
@@ -84,7 +84,7 @@ FOCUS_FILTER_ARMY_BONUS:0 "육군"
 FOCUS_FILTER_NAVY_BONUS:0 "해군"
 FOCUS_FILTER_AIRFORCE_BONUS:0 "공군"
 FOCUS_FILTER_RESISTANCE:0 "저항군"
-FOCUS_FILTER_LEC_CURRENCY:0 "Currency Reserves"
+FOCUS_FILTER_LEC_CURRENCY:0 "통화 비축"
 
 ### Autonomy Events ###
 FROM_becomes_puppet:0 "§H[From.GetNameDefCap]§!은 더이상 §H점령된 괴뢰국§!이 아닙니다."
@@ -211,52 +211,52 @@ toggle_news_text_regional:0 "지역 뉴스 보기"
 toggle_news_text_none:0 "뉴스 받지 않기"
 
 ### Factions ###
-all_zhili_faction:0 "Zhili Clique"
-austrian_sphere:0 "Donau-Adriabund"
-Belgrade_Pact:0 "베오그라드 협약"
-Belgian-Dutch_Treaty_Organisation:0 "BeNeSam"
-brotherhood_of_slavs:0 "Brotherhood of Slavs"
-buenos_aires_lima_faction:0 "Buenos Aires-Lima Axis"
-cairo_pact:0 "Cairo Pact"
-CEN_anti_revolutionary_alliance:0 "People's Vanguard"
-CEN_liberal_pact:0 "Liberal Pact"
-CEN_revolutionary_front:0 "Revolutionary Front"
-china_upc_faction:0 "United Provinces of China"
-co_prosperity_sphere:0 "Co-Prosperity Sphere"
-colombia_gran_alliance:0 "Andean Pact"
-cos_carib_faction:0 "Democratic Alliance of the Carribean"
-EANL_faction:0 "East Asian National League"
-Entente:0 "협상국"
-golestan_pact_faction:0 "Golestan Pact"
-indian_alliance_faction:0 "Indian Alliance"
-league_of_american_states:0 "League of American States"
-litrut_faction:0 "Lithuanian-Ruthenian Alliance"
-maliphinsul_faction:0 "Maliphinsul"
-Mittelmacht:0 "라이히스팍트"
-moscow_accord:0 "Moscow Accord"
-north_zhili_faction:0 "Northern Zhili Clique"
-npa_faction:0 "National Protection Alliance"
-NRF_faction:0 "National Revolutionary Front"
-pacification_faction:0 "National Pacification Army"
-polukr_faction:0 "Syndicalist Intermarium"
-Qing_faction:0 "Qing Empire"
-qing_sphere_faction:0 "Qing Sphere"
-SA_socialist_states:0 "South American Socialist States"
-Scandinavian_Pact:0 "스칸디나비아 협약"
-SCA_faction_scandinavian_defense_union:0 "Scandinavian Defence Union"
-SIA_SEATO_alliance:0 "SEATO"
-syndicalist_asia:0 "Eastern Syndicalist Union"
-syndicalist_asia_per:0 "Asian Socialist Union"
-Syndicalist_Internationale:0 "Syndicalist International"
-Third_International:0 "제3인터내셔널"
-united_front_faction:0 "Chinese United Front"
+all_zhili_faction:0 "직예군벌" #Zhili Clique
+austrian_sphere:0 "도나우-아드리아 연맹" #Donau-Adriabund
+Belgrade_Pact:0 "베오그라드 협약" #Belgrade Pact
+Belgian-Dutch_Treaty_Organisation:0 "저지대 조약기구" #BeNeSam
+brotherhood_of_slavs:0 "슬라브 형제단" #Brotherhood of Slavs
+buenos_aires_lima_faction:0 "부에노스아이레스-리마 연합" #Buenos Aires-Lima Axis
+cairo_pact:0 "카이로 협약" #Cairo Pact
+CEN_anti_revolutionary_alliance:0 "국민 전위대" #People's Vanguard
+CEN_liberal_pact:0 "자유 협약" #Liberal Pact
+CEN_revolutionary_front:0 "혁명 전선" #Revolutionary Front
+china_upc_faction:0 "중화합중국" #United Provinces of China
+co_prosperity_sphere:0 "대동아공영권" #Co-Prosperity Sphere
+colombia_gran_alliance:0 "안데스 협약" #Andean Pact
+cos_carib_faction:0 "카리브 민주 연합" #Democratic Alliance of the Carribean
+EANL_faction:0 "동아시아 국가 연맹" #East Asian National League
+Entente:0 "협상국" #Entente
+golestan_pact_faction:0 "골레스탄 협약" #Golestan Pact
+indian_alliance_faction:0 "인도동맹" #Indian Alliance
+league_of_american_states:0 "미주연맹" #League of American States
+litrut_faction:0 "리투아니아-루테니아 연합" #Lithuanian-Ruthenian Alliance
+maliphinsul_faction:0 "말리핀술" #Maliphinsul
+Mittelmacht:0 "라이히스팍트" #Reichspakt
+moscow_accord:0 "모스크바 합의" #Moscow Accord
+north_zhili_faction:0 "북직예군벌" #Northern Zhili Clique
+npa_faction:0 "호국동맹" #National Protection Alliance
+NRF_faction:0 "국가혁명전선" #National Revolutionary Front
+pacification_faction:0 "안국군" #National Pacification Army
+polukr_faction:0 "생디칼리슴 인테르마리움" #Syndicalist Intermarium
+Qing_faction:0 "청 제국" #Qing Empire"
+qing_sphere_faction:0 "청 세력권" #Qing Sphere
+SA_socialist_states:0 "남아메리카 사회주의 국가연맹" #South American Socialist States
+Scandinavian_Pact:0 "스칸디나비아 협약" #Scandinavian Pact
+SCA_faction_scandinavian_defense_union:0 "스칸디나비아 방위 연합" #Scandinavian Defence Union
+SIA_SEATO_alliance:0 "동남아시아 조약기구" #SEATO
+syndicalist_asia:0 "동방 생디칼리슴 연합" #Eastern Syndicalist Union
+syndicalist_asia_per:0 "아시아 사회주의 연합" #Asian Socialist Union
+Syndicalist_Internationale:0 "생디칼리스트 인터내셔널" #Syndicalist International
+Third_International:0 "제3인터내셔널" #Third International
+united_front_faction:0 "중화통일전선" #Chinese United Front
 yunnan_R_KMT_faction:0 "Southern Nationalist Group"
 
 ### Custom Triggers ###
 had_war:0 "전쟁에서 싸운적이 있음"
 is_invalid_war_target_tooltip:0 "유효한 전쟁 목표가 아님"
 is_valid_war_target_tooltip:0 "유효한 전쟁 목표임"
-not_during_ceasefire:0 "Not while the ceasefire is maintained"
+not_during_ceasefire:0 "휴전이 지속되는 동안에는 안됨"
 
 ### World Tension ###
 second_american_civil_war_threat:0 "제2차 미국 내전 발발"
@@ -281,7 +281,7 @@ GRE_took_expansionist_path:0 "그리스의 팽창주의 노선"
 
 ### Other ###
 unlock_focuses:0 "§G이 중점은 자동으로 통과될 것이며 다른 중점을 해금할 것입니다§!\n"
-if_accepted:0 "If accepted:"
+if_accepted:0 "수락된 경우:"
 command_economy:0 "계획경제"
 asked_to_join:0 "타국이 개입을 요청했습니다."
 received_equipment_500:0 "그 나라에서 §G500§! 보병 장비를 받을 것입니다\n"
@@ -291,7 +291,7 @@ received_equipment_2000:0 "그 나라에서 §G2000§! 보병 장비를 받을 �
 received_equipment_5000:0 "그 나라에서 §G5000§! 보병 장비를 받을 것입니다\n"
 generic_head_of_intelligence:0 "정보부장"
 recruit_generic_spymaster:0 "정보부장 고용"
-recruit_generic_spymaster_desc:0 "We will need to put someone in charge of our intelligence agency who can be an effective director."
+recruit_generic_spymaster_desc:0 "유능한 국장이 될 법한 사람을 우리 정보기관에 배치해야 할 것입니다."
 
 ### Ministers ###
 head_of_government:0 "정부수반"
@@ -459,23 +459,23 @@ efficiency_tech:0 "생산 효율 기술"
 excavation_tech_research:0 "굴착 기술 연구 속도"
 concentrated_industry_tech:0 "집중 산업 기술"
 dispersed_industry_tech:0 "분산 산업 기술"
-cat_gunnery:0 "Naval Gunnery"
-cr_tech:0 "Cruiser Models"
-acr_tech:0 "Armored Cruiser Models"
-cat_targeting:0 "Fire Control Cumputers"
-cat_torpedo:0 "Torpedo Technology"
+cat_gunnery:0 "해군 사격"
+cr_tech:0 "순양함 모델"
+acr_tech:0 "장갑순양함 모델"
+cat_targeting:0 "사격 통제 장치"
+cat_torpedo:0 "어뢰 기술"
 
 ### Hidden Techs ###
-improved_field_hospitals:0 "Improved Field Hospitals"
+improved_field_hospitals:0 "개선된 야전병원"
 improved_field_hospitals_effect:0 "Enables §HImproved Field Hospitals\nField Hospital§!\n      Trickleback: §G+20%§!\n      Exp. Loss: §G-10%§!\n\n"
 
-tech_integrated_specialists:0 "Integrated Special Forces"
+tech_integrated_specialists:0 "통합된 해병대"
 tech_integrated_specialists_effect:0 "Enables §HIntegrated Special Forces§!\nSpecial Forces Cap:§! §G+5%§!\n§HAll Special Forces:§!\n      Soft Attack: §G+5%§!\n      Hard Attack: §G+5%§!\n"
 
-tech_marine_bonus:0 "Improved Marines"
+tech_marine_bonus:0 "개선된 해병대"
 tech_marine_bonus_effect:0 "Enables §HImproved Marines\nMarines§!\n      Soft Attack: §G+5%§!\n      Hard Attack: §G+5%§!\n"
 
-tech_marine_bonus_2:0 "Trained Marines"
+tech_marine_bonus_2:0 "훈련된 해병대"
 tech_marine_bonus_2_effect:0 "Enables §HImproved Marines\nMarines§!\n      Soft Attack: §G+2,5%§!\n      Hard Attack: §G+2,5%§!\n"
 
 ### Army Command Traits ###
@@ -705,7 +705,7 @@ continuous_boost_freedom:0 "자치도 상승"
 continuous_boost_freedom_desc:0 "식민지의 관료주의를 재편하고 원주민 관리들을 채용함으로써, 때가 되면 우리 자신의 일을 담당시킬 수 있을 것입니다."
 continuous_restrict_freedom:0 "속국 탄압"
 continuous_restrict_freedom_desc:0 "우리의 식민지 주체는 "자기 결정"이나 "국가 독립"과 같은 것들에 대해 다소 바보 같은 생각을 갖게 되었습니다. 이제 그들을 이 관념에서 해방시킬 때입니다."
-subject_autonomy_mod_tt:0 "Autonomy in subjects: §G-0.5§!"
+subject_autonomy_mod_tt:0 "종속국 자치권: §G-0.5§!"
 unlocks_decision:0 "해금된 결정: £decision_icon_small "
 
 ### Generic Focuses ###
