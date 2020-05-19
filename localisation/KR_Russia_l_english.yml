@@ -616,7 +616,7 @@ RUS_Expansionism:0 "팽창주의"
 RUS_Expansionism_desc:0 "팽창주의 이론은 러시아의 국경이 우리의 심장부에서 멀리 떨어질수록 우리는 더 안전하다고 여깁니다. 우리 속국을 제외한 러시아의 모든 주변국은 그들의 경제적,군사적 힘에 따라 우리에 대한 위협이나 우리의 표적이 될 것입니다. 당연하게도 이러한 정책들은 다른 나라의 호감을 얻지 못할 것입니다."
 
 RUS_Secure_Central_Asia:0 "중앙아시아 확보"
-RUS_Secure_Central_Asia_desc:0 "독일은 코카서스 지역과 달리 중앙아시아에는 관심이 없습니다. 우리는 강대국의 간섭을 받지 않고 이 지역을 장악할 수 있을 것입니다."
+RUS_Secure_Central_Asia_desc:0 "독일은 캅카스 지역과 달리 중앙아시아에는 관심이 없습니다. 우리는 강대국의 간섭을 받지 않고 이 지역을 장악할 수 있을 것입니다."
 
 RUS_Seek_Allies:0 "동맹을 찾자"
 RUS_Seek_Allies_desc:0 "세력을 창설했으니 동맹을 구할 차례입니다. 동맹을 구하지 않으면 독일에 맞설 수 없습니다."
@@ -637,7 +637,7 @@ RUS_Enemy_In_The_East:0 "동쪽의 적"
 RUS_Enemy_In_The_East_desc:0 "러일 전쟁 이후 러시아의 진정한 적은 해가 떠오르는 동쪽의 제국이었고, 앞으로도 그럴 것입니다. 중국의 부유하고 인구가 많은 지역을 차지하면 우리에게 도움이 될 것입니다."
 
 ### Tooltips ###
-RUS_Savinkov_is_HoG:0 "§보리스 사빈코프§! 가 현재 지도자임"
+RUS_Savinkov_is_HoG:0 "§H보리스 사빈코프§! 가 현재 지도자임"
 RUS_Savinkov_is_HoG_NOT:0 "§HBoris Savinkov§! 가 현재 지도자가 아님"
 
 RUS_has_black_monday:0 "Has national spirit §HEconomic Depression§!"
@@ -861,7 +861,7 @@ russia.1917.a:0 "우리는 이 반역자들을 물리치고 공화국을 회복�
 russia.1917.b:0 "여기는 러시아며 하나이고 분리될 수 없다! 반역자들을 쳐부술 것이다!"
 russia.1917.c:0 "§R[SOV.GetNameDef]으로 플레이§!"
 
-russia.1918.t:0 "반소비에트 쿠데타"
+russia.1918.t:0 "반 사회주의 쿠데타"
 russia.1918.d:0 "Despite [ROOT.GetLeader] being made interim president of Russia, the country's vast military apparatus was still dominated by the Whites, who would be at best distrustful of someone of his background. The same could also be said for many civilian officials, as well as the masses of Russians that resented the left. When he failed to restore any semblance of order after the assassination of Kerenskiy, it was only a matter of time before the government fell apart. [ROOT.GetLeader] was despised by the right from the moment he assumed office, was far too much of a socialist to be considered a compromise candidate by the liberals, and was even unable to rally Russia's left due to the utter paralysis of his administration.\n\nFearing that [ROOT.GetLeader]'s failing government would crumble and give way to a syndicalist takeover, several reactionary officers led by Lavr Kornilov made their move at the crack of dawn. Thanks to widespread treachery within the army, intelligence services and civilian institutions, they were able to seize multiple key government buildings and strategic infrastructure both in the capital and across the country before loyalists could put up any resistance. In a radio address heard from Smolensk all the way to Kamchatka, Kornilov declared that the age of anarchy was over and that the army had once more liberated Russia from the reds.\n\nBy noon, the interim government was no more. [ROOT.GetLeader] was placed under arrest and garrisons in several major cities began rounding up prominent leftist politicians and their supporters. While many Russian conservatives, nationalists and even some liberals were cheering on the developments, others watched in horror as Kornilov brutally destroyed any hope of political reform. No matter how Kornilov acted from here on, few in Russia or abroad considered this the end of the nation's troubles.\n\nFor now, though, Kornilov and his aides had to decide how Russia would be governed. While he feels quite confident in both his ability to rule and in the necessity of a strong hand in such times, advisors close to him insist that he should win the hearts and minds of the Russian people by restoring the senate and announcing elections. The top candidate for the job is Dmitriy Romanov, an avid supporter of the counter-revolution and one of Russia's most influential rightist politicians."
 russia.1918.a:0 "우리는 폭군이 아니다. 상원을 복원하자!"
 russia.1918.b:0 "볼셰비즘을 물리치기 위해선 강력한 힘이 필요하다. 군정을 유지하자!"
@@ -1153,7 +1153,7 @@ rusd.96.d:0 "블라디미르와 함께 로마노프가의 입헌군주제를 복
 rusd.96.e:0 "공화국을 재건하자."
 
 rusd.100.t:0 "파벨 밀류코프의 죽음"
-rusd.100.d:0 "러시아 자유주의 이론가이자 여러 정부의 총리를 역임했던, 고 케렌스키 전 대통령의 오른팔이 니즈니 노브고로드 근교에서 세상을 떠났습니다."
+rusd.100.d:0 "러시아 자유주의 이론가이자, 여러 정부의 총리를 역임했던 고 케렌스키 전 대통령의 오른팔이 니즈니 노브고로드 근교에서 세상을 떠났습니다. 바실리 마클라코프가 그의 뒤를 이어 입헌민주당의 지도자가 될 것입니다."
 rusd.100.a:0 "Memento mori."
 
 rusd.101.t:0 "블라디미르 푸리시케비치의 죽음"
@@ -1340,7 +1340,7 @@ rusd.156.d:0 "두마 선거 후, 사빈코프의 러시아 인민공화당(NRPR)
 rusd.156.a:0 "좋아."
 
 rusd.157.t:0 "10월의 신화"
-rusd.157.d:0 "비록 볼셰비키당은 해산되었고 그들의 영향력은 사라졌지만, 몇몇으로부터 자칭 '혁명'이라 불리는 10월의 정부 전복 시도는 러시아를 영원히 변화시켰습니다. 이는 현 러시아의 불안정한 상황의 원인을 현 정부의 실패와 우유부단 탓이 아닌, 러시아를 망치고자 했던 볼셰비키 놈들에게 덮어씌울 수 있다는 뜻입니다 - 그리고 NRPR은 기꺼이 그렇게 할 것입니다. 역사 교과서는 다시 쓰여지고 있고, 대대적 선전이 시작되었고, 볼셰비키 봉기가 단순한 폭동이 아니라는 선전물들이 휘날리고 있습니다. 신성한 러시아를 파괴하려는 국제적 음모가 다시는 벌어지지 않도록 하려면, 볼셰비키를 재정적으로 지원하고 중부 러시아에서의 그들의 봉기를 조장한 세력들을 쳐부수어야 할 것이며, 그렇게 하지 못한다면 러시아는 파괴되고 조각날 것입니다. 또한 새로 만들어질 교과서에는, 레닌이 독일에 의해 페트로그라드로 보내진 첩자이며, 볼셰비키당의 많은 구성원들이 러시아인이 아닌 - 코카서스인, 발트인, 폴란드인, 유대인들이라는 사실이 들어가야 할 것입니다."
+rusd.157.d:0 "비록 볼셰비키당은 해산되었고 그들의 영향력은 사라졌지만, 몇몇으로부터 자칭 '혁명'이라 불리는 10월의 정부 전복 시도는 러시아를 영원히 변화시켰습니다. 이는 현 러시아의 불안정한 상황의 원인을 현 정부의 실패와 우유부단 탓이 아닌, 러시아를 망치고자 했던 볼셰비키 놈들에게 덮어씌울 수 있다는 뜻입니다 - 그리고 NRPR은 기꺼이 그렇게 할 것입니다. 역사 교과서는 다시 쓰여지고 있고, 대대적 선전이 시작되었고, 볼셰비키 봉기가 단순한 폭동이 아니라는 선전물들이 휘날리고 있습니다. 신성한 러시아를 파괴하려는 국제적 음모가 다시는 벌어지지 않도록 하려면, 볼셰비키를 재정적으로 지원하고 중부 러시아에서의 그들의 봉기를 조장한 세력들을 쳐부수어야 할 것이며, 그렇게 하지 못한다면 러시아는 파괴되고 조각날 것입니다. 또한 새로 만들어질 교과서에는, 레닌이 독일에 의해 페트로그라드로 보내진 첩자이며, 볼셰비키당의 많은 구성원들이 러시아인이 아닌 - 캅카스인, 발트인, 폴란드인, 유대인들이라는 사실이 들어가야 할 것입니다."
 rusd.157.a:0 "네놈들은 1917년에 우리의 권리를 빼앗으려 했었지. 이젠 네놈들 차례다."
 
 rusd.158.t:0 "민중의 소리"
@@ -1441,13 +1441,13 @@ rusfor.56.d:0 "오늘 우리는 [From.GetCapital](으)로부터 우리의 군사
 rusfor.56.a:0 "그들은 미쳤거나, 우리 땅을 원하거나 둘 중 하나인것 같다."
 
 rusfor.1000.t:0 "러시아의 동향"
-rusfor.1000.d:0 "세계대전 말기에 독일 제국은 브레스트-리토프스크 조약으로 러시아를 여러 조각으로 잘랐습니다. 곡창 우크라이나는 독립국가가 되었고, 바쿠 유전은 러시아의 손아귀에서 벗어났고, 발트 공국이 수립되면서 러시아의 발트해 영향력은 사라졌고, 라이히스팍트군은 새로운 수도 모스크바 지척에서 러시아를 감시할 수 있게 되었습니다. 지난 수십 년 동안, 독일은 돈-쿠반 지역에서 일어난 표트르 크라스노프의 반란을 지원함으로써 러시아를 더욱 약화시키는데 성공했습니다. 이 모든 것은 러시아가 독일의 유럽 지배에 항상 가장 큰 위협이 될 것이라는 인식에서 이루어졌습니다 - 프랑스는 독일의 영원한 라이벌이고 브리튼은 파도를 지배하지만, 러시아는 내버려두면 베를린을 무너뜨리는 데 필요한 인력과 자원이 그들의 것이 될 것입니다./n/n모스크바에 있는 우리 외교관들이 러시아 정부의 새로운 확장 계획을 포착했습니다. 우리 외교부는 러시아가 지난 몇 년 동안 내부 재건을 실시했고, 지금은 코카서스 지역에 대한 질서 회복을 모색하고 있다는 점을 잘 알고 있습니다. 만약 이를 막지 못한다면, 돈-쿠반 체르노젬과 아제르바이잔의 석유는 브레스트-리토프스크 조약을 전복시킬 수 있는 러시아의 전쟁 기계에 연료를 공급할 것입니다! 러시아의 새로운 확장주의에 어떻게 대응해야 할까요?"
+rusfor.1000.d:0 "세계대전 말기에 독일 제국은 브레스트-리토프스크 조약으로 러시아를 여러 조각으로 잘랐습니다. 곡창 우크라이나는 독립국가가 되었고, 바쿠 유전은 러시아의 손아귀에서 벗어났고, 발트 공국이 수립되면서 러시아의 발트해 영향력은 사라졌고, 라이히스팍트군은 새로운 수도 모스크바 지척에서 러시아를 감시할 수 있게 되었습니다. 지난 수십 년 동안, 독일은 돈-쿠반 지역에서 일어난 표트르 크라스노프의 반란을 지원함으로써 러시아를 더욱 약화시키는데 성공했습니다. 이 모든 것은 러시아가 독일의 유럽 지배에 항상 가장 큰 위협이 될 것이라는 인식에서 이루어졌습니다 - 프랑스는 독일의 영원한 라이벌이고 브리튼은 파도를 지배하지만, 러시아는 내버려두면 베를린을 무너뜨리는 데 필요한 인력과 자원이 그들의 것이 될 것입니다./n/n모스크바에 있는 우리 외교관들이 러시아 정부의 새로운 확장 계획을 포착했습니다. 우리 외교부는 러시아가 지난 몇 년 동안 내부 재건을 실시했고, 지금은 캅카스 지역에 대한 질서 회복을 모색하고 있다는 점을 잘 알고 있습니다. 만약 이를 막지 못한다면, 돈-쿠반 체르노젬과 아제르바이잔의 석유는 브레스트-리토프스크 조약을 전복시킬 수 있는 러시아의 전쟁 기계에 연료를 공급할 것입니다! 러시아의 새로운 확장주의에 어떻게 대응해야 할까요?"
 rusfor.1000.a:0 "브레스트-리토프스크 조약의 준수를 요구하라!"
 rusfor.1000.b:0 "러시아에게 경고를 보내고 위협받는 국가들을 제국 조약에 초대하라!"
 rusfor.1000.c:0 "캅카스까지 신경쓸 여유는 없다."
 
 rusfor.1001.t:0 "독일의 보호?"
-rusfor.1001.d:0 "세계대전 말기에 독일 제국은 브레스트-리토프스크 조약으로 러시아를 여러 조각으로 잘랐습니다. 곡창 우크라이나는 독립국가가 되었고, 바쿠 유전은 러시아의 손아귀에서 벗어났고, 발트 공국이 수립되면서 러시아의 발트해 영향력은 사라졌고, 라이히스팍트군은 새로운 수도 모스크바 지척에서 러시아를 감시할 수 있게 되었습니다. 지난 수십 년 동안, 독일은 돈-쿠반 지역에서 일어난 표트르 크라스노프의 반란을 지원함으로써 러시아를 더욱 약화시키는데 성공했습니다. 이 모든 것은 러시아가 독일의 유럽 지배에 항상 가장 큰 위협이 될 것이라는 인식에서 이루어졌습니다 - 프랑스는 독일의 영원한 라이벌이고 브리튼은 파도를 지배하지만, 러시아는 내버려두면 베를린을 무너뜨리는 데 필요한 인력과 자원이 그들의 것이 될 것입니다./n/n지난 몇 년 동안, 러시아인들은 그들의 군대를 빠르게 재건했고, 경제적 혼란에서 회복했고, 그들의 눈을 남쪽으로 돌렸습니다. 이미 코카서스에 대한 러시아의 위협적인 메시지가 모스크바에서 흘러나오고 있습니다. 하지만 오늘 [Capital.GetName]에서 새로운 메시지가 도착했고, 러시아의 확장주의적 행보에 겁을 먹은 독일이 우리에게 보호를 제안했습니다. 어떻게 할까요?"
+rusfor.1001.d:0 "세계대전 말기에 독일 제국은 브레스트-리토프스크 조약으로 러시아를 여러 조각으로 잘랐습니다. 곡창 우크라이나는 독립국가가 되었고, 바쿠 유전은 러시아의 손아귀에서 벗어났고, 발트 공국이 수립되면서 러시아의 발트해 영향력은 사라졌고, 라이히스팍트군은 새로운 수도 모스크바 지척에서 러시아를 감시할 수 있게 되었습니다. 지난 수십 년 동안, 독일은 돈-쿠반 지역에서 일어난 표트르 크라스노프의 반란을 지원함으로써 러시아를 더욱 약화시키는데 성공했습니다. 이 모든 것은 러시아가 독일의 유럽 지배에 항상 가장 큰 위협이 될 것이라는 인식에서 이루어졌습니다 - 프랑스는 독일의 영원한 라이벌이고 브리튼은 파도를 지배하지만, 러시아는 내버려두면 베를린을 무너뜨리는 데 필요한 인력과 자원이 그들의 것이 될 것입니다./n/n지난 몇 년 동안, 러시아인들은 그들의 군대를 빠르게 재건했고, 경제적 혼란에서 회복했고, 그들의 눈을 남쪽으로 돌렸습니다. 이미 캅카스에 대한 러시아의 위협적인 메시지가 모스크바에서 흘러나오고 있습니다. 하지만 오늘 [Capital.GetName]에서 새로운 메시지가 도착했고, 러시아의 확장주의적 행보에 겁을 먹은 독일이 우리에게 보호를 제안했습니다. 어떻게 할까요?"
 rusfor.1001.a:0 "받아들이자."
 rusfor.1001.b:0 "독립보장으로 충분하다."
 rusfor.1001.c:0 "거절하자."
@@ -1473,8 +1473,8 @@ rusfor.1007.d:0 "독일의 캅카스 '안정화' 계획 중단 요구를 우리�
 rusfor.1007.a:0 "우리는 살아남을 것이다!"
 rus_ceased_contacts_germany:0 "독일의 봉쇄"
 
-rusfor.1008.t:0 "코카서스 위기"
-rusfor.1008.d:0 "코카서스 지역에서의 러시아의 확장주의에 자극받은 독일은 그들을 견제하기로 마음먹었습니다. 이는 외교관 추방이나 상호 보이콧같은 양국간의 긴장을 촉발시켰습니다. 하지만 러시아는 물러서지 않았고, 양국 관계는 얼어붙었습니다./n/n러시아는 세계에서 두번째로 강한 열강으로 평가받고 있으나, 러시아의 힘은 지난 수년간 급속도로 길러진 것이고, 이러한 갈등은 독일 제국에 도전하는 것이 더이상 두렵지 않다는 것을 나타낸 것입니다."
+rusfor.1008.t:0 "캅카스 위기"
+rusfor.1008.d:0 "캅카스 지역에서의 러시아의 확장주의에 자극받은 독일은 그들을 견제하기로 마음먹었습니다. 이는 외교관 추방이나 상호 보이콧같은 양국간의 긴장을 촉발시켰습니다. 하지만 러시아는 물러서지 않았고, 양국 관계는 얼어붙었습니다./n/n러시아는 세계에서 두번째로 강한 열강으로 평가받고 있으나, 러시아의 힘은 지난 수년간 급속도로 길러진 것이고, 이러한 갈등은 독일 제국에 도전하는 것이 더이상 두렵지 않다는 것을 나타낸 것입니다."
 rusfor.1008.a:0 "적의 적이군..."
 rusfor.1008.b:0 "물러서자!"
 rusfor.1008.c:0 "평화가 이기길 빌자."
@@ -1536,7 +1536,7 @@ rusfor.1020.t:0 "바쿠 유전"
 rusfor.1020.d:0 "러시아가 다른 열강들처럼 산업과 군사 생산을 하려면 많은 석유가 필요합니다. 우리는 중앙 시베리아에 조그만 유전을 가지고 있지만, 아제르바이잔 지역엔 더 거대한 시추시설과 유전이 있고, 그들만의 힘으로 유전을 유지하는 데 벅차 보입니다. 바쿠 유전에 관심을 가질 때입니다."
 rusfor.1020.a:0 "우리는 힘으로 당장 그 빼앗긴 땅을 되찾을 것이다!"
 rusfor.1020.b:0 "바쿠 유전지대를 장악하고 그들의 정부를 통제하자!"
-rusfor.1020.c:0 "아제르바이잔의 안전을 보장해주고 ."
+rusfor.1020.c:0 "아제르바이잔의 안전을 보장해주고 유전에 투자하자."
 
 rusfor.1021.t:0 "러시아의 투자"
 rusfor.1021.d:0 "러시아 정부는 바쿠 석유 협회의 막대한 지분을 매입했으며, 유전 시설을 관리, 확보, 건설할 계획을 가지고 있습니다. 이것은 우리가 우리 정부의 많은 부분을 통제할 수 없게 되겠지만 적어도 우리에게 강력한 후원자가 생긴다는 것을 의미합니다."
