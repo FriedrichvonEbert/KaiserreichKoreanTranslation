@@ -276,9 +276,9 @@ SZC_war_aftermath_active_tooltip:0 "§Y내전의 여파§! 국민정신을 가�
 SZC_war_aftermath_active_tooltip_NOT:0 "§Y내전의 여파§! 국민정신을 가지지 않음"
 
 SZC_Armament_Department_Holds_On_tooltip:0 "§g군비파가 내전에서 승리했습니다.§!"
-SZC_Heavy_Fire_Tactics_tooltip:0 "§H남부 정책§! 혹은 §H북부 정책§! 변동치\n사단 공경력: §G+10.0%§!\n"
+SZC_Heavy_Fire_Tactics_tooltip:0 "§H남부 정책§! 혹은 §H북부 정책§! 변동치\n사단 공격력: §G+10.0%§!\n"
 SZC_Increase_Munitions_Production_tooltip:0 "§H남부 정책§! 혹은 §H북부 정책§! 변동치\n§H보병 장비§!:\n  £production_cost  생산 비용: §G-10.00%§!\n"
-SZC_Declare_Loyalty_To_The_Zhili_tooltip:0 §Y오성전쟁§!에 개입하는 £decision_icon_small §H디시전§! 해금
+SZC_Declare_Loyalty_To_The_Zhili_tooltip:0 "§Y오성전쟁§!에 개입하는 £decision_icon_small §H디시전§! 해금"
 
 SZC_A_Victory_From_Baoding_tooltip:0 "§M바오딩파가 내전에서 승리했습니다.§!"
 SZC_A_Model_Province_tooltip:0 "§g덩시허우가 중화 전체에서 모범적인 지역이 되기 위해 쓰촨에서 사회적이고 정신적인 발전에 초점을 맞츨 겁니다.§!"
