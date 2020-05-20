@@ -18,7 +18,7 @@ rus_fulfilled_strike_general_malus:0 "넓어진 노동자의 권리" #Expanded w
 RUS_political_unrest:0 "정치적 불안"
 RUS_political_unrest_desc:0 "내전 이후 계속되는 불안정과 사회주의의 여전한 강세로 우리는 거듭 타협하지 않을 수 없었습니다. 러시아에서는 사회주의와 민족주의 활동이 여전히 활발합니다. 만약 현상유지가 바뀌면, 국가에 대항하는 세력이 러시아를 혼란에 빠뜨릴 수도 있습니다."
 RUS_political_instability:0 "정치적 불안정"
-RUS_unruly_military:0 "Unruly Military"
+RUS_unruly_military:0 "불안정한 군대"
 
 RUS_economic_depression:0 "경제 대공황"
 RUS_supreme_economic_council:0 "최고경제위원회" #Verkhovny Ekonomicheskiy Sovet"
@@ -246,7 +246,7 @@ RUS_Kachkanar_Exploitation:0 "카흐카나르 개발"
 ### Zemstva Mechanic ###
 
 RUS_Zemstvo_Funding_decisions:0 "지역 젬스트보 투자"
-RUS_Zemstvo_Funding_decisions_desc:0 "Zemstvo are rural self-government institutions created after the Emancipation Reform of 1861, given powers to levy their own taxation and use this taxation to fund education, hospitals, and maintain roads, among many other uses. Right now, the Zemstvo system is limited by the fact that it is funded only from local taxes, and thus cannot commit to any significant projects. If we want to improve effect of zemstvo on our country, we should support them by direct funds."
+RUS_Zemstvo_Funding_decisions_desc:0 "젬스트보는 1861년 농노해방령 이후에 만들어진 농촌 자치 기관으로, 세금을 부과하고 이 세금을 교육, 의료, 도로 유지에 사용할 수 있는 권한을 부여받습니다. 하지만, 젬스트보 예산은 지방세만으로 충당되며, 따라서 대형 프로젝트를 하기엔 부족한 감이 있습니다. 만약 우리가 젬스트보의 효과를 향상시키고 싶다면, 우리는 그들에게 자금을 직접 지원해야 합니다."
 RUS_funding_zemstva:0 "이미 다른 지역의 젬스트보에 자금을 지원 중임."
 
 RUS_Invest_In_The_Northern_Zemstva:0 "북부 젬스트보에 투자"
@@ -448,13 +448,13 @@ RUS_Research_Investments:0 "연구에 투자"
 RUS_Research_Investments_desc:0 "우리의 산업과 경제에 대한 막대한 투자를 통해 우리는 연구에 투입될 더 많은 자원을 확보할 수 있었습니다. 이러한 상태는 우리에게 아주 좋은 성과를 가져다 줄 것입니다."
 
 RUS_Project_Kremlin:0 "RDS-1"
-RUS_Project_Kremlin_desc:0 "The Russian nuclear scientist corps led by Igor Kurchatov have given us a petition, informing us about the destructive potential of the split atom, and that we need to harness this power before our enemies do."
+RUS_Project_Kremlin_desc:0 "이고르 쿠르차토프가 이끄는 러시아 핵과학자단은 우리에게 핵분열의 파괴적 잠재력에 대해 소개했고, 적들이 이 힘을 손에 넣기 전에 우리가 선수를 칠 필요가 있다는 청원을 보냈습니다.."
 
 RUS_Project_Kostikov:0 "카츄샤 계획"
-RUS_Project_Kostikov_desc:0 "Championed by the young, yet exceptional inventor Andrey Kostikov, Project Katyusha will delve into the potential of jet engines and militarized rocketry. Should they prove to be practical, jets will turn our fighters into supersonic vultures and rockets will deal our enemies death from above..."
+RUS_Project_Kostikov_desc:0 "젊고 뛰어난 발명가 안드레이 코스티코프가 주도하는 프로젝트 카츄샤는 제트 엔진과 군사용 로켓의 잠재력을 탐구할 것입니다. 만약 그것들의 실용성이 입증된다면, 제트기는 우리의 전투기를 초음속 독수리로 만들고 로켓은 우리의 적들을 하늘에서 죽음으로 몰아넣을 것입니다..."
 
 RUS_Resource_Prospection:0 "자원에 대한 전망"
-RUS_Resource_Prospection_desc:0 "Minerals are numerous in Russia and can boost the economy rapidly. That's why we have to initiate an extraction of the various minerals in the whole country."
+RUS_Resource_Prospection_desc:0 "러시아에는 광물이 많고 이를 이용해 경제를 부양할 수 있습니다. 따라서 우리는 전국 각지의 광물 채굴에 앞장서야 합니다."
 
 RUS_Army_Modernisation:0 "군 현대화"
 RUS_Army_Modernisation_desc:0 "우리가 어떤 교리에 따르든지 간에, 전술뿐만 아니라 실제로 우리의 군대가 사용하는 소총과 장비들을 현대화해야 합니다."
@@ -502,25 +502,25 @@ RUS_High_Command_Reforms:0 "군 고위 간부 개혁"
 RUS_High_Command_Reforms_desc:0 "군 사령부는 세계대전과 적백 내전을 거치고도 배운 것이 없는 늙은이들이 차지하고 있습니다. 그들은 우리가 하고자 하는 전쟁의 형태를 이해하고 수행할 수 있는 사람들로 대체될 필요가 있습니다."
 
 RUS_Extensive_Planning:0 "대전략" 
-RUS_Extensive_Planning_desc:0 "Some members of our chief of staff believes in discipline and is respected far and wide for his administrative abilities. With extensive planning and a general motorization, they believe that they can make the Russian army the greatest in the world!"
+RUS_Extensive_Planning_desc:0 "우리 참모단의 몇몇 구성원은 규율을 중시합니다. 그들은 광범위한 작전계획과 차량화를 통해 러시아 군대를 세계에서 제일가는 수준으로 만들 수 있다고 자신합니다."
 
 RUS_Military_Infrastructure:0 "군 기반 시설"
-RUS_Military_Infrastructure_desc:0 "Our modernization plans require large amounts of preparation, including setting up important supply points at key locations. Railroads and highways must stretch from end to end in Russia!"
+RUS_Military_Infrastructure_desc:0 "우리의 현대화 계획은 주요 장소에 중요한 보급 지점을 설정하는 것을 포함하여 많은 준비가 필요합니다. 러시아의 철도와 고속도로는 끝에서 끝까지 뻗어 있어야 합니다!"
 
 RUS_Mechanised_Divisions:0 "기계화 사단"
 RUS_Mechanised_Divisions_desc:0 "비행기, 전차, 군함, 소총과 마찬가지로 기계화 사단은 현대전의 요구조건을 충족시키기 위해 더욱 발전해야 합니다."
 
 RUS_National_Planning_School:0 "사관학교"
-RUS_National_Planning_School_desc:0 "Our staff believes that Russia doesn't need to rely on 'wasting lives' at the front lines, if our officers receive proper training and stick to our closely monitored battle plans. New officer schools designed to train young officers on how to follow these plans should be set up."
+RUS_National_Planning_School_desc:0 "우리 참모들은 우리 장교들이 적절한 훈련을 받고 면밀하게 고안된 우리의 전투 계획을 고수한다면 러시아는 전선에서 '총알받이'에 의존할 필요가 없다고 믿고 있습니다. 젊은 장교들을 훈련시키기 위해 새로운 사관학교들이 설립되어야 합니다."
 
 RUS_Overwhelming_Firepower:0 "화력 우세"
-RUS_Overwhelming_Firepower_desc:0 "Some members of our high command advocate for the theories of overwhelming firepower as the cornerstone of our modernization program, hammering enemy positions with artillery before attacking. Additionally, more initiative and responsibility needs to be given to the officer at the front-line."
+RUS_Overwhelming_Firepower_desc:0 "우리의 고위 지휘관들 중 몇몇은 우리의 현대화 프로그램의 초석으로서 본격적인 공세 전 적의 진지를 포탄으로 두들겨 패는 압도적인 화력 우세 이론을 옹호합니다. 이를 위해선, 더 많은 권한과 책임이 일선 지휘관들에게 주어질 필요가 있습니다."
 
 RUS_Commander_Initiative:0 "하급 지휘관 권한 승격"
-RUS_Commander_Initiative_desc:0 "High command believes we should give our lower ranking officers clear goals and resources to fulfill those goals, but leave the planning in their hands. This will allow them to take local circumstances into consideration and help them respond accordingly to any changes in those circumstances, making our forces more flexible."
+RUS_Commander_Initiative_desc:0 "사령부는 우리의 하급 장교들에게 명료한 목표와 그것을 이루기 위한 자원을 주어야 하며, 그러나 작전 계획은 그들의 손에 맡겨야 한다고 믿습니다. 이를 통해 그들은 현지 전장의 상황을 더 잘 고려할 수 있을 것이며 어떠한 변화에도 기민하게 대응할 수 있게 될 것입니다."
 
 RUS_National_High_Command_Formation_School:0 "고등지휘사관학교"
-RUS_National_High_Command_Formation_School_desc:0 "The final step of our modernization plan, before our army stands unmatched, requires us to invest heavily into the officers which we will entrust the front lines to. A National High Command Formation School should help us find the most suitable recruits, leaving us with a new elite officer corps."
+RUS_National_High_Command_Formation_School_desc:0 "현대화 계획의 마지막 단계는, 일선 장교들에게 충분한 투자를 하는 것입니다. 고등지휘사관학교는 새로운 엘리트 장교단뿐 아니라, 가망있는 신병을 찾아낼 수 있을 것입니다."
 
 RUS_Spearhead_Doctrine:0 "기동전"
 RUS_Spearhead_Doctrine_desc:0 "While the ideas of a primarily motorized force are foreign to many in the Republic's general staff, some members of our high command are insisting that a fully mechanized force is the kind of military innovation needed to safeguard the country. Russian tank armies swiftly striking through enemy lines is quite the image!"
@@ -638,10 +638,10 @@ RUS_Enemy_In_The_East_desc:0 "러일 전쟁 이후 러시아의 진정한 적은
 
 ### Tooltips ###
 RUS_Savinkov_is_HoG:0 "§H보리스 사빈코프§! 가 현재 지도자임"
-RUS_Savinkov_is_HoG_NOT:0 "§HBoris Savinkov§! 가 현재 지도자가 아님"
+RUS_Savinkov_is_HoG_NOT:0 "§H보리스 사빈코프§! 가 현재 지도자가 아님"
 
-RUS_has_black_monday:0 "Has national spirit §HEconomic Depression§!"
-RUS_has_black_monday_NOT:0 "Does not have national spirit §HEconomic Depression§!"
+RUS_has_black_monday:0 "국민정신 §H경제 불황§!을 가짐"
+RUS_has_black_monday_NOT:0 "국민정신 §H경제 불황§!을 가지지 않음"
 
 RUS_Okhrannoye_Otdeleniye_tooltip:0 "정부는 오흐라나를 재도입하기로 결정했습니다"
 RUS_Army_Modernisation_tooltip:0 "군사 훈련이 끝났습니다"
@@ -718,25 +718,25 @@ russia.6.c:0 "Baron Vrangel establishes martial law and strongarms the Duma in a
 russia.6.e:0 "Kornilov storms Moscow, the streets run red with blood!"
 
 russia.7.t:0 "수상 임명"
-russia.7.d:0 "Having gotten elected as President, Grand Duke Dmitriy Romanov now commands a large, if shaky coalition of the right wing in the Duma. Already, the aristocracy and the business lobby have reached out to him to advise him on his next move - and since Dmitriy has little to no political experience, he is willing to listen. Several candidates are on the table and each one brings their own supporters..."
-russia.7.a:0 "Vladimir Purishkevich and the Union of the Russian People."
-russia.7.b:0 "Patriarch Kirill will turn Dmitriy a man of the people."
+russia.7.d:0 "대통령에 당선된 드미트리 로마노프 대공은 불안정한 우파 연정에도 불구하고 대규모 연합을 지휘하고 있습니다. 이미 귀족들과 기업 로비스트들은 그에게 그의 다음 행보에 대해 조언해 주겠다고 접근했고 드미트리는 정치적 경험이 거의 없기 때문에 기꺼이 귀를 기울이려고 하고 있습니다. 여러 명의 후보가 테이블에 올려져 있고 각 후보들은 각자 자신의 지지자들을 데려왔습니다.."
+russia.7.a:0 "블라디미르 푸리슈케비치!"
+russia.7.b:0 "키릴 총대주교가 드미트리를 국민의 남자로 만들 것이다!"
 russia.7.c:0 "민주주의자들을 달래자, 파벨 밀류코프."
 russia.7.e:0 "조언은 무의미하다. 드미트리의 소꿉친구 펠릭스 유수포프를 선택하라!"
 
 russia.8.t:0 "대통령 권한 대행 임명"
-russia.8.d:0 "At the last moment, thanks to Chernov's efforts, an agreement was found between all the forces to the left of the Kadets - the Socialist-Revolutionaries, Mensheviks, Socialists, Syndicalists and numerous others all joined into a plural left coalition for the defense of the Constitution. Though plenty of work needs to be done from here on out, it can safely be said that the hardest step has been passed.\n\nThe Left coalition has shown itself to be unwilling to bypass constitutional term limits and elect a President for a full term, therefore, only an Acting President will be appointed until the election of 1937. Several candidates have been proposed already, delegated by parties left and right. It is a time of chaos and uncertainty, however, so even factions which used to be weak could strongarm allies and crawl over heads to get the top spot..."
+russia.8.d:0 "마지막 순간, 체르노프의 노력 덕분에 입헌민주당의 왼쪽에 있는 모든 세력들, 즉 사회혁명당, 멘셰비키, 사회주의자들, 생디칼리스트들 그리고 수많은 다른 세력들 사이에서 헌법 수호를 위한 좌파 연정이 수립되었습니다. 앞으로 많은 일이 남았지만, 가장 힘든 단계는 지나쳤다고 해도 무방합니다.\n\n 좌파 연합은 헌법상의 임기 제한을 무시하고 총선을 위해 대통령을 선출하는 것을 꺼리고 있습니다. 따라서, 1937년 선거까지 오직 대통령 권한대행만이 임명될 것입니다. 좌우 여러 정당에서 이미 여러 후보가 나왔습니다. 하지만 지금은 혼란과 불안정의 시대로, 약소 정당 또한 강력한 동맹의 힘으로 권력을 차지할 수 있을 것입니다..."
 russia.8.a:0 "멘셰비키를 달래야 한다. 이라클리 체레텔리를 선출하자."
 russia.8.b:0 "빅토르 체르노프가 케렌스키의 유지를 잇는다!"
 russia.8.c:0 "파벨 밀류코프 수상이 질서를 회복시킬 것이다."
 russia.8.e:0 "알렉산드르 실랴프니코프가 모든 사회주의 정당의 인민전선을 결성한다!"
 
 russia.9.t:0 "수상 임명"
-russia.9.d:0 "Having strongarmed the Duma to follow his orders, Pyetr Vrangel has been elected Acting President and is nominally in control of the country. He and his junta are faced with a dilemma, however - to ensure a smooth transition of power, he needs to form a collaborationist civilian government which will help him manage the day to day affairs of the state. Though the list of possible stooges is long, only a few of them bring the necessary skills and bases of support to prove of use, and this choice will determine where Vrangel's rulership shall lead."
+russia.9.d:0 "그의 명령에 따르도록 두마를 강하게 단련시킨 표트르 브란겔은 대통령 권한대행으로 선출되었고 명목상으로 이 나라를 통치하고 있습니다. 그러나 그와 그의 군정은 딜레마에 직면해 있습니다 - 순조로운 권력 이양을 위해, 그는 국가의 일상적인 업무를 관리하는 데 도움을 줄 우호적인 민간 정부를 구성할 필요가 있습니다. 비록 꼭두각시로 사용할 사람들은 넘쳐나지만, 그들 중 몇몇만이 능력과 지지 기반을 가지고 있으며, 이 선택이 브란겔의 통치 방식을 결정할 것입니다."
 russia.9.a:0 "케렌스키의 수상 파벨 밀류코프의 직위를 유지시키자."
-russia.9.b:0 "Patriarch Kirill will help us find popular support."
-russia.9.c:0 "Vladimir Purishkevich and the Union of the Russian People."
-russia.9.e:0 "Merge the offices of President and Prime Minister."
+russia.9.b:0 "키릴 대주교가 대중의 지지를 이끌어낼 것이다."
+russia.9.c:0 "블라디미르 푸리슈케비치."
+russia.9.e:0 "대통령직과 수상직을 합치자."
 
 russia.10.t:0 "코르닐로프의 결정"
 russia.10.d:0 "The news that Kornilov's forces are descending upon Moscow sparked a repeat of 1917 - trade unions and leftist organizations broke out their arms to defend Russia's democracy and Constitution from a soon-to-be dictator. Kornilov chose not to retreat this time, however, and, cooperating with the Combat Squads, the paramilitary of the National Republican Party (NRPR), took the fight to streets. After hours of barricade raising and street clashes, order was finally restored, the Duma dissolved, and a provisional military government installed, headed by the new Supreme Commander-in-Chief of the Russian Army and Acting President, Lavr Georgiyevich Kornilov.\n\nHowever, he also understands that without a coherent political programme, his control over the country will swiftly be lost. The temporary prime-minister, General Aleksandr Lukomskiy, a well-known supporter of Kornilov, can maintain a modicum of order, but he has awful relations with almost all republican factions in the country. Kornilov's first choice would be to invite Boris Savinkov, the leader of the NRPR, to assume the office of Prime Minister. Though he is far from being on the best of terms with Savinkov, his far-right concept of national renewal sounds very appealing. On the other hand, perhaps Savinkov is too suspicious to trust and Marshal Denikin would help Kornilov consolidate his control over the country..."
@@ -744,7 +744,7 @@ russia.10.a:0 "보즈드를 정부에 초대하자!"
 russia.10.b:0 "데니킨 원수를 대신 불러오자!"
 
 russia.37.t:0 "코르닐로프-사빈코프 연합"
-russia.37.d:0 "The boogeyman of any socialist in the Duma and the most powerful far right force in the country, the 'National Republican Party' (Narodno-Respublikanskaya Partiya Rossii) once started out as an anti-Bolshevik conspiracy in Moscow, the 'Union for the Defense of the Motherland'. Its leader, Boris Savinkov, is one of the most interesting political leaders in the country, a former Socialist-Revolutionary terrorist turned nationalist politician, who has developed a political ideology based on his own extreme and somewhat esoteric beliefs, and the influence of his close allies such as Symbolist poet Dmitriy Merezhkovskiy. \n\nHaving remained in the fringe of Russian politics in the 1920s, the NRPR exploded in popularity in the 1930s, its affinity to spectacle politics, populism, paramilitary violence and irredentism attracting many, and even inspiring imitators outside of Russia. Approached by Kornilov, his old ally from back in 1917, Savinkov accepted and has dedicated the NRPR Combat Squads to the apparatus of the state."
+russia.37.d:0 "사회주의자들의 부기맨이자 러시아에서 가장 강력한 극우 세력인 '인민공화당'(Narodno-Respublikanskaya Partiya Rossii)은 모스크바에서 반볼셰비키 음모를 꾸미기 시작하였고, 조국수호연맹의 지도자 보리스 사빈코프는 러시아 전역에서 가장 흥미로운 정치인으로, 전 사회혁명당 테러리스트였다가 민족주의자 정치인으로 전향하였고, 그의 가까운 동맹인 상징주의 시인 드미트리 메레즈코프스키의 영향을 받아 소수만 이해할 수 있는 그만의 극단적인 정치 사상을 정립하였습니다. \n\n1920년대에 러시아 정계의 가장자리에 있던 NRPR은, 그 고유의 대중주의, 고토회복주의로 인해 1930년대에 폭발적 인기를 얻기 시작했으며, 러시아 바깥의 많은 국가들에서도 이들을 따라하고 있습니다. 1917년부터 거슬러가는 그의 옛 동지 코르닐로프의 부탁을 받아, 사빈코프는 NRPR 전투부대를 러시아 국가의 안정을 위해 운용하겠다고 다짐했습니다."
 russia.37.a:0 "코르닐로프와 사빈코프가 신성한 러시아를 지켜낼 것이다!"
 
 russia.38.t:0 "마리아 스피리도노바의 암살"
@@ -759,7 +759,7 @@ russia.39.b:0 "육군원수 데니킨이 그의 후계자가 될 것이다!"
 russia.39.c:0 "브란겔 남작이 개혁파 장교들을 결집시켰다!"
 
 russia.40.t:0 "첫번째 명령"
-russia.40.d:0 "With the merger of the offices of president and prime minister, Boris Savinkov continued to solidify his grip over the Russian State by penning Directive No. 1 (also known as the first 'Prikaz Vozhdya'), technically an application of Article 48 of the Constitution. Amongst other things, the directive dismissed the Duma whilst outlawing all political parties besides Savinkov's own 'Narodno-Respublikanskaya Partiya Rossii'. Furthermore, the directive raised the Combat Squads to the status of a state organisation and an auxiliary force to the Russian army, tasked to enforce ideological control of the nation.\n\nTo fulfill his revanchist ideals, Savinkov chose to appoint a close ally of his party, entrepreneur and industrialist Aleksey Putilov, as his Minister of the Economy. Putilov has been tasked to transform the Russian economy into a war machine, without any reservations."
+russia.40.d:0 "대통령직과 수상직의 병합으로, 보리스 사빈코프는 헌법 48조를 기술적으로 적용한 지침 제1호(일명 '프리카즈 보즈디야'라고도 한다)를 펜으로 써서 러시아에 대한 지배를 굳혔습니다. 무엇보다도, 이 지시는 사빈코프의 인민공화당을 제외한 모든 정당을 불법화해버렸습니다. 게다가, 그 지시를 통해 사빈코프의 전투 분대의 지위가 러시아군 보조부대의 지위로 격상되었고, 국가 전역의 이념을 통제하는 임무를 맡게 되었습니다. 사빈코프는 자신의 보복주의적 이상을 실현하기 위해 자신의 가까운 동맹이자 기업가인 알렉세이 푸틸로프를 경제장관으로 임명하기로 결정했고, 러시아 경제를 전쟁 기계로 탈바꿈시키는 임무를 부여했습니다."
 russia.40.a:0 "국가의 적을 옭아맬 갈고리가 넘쳐나는군!"
 
 russia.42.t:0 "독재 정치"
@@ -814,9 +814,9 @@ russia.183.a:0 "우라!"
 
 russia.19.t:0 "키릴이 수상을 지명하다"
 russia.19.d:0 "러시아에 차르정이 복원되었고, 새 차르는 이제 수상을 지명해야 합니다."
-russia.19.a:0 "Vladimir Purishkevich and the Union of the Russian People."
-russia.19.b:0 "Anton Denikin, from the army corps."
-russia.19.c:0 "Prince Yusupov will restore aristocratic favor!"
+russia.19.a:0 "블라디미르 푸리슈케비치."
+russia.19.b:0 "군대 출신의 안톤 데니킨."
+russia.19.c:0 "유수포프가 귀족들의 지지를 모을 것이다!"
 russia.19.e:0 "니콜라이 트루베츠코이가 유라시아주의를 통해 러시아를 이끌 것이다!"
 russia.19.f:0 "표트르 브란겔을 유지하자. 우리는 강력한 지도자가 필요하다!"
 
@@ -825,11 +825,11 @@ russia.20.d:0 "어제 러시아 최고의 시인을 기념하기 위한 기념�
 russia.20.a:0 "우리는 모든 시인을 사랑한다!"
 
 russia.21.t:0 "'징기스칸의 유산', 니콜라이 트루베츠코이"
-russia.21.d:0 "A famous linguist and historian, Prince Nikolay Trubetskoy turned to politics in the 1930s and has now chosen to codify his ideological doctrine of Eurasianism into a single book - "Genghis Khan's Legacy: A Look at Russian History from the East". It has already begun making rounds across Russian literary circles and crude quotes are being passed around across the public.\n\nEurasianism believes in the concept of "living space" ("mestorazvitiya"), geographical conditions which define the peoples living within them. People who live in the same biome or geographic area form a common civilization and have a natural desire to unite. Russia, in their view, forms the core of a "steppe civilization" which encompasses all peoples in Eastern Europe and Central Asia, Eurasianists ascribe them a collective kinship and call for them to unite under Russian rule. Trubetskoy declares that the Grand Duchy of Moscow, and therefore Russia, is the successor to the Mongol Empire and Genghis Khan was a hero of the Russian people.\n\nThis "Russia-Eurasia" needs to embody ideas and beliefs which Eurasianists believe are "Eurasian" - selflessness, heroism, societal hierarchy and obedience. Eurasianists believe that democracy is a form of governance for "sea peoples" and is completely unfitting for Russia - not only should Russia fight against democracy being imposed upon it, but also liberate other non-European nations from Western rule and defeat what they perceive as Western "cultural imperialism".\n\nAfter the publication of the book, its ideas have begun to float around the Russian right."
+russia.21.d:0 "유명한 언어학자이자 역사학자인 니콜라이 트루베츠코이는 1930년대에 정치에 눈을 돌렸고 이제 유라시아주의에 대한 그의 이념적 교리를 하나의 책인 "징기스칸의 유산"으로 성문화하기로 했습니다. : A Look at Russian History from the East". It has already begun making rounds across Russian literary circles and crude quotes are being passed around across the public.\n\nEurasianism believes in the concept of "living space" ("mestorazvitiya"), geographical conditions which define the peoples living within them. People who live in the same biome or geographic area form a common civilization and have a natural desire to unite. Russia, in their view, forms the core of a "steppe civilization" which encompasses all peoples in Eastern Europe and Central Asia, Eurasianists ascribe them a collective kinship and call for them to unite under Russian rule. Trubetskoy declares that the Grand Duchy of Moscow, and therefore Russia, is the successor to the Mongol Empire and Genghis Khan was a hero of the Russian people.\n\nThis "Russia-Eurasia" needs to embody ideas and beliefs which Eurasianists believe are "Eurasian" - selflessness, heroism, societal hierarchy and obedience. Eurasianists believe that democracy is a form of governance for "sea peoples" and is completely unfitting for Russia - not only should Russia fight against democracy being imposed upon it, but also liberate other non-European nations from Western rule and defeat what they perceive as Western "cultural imperialism".\n\nAfter the publication of the book, its ideas have begun to float around the Russian right."
 russia.21.a:0 "흥미롭군!"
 
 russia.22.t:0 "또다른 브레스트-리토프스크는 없다"
-russia.22.d:0 "Now that the situation in Russia has begun to stabilize, the Russian people have begun to turn westward. The Treaty of Brest-Litovsk has been paraded as an example of a punitive treaty since its inception, but only now has Russia gotten confident enough to consider repudiating it. Printing presses are publishing maps and treatises where Russia's western neighbours are declared 'German-occupied Western Territories' and the locals living there are described as suffering, awaiting the return of Mother Russia. This is one issue which can unite the Russian right, left and center, though for different reasons. Russian nationalists obviously seek revenge against Germany, whereas the leftists see Germany as the hegemon which prevents the rise of socialism and Syndicalism in Europe.\n\nNo matter what regime may be in charge, they will need to place the reconquest of Russia's western territories at the top of the priority list. Few want to see Russia start this war, however. The general line of thought among the Russian populace, intellectuals and politicians is that Russia needs to wait. Observe. And descend like a hawk when Germany is focused elsewhere. Cunning has saved Russia in countless wars before, and this moment will be no different."
+russia.22.d:0 "러시아 정세가 안정되기 시작한 지금, 러시아 국민들은 서쪽에 관심을 돌리기 시작했습니다. 브레스트-리토프스크 조약은 체결 이래 러시아에 대한 징벌적 역할을 수행해 왔지만, 러시아는 드디어 그 조약을 백지화하는걸 고려할 만큼 자신감을 갖게 되었습니다. 인쇄 매체들은 러시아 서쪽 이웃들을 '독일 점령하 서부 영토'로 묘사하고, 그곳의 우리 동포들이 고통받고 있으며 어머니 러시아의 귀환을 바라고 있다는 지도와 논문을 출판하고 있습니다. 러시아의 여러 정파들은 서로 다른 이유로 이 문제에 같은 의견을 내고 있습니다. 러시아 민족주의자들은 독일에 대한 복수를 추구하는 반면, 좌파들은 독일을 유럽의 사회주의와 생디칼리슴의 부상을 막는 패권국으로 보고 있습니다.\n\n누가 정권을 잡든, 러시아의 잃어버린 서부 영토들의 탈환이 최우선 순위가 되어야 할 것입니다. 그러나 러시아의 시민들과 지식인, 정치인들은 러시아가 선제 공격을 행하는 것을 바라지 않으며, 충분히 시간을 두고 기다릴 필요가 있다고 생각하고 있습니다. 독일이 다른 곳에 신경을 쏟을 때, 우리는 매처럼 먹이를 낚아챌 것입니다. 노련함은 지난 전쟁에서도 러시아를 구원했고, 이번에도 다르지 않을 것입니다."
 russia.22.a:0 "...베를린이 불타는 걸 어서 보고 싶군."
 
 russia.23.t:0 "수도"
@@ -879,7 +879,7 @@ russia.1947.d:0 "승리한 붉은 군대는 썩은 러시아 국가의 임시 �
 russia.1947.a:0 "저항은 오래 가지 않을 것이다!"
 
 russia.1948.t:0 "예카테린부르크의 함락"
-russia.1948.d:0 "To the horror of all of Russia, the socialist forces continue to advance, having now crossed the Urals. Despite fierce resistance by our valiant forces, our wartime capital in Yekaterinburg has fallen to the victorious Red forces, who are now sweeping into the heart of Siberia. This catastrophe is a serious blow to the anti-socialist cause - already our troops have begun to desert. It seems the end is near for us."
+russia.1948.d:0 "러시아 전역이 두려워하는 사회주의 세력이 방금 우랄 강을 건넜고 계속 전진하고 있습니다. 용맹한 우리 군대의 격렬한 저항에도 불구하고 예카테린부르크에 있는 우리의 전시 수도는 시베리아 중심부를 휩쓸고 있는 적군에게 함락되었습니다. 이는 반사회주의 세력에게 심각한 타격이 될 것이며, 이미 우리 군인들의 탈영이 잇따르고 있습니다. 종말이 가까워진 것 같습니다."
 russia.1948.a:0 "다 끝났다..."
 
 russia.1949.t:0 "혁명이 성공했다"
