@@ -3,8 +3,8 @@
 saudi_focus:0 "네지드 중점계통도"
 
 ### Leaders ###
-POLITICS_SAUDI_DESC:0 "Abdulaziz Ibn Saud, the mortal rival of many dead men, now turns his sights towards Saud bin Abdulaziz. This rivalry began when the young Ibn Saud was ejected from his tent in Riyadh by the Rashids. Never a pawn of Emirs, ibn Saud's father rallied the destitute men of the coastal Emirates to the great goal of his dynasty, Wahhabism. The Rashids were then ejected at the cost of many men, including their only western ally. Ibn Saud himself started many a feud the Saudis inherited, as he expressed hatred towards any Arab who turned their nose up towards Bedouins. This seed of anger had passed onto his men, who inherited his ferocity and may turn this youthful fury against him yet."
-POLITICS_SULTAN_OTAIBI_DESC:0 "An illiterate member of the Otaibah Bedouin tribe, Sultan came to head the so-called Ikhwan which formed a considerable portion of the forces of the house of Saud. Believing in a divine duty to spread Sunni fundamentalism, Sultan was none to pleased when the house of Saud attempted to limit his ability to raid neighbouring countries. Sultan now takes up arms against both his old allies in the house of Saud and the wider heathenous world."
+POLITICS_SAUDI_DESC:0 "수많은 죽은 이들의 라이벌인 필멸자 압둘아지즈 이븐 사우드는 이제 사우드 빈 압둘아지즈에게로 시야를 돌렸습니다. 이 경쟁의식은 어린 이븐 사우드가 리야드에 있는 자신의 텐트에서 라시디 가문에게 쫓겨났을 때부터 시작했습니다. 절대로 아미르의 졸개였던 적이 없던 이븐 사우드의 아버지는 해안 아미르국에서 극빈층 사람들을 모아 그의 왕조가 목표하는 바를 향해 나아갔습니다. 바로 와하브 운동이죠. 라시드 가문은 수많은 부하들을 잃은 채 해안에서 쫓겨났고, 그들의 유일한 서방 동맹국도 함께 도망쳤습니다. 이븐 사우드 본인은 사우드 가문을 이어받은 이래로 베두인을 깔보던 모든 아랍인들에게 증오를 표출하면서 수많은 불화를 빚었습니다. 이 분노의 씨앗은 그의 흉폭함을 그대로 배운 부하들에게도 영향을 끼쳤는데, 그들이 이 젊은이의 분노를 바꿀 지도 모릅니다."
+POLITICS_SULTAN_OTAIBI_DESC:0 "오타이바 베두인 부족의 문맹 부족원이던 술탄은 소위 이크완이라고 불리며 사우드 가문 군대의 대부분을 차지하는 집단의 수장이 되었습니다. 자신이 수니파 근본주의를 퍼트리는 신성한 의무를 짊어지고 있다고 믿는 술탄은 사우드 가문이 이웃 국가를 습격할 수 있는 능력을 제한하려 했을 때 전혀 기뻐하지 않았습니다. 술탄은 이제 사우드 가문의 옛 동료들과 더 넓은 세상에 대항해 무기를 들어 올렸습니다."
 
 ### Parties ###
 SAU_totalist_party:0 "Alhizb Alshuyueiu Alearab"
@@ -38,7 +38,7 @@ SAU_saudi_victory:0 "자발 샴마르가 패배했습니다"
 IKH_revolt:0 "이크완 봉기가 발생합니다"
 IKH_revolt_2:0 "이크완 봉기가 제압되었습니다"
 SAU_ikhwan_provoking:0 "§R이 중점은 이크완 봉기 발생에 원인제공을 할 것입니다.§!"
-SAU_sole_caliphate_is_a_bad_idea:0 "§RClaiming the title of Caliph will likely anger and outrage many of our neighbours, we should be careful about such an act...§!\n"
+SAU_sole_caliphate_is_a_bad_idea:0 "§R칼리프를 칭한다면 수많은 주변국의 분노와 격분을 일으킬 것이므로, 그런 행동을 하기 전에 조심할 필요가 있습니다...§!\n"
 
 sau_al_hasa_cut_off:0 "\n§g이것은 §M라쉬드 가문§!이 §Y휴전 오만§!, §Y카타르§! 그리고 §Y바레인§!에서 영향력을 확대하지 못하게 할 것입니다.§!"
 sau_already_boosting_support:0 "이미 다른 에미르에게 영향력 행사중"
@@ -70,7 +70,7 @@ SAU_Contest_Arabian_Desert:0 "라쉬드 가문과 충돌"
 SAU_War_of_Unification:0 "아라비아통일전쟁"
 SAU_War_of_Unification_desc:0 "오스만이라는 거인이 세계적 경기 침채로 제 기능을 하지 못하게 되면서 일시적으로 아라비아 반도의 평화를 유지할 수 없게 되었습니다. 이 가운데 아랍 내룩에 대한 지배권을 위한 최후 결전은 급속히 다가오고 있습니다. 모든 에미르는 아랍 세계의 미래를 위해 어느 한 쪽을 선택해야 할 것이며, 패배자들은 불명예스럽게 구석으로 밀려나거나 전장에서 살해될 것임을 깨달을 것입니다."
 
-SAU_Ikhwan_Rides_Out:0 "The Ikhwan rides out"
+SAU_Ikhwan_Rides_Out:0 "이크완 습격"
 SAU_Ikhwan_Rides_Out_desc:0 "이크완 또는 '교우들'은 이븐 사우드 가문이 군 내 핵심 요소로 이용하는 부족 민병대입니다. 광신적인 성전사인 이들은 이븐 사우드 가문이 아니라 이슬람 사회의 엄격한 도덕에 충성을 바칩니다. 이크완은 서양의 모든 진보를 물리치고 퇴폐한 이슬람 세계를 정화하며 모든 이슬람교도를 한 국가 아래 통일시키고자 합니다. 그럼에도 불구하고 이들은 모든 마주치는 죄수들의 목을 베고 검과 밧줄로 싸우는 야만적이고 다루기 힘든 세력입니다. 그러나 이븐 사우드 가문 입장에서는 열정적이고 피에 굶주린 이들을 주변국 영토에 가하는 악명 높은 습격에 동원할 수 있기 때문에 가치있는 자산으로 분류됩니다."
 
 SAU_Ikwhan_Qatar:0 "카타르 습격"
@@ -113,9 +113,9 @@ SAU_desert_logstics_idea_desc:0 "우리 군대는 우리나라의 지형을 최�
 SAU_uniting_the_peninsula:0 "아라비아 통일"
 SAU_uniting_the_peninsula_desc:0 "라쉬드 가문의 개들은 죽었으며 아라비아 통일로 가는 길은 활짝 열려 있습니다. 앞으로 나아가 승리를 선언하십시오!"
 SAU_moral_police:0 "도덕 경찰"
-SAU_moral_police_desc:0 "Religious observance and public morality shall be enforced in order to keep our land pure."
+SAU_moral_police_desc:0 "우리 영토를 순수하게 유지하기 위해 종교적인 준수와 공공 도덕을 강요해야 합니다."
 SAU_muslim_universities:0 "무슬림 대학"
-SAU_muslim_universities_desc:0 "Using public funds, we have expanded our higher learning institutions."
+SAU_muslim_universities_desc:0 "공적 자금을 활용해 고등교육기관을 확대했습니다."
 
 ### Focuses ###
 
@@ -329,19 +329,19 @@ saud.36.d:0 "예멘이 우리를 칼리프로 인정하지 않는다는 결정�
 saud.36.a:0 "예멘, 우리는 잊지 않을 것이다"
 
 saud.37.t:0 "인도의 무슬림들이 재건된 칼리프국을 지지한다!"
-saud.37.d:0 "Throughout India the Muslims have decided to celebrate the new Caliphate that has been declared by the Sultan of Arabia. While most of the elites have not taken part of this celebration, the Muslim masses of India have."
+saud.37.d:0 "인도 전역의 이슬람교도들이 아라비아 술탄이 선언한 신 칼리프국을 승인하기로 결정했습니다. 대부분 엘리트 계층은 이를 기념하는 행사에 참여하지 않았지만, 인도의 무슬림 대중은 참여했습니다."
 saud.37.a:0 "인샬라."
 
 saud.38.t:0 "인도의 무슬림들이 우리의 주장을 수용하였다"
-saud.38.d:0 "We have received good news out of India. The Muslim population of India has accepted our claims as the Caliph."
+saud.38.d:0 "인도에서 좋은 소식이 들어왔습니다. 인도의 무슬림들이 우리의 칼리프 선언을 수용했습니다."
 saud.38.a:0 "인도, 우리는 기억할 것이다."
 
-saud.39.t:0 "칼리프조에 관한 소식이 인술린디아에 도달하다"
-saud.39.d:0 "News of the sultan of Jabar Shammar's decision to declare himself the Caliph of Islam has reached Insulindia. Most of the Muslims in Insulindia have not approved of this decision."
+saud.39.t:0 "칼리프조에 관한 소식이 인술인디아에 도달하다"
+saud.39.d:0 "자발 샴마르의 술탄이 이슬람 칼리프를 선언했다는 소식이 인술인디아에 도달했습니다. 인술인디아 무슬림 대부분은 이 결정을 인정하지 않았습니다."
 saud.39.a:0 "인샬라."
 
-saud.40.t:0 "인술린디아 무슬림이 우리의 주장을 수용하였다"
-saud.40.d:0 "We have received good news out of Insulindia. The Muslim population of Insulindia has accepted our claims as the Caliph."
+saud.40.t:0 "인술인디아 무슬림이 우리의 주장을 수용하였다"
+saud.40.d:0 "인술인디아에서 좋은 소식이 들어왔습니다. 인술인디아의 무슬림들이 우리의 칼리프 선언을 수용했습니다."
 saud.40.a:0 "우리는 기억할 것이다"
 
 saud.41.t:0 "아라비아 술탄이 칼리프를 칭하다"
@@ -407,19 +407,19 @@ saud.55.a:0 "이 무기들이 라쉬드 가문 쓰레기들을 전멸시킬 것�
 
 ### SAU-JBS Power Struggle ###
 saud.56.t:0 "트루셜 스테이트가 이븐 사우드에게 함락되다"
-saud.56.d:0 "Reports have reached us that the Emirs of the Trucial States have succumbed to the advances of Ibn Saud. This sign of weakness is spreading to the other Emirs in the Rashidi alliance and cracks are already forming. Day by day, the power of our Emir is growing."
+saud.56.d:0 "트루셜 스테이트 지역 아미르들이 이븐 사우드의 진격에 굴복했다는 보고가 들어왔습니다. 이런 나약한 모습이 라시드 가문과 연계한 다른 아미르들에게도 퍼지고 있으며 이미 균열은 시작되었습니다. 나날이 아군 아미르의 힘이 커져나갑니다."
 saud.56.a:0 "또 다른 위대한 승리로다!"
 
 saud.57.t:0 "카타르가 이븐 사우드에게 함락되다"
-saud.57.d:0 "Reports have reached us that the Emir of Qatar has succumbed to the advances of Ibn Saud. This sign of weakness is spreading to the other Emirs in the Rashidi alliance and cracks are already forming. Day by day, the power of our Emir is growing."
+saud.57.d:0 "카타르 아미르가 이븐 사우드의 진격에 굴복했다는 보고가 들어왔습니다. 이런 나약한 모습이 라시드 가문과 연계한 다른 아미르들에게도 퍼지고 있으며 이미 균열은 시작되었습니다. 나날이 아군 아미르의 힘이 커져나갑니다."
 saud.57.a:0 "또 다른 위대한 승리로다!"
 
 saud.58.t:0 "바레인이 이븐 사우드에게 함락되다"
-saud.58.d:0 "Reports have reached us that the Emir of Bahrain has succumbed to the advances of Ibn Saud. This sign of weakness is spreading to the other Emirs in the Rashidi alliance and cracks are already forming. Day by day, the power of our Emir is growing."
+saud.58.d:0 "바레인 아미르가 이븐 사우드의 진격에 굴복했다는 보고가 들어왔습니다. 이런 나약한 모습이 라시드 가문과 연계한 다른 아미르들에게도 퍼지고 있으며 이미 균열은 시작되었습니다. 나날이 아군 아미르의 힘이 커져나갑니다."
 saud.58.a:0 "또 다른 위대한 승리로다!"
 
 saud.59.t:0 "알 하사가 이븐 사우드에게 함락되다"
-saud.59.d:0 "Reports have reached us that the Rashidis have been driven out of the Al-Hasa coast. This sign of weakness is spreading to the other Emirs in the Rashidi alliance and cracks are already forming. Day by day, the power of our Emir is growing."
+saud.59.d:0 "라시드 가문이 알 하사 해안에서 축출되었다는 보고가 들어왔습니다. 이런 나약한 모습이 라시드 가문과 연계한 다른 아미르들에게도 퍼지고 있으며 이미 균열은 시작되었습니다. 나날이 아군 아미르의 힘이 커져나갑니다."
 saud.59.a:0 "또 다른 위대한 승리로다!"
 
 
@@ -429,8 +429,8 @@ saud.150.d:0 "이크완은 아라비아에서 수십 년간 강력한 군사 집
 saud.150.a:0 "반란군을 쳐부술 것이다, 아라비아를 위하여!"
 
 saud.151.t:0 "에미르가 사우드 가문에 충성을 맹세하다"
-saud.151.d:0 "The tent city of Riyadh saw the procession of sabers upon many soldeirs heads under Ibn Saud's orders. In it's wake is the procession of captured Emirs. The first, including the Rashidis, Hashimite, Al Thani and Howietat were deemed too rebellious to be loyal vassals to Nejd. The latter, including the Al Nahyan and the Gadban of the Bani Lam, were more useful. Ibn Saud has decided to spare the families of the Emirs on the condition that they swear total alligence to the Saudi Arabia. This new form of vassalage is different from the ruthless precedence Ibn Saud's forefathers operated on, and are protected from the Ikhwan in perpetuity. "
-saud.151.a:0 "Sufficient is Allah as our ally"
+saud.151.d:0 "텐트 도시 리야드에 이븐 사우드의 명령에 복종하는 병사들이 기병도를 들고 행진했습니다. 붙잡힌 아미르들의 행렬이 뒤이어 따라옵니다. 처음에 라시드, 하심, 알 타니와 하위타트를 포함한 이들은 나지드의 충성스러운 부하가 되기에는 너무도 반역적인 이들로 여겨졌습니다. 뒤따라온 알 나얀과 바니 람의 가드반과 같은 이들이 훨씬 쓸모 있을 것입니다. 이븐 사우드는 사우디 아라비아에 완전한 충성을 맹세하는 대가로 아미르 일가족들을 살려주기로 결정했습니다. 이 새로운 형태의 군신관계는 이븐 사우드 선조들이 시행한 무자비한 선례와는 확연히 다른 것으로, 영원히 이크완에게 보호받을 것입니다. "
+saud.151.a:0 "우리의 동맹은 알라 하나면 충분하다"
 
 saud.152.t:0 "이크완 반란이 진압되다"
 saud.152.d:0 "이크완은 완전히 패퇴했고, 마지막 패잔병은 포위되었습니다."
