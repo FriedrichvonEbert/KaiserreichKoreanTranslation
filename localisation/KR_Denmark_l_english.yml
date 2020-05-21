@@ -3,7 +3,7 @@
 danish_focus:0 "덴마크 중점계통도"
 
 ### Leaders ###
-CHRISTIAN_X_DESC:0 "Christian von Glücksburg rose to the Danish throne in 1912 after his father, king Frederick VIII, passed away in Hamburg. The king has thus far guided Denmark through the Weltkrieg, in which the nation remained neutral, and into the interwar, presiding over the political shift that was the rise of the social democrats of Thorvald Stauning in 1924. It is said that the king is sceptical about the prime minister and his party, but that he accepts their position in government in the knowledge that he can use his reserve power should excesses occur.\n\nMany have considered that the fact that this has still not happened after 12 years means that the king has eventually accepted the democratic parliamentarism that has been in place since the ascension of the Deuntzer cabinet in 1901."
+CHRISTIAN_X_DESC:0 "크리스티안 폰 글뤽스부르크는 1912년 함부르크에서 사망한 아버지 프레데리크 8세의 뒤를 이어 덴마크 왕좌에 올랐습니다. 국왕은 세계대전 동안 중립을 지키면서 덴마크를 이끌었고 전간기에 돌입해 1924년 토르발드 슈타우닝의 사회민주당이 급부부상하는 정치적 변화도 주관했습니다. 국왕이 수상과 그의 정당을 회의적인 시각으로 바라본다고는 하지만, 상황이 지나칠 때 사용 가능한 권력을 여전히 쥐고 있기 때문에 여당의 정부 내에서의 위치를 인정합니다.\n\n많은 사람들은 그런 사태가 12년간 벌어지지 않았다는 사실은 결국 국왕이 1901년 데운체르 내각이 수립된 이래로 자리를 지켜온 민주적 의회제도를 받아들였다는 사실을 뜻한다고 주장합니다."
 
 ### Tooltips ###
 DEN_reforms:0 "경제 개혁을 실행합니다."
@@ -107,9 +107,9 @@ DEN_idea_farmers_strike_desc:0 "덴마크의 많은 농부들은 농산물 판�
 DEN_idea_opposition_controlled_landsting:0 "여소야대"
 DEN_idea_opposition_controlled_landsting_desc:0 "덴마크 상원은 야당이 장악하여 정부의 입법 추진에 타격을 입히고 있습니다."
 DEN_idea_general_strike_only_syndies:0 "총파업"
-DEN_idea_general_strike_only_syndies_desc:0 "Christian Christensen이 이끄는 생디칼리스트들이 정부에 대항하여 총파업을 선언했고, 정부가 물러나기를 요구하고 있습니다."
+DEN_idea_general_strike_only_syndies_desc:0 "크리스티안 크리스티안센이 이끄는 생디칼리스트들이 정부에 대항하여 총파업을 선언했고, 정부가 물러나기를 요구하고 있습니다."
 DEN_idea_general_strike_everyone:0 "총파업"
-DEN_idea_general_strike_everyone_desc:0 "Christian Christensen이 이끄는 생디칼리스트들이 정부에 대항하여 총파업을 선언했고, 정부가 물러나기를 요구하고 있습니다."
+DEN_idea_general_strike_everyone_desc:0 "크리스티안 크리스티안이 이끄는 생디칼리스트들이 정부에 대항하여 총파업을 선언했고, 정부가 물러나기를 요구하고 있습니다."
 DEN_good_infrastructure:0 "접근가능한 국가"
 DEN_good_infrastructure_desc:0 "초라했던 우리나라의 인프라에 대한 최근의 투자가 성과를 거두었습니다. 이를 통해 경제적 이득을 얻을 뿐 아니라 병력 동원이 더 신속해질 것입니다. "
 
@@ -117,7 +117,7 @@ DEN_good_infrastructure_desc:0 "초라했던 우리나라의 인프라에 대한
 DEN_black_monday:0 "검은 월요일이 닥치다"
 DEN_black_monday_desc:0 "베를린 증권거래소의 주식시장 붕괴는 덴마크 경제의 대부분을 마비시켰습니다. 그러나 우리 경제의 상당 부분은 농업에 기반을 두고 있습니다. 즉, 정부의 신속한 개입과 수확철 도래로 위기를 억제할 수 있을 것입니다."
 DEN_kanslergaden:0 "캔슬러캐더 협정"
-DEN_kanslergaden_desc:0 "불행하게도 덴마크 상원인 'Landsting'은 야당이 통제하고 있으며 정부는 야당의 지원 없이 이끌어나가고 있습니다. 검은 월요일이 가져다 주는 역경에 효과적인 대응을 하려면 야당 지도자들을 캔슬러캐더에 있는 스타우닝의 아파트로 초대해야 합니다."
+DEN_kanslergaden_desc:0 "불행하게도 덴마크 상원인 '란스팅'은 야당이 통제하고 있으며 정부는 야당의 지원 없이 이끌어나가고 있습니다. 검은 월요일이 가져다 주는 역경에 효과적인 대응을 하려면 야당 지도자들을 캔슬러캐더에 있는 스타우닝의 아파트로 초대해야 합니다."
 DEN_agreement_with_germany:0 "독일과의 협정"
 DEN_agreement_with_germany_desc:0 "영국이 혁명의 불길에 휩싸여 타버리면서 독일과 더 넓게 미텔오이로파는 우리의 주요 교역국으로 발전했습니다. 문제는 우리의 상품이 이 시장에서 너무 비싸다는 것입니다. 이는 아직 남아 있는 몇 안 되는 무역 장벽을 무너뜨리고 다른 양보를 대가로 독일인보다 우리 농민들을 지원할 수 있는 허가를 받는 것으로 해결될 수 있을 것입니다."
 DEN_schachtian_tactics:0 "샤흐트 경제"
