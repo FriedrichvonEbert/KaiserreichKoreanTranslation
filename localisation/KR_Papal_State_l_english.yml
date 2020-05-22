@@ -3,12 +3,12 @@
 Papal_States:0 "교황청 중점계통도"
 
 ### Leaders ###
-POLITICS_PIUS_XII_DESC:0 "Pope Pius XII, formerly Cardinal Eugenio Pacelli, is a man of great spiritual fervour. He is renowned for his piety, but has a strong authoritarian streak that is matched only by his desire to protect the people."
-POLITICS_STEPHEN_X_DESC:0 "Pope Stephen X, formerly Cardinal Elia dalla Costa, is a gentle man renowned for his charitable nature and love of the poor. Most assume he will eventually turn the Papacy away from its direct rule of the nation, and already forces are gathering within the Papal State to determine who will undertake that role."
-POLITICS_JOHN_XXIII_DESC:0 "Pope John XXIII, formerly Cardinal Achille Liènart, is a controversial choice as Pope. He is a well-known socialist, considered by some to even be a radical, and it's possible he was chosen by the Papacy due to the possibility his socialist leanings will lead to a reconciliation with the north."
-POLITICS_JULIUS_IV_DESC:0 "Pope Julius IV, formerly Cardinal Alfredo Schuster, is a man renowned for his passion. He has been involved in the running of the Papal State for many years, and, as the former Archbishop of Milan, has declared syndicalism to be an evil he will battle until it is eradicated from the Earth."
-POLITICS_PIUS_XI_DESC:0 "Pope Pius XI, formerly Cardinal Achille Ratti, was elected to the Holy See in 1922, having spent most of the previous years as a papal representative in the newly re-established state of Poland, and was named a cardinal in 1921. Thus, he avoided most of the turmoil of the civil war and the danger that the Papacy underwent in its later stages. He was the first pope since the unification of Italy to give an ascension speech at Saint Peter's, as the practice has been abandoned during the 'Hostage Years' under the Savoyard monarchy. His papacy has been also marked by increasing tensions between factions in the Curia, and the troubled re-establishment of temporal authority."
-POLITICS_COLLEGE_CARDINALS_DESC:0 "While the conclave is in session, Carmelengo Eugenio Pacelli holds de facto administrative roles. however the Holy See is officially empty, and the Papal State thus lacks a Head of State formally. The conclave is usually a time consuming process that may set the State and the Church itself in a brand new path for decades to come."
+POLITICS_PIUS_XII_DESC:0 "추기경 에우제니오 파첼리였던 교황 비오 12세는 위대한 영적 열정을 가진 사람입니다. 그는 그의 경건함으로 유명하지만, 사람들을 보호하고자 하는 열망이 아주 강한 권위주의적 성향을 가지고 있습니다."
+POLITICS_STEPHEN_X_DESC:0 "추기경 엘리야 달라 코스타였던 교황 스테파노 10세는 자선의 본성과 가난한 이들에 대한 사랑으로 온화한 인물로 명성을 얻고 있습니다. 대부분은 그가 결국 교황을 국가의 직접 통치로부터 멀어지게 할 것이며, 이미 교황청 내에서 군대가 그 역할을 맡을지를 결정하기 위해 모일 것이라고 추측됩니다."
+POLITICS_JOHN_XXIII_DESC:0 "추기경 아실 리에나르였던 교황 요한 23세는 교황으로서 논란의 여지가 있는 인물입니다. 그는 급진주의자라고 여겨지는 유명한 사회주의자이며, 사회주의자들의 지지를 받아 북쪽과 화해하게 될 가능성 때문에 교황청에 의해 선택되었을 가능성이 있습니다."
+POLITICS_JULIUS_IV_DESC:0 "추기경 알프레도 슈스터였던 교황 율리오 4세는 그의 열정으로 유명한 사람입니다. 그는 수 년 동안 로마 교황청의 운영에 관여해왔습니다. 그가 밀라노 대주교였을 시절, 이미 그는 생디칼리슴이 지구에서 박멸 될 때까지 싸워야 할 악이라고 선언한 바 있습니다."
+POLITICS_PIUS_XI_DESC:0 "아킬레 라티 추기경은 1922년에 비오 11세 교황으로 선출되게 됩니다. 신생 폴란드국에서 교황청 대사로 일하던 아킬레 라티는 1921년에야 추기경으로 임명되었으며, 이탈리아 내전기와 교황령 성립 시기 동안에는 외국에서 근무했기 때문에 전란으로 야기된 각종 위기에서 벗어날 수 있었습니다. 그는 이탈리아 통일 이후로 계속되어왔던 사보이 군주제 하의 관행을 탈피하여 성 베드로 성당에서 취임사를 한 최초의 교황이기도 합니다. 그의 집권기 동안 교황청 내에서는 붕당정치가 태동하게 되었으며 세속적 권위의 재확립으로 인해 각종 문제점이 발생하게 되었다는 비난을 받기도 합니다."
+POLITICS_COLLEGE_CARDINALS_DESC:0 "콘클라베가 진행되는 동안에는 교황청 궁무처장인 에우제니오 파첼리가 교황의 권한대행을 맡게 됩니다. 권한대행 체제로 교황령이 운영되고 있기는 하지만 공식적으로는 성좌로 대표되는 국가원수 자리는 공석입니다. 어느 정도의 시간이 소요되는 콘클라베는 교회와 교황령 자체의 미래를 바꿀 수도 있을 것입니다."
 
 ### Ideas ###
 PAP_holy_see:0 "성좌"

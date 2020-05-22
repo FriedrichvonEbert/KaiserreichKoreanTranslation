@@ -30,9 +30,9 @@ PAN_coalition:0 "입헌연정"
 PAN_coalition_long:0 "입헌연정"
 
 ### Leaders ###
-POLITICS_JUAN_AROSEMENA_DESC:0 "Juan Arosemena, despite being politically liberal, is the leader of the Conservative faction of the Liberal party. He is popular among many Panamanians, even non-Liberals. Many see him as the only man who can lead Panama out of these trying times."
-POLITICS_HARMODIO_ARIAS_MADRID_DESC:0 "Harmodio Arias Madrid is the founder of the National Revolutionary Party. Alongside his brother, Arnulfo Arias Madrid, he has led the new government since the coup in 1931. He is popular among the people, despite not having the most experience in political matters. This has lead for some to say that his brother, Arnulfo, would be a more effective President."
-POLITICS_MANUEL_PINO_DESC:0 "Manuel Pino, the head of the National Police and it's underground political front 'Coalición Patriótica Nacional', has introduced many modernisations into the National Police and plans on evolving it into a true army now that he is the President. Politically, he is a wildcard. He is seen as an authoritarian brute by many in the public, but he may be willing to make a compromise with the democratic factions if it means he may stay in power..."
+POLITICS_JUAN_AROSEMENA_DESC:0 "후안 아로스메나는 정치적으로 진보적이지만 자유당 보수파의 당수입니다. 그는 많은 파나마인들, 심지어 비자유주의자들 사이에서도 인기가 많습니다. 많은 사람들은 그를 이러한 힘든 시기의 파나마를 이끌수 있는 유일한 사람으로 여깁니다."
+POLITICS_HARMODIO_ARIAS_MADRID_DESC:0 "하르모디오 아리아스 마드리드는 국가혁명당의 창당자입니다. 그는 동생 아르눌포 아리아스 마드리드와 함께 1931년 쿠데타 이후의 신정부를 이끌었습니다. 그는 정치 분야에서의 경험이 풍부하지는 않지만 국민들 사이에서는 인기가 많습니다. 왜냐하면 사람들은 그의 동생 아르눌포가 장차 더 훌륭한 대통령이 될 것이라고 말하기 때문입니다."
+POLITICS_MANUEL_PINO_DESC:0 "치안국장이면서 동시에 비밀 정치조직인 '애국동맹'의 수장인 마누엘 피노는 경찰 분야에 있어서 획기적인 현대화를 추구했고, 이제 막 대통령이 된 피노는 이렇게 확보한 경찰력을 진정한 군대로 탈바꿈시킨다는 구상을 가지고 있습니다. 정치적으로 전지전능한 그는 많은 이들에게는 권위주의적인 짐승으로 보여지고 있지만, 정권을 유지할 수만 있다면 그는 기꺼이 민주세력과 타협할 것입니다."
 
 ###Events
 panama.1.t:0 "파나마 현황"

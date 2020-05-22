@@ -25,7 +25,7 @@ EGY_national_populist_party:0 "국민이슬람당"
 EGY_national_populist_party_long:0 "국민이슬람당"
 
 ### Leaders ###
-POLITICS_FUAD_I_DESC:0 "Fuad ascended to the Egyptian throne amidst the turmoil of the Weltkrieg and growing nationalism bolstered by continued British defeats in Europe. When the British Revolution broke out, Egypt revolted in turn. Fuad co-opted the revolution, presenting himself as an ardent nationalist, and promulgated a system of government modelled on that of Germany.\nFuad's subsequent social and economic reforms have raised questions in Egyptian society about the very identity of the Egyptian people and its place in a region still dominated by the hated Turk. Perhaps the seeds of progress sewn by Fuad will lead to glory. Perhaps his successors may succeed where other rulers have failed and lead Egypt to its rightful place as the shield and sword of an at last liberated Arab people."
+POLITICS_FUAD_I_DESC:0 "푸아드는 세계대전의 혼란과 유럽에서 대영제국의 붕괴에 힘입어 민족주의가 커져가는 도중에 이집트 왕좌를 물려받았습니다. 영국에서 혁명이 일어나자 이집트는 바로 반란을 일으켰습니다. 푸아드는 혁명에 참가하여 스스로를 열렬한 민족주의자로 내세웠고, 독일을 본딴 정부체제를 공포했습니다.\n푸아드의 잇따른 사회적, 경제적 개혁은 이집트 사회 내에서 이집트 민족이란 무엇이며 증오스러운 투르크인이 지배하는 이 지역이란 과연 무엇인가라는 의문을 불러일으켰습니다. 어쩌면 푸아드가 심은 진보의 씨앗이 영광으로 이어질지도 모릅니다. 어쩌면 그의 후계자들이 이전 다른 통치자들의 실패를 딛고 성공을 거둬 아랍인을 해방하는 검과 방패라는 이집트가 정당히 취해야 했던 자리를 차지할지도 모릅니다."
 
 ### Tooltips ###
 royal_guard:0 "§G우리의 고귀한 술탄을 지키기 위한 새 왕실 근위 연대들을 창설할 것입니다.§!\n"

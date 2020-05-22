@@ -40,7 +40,7 @@ SRD_rad_socialist_party:0 "이탈리아 사회주의당"
 SRD_rad_socialist_party_long:0 "이탈리아 사회주의당"
 
 ### Leaders ###
-POLITICS_AMADEO_SAVOY_DESC:0 "Amedeo of Savoy-Aosta, cousin of the former King of Italy, Victor Emmanuel the Disgraced, is King of Sardinia-Piedmont. However, his title to Piedmont is little more than an empty claim, for he, and the remnants of the Royal Army who support him and fled the peninsula to join him, have lost Piedmont to the hated Socialist Republic of Italy. Closely aligned with National France, to the point claiming him to be a puppet would not be out of place, he sees not only Piedmont but all of Italy as under foreign occupation and seeks to liberate it, but he has also to deal with the ever contentious relationship between Exiles and Sardinians, both of whom question the uneasy balance that has established itself in Sardinia."
+POLITICS_AMADEO_SAVOY_DESC:0 "아메데오 디 사보이아오스타는 사르데냐-피에몬테의 국왕으로 실각한 전 이탈리아 국왕 빅토르 에마누엘레의 사촌입니다. 하지만, 피에몬테의 통치자라는 그의 직함은 공허한 것에 지나지 않는데, 그 까닭은, 그를 지지하는 왕국군이 본토를 떠나 사르데냐로 피신할 때 사회주의자들에게 피에몬테를 빼앗겼기 때문입니다. 국민 프랑스와 제휴한 그는 페탱의 꼭두각시라는 비판에도 불구하고 피에몬테뿐 아니라 이탈리아 전역을 외세의 압제에서 해방하고 싶어하나, 그는 또한 망명자들과 사르데냐 원주민 사이의 세력 불균형이 초래하는 갈등도 중재해야 하는 임무도 수행해야 합니다."
 
 ### Tooltips ###
 SRD_build_after_liberation:0 "피에몬테를 해방시킨 후 발전시킬 것입니다.\n\n"
