@@ -1,8 +1,8 @@
-﻿l_english:
-################################################################
+﻿################################################################
 # Sichuan Localisation                                         #
 # By Vidyaország, MantisToboggan, ReiVL, Blackleaf and Alpinia #
-################################################################한패오류로 인해 혹시 몰라 위치 조정됨
+################################################################
+l_english:
 
 ### Parties ###
 SZC_totalist_party:0 "국민당"
@@ -17,8 +17,8 @@ SZC_social_liberal_party:0 "장교부"
 SZC_social_liberal_party_long:0 "장교부 (Junguan Xi)                           §L장교부는 1931년 탕지야오가 사천을 침략한 이래로 나타난 정치 세력입니다. 공화주의자 장교들로 이루어진 이들은 운남군벌 아래로 편입되어 양썬의 정통성을 약화시키기 위한 대립 사천 정부로 재수립되었습니다. 탕지야오의 침략이 실패로 끝나고 장교들이 소규모 게릴라군이 되어 숨어들어갔지만 장교부의 극단주의적인 정치적 성향까지 사라진건 아닙니다.     탕지야오가 개인적으로 뽑은 장교부 지휘관은 전직 사천 총독으로 신해혁명동안 지역을 다스렸던 늙은 동지 슝커우였습니다. 슝커우와 탕지야오는 많은 정치적 이념을 공유했는데, 특히 연방주의에 대한 시각에서는 공통점을 보였습니다. 하지만 슝커우는 독립적인 성향을 가지고 있기 때문에 운남의 만연한 영향력에서 벗어나 장교부를 스스로 좌우하고자 합니다. 결국 그는 오랜 친구들 뿐만 아니라 루차오나 다른 선배 장교들과 같은 적들과도 손을 잡아 탕지야오로부터 자유로운 정치적 기반을 수립해냈습니다.§!"
 SZC_market_liberal_party:0 "바오딩파"
 SZC_market_liberal_party_long:0 "바오딩파 (Baoding Xi)                           §L이름에서도 알 수 있듯이 바오딩파는 사천 출신이거나 사천에 정착한 바오딩 육군군관학교 졸업생들과 바오딩군 장교들로 이루어져 있습니다. 그들이 정치적으로 자유롭고 재정상의 책임이 있다고 여겨지는 반면, 바오딩파는 양썬 정부에 계속해서 간섭할 뿐만 아니라 파당정치와 족벌주의로 유명세를 얻기도 했습니다. 악명높은 산업군단의 지도라 류샹의 삼촌 류원후이는 원로 장교들의 자유주의적 정치성향을 대표적으로 드러내는 인물이며, 정부 내에서 자유방임주의적 성향을 견지합니다. 그는 사천에서 아편 생산과 대외 정책 영향력만을 본인이 소유할 수 있다면 파벌 내의 학력이 높고 의도가 좋은 진보주의자들에게 이념적 기반을 기꺼이 내놓을 겁니다. 비록 이로 인해 일부 극단적 개혁이 이루어졌지만, 일각에서는 원후이의 탐욕과 야심으로 인해 궁극적으로는 사천의 잠재력을 발현하는데 방해가 되리라고 생각합니다.§!"
-SZC_social_conservative_party:0 "바오딩파"
-SZC_social_conservative_party_long:0 "바오딩파 (Baoding Xi)                           §이름에서도 알 수 있듯이 바오딩파는 사천 출신이거나 사천에 정착한 바오딩 육군군관학교 졸업생들과 바오딩군 장교들로 이루어져 있습니다. 그들이 정치적으로 자유롭고 재정상의 책임이 있다고 여겨지는 반면, 바오딩파는 양썬 정부에 계속해서 간섭할 뿐만 아니라 파당정치와 족벌주의로 유명세를 얻기도 했습니다. 바오딩파 내의 덩시허우 파벌은 상당히 이상주의적이며 현실을 직시하고 이상은 입에 발린 말으로만 사용하는 동료들과 달리 진정한 개혁의 가능성을 믿습니다. 덩시허우의 이름은 그가 입안한  "모범지역계획"으로 인해 재정적 책임자와 거의 동일시되었습니다. 이런 인상적인 개혁을 시행하기 위해 덩시허우는 사천에서 확장된 연결망을 구축하여 경제 발전 부분에만 국한되지 않고 정부군 내에서까지 엄청난 영향력을 미치게 되었습니다.§!"
+SZC_social_conservative_party:0 "Baoding Department"
+SZC_social_conservative_party_long:0 "Baoding Department (Baoding Xi)                           §LAs its name implies, the Baoding Department was formed by graduates of the Baoding military academy and officers of the Baoding army, who either originated in Sichuan or found themselves stationed in the province. Although they are considered politically liberal and fiscally responsible, the Baoding Department has earned a reputation for favouritism and nepotism, as well as frequently interfering with Yang Sen’s government. Deng Xihou’s faction within the Baoding Department is quite idealistic and believes in implementing genuine reforms, unlike some of his more pragmatic peers which merely pay lip service to these ideals. Deng’s name is almost synonymous with fiscal responsibility thanks to his “Model Province Project”. To implement these impressive reforms he has built up extensives connections in the Sichuan, allowing him to greatly influence the government’s military as well as economic developments.§!"
 SZC_authoritarian_democrat_party:0 "군비파"
 SZC_authoritarian_democrat_party_long:0 "군비파 (Wubei Xi)                           §L양썬이 직예군벌의 지원을 받아 정당한 쓰촨의 지배자로 군림했던 반년간 군비파는 명예를 누렸습니다. 하지만 용맹하고 교활한 장군 양썬도 자신의 통제력이 서서히 약해지고 있다는 사실을 눈치챘습니다. 운남군벌의 사천 침략은 양썬의 권위를 무너트릴 마지막 사건이었고, 그 이후로 사천 대부분 지역이 군벌과 극단주의자의 손 안에 떨어졌습니다. 군비파는 이런 재앙과도 같은 상황 속에서도 살아남기 위해 적응하는 수 밖에 없었고, 마지못해 유력 군벌들을 몇명 정부에 합류해달라고 초청하기에 이르렀습니다.                                                       이후로 양썬은 사천에서 권위를 되찾기 위해 안간힘을 썼으나, 새로 등장한 대담한 군벌들은 말할 것도 없고 유교 장군 류춘허우나 도적 진압군 대장 톈쑹야오 같은 군벌 내 기회주의자들의 견제도 동시에 받는 중입니다. 군비파 인사 대부분은 양썬이 거의 사라지기 직전의 중앙집권화까지 실패한 이 정권을 언제까지나 유지시킬 수 없다고 의심합니다. 심지어 군비파 장군 대다수는 양썬이 군벌으로서 통치를 이번 임기를 끝으로 넘기거나 아니면 류춘허우같은 더 공격적인 지도자에게 자리를 넘기기를 바라고 있습니다. 하지만 선동가들이 그들을 선동하지만 않는다면 장군들은 양썬의 뒤를 계속 따를 겁니다.§!"
 SZC_paternal_autocrat_party:0 "산업군단"
