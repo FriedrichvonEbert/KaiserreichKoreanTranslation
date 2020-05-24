@@ -236,7 +236,7 @@ worldnews.62.d.centenary1:0 "With their recent victory in the South African 1938
 worldnews.62.d.centenary2:0 "With their recent victory in the South African 1938 elections, it was assumed the Dominion Party under President Jan Smuts had finally united the nation and ended the question of the country's future. Widespread violence which broke out at the country's centenary celebrations have spread throughout the country, however, culminating today as leaders in Pretoria and Bloemfontein declared their secession from the Union and the creation of the Zuid-Afrikaansche Republiek. Battle lines have already been drawny, splitting the country in two, as a new Boer War has broken out to determine South Africa's path once and for all."
 worldnews.62.a:0 "참혹한 상황이군..."
 
-worldnews.63.t:0 "남아프리카에서 자치당이 승리하다"
+worldnews.63.t:0 "남아프리카에서 자치령당이 승리하다"
 worldnews.63.d:0 "The civil war that has been ravaging South Africa has been bloody and bitter, dividing across ethnicities, political ideology and ancestry. The Dominionists fought to defend the Cape, while the Afrikaners drove furiously towards the sea.\n\nAs the dust settles, the Dominionists seem to have come ahead, with the troops of the Dominionists standing victorious after a decisive push on Pretoria. South Africa now looks outward towards the Entente.."
 worldnews.63.a:0 "흥미롭군."
 
@@ -249,11 +249,11 @@ worldnews.65.d:0 "세계대전에서의 비참한 패배 이후, 루마니아 �
 worldnews.65.a:0 "어쨌거나 유전에 대해서는 별로 좋지 못한 상황이군."
 
 worldnews.66.t:0 "에리트레아 봉기!"
-worldnews.66.d:0 "Ethiopia's only gain in the Weltkrieg, the prized coastal possession of Eritrea is now in open revolt! Disgruntled by oppression, disrespect, over taxation, and now war, the oppressed Muslim and Christian forces of the nation have rallied under one flag, and wish to free their country. The Emperor of Abssynia has already reacted with outrage, and the Eritrean War of Independence has begun!\n\nAs all the pieces are set in the table, the region watches closely; will this be the chance Somalia needs in this time of war to seize victory? Will Abssynia manage to keep its only coastal port, or will the bravery of the outrageous rebels prevail?"
+worldnews.66.d:0 "에티오피아의 세계대전에서의 유일한 소득이며 소중한 해안 지대인 에리트레아는 이제 노골적인 반란에 돌입했습니다. 억압당하고, 무시받고, 과중한 세금을 부여받고 이제는 전쟁까지 끌려가면서 탄압받아온 무슬림과 기독교 군대는 하나의 깃발 아래에 모여 자신의 나라에 자유를 원합니다. 아비시니아의 황제는 이미 분노를 표했고 에리트레아 독립 전쟁이 시작되었습니다!\n\n상황이 이렇게 되자 이 지역은 큰 관심을 끌고 있습니다. 이 사건이 최근의 전쟁에서 소말리아가 승리를 거두기 위해 필요로 하던 그 기회가 될 수 있을까요? 아비시니아는 자신의 유일한 해안지대를 사수할 수 있을까요? 아니면 분노한 반군의 용맹함이 승리할까요?"
 worldnews.66.a:0 "시간이 해결해줄 것이다."
 
 worldnews.67.t:0 "비오 11세의 선종"
-worldnews.67.d:0 "모든 기독교인들은 지난 몇 년 동안 쇠약해져 결국 심장 마비로 사망한 교황 비오 11세의 죽음을 애도합니다. 다른 전임자들과 마찬가지로 성부께서는 곧 교황의 묘소에 매장될 것입니다. 다음 교황이 선출될 때까지 교황청은 로마의 추기경단에 의해 통치될 것입니다. 재탄생한 천주교회가 직접 통치하는 교황청 역시 다시 한번 더 이탈리아 반도의 통일을 추구하는 생디칼리슴에 대한 격렬한 반대 때문에라도 교황 성하의 승계는 중요한 과제입니다."
+worldnews.67.d:0 "모든 기독교인들은 지난 몇 년 동안 쇠약해져 결국 심장 마비로 사망한 교황 비오 11세의 죽음을 애도합니다. 다른 전임자들과 마찬가지로 성하께서는 곧 교황의 묘소에 매장될 것입니다. 다음 교황이 선출될 때까지 교황청은 로마의 추기경단에 의해 통치될 것입니다. 재탄생한 천주교회가 직접 통치하는 교황청 역시 다시 한번 더 이탈리아 반도의 통일을 추구하는 생디칼리슴에 대한 격렬한 반대 때문에라도 교황 성하의 승계는 중요한 과제입니다."
 worldnews.67.a:0 "세상에.."
 
 worldnews.70.t:0 "이탈리아 선거에서 승리한 이탈리아 국민연합"
@@ -922,7 +922,7 @@ worldnews.224.a:0 "행운을 빕니다, 성하."
 worldnews.224.b:0 "최소한 자기 분수는 아는 자다."
 
 worldnews.225.t:0 "'사회주의자 교황' 요한 23세"
-worldnews.225.d:0 "로마에 있는 가톨릭 신자들은 시스티나 성당의 굴뚝에서 새 교황이 당선되었다고 알리는 흰 연기가 뿜어져 나오자 안도의 한숨을 내쉬었습니다. 잠시 후, 다름아니라 악명높은 '사회주의자 추기경'인 아킬레스 리나르트가 가톨릭 교회의 수장이자 교황령의 지배자인 교황 요한 23세로 선출되었다는 발표가 나왔습니다. 많은 이들은 새로운 교황 선거로 인해 생디칼리슴에 대한 교회의 반대가 줄어들고 심지어 [SRI.GetNameDef](와)과 새로운 관계를 수립할지도 모른다고 예상합니다."
+worldnews.225.d:0 "로마에 있는 가톨릭 신자들은 시스티나 성당의 굴뚝에서 새 교황이 당선되었다고 알리는 흰 연기가 뿜어져 나오자 안도의 한숨을 내쉬었습니다. 잠시 후, 다름아니라 악명높은 '사회주의자 추기경'인 아실 리에나르가 가톨릭 교회의 수장이자 교황령의 지배자인 교황 요한 23세로 선출되었다는 발표가 나왔습니다. 많은 이들은 새로운 교황 선거로 인해 생디칼리슴에 대한 교회의 반대가 줄어들고 심지어 [SRI.GetNameDef](와)과 새로운 관계를 수립할지도 모른다고 예상합니다."
 worldnews.225.a:0 "행운을 빕니다, 성하."
 worldnews.225.b:0 "흥미로운 전개인데."
 
@@ -952,7 +952,7 @@ worldnews.230.a:0 "황제 폐하를 위하여!"
 worldnews.230.b:0 "아시아에서의 독일 질서는 여전히 유지될지도 모른다."
 
 worldnews.231.t:0 "황제의 쿠데타"
-worldnews.231.d:0 "자세한 내용은 불분명하지만, 오늘 아침 자금성에서 쿠데타로 추정되는 사건 이후, 푸이 황제는 유명한 군주주의자들인 그의 동생 푸제와 전 직예 장군 Li Bingzhi를 옆에 대동하고 나타났습니다.\n\n\"황제 폐하는 방금 직예 쥐새끼들의 암살 시도를 회피하셨다!\" 푸이가 침착하게 서있을 때 - 혹은 공포로 마비된 채 서있을 때 친왕이 한 무리의 기자들에게 큰소리로 선언하였습니다. \"우페이푸와 그의 독일 하수인들이 지난 30년 동안 우리나라를 오염시켜 왔다! 직예군벌에 죽음을!\" 몇 분 후, 우페이푸와 차오쿤의 생기 없는 시체가 거리로 내동댕이쳐졌고, 카이저에게 분노한 군중들에 의해 갈기갈기 찢겼습니다."
+worldnews.231.d:0 "자세한 내용은 불분명하지만, 오늘 아침 자금성에서 쿠데타로 추정되는 사건 이후, 푸이 황제는 유명한 군주주의자들인 그의 동생 푸제와 전 직예 장군 리빙즈를 옆에 대동하고 나타났습니다.\n\n\"황제 폐하는 방금 직예 쥐새끼들의 암살 시도를 회피하셨다!\" 푸이가 침착하게 서있을 때 - 혹은 공포로 마비된 채 서있을 때 친왕이 한 무리의 기자들에게 큰소리로 선언하였습니다. \"우페이푸와 그의 독일 하수인들이 지난 30년 동안 우리나라를 오염시켜 왔다! 직예군벌에 죽음을!\" 몇 분 후, 우페이푸와 차오쿤의 생기 없는 시체가 거리로 내동댕이쳐졌고, 카이저에게 분노한 군중들에 의해 갈기갈기 찢겼습니다."
 worldnews.231.a:0 "황제 폐하 만세!"
 worldnews.231.b:0 "중국에서 또 쿠데타라고?"
 
