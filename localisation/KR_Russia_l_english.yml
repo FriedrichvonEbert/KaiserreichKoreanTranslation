@@ -21,7 +21,7 @@ RUS_political_instability:0 "정치적 불안정"
 RUS_unruly_military:0 "불안정한 군대"
 
 RUS_economic_depression:0 "경제 대공황"
-RUS_supreme_economic_council:0 "최고경제위원회" #Verkhovny Ekonomicheskiy Sovet"
+RUS_supreme_economic_council:0 "최고경제위원회" #Verkhovny Ekonomicheskiy Sovet
 RUS_new_zemstva:0 "새로운 젬스트보"
 RUS_minprom:0 "민프롬"
 RUS_cooperative_capitalism:0 "협동자본주의"
@@ -987,7 +987,7 @@ rusd.16.d:0 "[RUS_clashes_state.GetName]의 노동자들이 민병대를 조직�
 rusd.16.a:0 "젠장!"
 
 rusd.38.t:0 "정교회의 지위"
-rusd.38.d:0 "Article 5 of the Constitution of the Russian Republic states that 'Russia is henceforth a state in which no faith or belief can have privileges and rights which other faiths do not share, and religion does not have a say in government'. For a country which, up to that point, was built upon the Russian Orthodox Church, this was a rather shocking change in policy which many people could not agree with. In 1927, the Church saw a new Patriarch rise - Kirill, who has since been vehement in his crusade to amend the Fifth Article and grant the Church a prestigious status in the Russian republic. Now that Kerenskiy is gone and new people are in charge, he has officially petitioned the government to amend the Constitution and elevate the Church to the status of a state religion."
+rusd.38.d:0 "러시아 공화국 헌법 제5조는 '따라서 러시아 국가에서는 어떤 신앙이나 신념도 다른 신앙이 가지지 못하는 특권이나 권리를 가질 수 없고, 종교는 정부 내에서 발언할 수 없다'고 명시하고 있습니다. 이 조항은 여태까지 러시아 정교회라는 기반 위에 세워진 나라에서는 많은 사람들이 동의할 수 없는 충격적인 정책 변화입니다. 1927년, 교회에 새로운 총대주교가 등극했습니다. 그는 헌법 제5조를 개정하고 러시아 공화국 내에서 교회에 명예로운 위치를 부여하기 위한 십자군에 격렬히 참가하는 키릴입니다. 이제 케렌스키가 죽고 새로운 사람들이 국정을 관리하고 있으니, 그는 공식적으로 정부에 헌법을 개정하고 교회를 국교로 승격시켜 달라고 청원했습니다."
 rusd.38.a:0 "제5조를 폐지하자."
 rusd.38.b:0 "러시아는 세속국가로 남을 것이다!"
 rusd.38.c:0 "5조 폐지로 충분하지 않다..."
