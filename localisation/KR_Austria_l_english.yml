@@ -668,13 +668,13 @@ austria.106.t:0 "오스트리아의 지원"
 austria.106.d:0 "오늘, 오스트리아의 지원이 우리에게 도착했습니다. 그들은 적을 물리치기 위해 우리에게 군대와 무기를 보냈습니다."
 austria.106.a:0 "하나님 감사합니다."
 
-austria.107.t:0 "Naples Accepts"
-austria.107.d:0 "The Kingdom of the Two Sicilies has, surprisingly, accepted our offer of friendship, even though we abandoned them in 1926. However, now that they have proven receptive once again to their rightful protector and ally, we shall be sure to never fail them again!"
-austria.107.a:0 "We won't fail you again."
+austria.107.t:0 "나폴리가 수락했다"
+austria.107.d:0 "양시칠리아 왕국은 놀랍게도 우리가 1926년에 그들을 배신했음에도 불구하고 우리의 우정 제의를 받아들였습니다. 이제 우리는 그들의 정당한 보호자이자 동맹이니, 우리는 두번 다시는 그들을 버리지 않을 것입니다!"
+austria.107.a:0 "두번은 실패하지 않겠다."
 
-austria.108.t:0 "The Bourbons Refuse"
-austria.108.d:0 "Angry at our last betrayal and openly doubting the usefulness of our friendship, the Sicilian ambassador has informed our government that there is to be no deal between Naples and Vienna. We must rely on Milan and Venice for an Italian ally."
-austria.108.a:0 "Damn."
+austria.108.t:0 "부르봉이 거절했다"
+austria.108.d:0 "최근 우리의 배신에 분노하여 공개적으로 양국 우정의 재검토를 선언했던 시칠리아 대사는 우리 정부에 나폴리와 비엔나 사이에 거래는 더이상 없을 것이라고 통보했습니다. 이탈리아의 동맹으론 밀라노와 베니스 정도밖에 남지 않았습니다."
+austria.108.a:0 "망할."
 
 #############################
 ### THE AUSGLEICH OF 1937 ###
@@ -867,9 +867,9 @@ ausgleich.new.332.d_claims:0 ""
 ausgleich.new.332.a:0 "그들에게 귀중한 교훈을 주었을 것이다."
 ausgleich.new.332.b:0 "좋아."
 
-ausgleich.new.333.t:0 "[FROM.GetNameDefCap] Rebels!"
-ausgleich.new.333.d:0 "Incensed by our betrayal of the weaker member states of our Empire, [FROM.GetName] has revolted against us! However, the K.u.k. Kriegsminister assures us that Austria and Hungary combined should prove easily victorious."
-ausgleich.new.333.a:0 "How dare they!"
+ausgleich.new.333.t:0 "[FROM.GetNameDefCap] 반군!"
+ausgleich.new.333.d:0 "제국의 약소 회원국들에 대한 우리의 배신에 격분하여, [FROM.GetName](은)는 우리에 대항해 반란을 일으켰습니다! 그러나 전쟁장관은 오스트리아와 헝가리가 힘을 합치면 그들을 쉽게 제압할 수 있을 것이라고 자신했습니다."
+ausgleich.new.333.a:0 "그들이 감히!"
 
 ausgleich.new.340.t:0 "[AUS_ausgleich_demonstrations] 민족주의"
 ausgleich.new.340.d:0 "대타협 재협상 동안 빈의 황제 폐하와 내각의 지원에 고무되어, [AUS_ausgleich_demonstrations] 반대 시위 행렬은 거리를 행진하고 있습니다. 그들은 친오스트리아적이며, 동시에 반헝가리적인 시위대입니다."
