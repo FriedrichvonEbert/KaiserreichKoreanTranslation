@@ -31,9 +31,9 @@ POLITICS_REVOLUTIONARY_COUNCIL_DESC:0 "중앙아메리카가 마침내 재통일
 
 ### Decisions ###
 annexation_CEN_CONQ:0 "중앙 아메리카의 운명"
-annexation_CEN_CONQ_desc:0 "중앙아메리카 사람들을 어떻게 할지 결정해야 합니다"
+annexation_CEN_CONQ_desc:0 "중앙아메리카 사람들을 어떻게 할지 결정해야 합니다."
 annexation_CEN_CONQ2:0 "중앙 아메리카의 운명"
-annexation_CEN_CONQ2_desc:0 "중앙아메리카 사람들을 어떻게 할지 결정해야 합니다"
+annexation_CEN_CONQ2_desc:0 "중앙아메리카 사람들을 어떻게 할지 결정해야 합니다."
 CEN_panama_grant:0 "Grant [CEN.GetNameDefCap] [PAN.GetAdjective] land"
 CEN_panama_grant_desc:0 "We must decide whether to grant [CEN.GetNameDefCap] [PAN.GetAdjective] land"
 CEN_costa_grant:0 "Grant [CEN.GetNameDefCap] [COS.GetAdjective] land"
