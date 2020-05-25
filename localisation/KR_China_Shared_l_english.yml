@@ -104,7 +104,7 @@ china_shared.5.d:0 "[From.GetNameDef](은)는 타당한 이유도 없이 통일�
 china_shared.5.a:0 "반역이다!"
 
 china_shared.6.t:0 "[current_china_leader.GetNameDefCap](이)가 휴전을 요청하다"
-china_shared.6.d:0 "With [From.GetNameDef] joining the United Front, [current_china_leader.GetNameDef], has offered to broker a ceasefire between [From.GetNameDef] and our regime, solely in the national interest, until such a time as the Japanese invasion is halted. 하지만 이 협정은 양측간의 모든 점령지를 반환해야 한다는 조건을 달고 있습니다."
+china_shared.6.d:0 "[From.GetNameDef]이(가) 통일전선에 참가하면서, [current_china_leader.GetNameDef]은(는) 중국의 이익을 위해 일본의 침략이 멈출 때까지 우리 정부와 [From.GetNameDef] 간 전쟁을 멈추고 정전 협정의 중개국이 되겠다고 나섰습니다. 하지만 이 협정은 양측간의 모든 점령지를 반환해야 한다는 조건을 달고 있습니다."
 china_shared.6.a:0 "그래. 지금 당장은."
 china_shared.6.b:0 "절대로 저들과 함께 싸울 수는 없다!"
 
@@ -129,7 +129,7 @@ china_shared.11.d:0 "일본과의 전쟁이 끝을 향해 나아가면서, 수�
 china_shared.11.a:0 "통일로 가기 전 마지막 장애물이로군."
 
 china_shared.12.t:0 "[FROM.GetNameDefCap](이)가 통일전선을 떠나다"
-china_shared.12.d:0 "[FROM.GetNameDefCap] has left the United Front, decrying the alliance as now 'unnecessary' and 'limiting' to their needs and ambitions."
+china_shared.12.d:0 "[FROM.GetNameDefCap]은(는) 동맹이 이제 '불필요'하고 그들의 요구와 야망을 '제한'한다고 비난하며 통일전선을 떠났습니다."
 china_shared.12.a:0 "So much for unity."
 
 china_shared.13.t:0 "중화통일전선 출범"
@@ -143,9 +143,9 @@ china_shared.13.c:0 "반자이(만세)!"
 china_shared.13.e:0 "흥미롭군."
 
 china_shared.14.t:0 "통일전선 붕괴"
-china_shared.14.d.CHI:0 "In retrospect, the collapse of the United Front appears to have been inevitable. As a fish cannot leave the water, nor could the Front survive devoid of desperation. However, for some time, the whole of China was united behind a single purpose, marching in step toward a shared goal. Even as the dark clouds of civil war loom, there is now a shining example of what could be, and perhaps what will be, once again." #Chinese POV
-china_shared.14.d.JAP:0 "It seems that the Chinese United Front, always beset by internal squabbling, has finally collapsed in the absence of our once overwhelming military might. Amid these days of reflection on what we might have been, an indomitable giant standing astride all of Asia, here is further proof of the dangers of western imperialism. We may have been defeated by China, but at least we remain united as one nation, beneath His Majesty the Emperor. Our destiny is still our own." #Japanese POV
-china_shared.14.d.others:0 "The Chinese United Front, always beset by internal partisan squabbling, has finally dissolved in the absence of Japan's once overwhelming threat to its independence. The whole nation now seems set to plunge again into the fires of civil war which have consumed it, almost uninterrupted, for a generation. For many in the coastal cities and outside China this is hardly unexpected news, as the nation's tumults have  been regulars on broadsheet pages, but many experts will be paying close attention over the next several months. This round of conflict may well be China's last, as the playing-field has narrowed considerably." #Foreign POV
+china_shared.14.d.CHI:0 "돌이켜 보면 통일전선의 붕괴는 불가피한 것으로 보입니다. 물고기가 물을 떠나 살 수 없듯이 통일전선은 절망없이는 이어질 수 없습니다. 그러나 한동안 중국 전체가 단일 목표를 달성하고 공동의 목표를 향해 나아가고 있었습니다. 내전의 먹구름이 드리워 지더라도 이제는 무엇이 될 수 있고 또 무엇이 될지에 대한 빛나는 예가 있습니다." #Chinese POV
+china_shared.14.d.JAP:0 "내부 분쟁으로 인해 항상 혼란에 빠져있는 중국 통일전선은 한때 압도적이었던 우리 군사력의 부재로 인해 마침내 무너진 것 같습니다. 우리가 아시아 전역에 걸터있는 불굴의 거인이 될 수 있었을지 반성하는 시간 가운데, 이것은 서구 제국주의의 위험에 대한 추가적인 증거입니다. 우리는 중국에 의해 패배했을지도 모르지만, 적어도 우리는 천황 폐하 아래 한 나라로 뭉쳐 있습니다. 우리의 운명은 여전히 우리 자신의 것입니다." #Japanese POV
+china_shared.14.d.others:0 "항상 내부 당파적인 논쟁에 빠져있는 중국 통일전선은 한때 압도적이어서 중국의 독립을 위협했던 일본 군사력의 부재로 인해 마침내 무너졌습니다. 중국은 이제 한 세대 동안 멈추지 않았던 내전의 불길에 다시 뛰어들 것으로 보입니다. 중국의 격동은 역사적으로 늘상 이루어 졌기 때문에 해안 도시와 중국 외 지역의 많은 사람들에게 예상치 못한 소식은 아니지만, 많은 전문가들은 앞으로 몇 개월 동안 세심한 주의를 기울일 것입니다. 경기장이 상당히 좁아짐에 따라 이번 라운드는 중국의 마지막 경기일 것입니다." #Foreign POV
 china_shared.14.a:0 "흥미롭군." #Chinese POV
 china_shared.14.b:0 "흥미롭군." #Japanese POV
 china_shared.14.c:0 "흥미롭군." #Foreign POV
