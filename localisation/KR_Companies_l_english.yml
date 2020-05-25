@@ -7,6 +7,7 @@ generic_arms_company:0 "일반 총기 제조사"
 generic_tank_company:0 "일반 전차 제조사"
 generic_fighter_company:0 "일반 항공기 제조사"
 generic_artillery_company:0 "일반 대포 제조사"
+generic_car_company:0 "일반 차량 제조사"
 generic_industrial_company:0 "일반 산업 회사"
 generic_naval_company:0 "일반 선박 제조사"
 
@@ -918,6 +919,7 @@ cammell_laird:0 "캠멜 레어드 노조"
 
 ### United Baltic Duchy ###
 baltische_schieferol_konsortium:0 "Baltisches Schieferöl-Konsortium"
+funktechnische_fabrik_reval:0 "Funktechnische Fabrik Reval"
 arsenal_tallinn:0 "아스널 탈린"
 vairogs:0 "바이록스"
 rigas_autobusu_fabrika:0 "Rīgas Autobusu Fabrika"
