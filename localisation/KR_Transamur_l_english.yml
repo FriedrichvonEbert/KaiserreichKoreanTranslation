@@ -871,11 +871,14 @@ TRM_russian_integaration_desc:0 "우리의 이전 영토로의 확장을 통해 
 TRM_integrate_baikal:0 "바이칼 지역 통합"
 TRM_integrate_baikal_desc:0 "다음 지역을 핵심 주로 갖습니다:"
 
-TRM_integrate_railway:0 "시베이아 횡단 철도 통합"
+TRM_integrate_railway:0 "시베리아 횡단 철도 통합"
 TRM_integrate_railway_desc:0 "다음 지역을 핵심 주로 갖습니다:"
 
 TRM_integrate_siberia:0 "시베리아 지역 통합"
 TRM_integrate_siberia_desc:0 "다음 지역을 핵심 주로 갖습니다:"
+
+TRM_Leave_Japan:0 "Breakway from the Japanese's Control"
+TRM_Leave_Japan_desc:0 "§RWhile this will finally allows us to finally dictate our own fate, doing so may have dire consequences!§"
 
 ### Cosmetic Tags ###
 TRM_FE_totalist:0 "극동 연방"
