@@ -903,6 +903,19 @@ finland.128.t:0 "프레드릭 카를레 1세의 붕어"
 finland.128.d:0 "우리의 사랑하는 왕 프레드릭 카를레 1세는 72세의 나이로 대전쟁에서 생긴 상처가 악화되어 세상을 떠났습니다. 그의 생존한 둘째 아들 볼프강 왕자가 1919년 독일에 남겠다는 그의 형을 대신하여 핀란드 왕자로 아버지와 함께 왔을 때 합의했던 대로 헬싱키 성당에서 열린 대관식에서 베이뇌 1세로 즉위하게 되었습니다."
 finland.128.a:0 "선왕께서 승하하셨다! 국왕 폐하 만세!"
 
+finland.130.t:0 "Finland and the Reichspakt"
+finland.130.d:0 "Finland has unofficially been allied with Germany since 1917, and they have been part of Mitteleuropa ever since. However, now that they have stabilized their government, their membership in the Reichspakt should be renewed."
+finland.130.a:0 "Welcome back!"
+finland.130.b:0 "We have no need of the Finns."
+
+finland.131.t:0 "Germany Rejects Us"
+finland.131.d:0 "The Germans have refused to renew our alliance in the Reichspakt! This is extremely unexpected and worrying."
+finland.131.a:0 "What's going on in Berlin, anyway?"
+
+finland.132.t:0 "Germany Renews Our Alliance"
+finland.132.d:0 "The German Foreign Office, observing that we have stabilized our government after a period of upheaval, has re-extended the hand of friendship to our nation. We are part of the Reichspakt once more."
+finland.132.a:0 "Our security is assured.
+
 ### Ideas ###
 FIN_mounting_dissent_idea:0 "커져가는 불화"
 FIN_mounting_dissent_idea_desc:0 "핀란드 국민들은 러시아 내전에서 백군의 승리에 이어 1918년에 핀란드 왕국이 건국된 이후, 전국적으로 독일의 영향력이 빠르게 전파되는 것을 보았습니다. 여러 조약들, 민간부문의 독일계 기업들, 독일제 무기, 그리고 독일계 혈통인 우리나라의 국왕을 통해 독일의 영향력을 볼 수 있습니다. 그 결과, 핀란드 국민들은 독일의 막강한 힘이 핀란드를 더욱 잠식해가고 있다는 것에 대해 서서히 분개하였으며, 언젠가는 이 분노가 끓어넘치게 될 것입니다."
