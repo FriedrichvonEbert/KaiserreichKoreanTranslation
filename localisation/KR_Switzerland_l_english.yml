@@ -276,6 +276,10 @@ SWI_old_generals_desc:0 "While the vast majority of the 'Old Guard' has fled to 
 SWI_new_officers_desc:0 "Our french allies have generously provided their support in training new officers for our military. With their support, we can rebuild the strong leadership our army has always depended on."
 SWI_swiss_liberators_desc:0 "Our people fought valiantly for the revolution, and it is now time to turn that fighting spirit towards our borders. The imperialist threat is greater than ever, and we will have to fight to defend our freedom."
 
+### Tooltips ###
+SWI_has_eugen_bircher:0 "Has unit leader §HEugen Bircher§!"
+SWI_has_henri_guisan:0 "Has unit leader §HHenri Guisan§!"
+
 ### Ideas ###
 SWI_national_defense1:0 "Geistige Landesverteidigung"
 SWI_national_defense2:0 "Geistige Landesverteidigung"
