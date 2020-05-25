@@ -42,7 +42,7 @@ kr_nominal_puppet:0 "명목상 괴뢰국"
 kr_special_autonomous_dependency:0 "자치 속국"
 kr_initial_wif_puppet:0 "연합된 식민지"
 kr_soclib_wif_puppet:0 "연합된 자치령"
-kr_ottoman_emirate:0 "오스만의 토후국" #Ottoman Emirate
+kr_ottoman_emirate:0 "오스만 토후국" #Ottoman Emirate
 
 ### Autonomy Tooltips ###
 can_lower_autonomy_level:0 "자치도를 낮출 수 있습니다\n"
@@ -250,7 +250,7 @@ syndicalist_asia_per:0 "아시아 사회주의 연합" #Asian Socialist Union
 Syndicalist_Internationale:0 "생디칼리스트 인터내셔널" #Syndicalist International
 Third_International:0 "제3인터내셔널" #Third International
 united_front_faction:0 "중화통일전선" #Chinese United Front
-yunnan_R_KMT_faction:0 "남부 국민당 연합" #Southern Nationalist Group
+yunnan_R_KMT_faction:0 "화남국민당연합" #Southern Nationalist Group
 
 ### Custom Triggers ###
 had_war:0 "전쟁에서 싸운적이 있음"
