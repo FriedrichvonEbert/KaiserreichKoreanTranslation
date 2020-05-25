@@ -2,9 +2,7 @@ do_arab_renames_in_middle_east = {
 	if = {
 		limit = {
 			state = 291
-			NOT = {
-				has_state_flag = renamed_state_arabic
-			}
+			NOT = { has_state_flag = renamed_state_arabic }
 		}
 		set_state_name = "바그다드"
 		set_state_flag = renamed_state_arabic
@@ -16,9 +14,7 @@ do_arab_renames_in_middle_east = {
 	else_if = {
 		limit = {
 			state = 344
-			NOT = {
-				has_state_flag = renamed_state_arabic
-			}
+			NOT = { has_state_flag = renamed_state_arabic }
 		}
 		set_state_flag = renamed_state_arabic
 		set_province_name = {
@@ -29,9 +25,7 @@ do_arab_renames_in_middle_east = {
 	else_if = {
 		limit = {
 			state = 454
-			NOT = {
-				has_state_flag = renamed_state_arabic
-			}
+			NOT = { has_state_flag = renamed_state_arabic }
 		}
 		set_state_name = "알 쿠드스"
 		set_state_flag = renamed_state_arabic
@@ -43,9 +37,7 @@ do_arab_renames_in_middle_east = {
 	else_if = {
 		limit = {
 			state = 554
-			NOT = {
-				has_state_flag = renamed_state_arabic
-			}
+			NOT = { has_state_flag = renamed_state_arabic }
 		}
 		set_state_name = "수리야"
 		set_state_flag = renamed_state_arabic
@@ -57,9 +49,7 @@ do_arab_renames_in_middle_east = {
 	else_if = {
 		limit = {
 			state = 676
-			NOT = {
-				has_state_flag = renamed_state_arabic
-			}
+			NOT = { has_state_flag = renamed_state_arabic }
 		}
 		set_state_name = "알 마우실"
 		set_state_flag = renamed_state_arabic
@@ -71,9 +61,7 @@ do_arab_renames_in_middle_east = {
 	else_if = {
 		limit = {
 			state = 677
-			NOT = {
-				has_state_flag = renamed_state_arabic
-			}
+			NOT = { has_state_flag = renamed_state_arabic }
 		}
 		set_state_name = "할라브"
 		set_state_flag = renamed_state_arabic
@@ -85,9 +73,7 @@ do_arab_renames_in_middle_east = {
 	else_if = {
 		limit = {
 			state = 679
-			NOT = {
-				has_state_flag = renamed_state_arabic
-			}
+			NOT = { has_state_flag = renamed_state_arabic }
 		}
 		set_state_name = "히자즈"
 		set_state_flag = renamed_state_arabic
@@ -103,9 +89,7 @@ do_arab_renames_in_middle_east = {
 	else_if = {
 		limit = {
 			state = 680
-			NOT = {
-				has_state_flag = renamed_state_arabic
-			}
+			NOT = { has_state_flag = renamed_state_arabic }
 		}
 		set_state_name = "다이르 아즈 주르"
 		set_state_flag = renamed_state_arabic
@@ -113,9 +97,7 @@ do_arab_renames_in_middle_east = {
 	else_if = {
 		limit = {
 			state = 754
-			NOT = {
-				has_state_flag = renamed_state_arabic
-			}
+			NOT = { has_state_flag = renamed_state_arabic }
 		}
 		set_state_name = "마디나"
 		set_state_flag = renamed_state_arabic
@@ -127,9 +109,7 @@ do_arab_renames_in_middle_east = {
 	else_if = {
 		limit = {
 			state = 812
-			NOT = {
-				has_state_flag = renamed_state_arabic
-			}
+			NOT = { has_state_flag = renamed_state_arabic }
 		}
 		set_state_name = "알 바스라"
 		set_state_flag = renamed_state_arabic
@@ -141,9 +121,7 @@ do_arab_renames_in_middle_east = {
 	else_if = {
 		limit = {
 			state = 819
-			NOT = {
-				has_state_flag = renamed_state_arabic
-			}
+			NOT = { has_state_flag = renamed_state_arabic }
 		}
 		set_state_name = "카르쿠크"
 		set_state_flag = renamed_state_arabic
@@ -158,9 +136,7 @@ do_arab_renames_in_africa = {
 	if = {
 		limit = {
 			state = 753
-			NOT = {
-				has_state_flag = renamed_state_arabic
-			}
+			NOT = { has_state_flag = renamed_state_arabic }
 		}
 		set_state_name = "카나트 아스 수와이스"
 		set_state_flag = renamed_state_arabic
@@ -250,9 +226,7 @@ do_armenian_renames_in_middle_east = {
 	else_if = {
 		limit = {
 			state = 1000
-			NOT = {
-				has_state_flag = renamed_state_russian
-			}
+			NOT = { has_state_flag = renamed_state_russian }
 		}
 		set_state_name = endo_state_1000_russian
 		set_state_flag = renamed_state_russian
@@ -260,9 +234,7 @@ do_armenian_renames_in_middle_east = {
 	else_if = {
 		limit = {
 			state = 1001
-			NOT = {
-				has_state_flag = renamed_state_russian
-			}
+			NOT = { has_state_flag = renamed_state_russian }
 		}
 		set_state_name = endo_state_1001
 		set_state_flag = renamed_state_russian

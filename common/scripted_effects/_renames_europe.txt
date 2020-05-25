@@ -2,9 +2,7 @@ do_polish_renames_in_europe = {
 	if = {
 		limit = {
 			state = 5
-			NOT = {
-				has_state_flag = renamed_state_polish
-			}
+			NOT = { has_state_flag = renamed_state_polish }
 		}
 		set_state_name = "프루시"
 		set_state_flag = renamed_state_polish
@@ -35,9 +33,7 @@ do_polish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 66
-			NOT = {
-				has_state_flag = renamed_state_polish
-			}
+			NOT = { has_state_flag = renamed_state_polish }
 		}
 		set_state_name = "돌니 실롱스크"
 		set_state_flag = renamed_state_polish
@@ -49,9 +45,7 @@ do_polish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 67
-			NOT = {
-				has_state_flag = renamed_state_polish
-			}
+			NOT = { has_state_flag = renamed_state_polish }
 		}
 		set_state_name = "구르니 실롱스크"
 		set_state_flag = renamed_state_polish
@@ -67,9 +61,7 @@ do_polish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 73
-			NOT = {
-				has_state_flag = renamed_state_polish
-			}
+			NOT = { has_state_flag = renamed_state_polish }
 		}
 		set_state_name = "자카르파치에"
 		clr_state_flag = renamed_state_slovak
@@ -104,9 +96,7 @@ do_polish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 86
-			NOT = {
-				has_state_flag = renamed_state_polish
-			}
+			NOT = { has_state_flag = renamed_state_polish }
 		}
 		set_state_name = "포즈난"
 		set_state_flag = renamed_state_polish
@@ -145,10 +135,14 @@ do_polish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 89
-			has_state_flag = renamed_state_russian
+			OR = {
+				has_state_flag = renamed_state_russian
+				has_state_flag = renamed_state_ukrainian
+			}
 		}
 		set_state_name = endo_state_89
 		clr_state_flag = renamed_state_russian
+		clr_state_flag = renamed_state_ukrainian
 		set_province_name = {
 			id = 11411
 			name = endo_vp_11411
@@ -173,10 +167,14 @@ do_polish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 91
-			has_state_flag = renamed_state_russian
+			OR = {
+				has_state_flag = renamed_state_russian
+				has_state_flag = renamed_state_ukrainian
+			}
 		}
 		set_state_name = endo_state_91
 		clr_state_flag = renamed_state_russian
+		clr_state_flag = renamed_state_ukrainian
 		set_province_name = {
 			id = 11479
 			name = endo_vp_11479
@@ -185,9 +183,7 @@ do_polish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 93
-			NOT = {
-				has_state_flag = renamed_state_polish
-			}
+			NOT = { has_state_flag = renamed_state_polish }
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_belarusian
@@ -201,9 +197,7 @@ do_polish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 94
-			NOT = {
-				has_state_flag = renamed_state_polish
-			}
+			NOT = { has_state_flag = renamed_state_polish }
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_lithuanian
@@ -255,9 +249,7 @@ do_polish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 188
-			NOT = {
-				has_state_flag = renamed_state_polish
-			}
+			NOT = { has_state_flag = renamed_state_polish }
 		}
 		clr_state_flag = renamed_state_lithuanian
 		set_state_name = "리트바 므니에이샤"
@@ -290,9 +282,7 @@ do_polish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 776
-			NOT = {
-				has_state_flag = renamed_state_polish
-			}
+			NOT = { has_state_flag = renamed_state_polish }
 		}
 		set_state_name = "포모르스키에"
 		set_state_flag = renamed_state_polish
@@ -312,9 +302,7 @@ do_polish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 777
-			NOT = {
-				has_state_flag = renamed_state_polish
-			}
+			NOT = { has_state_flag = renamed_state_polish }
 		}
 		set_state_name = "마주리"
 		set_state_flag = renamed_state_polish
@@ -326,9 +314,7 @@ do_polish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 792
-			NOT = {
-				has_state_flag = renamed_state_polish
-			}
+			NOT = { has_state_flag = renamed_state_polish }
 		}
 		clr_state_flag = renamed_state_russian
 		set_state_name = "루브네"
@@ -341,9 +327,7 @@ do_polish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 997
-			NOT = {
-				has_state_flag = renamed_state_polish
-			}
+			NOT = { has_state_flag = renamed_state_polish }
 		}
 		clr_state_flag = renamed_state_belarusian
 		clr_state_flag = renamed_state_russian
@@ -373,9 +357,7 @@ do_polish_but_not_plc_renames_in_europe = {
 	if = {
 		limit = {
 			state = 11
-			NOT = {
-				has_state_flag = renamed_state_polish
-			}
+			NOT = { has_state_flag = renamed_state_polish }
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_german
@@ -390,9 +372,7 @@ do_polish_but_not_plc_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 96
-			NOT = {
-				has_state_flag = renamed_state_polish
-			}
+			NOT = { has_state_flag = renamed_state_polish }
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_german
@@ -411,9 +391,7 @@ do_polish_but_not_plc_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 189
-			NOT = {
-				has_state_flag = renamed_state_polish
-			}
+			NOT = { has_state_flag = renamed_state_polish }
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_german
@@ -431,9 +409,7 @@ do_polish_but_not_plc_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 655
-			NOT = {
-				has_state_flag = renamed_state_polish
-			}
+			NOT = { has_state_flag = renamed_state_polish }
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_german
@@ -466,9 +442,7 @@ do_czech_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 70
-			NOT = {
-				has_state_flag = renamed_state_slovak
-			}
+			NOT = { has_state_flag = renamed_state_slovak }
 		}
 		set_state_name = "자파드네 슬로벤스코"
 		set_state_flag = renamed_state_slovak
@@ -485,9 +459,7 @@ do_czech_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 71
-			NOT = {
-				has_state_flag = renamed_state_slovak
-			}
+			NOT = { has_state_flag = renamed_state_slovak }
 		}
 		set_state_name = "비호드네 슬로벤스코"
 		set_state_flag = renamed_state_slovak
@@ -500,9 +472,7 @@ do_czech_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 73
-			NOT = {
-				has_state_flag = renamed_state_slovak
-			}
+			NOT = { has_state_flag = renamed_state_slovak }
 		}
 		set_state_name = "포트카르파츠코"
 		set_state_flag = renamed_state_slovak
@@ -533,9 +503,7 @@ do_czech_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 664
-			NOT = {
-				has_state_flag = renamed_state_slovak
-			}
+			NOT = { has_state_flag = renamed_state_slovak }
 		}
 		set_state_name = "유주네 슬로벤스코"
 		set_state_flag = renamed_state_slovak
@@ -571,9 +539,7 @@ do_lithuanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 12
-			NOT = {
-				has_state_flag = renamed_state_lithuanian
-			}
+			NOT = { has_state_flag = renamed_state_lithuanian }
 		}
 		clr_state_flag = renamed_state_russian
 		set_state_name = "리보니야"
@@ -586,9 +552,7 @@ do_lithuanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 94
-			NOT = {
-				has_state_flag = renamed_state_lithuanian
-			}
+			NOT = { has_state_flag = renamed_state_lithuanian }
 		}
 		clr_state_flag = renamed_state_polish
 		clr_state_flag = renamed_state_russian
@@ -602,9 +566,7 @@ do_lithuanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 95
-			NOT = {
-				has_state_flag = renamed_state_lithuanian
-			}
+			NOT = { has_state_flag = renamed_state_lithuanian }
 		}
 		clr_state_flag = renamed_state_russian
 		set_state_name = "핀스카스"
@@ -649,9 +611,7 @@ do_lithuanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 97
-			NOT = {
-				has_state_flag = renamed_state_lithuanian
-			}
+			NOT = { has_state_flag = renamed_state_lithuanian }
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_belarusian
@@ -665,9 +625,7 @@ do_lithuanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 188
-			NOT = {
-				has_state_flag = renamed_state_lithuanian
-			}
+			NOT = { has_state_flag = renamed_state_lithuanian }
 		}
 		clr_state_flag = renamed_state_polish
 		set_state_name = "마조이 리에투바"
@@ -702,9 +660,7 @@ do_lithuanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 190
-			NOT = {
-				has_state_flag = renamed_state_lithuanian
-			}
+			NOT = { has_state_flag = renamed_state_lithuanian }
 		}
 		clr_state_flag = renamed_state_latvian
 		clr_state_flag = renamed_state_russian
@@ -753,9 +709,7 @@ do_lithuanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 880
-			NOT = {
-				has_state_flag = renamed_state_lithuanian
-			}
+			NOT = { has_state_flag = renamed_state_lithuanian }
 		}
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_belarusian
@@ -770,9 +724,7 @@ do_lithuanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 997
-			NOT = {
-				has_state_flag = renamed_state_lithuanian
-			}
+			NOT = { has_state_flag = renamed_state_lithuanian }
 		}
 		clr_state_flag = renamed_state_belarusian
 		clr_state_flag = renamed_state_russian
@@ -786,9 +738,7 @@ do_latvian_renames_in_europe = {
 	if = {
 		limit = {
 			state = 12
-			NOT = {
-				has_state_flag = renamed_state_lithuanian
-			}
+			NOT = { has_state_flag = renamed_state_lithuanian }
 		}
 		clr_state_flag = renamed_state_russian
 		set_state_name = "리보니야"
@@ -801,9 +751,7 @@ do_latvian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 190
-			NOT = {
-				has_state_flag = renamed_state_latvian
-			}
+			NOT = { has_state_flag = renamed_state_latvian }
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_lithuanian
@@ -821,9 +769,7 @@ do_latvian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 880
-			NOT = {
-				has_state_flag = renamed_state_latvian
-			}
+			NOT = { has_state_flag = renamed_state_latvian }
 		}
 		clr_state_flag = renamed_state_lithuanian
 		clr_state_flag = renamed_state_belarusian
@@ -841,9 +787,7 @@ do_estonian_renames_in_europe = {
 	if = {
 		limit = {
 			state = 13
-			NOT = {
-				has_state_flag = renamed_state_estonian
-			}
+			NOT = { has_state_flag = renamed_state_estonian }
 		}
 		set_state_name = "탈린"
 		set_state_flag = renamed_state_estonian
@@ -864,9 +808,7 @@ do_estonian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 191
-			NOT = {
-				has_state_flag = renamed_state_estonian
-			}
+			NOT = { has_state_flag = renamed_state_estonian }
 		}
 		clr_state_flag = renamed_state_russian
 		set_state_name = "타르투"
@@ -989,10 +931,6 @@ do_hungarian_renames_in_europe = {
 			id = 6711
 			name = endo_vp_6711
 		}
-		set_province_name = {
-			id = 3696
-			name = endo_vp_3696
-		}
 	}
 	else_if = {
 		limit = {
@@ -1023,6 +961,10 @@ do_hungarian_renames_in_europe = {
 		set_state_name = endo_state_83
 		clr_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_german
+		set_province_name = {
+			id = 3696
+			name = endo_vp_3696
+		}
 	}
 	else_if = {
 		limit = {
@@ -1036,8 +978,8 @@ do_hungarian_renames_in_europe = {
 		clr_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_german
 		set_province_name = {
-			id = 690
-			name = endo_vp_690
+			id = 3676
+			name = endo_vp_3676
 		}
 		set_province_name = {
 			id = 6679
@@ -1047,9 +989,7 @@ do_hungarian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 103
-			NOT = {
-				has_state_flag = renamed_state_hungarian
-			}
+			NOT = { has_state_flag = renamed_state_hungarian }
 		}
 		clr_state_flag = renamed_state_italian
 		clr_state_flag = renamed_state_german
@@ -1063,9 +1003,7 @@ do_hungarian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 109
-			NOT = {
-				has_state_flag = renamed_state_hungarian
-			}
+			NOT = { has_state_flag = renamed_state_hungarian }
 		}
 		set_state_name = "사버멘테"
 		set_state_flag = renamed_state_hungarian
@@ -1157,9 +1095,7 @@ do_hungarian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 794
-			NOT = {
-				has_state_flag = renamed_state_hungarian
-			}
+			NOT = { has_state_flag = renamed_state_hungarian }
 		}
 		clr_state_flag = renamed_state_serbian
 		set_state_name = "세렘셰그"
@@ -1189,9 +1125,7 @@ do_south_slav_renames_in_europe = {
 	if = {
 		limit = {
 			state = 45
-			NOT = {
-				has_state_flag = renamed_state_serbian
-			}
+			NOT = { has_state_flag = renamed_state_serbian }
 		}
 		clr_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_german
@@ -1209,9 +1143,7 @@ do_south_slav_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 82
-			NOT = {
-				has_state_flag = renamed_state_serbian
-			}
+			NOT = { has_state_flag = renamed_state_serbian }
 		}
 		set_state_name = "바나트"
 		set_state_flag = renamed_state_serbian
@@ -1225,9 +1157,7 @@ do_south_slav_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 102
-			NOT = {
-				has_state_flag = renamed_state_serbian
-			}
+			NOT = { has_state_flag = renamed_state_serbian }
 		}
 		clr_state_flag = renamed_state_italian
 		set_state_name = "크란스카"
@@ -1258,9 +1188,7 @@ do_south_slav_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 106
-			NOT = {
-				has_state_flag = renamed_state_serbian
-			}
+			NOT = { has_state_flag = renamed_state_serbian }
 		}
 		set_state_name = "마케도니야"
 		set_state_flag = renamed_state_serbian
@@ -1308,9 +1236,7 @@ do_south_slav_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 731
-			NOT = {
-				has_state_flag = renamed_state_serbian
-			}
+			NOT = { has_state_flag = renamed_state_serbian }
 		}
 		set_state_name = "벨로모르스카 마케도니야"
 		set_state_flag = renamed_state_serbian
@@ -1323,9 +1249,7 @@ do_south_slav_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 736
-			NOT = {
-				has_state_flag = renamed_state_serbian
-			}
+			NOT = { has_state_flag = renamed_state_serbian }
 		}
 		set_state_name = "프리모레"
 		set_state_flag = renamed_state_serbian
@@ -1366,9 +1290,7 @@ do_south_slav_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 769
-			NOT = {
-				has_state_flag = renamed_state_serbian
-			}
+			NOT = { has_state_flag = renamed_state_serbian }
 		}
 		clr_state_flag = renamed_state_greek
 		set_state_name = "이스토츠나 마케도니야"
@@ -1381,9 +1303,7 @@ do_south_slav_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 875
-			NOT = {
-				has_state_flag = renamed_state_serbian
-			}
+			NOT = { has_state_flag = renamed_state_serbian }
 		}
 		set_state_name = "자파드니 바나트"
 		set_state_flag = renamed_state_serbian
@@ -1412,9 +1332,7 @@ do_romanian_renames_in_europe = {
 	if = {
 		limit = {
 			state = 45
-			NOT = {
-				has_state_flag = renamed_state_romanian
-			}
+			NOT = { has_state_flag = renamed_state_romanian }
 		}
 		clr_state_flag = renamed_state_serbian
 		clr_state_flag = renamed_state_german
@@ -1432,9 +1350,7 @@ do_romanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 76
-			NOT = {
-				has_state_flag = renamed_state_romanian
-			}
+			NOT = { has_state_flag = renamed_state_romanian }
 		}
 		clr_state_flag = renamed_state_german
 		set_state_name = "Transilvania de Nord"
@@ -1443,17 +1359,11 @@ do_romanian_renames_in_europe = {
 			id = 6711
 			name = "클루지"
 		}
-		set_province_name = {
-			id = 3696
-			name = "오라데아"
-		}
 	}
 	else_if = {
 		limit = {
 			state = 77
-			NOT = {
-				has_state_flag = renamed_state_romanian
-			}
+			NOT = { has_state_flag = renamed_state_romanian }
 		}
 		set_state_name = "카드릴라테르"
 		set_state_flag = renamed_state_romanian
@@ -1485,9 +1395,7 @@ do_romanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 80
-			NOT = {
-				has_state_flag = renamed_state_romanian
-			}
+			NOT = { has_state_flag = renamed_state_romanian }
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_german
@@ -1502,9 +1410,7 @@ do_romanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 82
-			NOT = {
-				has_state_flag = renamed_state_romanian
-			}
+			NOT = { has_state_flag = renamed_state_romanian }
 		}
 		clr_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_serbian
@@ -1518,20 +1424,20 @@ do_romanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 83
-			NOT = {
-				has_state_flag = renamed_state_romanian
-			}
+			NOT = { has_state_flag = renamed_state_romanian }
 		}
-		set_state_name = "크리사나"
+		set_state_name = "파르티움"
 		set_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_german
+		set_province_name = {
+			id = 3696
+			name = "오라데아"
+		}
 	}
 	else_if = {
 		limit = {
 			state = 84
-			NOT = {
-				has_state_flag = renamed_state_romanian
-			}
+			NOT = { has_state_flag = renamed_state_romanian }
 		}
 		set_state_name = "트란실바니아"
 		set_state_flag = renamed_state_romanian
@@ -1548,9 +1454,7 @@ do_romanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 154
-			NOT = {
-				has_state_flag = renamed_state_romanian
-			}
+			NOT = { has_state_flag = renamed_state_romanian }
 		}
 		set_state_name = "큼피에 운가러"
 		clr_state_flag = renamed_state_german
@@ -1563,9 +1467,7 @@ do_romanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 713
-			NOT = {
-				has_state_flag = renamed_state_romanian
-			}
+			NOT = { has_state_flag = renamed_state_romanian }
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_german
@@ -1580,9 +1482,7 @@ do_romanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 772
-			NOT = {
-				has_state_flag = renamed_state_romanian
-			}
+			NOT = { has_state_flag = renamed_state_romanian }
 		}
 		set_state_name = "도브로자"
 		set_state_flag = renamed_state_romanian
@@ -1594,9 +1494,7 @@ do_romanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 789
-			NOT = {
-				has_state_flag = renamed_state_romanian
-			}
+			NOT = { has_state_flag = renamed_state_romanian }
 		}
 		set_state_name = "세쿠이메아"
 		set_state_flag = renamed_state_romanian
@@ -1609,9 +1507,7 @@ do_romanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 875
-			NOT = {
-				has_state_flag = renamed_state_romanian
-			}
+			NOT = { has_state_flag = renamed_state_romanian }
 		}
 		set_state_name = "베스티크 바나트"
 		set_state_flag = renamed_state_romanian
@@ -1684,9 +1580,7 @@ do_bulgarian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 341
-			NOT = {
-				has_state_flag = renamed_state_bulgaria
-			}
+			NOT = { has_state_flag = renamed_state_bulgaria }
 		}
 		clr_state_flag = renamed_state_greek
 		clr_state_flag = renamed_state_russian
@@ -1700,9 +1594,7 @@ do_bulgarian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 347
-			NOT = {
-				has_state_flag = renamed_state_bulgaria
-			}
+			NOT = { has_state_flag = renamed_state_bulgaria }
 		}
 		clr_state_flag = renamed_state_greek
 		set_state_name = "갈리폴리"
@@ -1726,9 +1618,7 @@ do_bulgarian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 767
-			NOT = {
-				has_state_flag = renamed_state_bulgaria
-			}
+			NOT = { has_state_flag = renamed_state_bulgaria }
 		}
 		set_state_name = "니시"
 		set_state_flag = renamed_state_bulgaria
@@ -1764,9 +1654,7 @@ do_bulgarian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 773
-			NOT = {
-				has_state_flag = renamed_state_bulgaria
-			}
+			NOT = { has_state_flag = renamed_state_bulgaria }
 		}
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_greek
@@ -1792,9 +1680,7 @@ do_bulgarian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 989
-			NOT = {
-				has_state_flag = renamed_state_bulgaria
-			}
+			NOT = { has_state_flag = renamed_state_bulgaria }
 		}
 		set_state_name = "솔룬"
 		set_state_flag = renamed_state_bulgaria
@@ -1806,9 +1692,7 @@ do_bulgarian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 1076
-			NOT = {
-				has_state_flag = renamed_state_bulgaria
-			}
+			NOT = { has_state_flag = renamed_state_bulgaria }
 		}
 		set_state_name = "베리야"
 		set_state_flag = renamed_state_bulgaria
@@ -1819,9 +1703,7 @@ do_swedish_renames_in_europe = {
 	if = {
 		limit = {
 			state = 111
-			NOT = {
-				has_state_flag = renamed_state_swedish
-			}
+			NOT = { has_state_flag = renamed_state_swedish }
 		}
 		clr_state_flag = renamed_state_russian
 		set_state_name = "타바스틀란드"
@@ -1846,9 +1728,7 @@ do_swedish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 145
-			NOT = {
-				has_state_flag = renamed_state_swedish
-			}
+			NOT = { has_state_flag = renamed_state_swedish }
 		}
 		set_state_name = "올란드"
 		set_state_flag = renamed_state_swedish
@@ -1856,9 +1736,7 @@ do_swedish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 146
-			NOT = {
-				has_state_flag = renamed_state_swedish
-			}
+			NOT = { has_state_flag = renamed_state_swedish }
 		}
 		clr_state_flag = renamed_state_russian
 		set_state_name = "카렐렌"
@@ -1871,9 +1749,7 @@ do_swedish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 147
-			NOT = {
-				has_state_flag = renamed_state_swedish
-			}
+			NOT = { has_state_flag = renamed_state_swedish }
 		}
 		clr_state_flag = renamed_state_russian
 		set_state_name = "살라"
@@ -1882,9 +1758,7 @@ do_swedish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 148
-			NOT = {
-				has_state_flag = renamed_state_swedish
-			}
+			NOT = { has_state_flag = renamed_state_swedish }
 		}
 		clr_state_flag = renamed_state_russian
 		set_state_name = "핀스카 라플란드"
@@ -1893,9 +1767,7 @@ do_swedish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 149
-			NOT = {
-				has_state_flag = renamed_state_swedish
-			}
+			NOT = { has_state_flag = renamed_state_swedish }
 		}
 		clr_state_flag = renamed_state_russian
 		set_state_name = "외스테르보텐"
@@ -1912,9 +1784,7 @@ do_swedish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 150
-			NOT = {
-				has_state_flag = renamed_state_swedish
-			}
+			NOT = { has_state_flag = renamed_state_swedish }
 		}
 		clr_state_flag = renamed_state_russian
 		set_state_name = "카야날란드"
@@ -1931,9 +1801,7 @@ do_swedish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 840
-			NOT = {
-				has_state_flag = renamed_state_swedish
-			}
+			NOT = { has_state_flag = renamed_state_swedish }
 		}
 		clr_state_flag = renamed_state_russian
 		set_state_name = "뉠란드"
@@ -1946,9 +1814,7 @@ do_swedish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 844
-			NOT = {
-				has_state_flag = renamed_state_swedish
-			}
+			NOT = { has_state_flag = renamed_state_swedish }
 		}
 		clr_state_flag = renamed_state_russian
 		set_state_name = "에나레"
@@ -1957,9 +1823,7 @@ do_swedish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 863
-			NOT = {
-				has_state_flag = renamed_state_swedish
-			}
+			NOT = { has_state_flag = renamed_state_swedish }
 		}
 		clr_state_flag = renamed_state_russian
 		set_state_name = "에겐틀리가 핀란드"
@@ -1972,9 +1836,7 @@ do_swedish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 864
-			NOT = {
-				has_state_flag = renamed_state_swedish
-			}
+			NOT = { has_state_flag = renamed_state_swedish }
 		}
 		clr_state_flag = renamed_state_russian
 		set_state_name = "사볼락스"
@@ -1987,9 +1849,7 @@ do_swedish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 865
-			NOT = {
-				has_state_flag = renamed_state_swedish
-			}
+			NOT = { has_state_flag = renamed_state_swedish }
 		}
 		clr_state_flag = renamed_state_russian
 		set_state_name = "베스트라 카렐렌"
@@ -2029,9 +1889,7 @@ do_norwegian_renames_in_europe = {
 	if = {
 		limit = {
 			state = 778
-			NOT = {
-				has_state_flag = renamed_state_norwegian
-			}
+			NOT = { has_state_flag = renamed_state_norwegian }
 		}
 		set_state_name = "옘틀란"
 		set_state_flag = renamed_state_norwegian
@@ -2039,9 +1897,7 @@ do_norwegian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 908
-			NOT = {
-				has_state_flag = renamed_state_norwegian
-			}
+			NOT = { has_state_flag = renamed_state_norwegian }
 		}
 		set_state_name = "보후슬렌"
 		set_state_flag = renamed_state_norwegian
@@ -2215,9 +2071,7 @@ do_finnish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 213
-			NOT = {
-				has_state_flag = renamed_state_finnish
-			}
+			NOT = { has_state_flag = renamed_state_finnish }
 		}
 		set_state_name = "쿠올라"
 		set_state_flag = renamed_state_finnish
@@ -2229,9 +2083,7 @@ do_finnish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 215
-			NOT = {
-				has_state_flag = renamed_state_finnish
-			}
+			NOT = { has_state_flag = renamed_state_finnish }
 		}
 		set_state_name = "비에난 카리알라"
 		set_state_flag = renamed_state_finnish
@@ -2243,9 +2095,7 @@ do_finnish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 216
-			NOT = {
-				has_state_flag = renamed_state_finnish
-			}
+			NOT = { has_state_flag = renamed_state_finnish }
 		}
 		set_state_name = "아우눅센 카리알라"
 		set_state_flag = renamed_state_finnish
@@ -2257,9 +2107,7 @@ do_finnish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 722
-			NOT = {
-				has_state_flag = renamed_state_finnish
-			}
+			NOT = { has_state_flag = renamed_state_finnish }
 		}
 		set_state_name = endo_state_722_finnish
 		set_state_flag = renamed_state_finnish
@@ -2347,9 +2195,7 @@ do_finnish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 909
-			NOT = {
-				has_state_flag = renamed_state_finnish
-			}
+			NOT = { has_state_flag = renamed_state_finnish }
 		}
 		set_state_name = "토르니온락소"
 		set_state_flag = renamed_state_finnish
@@ -2357,9 +2203,7 @@ do_finnish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 936
-			NOT = {
-				has_state_flag = renamed_state_finnish
-			}
+			NOT = { has_state_flag = renamed_state_finnish }
 		}
 		set_state_name = "베시사리"
 		set_state_flag = renamed_state_finnish
@@ -2367,9 +2211,7 @@ do_finnish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 937
-			NOT = {
-				has_state_flag = renamed_state_finnish
-			}
+			NOT = { has_state_flag = renamed_state_finnish }
 		}
 		set_state_name = "코우토케이노"
 		set_state_flag = renamed_state_finnish
@@ -2377,9 +2219,7 @@ do_finnish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 960
-			NOT = {
-				has_state_flag = renamed_state_finnish
-			}
+			NOT = { has_state_flag = renamed_state_finnish }
 		}
 		set_state_name = "키루나"
 		set_state_flag = renamed_state_finnish
@@ -2402,9 +2242,7 @@ do_danish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 138
-			NOT = {
-				has_state_flag = renamed_state_danish
-			}
+			NOT = { has_state_flag = renamed_state_danish }
 		}
 		set_state_name = "스코넬라네"
 		set_state_flag = renamed_state_danish
@@ -2416,9 +2254,7 @@ do_danish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 778
-			NOT = {
-				has_state_flag = renamed_state_norwegian
-			}
+			NOT = { has_state_flag = renamed_state_norwegian }
 		}
 		set_state_name = "옘틀란"
 		set_state_flag = renamed_state_norwegian
@@ -2426,9 +2262,7 @@ do_danish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 908
-			NOT = {
-				has_state_flag = renamed_state_norwegian
-			}
+			NOT = { has_state_flag = renamed_state_norwegian }
 		}
 		set_state_name = "보후슬렌"
 		set_state_flag = renamed_state_norwegian
@@ -2436,9 +2270,7 @@ do_danish_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 782
-			NOT = {
-				has_state_flag = renamed_state_danish
-			}
+			NOT = { has_state_flag = renamed_state_danish }
 		}
 		set_state_flag = renamed_state_danish
 		set_state_name = "노르슬레스비"
@@ -2500,9 +2332,7 @@ do_albanian_renames_in_europe = {
 	if = {
 		limit = {
 			state = 106
-			NOT = {
-				has_state_flag = renamed_state_albanian
-			}
+			NOT = { has_state_flag = renamed_state_albanian }
 		}
 		clr_state_flag = renamed_state_serbian
 		set_state_name = "마체도니아"
@@ -2515,9 +2345,7 @@ do_albanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 185
-			NOT = {
-				has_state_flag = renamed_state_albanian
-			}
+			NOT = { has_state_flag = renamed_state_albanian }
 		}
 		set_state_name = "차머리아"
 		set_state_flag = renamed_state_albanian
@@ -2529,9 +2357,7 @@ do_albanian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 765
-			NOT = {
-				has_state_flag = renamed_state_albanian
-			}
+			NOT = { has_state_flag = renamed_state_albanian }
 		}
 		set_state_name = "코소바"
 		set_state_flag = renamed_state_albanian
@@ -2569,9 +2395,7 @@ do_serbian_renames_in_europe = {
 	if = {
 		limit = {
 			state = 794
-			NOT = {
-				has_state_flag = renamed_state_serbian
-			}
+			NOT = { has_state_flag = renamed_state_serbian }
 		}
 		clr_state_flag = renamed_state_hungarian
 		set_state_name = "스렘"
@@ -2580,9 +2404,7 @@ do_serbian_renames_in_europe = {
 	else_if = {
 		limit = {
 			state = 841
-			NOT = {
-				has_state_flag = renamed_state_serbian
-			}
+			NOT = { has_state_flag = renamed_state_serbian }
 		}
 		clr_state_flag = renamed_state_serbian
 		set_province_name = {

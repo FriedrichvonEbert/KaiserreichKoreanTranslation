@@ -2,9 +2,7 @@ do_portuguese_renames_in_africa = {
 	if = {
 		limit = {
 			state = 295
-			NOT = {
-				has_state_flag = renamed_state_portuguese
-			}
+			NOT = { has_state_flag = renamed_state_portuguese }
 		}
 		set_state_name = "포르투 아폰수"
 		set_state_flag = renamed_state_portuguese
@@ -16,9 +14,7 @@ do_portuguese_renames_in_africa = {
 	else_if = {
 		limit = {
 			state = 813
-			NOT = {
-				has_state_flag = renamed_state_portuguese
-			}
+			NOT = { has_state_flag = renamed_state_portuguese }
 		}
 		set_state_name = "라세르디아 메리디오날"
 		set_state_flag = renamed_state_portuguese
@@ -30,9 +26,7 @@ do_portuguese_renames_in_africa = {
 	else_if = {
 		limit = {
 			state = 871
-			NOT = {
-				has_state_flag = renamed_state_portuguese
-			}
+			NOT = { has_state_flag = renamed_state_portuguese }
 		}
 		set_state_name = "니아살란디아"
 		set_state_flag = renamed_state_portuguese
@@ -44,9 +38,7 @@ do_portuguese_renames_in_africa = {
 	else_if = {
 		limit = {
 			state = 879
-			NOT = {
-				has_state_flag = renamed_state_portuguese
-			}
+			NOT = { has_state_flag = renamed_state_portuguese }
 		}
 		set_state_name = "가랑간자"
 		set_state_flag = renamed_state_portuguese
@@ -62,9 +54,7 @@ do_portuguese_renames_in_africa = {
 	else_if = {
 		limit = {
 			state = 881
-			NOT = {
-				has_state_flag = renamed_state_portuguese
-			}
+			NOT = { has_state_flag = renamed_state_portuguese }
 		}
 		set_state_name = "콩구 센트랄"
 		set_state_flag = renamed_state_portuguese
@@ -72,9 +62,7 @@ do_portuguese_renames_in_africa = {
 	else_if = {
 		limit = {
 			state = 905
-			NOT = {
-				has_state_flag = renamed_state_portuguese
-			}
+			NOT = { has_state_flag = renamed_state_portuguese }
 		}
 		set_state_name = "잔지바르"
 		set_state_flag = renamed_state_portuguese
@@ -86,9 +74,7 @@ do_portuguese_renames_in_africa = {
 	else_if = {
 		limit = {
 			state = 955
-			NOT = {
-				has_state_flag = renamed_state_portuguese
-			}
+			NOT = { has_state_flag = renamed_state_portuguese }
 		}
 		set_state_name = "라세르디아 오리엔탈"
 		set_state_flag = renamed_state_portuguese
@@ -96,9 +82,7 @@ do_portuguese_renames_in_africa = {
 	else_if = {
 		limit = {
 			state = 956
-			NOT = {
-				has_state_flag = renamed_state_portuguese
-			}
+			NOT = { has_state_flag = renamed_state_portuguese }
 		}
 		set_state_name = "라세르디아 세텐트리오날"
 		set_state_flag = renamed_state_portuguese
@@ -106,9 +90,7 @@ do_portuguese_renames_in_africa = {
 	else_if = {
 		limit = {
 			state = 957
-			NOT = {
-				has_state_flag = renamed_state_portuguese
-			}
+			NOT = { has_state_flag = renamed_state_portuguese }
 		}
 		set_state_name = "바로스 오시덴탈"
 		set_state_flag = renamed_state_portuguese
@@ -116,9 +98,7 @@ do_portuguese_renames_in_africa = {
 	else_if = {
 		limit = {
 			state = 958
-			NOT = {
-				has_state_flag = renamed_state_portuguese
-			}
+			NOT = { has_state_flag = renamed_state_portuguese }
 		}
 		set_state_name = "바로스 오리엔탈"
 		set_state_flag = renamed_state_portuguese
@@ -126,9 +106,7 @@ do_portuguese_renames_in_africa = {
 	else_if = {
 		limit = {
 			state = 965
-			NOT = {
-				has_state_flag = renamed_state_portuguese
-			}
+			NOT = { has_state_flag = renamed_state_portuguese }
 		}
 		set_state_name = "다레스 살랑"
 		set_state_flag = renamed_state_portuguese
@@ -140,9 +118,7 @@ do_portuguese_renames_in_africa = {
 	else_if = {
 		limit = {
 			state = 970
-			NOT = {
-				has_state_flag = renamed_state_portuguese
-			}
+			NOT = { has_state_flag = renamed_state_portuguese }
 		}
 		set_state_name = "몸바사"
 		set_state_flag = renamed_state_portuguese
@@ -157,9 +133,7 @@ do_portuguese_renames_in_asia = {
 	if = {
 		limit = {
 			state = 422
-			NOT = {
-				has_state_flag = renamed_state_portuguese
-			}
+			NOT = { has_state_flag = renamed_state_portuguese }
 		}
 		set_state_name = endo_state_422_portuguese
 		set_state_flag = renamed_state_portuguese
