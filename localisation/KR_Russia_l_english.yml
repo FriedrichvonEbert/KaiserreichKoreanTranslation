@@ -78,7 +78,20 @@ RUS_tsar_party_long:0 "러시아 제정연합"
 
 RUS_popular_front:0 "인민전선"
 
-RUS_dmitry_party:0 "Natsionalniy Blok"
+RUS_dmitry_party:0 "국가연합"
+
+### Leader Traits ###
+
+RUS_eternal_president:0 "영원한 대통령"
+RUS_vozhd:0 "보즈드"
+RUS_black_baron:0 "검은 남작"
+RUS_autocratic_charmer:0 "독재적인 매력남"
+RUS_nationalist_dictator:0 "국가주의적 독재자"
+RUS_unpopular_president:0 "인기 없는 대통령"
+RUS_bleeding_heart_socialist:0 "동정심 많은 사회주의자"
+RUS_eurasianist_ideologue:0 "유라시아주의 사상가"
+RUS_milyukov_of_the_dardanelles:0 "다르다넬스의 밀류코프"
+RUS_savvy_politician:0 "요령있는 정치 공작원"
 
 ### Leaders ###
 POLITICS_BORIS_SAVINKOV_DESC:0 "테러리스트, 폭력적인 미치광이, 살인자, 혁명가 그리고 독재자는 러시아 인민공화당의 지도자인 보리스 사빈코프에게 붙은 수많은 별명들 중 일부에 불과합니다. 그는 화려한 일생 동안 사회혁명당 전투조직의 일원으로서 많은 정적들을 암살했고, 1917년부터는 전쟁장관이자 유능한 책략가로 알렉산드르 케렌스키의 등 뒤에서 활약했으며, 은밀하게 러시아의 독재적 권력을 장악하려 시도했지만, 코르닐로프의 쿠데타가 실패하며 몰락했습니다. 그러나 그는 1919년 모스크바의 지하 저항 단체이자 도시를 전복한 기반이 된 '조국의 방위를 위한 연합'을 조직하며 스스로 재기에 성공했습니다.\n\n사빈코프는 한때 사회주의자였을지 모르지만, 수년 동안 자신에게 영향을 끼쳐온 수많은 사상들을 하나로 통합한 그는 이미 나약한 사회주의 혁명가들을 저버린 지 오래입니다 - 그의 모든 것은 전체주의적 독재 체제, 극도의 러시아 민족주의, 그리고 재현적 재건의 형태로 초점이 맞춰져 있습니다: 잿더미에서 솟아오르는 독수리처럼, '영도자'는 러시아의 영광을 되찾아 반동주의 패권국으로 변모시킬 것입니다. 테러리스트로 활동하던 시절 그는 당국과 그를 오흐라나에 넘길 가능성이 있는 모든 인물들로부터 숨어다녔으며, 이 때문에 사빈코프의 성격은 거의 편집증에 가깝습니다. 그는 아직도 건물이나 골목의 모든 구석을 확인하며 적이 있는지 확인하고 일행이 있다면 항상 긴장하도록 만들곤 합니다. 그러나 그는 누구보다도 사회주의, 사회주의의 그 모든 형태를 경멸합니다."
@@ -109,13 +122,17 @@ POLITICS_KARL_RADEK_DESC:0 "카를 라데크는 지난 몇년간 자신이 관�
 POLITICS_ALEKSEY_RYKOV_DESC:0 "러시아 시골 농민 가족에서 태오난 알렉세이 리코프는 사회민주노동당 볼셰비키 파벌의 초기 멤버이자 이 운동 내에서 라이벌에게 저항하는 블라디미르 레닌의 지지자였습니다. 1917년 시베리아 유형에서 돌아온 그는 볼셰비키 운동의 급진적인 경향에는 동조하지 않았지만 10월 혁명에 가담했고, 신생 소비에트 국가의 산업을 담당하게 되었습니다. 이 기간 동안 그는 전시 공산주의 정책을 고안했지만, 이로 인해 가장 잔인한 조치와 농민의 분노가 터져나왔다는 점을 상당히 후회했습니다.\n\n리코프는 러시아 내전에서 살아남았고 니콜라이 부하린과 함께 망명을 떠나 인민사회당을 구성했습니다. 러시아 경제를 변화시키고 중앙 위원회 급진파들 사이에서 현대화를 추진하는 과정에서 이 두 사람은 서로의 이상 속에서 수많은 공통점을 발견했습니다."
 POLITICS_ALEXANDRA_KOLLONTAI_DESC:0 "결혼한 이후 콜론타이라는 이름을 얻은 알렉산드라 도몬토비치는 자유주의적인 기병 장교의 딸로 태어났고, 역사와 분석 그리고 정치 개혁에 대한 관심도 물려받았습니다. 그녀는 좌익에 대한 공감은 가난한 동료 학생들과 거리를 두기 위해 서유럽으로 보내졌을 때부터 시작되었고, 망명 기간 동안 그녀는 급진적인 좌익 출판물을 읽기 시작했습니다.  그 동안 그녀는 여성 권리와 노동조합주의의 열렬한 지지자로 탈바꿈했고, 연인 알렉산드르 실랴프니코프는 그녀의 견해를 더욱 생디칼리즘 방향으로 촉진시켰습니다. \n\n콜론타이는 1915년까지 멘셰비키였는데, 세계대전에 관한 논쟁이 터지자 멘셰비키와 관계를 끊고 대신에 볼셰비키에 가담했습니다. 실패한 10월혁명 동안 그녀는 중앙위원회 위원이었고 자신의 지위를 이용해 페미니스트 이념을 실현하려 노력했지만, 러시아 내전으로 인해 실패하고 말았습니다. 그녀는 실랴프니코프를 도와 러시아 땅에서 가장 정통적인 프랑스 생디칼리즘에 가까운 사회주의 노동조합당을 설립했습니다. 이 정당은 혁명의 최전선인 도시 노동자들의 요구를 주장하고 노동조합을 사회주의를 건설하는 블록으로 선언했지만, 러시아 농민과 시골 노동자들은 본질적으로 반동적이라며 불신합니다."
 POLITICS_NIKOLAI_BUKHARIN_DESC:0 "러시아 수도의 중산층 가정에서 태어난 부하린은 지난 30년간 러시아 극좌파의 일원이었습니다. 그는 사회민주노동당과 볼셰비피 파벌의 초기 멤버였으며, 청년 운동인 콤소몰을 창설한 회의를 주재했고, 당이 서부로 망명한 와중에도 나머지 정당들과 관계를 유지했습니다. 거기서 그의 정치적 이념은 오스트리아 마르크스주의자와 말렉산드르 보그다노프와 같은 비마르크스주의자 등 유럽 좌파에게 영향을 받았고, 그는 충실한 볼셰비키로 남았음에도 불구하고 블라디미르 레닌과 끊임없는 이념적 갈등을 빚게 되었습니다. \n\n부하린은 실패할 10월 혁명에서 핵심적인 역할을 담당했고 소비에트 공화국 좌익의 일원이 되었습니다. 그는 브레스트-리토프스크 조약을 격렬하게 반대했고 세계 혁명의 가능성을 믿었습니다. 특히 프랑스 혁명이 일어나면서 그런 믿음은 더욱 강해졌습니다. 혁명이 진압된 이후 부하린은 처형을 면한 몇 안되는 사람 중 한명이 되었고, 다음해 지하에서 볼셰비키를 조직하여 인민사회당에 입당했습니다. 관료화의 가능성과 농민층의 "군사적-봉건적 착취"를 우려하는 부하린은 신중한 산업화와 프롤레타리아와 농민 사이의 동맹에 관한 온건한 접근 방식을 지지합니다."
-POLITICS_VLADIMIR_KAPPEL_DESC:0 "§Y장군 약력\n§Y출생:§L\n1883년 4월 28일\n러시아 제국, 상트페테르부르크 현,  차르스코예 셀로\n§Y군 경력:§L\n\n블라디미르 카펠은 군 장교 가문 출신 인물으로 어린 시절 전투에서 전사한 아버지의 뒤를 따르기로 결심했습니다. 그는 기병 장교 교육을 받았지만, 차량화된 부대 앞에 선 기병대가 얼마나 쓸모 없어 졌는지에 관한 보고서를 제출하고 졸업했습니다. 그는 세계대전동안 충실히 복무했고 브루실르프 공세에 참여했지만, 2월 혁명이 일어난 직후 태도를 바꾸었습니다. 군주제에 충성을 맹세한 카펠은 처음에는 사태가 안정되면 로마노프 가문의 지배가 돌아올 지도 모른다는 희망을 품으면서 침묵을 지켯지만, 얼마 지나지 않아 후에 백군에 가담할 장교들과 함께 음모를 꾸미기 시작했습니다. 볼셰비키가 권력을 잡았을 때 그는 페름에 있었고, 제헌 의회를 회복하겠다고 공언한 공화 사회주의 군대인 코무치 인민군에 합류하기 위해 사마라로 이동했습니다. 사회주의 군대를 이끄는 군주주의자라는 기막힌 광경이 펼쳐졌습니다. \n\n카펠은 눈부신 성과를 거두며 임무를 수행했습니다. 그는 계산적인 전술가이자 동계전 전문가로서의 능력을 보여주었는데, 이를 활용해 몇 배나 큰 볼셰비키 군대를 손쉽게 격파할 수 있었습니다. 심지어 볼세비키 신문은 그를 "작은 나폴레옹"이라고 부르기도 했습니다. 하지만 언제나 부하들 곁에 서서 소총과 수류탄을 들고 함께 싸웠기 때문에 "병사-장군"이라는 다른 별명이 붙기도 했습니다. 볼셰비키 봉기가 끝난 이후에도 카펠은 군에 남아 보병대에서 가장 중요한 장군이 되었습니다. 그는 육군 차량화와 장교단 현대화를 지지합니다."
-POLITICS_MIKHAIL_DROZDOVSKY_DESC:0 "§Y장군 약력\n§Y출생:§L\n1881년 10월 7일\n러시아 제국, 키예프 현, 키예프\n§Y군 경력:§L\n\n미하일 드로즈돕스키는 수많은 군 장교를 배출한 우크라이나 동부의 뿌리 깊은 러시아 귀족 가문 출신입니다. 그리고 본인도 군에 입대했지요. 그는 명예로운 파블롭스크 군사학교에서 학급 수석으로 졸업했으며 친위 연대 장교로 러일전쟁에 참전했습니다. 여기서 부상에도 불구하고 전선에 남아있었기 때문에 영웅적인 행동을 기리는 훈장을 많이 받았습니다. 이후 몇년간 그는 잠수함, 항공기 등 여러 유망한 부문에도 참여했지만 결국 지상군에 충실하기로 결정했습니다. 그의 진짜 경력은 2월 혁명 이후로 시작했는데, 여기서 모스크바 공화국 정부를 가장 먼저 거부하고 명령에 불복종한 최초의 장군이 되었습니다. 루마니아에 주둔했던 그는 볼셰비키가 정부를 전복시키는 모습을 멀찍이 지켜보면서 '드로즈돕체프'라는 자신만의 부대를 창설했고 돈에 주둔한 미하일 알렉세예프의 자원병대에 합류하기 위해 진군했습니다.\n\n내전 동안 그는 항상 로마노프 가문을 위해 싸운다고 주장하는, 무모하지만 능력있고 엄격한 장군이라는 명성을 얻었습니다. 왕조가 아직까지는 돌아오지 못했지만, 드로즈돕스키는 언젠가 귀족 혈통의 의로운 군주가 왕위를 되찾으리라는 희망을 아직까지 버리지 않았습니다. 드로즈돕스키는 그 날이 올때까지 기다리며 러시아 군대 개혁을 위해 현대적인 표준으로 삼을 만한 복잡한 게획을 세우고 있습니다."
-POLITICS_IVAN_ROMANOVSKIY_DESC:0 "§Y장군 약력\n§Y출생:§L\n1877년 4월 28일\n러시아 제국, 예카테리노슬라프 현, 루한스크\n§Y군 경력:§L\n\n포병 집안에서 태어나고 포병으로 교육받은 이반 로마노프스키는 러일전쟁 참전용사이고 1917년 혁명이 시작했을 시점에는 존경받는 세계대전기 사단장이었습니다. 아브르 코르닐로프에게 충성을 바치는 그는 돈에서 자원병단에 참여했고 최고 지휘부 지휘관이 되었습니다. 바로 여기서 "불운의 장군"이라는 별명을 얻었습니다. 그는 재능 있는 지휘관이었지만 직설적이고 날카로우며 말을 절대 꾸미지 않는 인물이었고, 어떤 주장이든지 자신이 받아들일 수 없다고 생각한다면 주저없이 맹비난했고, 총참모장으로 제안된 인사를 질책하는 행동으로 인해 데니킨과 코르닐로프를 제외한 모든 부대 장교들에게 증오를 샀습니다. 공화주의자들은 그가 군주주의자라고 의심했고, 군주주의자들은 그가 공화주의자라고 믿었습니다. 하지만 내전이 끝난 직후 그의 선택은 공화국의 곁에 서는 쪽이었습니다. 그의 전혀 외교적이지 않은 성격으로 승진이 상당히 늦어졌지만, 전장에서 능력은 의심의 여지가 없습니다. 그는 유능한 포병 지휘관이고 화력 집중 분야의 전문가입니다."
-POLITICS_BORIS_SHAPOSHNIKOV_DESC:0 "§Y장군 약력\n§Y출생:§L\n1882년 10월 2일\n러시아 제국, 우파 현, 즐라토우스트\n§Y군 경력:§L\n\n러시아 총참모부에서 최고의 재능을 가진 보리스 샤포슈니코프의 배경은 대부분 비밀에 싸여 있습니다. 말이 적고 온순하며 정치에 관심이 없는 이 장군은 과거에 볼셰비키 혁명에 대해 공감을 품은 적이 있덨다는 점을 비밀에 붙여왔습니다. 레닌이 파니 카플란의 손에 사망한지 얼마 지나지 않아 그는 적군에서 도망쳤고 1923년 러시아군에 징집되면서 군에 돌아왔습니다. 샤포슈니코프가 러시아군에서 거둔 가장 유명한 성과는 '군의 두뇌'라는 제목의 세 권짜리 군사학 이론 서적인데, 여기서 그는 미래에 전장이 어떻게 될지에 대한 시각을 상세하게 기술했습니다. \n\n세계대전을 겪은 경험에서부터 저술을 시작한 그는 미래의 전쟁은 이전보다 훨씬 잔인해 질 것이며, 이전에는 의견조차 제기된 적 없던 소위 '전쟁의 아편'이라고 이름붙인 대규모 동원이 필요하다고 주장했습니다. 국가가 현대전에서 승리하기 위해서는 대규모 동원을 정당화하고 전쟁이 계속되는 동안 병사들의 평균적인 사기를 유지하기 위해 군사적 사안을 정치적 사안과 한층 더 큰 이데올로기의 한 부분으로 통합해야 합니다. 러시아 총참모부에서 그는 자신의 군사 이론에 따라 군을 개혁해야 한다는 의견을 지지하는 주요 인물입니다."
-POLITICS_VYACHESLAV_NAUMENKO_DESC:0 "§Y장군 약력\n§Y출생:§L\n1883년 2월 25일\n러시아 제국, 쿠반 카자크, 페트롭스카야\n§Y군 경력:§L\n\n쿠반 카자크 원주민이자 능숙한 기병인 뱌체슬라프 나우멘코는 볼셰비키의 러시아 정권 탈취에 저항하기로 선택한 수많은 쿠반 카자크 장교 중 한명이며 남러시아 군대에서 빠르게 승진해 올라갔습니다. 단호히 비정치적인 그는 쿠반에서 우크라이나 동맹 지지자와 러시아 동맹 지지자들 사이에서 균열이 생기는 와중에도 질서 유지를 도왔습니다. 내전이 끝난 이후 그는 고향 사람들 사이에서 모스크바에 새로 들어선 정부에 충성을 바칠 수 있기를 원하면서 쿠반 카자크로 돌아왔습니다. 하지만 몇 년 지나지 않아 표트르 크라스노프가 반란의 깃발을 들었고 나우멘코는 공개적으로 그에게 저항을 표명한 소수의 알려진 카자크 지도자 중 한명이 되었습니다. 하지만 스텝 초원을 가로질러 벌어진 전투에서 나우멘코는 결국 패배했고 그가 이끌던 부대 패잔병은 차리친으로 도망쳤습니다. 그 이래로 그는 계속해서 러시아 군에 남아 있지만, 자신의 고향인 쿠반 지역을 정복한 크라스노프에게 계속해서 원한을 품고 복수의 기회를 노리는 중입니다."
-POLITICS_PAVEL_SHATILOV_DESC:0 "§Y장군 약력\n§Y출생:§L\n1881년 11월 23일\n러시아 제국, 트빌리시 현, 트빌리시\n§Y군 경력:§L\n\n파벨 샤틸로프는 러시아 귀족 가문에서 태어났습니다. 아버지와 할아버지 모두가 장군이었고 그의 할아버지는 파벨이 태어난 조지아 땅을 정복하는데 일조했습니다. 그는 가문의 전통을 따르기로 했고, 손쉽게 학생 군사 교련단에 참여해 코사크 연대에서 복무했고 참모대학교를 졸업했습니다. 그는 세계대전과 러시아 내전동안 복무했고 혁명이 벌어지던 와중에 소장 계급장을 달았습니다. 다른 동료들과 마찬가지로 샤틸로프는 돈 지역에서 코르닐로프 장군을 따라 자원병대에 합류했습니다. 여기서 그는 표트르 브랑겔의 가장 두드러진 측근이 되었습니다. 둘 사이의 우정은 전쟁이 끝난 이후에도 계속되었고, 오늘날까지 샤틸로프는 브랑겔이 도움이 필요하다면 항상 도움을 주는 인물입니다.\n\n샤틸로프는 유능하지만 약간 냉정한 지휘관이며, 극도의 자제력과 항상 얼굴에 남아있는 찡그린 자국으로 유명합니다. 기병대 지휘와 군사 정보 분야가 그의 전문 분야입니다."
-POLITICS_ANTON_TURKUL_DESC:0 "§Y장군 약력\n§Y출생:§L\n1892년 12월 11일\n러시아 제국, 헤르손 현, 티라스폴\n§Y군 경력:§L\n\n트란스니스트리아에서 러시아인-몰다비아인 혼혈 농민 가족에서 태어난 안톤 투르쿨은 세계대전이 발발하기 전부터 계속해서 군에 입대하고 싶어했지만, 트빌리시와 오데사 군사학교는 그의 잠재력을 알아보지 못했습니다. 징집되어 러시아 육군에 입대한 이후에서야 비로소 상급자들이 전장에서 보여준 그의 용맹을 알아챘고 급속 훈련 과정으로 보냈습니다. 루마니아에 주둔하던 그는 드로즈도프 연대 창설 과정에 참여했고 돈에서 드로즈도프스키를 따랐고 백군 내에서 계속해서 진급을 거듭합니다. 러시아 공화국이 재건된 이후 투르쿨은 더 이상 무시해도 될 정도의 계급이 아니었으며, 마침내 장군 계급장을 달게 되었습니다.\n\n러시아 총참모부 최연소 장군 중 한명이지만, 그럼에도 불구하고 뛰어난 재능을 가진 투르쿨은 많은 사람들에게 러시아 장교 신세대의 선봉장으로 여겨집니다. 그는 세상의 관심을 끌고 이미지를 만들어내는 과정을 즐겼습니다. 비록 허영심이 약간 강할지도 모르겠지만, 그렇다고 해서 지휘관으로서의 가치가 훼손되지는 않습니다."
+POLITICS_VLADIMIR_KAPPEL_DESC:0 "§Y장군 약력\n§Y출생:§L\n1883년 4월 28일\n러시아 제국, 상트페테르부르크 현, 차르스코예 셀로\n§Y군 경력:§L\n블라디미르 카펠은 군 장교 가문 출신 인물으로 어린 시절 전투에서 전사한 아버지의 뒤를 따르기로 결심했습니다. 그는 기병 장교 교육을 받았지만, 차량화된 부대 앞에 선 기병대가 얼마나 쓸모 없어 졌는지에 관한 보고서를 제출하고 졸업했습니다. 그는 세계대전동안 충실히 복무했고 브루실르프 공세에 참여했지만, 2월 혁명이 일어난 직후 태도를 바꾸었습니다. 군주제에 충성을 맹세한 카펠은 처음에는 사태가 안정되면 로마노프 가문의 지배가 돌아올 지도 모른다는 희망을 품으면서 침묵을 지켯지만, 얼마 지나지 않아 후에 백군에 가담할 장교들과 함께 음모를 꾸미기 시작했습니다. 볼셰비키가 권력을 잡았을 때 그는 페름에 있었고, 제헌 의회를 회복하겠다고 공언한 공화 사회주의 군대인 코무치 인민군에 합류하기 위해 사마라로 이동했습니다. 사회주의 군대를 이끄는 군주주의자라는 기막힌 광경이 펼쳐졌습니다. \n\n카펠은 눈부신 성과를 거두며 임무를 수행했습니다. 그는 계산적인 전술가이자 동계전 전문가로서의 능력을 보여주었는데, 이를 활용해 몇 배나 큰 볼셰비키 군대를 손쉽게 격파할 수 있었습니다. 심지어 볼세비키 신문은 그를 "작은 나폴레옹"이라고 부르기도 했습니다. 하지만 언제나 부하들 곁에 서서 소총과 수류탄을 들고 함께 싸웠기 때문에 "병사-장군"이라는 다른 별명이 붙기도 했습니다. 볼셰비키 봉기가 끝난 이후에도 카펠은 군에 남아 보병대에서 가장 중요한 장군이 되었습니다. 그는 육군 차량화와 장교단 현대화를 지지합니다."
+POLITICS_MIKHAIL_DROZDOVSKY_DESC:0 "§Y장군 약력\n§Y출생:§L\n1881년 10월 7일\n러시아 제국, 키예프 현, 키예프\n§Y군 경력:§L\n미하일 드로즈돕스키는 수많은 군 장교를 배출한 우크라이나 동부의 뿌리 깊은 러시아 귀족 가문 출신입니다. 그리고 본인도 군에 입대했지요. 그는 명예로운 파블롭스크 군사학교에서 학급 수석으로 졸업했으며 친위 연대 장교로 러일전쟁에 참전했습니다. 여기서 부상에도 불구하고 전선에 남아있었기 때문에 영웅적인 행동을 기리는 훈장을 많이 받았습니다. 이후 몇년간 그는 잠수함, 항공기 등 여러 유망한 부문에도 참여했지만 결국 지상군에 충실하기로 결정했습니다. 그의 진짜 경력은 2월 혁명 이후로 시작했는데, 여기서 모스크바 공화국 정부를 가장 먼저 거부하고 명령에 불복종한 최초의 장군이 되었습니다. 루마니아에 주둔했던 그는 볼셰비키가 정부를 전복시키는 모습을 멀찍이 지켜보면서 '드로즈돕체프'라는 자신만의 부대를 창설했고 돈에 주둔한 미하일 알렉세예프의 자원병대에 합류하기 위해 진군했습니다.\n\n내전 동안 그는 항상 로마노프 가문을 위해 싸운다고 주장하는, 무모하지만 능력있고 엄격한 장군이라는 명성을 얻었습니다. 왕조가 아직까지는 돌아오지 못했지만, 드로즈돕스키는 언젠가 귀족 혈통의 의로운 군주가 왕위를 되찾으리라는 희망을 아직까지 버리지 않았습니다. 드로즈돕스키는 그 날이 올때까지 기다리며 러시아 군대 개혁을 위해 현대적인 표준으로 삼을 만한 복잡한 게획을 세우고 있습니다."
+POLITICS_IVAN_ROMANOVSKIY_DESC:0 "§Y장군 약력\n§Y출생:§L\n1877년 4월 28일\n러시아 제국, 예카테리노슬라프 현, 루한스크\n§Y군 경력:§L\n포병 집안에서 태어나고 포병으로 교육받은 이반 로마노프스키는 러일전쟁 참전용사이고 1917년 혁명이 시작했을 시점에는 존경받는 세계대전기 사단장이었습니다. 아브르 코르닐로프에게 충성을 바치는 그는 돈에서 자원병단에 참여했고 최고 지휘부 지휘관이 되었습니다. 바로 여기서 "불운의 장군"이라는 별명을 얻었습니다. 그는 재능 있는 지휘관이었지만 직설적이고 날카로우며 말을 절대 꾸미지 않는 인물이었고, 어떤 주장이든지 자신이 받아들일 수 없다고 생각한다면 주저없이 맹비난했고, 총참모장으로 제안된 인사를 질책하는 행동으로 인해 데니킨과 코르닐로프를 제외한 모든 부대 장교들에게 증오를 샀습니다. 공화주의자들은 그가 군주주의자라고 의심했고, 군주주의자들은 그가 공화주의자라고 믿었습니다. 하지만 내전이 끝난 직후 그의 선택은 공화국의 곁에 서는 쪽이었습니다. 그의 전혀 외교적이지 않은 성격으로 승진이 상당히 늦어졌지만, 전장에서 능력은 의심의 여지가 없습니다. 그는 유능한 포병 지휘관이고 화력 집중 분야의 전문가입니다."
+POLITICS_BORIS_SHAPOSHNIKOV_DESC:0 "§Y장군 약력\n§Y출생:§L\n1882년 10월 2일\n러시아 제국, 우파 현, 즐라토우스트\n§Y군 경력:§L\n러시아 총참모부에서 최고의 재능을 가진 보리스 샤포시니코프의 배경은 대부분 비밀에 싸여 있습니다. 말이 적고 온순하며 정치에 관심이 없는 이 장군은 과거에 볼셰비키 혁명에 대해 공감을 품은 적이 있덨다는 점을 비밀에 붙여왔습니다. 레닌이 파니 카플란의 손에 사망한지 얼마 지나지 않아 그는 적군에서 도망쳤고 1923년 러시아군에 징집되면서 군에 돌아왔습니다. 샤포시니코프가 러시아군에서 거둔 가장 유명한 성과는 '군의 두뇌'라는 제목의 세 권짜리 군사학 이론 서적인데, 여기서 그는 미래에 전장이 어떻게 될지에 대한 시각을 상세하게 기술했습니다. \n\n세계대전을 겪은 경험에서부터 저술을 시작한 그는 미래의 전쟁은 이전보다 훨씬 잔인해 질 것이며, 이전에는 의견조차 제기된 적 없던 소위 '전쟁의 아편'이라고 이름붙인 대규모 동원이 필요하다고 주장했습니다. 국가가 현대전에서 승리하기 위해서는 대규모 동원을 정당화하고 전쟁이 계속되는 동안 병사들의 평균적인 사기를 유지하기 위해 군사적 사안을 정치적 사안과 한층 더 큰 이데올로기의 한 부분으로 통합해야 합니다. 러시아 총참모부에서 그는 자신의 군사 이론에 따라 군을 개혁해야 한다는 의견을 지지하는 주요 인물입니다."
+POLITICS_VYACHESLAV_NAUMENKO_DESC:0 "§Y장군 약력\n§Y출생:§L\n1883년 2월 25일\n러시아 제국, 쿠반 카자크, 페트롭스카야\n§Y군 경력:§L\n쿠반 카자크 원주민이자 능숙한 기병인 뱌체슬라프 나우멘코는 볼셰비키의 러시아 정권 탈취에 저항하기로 선택한 수많은 쿠반 카자크 장교 중 한명이며 남러시아 군대에서 빠르게 승진해 올라갔습니다. 단호히 비정치적인 그는 쿠반에서 우크라이나 동맹 지지자와 러시아 동맹 지지자들 사이에서 균열이 생기는 와중에도 질서 유지를 도왔습니다. 내전이 끝난 이후 그는 고향 사람들 사이에서 모스크바에 새로 들어선 정부에 충성을 바칠 수 있기를 원하면서 쿠반 카자크로 돌아왔습니다. 하지만 몇 년 지나지 않아 표트르 크라스노프가 반란의 깃발을 들었고 나우멘코는 공개적으로 그에게 저항을 표명한 소수의 알려진 카자크 지도자 중 한명이 되었습니다. 하지만 스텝 초원을 가로질러 벌어진 전투에서 나우멘코는 결국 패배했고 그가 이끌던 부대 패잔병은 차리친으로 도망쳤습니다. 그 이래로 그는 계속해서 러시아 군에 남아 있지만, 자신의 고향인 쿠반 지역을 정복한 크라스노프에게 계속해서 원한을 품고 복수의 기회를 노리는 중입니다."
+POLITICS_PAVEL_SHATILOV_DESC:0 "§Y장군 약력\n§Y출생:§L\n1881년 11월 23일\n러시아 제국, 트빌리시 현, 트빌리시\n§Y군 경력:§L\n파벨 샤틸로프는 러시아 귀족 가문에서 태어났습니다. 아버지와 할아버지 모두가 장군이었고 그의 할아버지는 파벨이 태어난 조지아 땅을 정복하는데 일조했습니다. 그는 가문의 전통을 따르기로 했고, 손쉽게 학생 군사 교련단에 참여해 코사크 연대에서 복무했고 참모대학교를 졸업했습니다. 그는 세계대전과 러시아 내전동안 복무했고 혁명이 벌어지던 와중에 소장 계급장을 달았습니다. 다른 동료들과 마찬가지로 샤틸로프는 돈 지역에서 코르닐로프 장군을 따라 자원병대에 합류했습니다. 여기서 그는 표트르 브랑겔의 가장 두드러진 측근이 되었습니다. 둘 사이의 우정은 전쟁이 끝난 이후에도 계속되었고, 오늘날까지 샤틸로프는 브랑겔이 도움이 필요하다면 항상 도움을 주는 인물입니다.\n\n샤틸로프는 유능하지만 약간 냉정한 지휘관이며, 극도의 자제력과 항상 얼굴에 남아있는 찡그린 자국으로 유명합니다. 기병대 지휘와 군사 정보 분야가 그의 전문 분야입니다."
+POLITICS_ANTON_TURKUL_DESC:0 "§Y장군 약력\n§Y출생:§L\n1892년 12월 11일\n러시아 제국, 헤르손 현, 티라스폴\n§Y군 경력:§L\n트란스니스트리아에서 러시아인-몰다비아인 혼혈 농민 가족에서 태어난 안톤 투르쿨은 세계대전이 발발하기 전부터 계속해서 군에 입대하고 싶어했지만, 트빌리시와 오데사 군사학교는 그의 잠재력을 알아보지 못했습니다. 징집되어 러시아 육군에 입대한 이후에서야 비로소 상급자들이 전장에서 보여준 그의 용맹을 알아챘고 급속 훈련 과정으로 보냈습니다. 루마니아에 주둔하던 그는 드로즈도프 연대 창설 과정에 참여했고 돈에서 드로즈도프스키를 따랐고 백군 내에서 계속해서 진급을 거듭합니다. 러시아 공화국이 재건된 이후 투르쿨은 더 이상 무시해도 될 정도의 계급이 아니었으며, 마침내 장군 계급장을 달게 되었습니다.\n\n러시아 총참모부 최연소 장군 중 한명이지만, 그럼에도 불구하고 뛰어난 재능을 가진 투르쿨은 많은 사람들에게 러시아 장교 신세대의 선봉장으로 여겨집니다. 그는 세상의 관심을 끌고 이미지를 만들어내는 과정을 즐겼습니다. 비록 허영심이 약간 강할지도 모르겠지만, 그렇다고 해서 지휘관으로서의 가치가 훼손되지는 않습니다."
+POLITICS_MIKHAIL_TUKHACHEVSKY_DESC:0 "§YGeneral Description\n§YBorn:§LFebruary 16th, 1893, in Alexandrovskoye, Smolensk Governorate, Russian Empire\n§YMilitary Career:§L\nBorn to impoverished Russian nobility of rumored Flemish crusader origin, Mikhail Tukhachevskiy enrolled to the cadet corps of the Russian Imperial Army in 1912. Even at a young age, he did not lack ambition - once the Weltkrieg began, he proudly declared that he will either be a general at thirty or dead by then. After showing skill and bravery in the Eastern Front, Tukhachevskiy fulfilled this goal - but not in the way he anticipated. He joined the Red Army as a volunteer and rapidly rose in rank, becoming a close associate to Leon Trotsky and achieving the rank of General not long after Lenin's assassination. The Fifth Army he commanded was one of the Red Army's finest units and pioneered the concept of motorized concentration warfare, but was ultimately defeated by Vladimir Kappel.\n\nAlongside several high ranking Bolsheviks and Red Army leaders, Tukhahevskiy escaped to France, a nation he was already familiar with, and offered his service to the newly established Commune. In the following years, he dedicated his time to essay after essay on the reforms which he believed the French army needs - his close associates said that he owns over a hundred volumes on military tactics and has read every single one. Tukhachevskiy expressed dismay at the decentralized, Syndicalist structure of the Commune, believing it unfit for modern warfare, and proposed the creation of a unified, centralized, apolitical army. Because of this, he came into constant conflict with the Faure government, but the CGT could not simply remove him from the academy - even they understood that Tukhachevskiy was the best general which the Internationale has available.\n\nTo resolve this, he and the other Bolsheviks were sent to Patagonia to lead a military mission to help the Argentinean Revolution."
+POLITICS_JOSEPH_STALIN_DESC:0 "§YGeneral Description\n§YBorn:§L\nDecember 18th, 1878\nGori, Tiflis Governorate, Russian Empire\n§YMilitary Career:§L\nIoseb Dzhugashvili is a man known by many names and aliases - Soselo, Stalin, Koba are just a few of the most famous ones. Born to an impoverished Georgian family, Ioseb was physically disabled from young age and had a troubled childhood, marked by fights, abuse and alcoholism. Early in his life, he got drawn to Georgian nationalist poetry and enrolled in the Tiflis Seminary, but abandoned his previous calling when he came into contact with socialist literature. He dedicated himself to Marxism, joined the Bolshevik faction of the RSDLP, and raised money for the revolution with protection rackets, counterfeiting and bank robberies. He was a loyal follower of Lenin and represented the party in the public by running the newspaper 'Pravda', and his articles there helped make a name for himself as well.\n\nDuring the fateful months of 1917, Dzhugashvili helped organize the July Days uprising and the October Revolution, and gained a seat in the Sovnarkom. He, Lenin and Trotsky formed the informal troika which controlled the state - as a result, Dzhugashvili was sent to Tsaritsyn to organize resistance against the Whites, where he showed himself as an okay, if reckless commander. Once Lenin was assassinated in August 1918, it was Trotsky who took charge and not him - but the Soviet state was not one to last, eventually collapsing. Dzhugashvili, unlike Trotsky, managed to escape, making his way to France with the rest of the Bolshevik remnants, and helped reestablish the Party in exile.\n\nTo support the Patagonian Syndicalist revolution, Dzhugashvili was sent to the Southern Cone alongside a mission of other Bolsheviks, and alongside Tukhachevskiy, he is one of the highest ranking Internationale officials in Patagonia, albeit unlike Tukhachevskiy, representing the political interests of the Internationale.\n§YImportant Notes:§W- Aligned with the Communist faction."
+POLITICS_VASILY_CHUIKOV_DESC:0 "§YGeneral Description\n§YBorn:§LFebruary 12th, 1900, in Serebryanye Prudy, Tula Governorate, Russian Empire\n§YMilitary Career:§L\nVasiliy Chuykov was born into nothing - an impoverished peasant family deep in Central Russia, struck by hunger, unable to maintain twelve children. At the age of twelve, he left his family home and travelled across the country, ending up in Petrograd - there, he became a child labourer in a military factory, producing spurs for cavalry officers. The Revolution of 1917 left the seventeen year old Chuykov unemployed, but thanks to the contacts of one of his older brothers, he was recruited into the Red Guards, and from there, into the Red Army.\n\nChuykov achieved the rank of company commander, showing off skill at commanding troops, but ending up fairly inconsequential in the grand events beyond his understanding. He did, however, manage to escape to France alongside the remnants of the Red Army. Separated from his home, his family and whatever was left of his ordinary life, he had only one path left to pursue - join the Bolshevik remnants, enroll for officer training and become a commander in the French army. As a close associate of Mikhail Tukhachevskiy, he was assigned to the Internationale mission to Patagonia, where he hopes to prove his worth."
+POLITICS_GEORGY_ZHUKOV_DESC:0 "§YGeneral Description\n§YBorn:§LDecember 1st, 1896, in Strelkovka, Kaluga Governorate, Russian Empire\n§YMilitary Career:§L\nBorn to an impoverished peasant family in Central Russia, Georgiy Zhukov never considered himself to be a military man in the making, instead apprenticing to be a furrier in his brother's workshop in Moscow. Then the Weltkrieg came, and with it, Zhukov was conscripted to the Imperial Russian Army. Here, he found his calling, displaying skill, bravery, and finishing server as a non-commissioned cavalry officer. After the October Revolution, he briefly went back home, but once again returned to the frontlines, this time as a junior commander in the Red Army.\n\nZhukov's service was rather brief, however, but once the Soviet regime collapsed, he escaped his homeland with numerous other Red Army commanders, and landed in France. Getting accustomed to a completely foreign country was difficult, but Zhukov had fully dedicated himself to the Bolshevik course by then and pushed forward with dedication - he completed officer training courses, maintained contact with Mikhail Tukhachevskiy and studied modern strategy from his superior, and voluntarily joined the Internationale mission to Patagonia. Dutifully loyal to the cause of the Revolution, he is often seen as the most trustworthy and reliable of the Bolshevik quartet, even if his inexperience holds him back from promotions."
 
 ### Decisions ###
 RUS_Foreign_Policy_decisions:0 "대외 정책"
@@ -646,6 +663,10 @@ RUS_has_black_monday_NOT:0 "국민정신 §H경제 불황§!을 가지지 않음
 RUS_Okhrannoye_Otdeleniye_tooltip:0 "정부는 오흐라나를 재도입하기로 결정했습니다"
 RUS_Army_Modernisation_tooltip:0 "군사 훈련이 끝났습니다"
 RUS_Navy_Modernisation_tooltip:0 "해군 기동이 끝났습니다"
+RUS_economic_tree_unlocked_ves:0 "§HEstablish the VES§! 중점이 해금됩니다"
+RUS_economic_tree_unlocked_zemstva:0 "§HReintroduce the Zemstva§! 중점이 해금됩니다"
+RUS_economic_tree_unlocked_bureaucracy:0 "§HBureaucratic Overhaul§! 중점이 해금됩니다"
+RUS_economic_tree_unlocked_cooperatives:0 "§HCooperative Capitalism§! 중점이 해금됩니다"
 
 RUS_Expansionism_tooltip:0 "§C팽창주의를 선택하면, 당신은 이벤트나 중점, 결정에서 더 공격적인 입장을 취할 수 있을 것이지만, 세계 긴장도가 상승하고 주변국을 화나게 할 것입니다!§!"
 RUS_Attack_Central_Asia_ALO_tooltip:0 "§H[ALO.GetNameDef]§! 공격\n"
@@ -672,7 +693,7 @@ RUS_Empower_The_Duma_tooltip:0 "§C공화국이 유지될 것이고 정치적으
 RUS_The_Second_Revolution_tooltip:0 "§C15년 전에 사라진 것과 비슷한 프롤레타리아 독재정이 들어설 것입니다.§!\n"
 RUS_A_Firm_Hand_savinkov_tooltip:0 "§C사빈코프가 공화국의 공식적인 새 보즈드가 될 것입니다.§!\n"
 RUS_A_Firm_Hand_military_tooltip:0 "§C러시아는 군사독재정 국가가 될 것입니다!§!\n"
-RUS_Expansion_Of_The_Rumyantsev_Library_tooltip:0 "§H입헌 군주정§! 혹은 §H제국의 영광§! 변동치 효과\n연구 속도: [?0.05|=]"
+RUS_Expansion_Of_The_Rumyantsev_Library_tooltip:0 "§H입헌 군주정§! 혹은 §H제국의 영광§! 변동치 효과\n연구 속도: [?0.03|+=%]"
 
 RUS_Ural_Tractor_Plants_tooltip:0 "§H최고경제위원회§! 변동치 효과\n§H기갑§!: £production_cost  생산 비용:  [?-0.15|%-]\n"
 RUS_Machine_And_Tractor_Stations_tooltip:0 "§H최고경제위원회§! 변동치 효과\n징집 가능한 인구: [?-0.05|%+0]\n£prod_eff_cap  생산 효율성 한도: [?0.2|%+=]\n"
@@ -719,7 +740,7 @@ russia.6.e:0 "코르닐로프가 모스크바를 기습하였고, 거리가 피�
 
 russia.7.t:0 "수상 임명"
 russia.7.d:0 "대통령에 당선된 드미트리 로마노프 대공은 불안정한 우파 연정에도 불구하고 대규모 연합을 지휘하고 있습니다. 이미 귀족들과 기업 로비스트들은 그에게 그의 다음 행보에 대해 조언해 주겠다고 접근했고 드미트리는 정치적 경험이 거의 없기 때문에 기꺼이 귀를 기울이려고 하고 있습니다. 여러 명의 후보가 테이블에 올려져 있고 각 후보들은 각자 자신의 지지자들을 데려왔습니다.."
-russia.7.a:0 "블라디미르 푸리슈케비치!"
+russia.7.a:0 "블라디미르 푸리시케비치!"
 russia.7.b:0 "키릴 총대주교가 드미트리를 국민의 남자로 만들 것이다!"
 russia.7.c:0 "민주주의자들을 달래자, 파벨 밀류코프."
 russia.7.e:0 "조언은 무의미하다. 드미트리의 소꿉친구 펠릭스 유수포프를 선택하라!"
@@ -735,7 +756,7 @@ russia.9.t:0 "수상 임명"
 russia.9.d:0 "그의 명령에 따르도록 두마를 강하게 단련시킨 표트르 브란겔은 대통령 권한대행으로 선출되었고 명목상으로 이 나라를 통치하고 있습니다. 그러나 그와 그의 군정은 딜레마에 직면해 있습니다 - 순조로운 권력 이양을 위해, 그는 국가의 일상적인 업무를 관리하는 데 도움을 줄 우호적인 민간 정부를 구성할 필요가 있습니다. 비록 꼭두각시로 사용할 사람들은 넘쳐나지만, 그들 중 몇몇만이 능력과 지지 기반을 가지고 있으며, 이 선택이 브란겔의 통치 방식을 결정할 것입니다."
 russia.9.a:0 "케렌스키의 수상 파벨 밀류코프의 직위를 유지시키자."
 russia.9.b:0 "키릴 대주교가 대중의 지지를 이끌어낼 것이다."
-russia.9.c:0 "블라디미르 푸리슈케비치."
+russia.9.c:0 "블라디미르 푸리시케비치."
 russia.9.e:0 "대통령직과 수상직을 합치자."
 
 russia.10.t:0 "코르닐로프의 결정"
@@ -814,7 +835,7 @@ russia.183.a:0 "우라!"
 
 russia.19.t:0 "키릴이 수상을 지명하다"
 russia.19.d:0 "러시아에 차르정이 복원되었고, 새 차르는 이제 수상을 지명해야 합니다."
-russia.19.a:0 "블라디미르 푸리슈케비치."
+russia.19.a:0 "블라디미르 푸리시케비치."
 russia.19.b:0 "군대 출신의 안톤 데니킨."
 russia.19.c:0 "유수포프가 귀족들의 지지를 모을 것이다!"
 russia.19.e:0 "니콜라이 트루베츠코이가 유라시아주의를 통해 러시아를 이끌 것이다!"
@@ -824,8 +845,8 @@ russia.20.t:0 "푸시킨 사망 100주년"
 russia.20.d:0 "어제 러시아 최고의 시인을 기념하기 위한 기념비가 수도에서 그 모습을 드러냈습니다. 푸시킨 사망 100주년 기념식은 이러한 어두운 시기에 하나의 등불이 될 것이며, 러시아 역사와 문화의 전성기를 되돌아 보게 할 것입니다."
 russia.20.a:0 "우리는 모든 시인을 사랑한다!"
 
-russia.21.t:0 "'징기스칸의 유산', 니콜라이 트루베츠코이"
-russia.21.d:0 "유명한 언어학자이자 역사학자인 니콜라이 투르베츠코이 왕자는 1930년대 정치로 눈을 돌렸고 유라시아주의에 대한 이념적 원칙을 책 한권에 성문화하기로 선택했습니다. 그 책이 바로 "칭기즈 칸의 유산: 동쪽에서 러시아 역사를 바라보다"입니다. 그 책은 벌써 러시아 문단을 돌아다니기 시작했고, 대중들 사이에서 조잡한 인용문이 돌아다니는 중입니다.\n\n유라시아주의는 어떤 범위 안에 살아가는 사람들을 규정하는 지리적 조건인 "생활권" ("메스토라즈비티야") 개념을 신봉합니다. 같은 생물군이나 지리적 구역 내에서 살아가는 사람들은 공동의 문명과 연합하려는 자연스러운 욕구를 가디게 됩니다. 그들의 관점에서 보자면, 러시아는 동유럽과 중앙아시아의 모든 사람들을 포함하는 "스텝 문명"의 중심을 형성하고 있고, 유라시아주의자들은 그들을 집단적 친족으로 간주하고 러시아 통치 아래에 통합할 것을 요구합니다. 자신이 모스크바, 더 나아가 러시아의 대공이라고 선언한 투르베츠코이는 러시아 민족의 영웅인 몽골 제국과 칭기즈 칸의 후계자입니다.\n\n이런 "러시아-유라시아" 개념은 유라시아주의자들이 "유라시아적"이라고 믿는 이타주의, 영웅주의, 사회 체제와 복종과 같은 이념과 사상을 포함해야 합니다. 유라시아주의자들은 민주주의는 "바다 민족"을 위한 정치 체제라고 믿으며 민주주의는 러시아에 완전히 어긋나 있다고 믿습니다. 러시아는 민주주의를 강요하는 세계에 맞서 싸워야 할 뿐만 아니라 다른 비유럽 국가들을 서구의 지배에서 해방시키고 서구식 "문화 제국주의"를 물리쳐야 하는 의무가 있습니다.\n\n이 책이 출판된 이후, 그 사상이 러시아 우파 사이를 떠다니기 시작했습니다."
+russia.21.t:0 "'징기스 칸의 유산', 니콜라이 트루베츠코이"
+russia.21.d:0 "유명한 언어학자이자 역사학자인 니콜라이 투르베츠코이 왕자는 1930년대 정치로 눈을 돌렸고 유라시아주의에 대한 이념적 원칙을 책 한권에 성문화하기로 선택했습니다. 그 책이 바로 "징기스 칸의 유산: 동쪽에서 러시아 역사를 바라보다"입니다. 그 책은 벌써 러시아 문단을 돌아다니기 시작했고, 대중들 사이에서 조잡한 인용문이 돌아다니는 중입니다.\n\n유라시아주의는 어떤 범위 안에 살아가는 사람들을 규정하는 지리적 조건인 "생활권" ("메스토라즈비티야") 개념을 신봉합니다. 같은 생물군이나 지리적 구역 내에서 살아가는 사람들은 공동의 문명과 연합하려는 자연스러운 욕구를 가디게 됩니다. 그들의 관점에서 보자면, 러시아는 동유럽과 중앙아시아의 모든 사람들을 포함하는 "스텝 문명"의 중심을 형성하고 있고, 유라시아주의자들은 그들을 집단적 친족으로 간주하고 러시아 통치 아래에 통합할 것을 요구합니다. 자신이 모스크바, 더 나아가 러시아의 대공이라고 선언한 투르베츠코이는 러시아 민족의 영웅인 몽골 제국과 칭기즈 칸의 후계자입니다.\n\n이런 "러시아-유라시아" 개념은 유라시아주의자들이 "유라시아적"이라고 믿는 이타주의, 영웅주의, 사회 체제와 복종과 같은 이념과 사상을 포함해야 합니다. 유라시아주의자들은 민주주의는 "바다 민족"을 위한 정치 체제라고 믿으며 민주주의는 러시아에 완전히 어긋나 있다고 믿습니다. 러시아는 민주주의를 강요하는 세계에 맞서 싸워야 할 뿐만 아니라 다른 비유럽 국가들을 서구의 지배에서 해방시키고 서구식 "문화 제국주의"를 물리쳐야 하는 의무가 있습니다.\n\n이 책이 출판된 이후, 그 사상이 러시아 우파 사이를 떠다니기 시작했습니다."
 russia.21.a:0 "흥미롭군!"
 
 russia.22.t:0 "또다른 브레스트-리토프스크는 없다"
@@ -1135,7 +1156,7 @@ rusd.61.e:0 "러시아 연합을 중심으로 중도 우파 연합이 형성된�
 rusd.61.f:0 "10월주의자들과 국민공화당이 우파 연합을 형성한다."
 
 rusd.66.t:0 "체르노프와 체레텔리가 갈라서다"
-rusd.66.d:0 "볼셰비키가 오래 전에 역사 속으로 사라진 이후에도 그 반대말인 '멘셰비키'라는 명칭을 아직까지 가지고 있는 사회민주노동당은 오랫동안 좌파정당이자 케렌스키 정권의 가장 유력한 반대정당으로 활동했습니다. 하지만 당수 이라클리 체레텔리는 당의 모든 잠재력을 이용하지 못했는데, 이는 그가 사소한 정치질, 뒷공작, 조작에 격렬히 반대하는 등 현실보다 이상을 따르는 러시아 정치계에서 거의 볼 수 없는 인물이었기 때문이었습니다. 그 반대편에는 빅토르 체르노프가 서 있는데, 그도 한때는 체레텔리와 같은 이상주의자였지만 제헌의회가 열린지 20년후 완전히 바뀐 사람으로 케렌스키의 영원할 듯 했던 대통령 재임 기간동안 막후 정당조직으로 활동했습니다.\n\n1월 사건은 양 지도자는 서로 가까워져 다원적인 좌파 연대체를 구성했지만, 오래 가지는 못했습니다. 연대를 시작한지 몇 달이 지난 후 멘셰비키는 마침내 사회혁명당 동맹과 관계를 단절했습니다. 멘셰비키는 좌파로 방향을 틀면서 생디칼리슴에 영향을 받은 극단주의자들을 끌어들이려 노력했고, 그 중에는 사회주의혁명당보다 낫다고 생각한 체레텔리도 있었습니다. 한편 체르노프는 카데트와 동맹을 위해 다시 한번 협상장에 앉게 되었습니다."
+rusd.66.d:0 "볼셰비키가 오래 전에 역사 속으로 사라진 이후에도 그 반대말인 '멘셰비키'라는 명칭을 아직까지 가지고 있는 사회민주노동당은 오랫동안 좌파정당이자 케렌스키 정권의 가장 유력한 야당으로 활동했습니다. 하지만 당수 이라클리 체레텔리는 당의 모든 잠재력을 이용하지 못했는데, 이는 그가 사소한 정치질, 뒷공작, 조작에 격렬히 반대하는 등 현실보다 이상을 따르는, 러시아 정치계에서 거의 볼 수 없는 인물이었기 때문이었습니다. 그 반대편에는 빅토르 체르노프가 서 있는데, 그도 한때는 체레텔리와 같은 이상주의자였지만 제헌의회가 열린지 20년후 완전히 바뀌어서 케렌스키의 영원할 듯 했던 대통령 재임 기간동안 막후 정당조직으로 활동했습니다.\n\n1월 사건으로 양 지도자는 서로 가까워져 다원적인 좌파 연대체를 구성했지만, 오래 가지는 못했습니다. 연대를 시작한지 몇 달이 지난 후 멘셰비키는 마침내 사회혁명당과의 동맹 관계를 단절했습니다. 체레텔리가 생디칼리슴에 영향을 받은 극단주의자들이 사회혁명당보다 낫다고 생각하고 멘셰비키를 더 좌파로 틀면서 그들을 끌어들이려 노력하고 있는 한편 체르노프는 카데트와 동맹을 위해 다시 한번 협상장에 앉게 되었습니다."
 rusd.66.a:0 "빨갱이들이 서로 싸우게 두자!"
 rusd.66.b:0 "안돼!"
 
@@ -1147,9 +1168,9 @@ rusd.96.t:0 "안톤 데니킨의 죽음"
 rusd.96.d.not_hos:0 "러시아 내전의 영웅이자 러시아 보수주의자들의 상징적 지도자 안톤 이바노비치 데니킨이 어제 그의 저택에서 세상을 떠났습니다. 비록 그의 숙적인 남작 브란겔만큼은 아니지만, 그는 러시아 전역에 막대한 영향을 끼쳤습니다. 러시아의 몇 안 되는 진정한 영웅들 중 한 명에게 작별을 고하기 위해 일주일의 국가적인 애도 기간이 선포되었습니다.."
 rusd.96.d.hos:0 "러시아 내전의 영웅이자 러시아 보수주의자들의 상징적 지도자 안톤 이바노비치 데니킨이 어제 그의 저택에서 세상을 떠났습니다. 비록 그의 숙적인 남작 브란겔만큼은 아니지만, 그는 러시아 전역에 막대한 영향을 끼쳤습니다. 러시아의 몇 안 되는 진정한 영웅들 중 한 명에게 작별을 고하기 위해 일주일의 국가적인 애도 기간이 선포되었습니다.\n\n데니킨의 죽음으로, 러시아 앞에는 수많은 길이 열리게 되었습니다. 적법한 왕위계승자 블라디미르 로마노프는 권력을 되찾고 그의 정당한 자리에 오르길 갈망하고 있고, 자유주의자들은 공화국의 재건을 주장하고 있습니다."
 rusd.96.a:0 "굿바이, 데니킨."
-rusd.96.b:0 "세상에서 가장 위대한 죽음이었다!"
-rusd.96.c:0 "블라디미르와 함께 로마노프가의 전제군주제를 복원시키자."
-rusd.96.d:0 "블라디미르와 함께 로마노프가의 입헌군주제를 복원시키자."
+rusd.96.b:0 "가장 강한이도 언젠가는 죽는다!"
+rusd.96.c:0 "블라디미르를 데려와 로마노프가의 전제군주제를 복원시키자."
+rusd.96.d:0 "블라디미르를 데려와 로마노프가의 입헌군주제를 복원시키자."
 rusd.96.e:0 "공화국을 재건하자."
 
 rusd.100.t:0 "파벨 밀류코프의 죽음"
@@ -1158,7 +1179,7 @@ rusd.100.a:0 "메멘토 모리."
 
 rusd.101.t:0 "블라디미르 푸리시케비치의 죽음"
 rusd.101.d.not_monarchy:0 "보수주의 운동의 저명인사이자 러시아의 마지막 지주가 어제 그의 시골 별장에서 죽었습니다. 그의 죽음으로 우파 진영의 정치 지형이 크게 개편될 것입니다."
-rusd.101.d.monarchy:0 "보수주의 운동의 저명인사이자 러시아의 마지막 지주가 어제 그의 시골 별장에서 죽었습니다. 그의 죽음으로 우파 진영의 정치 지형이 크게 개편될 것입니다.\n\n그의 죽음으로 차르는 각료위원회의 새 의장을 선출해야 하게 되었습니다."
+rusd.101.d.monarchy:0 "보수주의 운동의 저명인사이자 러시아의 마지막 지주가 어제 그의 시골 별장에서 죽었습니다. 그의 죽음으로 우파 진영의 정치 지형이 크게 개편될 것입니다.\n\n그의 죽음으로 [ROOT.GetLeader] 차르는 각료위원회의 새 의장을 선출해야 하게 되었습니다."
 rusd.101.a:0 "펠릭스 유수포프가 수상직을 이어받을 것이다."
 rusd.101.b:0 "전통파 장군 안톤 데니킨!"
 rusd.101.c:0 "개혁파 장군 표트르 브란겔!"
@@ -1878,7 +1899,7 @@ rusfor.1279.t:0 "캅카스 북부의 질서가 확립되었다"
 rusfor.1279.d:0 "우리가 돈-쿠반 지역을 탈환한 지 6개월이 넘었고, 마침내 지역 전역에 대한 통제권을 확보할 수 있게 되었습니다. 지역 러시아인들과 기독교 국가들이 마침내 적대적인 부족의 약탈 위협에서 벗어났고 우리에 대항하여 싸웠던 범죄자들이 죽거나 도망쳤습니다. 러시아 남부에 새로운 번영의 시대가 열렸습니다!"
 rusfor.1279.a:0 "좋아!"
 
-#Loc done by Omanisch#
+#Russian World News#
 russianews.1.t:0 "보즈드의 부상"
 russianews.1.d:0 "며칠 전 라브르 코르닐로프 러시아 최고사령관 겸 대통령이 잠결에 세상을 떠났습니다. 코르닐로프의 죽음과 함께 그가 임명한 보리스 사빈코프 총리는 그의 정부 내 권력을 이용해 총리와 대통령 자리를 합쳐 러시아의 첫 보즈드(영도자)가 됐습니다. 사빈코프와 그의 '러시아 인민공화당'은 케렌스키가 죽기 훨씬 전부터 러시아에서 영향력을 키우고 있었습니다. NRPR과 사빈코프는 러시아를 브레스트-리토프스크 조약의 사슬에서 해방시키고 러시아 국민에게 옛 영광을 되찾아 주겠다고 약속했습니다. 그의 계획이 어떻게 전개될지는 불분명하지만 한가지 분명한 것은 보리스 사빈코프가 이제 새로운 러시아국의 확고한 지도자라는 것입니다."
 russianews.1.a:0 "불편한 뉴스군."
@@ -1902,6 +1923,15 @@ russianews.5.a:0 "러시아의 새로운 시대이군..."
 russianews.6.t:0 "러시아 내전의 끝"
 russianews.6.d:0 "[RUS.GetLeader] 세력의 단순 군사쿠데타로 시작된 것이, 순식간에 전국적 내전으로 확대되었습니다. 오늘, 러시아의 마지막 생디칼리스트 부대가 항복했고, 쿠데타는 완수되었습니다. 러시아 백군이 또다시 승리했습니다. 이미 재건 작업이 시작되었으나, 국가 재건을 위해 [RUS.GetLeader](이)가 취할 방향은 아직 불확실합니다. 우리는 기다릴 수 밖에 없습니다..."
 russianews.6.a:0 "역사가 반복되었다."
+
+russianews.7.t:0 "The Second Russian Civil War"
+russianews.7.d:0 "Just twenty years ago, in the last years of the Weltkrieg, the Russian Empire collapsed, ripped apart by nationalist movements and divided between the Whites and the Reds. After a German intervention, the republican government defeated the Bolsheviks, but it appears that the Russian revolutionary spirit was not extinguished.\n\nAfter ineffective land reform by the Kerensky government and austerity measures to pay off the Brest-Litovsk reparations, as well as a crisis in the government after the President's assassination, the cities in the western part of the nation have been engulfed with the Red tide once more. Will the Russian Socialist Republic prevail, or will the loyalists of the White government defeat the dissenters a second time?"
+russianews.7.a:0 "When will they learn?"
+
+russianews.8.t:0 "Tsardom Restored"
+russianews.8.d:0 "The Russian Republic, created in the last years of the Weltkrieg, appears to only have lasted twenty years before its end. Plagued by disorder, political agitation and ineffective governance in recent years, the Republic lost the support of the people and state news agencies now report that a successor to Nikolay II has been crowned Tsar of all the Russians.\n\nWhile it is not known what the international priorities of this reborn Russian Empire are, or even if the coronation of the Tsar will calm the turbulent nation, numerous monarchs across the world have already congratulated the Romanovs on regaining their divine birth right."
+russianews.8.a:0 "How long will they last this time?"
+
 
 ### Tags ###
 RUS_totalist:0 "러시아 공화국"
