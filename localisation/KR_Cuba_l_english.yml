@@ -1505,7 +1505,7 @@ cuba.80.d:0 "디아즈 장군은 파업 기간 동안 종종 비협조적인 태
 cuba.80.a:0 "현명한 행동이군."
 
 cuba.81.t:0 "디아스가 움직이다"
-cuba.81.d:0 "디아즈 장군은 상원에 임명된 이후, 농촌에서 활동하는 잔존한 소규모의 사회주의 조직을 효과적으로 탄압하며 군부에 대한 통치를 공고히 했습니다. 그러나, 그저 상원의원장직을 가진 것에 만족하지 않고, 디아즈는 바스케스 대통령에게 모든 내각진을 해임하고 모든 주요 장관직에 이미 통제할 수 없으며 그에게만 충성을 바치는 사람들로 채울 것을 요구하였습니다. 바스케스 대통령은 이러한 정치적 행동에 저항할 움직임조차 보이지 않았고, 사실상 쿠바 행정부는 서류상에만 존재하는 바스케스의 권한으로써 완전히 디아즈의 통제를 받고 있습니다. "
+cuba.81.d:0 "Since his appointment to the Senate, General Díaz has effectively suppressed the remaining socialist cells operating in the countryside and has consolidated his control over the army. Not satisfied to merely hold the position of senate President, however, Díaz has demanded that the President dismiss his cabinet and appoint to every key ministerial position not already under control men loyal to him alone. The President has made no move to resist this political manoeuvre and in effect, the Cuban executive is now fully under general Díaz's control with Vázquez's authority existing only on paper."
 cuba.81.a:0 "필요한 조치다."
 
 # New Cuba Event
@@ -1523,7 +1523,7 @@ cuba.83.b:0 "그럴 가지는 없다."
 
 cuba.85.t:0 "석유 확보 실패"
 cuba.85.d:0 "지금까지 헤아릴 수 없이 많은 정부의 자금 지원을 받았음에 불구하고, 석유 추출 시도는 여전히 과실을 맺지 못했습니다. 아마 지금이 석유 생산량 증가를 포기하고 우리의 손실을 줄일 때인 것 같습니다."
-cuba.85.a:0 "계속  시도해라."
+cuba.85.a:0 "계속 시도해라."
 cuba.85.b:0 "포기하자."
 
 cuba.86.t:0 "석유 확보 성공"
