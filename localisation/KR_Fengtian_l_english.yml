@@ -108,6 +108,7 @@ FNG_Paternal_Guidance:0 "국부 절대주의"
 FNG_Japanese_Economic_Union:0 "일본 경제 블록"
 FNG_Japanese_Economic_Union_2:0 "일본 경제 블록"
 FNG_Japanese_Economic_Union_3:0 "일본 경제 블록"
+FNG_Industrial_Soy_Shortage:0 "Industrial Soy Shortage"
 
 FNG_Expel_the_Japanese_Bandits:0 "도적떼 일본놈들을 축출하자!"
 FNG_Expel_the_Japanese_Bandits_desc:0 "중국에서 일본 침략자들을 몰아내고, 견딜 수 없는 민족적 굴욕으로 점철된 한 세기를 종식시킬 때가 왔습니다!"
@@ -216,6 +217,8 @@ FNG_Request_Japanese_Artillery:0 "일본에 야포 요청"
 FNG_Request_Japanese_Artillery_desc:0 "일본의 고쿠라 조병창은 오래 전부터 양질의 야포를 생산해왔고, 이는 우리의 전쟁 수행에 큰 도움이 될 것입니다."
 FNG_Request_Japanese_Tanks:0 "일본에 전차 요청"
 FNG_Request_Japanese_Tanks_desc:0 "일본의 산업은 우리의 생산력을 압도하는 엄청난 양의 전차를 생산할 수 있습니다. 당연히 여분도 조금 가지고 있겠지요."
+FNG_Purchase_Japanese_Armored_Cars:0 "Purchase Japanese Armored Cars"
+FNG_Purchase_Japanese_Armored_Cars_desc:0 "The Osaka Arsenal produces limited numbers of armored cars, meaning the Imperial Japanese Army has no surplus units to send us. We will have to purchase the models ourselves."
 
 FNG_Preparing_For_The_Princes_Visit:0 "친왕의 방문 준비"
 FNG_Preparing_For_The_Princes_Visit_desc:0 "일본 천황의 숙부인 간인노미야 고토히토 친왕이 올해 말 동북지역을 시찰하기 위해 도착할 예정입니다. 이런 중요한 국빈, 특히 선양-도쿄 간의 관계를 크게 개선시킬 수 있는 이번 방문에서 우리는 최대한 호의를 표현해야 합니다. 친왕의 생명에 대해 민족주의자들이 음모를 꾸민다는 루머도 잠재워야겠군요."
@@ -421,7 +424,7 @@ FNG_leads_to_reclamation_war:0 "§Y[608.Owner.GetNameDef]§!(와)과의 §R전�
 
 FNG_shanhaiguan_modifier_desc:0 "Our infiltrators will apply the following effects to the §Y[608.Owner.GetName]§! in §YTangshan§!:\nIntel to enemies: §R+200%§!\nDivision Defence: §R-80.0%§!\n"
 
-FNG_CCPOP_5:0 "§H콩코르디아 협의회§! 영향력 변화: §G5.00%§!\n"
+FNG_CCPOP_5:0 "§H협화회§! 영향력 변화: §G5.00%§!\n"
 
 FNG_move_capital_to_beijing:0 "§Y베이징§!으로 수도 이전.\n"
 
@@ -540,6 +543,32 @@ BONUS_PP_50:0 "정치력 점수 보너스: §G+50§!\n"
 BONUS_PP_80:0 "정치력 점수 보너스: §G+80§!\n"
 BONUS_PP_100:0 "정치력 점수 보너스: §G+100§!\n"
 
+### Japanese Tension Tooltips ###
+FNG_japanese_tensions_tooltip:0 "Tension Level: [FNG.FNG_japanese_tensions_text]"
+FNG_japanese_tensions_tooltip_long:0 "[FNG.FNG_japanese_tensions_desc]"
+
+FNG_japanese_tensions_none:0 "[?FNG.FNG_japanese_tensions|G] §G(None)§!"
+FNG_japanese_tensions_none_desc:0 "Description needed."
+FNG_japanese_tensions_low:0 "[?FNG.FNG_japanese_tensions|Y] §Y(Low)§!"
+FNG_japanese_tensions_low_desc:0 "Description needed."
+FNG_japanese_tensions_rising:0 "[?FNG.FNG_japanese_tensions|O] §O(Rising)§!"
+FNG_japanese_tensions_rising_desc:0 "Description needed."
+FNG_japanese_tensions_medium:0 "[?FNG.FNG_japanese_tensions|O] §O(Medium)§!"
+FNG_japanese_tensions_medium_desc:0 "Description needed."
+FNG_japanese_tensions_high:0 "[?FNG.FNG_japanese_tensions|R] §R(High)§!"
+FNG_japanese_tensions_high_desc:0 "Description needed."
+FNG_japanese_tensions_critical:0 "[?FNG.FNG_japanese_tensions|R] §R(Critical)§!"
+FNG_japanese_tensions_critical_desc:0 "Description needed."
+
+FNG_japanese_tensions_increase_1:0 "§YTension with Tokyo§!: §R+1§!"
+FNG_japanese_tensions_increase_1_3:0 "§YTension with Tokyo§!: §R+1-3§!"
+FNG_japanese_tensions_increase_3:0 "§YTension with Tokyo§!: §R+3§!"
+
+FNG_japanese_tensions_decrease_1:0 "§YTension with Tokyo§!: §G-1§!"
+FNG_japanese_tensions_decrease_1_3:0 "§YTension with Tokyo§!: §G-1-3§!"
+FNG_japanese_tensions_decrease_3:0 "§YTension with Tokyo§!: §G-3§!"
+
+
 ### Popularity Tooltips ###
 
 # Recovery League / National Unity League #
@@ -636,7 +665,7 @@ FNG_Enrich_the_Nation_desc:0 "일본의 출판물 '끝없는 자원의 보고'�
 FNG_Mantetsu_Collaboration:0 "만철과의 협력"
 FNG_Mantetsu_Collaboration_desc:0 "'남만주 철도 회사'로도 알려진 만철은 제분소부터 병원까지 우리의 경제 전체에 크나큰 영향력을 행사하고 있습니다. 불행하게도 우리 경제를 위해선 일본의 전문 기술 원조가 필수적입니다."
 FNG_Yamato_Hotel_Licenses:0 "야마토호텔 허가"
-FNG_Yamato_Hotel_Licenses_desc:0 "만철이 만주에서 한 벤처 투자중 하나는 야마토 호텔 프랜차이즈입니다. 야마토 호텔은 매일같이 자국과 해외를 넘나드는 수많은 일본인 기업가들에게 서비스를 제공합니다. 그들의 반갑지 않은 영향은 싫지만, 그들의 기술과 자본은 우리에게 필요악입니다."
+FNG_Yamato_Hotel_Licenses_desc:0 "만철이 만주에서 한 벤처 투자중 하나는 야마토 호텔 프랜차이즈입니다. 야마토 호텔은 매일같이 자국과 해외를 넘나드는 수많은 일본인 기업가들에게 서비스를 제공합니다. 그들의 반갑지 않은 영향은 싫지만, 그들의 기술과 자본은 우리에게 필요악입니다. We must decide their future."
 FNG_Japanese_Electrical_Expertise:0 "일본인 전기 기술자"
 FNG_Japanese_Electrical_Expertise_desc:0 "지난 세기 시대에 뒤쳐진 중국의 후진성과 최근 20년간의 혼란때문에, 중국인 기술자는 씨가 말랐습니다. 때문에 동북 지역을 근대화하기 위해선 일본인의 도움이 필수적입니다."
 FNG_Mantetsu_Research_Wing:0 "만철 조사부"
