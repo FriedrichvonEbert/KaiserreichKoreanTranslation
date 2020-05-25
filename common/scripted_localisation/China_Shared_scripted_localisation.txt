@@ -303,6 +303,12 @@ defined_text = {
 	}
 	text = {
 		trigger = {
+			tag = FNG
+		}
+		localization_key = "FNG_redoubt"
+	}
+	text = {
+		trigger = {
 			is_ruled_by_kmt = yes
 		}
 		localization_key = "CHI_redoubt"
