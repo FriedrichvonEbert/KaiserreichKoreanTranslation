@@ -184,7 +184,6 @@ seventy_two_cannon_artillery_foundry:0 "72-Cannon Artillery Foundry"
 jinan_arsenal:0 "지난 병기창"
 
 ### Flags
-
 SQI_Zheyuan_beat_Zongchang:0 "쑹저위안이 권력을 장악함"
 SQI_Tianran_beat_Zongchang:0 "일관도가 권력을 장악함"
 SQI_Zongchang_beat_Tianran:0 "장쭝창이 권력을 유지함"
@@ -198,6 +197,7 @@ Zongchang_dead:0 "장쭝창이 사망함"
 Tianran_dead:0 "장톈란이 사망함"
 Zheyuan_dead:0 "쑹저위안이 사망함"
 SQI_feng_supports_zhang_vs_anq:0 "봉천이 안경에 대항하는 장쭝창을 지원함"
+SQI_LSP:0 "§HShandong§! has reunited the Six Provinces"
 
 ### Tooltips
 SQI_tianran_can_reclaim_tooltip:0 "§G명예로운 스승인 장톈란이 팔성연합 지역의 지지를 되찾기 시작할 수 있게 됩니다.\n§!"
