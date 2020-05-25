@@ -413,6 +413,16 @@ RULE_OPTION_SWE_RIKSDAG_ELECTION_FAR_LEFT_REVOLUTION_SYNDICALIST_DESC:0 "사회�
 RULE_OPTION_SWE_RIKSDAG_ELECTION_FAR_LEFT_REVOLUTION_TOTALIST:0 "£KR_game_rule_flag_SWE_totalist   전체주의자들의 정권 탈취"
 RULE_OPTION_SWE_RIKSDAG_ELECTION_FAR_LEFT_REVOLUTION_TOTALIST_DESC:0 "사회민주주의 성향의 사회민주노동당이 선거에서 승리하고 급진사회주의 성향의 스웨덴 사회민주좌파당과 협력하여 사회주의 민병대에 의해 좌절당한 군사 쿠데타를 유발하는 급진 정부를 형성합니다. 구정권이 무력화되면서 곧 전체주의자들이 독재 정권을 수립할 수 있는 생디칼리슴 정권이 수립됩니다."
 
+ICE_FUTURE:0 "£KR_game_rule_flag_ICE   Iceland"
+RULE_OPTION_ICE_ALTHING_ELECTION_RANDOM:0 "Default"
+RULE_OPTION_ICE_ALTHING_ELECTION_RANDOM_DESC:0 "The AI will pick its path through the regular chance-based system."
+RULE_OPTION_ICE_ALTHING_ELECTION_INDEPENDENT:0 "£KR_game_rule_flag_ICE   Independent"
+RULE_OPTION_ICE_ALTHING_ELECTION_INDEPENDENT_DESC:0 "The Independence Party for Iceland will win the referendum and the country will be free to enter the cod war"
+RULE_OPTION_ICE_ALTHING_ELECTION_LOYAL_TO_DENMARK:0 "£KR_game_rule_flag_ICE   Remain with Denmark"
+RULE_OPTION_ICE_ALTHING_ELECTION_LOYAL_TO_DENMARK_DESC:0 "The Social Democratic Party for Iceland will win the referendum and the country will remain in the Danish Sphere"
+RULE_OPTION_ICE_COD_WAR_CAN:0 "£KR_game_rule_flag_ICE   Canadian Cod"
+RULE_OPTION_ICE_COD_WAR_CAN_DESC:0 "Canada will come out on top in the cod war against the Union of Britain."
+
 SER_GOVERNMENT_PATH:0 "£KR_game_rule_flag_SER   베오그라드 회의"
 RULE_OPTION_SER_GOVERNMENT_PATH_RANDOM:0 "기본값"
 RULE_OPTION_SER_GOVERNMENT_PATH_RANDOM_DESC:0 ""
