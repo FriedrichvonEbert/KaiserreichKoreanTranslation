@@ -42,7 +42,7 @@ kr_nominal_puppet:0 "명목상 괴뢰국"
 kr_special_autonomous_dependency:0 "자치 속국"
 kr_initial_wif_puppet:0 "연합된 식민지"
 kr_soclib_wif_puppet:0 "연합된 자치령"
-kr_ottoman_emirate:0 "오스만 토후국" #Ottoman Emirate
+kr_ottoman_emirate:0 "오스만 에미레이트" #Ottoman Emirate
 
 ### Autonomy Tooltips ###
 can_lower_autonomy_level:0 "자치도를 낮출 수 있습니다\n"
@@ -239,7 +239,7 @@ npa_faction:0 "호국동맹" #National Protection Alliance
 NRF_faction:0 "국가혁명전선" #National Revolutionary Front
 pacification_faction:0 "안국군" #National Pacification Army
 polukr_faction:0 "생디칼리슴 인테르마리움" #Syndicalist Intermarium
-Qing_faction:0 "청 제국" #Qing Empire"
+Qing_faction:0 "청 제국" #Qing Empire
 qing_sphere_faction:0 "청 세력권" #Qing Sphere
 SA_socialist_states:0 "남아메리카 사회주의 국가연맹" #South American Socialist States
 Scandinavian_Pact:0 "스칸디나비아 협약" #Scandinavian Pact
