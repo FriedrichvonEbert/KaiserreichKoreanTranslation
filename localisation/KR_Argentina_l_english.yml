@@ -2,7 +2,6 @@
 
 KR_Argentina_Carles:0 "아르헨티나 카를레스 중점계통도"
 KR_Argentina_Democratic:0 "아르헨티나 민주주의 중점계통도"
-ARG_Five_Year_Plan:0 "아르헨티나 5개년 계획 중점계통도"
 
 ### Parties ###
 ARG_national_populist_party:0 "애국당"
@@ -439,13 +438,13 @@ ARG_Battlecruisers_desc:0 "해군에 대한 우리의 10년의 투자는 부두�
 ARG_Coastal_Protection:0 "해안 보호"
 ARG_Coastal_Protection_desc:0 "우리 국민의 번영은 바다로 가는 길을 열어 놓느냐에 달려 있습니다. 그런 점을 염두에 두고, 적이 우리의 해안과 항구를 점령하는 것을 허용할 수 없기 때문에 우리는 소해정과 해군을 위한 더 나은 탐지 장치에 투자해야 합니다."
 ARG_Light_Cruisers:0 "경순양함"
-ARG_Light_Cruisers_desc:0 "몇년 전에 시칠리안 조선소에서 구입한 '트렌토'급 순양함은 우리 함대에 엄청난 추가 전력이 되었습니다. 불행하게도, 그들은 우리가 현재 필요로 하는 것에 비해 너무 중무장을 하고 있습니다. 하지만 저희 엔지니어들은 더 좋고 가벼운 버전을 저희에게 제공하기 위해 열심히 일해 왔습니다."
+ARG_Light_Cruisers_desc:0 "The 'Trento' class cruisers we bought a few years ago from the Sicilian Dockyards have become great additions to our fleet. Unfortunately, they are way too heavily armed for our current needs. However, our engineers have been hard at work to develop a better and lighter version that will give their bigger cousins a run for their money."
 ARG_Carriers:0 "해군 항공대"
 ARG_Carriers_desc:0 "비행기는 지난 수십년간 눈에 띄게 높아졌고 그것은 우리가 부인할 수 없는 것입니다. 세계 최고의 해군력을 따라잡기가 힘들 수도 있지만, 우리에게 유리한 해군 전투의 가능성을 알려 줄 수 있는 비행기로 우리의 전력 부족을 보충할 수도 있습니다."
 ARG_Tandanor_Shipyards:0 "해군 작업장 확장"
 ARG_Tandanor_Shipyards_desc:0 "남미의 해군력과 경쟁력을 유지하기 위한 필요성이 증가함에 따라 우리는 우리의 조선소의 확장을 고려하고 되었습니다, 해군 작업장은 이것을 더 잘 할 수 있겠지요?"
 ARG_ASTARSA_Expansion:0 "ASTARSA 확장"
-ARG_ASTARSA_Expansion_desc:0 "'남아메리카 라플라타의 아르헨티나 조선소(Astilleros Argentinos Rio de la Plata S.A.)'는 우리의 가장 중요한 해군 회사 중 하나입니다. 그들의 시설을 확장하는 것은 생디칼리스트를 떨게 만들 해군을 우리가 생산하는데 도움을 줄것입니다!"
+ARG_ASTARSA_Expansion_desc:0 "'남아메리카 라플라타의 아르헨티나 조선소(Astilleros Argentinos Rio de la Plata S.A.)'는 우리의 가장 중요한 해군 회사 중 하나입니다. 그들의 시설을 확장하는 것은 사회주의자들을 떨게 만들 해군을 우리가 생산하는데 도움을 줄것입니다!"
 ARG_Cruiser_Program:0 "순양함 계획"
 ARG_Cruiser_Program_desc:0 "우리 전함은 강력할 수도 있지만, 강력한 호위함들과 짝을 이루어야 합니다. 그러기 위해서, 우리는 현재의 우리의 것들을 개선하기 위해서 순양함 계획에 투자하는 것이 현명하다고 결정했습니다."
 ARG_Fleet_Movements:0 "함대 이동"
@@ -536,10 +535,15 @@ ARG_Joining_the_Entente:0 "협상국에 지원"
 
 ARG_companies_decisions:0 "외국 장비 수입"
 
-ARG_Belgian_Artillery:0 "벨기에 야포 (FRC)"
-ARG_German_Guns:0 "독일 기관총 (마우저)"
-ARG_German_Tanks:0 "독일 전차 (BMW)"
-ARG_Dutch_Planes:0 "네덜란드 항공기 (포커)"
+ARG_Belgian_Artillery:0 "FRC 야포 수입"
+ARG_German_Guns:0 "마우저 기관총 수입"
+ARG_German_Tanks:0 "BMW 전차 수입"
+ARG_Dutch_Planes:0 "포커 비행기 수입"
+
+ARG_FRC:0 "Has completed decision £decision_icon_small §HImport FRC Artillery§!"
+ARG_Mauser:0 "Has completed decision £decision_icon_small §HImport Mauser Machine Guns§!"
+ARG_BMW:0 "Has completed decision £decision_icon_small §HImport BMW Tanks§!"
+ARG_Fokker:0 "Has completed decision £decision_icon_small §HImport Fokker Planes§!"
 
 #Events
 ## Military ##
@@ -580,19 +584,6 @@ argmil.24.d:0 "엘 팔로마르 군부대에서 열린 장성급 회담에서 �
 argmil.24.a:0 "이것이 흔한 일이 되지 않기를 바란다"
 
 ## War in the Southern Cone ##
-southern.1.t:0 "아르헨티나-칠레 전쟁에 개입?"
-southern.1.d:0 "아르헨티나가 파타고니아의 FOP 반군을 침공함으로써 아르헨티나-칠레 전쟁이 시작되었습니다. 그들은 우리가 칠레의 다양한 영토에 대한 권리를 가지고 있다는 것을 알고 있기 때문에, 그들은 우리에게 전투에서 그들을 지원해 달라고 요청했고, 우리의 동맹이 승리하면 우리의 요구에 대한 보상을 받을 수 있을 것입니다."
-southern.1.a:0 "칠레를 공격하라!"
-southern.1.b:0 "우리는 어떤 충돌도 원하지 않는다"
-
-southern.2.t:0 "페루가 우리 편에 합류했다!"
-southern.2.d:0 "페루는 칠레에서 비열한 생디칼리스트들과 그들의 붉은 친구들과의 싸움에서 우리를 지원하기 위해 칠레와의 전쟁을 선포하고, 우리의 대의를 전적으로 지지하겠다고 선언했습니다."
-southern.2.a:0 "만세!"
-
-southern.3.t:0 "페루는 중립을 지킨다!"
-southern.3.d:0 "페루가 칠레와의 전쟁에서 목숨을 잃을 위험을 무릅쓸 수 없다며 페루 정부는 우리의 요구를 거절하고, 그 분쟁에서 중립을 선언했습니다."
-southern.3.a:0 "우리는 누구도 믿을 수 없다!"
-
 southern.4.t:0 "아르헨티나-칠레 전쟁에 개입?"
 southern.4.d:0 "아르헨티나가 파타고니아의 FOP 반군을 침공함으로써 아르헨티나-칠레 전쟁이 시작되었습니다. 반란군과 함께 남부가 점령당한 것은, 우리에게 차코 오스트랄을 되찾을 수 있는 완벽한 기회를 제공해 주었습니다!"
 southern.4.a:0 "공격!"
@@ -600,7 +591,7 @@ southern.4.b:0 "우리는 아르헨티나를 화나게 하고 싶지 않다"
 
 southern.5.t:0 "파라과이가 침공하다!"
 southern.5.d:0 "불결한 파라과이 개들은 그들의 기회를 냄새 맡았고, 차코 오스트랄을 되찾기 위해 뒤에서 우리를 침략하기로 결정했습니다!"
-southern.5.a:0 "배신자들!"
+southern.5.a:0 "승냥이놈들!"
 
 southern.6.t:0 "아르헨티나-파라과이 전쟁에 개입?"
 southern.6.d:0 "아르헨티나는 파타고니아의 FOP반군을 침공함으로써 아르헨티나-칠레 전쟁을 시작했고, 그 뒤 즉시 파라과이의 선전 포고가 이어졌습니다. 그들은 우리가 파라과이와 칠레의 다양한 영토에 대한 권리를 가지고 있다는 것을 알고 있기 때문에, 그들은 우리에게 전투에서 그들을 지원해 달라고 요청했고, 우리의 동맹이 승리하면 우리의 요구에 대한 보상을 받을 수 있을 것입니다."
@@ -609,7 +600,7 @@ southern.6.b:0 "우리는 파라과이와 칠레를 공격한다"
 southern.6.c:0 "우리는 어떤 충돌도 원하지 않는다"
 
 southern.7.t:0 "볼리비아가 우리 편에 합류했다!"
-southern.7.d:0 "볼리비아는 칠레에서 비열한 생디칼리스트들과 그들의 붉은 친구들과의 싸움에서 우리를 지원하기 위해 칠레와 파라과이와의 전쟁을 선포하고, 우리의 대의를 전적으로 지지하겠다고 선언했습니다."
+southern.7.d:0 "볼리비아는 칠레에서 비열한 생디칼리스트들과 그들의 붉은 친구들과의 싸움에서 우리를 지원하기 위해 [BOL_enemies_text](와)과의 전쟁을 선포하고, 우리의 대의를 전적으로 지지하겠다고 선언했습니다."
 southern.7.a:0 "만세!"
 
 southern.8.t:0 "볼리비아는 중립을 지킨다"
@@ -656,7 +647,7 @@ argfor.100.a:0 "조약에 서명하다"
 argfor.100.b:0 "제안을 거절하다"
 
 argfor.200.t:0 "리마 조약"
-argfor.200.d:0 "페루 정부는 우리의 제안에 대한 지지를 선언하고 리마 조약을 비준했습니다. 어떤 사회주의자의 침략도 우리의 연합에 의해 즉각 중단될 것입니다."
+argfor.200.d:0 "페루 정부는 우리의 제안에 대한 지지를 선언하고 리마 조약을 비준했습니다. 어떤 적의 침략도 우리의 연합에 의해 즉각 중단될 것입니다."
 argfor.200.a:0 "아주 좋아."
 
 argfor.300.t:0 "페루는 돕기를 거부했다."
@@ -1155,7 +1146,7 @@ argdem.71.a:0 "페론이 대통령이 되다"
 argdem.71.b:0 "아르투로 폰디지가 대통령이 되다"
 argdem.71.c:0 "호세 파스콸 탐보리니가 대통령이 되다"
 argdem.71.e:0 "리카르도 발빈이 대통령이 되다"
-argdem.71.f:0 "알리시 모로 드 후스토가 대통령이 되다"
+argdem.71.f:0 "Alicia Moreau de Justo becomes president."
 
 argdem.8.t:0 "FOP와 협상"
 argdem.8.d:0 "FOP의 실패를 더 이상의 유혈 사태 없이 그리고 국민들의 권한으로 해결하기 위해, 아르헨티나 정부는 반란 지역을 평화적으로 다시 통합할 계획을 세웠습니다. 반군에 대한 양보는 해야 하겠지만 부에노스 아이레스 정부는 남부 반군도 적대 행위를 종식시킬 의사가 있다고 확신하고 있습니다. 육군 사령관들은 개발 상황을 면밀히 주시하고 있지만, 라미레즈 대통령 임기 중 자신들의 몰락을 기억하면서, 절대적으로 필요한 시점까지는 개입할 용의가 없습니다."
@@ -1166,13 +1157,13 @@ argdem.9.d:0 "민주적으로 선출된 정부는 신생 국가인 우리나라�
 argdem.9.a:0 "제안을 수락하다"
 argdem.9.b:0 "그들의 양보는 충분하지 않다!"
 
-argdem.10.t:0 "FOP는 통일을 받아들인다!"
+argdem.10.t:0 "FOP는 통일 승낙!"
 argdem.10.d:0 "10년 넘게 분리된 파타고니아와 부에노스 아이레스의 아르헨티나 시민들이 마침내 다시 만나게 되었습니다. 두 깃발은 모두 부에노스 아이레스에서 마지막으로 한번 게양되었는데, 그 후 FOP 정부는 모든 권력을 중앙 정부에 이양했습니다. 앞으로의 길은 매번 노동 갈등으로 쉽지 않지만 테러와 전쟁으로 황폐해진 세계에서 이것은 평화와 안정을 위한 승리입니다."
 argdem.10.a:0 "아르헨티나 만세!"
 
-argdem.11.t:0 "FOP는 통일에 반대한다!"
+argdem.11.t:0 "FOP의 통일 거부!"
 argdem.11.d:0 "FOP 정부는 놀랍게도 그것을 혁명에 대한 배신이자 반대파를 침묵시키려는 나쁜 시도라고 부르며 우리의 제안을 거부했습니다. 그들은 파타고니아의 마지막 혁명가가 조국에 떨어질 때까지 항복하지 않을 것이라는 현실을 받아들일 것을 우리에게 다시 한번 강요했습니다!"
-argdem.11.a:0 "FOP는 공화국에 대한 전쟁광과 반역자에 지나지 않는 것처럼 보인다!" 
+argdem.11.a:0 "저 FOP놈들은 공화국의 전쟁광과 반역자들에 불과한 것으로 보이는구만!" 
 
 argdem.12.t:0 "전국적인 군사 선전의 물결"
 argdem.12.d:0 "대다수가 '민주주의' 정권이 FOP 사태를 해결하지 못한 것에 대하여 군이 나서서 반군을 무력으로 진압할 것을 요구하는 군사 선전의 확산으로 이어졌습니다. 이 선전이 군 관계자들에 의해 배포되었는지 여부는 불확실하지만, 라미레즈 장군은 정부가 위기에 빨리 대처해야 한다는 것을 확인해야 한다거나 다른 누군가가 대신할 것이라는 점을 확인했지만 모든 상황에 대한 책임을 부인했습니다."
