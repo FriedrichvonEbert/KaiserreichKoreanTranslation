@@ -573,6 +573,9 @@ AUS_paternal_autocrat_party_long:0 "대독일인민당"
 AUS_national_populist_party:0 "보국당"
 AUS_national_populist_party_long:0 "보국당"
 
+AUS_Alt_pat_aut_party:0 "MR"
+AUS_Alt_pat_aut_party_long:0 "Militärregierung"
+
 ### Traits ###
 ganz_danubius_submarine:0 "간츠 다뉴비우스 잠수함 공장"
 steyr_arms_facility:0 "슈타이어 무기 공장"
@@ -776,7 +779,7 @@ ausgleich.new.316.t:0 "루마니아인들 : 트란실바니아의 자치?"
 ausgleich.new.316.d:0 "비록 트란실바니아인이 헝가리 정부로부터 자치권을 부여받았지만, 시슬레이테니아인들이 누리는 정도는 아닙니다. 루마니아 측 사절단은 그들에게도 오스트리아 국민의 절반이 가지고 있는 권리를 똑같이 부여해달라 요구했습니다."
 ausgleich.new.316.a:0 "헝가리 대표단은 이를 고려해야 할 것이다."
 ausgleich.new.316.b:0 "그리 될 것이다."
-ausgleich.new.316.c:0 "이는 그리고 트란실바니아 전 지역을 포함할 것이다."
+ausgleich.new.316.c:0 "...또한 거기에 파르티움과 바나트도 포함되어야 한다."
 
 ausgleich.new.317.t:0 "헝가리의 대타협 포기"
 ausgleich.new.317.d:0 "헝가리 측 사절단이 '오래된 전통의 엉터리 복사본'이라 부르는 올해의 협상은 헝가리인이 자리를 박차고 나감으로써 끝나버렸습니다."
