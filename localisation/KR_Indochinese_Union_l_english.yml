@@ -507,8 +507,8 @@ viet.74.a:0 "Excellent."
 #Anti-Tank Weapon: Firebomb and Lunge mine
 
 viet.79.t:0 "구정공세!"
-viet.79.d:0 "베트남 사람들이 음력 설을 축하하고 폭죽을 터뜨린 자정 직후 하노이 주재 독일 대사관에서 수류탄이 터졌습니다. 거대한 규모의 베트콩 군대가 모든 도시와 마을을 상대로 대규모 공격을 감행하는 동안, 베트콩 특공대가 하노이 시내에 나타났습니다. 베트콩의 농노들이 주도하고, 마체테와 창으로 무장한 무명의 농민들이 여러 지역에서 일어나 '폭군들을 제거하라'라고 말했습니다. 우리는 완전히 허를 찔렸습니다!"
-viet.79.a:0 "Is this how Vietcong celebrate Lunar New Year?"
+viet.79.d:0 "베트남 사람들이 음력 설을 축하하고 폭죽을 터뜨린 자정 직후 하노이 주재 독일 대사관에서 수류탄이 터졌습니다. 거대한 규모의 베트민 군대가 모든 도시와 마을을 상대로 대규모 공격을 감행하는 동안, 베트민 특공대가 하노이 시내에 나타났습니다. 베트민의 농노들이 주도하고, 마체테와 창으로 무장한 무명의 농민들이 여러 지역에서 일어나 '폭군들을 제거하라'라고 말했습니다. 우리는 완전히 허를 찔렸습니다!"
+viet.79.a:0 "Is this how Viet Minh celebrate Lunar New Year?"
 
 viet.80.t:0 "사이공 포격"
 viet.80.d:0 "오늘 아침, 독일군은 독일 군함과 공중 폭격 모두를 이용하여 사이공 시를 폭격하기 시작했습니다. 마침내 이 공격이 중단되었을 때, 사이공에 있던 대부분의 주요 건물들은 완전히 무너졌습니다. 그러나 이 폭격은 독일 도둑들에 대한 우리 민족의 증오를 악화시킬 뿐입니다."
@@ -1168,7 +1168,7 @@ INC_Extensive_Women_Service_desc:0 "The 인도차이나 women always live on the
 INC_Guerilla_Tactics:0 "Guerrilla Tactics"
 INC_Guerilla_Tactics_desc:0 "Historically, the people of Indochina have often adopted guerrilla tactics to counter a much stronger enemy. By adding modern command art and military organisation into it, we will elevate guerrilla tactics to a new level. The key to win the war is to fight it in our way, not our enemy's."
 INC_Ambush_Focus:0 "Ambush Focus"
-INC_Ambush_Focus_desc:0 "'Watch out! They've emerged from nowhere and we are surrounded! This is the Vietcong's trap!'\n\nAmbush is not passively waiting for the enemy. Rather, it's conducted with careful planning and daring tactical maneuvers. A successful ambush is intended to inflict maximum casualties on the enemy."
+INC_Ambush_Focus_desc:0 "'Watch out! They've emerged from nowhere and we are surrounded! This is the Viet Minh's trap!'\n\nAmbush is not passively waiting for the enemy. Rather, it's conducted with careful planning and daring tactical maneuvers. A successful ambush is intended to inflict maximum casualties on the enemy."
 INC_Local_Initiative:0 "Local Initiative"
 INC_Local_Initiative_desc:0 "During the resistance war our engineers developed many new technics to produce rifles, grenades and mines under poor conditions. The talent of our engineers, who designed new weapons like anti-tank pole or Pegasus recoilless gun, is undeniable. Now we will build our own military industry based on our own method."
 INC_Harassment_Focus:0 "Harassment Focus"
