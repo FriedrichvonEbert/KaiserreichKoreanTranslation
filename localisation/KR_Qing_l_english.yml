@@ -626,6 +626,7 @@ QIE_buy_ger_arty:0 "독일산 화포 구입"
 QIE_buy_light_tanks:0 "독일산 경전차 구입"
 QIE_buy_medium_tanks:0 "독일산 중형전차 구입"
 QIE_buy_motorized:0 "독일산 차량화 장비 구입"
+QIE_buy_ger_armored_cars:0 "Purchase German Armored Cars"
 QIE_buy_ger_fighter:0 "독일산 전투기 구입"
 QIE_buy_ger_cas:0 "독일산 근접항공지원기 구입"
 QIE_buy_ger_tac:0 "독일산 전술폭격기 구입"
@@ -2130,7 +2131,7 @@ qieflavor.24.d:0 "In a highly orchestrated ceremony today, Puyi invited Wu Peifu
 qieflavor.24.a:0 "I hope they had a nice lunch"
 
 qieflavor.25.t:0 "German-Owned Sweatshops Open"
-qieflavor.25.d:0 "Major Chinese cities have seen a dearth of German factory construction following our relaxation of international investment laws. While this no doubt helps boost our economy, a number of them have engaged in somewhat dubious business practices, no doubt motivated the practically non-existent labour laws in our country compared to those in Mitteleuropa. Earlier this morning, a minor scandal erupted when it was discovered that one German factory was forcing its employees to work 20-hour shifts for next to no pay. Even worse, the factory had cut a deal with the local police to arrest and intimidate any worker who complained or made a formal protest, making us look like little more than foreign stooges."
+qieflavor.25.d:0 "Major Chinese cities have seen an explosion of German factory construction following our relaxation of international investment laws. While this no doubt helps boost our economy, a number of them have engaged in somewhat dubious business practices, no doubt motivated the practically non-existent labour laws in our country compared to those in Mitteleuropa. Earlier this morning, a minor scandal erupted when it was discovered that one German factory was forcing its employees to work 20-hour shifts for next to no pay. Even worse, the factory had cut a deal with the local police to arrest and intimidate any worker who complained or made a formal protest, making us look like little more than foreign stooges."
 qieflavor.25.a:0 "Oh well..."
 
 qieflavor.26.t:0 "German Railways Receive Praise"
