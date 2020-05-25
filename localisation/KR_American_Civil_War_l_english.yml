@@ -831,67 +831,13 @@ amcivwar.206.a:0 "언제까지 지속되나 보자고."
 
 amcivwar.212.t:0 "혼돈의 미국"
 amcivwar.212.d:0 "라이베리아는 1822년에 노예들의 자유국으로 설립된 이래로 계속 미국의 정치/경제적 지배 하에 있었습니다. 미국의 지배는 라이베리아를 유럽 식민지 세력으로부터 보호하는 데에 도움이 되었습니다. 그러나 이제는 미국 대선을 계기로 미국은 혼란에 빠져 있습니다. 그 갈등은 이제 전쟁으로 치달았습니다. 미국은 더 이상 우리를 보호할 능력이 없습니다. 이제 우리는 어떻게 할지 결정해야 합니다."
-amcivwar.212.a:0 "우리는 국민 프랑스로부터 보호를 구할 것이다"
-amcivwar.212.b:0 "독일이야말로 우리를 보호할 수 있는 유일한 강대국이다."
-amcivwar.212.c:0 "우리는 꼭두각시가 아니다, 우리 스스로 보호해야 한다!"
-amcivwar.212.e:0 "우리는 반역자가 아니다, 미국에 충성하자"
-
-amcivwar.213.t:0 "라이베리아가 보호를 요청하다"
-amcivwar.213.d:0 "미국 내전이 본격화되면서, 이전에 미합중국의 보호 아래에 있었던 라이베리아 공화국은 미합중국이 더이상 보호를 제공해줄 수 있을 것이라 생각해 우리에게 외교적, 군사적 보호를 요청해왔습니다. 어떻게 답해야 할까요?"
-amcivwar.213.a:0 "좋다, 라이베리아인들은 좋은 동맹이 될 것이다"
-amcivwar.213.b:0 "그들은 보호받지 못한다 - 그 지역을 공격해라!"
-amcivwar.213.c:0 "우리는 그들을 원하지 않는다"
-
-amcivwar.214.t:0 "프랑스가 우리의 보호에 동의하다"
-amcivwar.214.d:0 "국민 프랑스는 특정 외교 및 경제적 양보의 대가로 우리를 보호하기로 합의했습니다. 다시 한번 우리는 안전합니다!"
-amcivwar.214.a:0 "만세!"
-
-amcivwar.215.t:0 "라이베리아가 공격을 받고있다"
-amcivwar.215.d:0 "외국인들은 우리의 땅을 차지하려고 합니다. 우리는 우리의 생존을 위해 싸울 수 밖에 없습니다!"
-amcivwar.215.a:0 "가능한 한 많은 인력을 동원해라"
-
-amcivwar.216.t:0 "프랑스가 우리의 요구를 거부하다"
-amcivwar.216.d:0 "불행히도, 프랑스가 우리의 보호 요구를 거절했습니다..."
-amcivwar.216.a:0 "우리는 독립해야만 한다"
-amcivwar.216.b:0 "독일에게 접근해보자"
-
-amcivwar.217.t:0 "라이베리아가 보호를 요청하다"
-amcivwar.217.d:0 "미국 내전이 본격화되면서, 이전에 미합중국의 보호 아래에 있었던 라이베리아 공화국은 미합중국이 더이상 보호를 제공해줄 수 없을 것이라 생각해 우리에게 외교적, 군사적 보호를 요청해왔습니다. 어떻게 할까요?"
-amcivwar.217.a:0 "좋다, 그들은 유용한 동맹이 될 것이다"
-amcivwar.217.b:0 "좋다, 하지만 독일령 중앙아프리카가 관리하도록 한다"
-amcivwar.217.c:0 "우리는 그들을 원하지 않는다"
-amcivwar.217.e:0 "그들은 보호받지 못한다 - 공격!"
-
-amcivwar.218.t:0 "독일이 우리를 보호할 것에 동의하다"
-amcivwar.218.d:0 "독일은 특정 외교 및 경제적 양보의 대가로 우리를 보호하기로 합의했습니다. 다시 한번 우리는 안전합니다!"
-amcivwar.218.a:0 "만세!"
-
-amcivwar.219.t:0 "라이베리아가 우리 괴뢰국이 되다"
-amcivwar.219.d:0 "카이저는 라이베리아를 우리의 위성국으로 만드는 방안을 제안했습니다. 우리가 더 많은 아프리카를 통제하는 것이기에 좋은 소식입니다."
-amcivwar.219.a:0 "우리의 힘이 커졌다"
-
-amcivwar.220.t:0 "독일이 우리를 독일령 중앙아프리카로 인도한다"
-amcivwar.220.d:0 "독일은 아프리카 식민지 행정부의 보호를 제안했습니다. 적어도 우리는 보호자가 있어야 합니다."
-amcivwar.220.a:0 "만세!"
-
-amcivwar.221.t:0 "독일이 우리의 요구를 거부하다"
-amcivwar.221.d:0 "불행하게도 독일은 우리의 보호 요청을 거절했습니다. 우리는 홀로 남겨졌습니다."
-amcivwar.221.a:0 "우리는 독립해야만 한다"
-amcivwar.221.b:0 "국민 프랑스에 접근해보자"
+amcivwar.212.a:0 "우리는 꼭두각시가 아니다, 우리 스스로 보호해야 한다!"
+amcivwar.212.b:0 "우리는 반역자가 아니다, 미국에 충성하자"
 
 amcivwar.222.t:0 "라이베리아가 홀로 서다"
 amcivwar.222.d:0 "라이베리아라는 작은 나라는 지금은 미국의 보호에서 벗어나 혼자입니다. 비록 이것이 동맹들과 적들 사이에서 대중적인 움직임은 아닐지라도, 우리는 우리 스스로 그 땅을 차지하려고 노력할 수 있습니다."
 amcivwar.222.a:0 "우리는 라이베리아에 야망이 없다."
 amcivwar.222.b:0 "그들은 무방비상태다. 그들의 땅을 점령하라!"
-
-amcivwar.223.t:0 "라이베리아가 홀로 서다"
-amcivwar.223.d:0 "라이베리아라는 작은 나라는 지금은 미국의 보호에서 벗어나 혼자입니다. 비록 이것이 동맹들과 적들 사이에서 대중적인 움직임은 아닐지라도, 우리는 우리 스스로 그 땅을 차지하려고 노력할 수 있습니다."
-amcivwar.223.a:0 "우리는 라이베리아에 야망이 없다."
-amcivwar.223.b:0 "그들은 무방비상태다. 그들의 땅을 점령하라!"
-
-amcivwar.224.t:0 "프랑스의 공격"
-amcivwar.224.d:0 "탐욕스러운 프랑스 제국주의자가 우릴 보호해줄 나라가 없음을 알고는 우리를 공격하기로 결정했습니다. 이제는 생존을 위해 싸우는 것 말고는 선택의 여지가 없습니다."
-amcivwar.224.a:0 "가능한 많은 사람을 동원해라."
 
 amcivwar.225.t:0 "독일계 아프리카인들의 공격"
 amcivwar.225.d:0 "독일령 중앙아프리카의 독일 행정부는 우리의 외교적 고립에서 이득을 얻기 위해 우리를 공격하기로 결정했습니다. 이제는 생존을 위해 싸우는 것 말고는 선택의 여지가 없습니다."
@@ -940,6 +886,29 @@ amcivwar.313.t:0 "뉴욕 저항군과의 접촉"
 amcivwar.313.d:0 "뉴욕과 뉴저지 둘 다 연방군에게 완전히 패배했다고 생각되었지만, 여러 대규모 전투원들이 도시 지역을 빠져나와 펜실베니아 동부의 언덕에서 다시 뭉친 것으로 밝혀졌습니다. 그들은 비록 녹초가 되었지만, 우리의 지원으로 전투를 계속하기를 희망합니다."
 amcivwar.313.a:0 "만나서 반갑군"
 CSA_four_units_newyork:0 "펜실베니아에 4 민병대 부대가 도착합니다"
+
+#Naval battle, 1 is USA (CAL doesn't exist), 2 is USA (CAL exists), 3 is CAL, 4 is TEX (CSA doesn't exist), 5 is TEX (CSA exists), 6 is CSA (TEX doesn't exist), 7 is CSA (TEX exists)
+amcivwar.315.t:0 "Dissolution of the U.S Navy" 
+amcivwar.315.d1:0 "The decay of order in the United States has impacted the US navy much like it has every other facet of American society. Many sailors and even some officers are sympathetic towards what the Naval High Command has dubbed 'forces opposed to the Republic and public order', avoiding mentioning any political terms to stay as impartial as possible. Still, defections have become the norm.\n\nThe crisis flashpoint in the Navy took place several days ago, however, when a mutiny broke out on the West Coast and several vessels defected to sail towards the East Coast, aiming to support their comrades there. Skirmishes and sometimes even outright battles broke out as a result, all of them disorderly and chaotic, with no distinction between friend or foe. This has led to the Navy's effective dissolution - dozens of vessels have deserted or defected, numerous sailors, naval officers and even admirals have changed sides. Reserve fleets and vessels stationed in areas no longer under Federal administration have also been lost."
+amcivwar.315.d2:0 "The decay of order in the United States has impacted the US navy much like it has every other facet of American society. Many sailors and even some officers are sympathetic towards what the Naval High Command has dubbed 'forces opposed to the Republic and public order', avoiding mentioning any political terms to stay as impartial as possible. Still, defections have become the norm. MacArthur's march in Washington has been more divisive than either the Syndicalists or the Longists, however, as the Pacific Fleet, following the decision of the governors of their bases, have refused to recognize the government in Washington.\n\nThe crisis flashpoint in the Navy took place several days ago, however, when the ships and naval officers of the Pacific Fleet who were loyal to MacArthur chose to collectively mutiny and leave for the East Coast - which got the rest of the Pacific Fleet to retaliate and go after them. Skirmishes and sometimes even outright battles broke out as a result, all of them disorderly and chaotic, with no distinction between friend or foe. This has led to the Navy's effective dissolution - dozens of vessels have deserted or defected, numerous sailors, naval officers and even admirals have changed sides. Reserve fleets and vessels stationed in areas no longer under Federal administration have also been lost."
+
+amcivwar.315.d3:0 "The decay of order in the United States has impacted the US navy much like it has every other facet of American society. Many sailors and even some officers are sympathetic towards what the Naval High Command has dubbed 'forces opposed to the Republic and public order', avoiding mentioning any political terms to stay as impartial as possible. Still, defections have become the norm.\n\nWhen Douglas MacArthur marched upon Washington and overthrew the democratically elected government to install a military junta, the Pacific Fleet, following the governors of the West Coast states, declared itself loyal to the Pacific Command. Not all of them agreed with the decision, however. A clique of sailors and naval officers loyal to MacArthur chose to collectively mutiny and take their ships to the East Coast, sparking a battle between their forces and the rest of the Pacific fleet. The skirmishes were chaotic and disorderly, with no distinction between friend and foe, but unfortunately, the traitors escaped with the ships and equipment. This has caused the disintegration of the US fleet, however, and we have taken the necessary precautions to prevent any more defection."
+
+amcivwar.315.d4:0 "The decay of order in the United States has impacted the US navy much like it has every other facet of American society. Many sailors and even some officers are sympathetic towards what the Naval High Command has dubbed 'forces opposed to the Republic and public order', avoiding mentioning any political terms to stay as impartial as possible. Still, defections have become the norm.\n\nAt first, the Naval High Command managed to prevent the collapse of the fleet, detaining sailors and officers loyal to the Long's cause, but they could not keep this up for long. Events on the West Coast caused the disintegration of the US Navy - battles between Federal loyalists and mutinous ships have broken the Pacific Fleet and given sailors across the Union a chance to declare their loyalty to Huey Long. Even a few admirals chose to switch sides and align with us. We have also seized reserve fleets and vessels stationed in the South - from them and from arriving loyalists, we have been able to assemble a modest naval force."
+amcivwar.315.d5:0 "The decay of order in the United States has impacted the US navy much like it has every other facet of American society. Many sailors and even some officers are sympathetic towards what the Naval High Command has dubbed 'forces opposed to the Republic and public order', avoiding mentioning any political terms to stay as impartial as possible. Still, defections have become the norm.\n\nAt first, the Naval High Command managed to prevent the collapse of the fleet, detaining sailors and officers loyal to the Long's cause, but they could not keep this up for long. Events on the West Coast caused the disintegration of the US Navy - battles between Federal loyalists and mutinous ships have broken the Pacific Fleet and given sailors across the Union a chance to break with the regime in Washington. Though some declared for the Syndicalists, others announced their support for Huey Long's uprising in Louisiana. Even a few admirals chose to switch sides and align with us. We have also seized reserve fleets and vessels stationed in the South - from them and from arriving loyalists, we have been able to assemble a modest naval force."
+
+amcivwar.315.d6:0 "The decay of order in the United States has impacted the US navy much like it has every other facet of American society. Many sailors and even some officers are sympathetic towards what the Naval High Command has dubbed 'forces opposed to the Republic and public order', avoiding mentioning any political terms to stay as impartial as possible. Still, defections have become the norm.\n\nAt first, the Naval High Command managed to prevent the collapse of the fleet, detaining sailors and officers loyal to the Syndicalist cause, but they could not keep this up for long. Events on the West Coast caused the disintegration of the US Navy - battles between Federal loyalists and mutinous ships have broken the Pacific Fleet and given sailors across the Union a chance to declare their loyalty to Jack Reed. Even a few high-ranking captains chose to switch sides and align with us. We have also seized reserve fleets and vessels stationed in the Northeast - from them and from arriving revolutionary sailors, we have been able to assemble a modest naval force."
+amcivwar.315.d7:0 "The decay of order in the United States has impacted the US navy much like it has every other facet of American society. Many sailors and even some officers are sympathetic towards what the Naval High Command has dubbed 'forces opposed to the Republic and public order', avoiding mentioning any political terms to stay as impartial as possible. Still, defections have become the norm.\n\nAt first, the Naval High Command managed to prevent the collapse of the fleet, detaining sailors and officers loyal to the Syndicalist cause, but they could not keep this up for long. Events on the West Coast caused the disintegration of the US Navy - battles between Federal loyalists and mutinous ships have broken the Pacific Fleet and given sailors across the Union a chance to break with the regime in Washington. Though some declared for the Longists, others announced their support for the Revolution in Chicago. Even a few high-ranking captains chose to switch sides and align with us. We have also seized reserve fleets and vessels stationed in the Northeast - from them and from arriving revolutionary sailors, we have been able to assemble a modest naval force."
+
+amcivwar.315.a1:0 "Traitors in the Navy!"
+amcivwar.315.a2:0 "I did not expect the Pacific Fleet to be full of traitors!"
+amcivwar.315.a3:0 "We welcome the Pacific Fleet, champions of democracy!"
+amcivwar.315.a4:0 "We welcome loyal sailors!"
+amcivwar.315.a5:0 "The navy is the backbone of any revolution!"
+USA_naval_desertion:0 "Massive desertion in navy begins\n§YShips from the West Coast will arrive to the Panama Canal Naval Base"
+CAL_naval_desertion:0 "Massive desertion in navy begins"
+TEX_naval_desertion:0 "Loyal to the people sailors and admirals join to our navy\n§YShips from the West Coast will arrive to the Carribean Sea"
+CSA_naval_desertion:0 "Revolutionary sailors and captains join to our navy\n§YShips from the West Coast will arrive to the Carribean Sea"
 
 amcivwar.314.t:0 "[restored_core.GetName]에서 질서 회복"
 amcivwar.314.d:0 "지난 몇 주 동안, [Root.GetAdjective] 정부군은 우리의 통제에 방해가 되는 사람들을 체포하고 지역 지지자들이 사람들에게 좋은 말을 퍼뜨리는 것을 돕기 위해 [restored_core.GetName]에서 바쁘게 움직이고 있습니다. 우리는 미국 시민으로서 그들이 우리의 존재를 두려워할 이유가 없다는 것을 알려 그들을 안심시키고 싶습니다. 이 모든 혼란 속에서도 우리의 노력은 서서히 결실을 맺기 시작했습니다."
@@ -1062,6 +1031,7 @@ amcivwar.526.t:0 "The Ceasefire has Ended"
 amcivwar.526.d:0 "The temporary ceasefire between [can_ally.GetNameDef] and [can_enemy.GetNameDef] has evidently ended, and now the [can_ally.GetAdjective] is calling upon the Entente to rejoin the war as before."
 amcivwar.526.a:0 "We're on the way!"
 amcivwar.526.b:0 "I'm afraid they're on their own"
+amcivwar526_tt:0 "§Y[Root.GetNameDefCap]§! will rejoin §Y[can_ally.GetNameDef]§! in its war against §Y[can_enemy.GetNameDef]§!\n"
 
 ### Sanity Checks ###
 
