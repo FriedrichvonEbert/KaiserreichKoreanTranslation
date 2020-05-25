@@ -2894,8 +2894,8 @@ fngconf.74.b:0 "우리는 봉천 정부에 가담한다."
 fngconf.74.c:0 "시간낭비다."
 
 fngconf.75.t:0 "무력을 통한 통일"
-fngconf.75.d:0 "[FNG.GetLeader] now stands alone and without allies in the Chinese mainland after the collapse of the conference marks the the futility in trying to unite China peacefully. Going forward, it's an unfortunate reality that as far as Chinese affairs go, the sword shall remain mightier than the pen. Whether we like it or not, it's the sword that once again will have to be used to unite China, dooming Asia to more bloodshed and war in the years to come."
-fngconf.75.a:0 "그렇게 두어라."
+fngconf.75.d:0 "Having forgone the Beijing Conference, peaceful unification is now out of the question. Barring any existing allies [FNG.GetLeader] now stands alone. Now the sword will speak, rather than the pen."
+fngconf.75.a:0 "They will submit or die."
 
 ###GUI
 FNG_grand_marshals_favor_category:0 "대원수의 지지"
