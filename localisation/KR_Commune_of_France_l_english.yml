@@ -937,6 +937,11 @@ comfrance.169.d:0 "이제 이탈리아의 '균형'에 대한 모든 논의가 �
 comfrance.169.a:0 "드디어!"
 comfrance.169.b:0 "1초만 더 생각해보자..."
 
+#French News#
+frenchnews.1.t:0 "가믈랭의 파리 행진"
+frenchnews.1.d:0 "A few days ago, General Maurice Gamelin, launched a successful coup against the Jacobin regime of Marcel Déat. While this seems like a staunch attack on the commune’s democratic system, many argue that the Jacobins would have destroyed the democratic system if not for Gamelin’s intervention. Gamelin has promised to restore France to traditional syndicalism, and the process of De-Jacobinisation is already taking place. It is still unknown how his plans will turn out. We can only wait..."
+frenchnews.1.a:0 "거짓없이, 정말로 놀랍군."
+
 ### Decisions ###
 
 FRA_liberate_europe_category:0 "유럽 해방"
