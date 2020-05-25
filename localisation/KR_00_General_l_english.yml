@@ -470,7 +470,7 @@ improved_field_hospitals:0 "개선된 야전병원"
 improved_field_hospitals_effect:0 "Enables §HImproved Field Hospitals\nField Hospital§!\n      Trickleback: §G+20%§!\n      Exp. Loss: §G-10%§!\n\n"
 
 tech_integrated_specialists:0 "통합된 해병대"
-tech_integrated_specialists_effect:0 "Enables §HIntegrated Special Forces§!\nSpecial Forces Cap:§! §G+5%§!\n§HAll Special Forces:§!\n      Soft Attack: §G+5%§!\n      Hard Attack: §G+5%§!\n"
+tech_integrated_specialists_effect:0 "Enables §HIntegrated Special Forces§!\nSpecial Forces Cap: §G+5%§!\n§HAll Special Forces:§!\n      Soft Attack: §G+5%§!\n      Hard Attack: §G+5%§!\n"
 
 tech_marine_bonus:0 "개선된 해병대"
 tech_marine_bonus_effect:0 "Enables §HImproved Marines\nMarines§!\n      Soft Attack: §G+5%§!\n      Hard Attack: §G+5%§!\n"
