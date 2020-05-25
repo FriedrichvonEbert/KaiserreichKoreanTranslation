@@ -63,8 +63,7 @@ SRD_political_decisions_desc:0 "옛 왕국을 되찾기 위해 우리가 행할 
 SRD_unite_italy:0 "이탈리아 통일"
 SRD_unite_italy_desc:0 "이탈리아는 이탈리아 내전 중에 분열되었습니다. 그러나 마침내 사보이 가문이 승리를 거듭하면서 다시 이탈리아를 통일하게 되었습니다."
 SRD_reclaim_piedmont:0 "피에몬테의 질서 회복"
-SRD_reclaim_piedmont_desc:0 "오늘날 우리는 피에몬테를 되찾았고 옛 이탈리아 사회주의 공화국의 망할 생디칼리스트들을 제거했습니다. 생디칼리슴 체제를 완전히 붕괴시키는 데는 시간이 걸리겠지만 마침내 우리는 이탈리아 본토로 돌아왔습니다. 국왕 만세!"
-SRD_has_piedmont:0 "§Y사르데냐§!가 피에몬테를 회복하였습니다"
+SRD_reclaim_piedmont_desc:0 "We must retake Piedmont and destroy the godless syndicalists within the Socialist Republic of Italy. It will take time to dismantle syndicalism, but being back on the mainland of Italy will be more than enough for us. 국왕 만세!"
 SRD_attack_sri:0 "사회주의 공화국 공격"
 SRD_attack_sri_desc:0 "때가 왔습니다. 본토로 돌아가 우리를 강제로 추방한 사회주의자들을 제거하고 피에몬테를 해방시켜야 합니다. 피에몬테 수복을 통해 우리는 이탈리아 나머지 지역을 하찮은 군벌들의 부당한 통치로부터 해방시킬 전초기지를 갖게 될 것입니다!"
 SRD_attack_italy:0 "[From.GetNameDef] 공격"
@@ -102,7 +101,7 @@ SRD_elite_army_idea:0 "엘리트 육군"
 SRD_country:0 "결정과 망명"
 SRD_country_desc:0 "이탈리아가 세계대전에서 패배하여 우리가 사르데냐로 쫓겨난 이후로 대중은 우리가 취하는 절대통치에 대해 동요하고 있으며 두 개의 주요 사르데냐인 정당들은 앞으로는 우리와 협력하지 않겠다고 위협해왔습니다. 우리는 앞으로 어려운 선택에 직면할 것입니다."
 SRD_legitimate_kingdom:0 "정당한 왕국"
-SRD_legitimate_kingdom_desc:0 "비록 칼리아리로 쫓겨났을지언정 우리는 여전히 정당한 통치권력을 가지고 있습니다. 우리는 대내외적으로 이런 입장을 강변할 것입니다."
+SRD_legitimate_kingdom_desc:0 "비록 칼리아리로 쫓겨났을지언정 우리는 여전히 피에몬테의 적법한 통치자이며, 한때는 이탈리아 전체를 통치했습니다. 우리는 대내외적으로 이런 입장을 강변할 것입니다."
 SRD_royal_decrees:0 "칙령"
 SRD_royal_decrees_desc:0 "현재 우리의 통치는 불문율과 구전법에 의존하고 있는데, 이러한 형태의 통치는 우리 같은 현대 왕국에서는 용납될 수 없습니다. 칙령에 의한 통치는 사유재산 압류를 포함해 왕국을 보호하기 위해 필요한 모든 조치를 취할 수 있게 할 것입니다."
 SRD_sack_the_cabinet:0 "내각불신임"
@@ -286,7 +285,7 @@ SRD_rule_the_skies_desc:0 "우리는 전장에서의 공군력의 중요성에 �
 ### Events ###
 
 srd.0.t:0 "사르데냐 왕국"
-srd.0.d:0 "사르데냐 왕국은 세계대전의 폐허 속에서 태동했습니다. 명목상으로는 이탈리아 연방의 일원인 사르데냐 왕국은 서류상으로는 옛 사르데냐-피에몬테 시절의 영토를 가지고 있지만 본토에서의 내전이 이 모든 것을 바꿔놓았습니다. 현제 피에몬테 및 아오스타 지방을 비롯하여 사보이 가문의 영지에 속한 본토 지역은 이탈리아 사회주의 공화국이 10년 넘게 점거하고 있는 상태입니다. 우리는 1927년에 대영제국이 무너지고 오스트리아가 내부사정으로 인해 이탈리아에서 철수하여 명목상으로는 프랑스 공화국의 괴뢰국이지만 실질적으로는 독립국가가 된 상황입니다.\n\n안그래도 침울한 상태인 국가는 내부 분열 때문에 더 침울해지고 있습니다. 아오스타의 아이모네 공작이었던 아마데오 왕은 고작 5년 전에 선왕이자 부친인 에마누엘레 필레베르토의 왕좌를 물려받게 되었습니다. 절대군주제에 입각하여 그가 휘두른 권력은 많은 입헌군주제 지지자들에게 실망감을 안겨주었습니다. 이런 배경 하에서 절대군주제냐 입헌군주제냐 하는 국가체제에 대한 근본적인 질문이 세계대전 이후로 지금까지 쭉 이 조그만 섬의 국론을 분열시켜 왔으며 현 상태를 계속 유지할 수는 없다는 공감대가 형성되었습니다. 행정부와 사법부는 이미 썩을 대로 썩었기에 모두 개혁이 필요한 상태이며 이를 위해서는 무능한 정치환경의 개선과 사르데냐인의 권리 회복을 필요로 합니다."
+srd.0.d:0 "사르데냐 왕국은 세계대전의 폐허 속에서 태동했습니다. King Vittorio Emanuele signed an armistice with the Austrian government in 1919, but furious socialists, radical nationalists and other rabble rose up against his government. He and his son abdicated, and in Sardinia, marked by few, King Emanuele Filiberto, Duke of Aosta, assumed the throne. However, our pretensions to the Italian throne came to an end in 1920, when the Austrians forced the Italian Federation onto the united White forces in mainland Italy. The British forced us to join the Federation as the Austrians demanded, unwilling to anger the Germans and break the Armistice signed at Copenhagen. We withdrew from the Italian Federation in 1926 after the British Empire collapsed and the Austrians withdrew from Italy to deal with internal affairs, though we were still dissuaded from claiming all of Italy until Piedmont is reclaimed This made us a nominally independent nation, though in reality we are almost a puppet state of the French Republic. \n\n안그래도 침울한 상태인 국가는 내부 분열 때문에 더 침울해지고 있습니다. 아마데오 왕은 고작 5년 전에 선왕이자 부친인 에마누엘레 필레베르토의 왕좌를 물려받게 되었습니다. 절대군주제에 입각하여 그가 휘두른 권력은 많은 입헌군주제 지지자들에게 실망감을 안겨주었습니다. 이런 배경 하에서 절대군주제냐 입헌군주제냐 하는 국가체제에 대한 근본적인 질문이 세계대전 이후로 지금까지 쭉 이 조그만 섬의 국론을 분열시켜 왔으며 현 상태를 계속 유지할 수는 없다는 공감대가 형성되었습니다. 행정부와 사법부는 이미 썩을 대로 썩었기에 모두 개혁이 필요한 상태이며 이를 위해서는 무능한 정치환경의 개선과 사르데냐인의 권리 회복을 필요로 합니다."
 srd.0.a:0 "국왕폐하 만세!"
 
 ### Political Events 1 - 10 ###
