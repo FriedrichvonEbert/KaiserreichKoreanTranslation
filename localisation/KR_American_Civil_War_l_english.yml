@@ -222,8 +222,8 @@ ACW_recruit_washington:0 "워싱턴에서 [washington_num] 민병대 모집"
 ACW_recruit_west_virginia:0 "웨스트버지니아에서 [westvirginia_num] 민병대 모집"
 ACW_recruit_wisconsin:0 "위스콘신에서 [wisconsin_num] 민병대 모집"
 
-CAL_influx_of_refugees:0 "Influx of Refugees"
-CAL_influx_of_refugees_desc:0 "With the East fallen to tyranny, the Pacific States have become the last beacon for democracy, and people are continuously fleeing the war-torn East in search of a better hope in the West. This does come with its issues, however, as the sheer number of refugees strains our public services."
+CAL_influx_of_refugees:0 "난민의 물결"
+CAL_influx_of_refugees_desc:0 "동부가 폭정 속에 빠져들면서 태평양 주 연합이 민주주의의 마지막 등불이 되었고, 사람들은 더 나은 희망을 찾기 위해 전쟁에 휩싸인 동부에서 도망쳐 서부로 계속해서 탈출하고 있습니다. 하지만 엄청난 숫자의 난민들이 공공 서비스에 문제를 일으키는 등 상당한 문제들도 함께 닥쳐왔습니다."
 
 ### Set Up Events - Reed ###
 amcivwar.1.t:0 "리드 대통령이 시카고로 피신하다"
@@ -371,9 +371,9 @@ amcivwar.31.t:0 "부르주아들이 캐나다로 도망가다"
 amcivwar.31.d:0 "부르주아들은 미노조연합으로부터 도망가기로 결정했습니다. 수천 명의 사람들이 적진, 특히 불법적인 캐나다 정부 영역으로 도망갔습니다. 도둑놈들은 혁명을 피해 가지고 갈 수 있는 재산을 몽땅 가져갔습니다."
 amcivwar.31.a:0 "때가 되면 혁명이 그들에게 닥칠 것이다."
 
-amcivwar.32.t:0 "The Life of William Crawley Released in Theatres"
+amcivwar.32.t:0 "윌리엄 크롤리의 삶이 극장에서 개봉하다"
 amcivwar.32.d:0 "혁명은 우리가 통제하는 지역 전체에 많은 변화를 가져왔습니다. 여러 도시에서 부르주아 문화는 대부분 사라진 것으로 보입니다. 이제는 여성들과 외국인들도 대거 조합원 가입을 신청하고 있습니다. 모든 공장이 이제는 사실상 문을 닫았기 때문에 조합원 가입은 반드시 필요한 조치입니다. '동지', '형제', '인민'이라는 단어가 의사소통에서의 경어체를 대신하고 있습니다. 적어도 현재 공공 장소에서는 대부분의 사람들이 기능성 점프슈트(30년대 여성복 일종)나 군복 형상의 옷과 같은 지난 10년 동안의 전형적인 미국식 관능적 패션을 피하고 있습니다."
-amcivwar.32.a:0 "Spendid."
+amcivwar.32.a:0 "환상적이군."
 
 amcivwar.33.t:0 "지시 #213: 전시 생디칼리슴"
 amcivwar.33.d:0 "전쟁이 교착상태에 빠졌고 어쩌면 전황이 우리에게 불리하게 변할 지도 모르기 때문에, 중앙 위원회는 '전쟁 생디칼리슴'으로 알려진 포괄적인 경제 개혁안을 논의하고 있습니다. 이 제안들 중 모든 대외 무역에 대한 국가 통제, 모든 공장의 국유화, 엄격한 노동 규율과 같은 일부는 특별히 논쟁거리가 되지 않습니다. 하지만 이 개혁안은 살쾡이 파업의 불법화, 일하지 않거나 군대에 있지 않은 사람들에 대한 의무 노동, 엄격한 식량 배급, 그리고 철도에 대한 군사 통제와 같은 잠재적으로 문제가 되는 조치들을 포함하고 있습니다. 사회당 내의 여러 사람들은 일부 후자의 조치, 특히 살쾡이 파업의 불법화는 혁명의 가치를 배반하고 현 정부를 자본주의 적들과 다를 바 없게 만든다고 말하며 이를 폭정이라 보고 있습니다. IWW와 선봉대에서 이 제안을 지지하는 사람들은 혁명에서 승리를 거두기 위해서는 이 개혁안이 필요하며, 종전 후에 통과된 최초의 법률이 전쟁 생디칼리슴을 되돌릴 것이라고 반박합니다."
