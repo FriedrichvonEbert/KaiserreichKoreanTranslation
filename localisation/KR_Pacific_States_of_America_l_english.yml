@@ -405,23 +405,23 @@ CAL_arsenal_of_democracy_desc:0 "좋은 이웃 정책은 미래의 갈등을 대
 CAL_longer_reach:0 "더욱더 멀리"
 CAL_longer_reach_desc:0 "우리가 세계의 정상 국가가 되려면, 해군력을 키워야 합니다."
 CAL_on_the_beach:0 "해변 위에서"
-CAL_on_the_beach_desc:0 "Our enemies must fear American soldiers landing on their shores, and to that end we must work to ensure that we have the skill and power to take advantage of our longer reach."
+CAL_on_the_beach_desc:0 "우리의 적들은 미군이 그들의 해안에 상륙하는 것을 두려워해야 할 것이고, 우리는 우리의 넓은 작전반경이라는 이점을 적절히 활용할 수 있도록 해야 합니다."
 CAL_working_with_allies:0 "동맹과 함께 하자"
-CAL_working_with_allies_desc:0 "American expertise must be put at the disposal of our allies - or, at least, the enemies of our enemies. If they fight better, than together we stand a chance of victory."
+CAL_working_with_allies_desc:0 "미국은 동맹국들, 아니 적어도 적들의 적들은 미국 마음대로 다루어야 합니다. 그들이 더 잘 싸운다면 우리는 승리의 기회를 거머쥘 수 있을 것입니다."
 CAL_american_century:0 "미국의 세기"
-CAL_american_century_desc:0 "The great ideological struggle for world peace has established the explicit power of the American industry and economy. America is essential to victory over tyranny and Syndicalism and will be essential in preserving world peace should we succeed."
+CAL_american_century_desc:0 "세계 평화를 위한 위대한 이념 투쟁은 미국 산업과 경제의 명시적인 힘을 확립했습니다. 미국의 존재는 폭정과 생디칼리슴에 대한 승리에 필수적이며 우리의 성공은 세계 평화를 보존하는데 필수적 요소입니다."
 CAL_fortress_america:0 "미국의 요새"
-CAL_fortress_america_desc:0 "America has been through hell, and the time has not yet come for us to become embroiled in foreign difficulties. We must look to our home, ensure it is in order, and defend our walls should enemies come knocking on our doors."
+CAL_fortress_america_desc:0 "미국은 지옥을 겪어왔고, 아직 외국의 문제에 휘말리면 안됩니다. 우리는 우리의 집을 보고, 그것이 견고한지 확인해야 하며, 적이 우리 문을 두드릴 때 우리의 벽을 지켜야 합니다."
 CAL_man_the_walls:0 "장벽을 쌓아라"
-CAL_man_the_walls_desc:0 "The first step in our defense must be to ensure our walls are well-guarded. The world should fear American military might, but only if they choose to engage us."
+CAL_man_the_walls_desc:0 "우리의 방위 계획의 첫번째 단계는 벽을 수호하는 것입니다. 우리의 적들은 미국의 강력한 군사력을 두려워해야 할 것입니다."
 CAL_business_of_neutrality:0 "중립 사업"
-CAL_business_of_neutrality_desc:0 "Neutrality has its benefit in that our enemies are few, and thus our trading partners plentiful. If America is to build itself into a true world power, we must do so on the back of the mighty American dollar."
+CAL_business_of_neutrality_desc:0 "중립을 지키면 적을 만들지 않게 되고, 무역 상대국이 늘어나게 됩니다. 미국이 진정한 세계 열강이 되려면 강력한 미국 달러를 등에 업어야 합니다."
 CAL_look_inward:0 "내부 문제"
-CAL_look_inward_desc:0 "Never again should America face instability and the threat of civil war. We must look inward, and deal with our internal troubles, rather than gazing out to places Americans don't belong."
+CAL_look_inward_desc:0 "다시는 미국이 불안정과 내전의 위협에 직면해서는 안 됩니다. 우리는 미국 외에 관심을 가지기보단 미국 내부를 들여다보고 내부의 문제를 해결해야 합니다."
 CAL_leap_forward:0 "미국은 앞으로 도약하리라"
-CAL_leap_forward_desc:0 "With our efforts consolidated and our focus clear, together the United States can leap forward into the coming century - well ahead of the rest of the world."
+CAL_leap_forward_desc:0 "우리의 노력이 결실을 맺고 한 곳에 집중하는 데 성공함에 따라, 미국은 다음 세기로 도약하게 되었습니다 - 나머지 세계보다 훨씬 앞선 상태로요."
 CAL_peace_at_last:0 "마지막 평화"
-CAL_peace_at_last_desc:0 "Our efforts have borne fruit, and at last America knows the true peace that strength and sacrifice can bring."
+CAL_peace_at_last_desc:0 "우리의 노력은 결실을 맺었고, 마침내 미국은 힘과 희생만이 가져올 수 있는 진정한 평화를 깨달았습니다.."
 
 ### Events ###
 pacificstates.1.t:0 "새로운 [GetYear]년 선거"
@@ -651,12 +651,12 @@ pacificstates.45.a:0 "우리 이익이 줄어들고 있다..."
 ### Domestic Policy Events 50 - 75 ###
 
 pacificstates.50.t:0 "HUAC 설립"
-pacificstates.50.d:0 "It has been proposed that Congress create a committee dedicated to dealing with subversive elements within our society, those that fought against the government. This Committee shall be known as the House Un-American Activities Committee and be dedicated to stamping out traitors to America. However, some within the government question its reach and regard it as being unconstitutional. What shall Congress do?"
+pacificstates.50.d:0 "정부에 적대적인 체제 전복적 세력들을 심판하는 위원회를 만들자는 제안이 의회에 올라왔습니다. 위원회는 '반미국행위위원회'으로 불릴 것이며, 미국의 반역자들을 색출해 낼 것입니다. 하지만, 정부 내 일부 사람들은 그것의 효용성에 의문을 제기하고 있고 헌법에 위배된다고 주장하고 있습니다. 의회는 어떻게 해야 할까요?"
 pacificstates.50.a:0 "위원회를 조직하자."
 pacificstates.50.b:0 "위원회를 조직하지 말자."
 
 pacificstates.51.t:0 "헤이스 코드와 영화"
-pacificstates.51.d:0 "Hollywood has decided to create the so called Hay's Code, named after Will H. Hays, leader of the motion picture association of America. The stated goal of this legislation is to ensure 'morality' in film, though many see it as a way to subvert syndicalist themes in films. Its effectiveness may be somewhat dubious, however, as a number of directors have shown great pleasure in skirting as close to the rules of the code as possible without breaking it."
+pacificstates.51.d:0 "할리우드는 미국 영화협회 회장 윌 H.헤이스의 이름을 딴 소위 '헤이스 코드'를 만들기로 결정했습니다. 많은 사람들은 이 법안의 실제 목표를 생디칼리슴적 색채의 영화를 몰아내는 것이라 보고 있지만, 이 법안의 명시적인 목표는 영화에서의 '도덕성'을 보장하는 것입니다. 그러나 많은 감독들은 지금까지 규정을 아슬아슬하게 넘지 않고 영화를 만들어 왔고, 앞으로도 그럴 것으로 예상됩니다."
 pacificstates.51.a:0 "이를 통해 영화의 발전이 이루어질 것이다."
 
 pacificstates.52.t:0 "미국의 국가"
@@ -703,13 +703,13 @@ pacificstates.63.t:0 "할리우드 부기"
 pacificstates.63.d:0 "The decision to promote true American values with a closer relationship with Hollywood seemed smart initially. However, the glitz and glamor of Hollywood shady accounting practices that confound our ability to measure returns. Patriotic productions privately financed receive royalties out of gross sales, which have been very high. However, the deal we accepted was on profits, which appear to be next to nothing. This inconsistency needs to be renegotiated, and the studios be told that such creative accounting cannot fly with the American government!"
 pacificstates.63.a:0 "팝콘에도 세금을 매길 수 있지 않을까?"
 
-pacificstates.64.t:0 "Pacific Movement of the Eastern World Uncovered"
+pacificstates.64.t:0 "동양 태평양주의 운동"
 pacificstates.64.d:0 "We initially thought that our intelligence service was overreactive when they warned us of Japanese infiltration, but this revelation justifies the time spent. Our of our new West Coast operations, agents uncovered pamphlets sent to prominent Japanese and African American leaders questioning the validity of our government. These pamphlets were traced to an organization called the Pacific Movement of the Eastern World, whose leadership appears to advocate in favor of a Pacific Japanese Alliance that advocates for unrestricted imperial growth of Japan in Asia. This organization appears to target non-Chinese ethnic minorities with promises of greater social freedom. We have arrested the conspirators, but we were unable to tie them to the Japanese embassy surprisingly."
 pacificstates.64.a:0 "이상한 조직이군."
 
-pacificstates.65.t:0 "Communalism and the Latter-Day Saints Church"
+pacificstates.65.t:0 "커뮤널리즘과 예수 그리스도 후기성도 교회"
 pacificstates.65.d:0 "The Church of Jesus Christ and Latter-Day Saints, better known as Mormons, have expressed sentiments in recent months to strengthen the ideals of Communalism within the church in order to counter the sway of syndicalism. Notably the Church has come out with a faith-based welfare program, called coincidentally enough the Church Welfare Program, to help provide for support for fellow Mormons, furthermore the program calls for more Bishop Storehouses to be created. Due to the churches influence in the western states, this has also translated into increased support for the Progressive and Farmer-Labor Parties."
-pacificstates.65.a:0 "Support Communalism as the antidote to."
+pacificstates.65.a:0 "커뮤널리즘을 해결책으로 지지하자."
 
 pacificstates.66.t:0 "군수 기업 재판"
 pacificstates.66.d:0 "많은 무기 회사들이 미국에 대항하는 다양한 반역자들을 위해 싸웠습니다. 따라서, 그들의 운명을 결정하기 위한 청문회가 의회에서 열렸습니다. 그들이 공장을 다시 돌릴 수 있게 해야 할까요, 아니면 그들을 배신자로 처벌해야 할까요?"
@@ -742,7 +742,7 @@ pacificstates.71.a:0 "우리는 미국의 안정을 유지해야 한다."
 
 pacificstates.72.t:0 "아멜리아 에어하트와 나인티-나인"
 pacificstates.72.d:0 "With the civil war now over, Amelia Earhart has restarted the Ninety-Nines dedicated to promoting and supporting women to become aviators. A number of these pilots have sought to enter the air force through the WASP organization."
-pacificstates.72.a:0 "There’s more to life than being a passenger."
+pacificstates.72.a:0 "인생에는 단지 승객이 되는 것보다 할만한 게 많지."
 
 pacificstates.73.t:0 "볼더 댐이 완공되다"
 pacificstates.73.d:0 "'This morning I came, I saw and I was conquered, as everyone would be who sees for the first time this great feat of mankind. Ten years ago the place where we are gathered was a sparse, forbidding desert. In the bottom of a gloomy canyon, whose precipitous walls rose to a height of more than a thousand feet, flowed a turbulent, dangerous river. The mountains on either side of the canyon were difficult of access with neither road nor trail, and their rocks were protected by neither trees nor grass from the blazing heat of the sun. The site of Boulder City was a cactus-covered waste. The transformation wrought here in these years is a twentieth-century marvel.' Thus begins [CAL.GetLeader]'s Speech dedicating the creation of Boulder Dam that has finally been completed today."
@@ -757,7 +757,7 @@ pacificstates.74.b:0 "철길과 열차를 국유화하자."
 
 pacificstates.76.t:0 "Howard Hughes and Aviation"
 pacificstates.76.d:0 "Howard Hughes has made his name through his businesses that dealt with aviation and many of those planes were designed by himself or approved by him. As president his love of aviation is still strong as ever and believes that what will be beneficial for the America is to have a strong air force and aviation industry. To that end working with both military and civilian leadership he has formed the Federal Aviation Administration. The FAA will have all authority over regulating civilian aviation, including air safety regulations, air navigation and traffic control as well as promote the aviation industry. Hughes believes that this will usher in an age of aviation for America."
-pacificstates.76.a:0 "To the skies!"
+pacificstates.76.a:0 "하늘로!"
 
 ### Flavor Events ###
 
