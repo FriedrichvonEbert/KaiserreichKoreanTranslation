@@ -837,7 +837,7 @@ finland.113.d:0 "멍청하게도, [From.GetAdjective] 는 끝까지 싸우겠다
 finland.113.a:0 "그러라지."
 
 finland.114.t:0 "그만 싸울까?"
-finland.114.d:0 "We've taken control of all core [Root.GetAdjective] lands in Russia, but the fight rages on. Perhaps we should offer the battered Russians peace in exchange for recognition of Finnish sovreignty over these newly acquired lands."
+finland.114.d:0 "우리는 러시아의 모든 [Root.GetAdjective] 핵심 영토를 장악했지만, 아직 싸움은 계속되고 있습니다. 아마도 우리는 피폐해진 러시아인들에게 핀란드의 신성한 영토를 인정하는 대가로 평화를 제공해야 할 것입니다."
 finland.114.a:0 "그래. 이제 그만 싸울 때가 되었다."
 finland.114.b:0 "아니, 완전한 승리를 선언할 때까지 밀어붙여야 한다!"
 
@@ -903,18 +903,18 @@ finland.128.t:0 "프레드릭 카를레 1세의 붕어"
 finland.128.d:0 "우리의 사랑하는 왕 프레드릭 카를레 1세는 72세의 나이로 대전쟁에서 생긴 상처가 악화되어 세상을 떠났습니다. 그의 생존한 둘째 아들 볼프강 왕자가 1919년 독일에 남겠다는 그의 형을 대신하여 핀란드 왕자로 아버지와 함께 왔을 때 합의했던 대로 헬싱키 성당에서 열린 대관식에서 베이뇌 1세로 즉위하게 되었습니다."
 finland.128.a:0 "선왕께서 승하하셨다! 국왕 폐하 만세!"
 
-finland.130.t:0 "Finland and the Reichspakt"
-finland.130.d:0 "Finland has unofficially been allied with Germany since 1917, and they have been part of Mitteleuropa ever since. However, now that they have stabilized their government, their membership in the Reichspakt should be renewed."
-finland.130.a:0 "Welcome back!"
-finland.130.b:0 "We have no need of the Finns."
+finland.130.t:0 "핀란드와 라이히스팍트"
+finland.130.d:0 "핀란드는 1917년부터 비공식적으로 독일과 동맹을 맺어왔고, 그 이후로 줄곧 미텔에우로파의 일원이었습니다. 하지만, 이제 그들의 정부가 안정되었으니, 그들은 라이히스팍트에 들어와야 합니다."
+finland.130.a:0 "돌아온 것을 환영한다!"
+finland.130.b:0 "핀란드인의 도움은 필요없다."
 
-finland.131.t:0 "Germany Rejects Us"
-finland.131.d:0 "The Germans have refused to renew our alliance in the Reichspakt! This is extremely unexpected and worrying."
-finland.131.a:0 "What's going on in Berlin, anyway?"
+finland.131.t:0 "독일이 거절했다"
+finland.131.d:0 "독일이 라이히스팍트 가입에 대한 우리 요청을 거절했습니다! 이는 전혀 예상치 못했던 일입니다."
+finland.131.a:0 "어쨌든 베를린에서는 무슨 일이 벌어지고 있는 거지?"
 
-finland.132.t:0 "Germany Renews Our Alliance"
-finland.132.d:0 "The German Foreign Office, observing that we have stabilized our government after a period of upheaval, has re-extended the hand of friendship to our nation. We are part of the Reichspakt once more."
-finland.132.a:0 "Our security is assured.
+finland.132.t:0 "독일이 동맹을 갱신했다"
+finland.132.d:0 "독일 외무부는 격변기를 겪은 후 우리 정부가 안정되었다고 보았고, 우리나라에 대한 우정의 손을 다시 뻗었습니다. 우리는 다시 한번 라이히스팍트의 일원이 되었습니다."
+finland.132.a:0 "우리 안전이 보장되었다.
 
 ### Ideas ###
 FIN_mounting_dissent_idea:0 "커져가는 불화"
