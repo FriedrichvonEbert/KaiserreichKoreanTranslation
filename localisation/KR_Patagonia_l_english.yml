@@ -34,10 +34,10 @@ FOP_grandes_trabajos_de_progreso:0 "산업 계획도 조직"
 FOP_grandes_trabajos_de_progreso_desc:0 "옛 정권은 파타고니아를 현대 산업과는 전혀 관련이 없는 절망적으로 궁핍한 지역으로 만들었습니다. 파타고니아 스스로 일으킨 산업 혁명의 궁극적 목적은 우리 인민에게 번영을 가져다 주는 것입니다. 하지만 이를 달성하기 전에 해외에서 연료를 들여와 산업 부문에 공급하기 위한 공급망을 구축해야만 합니다."
 
 FOP_where_we_gonna_build:0 "중앙 건설청"
-FOP_where_we_gonna_build_desc:0 "Abandoning the exploitation and whims of the free market, we'll set up a central planning committee in Puerto Madryn to oversee future developments in the region. By setting clear goals for ourselves and our workers, we'll be able to create the basic industry and infrastructure that Patagonia needs more efficiently."
+FOP_where_we_gonna_build_desc:0 "자유 시장의 착취와 변덕을 버리고, 해당 지역의 미래 개발을 총괄하기 위해 푸에르토 마드린에 중앙 계획 위원회를 설립할 예정입니다. 우리 자신과 노동자들에게 명확한 목표를 설정해 준다면 파타고니아에 필요한 기본 산업과 인프라를 더욱 효율적으로 창조해낼 수 있을 겁니다."
 
 FOP_fund_north_patagonia:0 "추부트에 자금 투입"
-FOP_fund_north_patagonia_desc:0 "The Northern Region of Patagonia, Chubut, has become the heart of the revolution, but it is far from being the muscle capable of carrying out our revolution. By diverting funds to the region, the Central Construction Agency hopes to be able to set up development areas for future industry."
+FOP_fund_north_patagonia_desc:0 "파타고니아 북부 지역인 추부트는 혁명의 중심지가 되었지만, 혁명을 수행할 수 있는 근육이 되기에는 아직 이릅니다. 중앙 건설청은 이 지역에 자금을 투입하여 미래 산업을 위한 지역 개발을 개시할 수 있기를 바랍니다."
 
 FOP_fund_south_patagonia:0 "산타크루즈에 자금 투입"
 FOP_fund_south_patagonia_desc:0 "The Southern Region of Patagonia, Santa Cruz, has been largely a backwater region of Argentina, with barely a few fishing towns and a few mines worth noting. By diverting funds to it, the Central Construction Agency hopes to make the region catch up with Chubut in terms of development so that it may hopefully become less of a weight, and more of a supporting province for our efforts."
@@ -438,9 +438,9 @@ FOP_diplomatic_connections_desc:0 "Our King, while in his lifelong exile, spent 
 
 ### Tooltips ###
 
-FOP_army_modernisation:0 "§HThis will modernize our military and give us a new division template.§!\n\n"
+FOP_army_modernisation:0 "§H이로 인해 우리 군대를 현대화하고 새로운 사단 설계를 받을 것입니다.§!\n\n"
 
-FOP_getting_help_to_get_subs:0 "We will receive old submarines from our allies.\n"
+FOP_getting_help_to_get_subs:0 "우리는 동맹국으로부터 구식 잠수함을 받을 것입니다.\n"
 
 FOP_request_syndie_countries_design:0 "We will recieve spare ship designs from our allies overseas.\n"
 
@@ -499,9 +499,9 @@ FOP_ship_tooltip2:0 "We will receive a §GProduction Bonus§! to §HBattleships�
 
 ### Flags ###
 
-FOP_soto_wins_election:0 "Soto Wins the Election"
-FOP_baldomero_wins_election:0 "Baldomero Wins the Election"
-FOP_we_won_against_argentina_yay_flag:0 "We have proclaimed the Argentine Commune."
+FOP_soto_wins_election:0 "소토가 선거에서 승리하다"
+FOP_baldomero_wins_election:0 "발도메로가 선거에서 승리하다"
+FOP_we_won_against_argentina_yay_flag:0 "우리는 아르헨티나 코뮌을 선포했습니다."
 FOP_PROGRESO_NORTH_ONE_COMPLETED:0 "Northern Progress has started"
 FOP_PROGRESO_SOUTH_ONE_COMPLETED:0 "Southern Progress has started"
 FOP_PROGRESO_NORTH_TWO_COMPLETED:0 "Northern Progress has continued"
@@ -546,10 +546,10 @@ FOP_started_falklands_development_flag:0 "Begin Integrating the Falklands"
 FOP_Moderate_Socialist_Pacifism_flag:0 "Pacifist Socialism"
 
 ### Ideas ###
-FOP_air_construction_idea:0 "Airbase Construction"
-FOP_coast_guard_expansion_idea:0 "Coast Guard Expansion"
-FOP_coast_guard_expansion_idea2:0 "Undersea Expansion"
-FOP_coast_guard_expansion_idea3:0 "Dreadnaught Expansion"
+FOP_air_construction_idea:0 "공군 기지 건설"
+FOP_coast_guard_expansion_idea:0 "해안 방위대 확장"
+FOP_coast_guard_expansion_idea2:0 "해저 확장"
+FOP_coast_guard_expansion_idea3:0 "드레드노트 확장"
 FOP_coast_guard_expansion_idea4:0 "Whole of Navy Expansion"
 FOP_morality_ban:0 "Fallout of the Morality Bill"
 FOP_morality_ban_2:0 "The New Status Quo"
@@ -665,9 +665,9 @@ FOP_resistance_modifier:0 "Resistance Cells"
 FOP_resistance_75:0 "Rebellion!"
 
 ### Events ###
-fopintro.1.t:0 "The Revolutionary Fires"
-fopintro.1.d:0 "Argentina was in a state of chaos during the Weltkrieg, with British companies exploiting its people and resources to get everything they could for the war. This lead to unrest throughout the nation, but especially in the south of the country, in Patagonia. Extremely poor working conditions brought the rise of Socialism and Syndicalism, with thousands of people refusing to work and rioting through the streets. The British forced the Argentine government to intervene, turning riots into rebellion during the events that led to the Semana Tragica. The situation only escalated further and further from there, with the LP growing in strength in the main cities, particularly with the Buenos Aires City Oligarchy. However, deep in the south of Argentina, a new type of unrest grew. What started as a simple strike of rural workers became a general strike in the south, demanding for the payment of wages that had been due for months and the improvement of working conditions. While an agreement was reached at first with the creation of the 'First Rural Agreement of the Patagonia', when the land owners didn't keep their promises, the workers started another general strike, forcing an armed retaliation by an expedition lead by Lieutenant Colonel Hector Benigno Varela. The workers, trusting Varela after he had helped create the first agreement, would try to negotiate with the officer, only to be met with a dreadful realization: Varela was there to demand nothing more than unconditional surrender of the strikers, and he was willing to shoot all who opposed to keep control of the Patagonia."
-fopintro.1.a:0 "A Sad Start for Our Revolution"
+fopintro.1.t:0 "혁명의 불꽃"
+fopintro.1.d:0 "세계대전 동안 영국 기업들이 전쟁을 치르기 위해 가능한 한 최대로 인민과 자원을 착취하면서 아르헨티나는 혼란에 빠졌습니다. 이로 인해 전국적으로 불만이 쌓였습니다. 그 중에서도 남부의 파타고니아 지역이 가장 심각했습니다. 극단적으로 열악한 노동환경으로 인해 사회주의와 생디칼리슴이 대두했고, 인민 수천명이 노동을 거부하고 거리로 나와 폭동을 일으켰습니다. 영국은 아르헨티나 정부에게 개입할 것을 강요했고, 폭동은 반란으로 비화해 세마나 트라히카(비극의 일주일) 사건으로 이어졌습니다. 이 지점부터 사태는 점점 악화되기만 했고, 그 와중에 애국당이 주요 도시들에서, 그 중에서도 특히 부에노스 아이레스 과두제 집권층 사이에서 점차 힘을 얻어갔습니다. 하지만 아르헨티나 남부 깊은 지역에서 새로운 종류의 저항이 성장했습니다. 시골 노동자들의 단순한 파업에서 시작한 저항은 남부의 총파업으로 커졌고, 몇달 전에 이미 만기가 지난 임금을 지급하고 노동 조건을 향상시킬 것을 요구했습니다. 처음에는 '제1차 파타고니아 농촌 협정' 이라는 이름의 합의가 이루어졌지만, 지주들이 약속을 지키지 않자 노동자들은 또 다른 총파업을 시작했습니다. 엑토르 베니그노 바렐라 중령이 지휘하는 원정대가 그들에게 군사적인 보복을 가했습니다. 1차 협정을 체결하는데 도움을 주었던 바렐라를 믿었던 노동자들은 또 다른 협상을 기대했지만 끔찍한 결과만이 뒤따랐습니다. 바렐라는 파업자들의 무조건 항복만을 요구했고 파타고니아에서 통제권을 위협하는 자라면 누구라도 사살할 준비가 되어 있었습니다."
+fopintro.1.a:0 "우리의 혁명은 슬프게 시작했군"
 
 fopintro.2.t:0 "The Patagonia Rebelde"
 fopintro.2.d:0 "The workers, rallied behind the figure of Antonio Soto and Jose 'Facon Grande' Font, decided that the time for revolution was now. Despite the disarmament clause in the original Rural Agreement, most of Soto's anarchists had left their weapons to Alfredo 'El Toscano' Fonte, after he and many other more radical 'anarchists' refused the agreement, and so Soto found himself having to ally with the Patagonian bandit in order to get the equipment to arm the workers to fight. After the initial victories of the Army, the workers dealt a decisive victory at La Anita farm, and with the coordination of the FORA through telegraph lines and message runners, the Second Great Patagonic Strike only grew and grew in strength, with the Argentinian army being unable to deal with it without sparking heavy political backlash in the capital for the popular UCR in power."
