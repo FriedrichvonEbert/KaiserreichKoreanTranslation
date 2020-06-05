@@ -5,7 +5,6 @@ german_focus:0 "독일 중점계통도"
 ### Leaders ###
 POLITICS_WILHELM_II_DESC:0 "빌헬름 2세 폰 호엔촐레른, '라이히스팍트의 아버지'는 독일 제국을 거의 50년 동안 통치했습니다. 그의 통치 아래에서 독일 제국은 세계 최고의 강대국으로 부상했으며, 이는 '독일의 황금기'로 불리고 있습니다. 세계대전 이후 독일은 경쟁국들 사이에서도 독보적이었고, 태양이 비치는 곳을 얻으려는 노력은 실현되었습니다. 지평선 너머로 먹구름이 몰려온다 해도, 빌헬름 황제는 국민과 군대, 그리고 이 둘을 지배하는 귀족들의 지지를 받고 있습니다."
 POLITICS_WILLY_3_DESC:0 "세계대전 동안 독일의 B집단군 지휘관으로서의 부진한 성과에도 불구하고, 황제 빌헬름 3세는 귀국하자마자 영웅으로 칭송받았습니다. 그의 아버지의 죽음과 함께, 전쟁 영웅 빌헬름이 독일의 새로운 카이저로서 제위에 올랐습니다. 빌헬름 황제는 쿠르트 폰 슐라이허의 친구이자 동지이며, 통치에 있어 귀족들이 중요하다고 주장하고 있습니다."
-POLITICS_ALFRED_HUGENBERG_DESC:0 "크루프 AG의 전 회장인 알프레드 후겐베르크는 '융커'로 알려진 독일 귀족 산업가 중 가장 많은 일을 벌이는 자입니다. 후겐베르크는 독일인들이 거주하는 모든 토지의 통일을 장려하는 목적으로 20세기가 시작되기 직전에 범국민주의적인 전독일연맹을 창설했으며, 심지어 가장 위험한 정치적 상황에서도 독일 의회의 민주화를 완전히 반대합니다. 사실상 독일의 국가원수인 후겐베르크는 독일과 반대자들 모두에게 융커의 철권과 같은 의지를 내세우려고 하고 있습니다."
 
 # Crete stuff at the bottom
 
@@ -37,7 +36,13 @@ GER_address_reichstag:0 "제국의회 연설"
 GER_address_reichstag_desc:0 "우리는 검은 월요일 위기를 해결하기 위한 예비 수순들을 시행하고 있지만, 상황은 여전히 심각합니다. 그의 불안정한 건강 상태에도 불과하고, 카이저 빌헬름 2세께서는 제국의회에게 그들의 첫 번째 우선 순위는 가능한 빨리 경제를 바로잡는 것이라고 말씀하셨습니다. 어떤 제안이 받아들여질지는 아직 알 수 없습니다..."
 
 german_eco_finished:0 "경기 회복"
-german_eco_finished_desc:0 "우리 경제는 새로운 자극을 받아들였고, 자금이 유입되기 시작했습니다. 그러한 흐름이 계속되지 않겠지만, 당분간은 지금 우리 손에 놓인 예기치 않은 선물을 받아들여야 합니다."
+german_eco_finished_desc:0 "Our economy has received fresh incentives and again liquidity has begun to flow. This boom will greatly help us recovery from the huge losses we suffered from Black Monday."
+
+GER_Sie_Contracts:0 "Siemens Favouritism"
+GER_Sie_Contracts_desc:0 "Our economy has received fresh incentives and again liquidity has begun to flow with Siemens assisting us greatly. We will return this kindess in kind with allowing them first preference in industry contracts."
+
+GER_invest_arms_industry:0 "Industrial Military Complex"
+GER_invest_arms_industry_desc:0 "With further investment in our arms industry, we have secured the means to produce the weapons we will need for the challenges Germany will face."
 
 GER_bunkrupt_fact:0 "주요 기업체 파산 선언"
 
@@ -125,7 +130,7 @@ GER_mil_support_idea:0 "독일의 군사 지원"
 GER_mil_support_idea_desc:0 "독일 제국과의 강력한 조약에 따라 독일은 전폭적인 군사 지원을 약속했습니다."
 
 GER_eco_support_idea:0 "독일의 경제 지원"
-GER_eco_support_idea_desc:0 "독일과의 조약에 따라 우리는 경제 무역 지역에 동의했습니다. 이는 우리나라를 산업화하는 데 도움을 줄 것입니다."
+GER_eco_support_idea_desc:0 "Under the terms of our treaty with Germany we managed to agree on an economic trade zone with them. This should help industrialise our nation."
 
 GER_two_front_idea:0 "양면전쟁"
 GER_two-front_idea_desc:0 "우리는 프랑스와 러시아 양국과 전쟁 중입니다. 이는 우리가 무슨 일이 있어도 피하려고 했던 악몽 같은 상황입니다. 그러나 우리는 한 번 승리한 것처럼, 또 다시 승리할 것입니다!"
@@ -150,6 +155,10 @@ GER_ZEN1_desc:0 "낭비가 없으면 부족이 없습니다. 우리가 할 수 �
 
 GER_ZEN22:0 "산업 통폐합"
 GER_ZEN22_desc:0 "독일의 산업이 최소한의 개입만으로 자리를 잡을 수 있도록 한 브뢰닝의 계획에 따라, 효율성과 생산성이 증가한 것 같아 보입니다."
+
+GER_grain_and_steel_idea:0 "Grain and Steel Programme"
+GER_grain_and_steel_idea_desc:0 "Focusing on local initiatives opposed to foreign, this programme hopes to achieve a small level of autarky within the Kaiserreich and less relience on foreign goods"
+
 
 ### Research Groups ###
 german_research_name:0 "카이저 빌헬름 학회"
@@ -219,17 +228,9 @@ GER_seeckt_dead:0 "한스 폰 젝트는 사망했고 아우구스트 폰 마켄�
 Axis_yes_to_GER:0 "카이로 협약이 우리 제안을 받아들였습니다"
 OTT_yes_to_GER:0 "오스만이 우리 제안을 받아들였습니다"
 GER_gulf_oil_obligations:0 "§G우리는 조약의 조항에 따라 의무를 다할 것입니다.§!"
-GER_factories_lost:0 "§R핵심 지역에서 5개의 민간 공장을 잃을 것입니다.§!"
-GER_address_reichstag_tooltip:0 "§G이 초점을 완료하면 검은 월요일의 영향에 대응하기 위한 몇가지 유용한 결정을 내릴 수 있을 것입니다.§!"
-ZO_zollverein_idea_tooltip:0 "§Y라이히스팍트§!를 개혁하면 다음을 얻을 것입니다:\n공장 산출량: §G+3.00%§!"																	 
-ZO_europarat_idea_tooltip:0 "§Y유럽의회§!를 설립하면 다음을 얻을 것입니다:\n일일 정치력: §G+0.03§!"
-ZO_europakomm_idea_tooltip:0 "§Y유럽위원회§!를 설립하면 다음을 얻을 것입니다:\n공장 산출량: §G+2.00%§!"
-ZO_EEP_idea_tooltip:0 "§Y유럽 교환 계획§!을 세우면 다음을 얻을 것입니다:\n연구 시간: §G+3.00%§!"
-ZO_europabrigad_idea_tooltip:0 "§Y유럽여단§!을 창설하면 다음을 얻을 것입니다:\n모집 인구: §Y2.00%§!"
 GER_angry_ukraine:0 "§R이는 우크라이나와의 관계를 해칠 것이며 우크라이나 정부를 약화시킬 것입니다.§!"
 GER_angry_socialists:0 "§G그들은 우리 군대의 일부가 될 것입니다.§!"
 GERfor.25_tooltip:0 "우리는 분쟁에 도움이 될 몇몇 사단을 양성할 것입니다."
-GER_reichstag_in_progress_tooltip:0 "우리는 정책이 실행되는 동안 다른 정책에 대한 토론을 시작할 수 없습니다."
 german_investments_flock_in_aze:0 "투자자들은 점점 아제르바이잔으로 몰려들 것입니다."
 GER_frapartwll_tt:0 "왈로니아 민병대 사단이 형성될 것입니다."
 GER_frapartals_tt:0 "두 개의 알자스 민병대 사단이 형성될 것입니다."
@@ -242,6 +243,9 @@ GER_csavol_tt:0 "2개의 자원병 사단이 디트로이트에 도착할 것입
 GER_received_equipment_10000:0 "우리는 10000개의 보병 장비를 받을 것입니다."
 GER_OTT_victory:0 "The Axis has capitulated."
 GER_cannot_join_until_WK:0 "§R[From.GetName]은 세계대전이 일어나기 전에는 [ROOT.GetFactionName]에 참가할 수 없습니다§!"
+
+GER_has_black_monday:0 "Has national spirit §HBlack Monday Effects§!"
+GER_has_black_monday_NOT:0 "Does not have national spirit §HBlack Monday Effects§!"
 
 ### Opinion Modifiers ###
 sri_lanka:0 "제국주의 괴짜"
@@ -315,62 +319,6 @@ GER_erode_cof_legitimacy_desc:0 "우리의 노력은 프랑스 국민들에게 �
 GER_invite_nfa_to_france:0 "[NFA.GetNameDef]를 프랑스 본토로 불러들이자"
 GER_invite_nfa_to_france_desc:0 "[NFA.GetNameDefCap] has far more ability than we do to erode [FRA.GetNameDef]'s legitimacy... but only if they hold enough territory in continental France to claim some kind of victory. Currently that isn't the case. In order to expedite the progress of defeating the French resistance, perhaps it's worth considering whether we could turn over some of our occupied territory to them in the south? At the very least, it would establish some gratitude on their part."
 
-GER_black_monday_decisions:0 "검은 월요일 사태"
-GER_black_monday_tooltip:0 "검은 월요일 사태는 우리 경제에 큰 타격을 주고 있습니다."
-
-GER_bm_radio:0 "재상과 라디오"
-GER_bm_radio_desc:0 "위기는 국가에 대한 독일인들의 믿음을 뒤흔들어 놓았습니다. 국민의 믿음은 핵심입니다. 따라서 정부가 위기에 대처하기 위해 어떤 조치를 취하고 있는지 매주 라디오 연설을 통해 발표하기 시작한다면 공황 상태를 피하고 행정부에 대한 믿음을 유지하는 데 도움이 될 것입니다."
-
-GER_bm_halbstarke:0 "불량청소년 테러 근절"
-GER_bm_halbstarke_desc:0 "청소년 범죄가 늘어나면서 독일의 길거리는 안전하지 않게 되었습니다. 우리는 젊은이들이 가지는 폭력적 충동을 없애기 위해 광범위한 계획을 세워야 합니다."
-
-GER_black_monday_reichstag_decisions:0 "검은 월요일 정책"
-GER_black_monday_reichstag_decisions_desc:0 "검은 월요일로 한때 강력했던 독일 경제는 혼란에 빠졌고, 경제 전문가들은 붕괴의 영향이 향후 수년 간 미칠 것이라고 말했습니다. 현명한 정치적 수완을 통해 단호하고 결단력 있는 조치를 취해서 경제에 다시 활력을 불어넣을 때가 왔습니다. 이를 위해 제국의회 내의 정당들이 제기한 몇몇 제안들이 논의되고 있습니다. 카이저는 그가 조치를 기대하고 있으며, 논의에서 나온 어떤 실현 가능한 제안일지라도 -원외정당의 제안일지라도- 받아들이겠다는 것을 암시했습니다.\n\n총 4개의 정책만을 통과시킬 수 있습니다.\n\n통과된 정책: ([?GER.GER_policies_passed|-0])"
-
-GER_reichstag_in_progress:0 "정책이 시행 중임"
-
-GER_bmr_SPD1:0 "사회민주당: 사회 복지"
-GER_bmr_SPD1_desc:0 "실업률이 기록적인 수치까지 올라가면서, 많은 가정에서는 음식을 식탁에 올리는 것이 어려워지고 있습니다. 어떤 독일인도 굶주려서는 안 됩니다! 이런 이들이 다시 일어설 수 있도록 긴급 지원을 제공하는 것은 우리 정부의 도덕적 의무일 뿐만 아니라 급진화를 막고 안정을 가져오는 데 필수적입니다."
-
-GER_bmr_SPD2:0 "사회민주당: 혼합 경제"
-GER_bmr_SPD2_desc:0 "검은 월요일은 민간 분야가 전적으로 더 좋고 합리적인 선택을 하지는 않는다는 것을 보여주었습니다. 제국 내 몇몇 부실 산업을 국유화하는 것은 많은 수익을 가져다 줄 것이며, 일부 사람들이 계속 해고되지 않게 할 수도 있을 것입니다."
-
-GER_bmr_FVP1:0 "진보인민당: 8시간 근무제"
-GER_bmr_FVP1_desc:0 "산업계에서는 생산성을 극대화하기 위해 당연히 10시간 근무가 필요하다고 주장하고 있지만, 사실 노동력을 뼛속까지 쥐어짜내는 것은 현재 경제 위기를 막는 데에 별로 도움이 되지 않습니다. 주 40시간 근무를 도입하면 평균 공장 근로자들의 생활이 더 나아질 것이며, 우리 산업에 단순히 침체 대신 혁신과 효율 향상을 가져올 수 있을 것입니다."
-
-GER_bmr_NLP1:0 "국가자유당: 독일 시장 개방"
-GER_bmr_NLP1_desc:0 "전통적으로 독일 제국은 보호무역주의적 입장을 견지해왔으며, 생산품의 판매와 거래를 미텔오이로파 내에서 하는 것을 더 선호해왔습니다. 하지만 경제학자 루드비히 폰 미제스의 말에 따르면, 우리 시장을 다른 비생디칼리슴 세계에 개방하고 무역 장벽을 없애는 것은 적지않은 이익을 가져올 가능성이 있습니다. 의심할 필요없이 어리석은 생각이지만, 시도해 볼 만한 가치가 있을지도 모릅니다." 
-
-GER_bmr_NLP2:0 "국가자유당: 이지머니"
-GER_bmr_NLP2_desc:0 "현 경제 환경에서는 은행이 대출을 망설이고 있습니다. 금리를 낮추고 이지머니 정책을 시행해 금융 기관이 시민에게 위험이 큰 대출을 해주고 현금 유동성이 증가하게끔 해야 합니다."
-
-GER_bmr_ZEN1:0 "중앙당: 예산 억제"
-GER_bmr_ZEN1_desc:0 "우리는 전에도 힘든 시기를 겪었고, 이제 다시 겪어야 합니다. 가능한 많은 곳에서 지출을 줄이고 세금을 인상함으로써 우리는 위기에 직면한 독일의 위치를 안전하게 할 수 있습니다... 비록 극소수의 사람들만이 이 정책에 기뻐한다고 해도 말입니다."
-
-GER_bmr_ZEN2:0 "중앙당: 셰이크아웃"
-GER_bmr_ZEN2_desc:0 "독일의 산업 부문을 살펴보니, 검은 월요일 이후 수요가 급격하게 감소하면서 현재 많은 제조사들이 상품을 과잉생산하고 있다는 것은 분명합니다. 우리는 한발 물러서서 시장이 조정되고 다시 안정되도록 해야 합니다. 지금 약간의 고통이 나중에는 훨씬 더 건강한 경제를 만들 것입니다."
-
-GER_bmr_DKP1:0 "독일 보수당: 견실한 과정"
-GER_bmr_DKP1_desc:0 "경제 회복 계획의 첫 번째 단계가 시행된 후, 독일 보수당은 다른 전략들이 원활하게 진행되기를 바랍니다. 독일 보수당은 독일에서 가장 중요한 정당 중 하나로, 제국의회 내에서 논쟁을 중재하고 조용하고 한결같은 현상 유지를 지키는 유일한 위치에 있습니다."
-
-GER_bmr_DKP2:0 "독일 보수당: 농업 보조금"
-GER_bmr_DKP2_desc:0 "농부들은 독일 보수당의 지지기반 중 상당 부분을 차지하고 있으며 경제적 측면에서도 무시할 수 없습니다. 이 어려운 시기에 독일의 농업 부문을 강조하는 것은 농민들의 표와 낮은 식료품 가격을 모두 보장하는 데 도움이 될 것입니다."
-
-GER_bmr_DVLP1:0 "독일 조국당: 경제 동원"
-GER_bmr_DVLP1_desc:0 "독일 조국당의 알프레드 후겐베르크는 검은 월요일이 계속되는 와중에 군비 증강을 요구했습니다. 카이저라이히의 군대는 이미 상당한 규모이며, 더 많은 신병 모집이 엄밀히 말해 실업 문제를 해결할 수 있다 하더라도 군대를 키우는 것은 터무니 없어 보입니다. 그럼에도 불구하고 그 악명 높은 언론의 왕이 약간의 부탁만 한다면 들어줄지도 모릅니다."
-
-GER_black_monday_mitteleuropa_decisions:0 "미텔오이로파 내의 검은 월요일 위기"
-
-GER_bm_polish_nationalisation:0 "폴란드 접근"
-GER_bm_polish_nationalisation_desc:0 "경제가 서서히 제 궤도로 돌아감에 따라 폴란드와의 관계를 개선할 때가 온 것 같습니다. 사회 일각에서 이 제안에 약간의 열의를 보여왔습니다. 특히 중앙당의 정치가 하인리히 폰 브렌타노는 이 생각의 주요 지지자였습니다."
-
-GER_black_monday_colonies_decisions:0 "식민지 내의 검은 월요일 위기"
-
-GER_bm_sale_of_ceylon:0 "실론 섬 매각"
-GER_bm_sale_of_ceylon_desc:0 "실론 섬은 천연자원이 풍부함에도 불구하고 행정적 비효율 때문에 수익성이 매우 떨어지는 식민지이고, 매년 막대한 투자가 필요합니다. 하지만 이 섬을 토후 연맹에 매각하자는 의심할 여지없이 수익성이 있는 제안이 있습니다."
-
-GER_GEA_navy_transferred:0 "동아시아 해군 통제권 장악"
-
 GER_black_monday_category:0 "검은 월요일 대처"
 
 GER_factories_for_colonies_full:0 "식민지의 필요를 충족"
@@ -382,74 +330,7 @@ GER_factories_for_colonies_partly_desc:0 "식민지가 처한 비참한 상황 �
 GER_agricultural_help:0 "사업의 대가"
 GER_agricultural_help_desc:0 "카이저라이히와 동유럽의 곡창지대 사이에 벽을 두지 않기로 결정함에 따라, 우리의 수준 이하의 국내 농업 착취자들은 우리의 선택에 실망감을 나타내기 시작했고, 그들의 재산은 빠르게 적자로 치닫고 있습니다."
 
-#GER_black_monday_reichstag_decisions:0 "" already defined above
-#GER_black_monday_reichstag_decisions_desc:0 "" already defined above
-
-#GER_reichstag_in_progress:0 "" already defined above
-
-#GER_bmr_SPD1:0 "" already defined above
-#GER_bmr_SPD1_desc:0 "" already defined above
-
-#GER_bmr_SPD2:0 "" already defined above
-#GER_bmr_SPD2_desc:0 "" already defined above
-
-#GER_bmr_FVP1:0 "" already defined above
-#GER_bmr_FVP1_desc:0 "" already defined above
-
-#GER_bmr_NLP1:0 "" already defined above
-#GER_bmr_NLP1_desc:0 "" already defined above
-
-#GER_bmr_NLP2:0 "" already defined above
-#GER_bmr_NLP2_desc:0 "" already defined above
-
-#GER_bmr_ZEN1:0 "" already defined above
-#GER_bmr_ZEN1_desc:0 "" already defined above
-
-#GER_bmr_ZEN2:0 ""already defined above
-#GER_bmr_ZEN2_desc:0 "" already defined above
-
-#GER_bmr_DKP1:0 "" already defined above
-#GER_bmr_DKP1_desc:0 "" already defined above
-
-#GER_bmr_DKP2:0 "" already defined above
-#GER_bmr_DKP2_desc:0 "" already defined above
-
-#GER_bmr_DVLP1:0 "" already defined above
-#GER_bmr_DVLP1_desc:0 "" already defined above
-
 GER_foreign_policy_decisions:0 "독일의 바깥을 살펴보다"
-
-GER_reichspakt_bulgaria:0 "불가리아를 라이히스팍트로 초대"
-GER_reichspakt_bulgaria_desc:0 "~mw~(이)가 오싹한 곳에서 일을 하게 만듭니다. 도움의 손길을 보내세요!"
-
-#GER_black_monday_mitteleuropa_decisions:0 "" already defined above
-
-#GER_bm_polish_nationalisation:0 "" already defined above
-#GER_bm_polish_nationalisation_desc:0 "" already defined above
-
-#GER_black_monday_colonies_decisions:0 "" already defined above
-
-#GER_bm_sale_of_ceylon:0 "" already defined above
-#GER_bm_sale_of_ceylon_desc:0 "" already defined above
-
-#GER_foreign_policy_decisions:0 "" already defined above
-
-#GER_reichspakt_bulgaria:0 "" already defined above
-#GER_reichspakt_bulgaria_desc:0 "" already defined above
-
-#GER_GEA_navy_transferred:0 "Has taken control of the East Asian navy." already defined above
-
-#GER_black_monday_category:0 "Dealing with Black Monday" already defined above
-
-#GER_factories_for_colonies_full:0 "Fulfilling needs of all of our colonies" already defined above
-#GER_factories_for_colonies_full_desc:0 " " already defined above
-
-#GER_factories_for_colonies_partly:0 "Granting limited help to our colonies" already defined above
-#GER_factories_for_colonies_partly_desc:0 " " already defined above
-
-#GER_agricultural_help:0 "The cost of doing business" already defined above
-#GER_agricultural_help_desc:0 "" already defined above
-
 
 ### Focuses ###
 GER_doctrine_new:0 "육군 개혁"
@@ -470,29 +351,11 @@ GER_doctrine_mobile_2_desc:0 "군 고위 지휘부의 하인츠 폰 구데리안
 GER_mil_expansion:0 "군대 확장"
 GER_mil_expansion_desc:0 "총참모장은 어떤 군사 교리를 채택해야 하는지에 대한 열띤 논쟁에 휘말려 왔습니다. 우리는 새로운 교리의 채택을 감독하기 위해 군 장교들로 구성된 공정한 위원회를 설립해야 합니다."
 
-#GER_doctrine_great_war:0 "현대 전쟁론"
-#GER_doctrine_great_war_desc:0 "제국군의 장교가 되고자 하는 모든 사람들이 읽어야 할 책이 한 권 있습니다. 클라우제비츠의 '전쟁론(On War)'입니다. 만약 우리가 이 주제에 대해 우리의 최고의 군사 이론가들을 포함시킨다면, 그들은 여전히 수세기 전의 책에서부터 적용 가능한 원칙들을 현대 전쟁의 요구 조건에 맞게 조정할 수 있습니다."
-
-#GER_doctrine_great_war_2:0 "분대 전술"
-#GER_doctrine_great_war_2_desc:0 "중국 개입과 최근의 분쟁은 우리 관리들에게 개별 분대 내에서 조정이 중요하다는 것을 확신시켜 주었습니다. 우리는 소위 '분대 전술'이라는 것을 보병 훈련 제도에 통합해야 합니다."
-
 GER_squad_tactics:0 "분대 전술"
 GER_squad_tactics_desc:0 "중국 개입과 최근의 분쟁은 우리 관리들에게 개별 분대 내에서 조정이 중요하다는 것을 확신시켜 주었습니다. 우리는 소위 '분대 전술'이라는 것을 보병 훈련 제도에 통합하고, 그들이 그것을 최대한 활용할 수 있는 장비를 갖추고 있는지 확인해야 합니다."
 
 GER_motorized:0 "차량화 침투"
 GER_motorized_desc:0 "우리 군 고위 지휘부는 여러 사안에 대해 하나된 의견을 도출하지 못하였으나, 하나의 사안에는 의견을 모으고 있습니다: 1870년과 1871년 승리를 되돌아봤을 때, 작전 규모에서 신속하고 결정적인 승리는 보병을 집단적으로 차량화함으로써 달성할 수 있다는 것입니다."
-
-GER_doctrine_superior_firepower:0 "중립화"
-GER_doctrine_superior_firepower_desc:0 "'포병 포격'이라는 표현은 우리가 포병을 가지고 무엇을 계획할 것인지에 대한 본질적인 의미를 파악하지 못한 것입니다. 우리는 수일, 수주일 또는 그 이상--얼마나 걸리던지간에 빗발처럼 쏟아지는 포탄를 통한 적의 완전한 중화를 추구합니다."
-
-GER_doctrine_superior_firepower_2:0 "크루프의 '전술'"
-GER_doctrine_superior_firepower_2_desc:0 "크루프에서 나온 신선한 포탄만큼 좋은 것은 없습니다! 산업계의 우리의 애국적인 동맹들에게 명령만 하면 됩니다. 그러면 우리는 우리의 격렬한 교리를 지지하기 위해 필요한 새로운 야포를 갖게 될 것입니다."
-
-#GER_doctrine_mobile:0 "새로운 교리"
-#GER_doctrine_mobile_desc:0 "하인츠 구데리안과 에리히 폰 만슈타인을 포함한 우리 고위 지휘부의 보다 급진적인 혁신자들은 완전히 새로운 교리에 대한 연구를 위해 로비 활동를 하고 있습니다. 그들은 견고한 전선을 부수기 위해 무장한 창들의 빠른 움직임에 초점을 맞추기를 원합니다."
-
-#GER_doctrine_mobile_2:0 "포위의 중요성"
-#GER_doctrine_mobile_2_desc:0 "그들의 이론에 동의하지 않는 사람들이라 할지라도 구데리안과 만슈타인이 흥미로운 생각을 가지고 있다고 말할 것입니다. 예를 들어, 그들은 적이 기동력을 상실한 후에 일단 보급이 중단되고 나면 쉽게 파괴될 수 있다고 제안하고 있습니다. 우리는 이 혁신적인 사고를 장려할 필요가 있습니다. 그것이 차이를 만들 수 있기 때문입니다."
 
 GER_doctrine_mobile_3:0 "기갑 생산공장에 투자"
 GER_doctrine_mobile_3_desc:0 "적지만 직접적인 투자를 통해 기갑 생산공장의 생산량을 향상할 수 있습니다. 다만 보수적인 장군의 일부는 이 투자에 동의하지 않을 것입니다."
@@ -505,12 +368,6 @@ GER_global1_desc:0 "세계 제국의 보유에는 바다를 넘어 지배력을 
 
 GER_global2:0 "싱가포르 항구 확장"
 GER_global2_desc:0 "이제 우리가 세금 징수 양식을 보낼 능력을 가지고 있으니, 그에 맞춘 수용력을 가진 항구가 필요합니다. 싱가포르 항구는 AOG로 향하는 독일 선박, 델리행 오스트랄라시아 선박, 그리고 때때로 미국이나 러시아의 선박으로 붐비는 동반구에서 가장 바쁜 곳입니다. 무역은 번성합니다. 이에 우리는 항구를 확장해야 합니다..."
-
-GER_global3:0 "하와이와의 조약"
-GER_global3_desc:0 "현재 싱가포르는 우리의 극동 항구이며, 태평양은 광대합니다. 우리는 타격하고자 하는 미국 서쪽 해안 어느 곳이든 들어가야 하지 않을까요? 더 가까운 기지가 필요합니다. 그렇다면 한 곳이 특히 유망합니다. 바로 독립한 하와이입니다. 정박권을 요청하기 하와이 정부에 접근해야 합니다. "
-
-GER_global4:0 "파나마 운하 공격"
-GER_global4_desc:0 "파나마 운하는 세계 해상 물동량과 강대국의 세력 투사 모두의 중요한 지표입니다. 우리는 제국주의적 목적을 위해서라도 이 운하를 손에 넣어야 합니다."
 
 GER_north_sea1:0 "빌헬름스하펜 확장"
 GER_north_sea1_desc:0 "우리는 잠수함과 대함대를 정박할 수 있는 항구가 필요합니다. 빌헬름스하펜 확장은 그 필요를 채우기 위한 첫걸음입니다."
@@ -555,7 +412,7 @@ GER_tirpitzprogramm:0 "티르피츠 계획"
 GER_tirpitzprogramm_desc:0 "1914년까지 티르피츠 계획으로 독일은 세계에서 두 번째로 큰 해군을 가지게 되었습니다. 이는 오래전 일이고, 영국 해군은 더이상 세계에서 가장 크지 않습니다. 하지만 우리는 나태해져서는 안 됩니다. 공해의 전문가가 되기 위해서는 배를 계속 건조해야 합니다."
 
 GER_naval_plans:0 "바다는 독일이 지배한다"
-GER_naval_plans_desc:0 "'바다는 독일이 지배한다' 라는 말은 지금의 우리 해군에게 가장 걸맞는 단어입니다. 우리는 선원들에게 더 많은 항해 경험을 주기 위해 북해 연안에서 일련의 새로운 훈련을 시작할 것입니다."
+GER_naval_plans_desc:0 "Deutschland beherrscht die Meere("바다는 독일이 지배한다") 라는 말은 지금의 우리 해군에게 가장 걸맞는 단어입니다. 우리는 선원들에게 더 많은 항해 경험을 주기 위해 북해 연안에서 일련의 새로운 훈련을 시작할 것입니다."
 
 GER_marines1:0 "독립해상대대"
 GER_marines1_desc:0 "우리는 해병대를 다시 훈련하고 확장해야 합니다. 해군 사령부 내에서 해병대에 더 많은 자율작전권을 주면 더 좋은 결과가 나올 것입니다."
@@ -571,15 +428,6 @@ GER_security_desc:0 "생디칼리스트의 테러는 제국은행 총재 카를 
 
 GER_security_prerequisite:0 "§Y프란츠 폰 파펜§! 또는 §Y쿠르트 폰 슐라이허§!가 정부 수반으로 있어야 합니다."
 
-GER_political_suppression:0 "정치 탄압"
-GER_political_suppression_desc:0 "제국경찰(Reichspolizei)의 임무는 생디칼리스트 조직과 기타 급진적인 집단들을 진압하는 것이지만, 제국경찰을 다른 흥미로운 일에도 이용할 수 있을겁니다. 야당 내에는 간단히 몇번 협박을 주면 침묵할만한 정치인들이 많을겁니다..."
-
-GER_consult_military:0 "군부와 협의"
-GER_consult_military_desc:0 "많은 사람들은 육군(Heer)이 독일을 세운 충성스럽고 튼튼한 토대라는 것을 잊어버린 것 같습니다. 하지만 쿠르트 폰 슐라이허(Kurt von Schleicher)는 그렇지 않습니다. 이에 따라 제국재상(Reichskanzler)은 군부 내 흥미로운 몇몇 인사들을 비공식적으로 만나서 지지의사를 표명했습니다."
-
-GER_kaiserbund:0 "황제 연방"
-GER_kaiserbund_desc:0 "계속되는 경기 침체를 고려하여, 제국의회의 진보인민당과 국가자유당 의원들이 카이저분트(Kaiserbund), 황제 연방이라고 하는 계획을 제안했습니다. 그 내용은 우리 조국과 느슨한 형태의 연방을 창설하여 식민지의 관리를 식민제국 행정부에서 지방정부로 이관하는 것입니다. 해당 의원들은 이를 통해 엄청난 경비 절감을 달성할 수 있으리라고 전망하고 있습니다…"
-
 GER_security_2:0 "프랑스 조직 금지"
 GER_security_2_desc:0 "과거 프랑스가 통치하였으나 지금은 독일의 서쪽 일부가 된 지역은 오랫동안 제멋대로 행동해왔습니다. 프랑스 민족주의가 주민들 사이에 만연하고 있으며, 프랑스 문화와 정치 단체 또한 많이 존재합니다. 이들을 금지하여 프랑스 민족주의를 억압할 수 있겠으나, 극단화를 초래할 것입니다. 어느 쪽이든 프랑스인들은 기뻐하지 않을 것입니다."
 
@@ -589,35 +437,14 @@ GER_security_3_desc:0 "비열한 파리놈들은 우리 통치를 거역하기 �
 GER_security_4:0 "인터내셔널을 파괴하라"
 GER_security_4_desc:0 "세계에서 평화와 안정에 가장 큰 위협은 단연코 생디칼리스트들입니다. 그리고 그들의 총본산이 바로 인터내셔널입니다. 우리 군 최고사령부는 수년에 걸쳐 유럽의 질서를 되찾기 위해 다시금 파리로 진군하기를 꿈꿔왔습니다. 지금보다 쳐부수기에 적합한 시기는 없습니다. 빨갱이들이 두려워하게 두십시오, 라이히스팍트가 찾아갈테니까요!"
 
-GER_foreign_aid:0 "동맹 지원"
-GER_foreign_aid_desc:0 "패권을 유지하길 원한다면, 전세계의 우리 동맹과 보호령이 강하고 충성스럽도록 지켜야 합니다. 괴뢰국과 식민지에 투자를 합시다."
-
 GER_IRE_deal:0 "아일랜드와의 조약"
 GER_IRE_deal_desc:0 "아일랜드는 안보를 위해 독일에게 의지하고 있습니다. 우리는 브리튼 연방에 싸움에서 충실한 동맹을 확보하기 위해 원조 조약을 제안해야 합니다."
 
 GER_DKB_deal:0 "코자크에 대한 군사사절단"
 GER_DKB_deal_desc:0 "러시아를 억제하기 위해서는 우리가 모든 전선에서 싸울 수 있는 역량이 반드시 보장되어야 합니다. 돈-쿠반 연합에 있는 우리 협력자에게 지원을 보내 군을 육성하도록 도웁시다."
 
-GER_BUR_ALLY:0 "버마 초청"
-GER_BUR_ALLY_desc:0 "일본의 대동아공영권으로 시암이 초정을 받은 것은 우리의 거대한 태평양 식민제국에 위협이 됩니다. 현재 버마는 생디칼리스트와 시암의 팽창주의자에 의해 위협을 받고 있는 버마와 동맹을 맺음으로써 인도차이나에 대한 일본의 영향력 확대에 반격을 가할 수 있습니다. 이 동맹 통해 분쟁 발생시 서쪽에서 시암을 위협할 수 있습니다."
-
 GER_Mauser_werke:0 "마우저와 계약"
 GER_Mauser_werke_desc:0 "마우저 사를 후원함으로써 소화기 생산량과 질을 올릴 수 있습니다."
-
-GER_weapons_contracts:0 "무기 조달 계약"
-GER_weapons_contracts_desc:0 "마우저, 에르마 베르케, 해넬, 발터, 그리고 사우어 앤 손 등 독일은 조국의 주요 공급자로 선정되기를 갈망하는 많은 총기 제조회사들을 보유하고 있는데, 이러한 환경은 무기 생산을 간소화하고 우리가 원하는 종류의 화기를 얻을 수 있도록 도와줍니다."
-
-GER_mil_expansion_air_1:0 "새로운 활주로 건설"
-GER_mil_expansion_air_1_desc:0 "발로니엔에 새로운 공군기지를 건설함으로써 전시에 프랑스 영공에 대한 도달 범위를 넓힐 수 있습니다."
-
-#GER_mil_expansion:0 "군비 확장"
-#GER_mil_expansion_desc:0 "우위를 확보했습니다만, 이를 유지하고자 한다면 군이 2순위가 되어서는 안됩니다. 군사 연구와 군 확충에 투자를 합시다."
-
-GER_Luftwaffe_fighter:0 "전투기 중점"
-GER_Luftwaffe_fighter_desc:0 "전투기 연구에 초점을 맞춤으로써 루프트바페는 독일 영공에 대한 어떠한 적이든 격퇴할 수 있을 것입니다!"
-
-GER_Luftwaffe_bomber:0 "폭격기 중점"
-GER_Luftwaffe_bomber_desc:0 "폭격기 연구에 초점을 맞춤으로써 루프트바페는 적의 산업과 보급로에 치명타를 가할 수 있게 됩니다."
 
 GER_Luftwaffe_airbases_1:0 "더 많은 공군기지 건설"
 GER_Luftwaffe_airbases_1_desc:0 "하늘에서의 공격과 방어를 위한 기반설비를 갖추기 위하여 조국과 외곽 지역 모두에 공군기지를 건설합시다."
@@ -627,12 +454,6 @@ GER_Henschel_Albatros_desc:0 "지상에서 싸우는 루프트바페와는 다�
 
 GER_Junkers_Fogger:0 "장거리 전투기"
 GER_Junkers_Fogger_desc:0 "봄버그루페 교리에 주력한 결과, 작전 거리가 긴 항공기를 바라는 목소리가 높아졌습니다. 점점 더 공격적으로 진행되는 폭격 계획을 따라 잡기 위해 이론가와 연구원들은 새로운 항공기 설계를 요구하고 있습니다. 파리 폭격이 가능한 폭격기가 만들어진 후에는 런던 폭격이 가능한 폭격기가 요구됐고, 그 뒤로도 모스크바 폭격이 가능한 폭격기 요구가 잇따랐습니다. 이 요구에는 끝이 없어 보입니다!"
-
-GER_air_doc:0 "세계대전의 교훈"
-GER_air_doc_desc:0 "20년 전의 전술은 특히 폭격기를 사용하고 보호하는 방법이 시대에 심각하게 뒤떨어져 있습니다."
-
-GER_air_doc_2:0 "현대 공군 교리"
-GER_air_doc_2_desc:0 "루프트바페의 젊고 뛰어난 생각에 받아들이면, 독일 공군은 군을 떠받치고 있는 산업계의 힘 뿐만 아니라 현대 전술의 교묘함도 얻게 될 것입니다."
 
 GER_mil_expansion_land_1:0 "군국주의 부활"
 GER_mil_expansion_land_1_desc:0 "독일 국민들은 전투심과 민족적 자부심으로 유명합니다. 그러나 세계대전은 우리를 엄청나게 희생시켰으며 많은 가족들은 남자들을 잃었습니다. 제국과 카이저의 이름으로 프로이센 시대의 군국주의 정신을 되살려야 할 때 입니다!"
@@ -661,13 +482,17 @@ GER_civ_industry_2_desc:0 "민간 산업화 계획(Zivilindustrialisierungsplan)
 GER_civ_industry_3:0 "ZIP III"
 GER_civ_industry_3_desc:0 "우리 민간 산업은 다시 한번 강력한 기반을 마련했지만, 아직 호황에 이르지는 못 했기에 몇가지 조치를 더 취해야 합니다. 식민지로부터 자원이 꾸준히 들어오고 생산량이 폭발적으로 증가하면서 머지않아 독일의 산업은 다시 한번 세계를 상회할 것입니다."
 
+GER_further_siemens_contracts:0 "Siemens Favouritism"
+GER_further_siemens_contracts_desc:0 "With our shift recovery owned much to the efforts of Siemens, the government has seen to it that they are further "favoured" in regarding any new construction contracts."
+
+GER_arms_industry:0 "Military Industrial Complex"
+GER_arms_industry_desc:0 "With unrest in the West and the bear awakening in the East, Germany for then ever needs to be ready for the challenges that are ahead of it. With investing in our local arms producers, we will ensure the German soldier is well equipped for the challenges that lay ahead"
+
 GER_industry_finished:0 "경제 부흥"
+GER_industry_finished_desc:0 "검은 월요일 이후 경제 정책이 성공을 거두면서, 민간 투자자들이 활발하게 활동하고 있습니다. 경제는 안정적일 뿐만 아니라 폭발적인 호황을 누리고 있습니다. 이는 오래 지속되지는 않겠지만, 잠시 다른 문제에 집중할 수 있을 것입니다."
 
 GER_siemens:0 "지멘스에 대한 보조금"
 GER_siemens_desc:0 "지멘스는 독일 경제의 심장을 이루는 대기업 중 하나입니다. 지멘스, 그리고 다른 작은 산업 업체들과 계약을 맺어, 우리는 경제 회복을 위한 느리고 꾸준한 길을 나아가기 시작할 수 있습니다."
-
-GER_thyssen:0 "티센 설립"
-GER_thyssen_desc:0 "실제로 다양한 회사들의 대기업인 티센 AG는 모든 것을 생산합니다. 석탄, 철강, 선박, 그리고 심지어 몇몇 소비재들까지. 그들에게 투자함으로써 우리 경제의 민간 부문이 나중에 더 나은 수익을 얻을 수 있도록 도울 수 있습니다."
 
 GER_krupp_steel_focus:0 "크루프 강철"
 GER_krupp_steel_focus_desc:0 "기반시설과 시민들을 돕는 것에 대한 이야기도 좋습니다, 그렇죠, 하지만 야포는요? 탱크, 비행기는요? 세상은 안전하지 않으며, 프리드리히 크루프 AG는 우리가 필요한 해결책을 가지고 있습니다! 그들은 독일에서 여러 세대에 걸쳐 봉사해왔고, 그들을 다시 불러 올 때가 되었습니다."
@@ -681,45 +506,6 @@ GER_infra_2_desc:0 "기차는 현재지만, 자동차는 미래입니다. 티르
 GER_infra_3:0 "오이로파반"
 GER_infra_3_desc:0 "미텔오이로파는 서류 상으로는 크고 인상적이지만, 우리는 이를 최대한 활용하지 못하고 있습니다. 몇몇 지역, 특히 동유럽은 독일과 제대로 연결되어 있지 않습니다. 그 주된 이유는 개발되지 않고 부실하게 유지되는 철도 시스템으로 인해 지속적인 물류 병목 현상이 발생하기 때문입니다. 우리는 이것을 고칠 수 있고, 곧 고칠 것입니다."
 
-GER_risky_industry:0 "회복 가속화"
-GER_risky_industry_desc:0 "'산업 생산의 전략적 후방'을 구축한다는 이 바보 같은 이야기는 어리석을 뿐만 아니라, 거의 반역적입니다! 그 점에 대해서는, 인터내셔널이나 서쪽 국경에서 올 수도 있는 그 어떤 것도, 신뢰성 있는 위협이 아닙니다. 우리는 가능한 한 빨리 경제를 발전시키고 운영하는 데 집중해야 하며, 가장 좋은 방법은 라인란트나 비슷한 지역에 투자하는 것입니다."
-
-GER_risky_industry_1:0 "라인란트의 재생"
-GER_risky_industry_1_desc:0 "라인란트는 세계에서 가장 생산적이고 산업적으로 번창하는 지역 가운데 하나입니다. 이 지역이 일어나고 있는 계속되는 혼란을 다루는 것과 이 지역을 프랑스로부터 보호하는 것이 우선이 되어야 할 것입니다. 하지만 여기에 투자하는 것으로 심각한 손해를 입을 수 있다고 주장하기는 어렵습니다."
-
-GER_risky_industry_2:0 "바덴 개발"
-GER_risky_industry_2_desc:0 "뷔르템부르크는 독일의 산업 경관을 고려할 때 즉각 떠오르지는 않지만, 이 지역은 라인강과 도나우 강 바로 옆에 있습니다. 여기서 잘 행동하면 잘 될 것입니다!"
-
-GER_output:0 "공장에 자금 지원"
-GER_output_desc:0 "우리는 더 많은 총, 비행기, 탱크를 만들어야 합니다. 많은 적들이 우리를 위해 무엇을 준비하고 있는지 알 수 없기 때문에 우리는 모든 것을 준비해야 합니다. 당면한 큰 문제는 연설이나 다수결에 의해서가 아니라, 쇠와 피에 의해서만 해결됩니다!"
-
-GER_safe_industry:0 "전략적 후방 강조"
-GER_safe_industry_desc:0 "검은 월요일은 문제이자 엄청난 기회입니다. 수년 간 독일의 산업 중심부는 안전하지 못한 서부 국경에 매우 가까이 있었숩나다. 최악의 사태가 닥쳐 이 지역을 잃게 된다면 우리는 끝장이 날 것입니다. 하지만 만약 우리가 전방에서 멀리 떨어진 슐레지엔과 같은 지역에 투자한다면, 심지어 가장 끔찍하고 상상도 할 수 없는 상황을 맞닥뜨려도 우리의 전쟁 능력을 보장됩니다."
-
-GER_safe_industry_1:0 "슐레지엔 강철"
-GER_safe_industry_1_desc:0 "라인란트는 투자하기에 솔깃한 곳이지만, 우선 실패하는 이유는 다양하다는 것을 기억하는 것이 중요합니다. 노동자들의 급진화과 최근 일어난 그들의 살쾡이 파업은 좋은 징조가 아니며, 프랑스가 바로 옆에 있다는 것은 위험한 암시를 줄 수 있습니다. 슐레지엔이 더 안전할 것입니다!"
-
-GER_safe_industry_2:0 "프로이센을 위한 계획"
-GER_safe_industry_2_desc:0 "프로이센은 독일의 역사와 통치의 중심이지만, 산업의 중심은 아닙니다. 이것이 사실인 데에는 여러가지 이유가 있지만, 중요하지는 않습니다! 카이저의 영지를 발전시키는데에 집중하는 것은 그 공장들을 우리가 기대하는 만큼 안전하게 유지시킬 것입니다."
-
-GER_construction:0 "건설에 집중"
-GER_construction_desc:0 "경제가 활기를 띠기 시작했고, 이제는 그 계획을 자연스러운 결말로 밀고 나가야 할 때입니다. 민간 투자, 공공 자금 지원, 또는 외국 자본의 투입을 통해서라도 우리가 할 수 있는 한 최대한 빨리 건설을 시작합니다."
-
-#GER_industry_finished:0 "경기 회복"
-GER_industry_finished_desc:0 "검은 월요일 이후 경제 정책이 성공을 거두면서, 민간 투자자들이 활발하게 활동하고 있습니다. 경제는 안정적일 뿐만 아니라 폭발적인 호황을 누리고 있습니다. 이는 오래 지속되지는 않겠지만, 잠시 다른 문제에 집중할 수 있을 것입니다."
-
-GER_industry_research:0 "건설 I"
-GER_industry_research_desc:0 "헤아리기 어렵지만, 우리는 산업 방법론과 모범 사례에 대해 뒤떨어져있는 것처럼 보입니다! 아마도 이게 경제와 관련이 있는걸까요? 어쨌든 이제는 문제를 해결할 수 있는 좋은 시간입니다."
-
-GER_industry_research_1:0 "산출물 I"
-GER_industry_research_1_desc:0 "Placeholder."
-
-GER_industry_research_2:0 "산출물 II"
-GER_industry_research_2_desc:0 "Output II"
-
-GER_industry_research_3:0 "건설 II"
-GER_industry_research_3_desc:0 "Placeholder"
-
 GER_economy:0 "경제 상태"
 GER_economy_desc:0 "현재 경제는 매우 좋습니다. 산업은 활기를 띠고 있고, 수많은 시민들이 일하고 있는 라이히스팍트의 동쪽 위성국에서는 곡물이 들어오고 있습니다. 카이저라이히를 아무리 둘러봐도, 티르피츠 재상의 황금기를 멈출 수 있는 것은 아무 것도 없어 보입니다..."
 
@@ -732,17 +518,11 @@ GER_ig_farben_desc:0 "고무 수요의 증가로 가격이 치솟음에 따라, 
 GER_krupp_focus:0 "크루프 AG 독점"
 GER_krupp_focus_desc:0 "크루프 가문은 약 400년이 된 독일의 산업가 가문으로, 30년 전쟁 때부터 독일의 군수 산업을 떠받쳐왔습니다! 그들의 재능은 세계대전이 새로 벌어지면 필요할 것이기 때문에, 우리는 이제 그들을 다시 채용해야 합니다."
 
-GER_rearmament:0 "군비 확장"
-GER_rearmament_desc:0 "세계는 점점 더 위험해지고 있습니다. 프랑스의 생디칼리스트들은 엘자스-로트링엔을 탐욕스럽게 바라보고 있으며, 러시아는 불안정한 상태에 빠지고 있고, 일본은 우리의 후방을 치고 싱가포르를 가져갈 적절한 때를 기다리고 있습니다. 재무장에 집중하는 것은 인기가 없을 것입니다. 하지만 이것은 우리가 양지 바른 곳을 지키고 싶다면 당장 필요한 것입니다."
-
 GER_artillery_research:0 "포병 연구"
 GER_artillery_research_desc:0 "독일 육군은 경 지원 화기 운용에 있어서 전통적으로 낙후되어 왔습니다. '패리스 건'과 같은 거대하고 다루기 힘드며 비효율적인 명품을 만들어내긴 했습니다만, 이제는 좀 더 실용적이고 효율적인 대안에 투자해야 할 때입니다."
 
 GER_doctrine_armor:0 "기갑 돌파"
 GER_doctrine_armor_desc:0 "구데리안과 만슈타인의 새로운 교리가 보여 주는 또 다른 중요한 요점은 소위 '중심 돌파'라는 것입니다. 이들은 기갑 전력에 충분한 지원 병력이 더해진 기동 기갑부대는 어떤 공격도 승리로 이끌 수 있다고 믿고 있습니다. 이제 그들은 이 교리를 위해 새로운 전차를 필요로 합니다."
-
-#GER_doctrine_armor:0 "P" already defined above
-#GER_doctrine_armor_desc:0 "P" already defined above
 
 GER_hahn_meitner:0 "한 & 마이트너 지원"
 GER_hahn_meitner_desc:0 "한과 프로일라인 마이트너는 매우 뛰어난 물리학자입니다. 한은 심지어 생디칼리슴 세계의 학술지에 정기적으로 글을 쓰며, 마이트너는 카이저 빌헬름 학회의 소장입니다! 이 둘이 아주 강력한 무기를 만드는 데에 도움을 줄 수 있다고 믿습니다. 그보다 더 강력한 무기에 대해서도 말이죠."
@@ -753,14 +533,7 @@ GER_rocket_desc:0 "폰 브라운은 '로켓' 분야의 유명한 선각자이며
 GER_zuse:0 "콘라드 추제 지원"
 GER_zuse_desc:0 "콘라트 추제는 소위 '계산기'라는 것에 대해 몇가지 특허를 냈습니다. 적절한 후원이 있다면, 그의 생각은 국가에 의해, 국가를 위해 좋게 쓰일 것입니다."
 
-GER_radar:0 "루돌프 퀸홀트 지원"
-GER_radar_desc:0 "루돌프 퀸홀트는 이른바 '라디오 측정 장치'에 대해 몇 가지 흥미로운 아이디어를 가지고 있습니다. 이것은 우리에게 바다, 공중, 심지어 땅에도 엄청난 이점을 줄 수 있으니 투자할만한 가치가 있을지도 모릅니다."
-
-GER_kaiser_wilhelm_society:0 "카이저 빌헬름 학회"
-GER_kaiser_wilhelm_society_desc:0 "최근 카이저 빌헬름 과학 발전 학회에 투자하여 다양한 분야에서의 연구 능력이 확대되었습니다. 사회를 국가 주도 연구를 위한 장소라고 홍보한다면, 우리는 신세대 최고의 두뇌를 일부 유치할 수 있을 것입니다."
-
 GER_black_monday_radio:0 "재상과 라디오"
-#GER_black_monday_radio_desc:0 "위기는 국가에 대한 독일인들의 믿음을 뒤흔들어 놓았습니다. 국민의 믿음은 핵심입니다. 따라서 정부가 위기에 대처하기 위해 어떤 조치를 취하고 있는지 매주 라디오 연설을 통해 발표하기 시작한다면 공황 상태를 피하고 행정부에 대한 믿음을 유지하는 데 도움이 될 것입니다."
 GER_black_monday_radio_desc:0 "검은 월요일은 국민의 국가에 대한 믿음을 흔들어 놓았습니다. 국민의 신뢰는 핵심입니다. 따라서 주간 라디오 방송을 시작하여 정부가 위기를 타개하기 위해 어떠한 조치를 취했는지 보여준다면 공황 상태를 피하고 정부에 대한 신뢰를 유지하는 데 도움이 될 것입니다."
 
 GER_groener1:0 "수익성 없는 재산 청산"
@@ -769,8 +542,8 @@ GER_groener1_desc:0 "노련한 정치인 빌헬름 그뢰너는 최근 'Black ze
 GER_groener2:0 "제국노동봉사단"
 GER_groener2_desc:0 "군에 몸담고 있는 그뢰너의 친구들과 연줄이 현재 급진적인 혁신을 제안했습니다. 위기가 계속되는 동안, 신병들은 반년간의 군 복무를 정부 지도 하에서 노동하는 것으로 대체할 수 있게 됩니다. 신병 수는 줄겠지만, 이는 우리 경제에 필요한 상당한 인력을 공급할 것입니다."
 
-GER_groener3:0 "실론 매각"
-GER_groener3_desc:0 "실론 섬은 수익성이 매우 없는 식민지 중 하나로, 매년 막대한 투자를 해야 합니다. 하지만 수익성을 높이기 위한 아이디어를 찾는 대신 이 섬을 토후 연맹에 매각하자는 제안은 있었습니다."
+GER_groener3:0 "Gehaltskürzung"
+GER_groener3_desc:0 "Cutting the enormous salaries of those "Officials" who can more then afford to do so, hasn't been met with open arms. Many have called Groener a Syndicalist in sheep clothing, but quickly retracted their statements on threat of release of their "Expenses" during the crisis. Though it would appear the Groener won't be invited to any social gatherings amongst the aristocracy for quite some time."
 
 GER_schacht1:0 "융커 재산 긴급구제"
 GER_schacht1_desc:0 "제국은행 총재 얄마르 샤흐트는 자신이 세운 경제 정책을 추진하기 위해 허가를 내줄 것을 요구하고 있습니다. 이는 '샤흐트 계획'이라고 불리는데, 이 계획에 따르면 우리는 더이상 혼란을 일으키고 싶지 않다 하더라도 고채무 융커 재산에 대해 긴급 구를 실시할 필요가 있습니다."
@@ -778,11 +551,8 @@ GER_schacht1_desc:0 "제국은행 총재 얄마르 샤흐트는 자신이 세운
 GER_schacht2:0 "투자 계획"
 GER_schacht2_desc:0 "샤흐트 계획의 다음 단계는 소비재 분야와 상업 분야 모두에 대한 민간 투자를 장려하기 위한 대규모 프로그램입니다. 이는 성취하기 어렵겠지만, 생산자들이 시장을 다시 찾게 해야합니다. 이 일로 경제는 다시 돌아가기 시작할 것입니다."
 
-GER_schacht3:0 "폴란드에 접근"
-GER_schacht3_desc:0 "경제가 서서히 제 궤도를 찾아 감에 따라, 마침내 폴란드와 경제적 유대를 향상할 때가 왔습니다. 일부는 이 제안에 약간의 열의를 보였습니다. 특히 중앙당 소속 정치인 하인리히 폰 브렌타노가 이 제안을 주도했습니다."
-
-GER_mitteleuropa:0 "미텔오이로파 단일통화"
-GER_mitteleuropa_desc:0 "하인리히 폰 브렌타노와 그의 유럽 우호 협회 친구들은 고위 관직에 앉자 또 다른 아이디어를 제안했습니다: 모든 미텔오이로파 국가들의 단일 통화. 물론 이는 절대 성공하지 못할 것입니다. 유럽 우호라고? 말도 안 되는 소리."
+GER_schacht3:0 "Goldstandard"
+GER_schacht3_desc:0 "By dropping the strandard of gold within the Empire, will allow for productivity to grow due to further reliance on the Mark. Though many have argued against this, stating the effects of Black Monday are more short term then long term, Schacht reply is that short term effects are crippling the Empire and allowing for it's competition to get ahead."
 
 GER_zollverein:0 "미텔오이로파 개편"
 GER_zollverein_desc:0 "너무 오랫동안 미텔오이로파는 명목상으로만 존재해왔습니다. 이제 회원국들... 그리고 우리에게 실질적인 이익을 가져다 주기 위해 개혁을 시작할 때가 되었습니다. 처음 시행할 것은  통일된 관세입니다."
@@ -823,14 +593,8 @@ GER_schule_desc:0 "비행사들을 위한 공립 학교를 세우면 현재 다�
 GER_institut:0 "항공 공학 연구원"
 GER_institut_desc:0 "항공 기술을 위한 독립적인 연구 기관인 항공 공학 연구원(Institut für Luftfahrttechnik)은 독일이 땅과 바다 뿐만 아니라 하늘도 지배하기 위한 초석이 될 수 있습니다."
 
-GER_tactical_bombers:0 "작전적 유연성"
-GER_tactical_bombers_desc:0 "태평양, 대서양 또는 유럽 대륙에서 군사 작전이 가능하게 되면서 우리의 영토는 전 세계로 뻗어 있습니다. 우리가 어떤 위협을 마주할 지는 알 수 없으며, 수많은 임무를 수행할 수 있는 전술 폭격기에 초점을 맞추는 것이 현명할 것입니다."
-
 GER_heerflieger:0 "플리거트루페 유지"
 GER_heerflieger_desc:0 "우리 조종사들은 현재 육군 소속으로, 독립적인 공군사령부 없이 조직되어 있습니다. 이는 조종사와 지상군 사이의 협력을 더욱 튼튼하게 하고 있으므로, 공중 지원으로 지상군 우세를 돕는 현 교리가 이어질 것입니다. 이는 좋은 일이고, 유지해야 합니다."
-
-GER_doitagain:0 "슈페렐에게 귀를 기울이다"
-GER_doitagain_desc:0 "세계대전의 참혹한 베테랑 조종사 휴고 슈페렐은 그의 과감한 새 교리로 최근 우리 플리거트루페 사이에서 악명을 얻었습니다. 그는 우리의 산업을 전략 폭격기의 전면적인 생산으로 전환시켜 적의 능력과 싸우겠다는 의지를 파괴하면 우리는 더 빨리 다음 전쟁에서 승리할 수 있을 것이라고 제안했습니다."
 
 GER_luftwaffe:0 "루프트바페 창설"
 GER_luftwaffe_desc:0 "붉은 남작, 만프레트 폰 리히트호펜은 세계대전 때부터 독립적인 공군 - 루프트바페 - 의 창설을 주장해왔습니다. 최근까지는 전통적으로 권위있는 육군의 보수파가 이를 막아왔지만, 전쟁이 다시 한번 다가오면서, 남작의 생각을 고려해야 할 때가 왔습니다."
@@ -850,38 +614,14 @@ GER_bombergruppen_desc:0 "리히트호펜의 루프트바페 설립의 첫 번�
 GER_singapore_airstrips:0 "싱가포르 활주로 확장"
 GER_singapore_airstrips_desc:0 "싱가포르는 독일령 동아시아의 중심지입니다. 이 요새 도시는 군용 활주로 뿐만 아니라 민간용 활주로도 많이 필요합니다. 생각할 필요도 없이, 그냥 만들면 됩니다."
 
-#GER_jet:0 "항공 추종"
-#GER_jet_desc:0 "현재 일어나는 충돌로 비행사의 이미지가 바뀌었습니다. 그들은 영광스럽고 용감한 전쟁의 이미지로서 기병을 대체했습니다. 모든 아이들은 빛나는 갑옷을 입고 하늘을 가로지르는 비행사가 되기를 열망합니다. 이 이미지를 더욱 발전시킴으로써, 우리는 조종사들이 라이히를 위해 최선을 다하도록 동기를 부여할 수 있습니다."
-
 GER_finalise_centralisation:0 "중앙집권화 완성"
 GER_finalise_centralisation_desc:0 "남부 독일의 바덴 왕국, 뷔르템베르크 왕국, 바이에른 왕국의 독립 정권은 독일 연방 체제의 마지막 잔재입니다. 독일 정부가 이들 국가까지 완전히 관리하도록 함으로써, 우리는 모든 분권주의적 경향을 없앨 수 있습니다. 독일은 이들 없이는 독일이 아닙니다!"
-
-GER_disband_reichstag:0 "제국의회 해산"
-GER_disband_reichstag_desc:0 "재상 폰 슐라이허가 성공했습니다. 독일 조국당은 독일에서 다시 한번 가장 세력이 큰 정당이 되었으며 융커들이 모든 주요 관직을 독식하고 있습니다. 에리히 루덴도르프가 1919년에 했던 것과 같은 방식으로 새 정권을 공식화하는 일만이 남았습니다; 다시 태어난 제국에 평화, 자유, 정의, 안보를 가져오기 위해 제국의회를 해산하고 소집을 유예하는 것입니다."
-
-GER_sonderweg:0 "특수한 길"
-GER_sonderweg_desc:0 "독일이 귀족주의에서 민주주의로 나아간 길은 다른 유럽 국가와는 달랐고 이는 존더벡(특수한 길) 학파 내에서 재확인되었습니다. 우리는 가능한 한 이러한 민주적인 생각을 받아들여야 합니다."
-
-GER_parlamentsvertrauen:0 "프로이센 입헌주의의 끝"
-GER_parlamentsvertrauen_desc:0 "독일의 권위주의적인 요소에 60년 이상 맞선 결과, 마침내 독일은 민주주의 국가가 될 때가 왔습니다. 이제부터 재상과 정부는 더이상 카이저에게 보고하지 않고 제국의회와 국민들에게 보고할 것입니다. 더 이상 국민에게 맞서는 정부는 없습니다. 국민의, 국민에 의한, 국민을 위한 정부만이 있을 뿐입니다."
 
 GER_democracy_in_prussia:0 "프로이센의 민주주의"
 GER_democracy_in_prussia_desc:0 "현재 프로이센의 투표 제도는 낡았고 비민주적입니다. 국민은 소득에 따라 셋으로 나뉘는데, 전국민의 60%가 넘는 가장 낮은 계층과 10%도 안 되는 비율의 가장 높은 계층에서 같은 수의 대표자가 나옵니다! 우리는 독일의 모든 시민들을 위해 보통선거, 비밀선거, 평등선거를 실시해야 합니다."
 
 GER_easter_promises:0 "부활절 약속"
 GER_easter_promises_desc:0 "전쟁이 최악으로 치달았던 1917년 4월 7일, '순무의 겨울'이 지난 후 카이저는 실질적인 개혁과 프로이센의 3급 투표제 폐지를 약속했습니다. 하지만 그는 모든 약속을 정확한 날짜를 말하지 않고 말했습니다. 이제 카이저께 그 약속에 대해 물을 때가 온 것일지도 모릅니다..."
-
-GER_minority_rights:0 "소수민족 권리 보장"
-GER_minority_rights_desc:0 "전통적으로 제국은 특정 인구, 특히 알자스-로트링겐의 프랑스인과 우리 동부 지역의 폴란드인 등 독일화에 대한 강경책을 추구해 왔습니다. 이러한 통합 과정은 계속되어야 하지만, 우리는 적어도 그들에 대한 존경의 뜻을 보여주면서 몇 가지 귀중한 가치를 얻을 수 있습니다."
-
-GER_rebuild_institutions:0 "진정한 제국의회"
-GER_rebuild_institutions_desc:0 "시간이 흐르면서, 제국의회는 카이저가 임명한 제국재상의 정책을 승인하는 역할을 하는 미화된 고무도장 본부가 되었습니다. 더 이상 안됩니다! 오늘부터, 제국의회는 독일 국민들을 대변하는 목소리를 가진 진정한 입법기관이 될 것입니다."
-
-GER_status_quo:0 "균형을 수호하라"
-GER_status_quo_desc:0 "우리 정부의 상황이 이상적이지 않다는 것은 사실이지만, 세상은 위험한 곳이고, 국민들의 불평은 결코 그와 관련이 없었습니다. 우리는 대중주의적 개혁에 낭비할 시간도 없고 자원도 없습니다. 현상 유지가 우리에게 잘 맞을 것입니다."
-
-GER_glorify_kaiser:0 "카이저에게 영광을"
-GER_glorify_kaiser_desc:0 "브란덴부르크의 가장 짧은 기원에서부터, 호헨촐레른 왕조는 독일을 통일과 승리의 시간으로 계속해서 이끌었습니다. 황제는 우리가 존중해야 하는 독일 국민의 힘과 통합의 상징입니다. 그와 제국재상에게 계속해서 권력을 집중시킴으로써, 우리는 더 안전하고 더 안정된 미래를 보장할 수 있습니다."
 
 GER_embrace_faud:0 "독일자유노동조합 포용"
 GER_embrace_faud_desc:0 "독일자유노동조합은 오랜 골칫거리였습니다. 그 조직을 받아 들이고 아무런 제약 없이 운영할 수 있게 하면, 우리는 그들이 더 이상 급진적이지 않다는 사실을 확인할 수 있을 것입니다."
@@ -899,19 +639,6 @@ GER_restore_country_rights_desc:0 "루덴도르프 정권에서 많은 독일 �
 
 GER_babelsberg:0 "바벨스베르크 확장"
 GER_babelsberg_desc:0 "바벨스베르크의 영화 스튜디오는 오랫동안 세계에서 가장 영향력 있는 영화 산업으로 할리우드를 대체해 왔습니다. 하지만 정치에서 매우 동떨어져 있는 영화라 할지라도, 그 영화가 반드시 정부를 지지하는 것은 아닙니다. 레니 리펜슈탈을 포함한 일부 영화 제작자들이 우리가 금전적인 지원을 해준다면 독일인들의 빛나는 과거와 미래를 보여주는 영화를 만들 수 있다고 제안했습니다."
-
-#GER_siemens:0 "지멘스에 대한 보조금"
-#GER_siemens_desc:0 "지멘스는 독일 경제의 심장을 이루는 대기업 중 하나입니다. 그들 그리고 다른 중소 기업들과 계약을 맺어 이미 영향력을 행사하는 크루프 AG의 잠재적인 영향력 상승을 막고 철도 및 기타 기반시설 관련 협력 업체와의 경쟁을 강화할 수 있습니다."
-
-#GER_infra_1:0 "새로운 기관차"
-#GER_infra_1_desc:0 "독일의 기반 시설은 안타깝게도 너무 낡았습니다. 이제 철도 업계의 주요 사업체와 계약을 맺었으니, 제국 철도 회사의 주요 재산을 전반적으로 점검하기 위해 좋은 관계를 맺어야 합니다."
-
-#GER_infra_2:0 "철로 재건"
-#GER_infra_2_desc:0 "논리적으로, 기반 시설 정비의 다음 단계는 가장 사용량이 많은 철도 선로의 완전한 교체와 철도를 통해 바다에서 가장 멀리 떨어진 지역에 접근 가능하도록 하는 계획이 될 것입니다. 이는 분명히 민간 경제 발전에 긍정적인 영향을 미칠 것입니다."
-
-#GER_babelsberg_desc:0 "The Babelsberg film studios have long replaced Hollywood as the most influential film industry of the world. However, the content produced within these studios is hardly supportive of the State. Some producers, namely Leni Riefenstahl, have proposed some projects that, with our funding, could help remind the Germans of their glorious past and future."
-
-GER_guard_the_balance:0 "재정수지 보호"
 
 GER_gibraltar:0 "지브롤터 재요구"
 GER_gibraltar_desc:0 "지브롤터는 대서양에서 지중해로 가는 주요 관문입니다. 남쪽에 있는 우리 재산을 더 잘 보호하기 위해 스페인 측에 지브롤터를 넘길 것을 요구해야 합니다."
@@ -934,8 +661,8 @@ GER_grain_and_steel_desc:0 "곡물과 철강은 독일의 생명줄과도 같으
 GER_border_regions:0 "국경 지역 개발"
 GER_border_regions_desc:0 "국경 지역은 현재 기반 시설과 투자가 부족합니다. 우리는 두가지 모두를 바꿀 것입니다."
 
-GER_mitteleuropa_brigades:0 "유럽여단"
-GER_mitteleuropa_brigades_desc:0 "유럽위원회는 통화와 산업을 다룰 능력을 가지고 있을 뿐만 아니라, 모병을 극대화할 수 있는 새로운 방안을 제안했습니다. 황제는 이에 큰 관심을 보이고 있으며 그 가능성에 대해 탐구해보라고 요구했습니다."
+GER_mitteleuropa_brigades:0 "Paktbrigaden"
+GER_mitteleuropa_brigades_desc:0 "In an effort to create a unified command structure under German control, the formation of Paktbrigaden have been decided with manpower drawn from Germany and all Reichspakt members."
 
 GER_ostwall:0 "동부 방벽 확장"
 GER_ostwall_desc:0 "우리 동부 동맹국은 러시아 곰들의 침략에 극히 취약합니다. 우리는 우리 군대가 도착하기 전에 동맹들에게 전투의 기회를 주기 위해 동부 방벽을 확장해야 합니다."
@@ -943,18 +670,8 @@ GER_ostwall_desc:0 "우리 동부 동맹국은 러시아 곰들의 침략에 극
 GER_poland_war:0 "송환 명령"
 GER_poland_war_desc:0 "폴란드는 유럽에서 외교적으로 너무 오랫동안 이상했습니다. 세계대전이 끝난 이래로 폴란드는 독일과 오스트리아 세력 사이 정치적 공백에 갇힌 상태였습니다. 이제는 적절한 독일의 체제가 폴란드에 돌아 올 때가 되었습니다. 강력한 외교적 노력이나 무력으로 폴란드는 원래 속해있던 독일의 영토로 돌아 올 것입니다."
 
-poland_refused_demands:0 "국경지대가 할양되지 않았습니다"
-GER_poland_hostile_tooltip:0 "§Y[POL.GetName]§!에 적대적인 정부가 들어섰습니다"
-GER_poland_hostile_tooltip_NOT:0 "§Y[POL.GetName]§! 에 적대적인 정부가 들어서지 §R않았습니다§!"
-
 GER_poland_alliance:0 "폴란드와 유대 강화"
 GER_poland_alliance_desc:0 "폴란드와의 외교 관계를 개선하려는 초기의 노력은 어느 정도 성공을 거두었습니다. 폴란드도 과거의 분쟁을 해결하고 지난 20년간의 정치적 교착 상태를 깨기를 바라고 있는 듯 합니다. 폴란드에 적절한 외교 사절을 보내면 상호 관계를 고취되고 폴란드가 결국에는 우리 영향권으로 들어올 수 있는 토대가 마련될 것입니다."
-
-GER_poland_strip_for_me_baby:0 "접경 지역 요구"
-GER_poland_strip_for_me_baby_desc:0 "세계대전 중에, 에리히 루덴도르프 병참감은 폴란드 영토의 많은 부분을 '접경 지대'(Grenzstreifen) 형태로 독일 제국에 병합하는 계획을 세웠습니다. 이 계획은 오스트리아가 폴란드 섭정에 간섭하고 분쟁을 벌이면서 시행되지 못했습니다. 이제 오스트리아의 주의는 다른 곳을 향했으며 마땅히 우리의 것을 찾을 때가 왔습니다."
-
-GER_poland_strip_core:0 "접경 지역 통합"
-GER_poland_strip_core_desc:0 "폴란드 접경 지역은 확고하게 통제되고 있습니다. 루덴도르프의 오래된 계획 중 나머지 절반을 시행하여 이 지역에 정착하려는 독일인들을 독려할 때가 왔습니다. 의심의 여지없이 현지 폴란드인들의 저항이 있겠지만, 이 지역에 독일 보병 부대의 강력한 존재는 최악의 범죄자들을 단속할 것입니다."
 
 GER_oil:0 "석유는 흘러야 한다"
 GER_oil_desc:0 "우리의 식민제국은 몸이고 석유는 제국을 돌아가게 하는 피입니다. 재난을 피하려면 우리는 공급을 확보하고 유지해야 합니다."
@@ -1010,32 +727,6 @@ GER_oil_romania_alliance_desc:0 "내전이 루마니아를 덮쳤습니다. 우�
 GER_oil_bad_romania_alliance:0 "철위대 지원"
 GER_oil_bad_romania_alliance_desc:0 "철위대는 자신들을 합법적인 루마니아 세력으로 인정해 달라고 우리에게 로비를 했습니다. 그들은 혐오스럽지만, 우리는 그들의 관리 하에 석유를 계속 공급받을 수 있습니다."
 
-GER_oil_increase:0 "투자 확대"
-
-GER_faction_expansion:0 "라이히스팍트 확장" #Großreichspakt
-
-GER_america_faction:0 "아메리카 대륙 사절 파견"
-
-GER_US_faction:0 "실패한 민주주의에 열광"
-
-GER_dutch_faction:0 "네덜란드와 긴밀한 협력"
-
-GER_nordic_faction:0 "북유럽 주시"
-
-GER_eastern_europe:0 "동유럽 투자"
-
-GER_anti_russia:0 "러시아에 대항하는 보루"
-
-GER_SA_faction:0 "남아프리카의 독일재산"
-
-GER_eth_faction:0 "아비시니아 협정"
-
-GER_AUS_ally:0 "우리 독일인 동포"
-
-GER_OTT_ally:0 "중동 중점"
-
-GER_spain_ally:0 "부르봉 왕가 구애"
-
 ### Decisions ###
 GER_appeal_to_old_friends:0 "[From.GetNameDef]에 도움 요청"
 GER_appeal_to_old_friends_desc:0 "전쟁이 우리에게 불리하게 돌아가게 되면서, 우리에게 강력한 동맹들이 필요하다는 것이 분명해지고 있습니다. 아마도 [From.GetNameDef]에 있는 우리의 옛 동맹들에게 도움을 청하는 것이 현명한 판단일지도 모릅니다. 세계대전 말기에 동맹국은 빠르게 무너졌지만, 동맹국 국가들은 대체적으로 군주주의의 보호를 지지하는 국가로 남아있습니다. 확실히 옛 동맹들이 생디칼리스트의 위협에 우리가 홀로 맞서지 않도록 내버려두지 않지 않을까요?"
@@ -1053,26 +744,6 @@ gerdom.2.a:0 "두 분 모두 안녕히 계시기를."
 gerdom.4.t:0 "곡물 공급 문제"
 gerdom.4.d:0 "발트와 우크라이나에서 곡물 공급의 일부를 더 이상 통제할 수 없게 됨에 따라, 우리는 심각한 문제에 직면하게 됐습니다. 이 일이 1916/17년 겨울의 끔찍했던 기아만큼 심각해지지 않기를 바랄 뿐입니다..."
 gerdom.4.a:0 "제기랄!"
-
-### Sale of Ceylon ###
-
-gerdom.7.t:0 "실론의 상태"
-gerdom.7.d:0 "실론 섬은 거대한 고무 공급으로 인해 가치가 있지만, 통제하기에 갈수록 비용이 많이 들고 있습니다. 원주민들의 긴장과 지방 정부의 낭비는 그 지위를 늦기 전에 재평가해야 한다는 것을 의미합니다. 그 섬을 어떻게 할까요?"
-gerdom.7.a:0 "실론은 통제하에 둔다"
-gerdom.7.b:0 "독일 제국의 아래에서 원주민에게 자치권을 부여한다"
-gerdom.7.c:0 "토후 연맹에 실론을 제공한다"
-
-gerdom.8.t:0 "실론 매각"
-gerdom.8.d:0 "독일이 우리에게 실론을 팔기 위해 왔습니다. 분명 상당한 비용이 들겠지만, 이 섬을 다시 갖게 되면 인도양에서 우리의 위치를 강화하게 될 것입니다. 어떻게 응답하겠습니까?"
-gerdom.8.a:0 "고향에 어서와라, 실론!"
-gerdom.8.b:0 "우리는 그 암초덩어리가 필요하지 않다"
-
-gerdom.9.t:0 "실론 매각"
-gerdom.9.d:0 "인도 토후 연맹의 대사는 정부가 실론을 사들이기로 동의했다는 내용의 메시지를 우리에게 보냈습니다. 우리는 섬 통치권을 양도했습니다."
-gerdom.9.a:0 "좋았어"
-
-gerdom.10.t:0 "토후 연맹이 우리의 제안을 거부하다"
-gerdom.10.d:0 "토후 연맹은 우리의 제안에 대해 실론을 원하지 않는다고 단호하게 대답했습니다. 우리는 이제 실론을 그대로 두거나 원주민들에게 더 많은 자치권을 줄 수 있을 뿐입니다."
 
 ### Agricultural crisis in Mitteleuropa ###
 
@@ -1395,15 +1066,6 @@ gerdom.86.d:0 "프랑스 코뮌은 최근 독일 제국 내의 모든 프랑스 
 gerdom.86.a:0 "코뮌 지지자가 배후에 있다. 그들을 말살하라!"
 gerdom.86.b:0 "모든 항의를 무시하라!"
 gerdom.86.c:0 "프랑스 코뮌의 권리를 돌려주어라"
-
-gerdom.87.t:0 "발로니엔과 로트링겐에서 폭동이 일어나다!"
-gerdom.87.d:0 "우리의 지원 덕택에 프랑스와 발로니엔의 주민들이 독일 압제자에 대항해 일어섰습니다!"
-gerdom.87.a:0 "무기를 들어라, 시민이여! "
-
-gerdom.88.t:0 "발로니엔과 로트링겐에서의 폭동?"
-gerdom.88.d:0 "우리는 마침내 역겨운 독일 반동분자놈들과 전쟁에 들어갔습니다! 오랫동안 희망했던 자유를 쟁취하기 위해 발로니엔과 로트링겐에서 일어난 프랑스 저항 운동을 도울 기회를 사용해야 할까요?"
-gerdom.88.a:0 "그들을 지원하라!"
-gerdom.88.b:0 "그들은 이를 감당할 수 없다"
 
 gerdom.91.t:0 "독일 군사사절단이 돈-쿠반 연합에 도착하다"
 gerdom.91.d:0 "우리의 구식 군대의 개선을 돕기 위해 독일 제국이 우리 조국에 군사사절단 파견을 결정했습니다."
@@ -2230,32 +1892,6 @@ gerfor.166.t:0 "독일의 영향 아래에서"
 gerfor.166.d:0 "독일인들이 우리 산업에 대한 직접적인 통제를 확립할 수 있도록 허용했기 때문에, 우리는 외국의 영향이 심해질 것이라고 예상했어야 했습니다. 정부와 산업계는 현재 독일이 좌지우지하고 있으며 아제르바이잔은 사실상의 독일의 지배를 받고 있습니다. 여당이 정권을 유지하고 있음에도 불구하고 우리는 좋든 싫든 이제 독일의 영향권 안에 있습니다."
 gerfor.166.a:0 "이 일이 일어날 줄 알았어."
 
-gerfor.167.t:0 "브렌타노의 연설"
-gerfor.167.d:0 "어제 이른 오후, 중앙당 정치인 하인리히 폰 브렌타노는 "심지어 우리와 다른 점이 있는 국가들"도 포함하해 더 강력한 유럽 경제 블록을 만들기 위해 "과거의 차이"를 어떻게 없애야 하는가에 대해 열정적으로 연설했습니다. 정확한 국명을 말하지는 않았지만, 대부분의 사람들은 그가 작은 이웃인 폴란드와의 화해를 말한 것이라고 생각했습니다. \n\n세계대전이 끝난 후 폴란드와의 관계는 얼어붙었습니다. 그리고 폴란드 민족주의는 지난 20년 동안 황제에게 날카로운 가시와 같았습니다. 미래를 위해 오랜 적대감을 제쳐 둘 때가 온 것은 아닐까요?"
-gerfor.167.a:0 "시간만이 알려줄 것이다."
-
-gerfor.168.t:0 "브렌타노의 연설"
-gerfor.168.d:0 "어제 독일에서 중앙당 정치인 하인리히 폰 브렌타노는 "심지어 우리와 다른 점이 있는 국가들"도 포함하해 더 강력한 유럽 경제 블록을 만들기 위해 "과거의 차이"를 어떻게 없애야 하는가에 대해 열정적으로 연설했습니다. 정확한 국명을 말하지는 않았지만, 대부분의 사람들은 그가 우리나라와 독일 제국 간의 화해를 언급한 것이라고 생각했습니다. \n\n세계대전이 끝난 후 독일과의 관계는 얼어붙었고, 독일이 약속을 깨트리고 폴란드에 정치적으로 간섭하면서 많은 이들은 독일을 구세주보다는 정복자로 보았습니다. 이 연설이 독일이 보다 겸손해졌다는 징후일까요, 아니면 또 다른 얄팍한 음모일까요?"
-gerfor.168.a:0 "시간만이 알려줄 것이다."
-
-gerfor.169.t:0 "독일이 국경 지역을 요구하다"
-gerfor.169.d:0 "우리는 독일 국경 근처 많은 소규모 지역의 통제권을 독일 제국에게 넘기라는 독일의 공식 요청을 받았습니다. 요청서에는 이 지역이 "적절하게 독일어"로 표시되어있으며 즉시 독일 행정부에 반환하지 않으면 심각한 결과가 뒤따를 것이라고 쓰여있습니다. 그러한 이유 없는 제국 주의적 침략 행위는 놀랍습니다. 우리의 주권에 대한 정당화될 수 없는 이 공격에 어떻게 대응해야 할까요?"
-gerfor.169.a:0 "절대 안돼!"
-gerfor.169.b:0 "우리는 갈등을 겪을 여유가 없습니다."
-
-gerfor.170.t:0 "폴란드의 반항"
-gerfor.170.d:0 "이 지역에 대한 우리의 합법적인 주장에도 불구하고, 폴란드 정부는 국경 지역 통제권을 넘겨줄 것을 요구하는 우리의 요구를 따르지 않았으며, 심지어 황제를 모욕했습니다. 이 분노는 가까운 장래에 폴란드 정부에게 끔찍한 결과를 초래할 것입니다."
-gerfor.170.a:0 "제 시간에 우리 것이 될 것입니다."
-
-gerfor.171.t:0 "폴란드가 국경 지역을 할양하다"
-gerfor.171.d:0 "비공식적으로 "국경 지대 (Border Strip)"로 알려진 지역을 관리하겠다는 우리의 공식 요구에 부응하여 폴란드는 요청된 모든 영토를 포기하고 불만없이 양도했습니다. 폴란드 정부는 분명히이 지역이 우리의 것임을 분명히 알았으며, 그 땅을 둘러 싸는 것보다 진실을 인정하는 것이 더 쉽다고 결정했습니다."
-gerfor.171.a:0 "현명한 선택."
-
-gerfor.172.t:0 "국경 지대의 파르티잔"
-gerfor.172.d:0 "폴란드 국경 지대로의 독일 이주를 장려하기 위한 우리의 최근 노력은 현지 폴란드인들의 강한 저항에 직면했습니다. 주요 산업 중심이 파괴되어 많은 독일 시민들이 이 지역을 안전하지 않은 것으로 간주하기 시작했습니다. 우리는 어떻게 대응해야 할까요?"
-gerfor.172.a:0 "지역 주민을 달래기."
-gerfor.172.b:0 "군대를 보내라!"
-
 gerfor.173.t:0 "계속되는 국경의 저항"
 gerfor.173.d:0 "이 지역의 평화와 안정을 유지하려는 우리의 노력에도 불구하고 폴란드 파르티잔은 독일 시민과 정규 군대를 지속적으로 괴롭히고 있습니다. 그들이 지역 생산성에 끼치는 피해는 중요하지 않으며 지속적인 공격에 직면하여 이주를 장려하려는 우리의 노력이 고갈되고 있습니다. 이 새로운 위협에 어떻게 대처해야 할까요?"
 gerfor.173.a:0 "계속해서 주민을 달래라."
@@ -2273,32 +1909,6 @@ gerfor.175.a:0 "굉장하군!"
 gerfor.176.t:0 "폴란드가 우리의 초대를 거절하다"
 gerfor.176.d:0 "외교적으로 폴란드를 방문하기 위한 최선의 노력에도 불구하고 그들은 라이히스팍트에 합류하라는 우리의 공식 제안을 거부했습니다. 모든 징후는 받아들이는 것을 가리키고 있었습니다. 무엇이 잘못된 걸까요?"
 gerfor.176.a:0 "어떻게 이런 일이 일어날 수 있지?"
-
-gerfor.177.t:0 "라이히스팍트로의 재초청?"
-gerfor.177.d:0 "이전 양국 간 우호 관계의 선전과 불가침 조약 체결을 토대로, 독일은 오늘 우리에게 독일의 경제 및 군사 동맹인 라이히스팍트 초대장을 보냈습니다. 우리는 한때 이 동맹의 일원 이었지만, 독일의 영향 하에 머무르는 게 별 도움이 되지 않았기 때문에 떠났습니다. 초대에 어떻게 대응해야 할까요?"
-gerfor.177.a:0 "우리가 실수를 했군"
-gerfor.177.b:0 "우리는 혼자있을 때 더 강하다."
-
-gerfor.178.t:0 "폴란드-리투아니아가 라이히스팍트에 재참여하다"
-gerfor.178.d:0 "폴란드-리투아니아 연방은 라이히스팍트에 대한 재청약에 호의적으로 응했으며 공식적으로 우리의 제안을 받아 들였습니다. 그들은 그들 방식의 오류를 보았고 이제는 그들이 속한 동맹에 다시 합류하게됩니다."
-gerfor.178.a:0 "굉장하군!"
-
-gerfor.179.t:0 "폴란드-리투아니아가 우리의 초대를 거절하다"
-gerfor.179.d:0 "폴란드-리투아니아 연방을 라이히스팍트에 다시 가입시키기위한 최선의 노력에도 불구하고, 그들은 우리의 모든 제안을 거부했습니다. 고집센 바보들이 동맹을 떠나고자 하는 의도가 있는 것 같습니다."
-gerfor.179.a:0 "저 멍청이들!"
-
-gerfor.180.t:0 "독일 외교 사절"
-gerfor.180.d:0 "오늘 외교 사절들이 폴란드 수도에서 며칠 뒤에 베를린에 도착 했으므로 오늘은 독일의 역사적인 날이었습니다. 외교 사절단은 커다란 성공을 거두었고 폴란드 정부와의 관계는 사상 최고를 기록했습니다. 우리가 보낸 외교 사절은 최고 폴란드 관리와 만났고, 호화로운 저녁 식사를했고, 가장 중요한 것은 우리 두 위대한 국가 간의 비 침략 합의서에 서명했습니다. 이 조약은 우리 사이의 새롭고 따뜻한 관계의 시작을 의미합니다. 폴란드와의 공식 동맹에 서명하기 전에 우리의 미래를 함께 고착시키는 것은 시간 문제 일뿐입니다."
-gerfor.180.a:0 "역사적인 날이다."
-
-gerfor.181.t:0 "독일 외교 사절"
-gerfor.181.d:0 "오늘 양국 관계를 개선하고자 독일 외교 사절이 [Root.GetNameDef]에 도착했습니다. 그들은 [Root.GetAdjective]의 고위 공무원을 만났습니다. 화려한 만찬을 가졌고, 그리고 불가침조약에 서명하자는 제안을 했습니다. [GER.GetNameDefCap], 그들이 말하기를, 동쪽에서 평화로운 국경을 확보할 수 있다면 그 대가로 우리의 독립을 보장할 것이라고 합니다. 만약 우리가 수락한다면, 그것은 분명 양국간 협력의 새로운 시대를 의미할 것이고, 어쩌면 미래에는 동맹으로 이어질 수도 있습니다."
-gerfor.181.a:0 "물론 우리는 동의할 것이다!"
-gerfor.181.b:0 "이것은 우리의 이익이 아니다."
-
-gerfor.182.t:0 "[From.GetNameDefCap](이)가 거절하다"
-gerfor.182.d:0 "독일 외교가 [From.GetAdjective]의 수도에서 날을 보내며 [From.GetAdjective]의 공무원들에게 우리의 선한 의도를 확신시키려고 시도했지만, 그들은 [GER.GetNameDef](와)과 [From.GetNameDef] 사이의 관계를 따뜻하게 할 그 어떠한 의도도 거절했습니다."
-gerfor.182.a:0 "불행한 사람이군."
 
 gerfor.187.t:0 "포위당한 제국"
 gerfor.187.d:0 "세계대전 이후, 러시아는 큰 모욕을 당하고 영토를 잃어버렸습니다. 늦게까지 팽창주의 의제에도 불구하고, 독일 내의 대부분의 정책 전문가들은 이반이 결코 우리의 힘에 도전하지 않을 것이라는 데 동의했습니다--이는 오늘 동방에서 들려온 공식적인 선전포고 때문에 끔찍하게 틀린 것으로 판명되었습니다. 러시아군이 국경을 넘어 전면적인 공세를 가하고 있다는 보고가 들어왔습니다. 우리가 코뮌주의자들과의 전쟁 준비가 되었는지 논쟁의 여지가 있습니다..."
@@ -2381,78 +1991,98 @@ gerfla.12.t:0 "베를린으로 귀환"
 gerfla.12.d:0 "베를린은 한번 더 [GEX.GetNameDef]의 부분이 되었습니다. 우리는 이제 정부를 제국의회에 있는 적절한 장소로 되돌려 보낼 수 있습니다."
 gerfla.12.a:0 "완벽하군"
 
-### Reichspakt Events ###
+### Mitteleuropa Mechanics ###
+
+GER_mitteleuropa:0 "Mitteleuropa"
+
+KR_mitteleuropa_tooltip:0 "§H[GetMitteleuropaName]§!\n[GetMitteleuropaEffects]"
+KR_mitteleuropa_tooltip_desc:0 "§L[GetMitteleuropaDesc]§!"
+
+KR_mitteleuropa_name_GER:0 "Leader of Mitteleuropa"
+KR_mitteleuropa_name:0 "Member of Mitteleuropa"
+
+KR_mitteleuropa_desc_GER:0 "Officially titled the Central European Economic Union, Mitteleuropa is a customs and economic union unifying Germany and its sphere of influence, established after the Weltkrieg. As the leading member state of Mitteleuropa and the most dominant power in the union, we reap the lion's share of the benefits."
+KR_mitteleuropa_desc:0 "Officially titled the Central European Economic Union, Mitteleuropa is a customs and economic union unifying Germany and its sphere of influence, established after the Weltkrieg. As a member state of Mitteleuropa, we find the impact of this agreement mixed - while the economic connections with Germany are beneficial, the agreement is heavily weighted in German favor."
+
+KR_mitteleuropa_tooltip_none:0 ""
+KR_mitteleuropa_tooltip_common_currency:0 "Daily Political Power Gain: [?-0.02|2=+]\nFactory Output: [?0.03|+=%]"
+KR_mitteleuropa_tooltip_europarat:0 "Daily Political Power Gain: [?0.03|2=+]\nFactory Output: [?0.03|+=%]"
+KR_mitteleuropa_tooltip_EER:0 "Daily Political Power Gain: [?0.03|2=+]\nResearch Speed: [?0.03|+=%]\nFactory Output: [?0.03|+=%]"
+KR_mitteleuropa_tooltip_europakommission:0 "Daily Political Power Gain: [?-0.03|2=+]\nFactory Output: [?0.05|+=%]"
+KR_mitteleuropa_tooltip_paktbrigaden:0 "Daily Political Power Gain: [?-0.03|2=+]\nArmy Experience Gain Daily: [?0.05|+=2]\nDivision Organisation: [?0.08|+=1%]\nRecruitable Population Factor: [?-0.08|+=%2]\nFactory Output: [?0.05|+=%]"
+
+KR_mitteleuropa_tooltip_europakommission_GER:0 "Daily Political Power Gain: [?0.05|2=+]\nFactory Output: [?0.05|+=%]"
+KR_mitteleuropa_tooltip_paktbrigaden_GER:0 "Daily Political Power Gain: [?0.05|2=+]\nRecruitable Population: [?0.02|%=H]\nFactory Output: [?0.05|+=%]"
+
+GER_add_to_mitteleuropa:0 "§H[THIS.GetNameDefCap]§! joins §HMitteleuropa§!."
+GER_add_to_mitteleuropa_effects:0 "\n\nEffects:"
+GER_remove_from_mitteleuropa:0 "Remove all §HMitteleuropa§! effects."
 
 germit.1.t:0 "독일의 제안"
-germit.1.d:0 "검은 월요일의 결과에 비추어 독일 정부는 다소 이상한 제안을 내놓았습니다. 라이히스팍트의 상업과 무역을 의미있게 증가시키고 단순화하기 위해 독일 통화인 마르크가 모든 라이히스팍트에서 통용되는 통화가 되어야하며 공식적으로 '라이히스마르크화'로 이름이 변경되어야한다고 제안했습니다. \n\n독일의 많은 '봉신 동맹국'에서 통화는 이미 마르크에 묶여 있기 때문에 실제 영향은 비교적 미미할 것입니다. 이 제안에 어떻게 대응해야 할까요?"
-germit.1.a:0 "우리도 참가한다!"
-germit.1.b:0 "'봉신 동맹국'이라고, 엉?"
-germit.1.c:0 "오 맙소사, 당연히 아니다!"
+germit.1.d.independent:0 "In light of the consequences of Black Monday, the German government has come up with a new proposal to rejuvenate the continental economy. In order to meaningfully increase and simplify commerce and trade across the Reichspakt, they propose that the German currency, the Mark, should become the accepted currency in all Mitteleuropa, renamed formally to the 'Europamark'. This proposal is modelled somewhat after the Zollverein agreements between German states in the 19th century, which, among other things, established a standardized system of currency exchange pegged to the Prussian mark - although its reach and ambition is far greater.\n\nIn many of Germany's 'subject partner' states, the currencies are tied to the Mark already, so the actual impact would be relatively minimal. How should we respond to this proposal?"
+germit.1.d.subject:0 "In light of the consequences of Black Monday, the German government has come up with a new proposal to rejuvenate the continental economy. In order to meaningfully increase and simplify commerce and trade across the Reichspakt, they propose that the German currency, the Mark, should become the accepted currency in all Mitteleuropa, renamed formally to the 'Europamark'. This proposal is modelled somewhat after the Zollverein agreements between German states in the 19th century, which, among other things, established a standardized system of currency exchange pegged to the Prussian mark - although its reach and ambition is far greater.\n\nAs a subject nation, we are forced to accept these terms without any say."
+germit.1.a:0 "우리도 같이 하지!"
+germit.1.b:0 "오 이런, 당연히 안해!"
 
-germit.2.t:0 "[From.GetName]의 오이로파마르크화 사용 동의"
-germit.2.d:0 "[From.GetName](은)는 라이히스팍트에 대한 단일 통화 제안에 동의했으며, 이제부터는 오이로파마르크화를 사용할 것입니다."
+germit.2.t:0 "[From.GetNameDefCap]의 오이로파마르크화 사용 동의"
+germit.2.d:0 "[From.GetNameDefCap](은)는 라이히스팍트에 대한 단일 통화 제안에 동의했으며, 이제부터는 오이로파마르크화를 사용할 것입니다."
 germit.2.a:0 "좋았어!"
 
-germit.3.t:0 "[From.GetName]의 오이로파마르크화 사용 거부"
-germit.3.d:0 "[From.GetName] 모든 라이히스팍트에 대해 단일 통화에 대한 우리의 제안을 거부했으며 마르크와 연결되어 있음에도 불구하고 계속해서 자신의 통화를 사용할 것이라고 공개적으로 언급했습니다."
-germit.3.a:0 "제기랄!"
+germit.3.t:0 "[From.GetNameDefCap]의 오이로파마르크화 사용 거부"
+germit.3.d:0 "[From.GetNameDefCap] 모든 라이히스팍트에 대해 단일 통화에 대한 우리의 제안을 거부했으며 마르크와 연결되어 있음에도 불구하고 계속해서 자신의 통화를 사용할 것이라고 공개적으로 언급했습니다."
+germit.3.a:0 "Scheiße(제기랄)!"
 
-germit.4.t:0 "오이로파마르크 폐지"
-germit.4.d:0 "최근의 발전에 비추어, 마르크는 더 이상 우리의 공식 통화가 아닙니다. 필연적으로 경제적인 격변을 야기할지라도 궁극적으로 최선의 결과가 될 것입니다. 결국, 우리는 우리 자신의 통화를 다시 가지게 되었습니다!"
-germit.4.a:0 "그러길 바라지..."
+germit.4.t:0 "Leaving Mitteleuropa"
+germit.4.d.GER_is_dead:0 "As a result of our membership of Mitteleuropa, we became incredibly integrated into the bloc, taking on a number of obligations while also receiving some benefits such as in trade and mutual defence. These agreements no longer stand. Berlin has fallen, and so the Mitteleuropa union no longer constrains us by any measure."
+germit.4.d.socialist:0 "As a result of our membership of Mitteleuropa, we became incredibly integrated into the bloc, taking on a number of obligations while also receiving some benefits such as in trade and mutual defence. These agreements no longer stand. Our people have risen and established a socialist regime, leaving them null and void."
+germit.4.d.war_with_GER:0 "As a result of our membership of Mitteleuropa, we became incredibly integrated into the bloc, taking on a number of obligations while also receiving some benefits such as in trade and mutual defence. These agreements no longer stand. As we find ourselves at war with Germany, they have been severed with prejudice."
+germit.4.d.allied_with_rival:0 "As a result of our membership of Mitteleuropa, we became incredibly integrated into the bloc, taking on a number of obligations while also receiving some benefits such as in trade and mutual defence. These agreements no longer stand. Because of a change in our geopolitical alignment, our ties with Germany have been severed."
+germit.4.d.left_mitteleuropa:0 "As a result of our membership of Mitteleuropa, we became incredibly integrated into the bloc, taking on a number of obligations while also receiving some benefits such as in trade and mutual defence. These agreements no longer stand. The last of them have been annulled by diplomatic agreement with the German Empire today, and we are once again a free nation."
+germit.4.d.kicked_out:0 "As a result of our membership of Mitteleuropa, we became incredibly integrated into the bloc, taking on a number of obligations while also receiving some benefits such as in trade and mutual defence. These agreements no longer stand. Having angered the government in Berlin, we have had them severed by the Kaiser's accord."
+germit.4.a:0 "Why did we even sign up to half of these?"
 
-germit.5.t:0 "오이로파마르크화로 환전"
-germit.5.d:0 "라이히스팍트의 신입 회원국으로서 우리 경제를 무역 블록의 경제와 맞춰야 할 의무가 있습니다. 이는 단일 통화에 가입하는 것을 의미합니다. 우리나라는 마르크로 환전함으로써 라이히스팍트의 많은 행정적 이익을 활용할 수는 있겠지만 국가 주권의 상실은 숨기기가 다소 어려울 것입니다."
-germit.5.a:0 "내가 생각하기엔 거래의 일부일 뿐이다."
-germit.5.b:0 "우리에게는 선택의 여지가 없다."
-germit.5.c:0 "왜 우리가 우리 통화를 포기한 거지?"
+germit.5.t:0 "[FROM.GetNameDefCap] Leaves Mitteleuropa!"
+germit.5.d.socialist:0 "[FROM.GetNameDefCap] has severed the last of its ties with Mitteleuropa today - the left wing revolution in their country has pushed them to break with us and our sphere of influence. Any designs we might have had towards their country have to be abandoned for the time being."
+germit.5.d.allied_with_rival:0 "[FROM.GetNameDefCap] has severed the last of its ties with Mitteleuropa today - their government has chosen to leave our sphere of influence and turn towards one of our rivals. Any designs we might have had towards their country have to be abandoned for the time being."
+germit.5.d.left_mitteleuropa:0 "[FROM.GetNameDefCap] has severed the last of its ties with Mitteleuropa today - their government has chosen to leave our sphere of influence, citing the exploitative nature of the customs union. Any designs we might have had towards their country have to be abandoned for the time being."
+germit.5.a:0 "Traitors!"
 
-germit.6.t:0 "유럽의회 회원국"
-germit.6.d:0 "라이히스팍트 회원이 정한 단일 오이로파마르크화 통화의 일원으로서, 우리는 유럽의회에 가입함으로써 블록의 대다수와 맞춰야 할 의무가 있습니다. 이 기구, '유럽의회'는 무역을 규제하기 위해 존재하며 향후 통합의 핵심적인 부분입니다."
-germit.6.a:0 "건전한 제안."
+germit.6.t:0 "Join the Mitteleuropa?"
+germit.6.d.independent:0 "Now that we have chosen to align with the German Empire, an opportunity has risen to join their economic pact, the Central European Economic Union, shortened to Mitteleuropa. Though this pact is dominated by Germany and its interests and forces several obligations on its member states, it also provides several benefits - easier trade with Germany and mutual defence in particular.\n\nShould we offer to join the Mitteleuropa sphere and accept these obligations?"
+germit.6.d.subject:0 "Now that we have chosen to align with the German Empire, an opportunity has risen to join their economic pact, the Central European Economic Union, shortened to Mitteleuropa. Though this pact is dominated by Germany and its interests and forces several obligations on its member states, it also provides several benefits - easier trade with Germany and mutual defence in particular.\n\nOur overlord has chosen to accept these obligations, and we are required to follow."
+germit.6.a:0 "Just part of the deal I suppose."
+germit.6.b:0 "Why would we give up our sovereignty?"
 
-germit.7.t:0 "유럽위원회 회원국"
-germit.7.d:0 "라이히스팍트 국가는 이제 블록의 적절한 부분으로서 오이로파마르크화의 형태로 공동 통화를 사용하지만, 국가는 유럽위원회의 관할 아래에 들어가야 합니다. 이 기구는 분명히 독일 제국에 유리하게 편향되어 있지만, 대륙 전역의 산업 규칙을 규제합니다."
-germit.7.a:0 "우리는 가입해야 합니다."
+germit.7.t:0 "[From.GetNameDefCap] Joins Mitteleuropa"
+germit.7.d:0 "A delegation has arrived from [From.GetNameDef], offering to join the Mitteleuropa union as its newest member state. We have, naturally, agreed - this new trade partner will make a fine addition to our collection."
+germit.7.a:0 "Wonderful!"
 
-germit.8.t:0 "유럽여단 제안"
-germit.8.d:0 "베를린의 싱크 탱크에서 라이히스팍트에 대한 새로운 제안이 나왔습니다. 독일은 이제 유럽여단의 창설을 요구하고 있습니다. 이는 라이히스팍트의 이름으로 하는 신병 모집을 공식화하고, 군사적 비상상태 때 그들을 라이히의 보호 아래에 둘 것입니다. 이러한 조치는 독일에 큰 힘이 될 것입니다."
-germit.8.a:0 "필요하다면."
-germit.8.b:0 "선택의 여지가 있니?"
-germit.8.c:0 "단순한 광기일 뿐이다."
+germit.8.t:0 "[From.GetNameDefCap] Will Not Join Mitteleuropa"
+germit.8.d:0 "A delegation has arrived from [From.GetNameDef], informing us that they will bow out of the opportunity to join the Mitteleuropa economic union, and will maintain their economic sovereignty despite their good relations with us."
+germit.8.a:0 "Scheiße!"
 
-germit.9.t:0 "[From.GetName]의 유럽여단 프로그램 수락"
-germit.9.d:0 "우리의 새로운 유럽여단 계획은 라이히스팍트 '동맹국'이 국제사단의 일원으로 귀중한 군인들을 포기하고 우리 군에 배치하도록 하는 독창적인 아이디어입니다. [From.GetName](은)는 현명하게 우리의 압력을 받아들이기로 결정하고 계획에 서명했습니다. 신병 모집은 훨씬 쉽게 이루어져야합니다."
-germit.9.a:0 "훌륭해!"
+germit.9.t:0 "Europarat Membership"
+germit.9.d:0 "As a member of the single Europamark currency as dictated by our Mitteleuropa membership, it is incumbent on us now to align ourselves with the majority of the bloc by joining Europarat. This organisation, the 'Council of Europe' exists to regulate trade and is a key part of further integration."
+germit.9.a:0 "A sound proposal."
 
-germit.10.t:0 "[From.GetName]의 유럽여단 프로그램 거부"
-germit.10.d:0 "우리의 새로운 유럽여단 계획은 라이히스팍트 '동맹국'이 국제사단의 일원으로 귀중한 군인들을 포기하고 우리 군에 배치하도록 하는 독창적인 아이디어입니다. [From.GetName](은)는 안타깝게도 우리의 압박에 굴하지 않고 새로운 계획에 참여하지 않기로 결정하여 라이히스팍트 통합 노력에 해를 주었습니다."
-germit.10.a:0 "자극하는군."
+germit.10.t:0 "European Exchange Programme Membership"
+germit.10.d:0 "The Mitteleuropa economic union has established an all-European exchange program for all members of the pact - this program will provide free scholarships for students from other Mitteleuropa member states to study in German universities. This program is a key part of further integration and seeks to pool the brightest minds of Europe in German hands."
+germit.10.a:0 "We have to sign up."
 
-germit.11.t:0 "유럽여단"
-germit.11.d:0 "라이히스팍트의 신입 회원으로서 우리는 유럽여단에 가입해야 합니다. 이것은 우리가 군대 인구 중 일정 비율을 국제사단을 위해 독일의 통치 하에 배치해야 한다는 것을 의미합니다."
-germit.11.a:0 "내가 생각하기에 우리 회비의 일부같다."
-germit.11.b:0 "좋아, 그럼..."
-germit.11.c:0 "누가 이걸 요리했지?"
+germit.11.t:0 "Europakommission Membership"
+germit.11.d:0 "Though Mitteleuropa nations share a common currency in the form of the Europamark, to be a proper part of the bloc now, a nation must put itself under the jurisdiction of the Europakommission. This body regulates industrial production and quality across the continent, though clearly is biased in favour of the German Empire."
+germit.11.a:0 "We have to sign up."
 
-germit.12.t:0 "미텔오이로파 탈퇴"
-germit.12.d:0 "미텔오이로파의 회원 자격으로 우리는 무역 및 상호 방위와 같은 몇 가지 혜택을 받는 동시에 많은 의무를 지고 이 블록에 대단히 통합되었습니다. 불행히도 이제는 이 덩굴손을 우리 국가에서 풀어 내려고 노력할 시간이 왔습니다."
-germit.12.a:0 "어떻게 우리 중 절반이나 여기에 서명을 했었지?"
+germit.12.t:0 "Paktbrigaden Proposal"
+germit.12.d.independent:0 "There has been a new proposal concerning Mitteleuropa emanating from the Berlin think tanks. Germany is now calling for the creation of Paktbrigaden, international divisions organized from conscripts in all Mitteleuropa member states. These conscripted units will be placed under the aegis of the Imperial German Army for the duration of the military emergency. Such a measure would greatly empower Germany."
+germit.12.d.subject:0 "There has been a new proposal concerning Mitteleuropa emanating from the Berlin think tanks. Germany is now calling for the creation of Paktbrigaden, international divisions organized from conscripts in all Mitteleuropa member states. These conscripted units will be placed under the aegis of the Imperial German Army for the duration of the military emergency. As a subject nation, we are forced to agree with their proposal."
+germit.12.a:0 "Well if it's essential."
+germit.12.b:0 "This is pure madness."
 
-germit.13.t:0 "미텔오이로파 탈퇴"
-germit.13.d:0 "미텔오이로파의 회원 자격으로 우리는 무역 및 상호 방위와 같은 몇 가지 혜택을 받는 동시에 많은 의무를 지고 이 블록에 대단히 통합되었습니다. 우리가 독일과 전쟁 중이므로 당연하게도 이제 연을 끊을 때입니다."
-germit.13.a:0 "어떻게 우리 중 절반이나 여기에 서명을 했었지?"
+germit.13.t:0 "[From.GetNameDefCap] Accepted the Paktbrigaden Programme"
+germit.13.d:0 "Our new Paktbrigaden programme is an ingenious idea to encourage our Mitteleuropa 'partners' to give up valuable military-aged men as part of international divisions and then place them directly into our own army, starved as we are to some extent of soldiers. [From.GetNameDefCap] wisely decided to accept our pressure and signed up to the programme. Recruitment should be made far easier."
+germit.13.a:0 "Brilliant!"
 
-### Events ###
-ostraum.2000.t:0 "백루테니아가 더 많은 자치권에 대해 논의하다"
-ostraum.2000.d:0 "루테니아의 왕 발데마르 폰 호엔촐레른 1세 정부의 성명서에 따르면 경제적인 분야에서 더 많은 자치권을 요구해왔습니다. 그들은 아직도 회복 중에 있는 독일 경제의 경제 성장에 대한 부담을 덜어 줄 수 있고, 자신들의 모호한 정부를 보다 정당한 정부로 보이게 할 것이라는 두가지 사유로 자신들의 주장을 정당화하였습니다."
-ostraum.2000.a:0 "심각한 시기에는 희생을 감수해야 한다."
-ostraum.2000.b:0 "그런 일은 절대로 일어나서는 안된다."
-
-ostraum.2001.t:0 "독일이 우리에게 제한적인 자치를 허용하다"
-ostraum.2001.d:0 "독일 정부가 우리에게 모든 경제분야에 대한 자기결정권을 허용했습니다."
-ostraum.2001.a:0 "더 나은 백루테니아를 향하여."
-
-ostraum.2002.t:0 "독일이 우리의 요청을 거부하다"
-ostraum.2002.d:0 "독일 정부는 우리 경제를 손에서 놓는 것을 거부했습니다. 오히려 독일이 경제 간섭을 늘리려고 할 것입니다."
-ostraum.2002.a:0 "우리는 때가 되면 독립을 할 것이다"
+germit.14.t:0 "[From.GetNameDefCap] Rejected the Paktbrigaden Programme"
+germit.14.d:0 "Our new Paktbrigaden programme is an ingenious idea to encourage our Mitteleuropa 'partners' to give up valuable military-aged men as part of international divisions and then place them directly into our own army, starved as we are to some extent of soldiers. [From.GetNameDefCap] unfortunately refused to bow to our pressure and decided not to become a part of the new programme, damaging our efforts to integrate Mitteleuropa."
+germit.14.a:0 "Irritating."

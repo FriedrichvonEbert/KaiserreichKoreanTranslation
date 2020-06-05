@@ -258,6 +258,7 @@ CAN_ICE_Deal_1:0 "아이슬란드 어류 무역"
 CAN_ICE_Deal_2:0 "아이슬란드 어류 무역"
 ENG_ICE_Deal:0 "아이슬란드 어류 무역"
 DEN_danish_bailout:0 "아이슬란드 긴급투자"
+ICE_For_Trade:0 "대외 무역"
 
 ### Parties ###
 ICE_totalist_party:0 "인민동맹"

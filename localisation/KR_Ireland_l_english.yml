@@ -2,6 +2,38 @@
 
 ireland_focus:0 "아일랜드 중점계통도"
 
+### Cosmetic Tags ###
+IRE_gbr_totalist:0 "아일랜드 사회주의 공화국"
+IRE_gbr_totalist_ADJ:0 "아일랜드"
+IRE_gbr_totalist_DEF:0 "아일랜드 사회주의 공화국"
+IRE_gbr_syndicalist:0 "아일랜드 사회주의 공화국"
+IRE_gbr_syndicalist_ADJ:0 "아일랜드"
+IRE_gbr_syndicalist_DEF:0 "아일랜드 사회주의 공화국"
+IRE_gbr_radical_socialist:0 "아일랜드 사회주의 공화국"
+IRE_gbr_radical_socialist_ADJ:0 "아일랜드"
+IRE_gbr_radical_socialist_DEF:0 "아일랜드 사회주의 공화국"
+IRE_gbr_social_democrat:0 "아일랜드 자유국"
+IRE_gbr_social_democrat_ADJ:0 "아일랜드"
+IRE_gbr_social_democrat_DEF:0 "아일랜드 자유국"
+IRE_gbr_social_liberal:0 "아일랜드 자유국"
+IRE_gbr_social_liberal_ADJ:0 "아일랜드"
+IRE_gbr_social_liberal_DEF:0 "아일랜드 자유국"
+IRE_gbr_market_liberal:0 "아일랜드 자유국"
+IRE_gbr_market_liberal_ADJ:0 "아일랜드"
+IRE_gbr_market_liberal_DEF:0 "아일랜드 자유국"
+IRE_gbr_social_conservative:0 "아일랜드 자유국"
+IRE_gbr_social_conservative_ADJ:0 "아일랜드"
+IRE_gbr_social_conservative_DEF:0 "아일랜드 자유국"
+IRE_gbr_authoritarian_democrat:0 "아일랜드 자유국"
+IRE_gbr_authoritarian_democrat_ADJ:0 "아일랜드"
+IRE_gbr_authoritarian_democrat_DEF:0 "아일랜드 자유국"
+IRE_gbr_paternal_autocrat:0 "아일랜드 자유국"
+IRE_gbr_paternal_autocrat_ADJ:0 "아일랜드"
+IRE_gbr_paternal_autocrat_DEF:0 "아일랜드 자유국"
+IRE_gbr_national_populist:0 "아일랜드 자유국"
+IRE_gbr_national_populist_ADJ:0 "아일랜드"
+IRE_gbr_national_populist_DEF:0 "아일랜드 자유국"
+
 ### Parties ###
 IRE_social_democrat_party:0 "신 페인"
 IRE_social_democrat_party_long:0 "신 페인"
@@ -43,7 +75,9 @@ kamikaze_focus_tooltip:0 "항공자살공격이 허용될 것입니다"
 ### Decisions ###
 IRE_american_civil_war:0 "미국 내전에 대한 반응"
 IRE_american_civil_war_desc:0 "세계대전 말기에 일어난 미국의 대공황으로 말미암아, 정치적 위기 끝에 두번째 내전이 발발했습니다. 미국 내전으로 인해 우리도 영향을 받을수 있고, 우리는 그것을 대비해야 합니다."
-IRE_send_ira_syndie:0 "IRA 자원병 파견"
+IRE_SENDIRA:0 "IRA 자원병 파견"
+IRE_SENDIRA_desc:0 "[IRE_SENDIRA_desc_loc]"
+IRE_send_ira_desc:0 "America has collapsed into chaos with Syndicalists and fanatics attempting to take over. Although our relations may not be the best, maybe we should still support the USA as a bulwark of stability against radicalism."
 IRE_send_ira_syndie_desc:0 "미국이 내전에 휘말렸습니다. 우리는 바다 건너편에서 자유를 위해 투쟁하는 동지들을 도와야 합니다. 수많은 IRA의 지원자들이 그들을 지원할것입니다. "
 IRE_SANCTUARY:0 "Dídean"
 IRE_SANCTUARY_desc:0 "미국에서 다시금 내전이 발발한 후, 많은 아일랜드계 미국인들은 미국에서 벌어지고 있는 혼란을 피하기 위해 그들의 옛 고향으로 돌아가기로 결정했습니다. 우리는 그들을 도와야 합니다!"
@@ -771,8 +805,6 @@ IRE_COALITION_desc:0 "이제 아일랜드와 미국은 경제적으로뿐 아니
 
 IRE_CIVINTER:0 "미국 내전에 대응"
 IRE_CIVINTER_desc:0 "세계대전 끝 무렵 미국의 경제 붕괴로 인한 정치적 긴장이 마침내 정점에 이르렀고, 내전이 발발했습니다. 미국과 우리의 관계 때문에, 아일랜드는 영향을 받을 수 있으며, 어떠한 잠재적 결과에 대해서도 대비해야 합니다."
-IRE_SENDIRA:0 "IRA 파견"
-IRE_SENDIRA_desc:0 "생디칼리스트들과 광신도들이 미국을 장악하려 하고 있습니다. 양국의 관계가 최고는 아니지만, 우리는 미국을 급진주의에 대항하는 방벽으로 지원해야 합니다."
 ire.sanctuary.tt:0 "\n아일랜드가 아일랜드계 미국인 피난민들을 받아들였습니다."
 
 #Socialist
@@ -1666,7 +1698,7 @@ ire.241.t:0 "Aodh II의 붕어"
 ire.241.d:0 "우리 국왕 Aodh II가 오늘 서거했습니다. 그의 아들 Jorge Maria O'Neill이 Seorise I로 왕위를 이을 것입니다."
 ire.241.a:0 "언 아르드리 터 머르, 고 마러 언 아르드리(An ard rí ta marbh, go maire an ard rí)!"
 
-#Cosmetic Tags
+###Cosmetic Tags###
 GBR_irish_home_rule_totalist:0 "아일랜드 사회주의 공화국"
 GBR_irish_home_rule_totalist_ADJ:0 "아일랜드"
 GBR_irish_home_rule_totalist_DEF:0 "아일랜드 사회주의 공화국"

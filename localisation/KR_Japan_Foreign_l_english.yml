@@ -280,6 +280,18 @@ JAP_withdraw_from_sphere_desc:0 "우리에게 주어지는 혜택에도 불구�
 JAP_nationalize_japanese_investments:0 "일본 투자 자본 국유화"
 JAP_nationalize_japanese_investments_desc:0 "[Root.GetNameDef]의 대한 일본 투자자가 많아지면서 많은 우려가 제기되고 있습니다. 터무니 없는 비용이 필요하고 또한 일본 경제공영권에서 완전히 탈퇴해야 할 필요가 있지만, 우리는 그들의 투자를 국유화하고 [Root.GetAdjective] 경제가 저들에게 꼭두각시 수준으로 종속되는 것을 막아야만 합니다."
 
+KR_co_prosperity_sphere_tooltip:0 "§H[GetCoProsperitySphereName]§!\n[GetCoProsperitySphereEffects]"
+KR_co_prosperity_sphere_tooltip_desc:0 "§L[GetCoProsperitySphereDesc]§"
+
+KR_co_prosperity_sphere_name_JAP:0 "Leader of the East Asian Co-Prosperity Sphere"
+KR_co_prosperity_sphere_name:0 "Member of the East Asian Co-Prosperity Sphere"
+
+KR_co_prosperity_sphere_desc_JAP:0 ""
+KR_co_prosperity_sphere_desc:0 ""
+
+KR_co_prosperity_sphere_effects_JAP:0 "Consumer Goods Factories: [?global.sphere_goods_boost|=%H]\nFactory Output: [?global.sphere_industry_boost|+=%]\nDockyard Output: [?global.sphere_industry_boost|+=%]"
+KR_co_prosperity_sphere_effects:0 "Construction Speed: [?0.2|+=%]\nResource Gain Efficiency: [?global.sphere_resources_boost_member|+=%]\nConsumer Goods Factories: [?global.sphere_goods_boost_member|=%0H]"
+
 ### War Decisions ###
 JAP_threaten_philippines:0 "필리핀 위협"
 JAP_threaten_philippines_desc:0 "미국인들이 사라진 지금, 공영권이 필리핀 군도를 확보하고 해당 지역의 안정을 유지해야 합니다. 필리핀인들의 생각이야 다를 수도 있겠지만."
