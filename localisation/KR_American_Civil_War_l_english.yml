@@ -476,8 +476,9 @@ amcivwar.51.c:0 "조지 스미스 패튼 주니어"
 
 amcivwar.52.t:0 "해군 참모총장"
 amcivwar.52.d:0 "내전이 가까워지고 있지만 여전히 공석인 해군의 수장 자리는 다양한 정치, 군사 지도자들 사이에서 우려를 불러일으켰습니다. 그래서 이들은 휴이 롱 각하를 접견하여 전쟁의 승리를 위해 해군 수장을 임명할 것을 요청했습니다."
-amcivwar.52.a:0 "아서 리 윌라드"
-amcivwar.52.c:0 "윌리엄 프레드릭 홀시 주니어"
+amcivwar.52.a:0 "사무엘 머레이 로빈슨"
+amcivwar.52.c:0 "제임슨 오토 리처드슨"
+amcivwar.52.d:0 "데이빗 워스 배글리"
 
 amcivwar.53.t:0 "공군 참모총장"
 amcivwar.53.d:0 "내전이 가까워지고 있지만 여전히 공석인 공군의 수장 자리는 다양한 정치, 군사 지도자들 사이에서 우려를 불러일으켰습니다. 그래서 이들은 휴이 롱 각하를 접견하여 전쟁의 승리를 위해 공군 수장을 임명할 것을 요청했습니다."
@@ -552,10 +553,13 @@ amcivwar.72.b:0 "케네스 조지 알트하우스"
 amcivwar.72.c:0 "새뮤얼 D. 스터지스 주니어"
 
 amcivwar.73.t:0 "해군 참모총장"
-amcivwar.73.d:0 "내전이 가까워지고 있지만 여전히 공석인 해군의 수장 자리는 다양한 정치, 군사 지도자들 사이에서 우려를 불러일으켰습니다. 그래서 이들은 [USA.GETLeader]을(를) 접견하여 전쟁의 승리를 위해 해군 수장을 임명할 것을 요청했습니다."
-amcivwar.73.a:0 "윌리엄 해리슨 스탠들리"
+amcivwar.73.d:0 "내전이 가까워지고 있지만 여전히 공석인 해군의 수장 자리는 다양한 정치, 군사 지도자들 사이에서 우려를 불러일으켰습니다. 그래서 이들은 [USA.getLeader]을(를) 접견하여 전쟁의 승리를 위해 해군 수장을 임명할 것을 요청했습니다."
+amcivwar.73.a:0 "윌리엄 다니엘 레이히"
 amcivwar.73.b:0 "어니스트 조셉 킹"
-amcivwar.73.c:0 "찰스 에디슨"
+amcivwar.73.c:0 "사무엘 머레이 로빈슨"
+amcivwar.73.e:0 "윌리엄 홀시 주니어"
+amcivwar.73.f:0 "토마스 찰스 하트"
+amcivwar.73.g:0 "토마스 카신 킨케이드"
 
 amcivwar.74.t:0 "공군 참모총장"
 amcivwar.74.d:0 "내전이 가까워지고 있지만 여전히 공석인 공군의 수장 자리는 다양한 정치, 군사 지도자들 사이에서 우려를 불러일으켰습니다. 그래서 이들은 [USA.GETLeader]을(를) 접견하여 전쟁의 승리를 위해 공군 수장을 임명할 것을 요청했습니다."
@@ -654,7 +658,7 @@ amcivwar.125.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (미�
 
 amcivwar.127.t:0 "벼랑 끝의 미국"
 amcivwar.127.d.long:0 "[USA.GetLeader] 대통령은 오늘 다수의 주지사들이 최근 있었던 휴이 롱 암살과 연방정부 간의 직접적인 연관성을 언급하면서 연방정부를 불법 정부라 선언하고 생디칼리슴 지도자 잭 리드에게 지지를 보냄에 따라 큰 타격을 입었습니다. 그들은 연방 탈퇴를 중단했지만, [USA.GetLeader](이)가 물러나고 국가의 질서를 회복하기 위해 자신들이 선택한 지도자가 '재조정위원회'를 열기 전까지는 연방정부가 주 경계 내에서는 아무런 권한을 행사 할 수 없다고 선언하였습니다. 이에 대해 [USA.GetLeader] 대통령은 30일 동안 주지사들에게 사임 혹은 집단 체포 중 하나를 선택하라고 지시하였습니다. 이 명령은 그 어떤 주지사도 따를 생각이 없어보이는데, 미국에 1세기 만에 다시 한번 두번째 내전에 돌입할 것이 거의 확실해보입니다."
-amcivwar.127.d.austerity:0 "[USA.GetLeader] 대통령은 최근 미국 경제를 구제하기 위한 대규모 긴축 법안을 통과시킴으로써 승리를 자축했는데, 이 법안은 급진적인 미국 제일당에 속한 휴이 롱과 그의 지지자들로부터 타협을 이끌어낸 법안으로 생디칼리스트와 그들의 지도자 잭 리드에게는 정반대의 영향을 미쳤습니다. 오늘 많은 북부 주지사들이 연방정부가 불법이며 미국 노동자를 저버렸다고 선언하고 생디칼리슴 지도자 잭 리드에게 지지를 보냄에 따라 오늘 큰 타격을 입었습니다. 그들은 연방 탈퇴를 중단했지만, [USA.GetLeader](이)가 물러나고 국가의 질서를 회복하기 위해 자신들이 선택한 지도자가 '재조정위원회'를 열기 전까지는 연방정부가 주 경계 내에서는 아무런 권한을 행사 할 수 없다고 선언하였습니다. 이에 대해 [USA.GetLeader] 대통령은 30일 동안 주지사들에게 사임 혹은 집단 체포 중 하나를 선택하라고 지시하였습니다. 이 명령은 그 어떤 주지사도 따를 생각이 없어보이는데, 미국에 1세기 만에 다시 한번 두번째 내전에 돌입할 것이 거의 확실해보입니다."
+amcivwar.127.d.austerity:0 "While President [USA.GetLeader] celebrated a recent victory by passing a massive austerity bill to rescue the American economy, with support from from Huey Long and the America First Party, the bill had the opposite effect on the Socialist Party of America. Today several governors have declared the government illegitimate and thrown their support behind Jack Reed. They have declared that the Federal government holds no authority within their borders until [USA.GetLeader] steps down and a 'reconciliation council' under Reed is put into place to restore order in the nation. In response, President [USA.GetLeader] has given the governors thirty days to stand down or be collectively arrested - an order none of them appear interested in obeying, making it all but certain that the United States will descend into civil war for the second time in less than a century."
 amcivwar.127.a:0 "알겠다."
 
 amcivwar.128.t:0 "제2차 미국 내전"
