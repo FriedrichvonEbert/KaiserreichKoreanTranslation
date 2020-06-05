@@ -1,6 +1,6 @@
 # 단어사전을 보시고 수정 부탁드립니다.
-# 20.05.25 기준 0.12.1 호환작업 완료
-# [0.12.1 패치노트](https://www.reddit.com/r/Kaiserreich/comments/gprool/hotfix_0121_is_out/)
+# 20.06.05. 기준 0.12.2 호환작업 진행중입니다.
+# [0.12.1 패치노트](https://www.reddit.com/r/Kaiserreich/comments/gwst0a/hotfix_0122_is_out/)
 # [Kaiserreich 한국어 번역](https://steamcommunity.com/sharedfiles/filedetails/?id=2098453801)은 공개 번역으로써 누구든지 참여하실 수 있습니다.
 # 이미 [Pull requests](https://github.com/FriedrichvonEbert/KaiserreichKoreanTranslation/pulls)를 하셨다면 아무리 여러개를 하셔도 가장 최근에 수락된 것만 적용됩니다. 부디 이미 request하신건 하지 말아 주시기 바랍니다. (수락 이전까지 다른 국가를 해주세요.)
 
@@ -22,6 +22,8 @@
 
 - 이를 관리자가 수락하면 번역이 반영될 것입니다.
 
+# 번역시 참고사항
+
 - 대괄호(`[]`)나 달러 기호(`$$`) 사이의 내용은 번역하지 않습니다.
 
 - 파운드 기호(`£`) 다음에 오는 내용은 게임에서 아이콘으로 구현되는 부분으로 번역하지 않습니다.
@@ -32,7 +34,9 @@
   §YKaiserreich§! and §YFuhrerreich§!
   §Y카이저라이히§!(와)과 §Y퓌러라이히§!
 ```
-- 개행 기호(`\n`)는 줄바꿈 기호로 번역하지 않습니다.
+- 개행 기호(`\n`)는 줄바꿈 기호로써 번역하지 않습니다.
+
+- 번역하는 문장 내부에 사용된 큰따옴표(`""`)는 삭제 혹은 작은따옴표(`''`)같은 다른 기호로 변경시 큰 문제가 발생하므로 수정하지 않습니다.
 
 - 한번도 번역되지 않은 지명, 인명들은 적당히 발음나는 대로 적어주세요. (필요시 [한글라이즈](https://hangulize.org)나 Issue탭을 활용해 주세요)
    
