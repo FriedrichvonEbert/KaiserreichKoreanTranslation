@@ -30,8 +30,6 @@ POLITICS_FUAD_I_DESC:0 "푸아드는 세계대전의 혼란과 유럽에서 대�
 ### Tooltips ###
 royal_guard:0 "§G우리의 고귀한 술탄을 지키기 위한 새 왕실 근위 연대들을 창설할 것입니다.§!\n"
 EGY_farouk_becomes_sultan:0 "파루크 왕자가 이집트의 술탄으로 즉위할 것입니다."
-EGY_desert_tt:0 "§G사막 전투 훈련§! 은 우리의 사막지대 전투력을 향상시킬 것입니다.\n"
-EGY_camel_corps_tt:0 "§G왕립 낙타군단§! 은 우리의 사막지대 기병 전투력을 향상시킬 것입니다.\n"
 ENG_egypt_owns_sudan_tt:0 "이집트가 수단을 통제합니다."
 EGY_send_out_the_invitations:0 "카이로 회담 초청장을 발송합니다."
 EGY_cairo_conference_economic_reaction:0 "다른 대표단들이 경제 원조 계획에 대해 토론할 것입니다."
@@ -157,10 +155,6 @@ EGY_improve_literacy_arabic_desc:0 "Egypt has crippling literacy and we must foc
 EGY_improve_literacy_coptic:0 "문해능력 향상"
 EGY_improve_literacy_coptic_desc:0 "Egypt has crippling literacy and we must focus on improving the literacy with the country."
 
-### Custom Technology ###
-desert_warfare:0 "사막 전투 훈련"
-EGY_desert_warfare_effect:0 "활성화 §H사막 전투 훈련§!\n§H모든 보병\n    사막§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      속도: §G+5%§!\n\n"
-EGY_camel_corpse_effect:0 "활성화 §H왕립 낙타 군단§!\n§H기병\n    사막§!\n      공격: §G+15%§!\n      방어: §G+5%§!\n      속도: §G+3%§!\n\n"
 
 ### Focus Tree - Economy ###
 EGY_modernization_program:0 "현대화 계획"

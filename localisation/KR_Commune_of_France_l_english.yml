@@ -19,6 +19,7 @@ FRA_sxtnreserve_tt:0 "16개 예비 사단이 증원될 것입니다."
 CAF_redeagles_tt:0 "새로운 자원 조종사와 항공기가 도착할 것입니다."
 FRA_nfadivs_tt:0 "프랑스 본토에서 반자코뱅 세력이 우리의 깃발 아래 결집할 것입니다."
 FRA_sorelian_economy_tooltip:0 "§Y파리에 4개 사단을 보낼 것입니다§!\n"
+FRA_tank_division_tooltip:0 "Three §HLight Armour§! divisions will be deployed."
 
 ### Ideas ###
 FRA_communard_spirit:0 "파리 코뮌의 영혼"
@@ -69,7 +70,7 @@ FRA_industralization_idea_desc:0 "자코뱅주의자 경제 장관인 장 제롬
 FRA_mass_fire_support_idea:0 "대량 화력 지원"
 FRA_mass_fire_support_idea_desc:0 "모든 병사들은 소총과 수류탄을 휴대하고 있으며, 모든 분대는 기관총을 소유하고 있습니다. 우리의 사단들이 서로에게 화력을 지원하도록 조직함으로써 우리는 새로운 개념의 화력 지원을 할 수 있습니다. 한 사단이 진군할 때마다 다른 모든 사단들이 적을 저지합니다. 이를 하나로 연계시키면 우리는 빠르게 진군할 수 있습니다. 그렇다면 이젠 필요한 장비를 공급해야 할 때입니다."
 
-FRA_mass_conscription_idea:0 "대규모 징집"
+FRA_mass_conscription_idea:0 "대규모 동원"
 FRA_mass_conscription_idea_desc:0 "우리의 적들은 반동적이고 제국주의적인 전쟁에 동원할 병사들을 입대시키는 데 어려움을 겪고 있지만, 우리의 모든 인민들은 코뮌을 위해 싸울 준비가 되어 있습니다. 우리 경제가 지탱할 수 있는 한계까지 병력을 소집해서, 우리는 코뮌에 대한 우리의 궁극적인 헌신으로 반동분자들을 압살할 것입니다."
 
 FRA_empower_rifleman_idea:0 "보병에게 권한 부여"
@@ -279,7 +280,7 @@ FRA_flexible_support:0 "유연한 지원"
 FRA_flexible_support_desc:0 "우리 분대의 효율성을 보장하기 위해, 우리는 포병대가 그들을 유연하게 지원할 수 있도록 해야 합니다. 즉, 포병은 언제든지 연계된 모든 분대의 요청에 따라 포탄을 발사할 준비가 되어 있어야 하며, 지원 중대는 전선에서 도움을 청해올때 언제든지 행동할 준비가 되어 있어야 합니다."
 FRA_empower_rifleman:0 "보병에게 권한 부여"
 FRA_empower_rifleman_desc:0 "우리는 작전의 모든 계획을 수립하고, 우리가 필요한 만큼 많은 야포들을 쌓아둘 수 있지만, 전쟁에서 궁극적으로 승리하려면 결국 필요한 것은 보병입니다. 그들이 재량껏 작전을 수행할 수 있도록 만들어, 보병들이 더 효율적으로 우리를 공격하는 적들을 격퇴할 수 있습니다."
-FRA_mass_conscription:0 "대규모 징집"
+FRA_mass_conscription:0 "대규모 동원"
 FRA_mass_conscription_desc:0 "세계대전은 현대전이 이제는 총력전 규모로 진행되며, 언제나 수백만 명의 병사들을 징집할 준비가 되어 있어야 한다는 사실을 의심의 여지없이 보여 주었습니다. 모든 프랑스인은 자신이 어느 때라도, 사랑하는 조국을 반동 세력들로부터 방어하기 위해 징집될 수 있음을 알아야 합니다. 우리는 마지막 인민이 쓰러질 때까지 패배하지 않을 것입니다!"
 FRA_improve_manufactures:0 "제조업 개선"
 FRA_improve_manufactures_desc:0 "전쟁은 이제 엄청난 규모로 일어나고, 이러한 현대전은 우리가 짐작조차 할 수 없는 수많은 양의 장비를 필요로 할 것입니다. 장비는 소총, 수류탄에 전차, 항공기가 필요하고, 더 많은 종류들이 여기에 추가될 수 있습니다. 우리는 군사 산업이 가능한 한 최고의 효율을 끌어낼 수 있도록 해야 합니다. 우리는 결코 소총만 가지고 싸우지 않을 것입니다!"
