@@ -199,7 +199,8 @@ SZC_Service_For_Food_tooltip:0 "§H대규모 기아§! 변동치\n징병 가능�
 SZC_Labour_Relief_tooltip:0 "§H대규모 기아§! 변동치\n징병 가능한 인구: §G+20.00%§!\n공장 생산량: §G+20.00%§!\n"
 
 SZC_famine_relief_direction_chosen_tooltip:0 "구호 전략을 채택했습니다."
-SZC_importing_grain_tooltip:0 "No grain imports are currently under way"
+SZC_importing_grain:0 "No grain imports are currently under way"
+SZC_extra_import_unlocked:0 "두 번째 수입로를 감당할 수 있을 정도로 충분한 자금이 남아있습니다"
 
 SZC_famine_PP_30_tooltip:0 "£convoy_texticon [?30|H0]"
 SZC_famine_PP_30_tooltip_blocked:0 "£convoy_texticon [?30|R0]"
@@ -263,7 +264,7 @@ SZC_opium_removal_tier_4:0 "£opium_texticon  §H12%§!이하의 §H아편 유�
 SZC_opium_removal_tier_5:0 "£opium_texticon  §H3%§!이하의 §H아편 유행§!"
 
 SZC_opium_tier_5:0 "[SZC_opium_tier_5_tooltip]"
-SZC_opium_crisis_solved_tooltip:0 "아편 문제를 해결했습니다"
+SZC_opium_crisis_solved:0 "아편 문제를 해결했습니다"
 
 SZC_CP_15:0 "£command_power §R15§!"
 SZC_CP_15_blocked:0 "£command_power §R15§!"
@@ -475,8 +476,6 @@ SZC_Hire_RCW_Veterans:0 "러시아 내전 참전용사 고용"
 ### Flags ###
 sichuan_civil_war:0 "쓰촨이 내전중입니다"
 SZC_siege_broken:0 "포위군이 패퇴했습니다"
-SZC_extra_import_unlocked:0 "두 번째 수입로를 감당할 수 있을 정도로 충분한 자금이 남아있습니다"
-SZC_famine_ongoing:0 "쓰촨이 기근으로 고통받는 중입니다"
 
 ### Focuses ###
 Sichuan_Clique_Armament:0 "쓰촨 중점계통도"
@@ -1085,18 +1084,21 @@ SZC_join_faction_rejected_title_KMT:0 "Kuomintang Disunity"
 SZC_join_faction_rejected_desc_KMT:0 "The Kuomintang is a broad coalition.  Depending on someone's interpretation of Dr. Sun's Three Principles of the People, they can come to wildly different conclusions about his ideals. This has led to party conflicts in the past and regretfully seem to have caused conflicts to arise today as well. Believing that we've taken the wrong path, [FROM.GetLeader] has rejected out proposal, claiming that we're no true followers of the Principles.\n\nIf they want to stand alone, so be it."
 SZC_join_faction_rejected_KMT:0 "What of the welfare of the people?"
 
-sichuan.12.t:0 "평원에서 패배"
-sichuan.12.d:0 "Despite the valiant fight put up by the Dob-Dobs in defense of Tibetan soil, the Sichuanese invaders have overrun town after town and monastery after monastery, inflicting grave losses upon our brethren. While this hasn't broken our will to fight, many among our ranks reluctantly have to concede that fighting would merely lead to more bloodshed and destruction. With many holy sites threatened by the enemy onslaught, there are many voices that urge us to sue for peace and offer to cede the lands they've laid claim to in exchange for an end to the hostilities. Some hard-liners still wish to continue the fight, though they're outnumbered by the more pragmatic and - sadly, it'd seem - realistic voices."
-sichuan.12.a:0 "우리가 두들겨 맞았군. 평화를 요청하자."
-sichuan.12.b:0 "우린 항복하지 않을 것이다!"
+sichuan.12.t:0 "Propose Peace to [FROM.GetCliqueShortName]?"
+sichuan.12.d.SZC:0 ""Our campaign to reclaim Chamdo has turned into a humiliating disaster for our army. Our military leaders assured us that we'd be able to overrun the region while facing only token resistance from poorly armed, trained and organized monks hiding out in their monestaries. Instead, we faced stiff resistance in the mountains by an unyielding foe that hasn't only held the line, but has pushed our forces out of Xikang.\n\nClearly, we were in no shape to launch an invasion after the civil war. Be that as it may, with Chengdu under the very real threat of being attacked several members of our general staff are urging us to cut our losses and offer the Tibetans peace terms. While it'd be a severe loss of face for our government, doing so now would let us end the conflict with relatively few concessions to the Tibetans and allow us to rebuild our army. A smaller faction of hardliners are urging us to renew our attacks against the zealots, but taking their advice would be very unpopular given how the campaign has turned out so far.""
+sichuan.12.d.TIB:0 "Despite the valiant fight put up by the Dob-Dobs in defense of Tibetan soil, the Sichuanese invaders have overrun town after town and monastery after monastery, inflicting grave losses upon our brethren. While this hasn't broken our will to fight, many among our ranks reluctantly have to concede that fighting would merely lead to more bloodshed and destruction. With many holy sites threatened by the enemy onslaught, there are many voices that urge us to sue for peace and offer to cede the lands they've laid claim to in exchange for an end to the hostilities. Some hard-liners still wish to continue the fight, though they're outnumbered by the more pragmatic and - sadly, it'd seem - realistic voices."
+sichuan.12.a:0 "This bloodshed has gone on for too long. Send for peace."
+sichuan.12.b:0 "This is not over yet!"
 
-sichuan.13.t:0 "티베트가 평화를 요청하다"
-sichuan.13.d:0 "Fighting the Tibetans was no easy feat. The country's immense mountains proved a military challenge with few equals and their forces, mainly made out of Dob-Dob warrior monks, proved an unorthodox and relentless opponent. Nevertheless, Tibet stands beaten before us and has sent an offer for peace. They will cede Chamdo to us in exchange for an immediate cessation of hostilities. Although we can rightfully claim a great victory in this war, there are more than a handful in our military and political leadership that think we ought to push forward and aim for a complete victory. Others, however, think that settling for our initial claims is enough, seeing as the alternative may as well see us being forced to fight all across the Himalayas."
-sichuan.13.a:0 "그래, 우리가 승리했다."
-sichuan.13.b:0 "아니야, 티베트에게 참교육을 시켜줘야해."
+sichuan.13.t:0 "[FROM.GetCliqueShortName] Offers Peace"
+sichuan.13.d.SZC:0 "Fighting the Tibetans was no easy feat. The country's immense mountains proved a military challenge with few equals and their forces, mainly made out of Dob-Dob warrior monks, proved an unorthodox and relentless opponent. Nevertheless, Tibet stands beaten before us and has sent an offer for peace. They will cede Chamdo to us in exchange for an immediate cessation of hostilities. Although we can rightfully claim a great victory in this war, there are more than a handful in our military and political leadership that think we ought to push forward and aim for a complete victory. Others, however, think that settling for our initial claims is enough, seeing as the alternative may as well see us being forced to fight all across the Himalayas."
+sichuan.13.d.TIB:0 ""The Dob-Dobs have been very successful in resisting the aggression posed by the Sichuanese warlords. With Xikang falling to our brave warriors, even the arrogant regime in [SZC.Capital.GetName] have been forced to see reason. They've sent an envoy to us, offering us peace terms with several concessions, hoping to spare their army from further crushing blows.\n\nThe terms offered are very favourable to us and would secure our eastern border for the foreseeable future. Some of our leaders, however, are urging us to press forward, arguing that a temporary peace with a hostile and irrational foe would only lead to further bloodshed in the future. They are, of course, a minority and taking their line would prove very politically and militarily risky.""
+sichuan.13.a:0 "Yes, let's end this."
+sichuan.13.b:0 "We will not negotiate with [FROM.GetCliqueShortName]."
 
-sichuan.14.t:0 "사천이 평화를 거부하다"
-sichuan.14.d:0 "Our emissary to [SZC.Capital.GetName] has returned with dire news, indeed. Our offer for peace has been rejected by the Sichuanese leadership - it's clear that they're not content with simply taking the our eastern lands, but instead aim to overrun all of Tibet. With Sichuan refusing to budge, we have no choice but to beat reason into them on the battlefield. Already many monks have heeded the call to make a last stand against these aggressors and we can only pray that this will be enough to turn the tides in this conflict."
+sichuan.14.t:0 "Sichuan Refuses Peace"
+sichuan.14.d.SZC:0 "Rather unexpectedly, the envoy we sent to [TIB.Capital.GetName] to negotiate peace terms with the Tibetans has been expelled from the city and informs us that our peace offer was rejected out of hand. Refusing to even entertain the notion of negotiations, they're intent on continuing the war to its bloody conclusion. With the Tibetan forces firmly entrenched in Xikang, we're in for a long and gruelling fight to push them out of Sichuan."
+sichuan.14.d.TIB:0 "Our emissary to [SZC.Capital.GetName] has returned with dire news, indeed. Our offer for peace has been rejected by the Sichuanese leadership - it's clear that they're not content with simply taking the our eastern lands, but instead aim to overrun all of Tibet. With Sichuan refusing to budge, we have no choice but to beat reason into them on the battlefield. Already many monks have heeded the call to make a last stand against these aggressors and we can only pray that this will be enough to turn the tides in this conflict."
 sichuan.14.a:0 "그럼 죽기전까지 싸워야겠군."
 
 sichuan.15.t:0 "군비파가 망명을 요청하다"
