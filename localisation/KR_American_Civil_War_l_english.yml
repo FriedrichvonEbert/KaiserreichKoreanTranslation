@@ -1028,14 +1028,14 @@ amcivwar.524.a:0 "흥미롭군"
 amcivwar.524.b:0 "아무것도 바뀌지 않았다. 둘 다 패배할 테니까."
 
 amcivwar.525.t:0 "악마와의 거래"
-amcivwar.525.d:0 "[enemy_country.GetNameDef]에 의해 자신들의 군대가 심한 압박을 받자, [truce_support.GetNameDef]와(과) [truce_enemy.GetNameDef]은(는) 일시적인 휴전에 동의했습니다. [truce_support.GetAdjective] 세력에 대해 지원을 제공하기로 선언한 우리로서는, 그들의 거래를 따를지 말지 선택할 수 있습니다...적어도 지금 당장은 말이죠."
+amcivwar.525.d:0 "[enemy_country.GetNameDef]에 의해 자신들의 군대가 심한 압박을 받자, [truce_support.GetNameDef](와)과 [truce_enemy.GetNameDef](은)는 일시적인 휴전에 동의했습니다. [truce_support.GetAdjective] 세력에 대해 지원을 제공하기로 선언한 우리로서는, 그들의 거래를 따를지 말지 선택할 수 있습니다...적어도 지금 당장은 말이죠."
 amcivwar.525.a:0 "그렇겠지"
 
 amcivwar.526.t:0 "휴전이 끝나다"
-amcivwar.526.d:0 "[can_ally.GetNameDef]와(과) [can_enemy.GetNameDef]의 일시적인 휴전은 명백히 종료되었고, 이제 [can_ally.GetAdjective]은(는) 협상국에게 이전처럼 전쟁에 참여해달라 요청하고 있습니다."
+amcivwar.526.d:0 "[can_ally.GetNameDef](와)과 [can_enemy.GetNameDef]의 일시적인 휴전은 명백히 종료되었고, 이제 [can_ally.GetAdjective](은)는 협상국에게 이전처럼 전쟁에 참여해달라 요청하고 있습니다."
 amcivwar.526.a:0 "지금 간다!"
 amcivwar.526.b:0 "아무래도 그들 혼자 싸움에 임해야 할 것 같군"
-amcivwar526_tt:0 "§Y[Root.GetNameDefCap]§!은(는) §Y[can_enemy.GetNameDef]§!을(를) 상대로 한 전쟁에서 §Y[can_ally.GetNameDef]§!에 합류할 것입니다\n"
+amcivwar526_tt:0 "§Y[Root.GetNameDefCap]§!(은)는 §Y[can_enemy.GetNameDef]§!(을)를 상대로 한 전쟁에서 §Y[can_ally.GetNameDef]§!에 합류할 것입니다\n"
 
 ### Sanity Checks ###
 
