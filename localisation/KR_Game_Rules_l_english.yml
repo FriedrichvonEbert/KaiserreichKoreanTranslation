@@ -1,5 +1,5 @@
 ﻿l_english:
- 
+
 ### Major Nation Buffs ###
 
 custom_diff_strong_can:0 "£KR_game_rule_flag_CAN   캐나다 자치령 강화"
@@ -295,7 +295,7 @@ UKR_FUTURE:0 "£KR_game_rule_flag_UKR   우크라이나의 미래"
 RULE_OPTION_UKR_FUTURE_RANDOM:0 "기본값"
 RULE_OPTION_UKR_FUTURE_RANDOM_DESC:0 "경제 위기는 가뜩이나 불안정한 우크라이나를 거의 붕괴시킵니다. 폭풍을 이겨내기 위해서는 큰 변화가 필요합니다."
 RULE_OPTION_UKR_FUTURE_INVITE_SHUMSKY_SUCCESS_GERMAN_INTERVENTION:0 "£GFX_KR_game_rule_flag_UKR_syndicalist  £KR_game_rule_flag_GER   Shumsky Succeeds (§YG.I.§!)"
-RULE_OPTION_UKR_FUTURE_INVITE_KHRUSHCHEV_SUCCESS_GERMAN_INTERVENTION_DESC:0 "올렉산드르 슘스키와 그의 인민전선은 농업 부문의 재편을 돕기 위해 정부에 초대됩니다. 그들은 이후 왕을 퇴위시키고 우크라이나 사회주의 공화국을 수립합니다. 이에 대해 독일 제국은 새로 형성된 공화국에게 선전포고를 합니다.\n§YG.I.§!는 독일 침공의 약자입니다."
+RULE_OPTION_UKR_FUTURE_INVITE_SHUMSKY_SUCCESS_GERMAN_INTERVENTION_DESC:0 "Oleksander Shumsky and his Popular Front are invited into the government to help reorganise the agricultural sector. They later depose the king and establish the Socialist Republic of Ukraine. In response, the German Empire declares war on the newly formed republic.\n§YG.I.§! stands for German Intervention."
 RULE_OPTION_UKR_FUTURE_INVITE_SHUMSKY_SUCCESS_GERMAN_ACQUIESCENCE:0 "£GFX_KR_game_rule_flag_UKR_syndicalist   Shumsky Succeeds (§GG.A.§!)"
 RULE_OPTION_UKR_FUTURE_INVITE_SHUMSKY_SUCCESS_GERMAN_ACQUIESCENCE_DESC:0 "올렉산드르 슘스키와 그의 인민전선은 농업 부문의 재편을 돕기 위해 정부에 초대됩니다. 그들은 이후 왕을 퇴위시키고 우크라이나 사회주의 공화국을 수립합니다. 이에 대해 독일 제국은 혁명에 대해 아무 조치도 취하지 않기로 결정합니다.\n§GG.A.§!는 독일 묵인의 약자입니다."
 RULE_OPTION_UKR_FUTURE_INVITE_SHUMSKY_SUCCESS_COUP:0 "£KR_game_rule_flag_UKR   슘스키의 쿠데타를 전복"
@@ -635,7 +635,7 @@ RULE_OPTION_CUB_STRIKE_AUTHENTIC_DESC:0 "민간 정부가 무너지고 민족주
 RULE_OPTION_CUB_STRIKE_SOCIALIST:0 "사회주의자들의 혁명"
 RULE_OPTION_CUB_STRIKE_SOCIALIST_DESC:0 "민간 정부가 무너지고 사회주의 파벌들이 정권을 잡게 될 것입니다. 이 파벌들은 하나로 통합될 수도 있고, 연립 정부를 구성해 나갈 수 있습니다."
 RULE_OPTION_CUB_STRIKE_COUP:0 "미국이 지원한 쿠데타"
-RULE_OPTION_CUB_STRIKE_COUP_DESC:0 "민간 정부가 무너지고 사회주의 파벌들이 정권을 잡게 될 것입니다. 하지만, 미국의 도움으로 사회주의 정부는 곧 무너질 것이고, 새로운 정부에 누가 집권할 것인지는 두고 봐야 할 문제 일겁니다""
+RULE_OPTION_CUB_STRIKE_COUP_DESC:0 "민간 정부가 무너지고 사회주의 파벌들이 정권을 잡게 될 것입니다. 하지만, 미국의 도움으로 사회주의 정부는 곧 무너질 것이고, 새로운 정부에 누가 집권할 것인지는 두고 봐야 할 문제 일겁니다."
 
 DOM_ELECTORCOUP:0 "£KR_game_rule_flag_DOM   Window of Opportunity"
 RULE_OPTION_DOM_ELECTORCOUP_RANDOM:0 "Default"
@@ -668,6 +668,20 @@ RULE_OPTION_ARG_CHRISTMAS_COUP_AUTHORITARIAN_DEMOCRAT_RAMIREZ_DEMOCRACY:0 "라�
 RULE_OPTION_ARG_CHRISTMAS_COUP_AUTHORITARIAN_DEMOCRAT_RAMIREZ_DEMOCRACY_DESC:0 "피비린내 나는 투쟁에 이어, 육군은 로사리오에서 결정적인 승리를 거두어 카를레스에게 충성하는 군대를 퇴각하도록 만듭니다. 라미레즈와 육군이 대통령 거처를 향해 행진하자, 마누엘 카를레스는 자살하거나 우루과이로 도망친 채 사라집니다. 수도와 질서를 회복한 라미레즈는 민주주의를 회복하고 선거를 치르기로 결심합니다."
 RULE_OPTION_ARG_CHRISTMAS_COUP_AUTHORITARIAN_DEMOCRAT_RAMIREZ_JUNTA:0 "라미레즈의 군부 설립"
 RULE_OPTION_ARG_CHRISTMAS_COUP_AUTHORITARIAN_DEMOCRAT_RAMIREZ_JUNTA_DESC:0 "피비린내 나는 투쟁에 이어, 육군은 로사리오에서 결정적인 승리를 거두어 카를레스에게 충성하는 군대를 퇴각하도록 만듭니다. 라미레즈와 육군이 대통령 거처를 향해 행진하자, 마누엘 카를레스는 자살하거나 우루과이로 도망친 채 사라집니다. 수도와 질서를 회복한 라미레즈는 군사 정부를 세우기로 결심합니다."
+
+FOP_TRADE_UNION_CONGRESS: "£KR_game_rule_flag_FOP The First National Trade Congress" 
+RULE_OPTION_FOP_TRADE_UNION_CONGRESS_RANDOM:0 "Default"
+RULE_OPTION_FOP_TRADE_UNION_CONGRESS_RANDOM_DESC:0 "Coming from a tradition of Republican democracy, Argentina had never had a Trade Union Congress up to this point, and while many are anxious to see this historical events, many are wary of it being simply a masquerade for a dictatorial regime. As the gates to the old Congress open to the Union delegates, the fate of the nation hangs in the balance..."
+RULE_OPTION_FOP_TRADE_UNION_CONGRESS_RADANS:0 "The Anarchist Radicals"
+RULE_OPTION_FOP_TRADE_UNION_CONGRESS_RANANS_DESC:0 "With Severino di Giovanni now serving as the acting chairman, the Anarchist Radicals of the USA have come out on top of the other factions decisively. With a very harsh stance on religion, inequality and nationalism, the Anarchists will attempt to sweep whatever remained from the old Argentina away, and make the Argentinean territory a nation for all workers of the world."
+RULE_OPTION_FOP_TRADE_UNION_CONGRESS_MODANS:0 "The Anarchist Moderates"
+RULE_OPTION_FOP_TRADE_UNION_CONGRESS_MODANS_DESC:0 "With Soto remaining in his post of chairman, the USA remains on top of the other Trade Unions, and is now preparing to carry out sweeping changes to the nation. While ideologically driven, Soto is by far a pragmatist within the revolutionary movement, and he'll seek to compromise the anarchist ideals with the society he now has the duty to rebuild. Only time will tell whether this will be successful..."
+RULE_OPTION_FOP_TRADE_UNION_CONGRESS_RADSOCS:0 "The Socialist Party Moderates"
+RULE_OPTION_FOP_TRADE_UNION_CONGRESS_RADSOCS_DESC:0 "After decades of struggle, the Socialist party has finally managed to become the dominant force in Argentinean politics. Unsurprisingly, it has been fairly well received by the public, as the Socialist party already had a history of sensible compromises and welfare bills, and it is expected that their rule, while not as radical as the other unions, will still try to reform our nation in favour of the workers."
+RULE_OPTION_FOP_TRADE_UNION_CONGRESS_MODSOCS:0 "The Baldomeristas"
+RULE_OPTION_FOP_TRADE_UNION_CONGRESS_MODSOCS_DESC:0 "The Baldomeristas, rising from a small club to a sizable faction of the Socialists with the victory of the revolution, they seek a new approach to Socialism, one that merges the ideas of Argentinean nationalism, American Anti Imperialism and other concepts like Agrarianism and Economic Democracy. Only time will tell whether this mix will work out for or against the new Chairman."
+RULE_OPTION_FOP_TRADE_UNION_CONGRESS_COMMIES:0 "The Communist Supremacy"
+RULE_OPTION_FOP_TRADE_UNION_CONGRESS_COMMIES_DESC:0 "Despite having suffered a major setback when the October Revolution failed in Russia, the Argentinean Communist party has managed to reach power regardless, and now holds the majority of the seats in the Congress. While their shared dream with the Bolsheviks of a new world order under a Communist banner may still be far away, this victory has certainly brought them one step closer."
 
 CHL_FINAL_CONFLICT:0 "£KR_game_rule_flag_CHL   최후의 갈등"
 RULE_OPTION_CHL_FINAL_CONFLICT_RANDOM:0 "기본값"
@@ -789,7 +803,7 @@ RULE_OPTION_COL_GREAT_INHERITANCE_SOCIALISM_DESC:0 "민주주의는 유지되고
 RULE_OPTION_COL_GREAT_INHERITANCE_DICTATE:0 "비상사태 선포"
 RULE_OPTION_COL_GREAT_INHERITANCE_DICTATE_DESC:0 "비상사태가 선포되고, 독재정이 수립될 것입니다."
 
-VEN_BM_CRISIS:0 "£KR_game_rule_flag_VEN   1939년 선거
+VEN_BM_CRISIS:0 "£KR_game_rule_flag_VEN   1939년 선거"
 RULE_OPTION_VEN_BM_CRISIS_RANDOM:0 "기본값"
 RULE_OPTION_VEN_BM_CRISIS_RANDOM_DESC:0 "1939년의 선거는 베네수엘라의 운명을 결정 지을 것입니다."
 RULE_OPTION_VEN_BM_CRISIS_DEMOCRACY:0 "민주주의 유지"
