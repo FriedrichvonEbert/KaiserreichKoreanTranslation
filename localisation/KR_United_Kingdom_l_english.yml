@@ -416,7 +416,7 @@ uk.7.b:0 "도와 줄 수 밖에 없겠지."
 uk.8.t:0 "[From.GetAdjective] 구호물자 도착"
 uk.8.d:0 "동맹인 [From.GetAdjective](으)로부터 절실히 필요했던 구호품이 도착했습니다!"
 uk.8.d.more:0 "동맹인 [From.GetAdjective](으)로부터 엄청난 양의 구호물자가 도착했습니다. 아주 친절하군요!"
-uk.8.a:0 "정말 고맙다, [From.GetNameDef]!"
+uk.8.a:0 "정말 고맙군, [From.GetName]!"
 
 ### The British Reconstruction Authority ###
 uk.10.t:0 "재건 당국 출범 발표"

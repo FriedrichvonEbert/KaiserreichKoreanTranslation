@@ -275,7 +275,7 @@ RUS_Invest_In_The_Siberian_Zemstva:0 "시베리아 젬스트보에 투자"
 RUS_Invest_In_The_Zemstva_tooltip:0 "§C그 지역의 젬스트보에 잠재적으로 유익한 효과를 가져다 줄 수 있는 경제적 지원을 제공할 것입니다.§!"
 RUS_Local_Development_tooltip:0 "§C산업 부문에의 젬스트보 투자를 해금할 것입니다.§!"
 RUS_Zemstvo_Research_Initiatives_tooltip:0 "§C연구 개발 부문에의 젬스트보 투자를 해금할 것입니다.§!"
-RUS_War_Preparations_Programme_tooltip:0 "§C군사 사업 부문에의 젬스트보 투자를 해금할 것입니다.§!"
+RUS_War_Preparations_Programme_tooltip:0 "§CZemstva investment in industry may now expand the armament industry.§!"
 RUS_National_Investment_Bank_tooltip:0 "§C젬스트보 지원금의 상한을 완화할 것입니다.§!"
 RUS_zemstva_social_focus:0 "§O우리는 국민의 사회적 환경에 초점을 맞출 것입니다. 이것은 우리에게 §Y추가적인 안정도, 전쟁 지지도 또는 정치력§!을 줄 수 있습니다.§!"
 RUs_zemstva_civilian_focus:0 "§O우리는 우리 지역의 산업에 초점을 맞출 것입니다. 이것은 우리에게 §Y새로운 공장, 기반 시설, 자원 또는 심지어 (투자가 충분하다면) 합성 정유 공장§!을 제공할 수 있습니다.§!"
@@ -1043,7 +1043,7 @@ rusd.48.d:0 "우리 사회의 자유주의자들은 교회와 국가가 강한 �
 rusd.48.a:0 "내버려 둬라!"
 
 rusd.49.t:0 "군 내부의 불안정"
-rusd.49.d:0 "실랴프니코프를 임시 대통령으로 선출한 일이 부정적인 결과를 가져온 것으로 보입니다. 군 수뇌부 상당수가 그가 대통령 취임을 목소리 높여 반대하면서 선출 과정에 은밀한 무언가가 있었다고 주장하기 시작했습니다. 이 상황에 대해 직접 말을 하던 그렇지 않던간에 장군들은 대통령이 사임한다면 개입하지 않겠다는 의사를 밝혔습니다. 군 내 하급 병사들 사이에서는 반동적인 동요와 대규모 반란이 병사들을 휩쓸어 다루기 힘든 광란 속에 빠지기도 했습니다."
+rusd.49.d:0 "The election of Shlyapnikov to the position of interim president seems to have caused negative repercussions. 군 수뇌부 상당수가 그가 대통령 취임을 목소리 높여 반대하면서 선출 과정에 은밀한 무언가가 있었다고 주장하기 시작했습니다. 이 상황에 대해 직접 말을 하던 그렇지 않던간에 장군들은 대통령이 사임한다면 개입하지 않겠다는 의사를 밝혔습니다. 군 내 하급 병사들 사이에서는 반동적인 동요와 대규모 반란이 병사들을 휩쓸어 다루기 힘든 광란 속에 빠지기도 했습니다."
 rusd.49.a:0 "걱정되는군."
 
 rusd.50.t:0 "[Root.GetLeader]의 대국민 연설"

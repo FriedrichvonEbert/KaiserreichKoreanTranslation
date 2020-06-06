@@ -99,8 +99,8 @@ worldnews.25.t:0 "노동조합총회 의장으로 선출된 이 글라이시"
 worldnews.25.d:0 "1936년 브리튼 연방 노동조합총회가 결정을 내렸습니다. 오랫동안 의장으로 재임했던 필립 스노든이 사임을 선언함에 따라, 최대주의자, 자치주의자, 연방주의자 그리고 조합주의자의 연방의 4개 주요 파벌이 후임자에 대한 논쟁을 시작했습니다. \n\n그리고 논란이 가라앉으면서 웨일스의 시인이자 자치주의자의 지도자인 니콜라스가 새 의장으로 선출되었습니다. 자치주의자들은 브리튼 연방의 분권화를 지지하고 심지어 웨일스 및 스코틀랜드 국가에 대한 더 큰 자치권, 심지어 완전한 독립까지도 지지합니다."
 worldnews.25.a:0 "흥미롭군."
 
-worldnews.26.t:0 "노동조합총회 의장으로 선출된 케니"
-worldnews.26.d:0 "1936년 브리튼 연방 노동조합총회가 결정을 내렸습니다. 오랫동안 의장으로 재임했던 필립 스노든이 사임을 선언함에 따라, 최대주의자, 자치주의자, 연방주의자 그리고 조합주의자의 연방의 4개 주요 파벌이 후임자에 대한 논쟁을 시작했습니다. \n\n그리고 논란이 가라앉으면서 조합주의자의 지도자인 애니 케니가 새로운 의장으로 선출되었습니다. 케니는 지구상의 소수의 여성 지도자 중 한 명이며 급진적인 페미니즘과 평등주의 대한 그녀의 사상은 현 상황에 적합합니다."
+worldnews.26.t:0 "노동조합총회 의장으로 선출된 팽크허스트"
+worldnews.26.d:0 "1936년 브리튼 연방 노동조합총회가 결정을 내렸습니다. 오랫동안 의장으로 재임했던 필립 스노든이 사임을 선언함에 따라, 최대주의자, 자치주의자, 연방주의자 그리고 조합주의자의 연방의 4개 주요 파벌이 후임자에 대한 논쟁을 시작했습니다. \n\n그리고 논란이 가라앉으면서 조합주의자의 지도자인 실비아 팽크허스트가 새로운 의장으로 선출되었습니다. 케니는 지구상의 소수의 여성 지도자 중 한 명이며 급진적인 페미니즘과 평등주의 대한 그녀의 사상은 현 상황에 적합합니다."
 worldnews.26.a:0 "흥미롭군."
 
 worldnews.27.t:0 "노동조합총회 의장으로 선출된 호너"
@@ -1018,8 +1018,8 @@ worldnews.245.d.abolish:0 "After the regime change in the former Empire of Japan
 worldnews.245.a:0 "한 시대가 끝나고, 다른 시대가 열리는구나."
 
 worldnews.246.t:0 "부산 조약"
-worldnews.246.d:0 "오늘 부산에서 조약이 체결되어 1910년 일본에 병합되었던 조선 왕국이 다시 수립되었습니다. 수십만 명의 한국인들이 그들의 독립을 축하하기 위해 거리로 몰려들었습니다. 이것은 확실히 식민주의 시대의 역사적인 순간입니다."
-worldnews.246.a:0 "인상적이군."
+worldnews.246.d:0 "오늘 부산에서 조약이 체결됨에 따라, 1910년에 일본에 병합되었던 조선 왕국이 다시 수립되었습니다. 이 역사적인 사건은 제국주의의 희생물이자, 그리고 이젠 주권국으로 인정받기 위한 그 나라의 수백만 대중들이 투쟁하여 빚어낸 결실입니다. 수십만의 한국인들이 독립을 축하하기 위해 거리로 뛰쳐나오고 있습니다. 이제 한국의 여러 지하 정당들은 부산조약이 가져온 적법한 정권을 가지기 위해 공식적으로 연합하고 경쟁에 들어갑니다."
+worldnews.246.a:0 "인상적인걸."
 
 worldnews.247.t:0 "브라질에서의 공화주의자 승리"
 worldnews.247.d:0 "While certainly not an unexpected result, confirmation has reached us that the Republican Party will stay in power in Brazil, as it has since the start of the New Republic in 1927. The new president of the republic, Getulio Vargas, will be sworn in in January, but has already promised to deal with a firm hand against the economical issues plaguing the country, and also promises to do better for the common man of Brazil in his victory speech. However, the Republican victory will not mean such an instant end to Brazil's woes, and time will tell if this continued hegemony will have positive consequences"
@@ -1243,7 +1243,7 @@ worldnews.264.e:0 "싱가포르는 영국의 정당한 식민지다. 이 일을 
 
 worldnews.265.t:0 "The Fall of New York City"
 worldnews.265.d.csa:0 "[new_controller.GetAdjective] militias have been fighting sparse skirmishes with the Red Guard down the Hudson River. This morning, the palisades, both natural and manmade, fell from Syndicate hands. Not long after that Manhattan Island was forced to capitulate rather than risk the massive loss of life that urban warfare would bring. The Syndicates have ordered the remainder of the Red Guard to transport the gold from the Federal Reserve Building to safety, leaving behind many financial workers imprisoned on Welfare Island.\n\nThe whole of New York City is now under the control of [new_controller.GetNameDef], and a massive relief effort is underway to assess the full scope of the damage the Syndicates did to the city."
-worldnews.265.d.other:0 "[new_controller.GetAdjective] forces have been pushing down the Hudson River for a while now. Today, their efforts came to a close as they finally descended on New York City after successfully encircling the remaining defenders. To the great dismay of the conquerors, the Federal Reserve Building has been thoroughly looted of gold and transferred to a safehouse. Political prisoners were left in their prison cells in Welfare Island.\n\nThe fall of New York City strikes a major blow to our cause, the symbols of American power and the thousands of supporters that attended our rallies. As fighting dies down in the New York Harbour, it appears almost certain that [new_controller.GetNameDef] has a definite advantage."
+worldnews.265.d.other:0 "[new_controller.GetAdjective] forces have been pushing down the Hudson River for a while now. Today, their efforts came to a close as they finally descended on New York City after successfully encircling the remaining defenders. To the great dismay of the conquerors, the Federal Reserve Building has been thoroughly looted of gold and transferred to a safehouse. Political prisoners were left in their prison cells in Welfare Island.\n\nThe fall of New York City strikes a major blow to the [old_controller.GetAdjective] cause, the symbol of American power and the thousands of supporters that attended their rallies. As fighting dies down in the New York Harbour, it appears almost certain that [new_controller.GetNameDef] has a definite advantage."
 worldnews.265.a:0 "New York is ours!"
 worldnews.265.b:0 "This is a setback to the Revolution!"
 worldnews.265.c:0 "New York must not remain in enemy hands!"

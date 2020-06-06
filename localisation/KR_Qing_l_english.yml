@@ -639,6 +639,8 @@ QIE_ger_cruisers_tooltip:0 "예비역으로 보관되어 있는 독일 순양함
 QIE_ger_battleship:0 "독일산 예비역 전함 구입"
 QIE_battleship_tooltip:0 "예비역으로 보관되어 있는 독일 전함 한대가 개장되어 150일 뒤에 도착할 것입니다."
 QIE_ger_convoys:0 "독일산 수송선 구입"
+QIE_buy_ger_anti_tank:0 "Purchase German Anti Tank Artillery"
+QIE_buy_ger_anti_air:0 "Purchase German Anti Air Artillery"
 
 #zhili reunite China
 QIE_zhili_reunite_china_decisions_category:0 "중국 재통일"
@@ -701,7 +703,7 @@ QIE_demand_mas_submit_to_authority:0 "@XSM 마가군벌에 복종 요구"
 QIE_demand_mas_submit_to_authority_desc:0 "The Ma families control territory that is distant and hard to conquer. Instead of wasting our time marching our soldiers through deserts and mountains, let us instead demand they recognize our authority and appoint Aisin-Gioro Pugong, the Emperor's cousin and a recent convert to Islam, as provincial Viceroy."
 QIE_demand_shandong_submit_to_authority:0 "@SQI 쑹저위안의 충성 맹세 요구"
 QIE_demand_shandong_submit_to_authority_desc:0 "The Governor of Shandong, Song Zheyuan, is a devoted monarchist. Though he did not support the coup, we should invite him to Beijing and have him swear fealty to the Emperor, officially recognizing his divine right to rule China!"
-QIE_prepare_national_pacification_campaign: "국가안정화 계획 준비"
+QIE_prepare_national_pacification_campaign:0 "국가안정화 계획 준비"
 QIE_prepare_national_pacification_campaign_desc:0 "While we managed to purge many of the disloyal Zhili generals and their soldiers, this left our army unprepared for any major campaign. Before we embark on our quest to reunite China, we must ensure they are properly trained and prepared."
 QIE_prepare_western_thrust:0 "서부 공격 준비"
 QIE_prepare_western_thrust_desc:0 "The west of China is full of mountains and rough terrain. We must prepare the infrastructure of these provinces before we embark on any serious military campaign."
@@ -1031,8 +1033,6 @@ QIE_8_MARKS_blocked:0 "£german_coin_texticon  §R8%§!"
 QIE_10_MARKS:0 "£german_coin_texticon  §Y10%§!"
 QIE_10_MARKS_blocked:0 "£german_coin_texticon  §R10%§!"
 
-QIE_lep_joins_FNG_war_TT:0 "Despite [LEP.GetLeader]'s reluctance, the Qing's precarious position has lead the Nanjing-Kommission to push him into supporting Beijing."
-QIE_lep_joins_FNG_war_asked_politely_TT:0 "[LEP.GetLeader] has put aside his distrust of the Northern Zhili Clique and intervened in their war against the Fengtian."
 QIE_mining_conflict_escallated_TT:0 "Conflicts over mining rights on the [QIE.GetName]-Shanxi border have exploded into open warfare."
 
 ### Events ###
@@ -1168,11 +1168,11 @@ qielepcollapse.18.d:0 "차오쿤 의장의 연설 직후, 독일 대사관 주�
 qielepcollapse.18.a:0 "꺼져라 외국인놈들아!"
 
 qielepcollapse.19.t:0 "의회에서의 극적인 사건"
-qielepcollapse.19.d:0 "우페이푸가 팔성연합 편에서 개입하기로 결정하고 나자, 차오쿤은 이 소식을 의회에 전달해야 하는 피할 수 없는 임무를 떠안게 되었습니다. '존경하는 의원 여러분, 저는 오늘 남부의 불안 사태에 대한 중요한 소식을 전달하게 되었습니다. 지혜로운 우 원수께서 치셰위안 원수가 반역자 천댜오위안에 맞서는 것을 돕겠다고 결정하셨습니다. 제국 병사들이 남방으로 진군해 사태를 해결할 것이며, 빠르고 결정적인 승ㅡ'\n\n차오쿤은 중국 청년단 의원들이 자리를 박차고 회의장을 나가는걸 보곤 말을 멈췄습니다. 곧이어, 신보황회와 만주당 의원들이 그 뒤를 따랐고, 회의장엔 화합회와 번영연맹 의원들만이 남았습니다. 당황한 차오쿤은 연설을 마무리 했습니다.\n\n'빠르고 결정적인 승리가 될것입니다. 황제 폐하 만세!' 정치 까막눈이라 할지라도 오직 번영연맹 의원들만이 열의에 찬 박수를 보내고 있다는 것을 알 수 있었을 것입니다."
+qielepcollapse.19.d:0 "우페이푸가 팔성연합 편에서 개입하기로 결정하고 나자, 차오쿤은 이 소식을 의회에 전달해야 하는 피할 수 없는 임무를 떠안게 되었습니다. '존경하는 의원 여러분, 저는 오늘 남부의 불안 사태에 대한 중요한 소식을 전달하게 되었습니다. 지혜로운 우 원수께서 치셰위안 원수가 반역자 천댜오위안에 맞서는 것을 돕겠다고 결정하셨습니다. 제국 병사들이 남방으로 진군해 사태를 해결할 것이며, 빠르고 결정적인 승ㅡ'\n\n차오쿤은 중국 청년단 의원들이 자리를 박차고 회의장을 나가는걸 보곤 말을 멈췄습니다. 곧이어, 신보황회와 만주당 의원들이 그 뒤를 따랐고, 회의장엔 화합회와 번영연맹 의원들만이 남았습니다. 당황한 차오쿤은 연설을 마무리 했습니다.\n\n"빠르고 결정적인 승리가 될것입니다. 황제 폐하 만세!" 정치 까막눈이라 할지라도 오직 번영연맹 의원들만이 열의에 찬 박수를 보내고 있다는 것을 알 수 있었을 것입니다."
 qielepcollapse.19.a:0 "개자식들!"
 
 qielepcollapse.20.t:0 "독일의 지원"
-qielepcollapse.20.d:0 "번영연맹 의원들은 차오쿤 의장의 연설이 끝나자, 리셉션 자리에서 그에게 라인란트산 와인들과 쿠바산 시가, 그리고 여러 진귀한 외국산 음식들을 대접하며 축하해 주었습니다. 또한 평소 리셉션에 참석하던 음침한 표정의 만주족 귀족들 대신 참석한, 최신 베를린 스타일 정장을 갖춘 독일 대사관과 베이징 위원회 인사들은 역시 자리에 참석한 화합회 의원들과 몇몇 직예 장성들에게 엄청난 선물들을 주었습니다.
+qielepcollapse.20.d:0 "번영연맹 의원들은 차오쿤 의장의 연설이 끝나자, 리셉션 자리에서 그에게 라인란트산 와인들과 쿠바산 시가, 그리고 여러 진귀한 외국산 음식들을 대접하며 축하해 주었습니다. 또한 평소 리셉션에 참석하던 음침한 표정의 만주족 귀족들 대신 참석한, 최신 베를린 스타일 정장을 갖춘 독일 대사관과 베이징 위원회 인사들은 역시 자리에 참석한 화합회 의원들과 몇몇 직예 장성들에게 엄청난 선물들을 주었습니다."
 qielepcollapse.20.a:0 "누가 우리를 좋아해 주긴 하네..."
 
 qielepcollapse.21.t:0 "Widespread Rioting Breaks Out"
@@ -2148,6 +2148,37 @@ qieflavor.100.a:0 "Interesting"
 
 
 ### Cosmetic Tags ###
+QIE_unified_totalist:0 "중화민국"
+QIE_unified_totalist_ADJ:0 "중국"
+QIE_unified_totalist_DEF:0 "중화민국"
+QIE_unified_syndicalist:0 "중화민국"
+QIE_unified_syndicalist_ADJ:0 "중국"
+QIE_unified_syndicalist_DEF:0 "중화민국"
+QIE_unified_radical_socialist:0 "중화민국"
+QIE_unified_radical_socialist_ADJ:0 "중국"
+QIE_unified_radical_socialist_DEF:0 "중화민국"
+QIE_unified_social_democrat:0 "청 제국"
+QIE_unified_social_democrat_ADJ:0 "청나라"
+QIE_unified_social_democrat_DEF:0 "청 제국"
+QIE_unified_social_liberal:0 "청 제국"
+QIE_unified_social_liberal_ADJ:0 "청나라"
+QIE_unified_social_liberal_DEF:0 "청 제국"
+QIE_unified_market_liberal:0 "청 제국"
+QIE_unified_market_liberal_ADJ:0 "청나라"
+QIE_unified_market_liberal_DEF:0 "청 제국"
+QIE_unified_social_conservative:0 "청 제국"
+QIE_unified_social_conservative_ADJ:0 "청나라"
+QIE_unified_social_conservative_DEF:0 "청 제국"
+QIE_unified_authoritarian_democrat:0 "청 제국"
+QIE_unified_authoritarian_democrat_ADJ:0 "청나라"
+QIE_unified_authoritarian_democrat_DEF:0 "청 제국"
+QIE_unified_paternal_autocrat:0 "청 제국"
+QIE_unified_paternal_autocrat_ADJ:0 "청나라"
+QIE_unified_paternal_autocrat_DEF:0 "청 제국"
+QIE_unified_national_populist:0 "청 제국"
+QIE_unified_national_populist_ADJ:0 "청나라"
+QIE_unified_national_populist_DEF:0 "청 제국"
+
 QIE_ZHL_totalist:0 "직예군벌"
 QIE_ZHL_totalist_ADJ:0 "직예군벌"
 QIE_ZHL_totalist_DEF:0 "직예군벌"

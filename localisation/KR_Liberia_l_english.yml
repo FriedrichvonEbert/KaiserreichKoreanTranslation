@@ -67,6 +67,11 @@ LIB_freemason_purge_2:0 "사회주의자 추방"
 LIB_freemason_purge_3:0 "공화주의자 추방"
 LIB_1939_elections_happened:0 "1939년 선거가 열렸습니다\n"
 LIB_receive_militias:0 "민병대 3개 사단을 받습니다\n"
+LIB_internal_decisions:0 "Imported War Industry"
+LIB_obtain_dockyard_access:0 "Pay for American Dockyard Use"
+LIB_assemble_air_squadron:0 "Import American Fighter Planes"
+LIB_request_infantry_equipment:0 "Import American Rifles"
+LIB_pull_strings_with_industrialists:0 "Entice American Heavy Industry"
 
 ### Events ###
 lib.1.t:0 "라이베리아 소개"
