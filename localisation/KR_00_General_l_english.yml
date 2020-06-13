@@ -42,7 +42,7 @@ kr_nominal_puppet:0 "명목상 괴뢰국"
 kr_special_autonomous_dependency:0 "자치 속국"
 kr_initial_wif_puppet:0 "연합된 식민지"
 kr_soclib_wif_puppet:0 "연합된 자치령"
-kr_ottoman_emirate:0 "오스만 에미레이트" #Ottoman Emirate
+kr_ottoman_emirate:0 "오스만 토후국" #Ottoman Emirate
 
 ### Autonomy Tooltips ###
 can_lower_autonomy_level:0 "자치도를 낮출 수 있습니다\n"
@@ -109,7 +109,7 @@ kr.political.102.a:0 "[Root.GetNameDef] 만세!"
 
 kr.political.103.t:0 "[From.GetAdjective]의 더 많은 자치권"
 kr.political.103.d:0 "[From.GetNameDefCap](은)는 [Root.GetAdjective] 정부의 통제 하에 있지만, 그들의 힘이 다시 강해지며 그 통제권은 확실히 줄어들기 시작하고 있습니다. [From.GetAdjective]의 힘은 쉽게 억제될 수 있는 것이 아니며, 이미 그들의 지도자들은 그들 자신의 문제에 대한 더 많은 통제권을 요구하고 있고 그 효과는 온 나라에서 느낄 수 있습니다."
-kr.political.103.a:0 "조심스럽게 지켜볼 필요가 있다"
+kr.political.103.a:0 "조심스럽게 지켜볼 필요가 있다."
 
 kr.political.106.t:0 "독립을 위한 투쟁"
 kr.political.106.d.tfv:0 "현재, [Root.GetAdjective]정부에 대한 [overlord_name.GetAdjective]의 통제력이 약화되는 중 입니다. 우리는 그들이 통제하기엔 너무나 강력합니다. [Root.GetAdjective]의 사람들 사이에선 [Root.GetNameDef](이)가 자유로워져야 한다는 요구가 빗발치고 있는데, 조만간 우리의 시간이 올 것입니다."
@@ -173,7 +173,7 @@ mtg_exile_government.5.desc:0 "[From.GetAdjective] 정부는 그들의 해군이
 mtg_exile_government.5.a:0 "그들은 동맹의 이익보다 스스로의 자존심을 더 우선시하는군."
 mtg_generic.1.title:0 "[From.GetName]에서 정부 변화를 강요하다"
 mtg_generic.1.desc:0 "[From.GetNameDef](은)는 우리 현 정부에 대한 낮은 지지율을 근거로 들며, 정부 개혁을 요구했습니다."
-mtg_generic.1.a:0 "받아들일 수 밖에 없다"
+mtg_generic.1.a:0 "받아들일 수 밖에 없군."
 mtg_exile_leader_added.1.t:1 "[exile_nation.GetAdjective]의 망명 지도자가 복무를 원하다"
 mtg_exile_leader_added.1.desc:1 "적에게 점령당한 영토와 여러 중립국들을 통한 길고 위험한 여정 끝에, [From.GetName]의 고위 군 장교 중 한 명이 드디어 수도에 도착했습니다. 짧은 회복 시간 후, [From.GetSheHe](은)는 우리의 공동투쟁에서의 [From.GetHerHis]의 군복무를 원합니다.\n\n소문에 의하면 [From.GetSheHe](은)는 "사람을 죽이고 물품을 파괴하는 업무로 복귀"하는 데에 꽤나 열정적이라고 합니다."
 mtg_exile_leader_added.1.a:1 "당신의 싸움은 아직 끝나지 않았습니다."
@@ -467,43 +467,43 @@ cat_torpedo:0 "어뢰 기술"
 
 ### Hidden Techs ###
 camel_corps_tech:0 "낙타 부대"
-camel_corps_tech_effect:0 "Enables §HCamel Corps§!\n§HCavalry\n    Desert§!\n      Attack: §G+15%§!\n      Defence: §G+5%§!\n      Movement: §G+3%§!\n\n"
+camel_corps_tech_effect:0 "§H낙타 부대§! 활성화\n§H기병\n    사막§!\n      공격: §G+15%§!\n      방어: §G+5%§!\n      이동: §G+3%§!\n\n"
 
 tech_ski_infantry:0 "스키 보병"
-tech_ski_infantry_effect:0 "Enables §HSki Infantry§!\n§HInfantry\n    Hills§!\n      Attack: §G+5%§!\n      Defence: §G+5%§!\n      Movement: §G+5%§!\n    §HMountain§!\n      Attack: §G+5%§!\n      Defence: §G+5%§!\n      Movement: §G+10%§!\n"
+tech_ski_infantry_effect:0 "§H스키 보병§! 활성화\n§H보병\n    언덕§!\n      공격: §G+5%§!\n      방어: §G+5%§!\n      이동: §G+5%§!\n    §H산악§!\n      공격: §G+5%§!\n      방어: §G+5%§!\n      이동: §G+10%§!\n"
 
 tech_marine_bonus:0 "개선된 해병대"
-tech_marine_bonus_effect:0 "Enables §HImproved Marines\nMarines§!\n      Soft Attack: §G+5%§!\n      Hard Attack: §G+5%§!"
+tech_marine_bonus_effect:0 "§H개선된 해병대\n해병§! 활성화\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!"
 
 tech_marine_bonus_2:0 "숙련된 해병대"
-tech_marine_bonus_2_effect:0 "Enables §HImproved Marines\nMarines§!\n      Soft Attack: §G+5%§!\n      Hard Attack: §G+5%§!"
+tech_marine_bonus_2_effect:0 "§H숙련된 해병대\n해병§! 활성화\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!"
 
 jungle_warfare:0 "정글 전투 훈련"
-jungle_warfare_effect:0 "Enables §HJungle Combat Training§!\n§HLeg Infantry\n    Jungle§!\n      Attack: §G+10%§!\n      Defence: §G+5%§!\n      Movement: §G+5%§!"
+jungle_warfare_effect:0 "§H정글 전투 훈련§! 활성화\n§H일반 보병\n    정글§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!"
 
 improved_field_hospitals:0 "개선된 야전 병원"
-improved_field_hospitals_effect:0 "Enables §HImproved Field Hospitals\nField Hospital§!\n      Trickleback: §G+20%§!\n      Exp. Loss: §G-10%§!"
+improved_field_hospitals_effect:0 "§H개선된 야전 병원\n야전 병원§! 활성화\n      인력 회수: §G+20%§!\n      경험치 손실: §G-10%§!"
 
-expanded_engineer_corps_tech:0 "확대된 공병 부대"
-expanded_engineer_corps_tech_effect:0 "Enables §HExpanded Engineer Corps\nEngineer Company§!\n      Entrenchment: §G+2§!\n    §HFort§!\n      Attack: §G+10%§!\n      Defence: §G+10%§!\n"
+expanded_engineer_corps_tech:0 "확장된 공병 부대"
+expanded_engineer_corps_tech_effect:0 "§H확장된 공병 부대\n공병 중대§! 활성화\n      참호: §G+2§!\n    §H요새§!\n      공격: §G+10%§!\n      방어: §G+10%§!\n"
 
 mountain_training_tech:0 "산악 훈련"
-mountain_training_tech_effect:0 "Enables §HMountain Training\nLeg Infantry§!\n    §HMountain§!\n      Attack: §G+5%§!\n      Defence: §G+5%§!\n      Movement: §G+10%§!\n"
+mountain_training_tech_effect:0 "§H산악 훈련§! 활성화\n§H일반 보병\n    산악§!\n      공격: §G+5%§!\n      방어: §G+5%§!\n      이동: §G+10%§!\n"
 
-improved_recon_units_tech:0 "향상된 정찰 유닛"
-improved_recon_units_tech_effect:0 "Enables §HImproved Recon Units\nRecon Company§!\n      Breakthrough: §G+1§!\n      Reconnaissance: §G+1§!\n"
+improved_recon_units_tech:0 "향상된 정찰 부대"
+improved_recon_units_tech_effect:0 "§H향상된 정찰 부대\n정찰 중대§! 활성화\n      돌파: §G+1§!\n      정찰: §G+1§!\n"
 
 asymmetrical_warfare:0 "비대칭 전투 훈련"
-asymmetrical_warfare_effect:0 "Enables §HAsymmetrical Warfare Training§!\n§HLeg Infantry\n    Urban§!\n      Attack: §G+10%§!\n      Defence: §G+5%§!\n      Movement: §G+5%§!\n\n"
+asymmetrical_warfare_effect:0 "§H비대칭 전투 훈련§! 활성화\n§H일반 보병\n    도심§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!\n\n"
 
 desert_warfare:0 "사막 전투 훈련"
-desert_warfare_effect:0 "Enables §HDesert Combat Training§!\n§HLeg Infantry\n    Deserts§!\n      Attack: §G+10%§!\n      Defence: §G+5%§!\n      Movement: §G+5%§!\n\n"
+desert_warfare_effect:0 "§H사막 전투 훈련§! 활성화\n§H일반 보병\n    사막§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!\n\n"
 
 anti_fortification_artillery:0 "대요새 무기"
-anti_fortification_artillery_effect:0 "Enables §HAnti-Fortification Artillery§!\n§HSupport Artillery§!\n    Fort: Attack: §G+20%§!\n§HArtillery§!\n    Fort: Attack: §G+20%§!\n§HMotorised Artillery§!\n    Fort: Attack: §G+20%§!\n"
+anti_fortification_artillery_effect:0 "§H대요새 무기§! 활성화\n§H포병 지원§!\n    요새: 공격: §G+20%§!\n§H포병§!\n    요새: 공격: §G+20%§!\n§H차량화포병§!\n    요새: 공격: §G+20%§!\n"
 
-tech_integrated_specialists:0 "통합 특수 부대"
-tech_integrated_specialists_effect:0 "Enables §HIntegrated Special Forces§!\nSpecial Forces Cap: §G+5%§!\n§HSpecial Forces§!\n      Soft Attack: §G+5%§!\n      Hard Attack: §G+5%§!"
+tech_integrated_specialists:0 "통합 특수부대"
+tech_integrated_specialists_effect:0 "§H통합 특수부대§! 활성화\n특수부대 허용량: §G+5%§!\n§H특수부대§!\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!"
 
 ### Army Command Traits ###
 
