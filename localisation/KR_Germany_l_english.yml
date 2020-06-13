@@ -36,13 +36,13 @@ GER_address_reichstag:0 "제국의회 연설"
 GER_address_reichstag_desc:0 "우리는 검은 월요일 위기를 해결하기 위한 예비 수순들을 시행하고 있지만, 상황은 여전히 심각합니다. 그의 불안정한 건강 상태에도 불과하고, 카이저 빌헬름 2세께서는 제국의회에게 그들의 첫 번째 우선 순위는 가능한 빨리 경제를 바로잡는 것이라고 말씀하셨습니다. 어떤 제안이 받아들여질지는 아직 알 수 없습니다..."
 
 german_eco_finished:0 "경기 회복"
-german_eco_finished_desc:0 "Our economy has received fresh incentives and again liquidity has begun to flow. This boom will greatly help us recovery from the huge losses we suffered from Black Monday."
+german_eco_finished_desc:0 "우리 경제에 활력이 돌고 있고 더욱 유동적인 경제가 되고 있습니다. 이는 검은 월요일로 인해 우리가 입은 엄청난 손실로부터 회복하는 데 큰 도움이 될 것입니다."
 
-GER_Sie_Contracts:0 "Siemens Favouritism"
-GER_Sie_Contracts_desc:0 "Our economy has received fresh incentives and again liquidity has begun to flow with Siemens assisting us greatly. We will return this kindess in kind with allowing them first preference in industry contracts."
+GER_Sie_Contracts:0 "지멘스에 보상"
+GER_Sie_Contracts_desc:0 "지멘스의 도움으로 우리 경제에 활력이 돌고 있고 더욱 유동적인 경제가 되고 있습니다. 우리는 산업 계약에서 최우선권을 줌으로써 그들의 호의에 보답할 것입니다."
 
-GER_invest_arms_industry:0 "Industrial Military Complex"
-GER_invest_arms_industry_desc:0 "With further investment in our arms industry, we have secured the means to produce the weapons we will need for the challenges Germany will face."
+GER_invest_arms_industry:0 "군산복합체"
+GER_invest_arms_industry_desc:0 "우리 무기산업에 대한 추가 투자로 독일이 직면하게 될 도전에 대항할 무기를 생산할 수 있는 수단을 확보하게 되었습니다."
 
 GER_bunkrupt_fact:0 "주요 기업체 파산 선언"
 
@@ -130,7 +130,7 @@ GER_mil_support_idea:0 "독일의 군사 지원"
 GER_mil_support_idea_desc:0 "독일 제국과의 강력한 조약에 따라 독일은 전폭적인 군사 지원을 약속했습니다."
 
 GER_eco_support_idea:0 "독일의 경제 지원"
-GER_eco_support_idea_desc:0 "Under the terms of our treaty with Germany we managed to agree on an economic trade zone with them. This should help industrialise our nation."
+GER_eco_support_idea_desc:0 "독일과의 조약에 따라 우리는 그들과 경제 협력에 들어가게 되었습니다. 이는 우리나라를 산업화하는 데 도움이 될 것입니다."
 
 GER_two_front_idea:0 "양면전쟁"
 GER_two-front_idea_desc:0 "우리는 프랑스와 러시아 양국과 전쟁 중입니다. 이는 우리가 무슨 일이 있어도 피하려고 했던 악몽 같은 상황입니다. 그러나 우리는 한 번 승리한 것처럼, 또 다시 승리할 것입니다!"
@@ -156,8 +156,8 @@ GER_ZEN1_desc:0 "낭비가 없으면 부족이 없습니다. 우리가 할 수 �
 GER_ZEN22:0 "산업 통폐합"
 GER_ZEN22_desc:0 "독일의 산업이 최소한의 개입만으로 자리를 잡을 수 있도록 한 브뢰닝의 계획에 따라, 효율성과 생산성이 증가한 것 같아 보입니다."
 
-GER_grain_and_steel_idea:0 "Grain and Steel Programme"
-GER_grain_and_steel_idea_desc:0 "Focusing on local initiatives opposed to foreign, this programme hopes to achieve a small level of autarky within the Kaiserreich and less relience on foreign goods"
+GER_grain_and_steel_idea:0 "곡물 및 강철 프로그램"
+GER_grain_and_steel_idea_desc:0 "이 계획은 외국 상품을 배격하고 지역 생산품에 집중함으로써 카이저라이히의 외국 경제 의존을 낮추고 우리나라를 경제 자립 국가로 만들 것입니다."
 
 
 ### Research Groups ###
@@ -241,11 +241,11 @@ GER_colonial_resources_distribution_partly_tt:0 "§R5§!개의 민간공장이 �
 GER_agricultural_mitteleuropa_help_tt:0 "§R나라가 결딴나고 있습니다.§!\n"
 GER_csavol_tt:0 "2개의 자원병 사단이 디트로이트에 도착할 것입니다."
 GER_received_equipment_10000:0 "우리는 10000개의 보병 장비를 받을 것입니다."
-GER_OTT_victory:0 "The Axis has capitulated."
+GER_OTT_victory:0 "카이로 협약이 항복했습니다."
 GER_cannot_join_until_WK:0 "§R[From.GetName]은 세계대전이 일어나기 전에는 [ROOT.GetFactionName]에 참가할 수 없습니다§!"
 
-GER_has_black_monday:0 "Has national spirit §HBlack Monday Effects§!"
-GER_has_black_monday_NOT:0 "Does not have national spirit §HBlack Monday Effects§!"
+GER_has_black_monday:0 "§H검은 월요일의 영향§! 국민정신이 존재합니다"
+GER_has_black_monday_NOT:0 "§H검은 월요일의 영향§! 국민정신이 존재하지 않습니다"
 
 ### Opinion Modifiers ###
 sri_lanka:0 "제국주의 괴짜"
@@ -317,7 +317,7 @@ french_occupation_decisions_desc:0 "[FRA.GetNameDef] 영토 내에서 저항이 
 GER_erode_cof_legitimacy:0 "코뮌 정통성을 잠식"
 GER_erode_cof_legitimacy_desc:0 "우리의 노력은 프랑스 국민들에게 코뮌 정부가 진정한 압제자일 뿐만 아니라 항상 불법적이었다는 것을 확신시키는 것이어야 합니다. 생디칼리슴에 대항해 싸우겠다는 그들의 의지가 무너지면 우리 점령에 대한 반대는 거의 없을 것입니다."
 GER_invite_nfa_to_france:0 "[NFA.GetNameDef]를 프랑스 본토로 불러들이자"
-GER_invite_nfa_to_france_desc:0 "[NFA.GetNameDefCap] has far more ability than we do to erode [FRA.GetNameDef]'s legitimacy... but only if they hold enough territory in continental France to claim some kind of victory. Currently that isn't the case. In order to expedite the progress of defeating the French resistance, perhaps it's worth considering whether we could turn over some of our occupied territory to them in the south? At the very least, it would establish some gratitude on their part."
+GER_invite_nfa_to_france_desc:0 "[NFA.GetNameDefCap](은)는 우리보다 [FRA.GetNameDef]의 정통성을 갖고 있습니다... 그러나 그들이 승리를 선언하려면 그들은 프랑스 본토를 수복해야 할 것입니다. 코뮌의 저항을 더 빨리 분쇄하기 위해, 프랑스 남부에서 우리가 점령한 영토를 그들에게 주는 것도 방법 중 하나일 것입니다. 또한 그들은 우리에게 약간의 감사를 표할 것입니다."
 
 GER_black_monday_category:0 "검은 월요일 대처"
 
@@ -482,11 +482,11 @@ GER_civ_industry_2_desc:0 "민간 산업화 계획(Zivilindustrialisierungsplan)
 GER_civ_industry_3:0 "ZIP III"
 GER_civ_industry_3_desc:0 "우리 민간 산업은 다시 한번 강력한 기반을 마련했지만, 아직 호황에 이르지는 못 했기에 몇가지 조치를 더 취해야 합니다. 식민지로부터 자원이 꾸준히 들어오고 생산량이 폭발적으로 증가하면서 머지않아 독일의 산업은 다시 한번 세계를 상회할 것입니다."
 
-GER_further_siemens_contracts:0 "Siemens Favouritism"
-GER_further_siemens_contracts_desc:0 "With our shift recovery owned much to the efforts of Siemens, the government has seen to it that they are further "favoured" in regarding any new construction contracts."
+GER_further_siemens_contracts:0 "지멘스 특혜"
+GER_further_siemens_contracts_desc:0 "지멘스의 노력 덕에 우리 경제의 빠른 회복이 가능했던 만큼, 정부는 새로운 건설 계약에 있어서 그들에게 "특혜'를 주기로 결정했습니다."
 
-GER_arms_industry:0 "Military Industrial Complex"
-GER_arms_industry_desc:0 "With unrest in the West and the bear awakening in the East, Germany for then ever needs to be ready for the challenges that are ahead of it. With investing in our local arms producers, we will ensure the German soldier is well equipped for the challenges that lay ahead"
+GER_arms_industry:0 "군산복합체"
+GER_arms_industry_desc:0 "서쪽이 불안하고 동쪽의 곰이 깨어나고 있는 상황에서 독일은 당분간 앞으로 닥칠 도전에 대비할 필요가 있습니다. 우리의 지역 무기 생산자들에게 투자함으로써, 우리는 독일군이 앞으로 닥칠 도전에 잘 대비할 수 있도록 보장할 것입니다."
 
 GER_industry_finished:0 "경제 부흥"
 GER_industry_finished_desc:0 "검은 월요일 이후 경제 정책이 성공을 거두면서, 민간 투자자들이 활발하게 활동하고 있습니다. 경제는 안정적일 뿐만 아니라 폭발적인 호황을 누리고 있습니다. 이는 오래 지속되지는 않겠지만, 잠시 다른 문제에 집중할 수 있을 것입니다."
@@ -542,8 +542,8 @@ GER_groener1_desc:0 "노련한 정치인 빌헬름 그뢰너는 최근 'Black ze
 GER_groener2:0 "제국노동봉사단"
 GER_groener2_desc:0 "군에 몸담고 있는 그뢰너의 친구들과 연줄이 현재 급진적인 혁신을 제안했습니다. 위기가 계속되는 동안, 신병들은 반년간의 군 복무를 정부 지도 하에서 노동하는 것으로 대체할 수 있게 됩니다. 신병 수는 줄겠지만, 이는 우리 경제에 필요한 상당한 인력을 공급할 것입니다."
 
-GER_groener3:0 "Gehaltskürzung"
-GER_groener3_desc:0 "Cutting the enormous salaries of those "Officials" who can more then afford to do so, hasn't been met with open arms. Many have called Groener a Syndicalist in sheep clothing, but quickly retracted their statements on threat of release of their "Expenses" during the crisis. Though it would appear the Groener won't be invited to any social gatherings amongst the aristocracy for quite some time."
+GER_groener3:0 "임금 삭감"
+GER_groener3_desc:0 "여유있는 '공직자'들의 임금을 삭감하는 조치는 많은 이들의 반발을 불러일으켰습니다. 많은 사람들은 그뢰너를 양복을 입은 생디칼리스트라고 욕했지만, 그뢰너가 그들의 임금을 삭감할 것이라고 위협하자 재빨리 그 발언을 철회했습니다. 그러나 그뢰너 가족은 귀족들 사이의 어떤 사교 모임에도 꽤 오랫동안 초대받지 못할 것으로 보입니다."
 
 GER_schacht1:0 "융커 재산 긴급구제"
 GER_schacht1_desc:0 "제국은행 총재 얄마르 샤흐트는 자신이 세운 경제 정책을 추진하기 위해 허가를 내줄 것을 요구하고 있습니다. 이는 '샤흐트 계획'이라고 불리는데, 이 계획에 따르면 우리는 더이상 혼란을 일으키고 싶지 않다 하더라도 고채무 융커 재산에 대해 긴급 구를 실시할 필요가 있습니다."
@@ -551,8 +551,8 @@ GER_schacht1_desc:0 "제국은행 총재 얄마르 샤흐트는 자신이 세운
 GER_schacht2:0 "투자 계획"
 GER_schacht2_desc:0 "샤흐트 계획의 다음 단계는 소비재 분야와 상업 분야 모두에 대한 민간 투자를 장려하기 위한 대규모 프로그램입니다. 이는 성취하기 어렵겠지만, 생산자들이 시장을 다시 찾게 해야합니다. 이 일로 경제는 다시 돌아가기 시작할 것입니다."
 
-GER_schacht3:0 "Goldstandard"
-GER_schacht3_desc:0 "By dropping the strandard of gold within the Empire, will allow for productivity to grow due to further reliance on the Mark. Though many have argued against this, stating the effects of Black Monday are more short term then long term, Schacht reply is that short term effects are crippling the Empire and allowing for it's competition to get ahead."
+GER_schacht3:0 "금본위제"
+GER_schacht3_desc:0 "제국 내에서 금의 가치를 절하하면 마르크화 의존도가 높아질 것이며, 생산성 향상으로 이어질 것입니다. 많은 사람들이 검은 월요일의 영향은 단기적일 것이라 주장하면서 이에 반대하고 있지만, 샤흐트는 단기적인 영향이 제국을 무력화시키고 있으며 경쟁자들이 앞서나가고 있다고 반박했습니다."
 
 GER_zollverein:0 "미텔오이로파 개편"
 GER_zollverein_desc:0 "너무 오랫동안 미텔오이로파는 명목상으로만 존재해왔습니다. 이제 회원국들... 그리고 우리에게 실질적인 이익을 가져다 주기 위해 개혁을 시작할 때가 되었습니다. 처음 시행할 것은  통일된 관세입니다."
@@ -661,8 +661,8 @@ GER_grain_and_steel_desc:0 "곡물과 철강은 독일의 생명줄과도 같으
 GER_border_regions:0 "국경 지역 개발"
 GER_border_regions_desc:0 "국경 지역은 현재 기반 시설과 투자가 부족합니다. 우리는 두가지 모두를 바꿀 것입니다."
 
-GER_mitteleuropa_brigades:0 "Paktbrigaden"
-GER_mitteleuropa_brigades_desc:0 "In an effort to create a unified command structure under German control, the formation of Paktbrigaden have been decided with manpower drawn from Germany and all Reichspakt members."
+GER_mitteleuropa_brigades:0 "협정 여단"
+GER_mitteleuropa_brigades_desc:0 "독일의 통제하에 통일된 지휘구조를 만들기 위한 노력의 일환으로, 독일과 모든 라이히스팍트 구성국의 군인들로 구성되는 협정 여단이 형성되었습니다."
 
 GER_ostwall:0 "동부 방벽 확장"
 GER_ostwall_desc:0 "우리 동부 동맹국은 러시아 곰들의 침략에 극히 취약합니다. 우리는 우리 군대가 도착하기 전에 동맹들에게 전투의 기회를 주기 위해 동부 방벽을 확장해야 합니다."
@@ -954,7 +954,7 @@ gerdom.55.a:0 "우리는 그들을 도와야 한다!"
 gerdom.55.b:0 "우리는 준비가 되지 않았다."
 
 gerdom.56.t:0 "라인란트 총파업!"
-gerdom.56.d:0 "노동 전선에 대한 우리 정부의 행동에 분노한 노동자들은 라인란트에서 대규모 시위를 벌였습니다. These demonstrations are seriously undermining our military production and endangering the stability of our most important industrial region."
+gerdom.56.d:0 "노동 전선에 대한 우리 정부의 행동에 분노한 노동자들은 라인란트에서 대규모 시위를 벌였습니다. 이러한 시위들은 우리의 군사 생산을 심각하게 저해하고 가장 중요한 산업 지역의 안정을 위태롭게 하고 있습니다."
 gerdom.56.a:0 "파업을 처리하기 위해 군을 보내라!"
 gerdom.56.b:0 "노동자와 협상한다."
 
@@ -1359,7 +1359,7 @@ gerfor.49.d:0 "불운하게도 우리의 지원을 수용할 아일랜드의 의
 gerfor.49.a:0 "없는 것보다 낫지."
 
 gerfor.50.t:0 "[ENG.GetNameDef](와)과 휴전?"
-gerfor.50.d:0 "[ENG.GetAdjective]의 전쟁 의지가 떨어짐에 따라, [GER.GetNameDefCap]은 [ENG.GetNameDef]와 두번째 명예로운 평화 협상을 시작했습니다. 이는 그들과의 전쟁을 끝낼 기회입니다. 이 기회를 활용해야 할까요? 아니면 전투를 계속해야 할까요?"
+gerfor.50.d:0 "[ENG.GetAdjective]의 전쟁 의지가 떨어짐에 따라, [GER.GetNameDefCap](은)는 [ENG.GetNameDef](와)과 두번째 명예로운 평화 협상을 시작했습니다. 이는 그들과의 전쟁을 끝낼 기회입니다. 이 기회를 활용해야 할까요? 아니면 전투를 계속해야 할까요?"
 gerfor.50.a:0 "이 전쟁을 끝내자"
 gerfor.50.b:0 "아니다, 전쟁을 계속한다!"
 
@@ -1536,10 +1536,10 @@ gerfor.88.t:0 "루마니아 왕국이 석유를 제공하다."
 gerfor.88.d:0 "석유 수입 재개 요청을 보낸 이후, 그들은 동의했습니다."
 gerfor.88.a:0 "훌륭하군."
 
-gerfor.90.t:0 "루마니아는 석유의 통제를 잃다"
+gerfor.90.t:0 "루마니아가 석유의 통제권을 잃다"
 gerfor.90.d:0 "루마니아 왕국은 새로 서명 한 조약에 따라 우리의 민간인과 전쟁 경제를 건강하게 유지하기 위해 석유 수송을 보내 왔습니다. 그러나 그들은 최근에 석유 공급을 통제하지 못했습니다. 이미 정부와 기업들은 또 다른 석유 부족을 대비하고 있으며 증권 거래소는 당황한 브로커들로 가득차 있습니다."
 gerfor.90.a:0 "기름이 아니야! 그리고 루마니아에도 나는 ..."
-gerfor.90.b:0 "우리가 할 수있는 것은 없다."
+gerfor.90.b:0 "우리가 할수있는 것은 없다."
 
 gerfor.89.t:0 "루마니아가 우리의 요청을 거절하다"
 gerfor.89.d:0 "루마니아 왕국은 석유 수송을 재개하라는 제안을 받은 후 감히 우리를 모욕했습니다!"
@@ -1965,7 +1965,7 @@ gerfla.7.d:0 "전 재상인 게오르크 미하엘리스가 오늘 78세의 나�
 gerfla.7.a:0 "그는 평민에 앞잡이였지만, 그래도 결국은 재상이었다."
 
 gerfla.8.t:0 "폰 티르피츠 사망 10주기"
-gerfla.8.d:0 "오늘은 재상이자 제독이었던 알프레드 폰 티르피츠의 서거 10주년이 되는 날입니다. 8대 재상이자 독일 해군의 사령권으로서, 티르피츠는 카이저라이히를 루덴도르프의 독재에서 끌어내어 그가 사망할 때까지 20년간 지속된 황금 시대를 열었습니다. /n/n그가 사망한 후, 독일 조국당(Deutsche Vaterlandspartei, DVLP)은 새로운 지도자 알프레드 후겐베르그에 의해 현재는 융커의 당으로 변했으며 폰 파펜의 독일 보수당(Deutschkonservative Partei,DKP)에게 길을 비켜주었습니다. 제국인 티르피츠의 통치 하에서 번영을 누렸지만, 1917년에 맺어진 카이저의 부활절 약속을 이행하기를 계속 미루어 최근 몇년동안 정치적 긴장이 고조되었습니다./n/n그럼에도 불구하고 그의 명성은 엄청나며, 그의 추모일에는 제국 전역에서 존경을 표하는 군중들이 있었습니다."
+gerfla.8.d:0 "오늘은 재상이자 제독이었던 알프레드 폰 티르피츠의 서거 10주년이 되는 날입니다. 8대 재상이자 독일 해군의 사령관으로서, 티르피츠는 카이저라이히를 루덴도르프의 독재에서 끌어내어 그가 사망할 때까지 20년간 지속된 황금 시대를 열었습니다. /n/n그가 사망한 후, 독일 조국당(Deutsche Vaterlandspartei, DVLP)은 새로운 지도자 알프레드 후겐베르그에 의해 현재는 융커의 당으로 변했으며 폰 파펜의 독일 보수당(Deutschkonservative Partei,DKP)에게 길을 비켜주었습니다. 제국인 티르피츠의 통치 하에서 번영을 누렸지만, 1917년에 맺어진 카이저의 부활절 약속을 이행하기를 계속 미루어 최근 몇년동안 정치적 긴장이 고조되었습니다./n/n그럼에도 불구하고 그의 명성은 엄청나며, 그의 추모일에는 제국 전역에서 존경을 표하는 군중들이 있었습니다."
 gerfla.8.a:0 "그리고 그는 얼마나 위대했던가!"
 
 gerfla.9.t:0 "우리의 투쟁"
@@ -1993,30 +1993,30 @@ gerfla.12.a:0 "완벽하군"
 
 ### Mitteleuropa Mechanics ###
 
-GER_mitteleuropa:0 "Mitteleuropa"
+GER_mitteleuropa:0 "미텔오이로파"
 
 KR_mitteleuropa_tooltip:0 "§H[GetMitteleuropaName]§!\n[GetMitteleuropaEffects]"
 KR_mitteleuropa_tooltip_desc:0 "§L[GetMitteleuropaDesc]§!"
 
-KR_mitteleuropa_name_GER:0 "Leader of Mitteleuropa"
-KR_mitteleuropa_name:0 "Member of Mitteleuropa"
+KR_mitteleuropa_name_GER:0 "미텔오이로파 지도국"
+KR_mitteleuropa_name:0 "미텔오이로파 가맹국"
 
-KR_mitteleuropa_desc_GER:0 "Officially titled the Central European Economic Union, Mitteleuropa is a customs and economic union unifying Germany and its sphere of influence, established after the Weltkrieg. As the leading member state of Mitteleuropa and the most dominant power in the union, we reap the lion's share of the benefits."
-KR_mitteleuropa_desc:0 "Officially titled the Central European Economic Union, Mitteleuropa is a customs and economic union unifying Germany and its sphere of influence, established after the Weltkrieg. As a member state of Mitteleuropa, we find the impact of this agreement mixed - while the economic connections with Germany are beneficial, the agreement is heavily weighted in German favor."
+KR_mitteleuropa_desc_GER:0 "공식적으로 중앙유럽경제연합(Central European Economic Union)이라고 명명된 미텔오이로파는 독일과 독일의 영향권을 통합하는 경제 연합으로 세계대전 직후 설립되었습니다. 미텔오이로파의 지도국이자 연합에서 가장 지배적인 세력으로서, 우리는 가장 큰 몫의 이익을 차지합니다."
+KR_mitteleuropa_desc:0 "공식적으로 중앙유럽경제연합(Central European Economic Union)이라고 명명된 미텔오이로파는 독일과 독일의 영향권을 통합하는 경제 연합으로 세계대전 직후 설립되었습니다. 미텔오이로파의 가맹국으로서, 우리와 독일과의 경제적 연계는 이로운 영향을 주는 반면, 이 협정은 독일의 이익에 초점이 맞춰져 있습니다."
 
 KR_mitteleuropa_tooltip_none:0 ""
-KR_mitteleuropa_tooltip_common_currency:0 "Daily Political Power Gain: [?-0.02|2=+]\nFactory Output: [?0.03|+=%]"
-KR_mitteleuropa_tooltip_europarat:0 "Daily Political Power Gain: [?0.03|2=+]\nFactory Output: [?0.03|+=%]"
-KR_mitteleuropa_tooltip_EER:0 "Daily Political Power Gain: [?0.03|2=+]\nResearch Speed: [?0.03|+=%]\nFactory Output: [?0.03|+=%]"
-KR_mitteleuropa_tooltip_europakommission:0 "Daily Political Power Gain: [?-0.03|2=+]\nFactory Output: [?0.05|+=%]"
-KR_mitteleuropa_tooltip_paktbrigaden:0 "Daily Political Power Gain: [?-0.03|2=+]\nArmy Experience Gain Daily: [?0.05|+=2]\nDivision Organisation: [?0.08|+=1%]\nRecruitable Population Factor: [?-0.08|+=%2]\nFactory Output: [?0.05|+=%]"
+KR_mitteleuropa_tooltip_common_currency:0 "일일 정치력 획득: [?-0.02|2=+]\n공장 생산량: [?0.03|+=%]"
+KR_mitteleuropa_tooltip_europarat:0 "일일 정치력 획득: [?0.03|2=+]\n공장 생산량: [?0.03|+=%]"
+KR_mitteleuropa_tooltip_EER:0 "일일 정치력 획득: [?0.03|2=+]\n연구 속도: [?0.03|+=%]\n공장 생산량: [?0.03|+=%]"
+KR_mitteleuropa_tooltip_europakommission:0 "일일 정치력 획득: [?-0.03|2=+]\n공장 생산량: [?0.05|+=%]"
+KR_mitteleuropa_tooltip_paktbrigaden:0 "일일 정치력 획득: [?-0.03|2=+]\n일일 육군 경험치 획득: [?0.05|+=2]\n사단 조직력: [?0.08|+=1%]\n징병 가능 인구: [?-0.08|+=%2]\n공장 생산량: [?0.05|+=%]"
 
-KR_mitteleuropa_tooltip_europakommission_GER:0 "Daily Political Power Gain: [?0.05|2=+]\nFactory Output: [?0.05|+=%]"
-KR_mitteleuropa_tooltip_paktbrigaden_GER:0 "Daily Political Power Gain: [?0.05|2=+]\nRecruitable Population: [?0.02|%=H]\nFactory Output: [?0.05|+=%]"
+KR_mitteleuropa_tooltip_europakommission_GER:0 "일일 정치력 획득: [?0.05|2=+]\n공장 생산량: [?0.05|+=%]"
+KR_mitteleuropa_tooltip_paktbrigaden_GER:0 "일일 정치력 획득: [?0.05|2=+]\n징병 가능 인구: [?0.02|%=H]\n공장 생산량: [?0.05|+=%]"
 
-GER_add_to_mitteleuropa:0 "§H[THIS.GetNameDefCap]§! joins §HMitteleuropa§!."
-GER_add_to_mitteleuropa_effects:0 "\n\nEffects:"
-GER_remove_from_mitteleuropa:0 "Remove all §HMitteleuropa§! effects."
+GER_add_to_mitteleuropa:0 "§H[THIS.GetNameDefCap]§!(이)가 §H미텔오이로파§!에 가입했습니다."
+GER_add_to_mitteleuropa_effects:0 "\n\n효과:"
+GER_remove_from_mitteleuropa:0 "모든 §H미텔오이로파§!의 효과를 제거합니다."
 
 germit.1.t:0 "독일의 제안"
 germit.1.d.independent:0 "In light of the consequences of Black Monday, the German government has come up with a new proposal to rejuvenate the continental economy. In order to meaningfully increase and simplify commerce and trade across the Reichspakt, they propose that the German currency, the Mark, should become the accepted currency in all Mitteleuropa, renamed formally to the 'Europamark'. This proposal is modelled somewhat after the Zollverein agreements between German states in the 19th century, which, among other things, established a standardized system of currency exchange pegged to the Prussian mark - although its reach and ambition is far greater.\n\nIn many of Germany's 'subject partner' states, the currencies are tied to the Mark already, so the actual impact would be relatively minimal. How should we respond to this proposal?"
@@ -2032,7 +2032,7 @@ germit.3.t:0 "[From.GetNameDefCap]의 오이로파마르크화 사용 거부"
 germit.3.d:0 "[From.GetNameDefCap] 모든 라이히스팍트에 대해 단일 통화에 대한 우리의 제안을 거부했으며 마르크와 연결되어 있음에도 불구하고 계속해서 자신의 통화를 사용할 것이라고 공개적으로 언급했습니다."
 germit.3.a:0 "Scheiße(제기랄)!"
 
-germit.4.t:0 "Leaving Mitteleuropa"
+germit.4.t:0 "미텔오이로파 탈퇴"
 germit.4.d.GER_is_dead:0 "As a result of our membership of Mitteleuropa, we became incredibly integrated into the bloc, taking on a number of obligations while also receiving some benefits such as in trade and mutual defence. These agreements no longer stand. Berlin has fallen, and so the Mitteleuropa union no longer constrains us by any measure."
 germit.4.d.socialist:0 "As a result of our membership of Mitteleuropa, we became incredibly integrated into the bloc, taking on a number of obligations while also receiving some benefits such as in trade and mutual defence. These agreements no longer stand. Our people have risen and established a socialist regime, leaving them null and void."
 germit.4.d.war_with_GER:0 "As a result of our membership of Mitteleuropa, we became incredibly integrated into the bloc, taking on a number of obligations while also receiving some benefits such as in trade and mutual defence. These agreements no longer stand. As we find ourselves at war with Germany, they have been severed with prejudice."
@@ -2041,48 +2041,48 @@ germit.4.d.left_mitteleuropa:0 "As a result of our membership of Mitteleuropa, w
 germit.4.d.kicked_out:0 "As a result of our membership of Mitteleuropa, we became incredibly integrated into the bloc, taking on a number of obligations while also receiving some benefits such as in trade and mutual defence. These agreements no longer stand. Having angered the government in Berlin, we have had them severed by the Kaiser's accord."
 germit.4.a:0 "Why did we even sign up to half of these?"
 
-germit.5.t:0 "[FROM.GetNameDefCap] Leaves Mitteleuropa!"
+germit.5.t:0 "[FROM.GetNameDefCap](이)가 미텔오이로파를 탈퇴했다!"
 germit.5.d.socialist:0 "[FROM.GetNameDefCap] has severed the last of its ties with Mitteleuropa today - the left wing revolution in their country has pushed them to break with us and our sphere of influence. Any designs we might have had towards their country have to be abandoned for the time being."
 germit.5.d.allied_with_rival:0 "[FROM.GetNameDefCap] has severed the last of its ties with Mitteleuropa today - their government has chosen to leave our sphere of influence and turn towards one of our rivals. Any designs we might have had towards their country have to be abandoned for the time being."
 germit.5.d.left_mitteleuropa:0 "[FROM.GetNameDefCap] has severed the last of its ties with Mitteleuropa today - their government has chosen to leave our sphere of influence, citing the exploitative nature of the customs union. Any designs we might have had towards their country have to be abandoned for the time being."
-germit.5.a:0 "Traitors!"
+germit.5.a:0 "반역자들!"
 
-germit.6.t:0 "Join the Mitteleuropa?"
+germit.6.t:0 "미텔오이로파 가입?"
 germit.6.d.independent:0 "Now that we have chosen to align with the German Empire, an opportunity has risen to join their economic pact, the Central European Economic Union, shortened to Mitteleuropa. Though this pact is dominated by Germany and its interests and forces several obligations on its member states, it also provides several benefits - easier trade with Germany and mutual defence in particular.\n\nShould we offer to join the Mitteleuropa sphere and accept these obligations?"
 germit.6.d.subject:0 "Now that we have chosen to align with the German Empire, an opportunity has risen to join their economic pact, the Central European Economic Union, shortened to Mitteleuropa. Though this pact is dominated by Germany and its interests and forces several obligations on its member states, it also provides several benefits - easier trade with Germany and mutual defence in particular.\n\nOur overlord has chosen to accept these obligations, and we are required to follow."
 germit.6.a:0 "Just part of the deal I suppose."
 germit.6.b:0 "Why would we give up our sovereignty?"
 
-germit.7.t:0 "[From.GetNameDefCap] Joins Mitteleuropa"
+germit.7.t:0 "[From.GetNameDefCap]의 미텔오이로파 가입"
 germit.7.d:0 "A delegation has arrived from [From.GetNameDef], offering to join the Mitteleuropa union as its newest member state. We have, naturally, agreed - this new trade partner will make a fine addition to our collection."
-germit.7.a:0 "Wonderful!"
+germit.7.a:0 "환상적이군!"
 
-germit.8.t:0 "[From.GetNameDefCap] Will Not Join Mitteleuropa"
+germit.8.t:0 "[From.GetNameDefCap](이)가 미텔오이로파 가입을 거절하다"
 germit.8.d:0 "A delegation has arrived from [From.GetNameDef], informing us that they will bow out of the opportunity to join the Mitteleuropa economic union, and will maintain their economic sovereignty despite their good relations with us."
-germit.8.a:0 "Scheiße!"
+germit.8.a:0 "젠장!"
 
 germit.9.t:0 "Europarat Membership"
 germit.9.d:0 "As a member of the single Europamark currency as dictated by our Mitteleuropa membership, it is incumbent on us now to align ourselves with the majority of the bloc by joining Europarat. This organisation, the 'Council of Europe' exists to regulate trade and is a key part of further integration."
-germit.9.a:0 "A sound proposal."
+germit.9.a:0 "흥미로운 제안이군."
 
 germit.10.t:0 "European Exchange Programme Membership"
 germit.10.d:0 "The Mitteleuropa economic union has established an all-European exchange program for all members of the pact - this program will provide free scholarships for students from other Mitteleuropa member states to study in German universities. This program is a key part of further integration and seeks to pool the brightest minds of Europe in German hands."
-germit.10.a:0 "We have to sign up."
+germit.10.a:0 "여기 사인하자."
 
 germit.11.t:0 "Europakommission Membership"
 germit.11.d:0 "Though Mitteleuropa nations share a common currency in the form of the Europamark, to be a proper part of the bloc now, a nation must put itself under the jurisdiction of the Europakommission. This body regulates industrial production and quality across the continent, though clearly is biased in favour of the German Empire."
-germit.11.a:0 "We have to sign up."
+germit.11.a:0 "여기 사인하자."
 
-germit.12.t:0 "Paktbrigaden Proposal"
+germit.12.t:0 "협정 여단 제안"
 germit.12.d.independent:0 "There has been a new proposal concerning Mitteleuropa emanating from the Berlin think tanks. Germany is now calling for the creation of Paktbrigaden, international divisions organized from conscripts in all Mitteleuropa member states. These conscripted units will be placed under the aegis of the Imperial German Army for the duration of the military emergency. Such a measure would greatly empower Germany."
 germit.12.d.subject:0 "There has been a new proposal concerning Mitteleuropa emanating from the Berlin think tanks. Germany is now calling for the creation of Paktbrigaden, international divisions organized from conscripts in all Mitteleuropa member states. These conscripted units will be placed under the aegis of the Imperial German Army for the duration of the military emergency. As a subject nation, we are forced to agree with their proposal."
-germit.12.a:0 "Well if it's essential."
-germit.12.b:0 "This is pure madness."
+germit.12.a:0 "필수적인 제안이군."
+germit.12.b:0 "미쳤군."
 
-germit.13.t:0 "[From.GetNameDefCap] Accepted the Paktbrigaden Programme"
+germit.13.t:0 "[From.GetNameDefCap](이)가 협정 여단 프로그램 제안을 수락했다"
 germit.13.d:0 "Our new Paktbrigaden programme is an ingenious idea to encourage our Mitteleuropa 'partners' to give up valuable military-aged men as part of international divisions and then place them directly into our own army, starved as we are to some extent of soldiers. [From.GetNameDefCap] wisely decided to accept our pressure and signed up to the programme. Recruitment should be made far easier."
-germit.13.a:0 "Brilliant!"
+germit.13.a:0 "훌륭하군!"
 
-germit.14.t:0 "[From.GetNameDefCap] Rejected the Paktbrigaden Programme"
+germit.14.t:0 "[From.GetNameDefCap](이)가 협정 여단 프로그램 제안을 거절했다"
 germit.14.d:0 "Our new Paktbrigaden programme is an ingenious idea to encourage our Mitteleuropa 'partners' to give up valuable military-aged men as part of international divisions and then place them directly into our own army, starved as we are to some extent of soldiers. [From.GetNameDefCap] unfortunately refused to bow to our pressure and decided not to become a part of the new programme, damaging our efforts to integrate Mitteleuropa."
-germit.14.a:0 "Irritating."
+germit.14.a:0 "짜증나군."
