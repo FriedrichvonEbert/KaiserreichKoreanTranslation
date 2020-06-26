@@ -447,7 +447,7 @@ CSA_every_man_a_truck:0 "생산 배가"
 CSA_every_man_a_truck_desc:0 "혁명 전쟁을 위한 생산을 위해 모든 노력을 해야 하고, 어떤 것도 낭비 되어서는 안된다는 최고 본부로부터 명령이 하달되었습니다."
 CSA_reactivate_the_officer_corps:0 "임명된 장교 배치"
 CSA_reactivate_the_officer_corps_desc:0 "지금까지 군사적 질서는 나름 잘 유지되었지만, 아직도 몇몇 사단에서는 그들의 장교들을 선거를 통해 선출한다고 합니다. 이것은 원칙상으로 민주적이긴 하지만, 혁명을 수행하기 위한 엄격하게 규율 된 군인으로써는 부적합합니다. 이는 인민들의 대의를 위해서 폐지되어야만 합니다." 
-CSA_the_dust_settles:0 "더스트 새틀러"
+CSA_the_dust_settles:0 "먼지가 가라앉다"
 CSA_the_dust_settles_desc:0 "혁명이 승리로 끝남에 따라서, 이제 우리 군의 상태를 종합적으로 평가하고 재고해야 합니다. 이미 우리의 군사력을 강화시키기 위한 수많은 제안들이 빗발치고 있습니다." 
 CSA_tank_development:0 "전차 개발"
 CSA_tank_development_desc:0 "전차는 구 미국에서 무시당해왔습니다. 이제 우리의 군대를 짦은 시간 내 강화시키기 위해서는 큰 진전이 있어야만 합니다."
@@ -1043,7 +1043,7 @@ csa.150.t:0 "일리노이 총회에서 IWW를 초대하다"
 csa.150.d:0 "일리노이 주 의회는 연방 정부가 만든 현재의 위기와 다가오는 기한에 대해 토론하기 위해 IWW를 초대했습니다. 잭 리드는 이 제안을 받아들였고, 앞서 몇몇 노조 지도자들과 비공식 회담을 가졌습니다. 리드는 상황이 심각하다는 것을 분명히 했고, 사회당은 다가오는 분쟁에서 살아남기 위해 IWW 뒤에서 단결해야 할 것입니다. 이 조용한 합의는 전통적인 사회당 지도부가 각 노조 대표들이 한 표씩 행사하면서 산업 노조 노선을 따라 재편될 것이라는 것을 의미했습니다. 사회당은 즉각 만장일치로 외교가 아닌 직접 행동을 통한 사회혁명 지지를 약속했습니다."
 csa.150.a:0 "So Say We All!"
 
-csa.151.t:0 "잭 리드가 [GetMonth]월 혁명을 선언하다"
+csa.151.t:0 "잭 리드가 [GetMonth] 혁명을 선언하다"
 csa.151.d:0 "일리노이 총회에서 리드는 미국과 노조의 부를 설명하는 열정적인 방송을 내보냈습니다. 자본주의 사회에 대한 직접적인 조치는 모든 미국인에게 필수적인 필요조건이며, 연방정부의 기한을 무시하지만 말고 저항해야 한다고 선언했습니다. 제3인터내셔널에서 온 전보가 리드의 사회당을 지원하기 위해 쏟아져 들어와 수행원들을 흥분시켰습니다. 미국 자본주의 경제를 무권위주의 경제로 개혁하기 위한 투표가 소집되었습니다. 수행원들이 서명한 이 주민투표는 연방준비제도의 무효를 선언했습니다. IWW는 새 생디칼리슴 정부의 노동실로 임명되었고, 회사 주식의 매각은 불법이라고 선언되었습니다. 그들의 성공에 만족한 대표들은 무장 혁명을 조직하기 위해 시카고로 돌아왔습니다."
 csa.151.a:0 "여럿으로 이루어진 하나"
 
@@ -1055,18 +1055,18 @@ csa.153.t:0 "기한이 다가온다"
 csa.153.d:0 "연방정부가 적시한 30일이라는 기한이 다가옴에 따라 어느 쪽도 자신의 의견을 철회하지 않으리라는 것이 분명해졌습니다. 리드의 지지자들이 점유한 지방에서는 적위대가 대거 늘어났고, 무력을 통해서라도 이 나라를 생디칼리슴 국가로 바꾸자는 의견이 점점 더 대중적으로 받아들여지고 있습니다. 결국에는 연방정부 역시 더 이상 타협의 길을 걷지 않으리란 것이 명확해 졌습니다."
 csa.153.a:0 "시간문제일 뿐이다"
 
-csa.154.t:0 "Reconcile with the CSA?"
+csa.154.t:0 "CSA와 재통합?"
 csa.154.d:0 "Against all odds, [CSA.GetNameDef] has triumphed against all opposition, radically transforming America overnight. From their constitutional convention, a new system has arisen, one centered around the principles of syndicalism and workers' democracy - biased as it may be, it's still democratic at is core, something which surprised many people expecting the revolution to inevitably collapse into tyranny. With the recent election of the Farmer-Labor Party, a furious debate has broken out regarding the possibility of a peaceful reunification. While our government is favourable to many of [CSA.GetNameDef]'s policies, they are also far more radical, and will be negotiating from a position of strength - meaning we will be forced to accept many hard compromises. On the other hand, the [CSA.GetNameDef] has proven its resilience, with both the Federal Government and Huey Long's Union State crushed under their armies. Perhaps we should accept the inevitable and avoid more bloodshed, before the victors turn their eyes towards California."
-csa.154.a:0 "Yes, let us end this ruinous war. (Play as the CSA)"
-csa.154.b:0 "We are the true America and we shall unite America ourselves!"
+csa.154.a:0 "그래, 이 파멸적인 전쟁을 그만 끝내자. (미노조연합으로 플레이합니다)"
+csa.154.b:0 "우리야말로 진정한 미국이며 우리의 깃발 아래 미국을 다시 통합할것이다!"
 
 csa.155.t:0 "미국이 재통일 되다!"
 csa.155.d:0 "The rebel government out west has decided to lay down their arms and rejoin America. The military checkpoints along the Rocky Mountains are being dismantled and people from both sides of the country are crossing over. At long last the country is reunited."
 csa.155.a:0 "From Sea to Shining Sea!"
 
-csa.156.t:0 "No Reconciliation"
+csa.156.t:0 "화해는 없다"
 csa.156.d:0 "With the recent election of the Farmer-Labor Party, many in [Root.GetNameDef] hoped the rebel government to the west would prove amenable to a peaceful end to the conflict that's ravaged America. However it seems that the rebels out west have decided that they shall not reunite with us. In their senate, they have bitterly denounced the Revolutionary Congress as a hollow mockery of democracy, no better than the tyrants in Washington and New Orleans it had replaced. It seems that once again, force of arms will be needed to reunite the shattered pieces of the country."
-csa.156.a:0 "America one day shall be reunited."
+csa.156.a:0 "언젠가 미국은 재통일 될 것이다."
 
 ### Resistance Events ###
 
