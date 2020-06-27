@@ -4,8 +4,8 @@
 
 custom_diff_strong_can:0 "£KR_game_rule_flag_CAN   캐나다 자치령 강화"
 custom_diff_strong_csa:0 "£KR_game_rule_flag_CSA   미노조연합 강화"
-custom_diff_strong_tex:0 "£KR_game_rule_flag_TEX   미연방국 강화"
-custom_diff_strong_cal:0 "£KR_game_rule_flag_CAL   태평양 미합중국 강화 "
+custom_diff_strong_tex:0 "£KR_game_rule_flag_TEX   미연합국 강화"
+custom_diff_strong_cal:0 "£KR_game_rule_flag_CAL   미 태평양 합중국 강화 "
 custom_diff_strong_nee:0 "£KR_game_rule_flag_NEE   뉴잉글랜드 강화"
 custom_diff_strong_rus:0 "£KR_game_rule_flag_RUS   러시아 공화국 강화"
 
