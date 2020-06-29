@@ -880,7 +880,7 @@ CENmil_equi_developping:0 "군장비 개발"
 CENmil_equi_developping_desc:0 "We can't rely forever on imports, as the political environment of the world may change from one day to another, rending our allies our enemies. We need to become more independent on the development and production of equipment."
 
 ## Warfare with Central American Characteristics
-CENmil_army_ca:0 "센트로아메리카식 교리"
+CENmil_army_ca:0 "중앙아메리카식 교리"
 CENmil_army_ca_desc:0 "To the north and the south, the enemies we face are much stronger than we are. Even though it is hard to admit, Sandino and his Syndicalist traitors have nonetheless proven that a smaller force can defeat a much larger enemy when using the terrain and the people's support to your advantage."
 CENmil_adapt_terrain:0 "지형에 적응"
 CENmil_adapt_terrain_desc:0 "Central America's terrain is very rough and unforgiving, except to those who know it well. Throughout the enemies' offensives, we will be able to harass and destroy them thanks to our knowledge of the terrain."
@@ -903,7 +903,7 @@ CENmil_military_awesome_desc:0 "Upon the military rests the entire nation. The a
 
 ### Air and Naval Tree
 ## Air Tree
-CENmil_faca:0 "센트로아메리카 공군"
+CENmil_faca:0 "중앙아메리카 공군"
 CENmil_faca_desc:0 "Formed from the airforces of the nations that are now part of the Republic, the Fuerza Area Republicana de Centroamerica will need a much larger budget and more manpower to effectively fulfil its task of defending Central America's airspace."
 CENmil_air_lads:0 "공군 장교단"
 CENmil_air_lads_desc:0 "As with every branch of the military, the air force is not a newly created branch but the result of the merging of the airforces of the constitute nations of the Union. As such, it has no standardized chain of command or doctrine and needs reform."
@@ -927,7 +927,7 @@ CENmil_nav_bombers:0 "뇌격기"
 CENmil_nav_bombers_desc:0 ""
 
 ## Naval Tree
-CENmil_fnca:0 "센트로아메리카 해군"
+CENmil_fnca:0 "중앙아메리카 해군"
 CENmil_fnca_desc:0 "With our newly formed nation, new needs arise. Previous Central American nations had no need for a large navy, and did little to pursue any sort of naval dominance. With our reunification, we need to reassert ourselves at a regional level, and we can't do so without a navy. As such, we shall found the 'Armada de la Republica de Centro-America' and begin investing in it's development in order to project our power to the rest of Central America, the Caribbean and beyond!"
 CENmil_select_main_port:0 "해군기지 선정"
 CENmil_select_main_port_desc:0 "Considering the lack of interest in the past in forming functional navies, all of our ports have been built with trade in mind and are not suitable to hold a large surface fleet. We have several ports in our nation that are very promising options to invest in their improvement, but we need to choose which one, as we obviously don't possess the means to upgrade all of our ports."
