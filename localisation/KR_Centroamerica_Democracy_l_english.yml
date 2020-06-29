@@ -1,6 +1,6 @@
 ﻿l_english:
 
-CA_DEM_focus:0 "중앙 아메리카 민주적 중점계통도"
+CA_DEM_focus:0 "중앙아메리카 민주적 중점계통도"
 
 ### FLAGS ###
 CEN_market_liberal_country_flag:0 "§YThe Democratic Unification Party is in power after elections.§!"
@@ -90,7 +90,7 @@ CENdem_republican_armies_suck:0 "Democratic Armies"
 CENdem_politicc:0 "인터내셔널에 참여한다"
 CENdem_expansionism:0 "기회주의적 확장"
 CENdem_joining_the_Entente:0 "협상국에 참여한다"
-Cendem_joining_the_LoAN:0 "Joining the League of American States"
+Cendem_joining_the_LoAN:0 "미주연합에 참여한다"
 CENdem_attacking_Costa_Rica:0 "무방비한 코스타리카를 공격한다!"
 Cendem_attacking_panama:0 "무방비한 파나마를 공격한다!"
 ### OPINION ###
@@ -110,9 +110,9 @@ cendem_floaty_boats_expansion_base:0 "§MThis focus will add additional hidden b
 
 
 ### EVENTS ###
-cendem.1.t:0 "합중국이 탄생하다!"
+cendem.1.t:0 "연방이 탄생하다!"
 cendem.1.d:0 "With the traitors dealt with and Central America held by our forces, we can now safely proclaim the Confederation of Central America. The dream of our nations unified under a democracy formed from each member nation is now no longer a remnant of the past. However, there is still a long way to go. As our territorial extension has grown significantly, our government has decided to delegate the executive power of the newly formed nation to the Central American Constitutional Convention until the new parties reorganize to take into account the newly acquired territories, and will decide upon the fate of the Central American Confederation once the parties with most members present themselves in the convention."
-cendem.1.a:0 "합중국이여, 영원하라!"
+cendem.1.a:0 "연방이여, 영원하라!"
 
 cendem.2.t:0 "연합당의 형성"
 cendem.2.d:0 "The Partido Unionista, born out of the many parties in Central America who wanted the unification of the continent, has held its first meeting in Ciudad de Guatemala. Having prepared for the unification of Central America for years, they have been the first party to present itself to the convention, and has taken over power temporarily until the other parties organize and the convention regarding the direction the country should take is held.\n\nPresided by the Guatemalan politician José Perfecto Azmitia González, the Unionist Party follows a conservative mindset and has already stated in their manifesto that their objective is to carry the Confederation to a more usual form of Republic and to create a Central American identity, that encompasses all the cultures within Central America. They also reject the intervention of foreigners in national affairs, and this might spell the end of the UFC influence in the country..."
