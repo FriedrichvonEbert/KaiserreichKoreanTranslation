@@ -450,7 +450,7 @@ RULE_OPTION_ICE_ALTHING_ELECTION_INDEPENDENT:0 "£KR_game_rule_flag_ICE   독립
 RULE_OPTION_ICE_ALTHING_ELECTION_INDEPENDENT_DESC:0 "The Independence Party for Iceland will win the referendum and the country will be free to enter the cod war"
 RULE_OPTION_ICE_ALTHING_ELECTION_LOYAL_TO_DENMARK:0 "£KR_game_rule_flag_ICE   덴마크 잔류"
 RULE_OPTION_ICE_ALTHING_ELECTION_LOYAL_TO_DENMARK_DESC:0 "The Social Democratic Party for Iceland will win the referendum and the country will remain in the Danish Sphere"
-RULE_OPTION_ICE_COD_WAR_CAN:0 "£KR_game_rule_flag_ICE   캐나다산 "
+RULE_OPTION_ICE_COD_WAR_CAN:0 "£KR_game_rule_flag_ICE   캐나다산 대구"
 RULE_OPTION_ICE_COD_WAR_CAN_DESC:0 "캐나다가 브리튼연방에 대적하여 대구 전쟁에서 이길 것입니다."
 
 SER_GOVERNMENT_PATH:0 "£KR_game_rule_flag_SER   베오그라드 회의"
