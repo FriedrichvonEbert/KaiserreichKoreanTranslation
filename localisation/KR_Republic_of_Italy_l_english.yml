@@ -489,7 +489,7 @@ ITA_rule_the_skies_desc:0 "공군은 더 이상 쓰레기 더미가 아니라 �
 ### Events ###
 
 ita.1.t:0 "이탈리아 공화국의 역사: 패배와 내전"
-ita.1.d:0 "세계대전에서 프랑스의 패배하고 이탈리아가 붕괴되면서, 1919년 8월 오스트리아와 이탈리아 왕국은 휴전 협정을 체결했습니다. 이 협정으로 평화 조약이 체결될 때까지 오스트리아의 군대는 롬바르디와 베네치아에 주둔하게 되었습니다. 굴욕적인 휴전 선언 며칠 후, 격분한 민족주의자들은 밀라노에서 새로운 이탈리아 공화국을 선언했고, 밀라노 정부는 사보이 왕가가 서명한 모든 조약이 무효라고 주장했습니다. 이탈리아 전역의 공화주의자와 민족주의자들이 왕국에 대항하여 봉기했으며, 비토리오 에마누엘레와 그의 아들이 왕좌에서 퇴위했음에도 불구하고, 왕실의 권위의 몰락을 막을 수는 없었습니다. /n/n 이탈리아 중부와 북부에서 군주주의자들을 몰아내기는 했지만, 공화국의 서로 다른 파벌들 간의 사상차이는 너무나도 커서 상호간의 합의를 할 수 없는 지경에 이르렀고, 작은 파괴 행위들로부터 시작된 적색과 백색 세력 사이의 충돌은 내전으로 번졌으며, 이전에 이루어졌던 군주주의자들에 대한 적대행위는 중단 되었습니다."
+ita.1.d:0 "세계대전에서 프랑스가 패배하고 이탈리아 붕괴되면서, 1919년 8월 오스트리아와 이탈리아 왕국은 휴전 협정을 체결했습니다. 이 협정으로 평화 조약이 체결될 때까지 오스트리아의 군대는 롬바르디와 베네치아에 주둔하게 되었습니다. 굴욕적인 휴전 선언 며칠 후, 격분한 민족주의자들은 밀라노에서 새로운 이탈리아 공화국을 선언했고, 밀라노 정부는 사보이 왕가가 서명한 모든 조약이 무효라고 주장했습니다. 이탈리아 전역의 공화주의자와 민족주의자들이 왕국에 대항하여 봉기했으며, 비토리오 에마누엘레와 그의 아들이 왕좌에서 퇴위했음에도 불구하고, 왕실의 권위의 몰락을 막을 수는 없었습니다. /n/n 이탈리아 중부와 북부에서 군주주의자들을 몰아내기는 했지만, 공화국의 서로 다른 파벌들 간의 사상차이는 너무나도 커서 상호간의 합의를 할 수 없는 지경에 이르렀고, 작은 파괴 행위들로부터 시작된 적색과 백색 세력 사이의 충돌은 내전으로 번졌으며, 이전에 이루어졌던 군주주의자들에 대한 적대행위는 중단 되었습니다."
 ita.1.a:0 "끔찍하군."
 
 ita.22.t:0 "이탈리아 공화국의 상태: 연방의 실패"
@@ -937,12 +937,12 @@ ita.126.t:0 "베네치아가 몰락하다"
 ita.126.d:0 "베네치아는 [SRI.GetNameDef]에게 넘어갔고, 이제 그들은 [Root.GetNameDef] 자체를 위협하고 있습니다. 우리가 할 수 있을 때 이 전쟁을 종식시켜야 할 필요가 있습니다."
 
 ita.127.t:0 "혼란에빠진 오스트리아"
-ita.127.d:0 "[From.GetNameDefCap] has pushed far into Austria, and apparently intends to conquer the entire thing instead of sticking to its claims. It is clearly dangerous."
-ita.127.a:0 "We should help Austria!"
+ita.127.d:0 "[From.GetNameDefCap](은)는 오스트리아를 궁지로 몰아넣었고, 자신들의 주장을 굽히지 않고 오스트리아 전체를 정복하려는 것으로 보입니다. 위험한 상황입니다."
+ita.127.a:0 "오스트리아를 도와야 해!"
 ita.127.b:0 "우리가 할 수 있는 것은 없다."
 
 ita.128.t:0 "독일의 개입"
-ita.128.d:0 "It seems that [From.GetNameDef] has become alarmed by our aggressive invasion of [AUS.GetNameDef]. Fearing our intention is to conquer it outright, the Germans have come to the aid of their former Weltkrieg allies."
+ita.128.d:0 "우리의 공격적인 [AUS.GetNameDef] 침공을 보고서 [From.GetNameDef](은)는 심각성을 느낀것 같습니다. 우리가 [AUS.GetNameDef](을)를 완전히 정복하려는 것을 두려워한 나머지, 이들은 이전의 세계대전 동맹국들의 도움을 받게 되었습니다."
 ita.128.a:0 "젠장!"
 
 ita.150.t:0 "이탈리아 공화국에서의 철수"
@@ -1004,7 +1004,7 @@ ita.170.d:0 "통일 이후 실지회복운동이 부활하면서 [From.GetNameDe
 ita.170.a:0 "그들이 감히!"
 
 ita.171.t:0 "[From.GetNameDefCap](이)가 [Root.GetFactionName](을)를 떠나다"
-ita.171.d:0 "통통일 이후 실지회복운동이 부활하면서 [From.GetNameDef](은)는 현재 [claimed_state.Owner.GetNameDef](이)가 보유하고 있는 [claimed_state.GetName]의 소유권을 주장하고있습니다. 그 지역은 동맹인 [Root.GetFactionName]의 영토이기 있기 때문에 [From.GetAdjective] 정부는 동맹의 목표와 양립할 수 없다고 판단하고 세력의 탈퇴를 선택했습니다. 이것이 [From.GetNameDef](와)과의 전쟁을 의미하는지는 두고 볼 일 입니다."
+ita.171.d:0 "통일 이후 실지회복운동이 부활하면서 [From.GetNameDef](은)는 현재 [claimed_state.Owner.GetNameDef](이)가 보유하고 있는 [claimed_state.GetName]의 소유권을 주장하고있습니다. 그 지역은 동맹인 [Root.GetFactionName]의 영토이기 있기 때문에 [From.GetAdjective] 정부는 동맹의 목표와 양립할 수 없다고 판단하고 세력의 탈퇴를 선택했습니다. 이것이 [From.GetNameDef](와)과의 전쟁을 의미하는지는 두고 볼 일 입니다."
 ita.171.a:0 "바보같은 행동이다."
 
 ita.172.t:0 "반생디칼리스트 저항군이 조직되다"
@@ -1058,15 +1058,15 @@ ita.184.t:0 "[Root.GetAdjective]의 붕괴"
 ita.184.d:0 "[Root.GetAdjective] 정부가 망명길에 오른 이후, 우리는 저 이탈리아인들에게 저항하기가 어려워졌습니다. 그들은 우리의 합법성을 잠식하기 위해 여러방면에서 노력해왔고, 우리의 모든 노력은 수포로 돌아간 것 같습니다. 그들이 승리했습니다."
 ita.184.a:0 "젠장!"
 
-ita.185.t:0 "The War Drags On"
-ita.185.d:0 "The war against [peace_country.GetNameDef] and the [peace_country.GetFactionName] has dragged on for months, and considering we've already defeated their Italian allies it seems pointless to continue. Perhaps we can suggest they agree to a simple truce, where all we gain is the land we already have and any claims of ours held by [peace_country.GetNameDef] or their allies. Nothing more."
-ita.185.a:0 "Let's make the suggestion"
-ita.185.b:0 "No - we will fight this to the bitter end!"
+ita.185.t:0 "길어진 전쟁"
+ita.185.d:0 "[peace_country.GetNameDef](와)과 [peace_country.GetFactionName]의 전쟁은 몇 달 동안이나 지속되었고, 우리가 이미 이탈리아 동맹국들을 물리친 것을 고려한다면, 전쟁을 계속하는 것은 무의미해 보입니다. 우리는 그들에게 휴전에 동의할 것을 제안할 수 있을 것입니다. 이 휴전으로 우리는 우리의 기존 영토와 더불어 [peace_country.GetNameDef](이)나 그들의 동맹국들이 소유하고있는 우리의 정당한 영토를 받을수 있을 것입니다.
+ita.185.a:0 "제안을 보내라"
+ita.185.b:0 "아니, 우리는 끝까지 간다!"
 
-ita.186.t:0 "The [From.GetAdjective] Proposal"
-ita.186.d:0 "[From.GetNameDefCap] has approached us suggesting peace - we end this war now, with them walking away with whatever they've already taken and any claimed lands still held by us or other members of the [Root.GetFactionName], and call it even. The alternative is to continue this war even longer, one where we have made absolutely no headway."
-ita.186.a:0 "Let's end this now"
-ita.186.b:0 "No - we can still fight this!"
+ita.186.t:0 "[From.GetAdjective]의 제안"
+ita.186.d:0 "[From.GetNameDefCap](은)는 우리에게 평화를 제안해 왔습니다. 이 전쟁을 종식되면, 그들은 점령한 우리영토를 영토를 돌려줄 것이며, 우리와 [Root.GetFactionName]의 다른 회원국들이 가지고 있는 그들의 정당한(것이라고 주장하는) 영토를 돌려주어야 합니다. 아니면은 아직까지 전혀 진전을 보지 못한 이 전쟁을 더 오래 지속할 수 도 있습니다."
+ita.186.a:0 "이제 그냥 그만하자."
+ita.186.b:0 "아니, 우린 아직 싸울 수 있다!"
 
 ### Cosmetic Tags ###
 ITA_kingdom_national_populist:0 "이탈리아 왕국"
