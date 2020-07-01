@@ -30,8 +30,9 @@ SRI_did_not_listen_FRA:0 "우리의 권고를 무시함"
 ### Decisions ###
 SRI_international_decisions:0 "인터내셔널에서의 이탈리아"
 SRI_international_decisions_desc:0 "이탈리아 사회주의 공화국은 인터내셔널의 창립 멤버입니다. 그리고 다른 인터내셔널 회원국들이 그러하듯, 우리 역시 동맹의 한 축으로서 다양한 안건에 적극적으로 참여해왔습니다."
-SRI_join_the_intl:0 "Join the Third Internationale"
-SRI_join_the_intl_desc:0 "Both Germany and Austria are leery of a formal alliance being created between the Third Internationale and [Root.GetNameDef], whereby French and English forces would be called in to help us reunite Italy under syndicalist rule. Should any major power become involved in Italy, however, or should war begin between [FRA.GetNameDef] and [GER.GetNameDef] once again, then all bets are off."
+SRI_join_the_intl:0 "제3인터내셔널에 가입"
+SRI_join_the_intl_desc:0 "독일과 오스트리아를 견제하기 위해 제3인터내셔널과 [Root.GetNameDef]사이에 동맹을 맺을 수 있습니다. 그에 따라, 프랑스와 영국은 생디칼리슴 통치하에 있는 이탈리아를 위해 우리에게 도움을 줄 것입니다. 하지만, 어떤 세력이 이탈리아에 사태에 관여하게 되거나, [FRA.GetNameDef](와)과 [GER.GetNameDef]사이에 전쟁이 다시 한번 시작된다면, 모든 일은 수렁에 빠지게 될 것입니다.
+"
 SRI_Join_Phalanstere:0 "팔랑스테르 참여"
 SRI_Join_Phalanstere_desc:0 "'팔랑스테르'라고 알려진 프랑스 주도의 과학 연맹은 인터내셔널의 모든 회원국에서 가장 영리한 사람들을 한데 모으기 위해 만들어졌습니다. 우리는 이 계획에 참여하고 우리의 지식을 공유해야 합니다."
 SRI_Assist_Damocles_Project:0 "다모클레스 계획 지원"
