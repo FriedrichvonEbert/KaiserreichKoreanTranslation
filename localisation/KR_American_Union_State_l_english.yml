@@ -1001,15 +1001,15 @@ TEX_ARTHUR_BRISTOL_NAVY_DESC:0 "§Y제독 설명\n§Y출생:§W 1886년 7월 15�
 
 
 ### Cosmetic Tags ###
-TEX_ACW_totalist:0 "미노조연합"
-TEX_ACW_totalist_ADJ:0 "노조연합"
-TEX_ACW_totalist_DEF:0 "미노조연합"
-TEX_ACW_syndicalist:0 "미노조연합"
-TEX_ACW_syndicalist_ADJ:0 "노조연합"
-TEX_ACW_syndicalist_DEF:0 "미노조연합"
-TEX_ACW_radical_socialist:0 "미노조연합"
-TEX_ACW_radical_socialist_ADJ:0 "노조연합"
-TEX_ACW_radical_socialist_DEF:0 "미노조연합"
+TEX_ACW_totalist:0 "미노조연맹"
+TEX_ACW_totalist_ADJ:0 "노조연맹"
+TEX_ACW_totalist_DEF:0 "미노조연맹"
+TEX_ACW_syndicalist:0 "미노조연맹"
+TEX_ACW_syndicalist_ADJ:0 "노조연맹"
+TEX_ACW_syndicalist_DEF:0 "미노조연맹"
+TEX_ACW_radical_socialist:0 "미노조연맹"
+TEX_ACW_radical_socialist_ADJ:0 "노조연맹"
+TEX_ACW_radical_socialist_DEF:0 "미노조연맹"
 TEX_ACW_social_democrat:0 "미연합국"
 TEX_ACW_social_democrat_ADJ:0 "연합"
 TEX_ACW_social_democrat_DEF:0 "미연합국"
