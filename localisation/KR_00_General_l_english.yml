@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 
 ### Main Menu Tooltips ###
 COOP_MAIN_MENU_LINK:0 "여기를 눌러서 디스코드로 이동하세요"
@@ -127,10 +127,10 @@ kr.political.108.t:0 "독립 거부"
 kr.political.108.d:0 "[From.GetAdjective] 정부는 우리의 독립 요구에 침묵했습니다. 우리가 명목상 그들의 지배를 받고 있는 동안에도, 여전히 우린 제약을 받고 있습니다."
 kr.political.108.a:0 "여기서 안끝날 것 같은데."
 
-KR_fight_for_independence:0 "독립 선언"
-KR_fight_for_independence_desc:0 "[From.GetNameDefCap](이)가 우리의 독립 요구를 거절했을지 몰라도, 그로써 이 문제의 끝이 난게 아닙니다. 비록 우리가 이를 위하여 싸우더라도, 우린 자유로워 질 것입니다!"
+KR_fight_for_independence:0 "독립선언"
+KR_fight_for_independence_desc:0 "[From.GetNameDefCap](이)가 우리의 독립 요구를 거절했을지 몰라도, 그로써 이 문제의 끝이 난게 아닙니다. 비록 우리가 이를 위하여 싸우더라도, 우린 자유로워질 것입니다!"
 
-kr.political.109.t:0 "[From.GetNameDefCap]의 독립 선언"
+kr.political.109.t:0 "[From.GetNameDefCap]의 독립선언"
 kr.political.109.d:0 "우리가 [From.GetNameDef]의 독립 승인을 거부하는 것만으론 충분치 않았던 것으로 보입니다. 뭐가 어쨌건 그들은 본인들 스스로 [Root.GetAdjective]의 통제에서 자유로워졌다고 선언했습니다."
 kr.political.109.a:0 "흥! 풀어줘라."
 kr.political.109.b:0 "두고 보라지!"
@@ -270,10 +270,10 @@ russian_expansionism_threat:0 "러시아의 팽창주의 노선"
 kerensky_assassinated_threat:0 "케렌스키가 암살됨"
 japanese_expansionism_threat:0 "일본의 팽창주의 노선"
 mittelafrika_collapse_threat:0 "독일령 중앙아프리카가 붕괴됨"
-democratic_win_acw_threat:0 "연방 정부 승리"
-macarthur_wins_threat:0 "맥아더의 승리"
-aus_wins_acw_threat:0 "미연합국의 승리"
-csa_wins_acw_threat:0 "미노조총연맹의 승리"
+democratic_win_acw_threat:0 "연방정부가 승리함"
+macarthur_wins_threat:0 "맥아더가 승리함"
+aus_wins_acw_threat:0 "미연합국이 승리함"
+csa_wins_acw_threat:0 "미노조연맹이 승리함"
 belgrade_pact_threat:0 "베오그라드 협약이 창설됨"
 fading_sun_threat:0 "일본 제국의 붕괴"
 GRE_took_diplomatic_path:0 "그리스가 메갈리이데아를 포기"
