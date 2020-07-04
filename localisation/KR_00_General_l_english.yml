@@ -216,19 +216,19 @@ austrian_sphere:0 "도나우-아드리아 연맹" #Donau-Adriabund
 Belgrade_Pact:0 "베오그라드 협약" #Belgrade Pact
 Belgian-Dutch_Treaty_Organisation:0 "저지대 조약기구" #BeNeSam
 brotherhood_of_slavs:0 "슬라브 형제단" #Brotherhood of Slavs
-buenos_aires_lima_faction:0 "부에노스아이레스-리마 추축" #Buenos Aires-Lima Axis
+buenos_aires_lima_faction:0 "부에노스아이레스-리마 추축국" #Buenos Aires-Lima Axis
 cairo_pact:0 "카이로 협약" #Cairo Pact
-CEN_anti_revolutionary_alliance:0 "국민 전위대" #People's Vanguard
-CEN_liberal_pact:0 "자유 협약" #Liberal Pact
-CEN_revolutionary_front:0 "혁명 전선" #Revolutionary Front
+CEN_anti_revolutionary_alliance:0 "인민전위대" #People's Vanguard
+CEN_liberal_pact:0 "자유협약" #Liberal Pact
+CEN_revolutionary_front:0 "혁명전선" #Revolutionary Front
 china_upc_faction:0 "중화합중국" #United Provinces of China
 co_prosperity_sphere:0 "대동아공영권" #Co-Prosperity Sphere
 colombia_gran_alliance:0 "안데스 협약" #Andean Pact
-cos_carib_faction:0 "카리브 민주 연합" #Democratic Alliance of the Carribean
-EANL_faction:0 "동아시아 국가 연맹" #East Asian National League
+cos_carib_faction:0 "카리브 민주연합" #Democratic Alliance of the Carribean
+EANL_faction:0 "동아시아 국가연맹" #East Asian National League
 Entente:0 "협상국" #Entente
 golestan_pact_faction:0 "골레스탄 협약" #Golestan Pact
-indian_alliance_faction:0 "인도동맹" #Indian Alliance
+indian_alliance_faction:0 "인도 동맹" #Indian Alliance
 league_of_american_states:0 "미주연맹" #League of American States
 litrut_faction:0 "리투아니아-루테니아 연합" #Lithuanian-Ruthenian Alliance
 maliphinsul_faction:0 "말리핀술" #Maliphinsul
@@ -236,16 +236,16 @@ Mittelmacht:0 "라이히스팍트" #Reichspakt
 moscow_accord:0 "모스크바 협약" #Moscow Accord
 north_zhili_faction:0 "북직예군벌" #Northern Zhili Clique
 npa_faction:0 "호국동맹" #National Protection Alliance
-NRF_faction:0 "국가혁명전선" #National Revolutionary Front
+NRF_faction:0 "국민혁명전선" #National Revolutionary Front
 pacification_faction:0 "안국군" #National Pacification Army
-polukr_faction:0 "생디칼리슴 인테르마리움" #Syndicalist Intermarium
+polukr_faction:0 "생디칼리스트 인테르마리움" #Syndicalist Intermarium
 Qing_faction:0 "청 제국" #Qing Empire
 qing_sphere_faction:0 "청 세력권" #Qing Sphere
-SA_socialist_states:0 "남아메리카 사회주의 국가연맹" #South American Socialist States
+SA_socialist_states:0 "남미 사회주의 국가연맹" #South American Socialist States
 Scandinavian_Pact:0 "스칸디나비아 협약" #Scandinavian Pact
 SCA_faction_scandinavian_defense_union:0 "스칸디나비아 방위 연합" #Scandinavian Defence Union
 SIA_SEATO_alliance:0 "동남아시아 조약기구" #SEATO
-syndicalist_asia:0 "동방 생디칼리슴 연합" #Eastern Syndicalist Union
+syndicalist_asia:0 "동방 생디칼리스트 연합" #Eastern Syndicalist Union
 syndicalist_asia_per:0 "아시아 사회주의 연합" #Asian Socialist Union
 Syndicalist_Internationale:0 "생디칼리스트 인터내셔널" #Syndicalist International
 Third_International:0 "제3인터내셔널" #Third International
