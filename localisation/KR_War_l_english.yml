@@ -6,8 +6,8 @@ RD:0 "등"
 TH:0 "등"
 WAR_NAME:0 "$ORDER$$FIRST$-$SECOND$ 전쟁"
 CIVIL_WAR_NAME:0 "$ORDER$$SECOND$ 내전"
-WAR_TAKE_CORE_NAME:0 "$ORDER$$FIRST$의 $STATE$ 수복 전쟁"
-WAR_TAKE_CLAIM_NAME:0 "$ORDER$$FIRST$의 $STATE$ 침략 전쟁"
+WAR_TAKE_CORE_NAME:0 "$ORDER$$FIRST$의 $STATE$ 수복전쟁"
+WAR_TAKE_CLAIM_NAME:0 "$ORDER$$FIRST$의 $STATE$ 침략전쟁"
 KR_separate_peace:0 "모든 전쟁을 내려놓게 될 것입니다\n"
 
 ### 2nd American Civil War ###
@@ -41,11 +41,11 @@ WAR_NAME_USA_MEX:0 "제2차 $ORDER$$SECOND$-$FIRST$ 전쟁"
 WAR_NAME_MEX_USA:0 "제2차 $ORDER$$FIRST$-$SECOND$ 전쟁"
 WAR_NAME_CAL_MEX:0 "$ORDER$$FIRST$-태평양 전쟁"
 WAR_NAME_MEX_CAL:0 "$ORDER$$FIRST$-태평양 전쟁"
-WAR_TAKE_CLAIM_MEX_USA:0 "$ORDER$$FIRST$의 $STATE$ 침략 전쟁"
+WAR_TAKE_CLAIM_MEX_USA:0 "$ORDER$$FIRST$의 $STATE$ 침략전쟁"
 WAR_TAKE_CORE_MEX_USA:0 "$ORDER$$FIRST$의 $STATE$ 수복전쟁"
 
 ### Entente-Internationale Wars ###
-WAR_NAME_CAN_ENG:0 "본토 수복전쟁"
+WAR_NAME_CAN_ENG:0 "본토수복전쟁"
 WAR_NAME_ENG_CAN:0 "협상국-인터내셔널 전쟁"
 WAR_NAME_NFA_FRA:0 "$ORDER$$FIRST$-$SECOND$ 전쟁"
 WAR_NAME_FRA_NFA:0 "$ORDER$$FIRST$-$SECOND$ 전쟁"
@@ -68,7 +68,7 @@ WAR_NAME_JAP_RUS:0 "제2차 일러전쟁"
 
 ### Middle Eastern Wars ###
 WAR_NAME_OTT_KUR:0 "$ORDER$$SECOND$ 반란"
-WAR_NAME_KUR_OTT:0 "$ORDER$$FIRST$ 독립 전쟁"
+WAR_NAME_KUR_OTT:0 "$ORDER$$FIRST$ 독립전쟁"
 WAR_NAME_JBS_SAU:0 "아라비아 통일 $ORDER$전쟁"
 WAR_NAME_SAU_JBS:0 "아라비아 통일 $ORDER$전쟁"
 
@@ -76,9 +76,9 @@ WAR_NAME_SAU_JBS:0 "아라비아 통일 $ORDER$전쟁"
 WAR_NAME_GER_UKR:0 "$ORDER$$SECOND$ 봉기"
 WAR_NAME_GER_WHR:0 "$ORDER$$SECOND$ 봉기"
 WAR_NAME_GER_LIT:0 "$ORDER$$SECOND$ 봉기"
-WAR_NAME_UKR_GER:0 "$ORDER$$FIRST$ 독립 전쟁"
-WAR_NAME_WHR_GER:0 "$ORDER$$FIRST$ 독립 전쟁"
-WAR_NAME_LIT_GER:0 "$ORDER$$FIRST$ 독립 전쟁"
+WAR_NAME_UKR_GER:0 "$ORDER$$FIRST$ 독립전쟁"
+WAR_NAME_WHR_GER:0 "$ORDER$$FIRST$ 독립전쟁"
+WAR_NAME_LIT_GER:0 "$ORDER$$FIRST$ 독립전쟁"
 
 ### Indian Wars ###
 WAR_NAME_DEH_PRF:0 "협상국의 하이데라바드 수복"
@@ -112,12 +112,12 @@ WAR_NAME_CHL_BOL:0 "제2차 태평양 전쟁"
 
 ### Ethiopian Wars ###
 WAR_NAME_ETH_ERT:0 "에리트리아 반란"
-WAR_NAME_ERT_ETH:0 "에리트리아 독립 전쟁"
+WAR_NAME_ERT_ETH:0 "에리트리아 독립전쟁"
 WAR_NAME_ETH_SOM:0 "오가덴 전쟁"
 WAR_NAME_SOM_ETH:0 "오가덴 전쟁"
 
 ### Ottoman Wars ###
-WAR_NAME_LBA_OTT:0 "트리폴리타니아 독립 전쟁"
+WAR_NAME_LBA_OTT:0 "트리폴리타니아 독립전쟁"
 WAR_NAME_OTT_LBA:0 "트리폴리타니아 봉기"
 
 ### Chinese Wars ###
@@ -206,14 +206,14 @@ WAR_NAME_GXC_PRC:0 "양광 내전"
 WAR_NAME_PRC_GXC:0 "양광 내전" 
 
 # Northwestern Revolts
-WAR_NAME_SIK_ETS:0 "동투르케스탄 봉기"
-WAR_NAME_ETS_SIK:0 "동투르케스탄 봉기"
+WAR_NAME_SIK_ETS:0 "동튀르케스탄 봉기"
+WAR_NAME_ETS_SIK:0 "동튀르케스탄 봉기"
 WAR_NAME_SIK_TUV:0 "쿠물 반군"
 WAR_NAME_TUV_SIK:0 "쿠물 반군"
 
 # League of Eight / Five Provinces Collapse
-WAR_NAME_LEP_ANQ:0 "오성 전쟁"
-WAR_NAME_ANQ_LEP:0 "오성 전쟁"
+WAR_NAME_LEP_ANQ:0 "오성전쟁"
+WAR_NAME_ANQ_LEP:0 "오성전쟁"
 
 # Sino-Japanese Wars
 WAR_NAME_JAP_LEC:0 "일본의 개입"
