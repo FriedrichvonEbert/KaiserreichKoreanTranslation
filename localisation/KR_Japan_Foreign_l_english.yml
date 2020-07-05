@@ -21,9 +21,9 @@ JAP_is_CA_strong_enough:0 "§R우리는 봉천의 합병을 시도할 것입니�
 japanese_mongol_alliance:0 "일본-몽골 동맹"
 PHI_RESIST_OOB_TOOLTIP:0 "§G우리는 군대를 동원하여 일본군에 대항할 것입니다.§!\n"
 HAW_resist_OOB_TOOLTIP:0 "§G우리는 군대를 동원하여 일본군에 대항할 것입니다.§!\n"
-KOR_pup_oob_tt:0 "§GWe will mobilise new infantry and militia divisions.§!\n"
-KOR_light_oob_tt:0 "§GWe will mobilise new infantry and cavalry divisions, though some will be simply glorified militia.§!\n"
-KOR_full_oob_tt:0 "§GWe will mobilise new infantry and cavalry divisions, all ready to fight.§!\n"
+KOR_pup_oob_tt:0 "§G우리는 새로운 보병과 민병대를 동원할 것입니다.§!\n"
+KOR_light_oob_tt:0 "§G우리는 새로운 보병과 기병 부대를 동원할 것입니다. 몇몇은 간단한 훈련을 마친 수준일 것입니다.§!\n"
+KOR_full_oob_tt:0 "§G우리는 새로운 보병과 기병 부대를 동원할 것입니다. 싸울 만반의 준비가 되어 있습니다.§!\n"
 JAP_offered_peace_and_I_want:0 "§G협상이 마무리되려면 2주정도 소요되겠지만, 우리는 일본의 평화협정을 받아들일 것입니다. 일본과 전쟁을 하고 있는 모든 사람들은 협상을 수락해야합니다...§!"
 JAP_offered_peace_and_I_hate_peace:0 "§R우리는 일본과의 평화를 거부할 것입니다. 이것은 우리뿐만 아니라 일본과의 전쟁 중인 모든 사람들의 평화를 가로막는 것입니다...§!"
 
@@ -41,7 +41,7 @@ ETS_will_discuss_this:0 "[ETS.GetNameDefCap](은)는 우리에게 더 우호적�
 army_xp_more_than_10:0 "§H10§!£army_experience"
 army_xp_more_than_10_blocked:0 "§R10§!£army_experience"
 army_xp_more_than_10_tooltip:0 "선택하기 위해 10£army_experience 가 필요합니다."
-pacific_containment:0 "We must contain Japanese aggression!"
+pacific_containment:0 "우리는 일본의 참략 야욕을 억제해야합니다!"
 JAP_backed_down_pacific:0 "태평양 섬들에 대한 영유권 주장 철회"
 
 JAP_tokyo_conference_tt:0 "이 중점을 선택하면 도쿄 회담 연계 이벤트가 시작됩니다."
@@ -74,12 +74,12 @@ JAP_may_war_with_indochina:0 "§Y인도차이나§!의 유효한 전쟁 목표�
 JAP_can_attack_india:0 "§Y인도§!의 유효한 전쟁 목표를 공격하는 §Y결정§!을 얻을 것입니다\n"
 JAP_may_war_with_siam:0 "§Y[SIA.GetNameDef]§!에 전쟁을 선포하는 §Y결정§!을 얻을 것입니다\n"
 JAP_no_training_help:0 "일본의 도움을 거절하다"
-JAP_returns_land:0 "§GJapan will any land that we have a claim or core of and they do not.§!\n"
+JAP_returns_land:0 "§G일본은 우리가 영유권을 주장하는 영토나 그들이 요구하지 않은 영토를 제외한 땅을 가질 것입니다.§!\n"
 
 FNGJapanOutrageLevel:0 "격분한 봉천"
 
-JAP_FNG_support_tt:0 "§GThis will increase our influence in [FNG.GetNameDef], making it harder for them to oppose us in the future.§!\n"
-JAP_FNG_outrage_tt:0 "§RThis will reduce our influence in [FNG.GetNameDef], making it easier for them to oppose us in the future.§!\n"
+JAP_FNG_support_tt:0 "§G이것은 [FNG.GetNameDef]에서 우리의 영향력을 증가시켜, 그들이 앞으로 우리를 상대하기가 더 어렵게 만들 것입니다.§!\n"
+JAP_FNG_outrage_tt:0 "§R이것은 [FNG.GetNameDef]에서 우리의 영향력을 감소시켜, 그들이 앞으로 우리를 상대하기가 더 손쉽게 만들 것입니다.§!\n"
 JAP_sow_chaos_tt:0 "파종 정책은 융통성을 유지함으로서 모든 중국 진영을 약하게 만드는데 중점을 둡니다.\n우리는 여러 다른 진영을 분류하고 지원해, 그들을 서로 싸우게 만들 것입니다.\n"
 
 JAP_fading_sun:0 "낙일"
@@ -87,7 +87,7 @@ JAP_fading_sun_desc:0 "[JAP_fading_sun_desc_text]"
 JAP_fading_sun_desc.JAP:0 "우리는 대다수 대륙 영토를 통제할 수 없게 되었습니다! 이 전쟁을 얼마간 지속할 수는 있지만, 그리 오래 가진 않을 것입니다. 전쟁에 대한 정치적 지지는 이미 줄어들고 있습니다. 제국이 살아남으려면 우리는 영토를 되찾아야 합니다."
 JAP_fading_sun_desc.other:0 "우리는 일본을 대다수 대륙 지역에서 밀어내는 데 성공했습니니다! 그들이 공격을 시도하고 대항할 것이라는 점은 의심의 여지가 없지만, 이 일은 일본에 큰 타격입니다. 그들이 자신의 땅을 되찾지 못 한다면, 고조되는 정치적 압력으로인해 그들은 협상에 나설 수 밖에 없게 될 것입니다."
 
-is_fully_controlled_by_JAP_or_war_ally_tooltip:0 "is fully controlled by §Y[JAP.GetNameDef]§! or an ally"
+is_fully_controlled_by_JAP_or_war_ally_tooltip:0 "(은)는 §Y[JAP.GetNameDef]§!, 혹은 동맹에 의해 완전히 통제되고 있습니다."
 
 ### Scripted ###
 JAP_ally1_name:0 "§Y[?global.asian_economic_sphere^0.GetFlag][?global.asian_economic_sphere^0.GetName]§!, "
@@ -180,7 +180,7 @@ JAP_trade_embargoed:0 "일본의 금수조치"
 
 ### Focuses - Foreign - Base ###
 JAP_rising_sun:0 "욱일"
-JAP_rising_sun_desc:0 "국내 정치가 어쨌던간에, 대일본 제국은 세계 무대에 당당히 서 있습니다. 일본군은 천황의 부름에 응할 준비가 되었으며, 우리 국민들은 일본의 영광을 위해서라면 기꺼이 모든 것을 희생할 것입니다. With the world focused on the American civil war, the only question is where."
+JAP_rising_sun_desc:0 "국내 정치가 어쨌던간에, 대일본 제국은 세계 무대에 당당히 서 있습니다. 일본군은 천황의 부름에 응할 준비가 되었으며, 우리 국민들은 일본의 영광을 위해서라면 기꺼이 모든 것을 희생할 것입니다. 현재 세계의 관심이 미국내전에 집중된 가운데, 우리는 어디로 나아가야 할까요?"
 JAP_fight_giants:0 "팔굉일우"
 JAP_fight_giants_desc:0 "'세계 무대에서 일본의 적절한 지위'란 오랫동안 군사학자들과 사상가들의 논쟁거리였지만, 모두가 동의하는 바 역시 있습니다. 천하는 한 지붕 아래 있어야 하지 않겠습니까?"
 
@@ -283,14 +283,14 @@ JAP_nationalize_japanese_investments_desc:0 "[Root.GetNameDef]의 대한 일본 
 KR_co_prosperity_sphere_tooltip:0 "§H[GetCoProsperitySphereName]§!\n[GetCoProsperitySphereEffects]"
 KR_co_prosperity_sphere_tooltip_desc:0 "§L[GetCoProsperitySphereDesc]§"
 
-KR_co_prosperity_sphere_name_JAP:0 "Leader of the East Asian Co-Prosperity Sphere"
-KR_co_prosperity_sphere_name:0 "Member of the East Asian Co-Prosperity Sphere"
+KR_co_prosperity_sphere_name_JAP:0 "대동아 공영권의 대표국"
+KR_co_prosperity_sphere_name:0 "대동아 공영권의 회원국"
 
 KR_co_prosperity_sphere_desc_JAP:0 ""
 KR_co_prosperity_sphere_desc:0 ""
 
-KR_co_prosperity_sphere_effects_JAP:0 "Consumer Goods Factories: [?global.sphere_goods_boost|=%H]\nFactory Output: [?global.sphere_industry_boost|+=%]\nDockyard Output: [?global.sphere_industry_boost|+=%]"
-KR_co_prosperity_sphere_effects:0 "Construction Speed: [?0.2|+=%]\nResource Gain Efficiency: [?global.sphere_resources_boost_member|+=%]\nConsumer Goods Factories: [?global.sphere_goods_boost_member|=%0H]"
+KR_co_prosperity_sphere_effects_JAP:0 "소비재 공장: [?global.sphere_goods_boost|=%H]\n공장 산출량: [?global.sphere_industry_boost|+=%]\n조선소 산출량: [?global.sphere_industry_boost|+=%]"
+KR_co_prosperity_sphere_effects:0 "건설 속도: [?0.2|+=%]\n자원 획득 효율: [?global.sphere_resources_boost_member|+=%]\n소비재 공장: [?global.sphere_goods_boost_member|=%0H]"
 
 ### War Decisions ###
 JAP_threaten_philippines:0 "필리핀 위협"
@@ -807,7 +807,7 @@ japfor.202.a:0 "우리는 선택의 여지가 없다."
 japfor.202.b:0 "그들 스스로 초래한 일이다."
 
 japfor.203.t:0 "봉천이 은 위기에 대해 우리를 비난하다!"
-japfor.203.d:0 "봉천은 일본은행과 미쓰이은행이 봉천에게 대출금을 상환해 달라고 한 요청을 가리키며, 최근의 은 위기 사태는 일본이 자신들의 정부를 불안정하게 만드려는 의도적인 음모라고 말하며 우리 정부를 크게 비난했습니다. 예금은 봉천정부가 주장한 것보다 훨씬 적은 가운데, 우리 전문가들은 봉천 정부가 한 시간 가까이 경제적 신뢰를 잃으면서 자국의 경제는 통제불능 상태에 빠졌고, 이러한 엉뚱하고 어리석은 비난은 그러한 내부 정치 상황에서 기인했을 가능성이 크다고 전했습니다. \n\n 우리는 이 말도 안 되는 주장에 반박할 수도 있지만, 이러한 오만함도 처벌받지 않을 수는 없습니다."
+japfor.203.d:0 "봉천은 일본은행과 미쓰이은행이 봉천에게 대출금을 상환해 달라고 한 요청을 가리키며, 최근의 은 위기 사태는 일본이 자신들의 정부를 불안정하게 만드려는 의도적인 음모라고 말하며 우리 정부를 크게 비난했습니다. 예금은 봉천 정부가 주장한 것보다 훨씬 적은 가운데, 우리 전문가들은 봉천 정부가 한 시간 가까이 경제적 신뢰를 잃으면서 자국의 경제는 통제불능 상태에 빠졌고, 이러한 엉뚱하고 어리석은 비난은 그러한 내부 정치 상황에서 기인했을 가능성이 크다고 전했습니다. \n\n 우리는 이 말도 안 되는 주장에 반박할 수도 있지만, 이러한 오만함도 처벌받지 않을 수는 없습니다."
 japfor.203.a:0 "거짓말이야!"
 japfor.203.b:0 "이 무례한 녀석들을 처벌하라!"
 
