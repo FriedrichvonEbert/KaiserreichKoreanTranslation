@@ -949,7 +949,7 @@ csa.92.a:0 "Foster's cabinet talks him down"
 csa.92.b:0 "Foster's cabinet agrees"
 
 csa.93.t:0 "우디 거스리 뉴욕 투어"
-csa.93.d:0 "재건 작업이 시작되며 유명 가수 우디 거스리와 그의 밴드 알마낙 싱어즈가 공연 투어를 떠났습니다. 미국 전역에서 유명한 우디 거스리의 그의 밴드는 연대여 영원하라나 노조에는 힘이 있네와 같은 고전 명곡뿐만 아니라 이 땅의 너의 땅, 내 혁명의 마음을 편하게 해다오, 자본주의자를 무너뜨려라, 너희 자본주의자들은 지게되 있어와 같은 신곡들도 연주했습니다. 이 투어는 연주 장소 모두에서 인기를 얻었습니다.
+csa.93.d:0 "재건 작업이 시작되며 유명 가수 우디 거스리와 그의 밴드 알마낙 싱어즈가 공연 투어를 떠났습니다. 미국 전역에서 유명한 우디 거스리의 그의 밴드는 연대여 영원하라나 노조에는 힘이 있네와 같은 고전 명곡뿐만 아니라 이 땅의 너의 땅, 내 혁명의 마음을 편하게 해다오, 자본주의자를 무너뜨려라, 너희 자본주의자들은 지게되 있어와 같은 신곡들도 연주했습니다. 이 투어는 연주 장소 모두에서 인기를 얻었습니다."
 csa.93.a:0 "Roll the Union on"
 
 csa.94.t:0 "제1차 세계 SF 박람회"
@@ -1008,7 +1008,7 @@ csa.104.a:0 "Thank you America."
 
 ### Military ###
 
-csa.126.t:0 "Boldness in Science"
+csa.126.t:0 "국경없는 과학"
 csa.126.d:0 "From the bold new class of scientists our generation has produced, none can match the imagination of our Oppenheimer and Pasons. Oppenheimer the ambitious physicist with a connection to the brightest minds in the Internationale can make the atomic weapon dream a reality. Pasons the liberated rocketry pioneer whose devotion to socialism is only matched by his devotion to advancing rocketry research. Unfortunately, we can only fully fund one of these due to budgetary concerns."
 csa.126.a:0 "We shall be liberated from the earth."
 csa.126.b:0 "We shall liberate the atom."
@@ -1022,7 +1022,7 @@ csa.128.t:0 "The Atomic Chain Broken"
 csa.128.d:0 "An international cooperation resulted in fantastic progress on the nuclear weapon. The biggest hurdle came when none of the Southwestern states would allow a test of such importance on their land, due to public knowledge of nuclear radiation. We've had to settle for an old munitions test site in West Virginia. There the test was made, and the entire Internationale celebrated this occasion."
 csa.128.a:0 "We hold the future now."
 
-csa.129.t:0 "미국은 해방되었다"
+csa.129.t:0 "해방된 미국"
 csa.129.d:0 "마침내 미국 전역이 [CSA.GetNameDef] 소속이 되었습니다. 혁명은 총체적인 승리를 달성했고, 인민들은 자본주의의 사슬에서 벗어났습니다. 캘리포니아에서 뉴욕까지, 우리는 모든 곳에서 사회주의의 붉은 깃발을 흔들었습니다. 이제 혁명의 상처를 딛고 모든 인민에게 혁명을 전파할 수 있기를 기대할 뿐입니다."
 csa.129.a:0 "이 땅은 그대의 땅이다."
 
@@ -1031,11 +1031,11 @@ csa.130.d:0 "The [From.GetAdjective] ambassador has arrived, offering a treaty o
 csa.130.a:0 "They are wise."
 csa.130.b:0 "We have no use for Americans, syndicalist or otherwise."
 
-csa.131.t:0 "[From.GetNameDefCap] Agrees"
+csa.131.t:0 "[From.GetNameDefCap]의 동의"
 csa.131.d:0 "The [From.GetAdjective] government has agreed to our offer of a treaty of friendship. Perhaps this is the beginning of a new era of co-operation between our nations."
 csa.131.a:0 "Excellent."
 
-csa.132.t:0 "[From.GetNameDefCap] Refuses"
+csa.132.t:0 "[From.GetNameDefCap]의 거부"
 csa.132.d:0 "The [From.GetAdjective] government has refused our offer of a treaty of friendship. Perhaps both our nations being part of the revolution is not enough for them."
 csa.132.a:0 "A poor decision on their part."
 
@@ -1051,9 +1051,9 @@ csa.152.t:0 "연방준비제도에 대한 총파업 움직임"
 csa.152.d:0 "연방의 폭압으로부터 노동자들을 보호하는 것이 목표였던 총파업이 이제 생산수단을 장악하려는 움직임을 보이고 있습니다. 적위대는 월 스트리트를 해체할 뿐만 아니라 연방 준비 은행의 금을 압수하기 위해 맨하탄 하부에 대피령을 내렸습니다. 이 대표단에는 기자들이 있었는데, 그들은 의원들이 시카고에 안전하게 보관하기 위해 안전 상자를 가지고 가는 것을 볼 수 있었습니다. 이들은 노먼 토마스를 차관으로 선출한 IWW의 신임을 받고 있습니다. 몇몇 사회당 정치인들은 워싱턴에서 에클레스 빌딩 밖에서 만나 연방준비제도이사회 의장 유진 블랙에게 청원하던 중 체포되었습니다."
 csa.152.a:0 "당장 저 사람들을 풀어줘!"
 
-csa.153.t:0 "기한이 다가온다"
+csa.153.t:0 "다가오는 기한"
 csa.153.d:0 "연방정부가 적시한 30일이라는 기한이 다가옴에 따라 어느 쪽도 자신의 의견을 철회하지 않으리라는 것이 분명해졌습니다. 리드의 지지자들이 점유한 지방에서는 적위대가 대거 늘어났고, 무력을 통해서라도 이 나라를 생디칼리슴 국가로 바꾸자는 의견이 점점 더 대중적으로 받아들여지고 있습니다. 결국에는 연방정부 역시 더 이상 타협의 길을 걷지 않으리란 것이 명확해 졌습니다."
-csa.153.a:0 "시간문제일 뿐이다"
+csa.153.a:0 "시간문제일 뿐이다."
 
 csa.154.t:0 "CSA와 재통합?"
 csa.154.d:0 "Against all odds, [CSA.GetNameDef] has triumphed against all opposition, radically transforming America overnight. From their constitutional convention, a new system has arisen, one centered around the principles of syndicalism and workers' democracy - biased as it may be, it's still democratic at is core, something which surprised many people expecting the revolution to inevitably collapse into tyranny. With the recent election of the Farmer-Labor Party, a furious debate has broken out regarding the possibility of a peaceful reunification. While our government is favourable to many of [CSA.GetNameDef]'s policies, they are also far more radical, and will be negotiating from a position of strength - meaning we will be forced to accept many hard compromises. On the other hand, the [CSA.GetNameDef] has proven its resilience, with both the Federal Government and Huey Long's Union State crushed under their armies. Perhaps we should accept the inevitable and avoid more bloodshed, before the victors turn their eyes towards California."
