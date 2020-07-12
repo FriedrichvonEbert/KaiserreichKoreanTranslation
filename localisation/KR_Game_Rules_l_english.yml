@@ -182,8 +182,8 @@ RULE_OPTION_SPR_CIVIL_WAR_AVOIDED_SPR:0 "£KR_game_rule_flag_SPR   국민행동�
 RULE_OPTION_SPR_CIVIL_WAR_AVOIDED_SPR_DESC:0 "공개 선거가 열리고 국민행동당이 권력을 유지하게 되었으며, 그대로 존속하게 됩니다."
 RULE_OPTION_SPR_CIVIL_WAR_AVOIDED_CNT:0 "£KR_game_rule_flag_CNT_syndicalist   전국노동연맹의 선거 승리"
 RULE_OPTION_SPR_CIVIL_WAR_AVOIDED_CNT_DESC:0 "공개 선거가 열리고 전국노동연맹이 큰 표차로 승리했으며, 스페인은 간신히 내전을 피하게 됩니다."
-RULE_OPTION_SPR_CIVIL_WAR_AVOIDED_CAR:0 "£KR_game_rule_flag_CAR   카를리스트의 선거 승리"
-RULE_OPTION_SPR_CIVIL_WAR_AVOIDED_CAR_DESC:0 "공개 선거가 열리고 카를리스트가 큰 표차로 승리했으며, 스페인은 간신히 내전을 피하게 됩니다."
+RULE_OPTION_SPR_CIVIL_WAR_AVOIDED_CAR:0 "£KR_game_rule_flag_CAR   카를로스파의 선거 승리"
+RULE_OPTION_SPR_CIVIL_WAR_AVOIDED_CAR_DESC:0 "공개 선거가 열리고 카를로스파가 큰 표차로 승리했으며, 스페인은 간신히 내전을 피하게 됩니다."
 
 AUS_START_ELECTION:0 "£KR_game_rule_flag_AUS   1936년 오스트리아 선거"
 RULE_OPTION_AUS_START_ELECTION_RANDOM:0 "기본값"
@@ -451,7 +451,7 @@ RULE_OPTION_ICE_ALTHING_ELECTION_INDEPENDENT_DESC:0 "The Independence Party for 
 RULE_OPTION_ICE_ALTHING_ELECTION_LOYAL_TO_DENMARK:0 "£KR_game_rule_flag_ICE   덴마크 잔류"
 RULE_OPTION_ICE_ALTHING_ELECTION_LOYAL_TO_DENMARK_DESC:0 "The Social Democratic Party for Iceland will win the referendum and the country will remain in the Danish Sphere"
 RULE_OPTION_ICE_COD_WAR_CAN:0 "£KR_game_rule_flag_ICE   캐나다산 대구"
-RULE_OPTION_ICE_COD_WAR_CAN_DESC:0 "캐나다가 브리튼연방에 대적하여 대구 전쟁에서 이길 것입니다."
+RULE_OPTION_ICE_COD_WAR_CAN_DESC:0 "캐나다가 브리튼 연방에 대적하여 대구 전쟁에서 이길 것입니다."
 
 SER_GOVERNMENT_PATH:0 "£KR_game_rule_flag_SER   베오그라드 회의"
 RULE_OPTION_SER_GOVERNMENT_PATH_RANDOM:0 "기본값"
