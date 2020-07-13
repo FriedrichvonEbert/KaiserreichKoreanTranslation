@@ -65,9 +65,9 @@ form_republic_china_decision:0 "중화민국 형성"
 form_republic_china_decision_desc:0 "이제 우리가 수도를 장악했으니, 우린 중국의 신 정부를 선언할 수 있습니다!"
 
 ### United Front
-china_united_front_decisions:0 "Leadership of China"
+china_united_front_decisions:0 "중국의 임시지도자"
 assume_chinese_leadership:0 "국가지도자 지위를 맡다"
-assume_chinese_leadership_desc:0 "외국의 지배에 대항할 수 있는 가장 강력한 파벌로서, 우리는 중국 전체에 대해 지도력을 행사할 수 있으며 외세 침략에 맞서 국가를 이끌 능력이 있습니다."
+assume_chinese_leadership_desc:0 "외국의 지배에 대항할 수 있는 가장 강력한 파벌로서, 우리는 중국 전체에 대해 통제력을 행사할 수 있으며 외세 침략에 맞서 국가를 이끌 능력이 있습니다."
 assume_chinese_leadership_tooltip:0 "§H[current_china_leader.GetNameDef]§!보다 군사력이 120% 이상 강합니다"
 assume_chinese_leadership_tooltip_QIE: "§H[QIE.GetNameDef]§!보다 군사력이 100% 이상 강합니다"
 assume_chinese_leadership_tooltip_CHI: "§H[CHI.GetNameDef]§!보다 군사력이 100% 이상 강합니다"
