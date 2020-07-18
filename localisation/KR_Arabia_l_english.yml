@@ -100,77 +100,75 @@ SAU_Ikwhan_Damascus:0 "Raid Damascus"
 SAU_Ikwhan_Medina:0 "Raid Medina"
 
 ### Ideas ###
-ARA_backwards_economy:0 "Archaic Economy"
-ARA_backwards_economy_desc:0 "Our economy is still based on small time agriculture, pastoral activity and Oil trading."
+ARA_backwards_economy:0 "낡은 경제"
+ARA_backwards_economy_desc:0 "우리 경제는 여전히 소규모 농업, 목축업 및 석유 거래를 기반으로합니다.."
 
-ARA_illiterate_populace:0 "Illiterate Populace"
-ARA_illiterate_populace_desc:0 "Many, if not most of our people are too uneducated to properly aid us in the ways we need them too."
+ARA_illiterate_populace:0 "문맹인 서민층"
+ARA_illiterate_populace_desc:0 "대부분의 국민들은 교육을 받지 못해 우리를 제대로 돕지 못합니다."
 
 ARA_trading_expertise_idea:0 "Trading Expertise"
 ARA_trading_expertise_idea_desc:0 "Our trading expertise is yielding us great benefits with our contacts."
 
-ARA_food_imports_idea:0 "Food Imports"
-ARA_food_imports_idea_desc:0 "We are buying foodstuffs en masse and building a foundation for the future."
+ARA_food_imports_idea:0 "식품 수입"
+ARA_food_imports_idea_desc:0 "우리는 식료품을 대량으로 구매하고 미래를위한 토대를 구축하고 있습니다."
 
-ARA_religious_fervor_idea:0 "High Morale Troops"
-ARA_religious_fervor_idea_desc:0 "Well equipped and motivated men, our forces fight for more than their mere nation, but for the Holy Cities, for Faith and their Sovereign."
+ARA_religious_fervor_idea:0 "사기가 높은 군대"
+ARA_religious_fervor_idea_desc:0 "잘 준비되고 동기가 부여된 우리 군대는 조국과 성스러운 도시, 신앙과 주권을 위해 싸우고 있습니다."
 
-ARA_new_arabian_army:0 "New 아라비아 Army"
-ARA_new_arabian_army_desc:0 "Our reformed armed forces now act with renewed vigour and independence from politics, and god willing will bring us victory in the battlefield."
+ARA_new_arabian_army:0 "새로운 아라비아 군대"
+ARA_new_arabian_army_desc:0 "우리의 개혁된 군대는 이제 정치문제에서 자유롭게 행동하며, 알라의 뜻은 우리를 전장에서 승리로 이끌 것입니다."
 
-ARA_arabian_horsemanship_idea:0 "아라비아 Horsemanship"
-ARA_arabian_horsemanship_idea_desc:0 "Our horsemen, equipped with the finest steeds and steeled by years of raids, have answered the call and will fight for us in the coming war for the world."
+ARA_arabian_horsemanship_idea:0 "아라비아 기병"
+ARA_arabian_horsemanship_idea_desc:0 "최고급 군마를 갖추고 수년간의 전쟁으로 단련된 기병들은 부름에 응하여 다가올 세계대전에서 우리를 위해 싸울 것입니다. "
+ARA_desert_logstics_idea:0 "사막 보급"
+ARA_desert_logstics_idea_desc:0 "우리의 군대는 우리의 지형을 최대한 활용하고 외국인은 가지 않는 길을 알도록 훈련받습니다."
 
-ARA_desert_logstics_idea:0 "Desert Logistics"
-ARA_desert_logstics_idea_desc:0 "Our forces are trained to make the best our our terrain and know paths foreigners do not."
+ARA_islamic_welfare:0 "이슬람 복지"
+ARA_islamic_welfare_desc:0 "궁핍한 자들을 위한 자선은 우리 신앙의 다섯 기둥 중 하나입니다. 많은 빈곤층, 거지, 그리고 고아와 과부는 우리의 통치에 따라 빈곤에 빠지지 않을 것입니다. "
+ARA_muslim_universities:0 "이슬람 대학"
+ARA_muslim_universities_desc:0 "우리는 공공 기금을 사용하여 고등 교육 기관을 확장했습니다."
 
-ARA_islamic_welfare:0 "Islamic Welfare"
-ARA_islamic_welfare_desc:0 "Charity towards the needy is one of the five pillars of our faith; the many poor, destitute and the orphans and widows of war will not fall to poverty under our rule."
+JBS_ikhwan_raids:0 "아크 환 습격"
+JBS_ikhwan_raids_desc:0 "사우디에 관한 승리에도 불구하고, 아크 환은 우리 국토와 기지를 계속 습격하고 있습니다.  ."
 
-ARA_muslim_universities:0 "Islamic Universities"
-ARA_muslim_universities_desc:0 "Using public funds, we have expanded our higher learning institutions."
+SAU_moral_police:0 "샤리아 경찰"
+SAU_moral_police_desc:0 "우리 나라를 순수하게 유지하기 위해 종교적 준수와 공공의 도덕성을 강화해야합니다."
 
-JBS_ikhwan_raids:0 "Ikhwan Raids"
-JBS_ikhwan_raids_desc:0 "Despite our victory over the 사우디s, the Ikhwan continue to raid our camps and land."
+SAU_warriors_of_faith:0 "신의 전사들"
+SAU_warriors_of_faith_desc:0 "우리는 억압받는 아랍민족을 자유롭게 할 것이다! 우리는 투르크 제국과 우리를 방해하는 자들을 쓰러뜨릴 것이다! 알라후 아크바르!"
 
-SAU_moral_police:0 "Morals Police"
-SAU_moral_police_desc:0 "Religious observance and public morality shall be enforced in order to keep our land pure."
+SAU_uniting_the_peninsula:0 "아랍의 통일하는 자"
+SAU_uniting_the_peninsula_desc:0 "개같은 라시디는 죽었고 통일 아라비아로 가는 길은 활짝 열려 있습니다. 기쁜 마음으로 승리를 선언하십시오!"
 
-SAU_warriors_of_faith:0 "Warriors of Faith"
-SAU_warriors_of_faith_desc:0 "We will free our fellow Arabs! We will take down the Great Turk and those who stand in our way! God is Great!"
+SAU_heavy_jizya:0 "높은 지즈야 과세"
+SAU_heavy_jizya_desc:0 "아라비아에 사는 모든 그리스도인과 유대인은 우리가 가져온 자유와 평화에 대해 공정한 대가를 지불해야합니다."
 
-SAU_uniting_the_peninsula:0 "Unifiers of Arabia"
-SAU_uniting_the_peninsula_desc:0 "The 라시디 dogs are dead and the road to a unified Arabia lies wide open. Sally forth and claim victory!"
+SAU_madrasahs:0 "살라프 마드라사"
+SAU_madrasahs_desc:0 "우리의 가장 현명한 사람들은 이제 충분한 자금을 지원할뿐만 아니라, 위대한 법과 믿음의 학교를 확장하고 성장시킬 수있는 능력을 가지고 있습니다."
 
-SAU_heavy_jizya:0 "Heavy Jizya Payments"
-SAU_heavy_jizya_desc:0 "Every Christian and Jew living in Arabia pays a fair price for the freedom and peace we brought."
-
-SAU_madrasahs:0 "Salafi Madrasahs"
-SAU_madrasahs_desc:0 "Our wisest men are now not only properly funded, but have the capacity to expand and grow their great schools of Law and Faith."
-
-SAU_ikh_aftermatch:0 "Salafi Discontent"
-SAU_ikh_aftermatch_desc:0 "Even after the military defeat of the Ikhwan, many still sympathise with them openly, and others plot for another revolt. Measures must be taken."
+SAU_ikh_aftermatch:0 "살라프의 불만"
+SAU_ikh_aftermatch_desc:0 "아크 환의 패배 후에도 많은 사람들이 여전히 그들에게 동조하고 몇몇 사람들은 또 다른 반란을 계획합니다. 조치를 취해야합니다."
 
 ### Shared Focuses ###
 ARA_trading_expertise:0 "Trading Expertise"
 ARA_trading_expertise_desc:0 "For millennia the Arab people had become rich not due to the bounty of the land, but by it's expertise in trading. Now more than ever we are strapped for funds and goods, and we need to put all the merchants and diplomats we can into good use!"
 
-ARA_arms_imports:0 "Military Imports"
-ARA_arms_imports_desc:0 "We need weapons in order to to defeat the ottomans and anyone that would stand in the way of Arabia. To that end, let us import our weapons from abroad."
+ARA_arms_imports:0 "무기 수입"
+ARA_arms_imports_desc:0 "오스만과 아라비아를 방해하는자를 물리치기 위해서는 무기가 필요합니다. 이를 위해 해외에서 무기를 수입해야합니다."
 
-ARA_weapons_aqusitions:0 "Weapons Acquisitions"
-ARA_weapons_aqusitions_desc:0 "'This is just a misunderstanding! These are just hunting rifles for the Emir's personal collection. I assure you that everything is in order'."
+ARA_weapons_aqusitions:0 "무기 획득"
+ARA_weapons_aqusitions_desc:0 "'오해입니다! 이것들은 에미르의 개인적인 사냥총 수집품입니다. 문제가 될 것은 없다고 장담합니다.'."
 
-ARA_reverse_engineering:0 "Reverse Engineering"
-ARA_reverse_engineering_desc:0 "'It's *not* a Gewher! It's the Arab made Bunduqia Sabah rifle; entirely original design i assure you'."
+ARA_reverse_engineering:0 "역설계"
+ARA_reverse_engineering_desc:0 "'*절대* Gewhe(독일제)가 아닙니다!  아랍의 Bunduqia Sabah(아침 소총)이라구요. 완전히 독창적인 디자인이라구욧!'."
 
-ARA_armament_plans:0 "Armament Plans"
-ARA_armament_plans_desc:0 "We have many warriors which are capable and brave, but far fewer guns that are actually usable in a modern battlefield. If we are to take victory and ensure our freedom, we must ensure we have the best available to us."
+ARA_armament_plans:0 "무장 계획"
+ARA_armament_plans_desc:0 "우리는 유능하고 용감한 전사가 많지만 현대 전장에서 실제로 사용할 수있는 총은 훨씬 적습니다. 우리가 승리하고 자유를 보장 받으려면 우리가 가능한 한 최선을 다해야합니다. "
 
-ARA_civilian_trade:0 "Civilian Factories"
-ARA_civilian_trade_desc:0 "As we trade with westerners we should look at building some factories within our lands in order to prepare to defeat the Ottomans."
+ARA_civilian_trade:0 "민간 공장"
+ARA_civilian_trade_desc:0 "우리는 오스만 제국을 물리치기 위해 서양인들과 거래 할 때 필요한 물품을 지급하기 위해 공장을 짓는 것을 고려해야합니다."
 
-ARA_arsenal_of_arabia:0 "Arsenal of Arabia"
+ARA_arsenal_of_arabia:0 "아라비아의 아스날"
 ARA_arsenal_of_arabia_desc:0 "More than just having the minimum of guns, we need to have a surplus; ammo, ships, tires, bandages, food, livestock; Arabia's arsenal has many needs which must be fulfilled lest we will fall to our enemies."
 
 ARA_caravans_of_tomorrow:0 "Caravans of Tomorrow"
@@ -678,20 +676,20 @@ jbs.31.a.india:0 "Inshallah."
 jbs.31.a.OTT:0 "Reject these ludicrous claims!"
 jbs.31.a.other:0 "He is not the Caliph."
 
-jbs.32.t.india:0 "Indian Muslims Accept our Claims"
-jbs.32.t.insulindia:0 "Insulindian Muslims Reject our Claims"
-jbs.32.t.RUS:0 "Russian Muslims Reject our Claims"
-jbs.32.t.other:0 "[FROM.GetNameDefCap] Rejects our Claims"
+jbs.32.t.india:0 "인도 무슬림은 우리의 클레임을 받아들였습니다"
+jbs.32.t.insulindia:0 "인도 무슬림은 우리의 클레임을 거절했습니다"
+jbs.32.t.RUS:0 "러시아 무슬림은 우리의 클레임을 거부합니다."
+jbs.32.t.other:0 "[FROM.GetNameDefCap] 우리의 클레임을 거절했습니다"
 
 jbs.32.d.india:0 "We have received good news out of India. The Muslim population of India has accepted our claims as the Caliph."
 jbs.32.d.insulindia:0 "We have received news from Insulindia that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
-jbs.32.d.other:0 "We have received news from [FROM.GetNameDef] that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
-jbs.32.a.india:0 "We shall remember this."
-jbs.32.a.other:0 "We shall not forget this."
+jbs.32.d.other:0 "[FROM.GetNameDef] 사람들은 당신이 칼리프가 아니라고 결정한 것처럼 보입니다. 이것은 우리가 잊을 수없는 분노입니다.."
+jbs.32.a.india:0 "우리는 이것을 기억할 것이다."
+jbs.32.a.other:0 "우리는 이것을 잊지 않을 것이다."
 
-jbs.53.t:0 "Integration of Hejaz"
-jbs.53.d:0 "At long last the holy cities of Medina and Mecca have joined our 아라비아 nation. Whilst we encountered significant opposition from the local populace against our aggressive behaviour in the Ottoman war, the people there still agree with the idea of an 아라비아 state and have mostly given up fighting our rule."
-jbs.53.a:0 "Arabia grows stronger by the day!"
+jbs.53.t:0 "헤자즈 통합 "
+jbs.53.d:0 "마침내 메디나와 메카의 거룩한 도시가 우리 아라비아 국가에 합류했습니다. 우리는 오스만 전쟁에서 우리의 행동에 대항한 지역 주민들로부터 상당한 반대를 겪었지만, 그곳의 사람들은 여전히 아라비아 국가의 이상에 동의하고 대부분 우리의 통치에 대한 저항을 포기했습니다.."
+jbs.53.a:0 "아랍이 위대해지는 그날까지!"
 
 ### Cosmetic Tags ###
 JBS_ARA_national_populist:0 "라시디아라비아"
