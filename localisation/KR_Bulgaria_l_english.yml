@@ -263,7 +263,7 @@ bulgaria.10.d:0 "불가리아 육군은 [Root.GetName]의 자존심이며, 많�
 bulgaria.10.a:0 "착검!"
 
 bulgaria.11.t:0 "불가리아 헤게모니"
-bulgaria.11.d:0 "우리는 [BUL.GetAdjective]의 황금 시대를 보존하기 위해 발칸에서 헤게모니를 유지하는 방향으로 시선을 돌려야 합니다. 현재, 우리는 정당한 영토를 차지하려는 코데라노의 루마니아 철위대와 정당한 우리의 영토를 주장하는 남부 그리스인들에게 둘러싸여 있습니다. 게다가, 세르비아는 발칸 반도에서 자신의 헤게모니를 확보하기 위해 보복 정책의 불씨를 지피고 있습니다. 우리는 그 일이 일어놔도록 놔둘 수 없습니다."
+bulgaria.11.d:0 "우리는 [BUL.GetAdjective]의 황금 시대를 보존하기 위해 발칸에서 헤게모니를 유지하는 방향으로 시선을 돌려야 합니다. 현재, 우리는 정당한 영토를 차지하려는 루마니아와 정당한 우리의 영토를 주장하는 남부 그리스인들에게 둘러싸여 있습니다. 게다가, 세르비아는 발칸 반도에서 자신의 헤게모니를 확보하기 위해 보복 정책의 불씨를 지피고 있습니다. 우리는 그 일이 일어놔도록 놔둘 수 없습니다."
 bulgaria.11.a:0 "우리는 단호해야 한다!"
 
 bulgaria.12.t:0 "고인의 영예"
@@ -417,52 +417,35 @@ bulgaria.46.a:0 "불가리아 농민연합!"
 bulgaria.46.b:0 "포괄사회주의!"
 bulgaria.46.c:0 "급진민주당!"
 
-bulgaria.47.t:0 "유고슬라비아와의 통합?"
-bulgaria.47.d:0 "스탐볼리스키의 가장 큰 꿈 중 하나는 항상 유럽의 남부 슬라브인들이 하나로 뭉쳐서 하나의 국가를 형성하는 범슬라브 국가의 창설이었습니다. 다행히도 유고슬라비아 국가는 이미 존재하고 있으며 우리의 동맹국입니다. 우리가 그들에게 연합에 대한 승인을 요청하는 청원을 할 수 있을까요? 말하자면, 이것은 상류층들 사이에서 인기가 없는 생각이고 우리는 혼란이 불가리아를 다시 집어삼키지 않도록 주의 깊게 밟아야만 합니다."
+bulgaria.47.t:0 "[SER.GetNameDef](와)과의 통합?"
+bulgaria.47.d:0 "스탐볼리스키의 가장 큰 꿈 중 하나는 항상 유럽의 남부 슬라브인들이 하나로 뭉쳐서 하나의 국가를 형성하는 범슬라브 국가의 창설이었습니다. 다행히도 유고슬라비아 국가는 이미 존재하고 있으며 우리의 동맹국입니다. 우리가 그들에게 연합에 우리의 가입 승인을 요청하는 청원을 할 수 있을까요? That being said, this is an unpopular idea amongst many powerful Bulgarians and we should tread carefully, lest chaos engulf the nation once again."
 bulgaria.47.a:0 "뭐가 잘못되겠어?"
+bulgaria.47.b:0 "아니, 너무 위험하다."
 
-bulgaria.48.t:0 "스탐볼리스키의 범슬라브의 꿈"
-bulgaria.48.d:0 "스탐볼리스키의 가장 큰 꿈 중 하나는 항상 유럽의 남부 슬라브인들이 하나로 뭉쳐서 하나의 국가를 형성하는 범슬라브 국가의 창설이었습니다. 세르비아가 이제 우리의 동맹국이며 발칸 제국에 대해 완전한 지배력을 가지고 있음을 알 수 있지만, 우리가 그들에게 범슬라브 국가의 창설을 촉구하는 것을 도울 것을 청원할 수 있을까요? 말하자면, 이것은 상류층들 사이에서 인기가 없는 생각이고 우리는 혼란이 불가리아를 다시 집어삼키지 않도록 주의 깊게 밟아야만 합니다."
-bulgaria.48.a:0 "뭐가 잘못되겠어?"
-
-bulgaria.49.t:0 "[BUL.GetName](을)를 연합에 수용?"
-bulgaria.49.d:0 "다소 놀랍게도, [BUL.GetAdjective] 정부와 알렉산더르 스탐볼리스키는 범슬라브의 꿈을 확대하는 것으로 가장하여 우리에게 유고슬라비아에 그들을 받아들이도록 요청하기로 결정했습니다. 불가리아를 받아들이는 것은 분명 우리가 발칸 반도에 대한 확고한 지배력을 강화하는데 도움을 줄 것이지만, 또한 이웃 국가과 긴장을 불러일으킬 수도 있습니다. 어떻게 해야 할까요?"
-bulgaria.49.a:0 "좋은 생각인 것 같군!"
-bulgaria.49.b:0 "아니, 너무 위험하다."
-
-bulgaria.50.t:0 "스탐볼리스키의 아이디어 수락?"
-bulgaria.50.d:0 "다소 놀랍게도, [BUL.GetAdjective] 정부와 알렉산더르 스탐볼리스키가 범슬라브의 꿈을 발전시키는 모습을 보면서 범슬라브 국가의 창설을 돕기로 결정한 것처럼 보입니다. 그렇게하는 것은 의심의 여지없이 발칸 반도에 대한 우리의 확고한 의지를 강화시키는데 도움이 될 것이지만, 또한 이웃 국가들과 긴장을 불러일으킬 수도 있습니다. 어떻게 해야 할까요?"
-bulgaria.50.a:0 "좋은 생각인 것 같군!"
-bulgaria.50.b:0 "아니, 너무 위험하다."
+bulgaria.49.t:0 "Accept [BUL.GetNameDef] into the Union?"
+bulgaria.49.d:0 "A [BUL.GetAdjective] delegation recently arrived, bringing with them a proposal from Aleksandar Stamboliyski's Agrarian National Union government. They are seeking acceptance into [Root.GetNameDef], in the interests of furthing the pan-Slavic dream. While accepting their proposal would help strengthen our already firm grip on the Balkans, many advisors have noted that this is likely neither a popular cause in Bulgaria or with our neighbours. If we accept and news gets out, we could see our own allies turn on us or Bulgaria could be engulfed by internal turmoil. How badly do we wish to pursue this?"
+bulgaria.49.a:0 "It's worth the risk"
+bulgaria.49.b:0 "No, this is far too dangerous"
 
 bulgaria.51.t:0 "[From.GetNameDefCap]의 수락!"
-bulgaria.51.d:0 "좋은 소식입니다! 분명히 [From.GetName]의 [Root.GetAdjective] 대표단은 [From.GetAdjective](이)가 범슬라브 국가의 창설을 돕기로 결정했다고 보고했습니다. 완료하는데 시간이 좀 걸리겠지만, 우리가 범슬라브의 꿈을 이루는데 도움을 주었다는 사실을 알았으니 우리는 기뻐할 수 있습니다."
+bulgaria.51.d:0 "Great news! Apparently the [Root.GetAdjective] delegation to [From.GetNameDef] returned with the news that the [From.GetAdjective] government has decided to accept our proposal. While this will take some time to be formalised, we can rejoice knowing that we have helped further the pan-Slavic dream."
 bulgaria.51.a:0 "영광스러운 기회다!"
 
 bulgaria.52.t:0 "[From.GetNameDefCap]의 거절!"
 bulgaria.52.d:0 "끔찍한 소식이 방금 도착했습니다! 분명히 [From.GetName]의 [Root.GetAdjective] 대표단은 [From.GetAdjective](이)가 거절하기로 결정했으며 범슬라브 국가의 창설을 도와주지 않을 것이라고 보고하였습니다. 이것은 사실상 우리가 우리 혼자뿐이라는 것을 의미하며 범슬라브의 꿈이 꽤 많이 지연되었다는 것을 의미합니다. 이것은 스탐볼리스키에게도 잘 반영되지 않았습니다. 그가 항상 그 생각을 크게 지지해왔고 세르비아인들의 지지를 확보하지 못했기 때문에 많은 사람들이 그의 지도자로서의 실효성을 의심하게 만들었습니다."
 bulgaria.52.a:0 "망할 놈들!"
 
-bulgaria.53.t:0 "[From.GetNameDefCap]의 수락!"
-bulgaria.53.d:0 "좋은 소식입니다! 분명히 [From.GetName]의 [Root.GetAdjective] 대표단은 [From.GetAdjective](이)가 범슬라브 국가의 창설을 돕기로 결정했다고 보고했습니다. 완료하는데 시간이 좀 걸리겠지만, 우리가 범슬라브의 꿈을 이루는데 도움을 주었다는 사실을 알았으니 우리는 기뻐할 수 있습니다."
-bulgaria.53.a:0 "영광스러운 기회다!"
-
-bulgaria.54.t:0 "[From.GetNameDefCap]의 거절!"
-bulgaria.54.d:0 "끔찍한 소식이 방금 도착했습니다! 분명히 [From.GetName]의 [Root.GetAdjective] 대표단은 [From.GetAdjective](이)가 거절하기로 결정했으며 범슬라브 국가의 창설을 도와주지 않을 것이라고 보고하였습니다. 이것은 사실상 우리가 우리 혼자뿐이라는 것을 의미하며 범슬라브의 꿈이 꽤 많이 지연되었다는 것을 의미합니다. 이것은 스탐볼리스키에게도 잘 반영되지 않았습니다. 그가 항상 그 생각을 크게 지지해왔고 세르비아인들의 지지를 확보하지 못했기 때문에 많은 사람들이 그의 지도자로서의 실효성을 의심하게 만들었습니다."
-bulgaria.54.a:0 "망할 놈들!"
-
-bulgaria.55.t:0 "최근 사건에 대한 대응"
-bulgaria.55.serbia:0 "[BUL.GetName]의 새 정부는 세르비아에게 범슬라브적 이상을 전파함으로써 범슬라브 주의를 더욱 확대하려는 것처럼 보입니다. 우리는 세르비아가 그들의 제안을 받아들이는 것이 발칸 반도의 권력 균형을 무너뜨리고, 따라서 그 지역을 불안정하게 만들 것이기 때문에, 가만히 앉아서 그들의 제안을 받아들이는 것을 허용할 수 없습니다. 우리는 무슨 일이 있어도 이 일이 일어나지 않도록 막아야 합니다. 비록 그것이 우리가 전쟁에 나가야 한다는 것을 의미한다고 하더라도."
-bulgaria.55.yugoslavia:0 "[BUL.GetName]의 새 정부는 유고슬라비아에게 그들을 연합에 받아들이도록 요청함으로써 범슬라브 주의를 더욱 확대하려고 시도해왔습니다. 우리는 그것이 서명된 조약에 대한 명백한 위반이고 발칸 반도의 힘의 균형을 깨뜨리며, 따라서 그 지역을 불안정하게 만들 것이기 때문에, 가만히 앉아서 이것이 일어나도록 내버려 둘 수 없습니다. 우리는 무슨 일이 있어도 이 일이 일어나지 않도록 막아야 합니다. 비록 그것이 우리가 전쟁에 나가야 한다는 것을 의미한다고 하더라도."
-bulgaria.55.a:0 "전투 준비!"
-bulgaria.55.b:0 "우리는 아직 그러한 노력을 할 준비가 되지 않았다..."
+bulgaria.55.t:0 "The [SER.GetAdjective] Plan"
+bulgaria.55.d:0 "It seems as though the government in [BUL.GetNameDef] has attempted to further pan-Slavism by asking [SER.GetNameDef] to accept them into the union. We cannot idly sit by and allow for this to happen, as it is a clear violation of previous treaties and will upset the balance of power in the Balkans. [SER.GetNameDefCap] will become dominant - what is to stop them from coming after us, next?"
+bulgaria.55.a:0 "Object strenuously"
+bulgaria.55.b:0 "We do not care"
 
 bulgaria.56.t:0 "차르 보리스 3세의 쿠데타!"
 bulgaria.56.d:0 "차르 보리스 3세와 그의 대의에 충성하는 강경파 군인으로 구성된 절대주의자들은 [BUL.Get Adjective]의 보존과 안보를 유지하기 위해 권력을 쥐기로 결정했습니다. 불가리아의 주권을 유지한다는 미명 아래, 그들은 직접 스탐볼리스키와 불가리아 농민연합을 몰아냈고, 권력을 장악하고 지휘를 맡았습니다."
 bulgaria.56.a:0 "충격적이군!"
 
 bulgaria.57.t:0 "불안정!"
-bulgaria.57.serbia:0 "스탐볼리스키의 범슬라브적 꿈을 돕고 범슬라브 국가 창설에 대한 도움을 세르비아가 거부함에 따라 불가리아는 다시 한 번 혼란에 빠진 것처럼 보입니다. 정부는 국가의 고위층뿐만 아니라 일반 국민들로부터도 불신임 투표권을 받았습니다. 따라서 불가리아 농민연합은 더 이상 권력이 없습니다. 그 대신에 4개 정당 중 한 정당이 정권을 잡았습니다. 그러나 문제는 여전히 남아 있습니다 : 어느 당이 간신히 주도권을 잡았나요?"
+bulgaria.57.refused:0 "Following the government's refusal to further Stamboliyski's pan-Slavic dream, it seems the government has lost the support of many of its own members - a weakness that Stamboliyski's enemies have seized upon. A vote of no confidence has been received from not only the upper echelons of power, but also the people themselves. Thus, the Bulgarian Agrarian National Union is no longer in control. In their stead, one of four parties have taken power. The questions remains, however: which party has managed to take control?"
 bulgaria.57.yugoslavia:0 "스탐볼리스키의 범슬라브적 꿈을 돕고 범슬라브 국가 창설에 대한 도움을 유고슬라비아가 거부함에 따라 불가리아는 다시 한 번 혼란에 빠진 것처럼 보입니다. 정부는 국가의 고위층뿐만 아니라 일반 국민들로부터도 불신임 투표권을 받았습니다. 따라서 불가리아 농민연합은 더 이상 권력이 없습니다. 그 대신에 4개 정당 중 한 정당이 정권을 잡았습니다. 그러나 문제는 여전히 남아 있습니다 : 어느 당이 간신히 주도권을 잡았나요?"
 bulgaria.57.a:0 "포괄사회주의!"
 bulgaria.57.b:0 "급진민주당!"
@@ -486,7 +469,7 @@ bulgaria.61.d:0 "차르는 더 이상 결과없이 통치할 수 없으며 [BUL.
 bulgaria.61.a:0 "바라건대 이것으로 군주주의자들이 분노하지 않길..."
 
 bulgaria.62.t:0 "[BUL.GetName](와)과의 화해?"
-bulgaria.62.d:0 "많은 사람들이 놀라운 움직임으로 간주하고 있는 이 새로운 [BUL.GetAdjective](은)는, 화해적인 어조로 양국간의 관계를 강화하고 관계 증진을 위해 발칸 반도의 안정성을 언급했습니다. 우리가 받아들여야 할 의무는 없지만, 그렇게 하는 것이 [Root.GetNameDef]에게 큰 도움이 될 수 있을까요?"
+bulgaria.62.d:0 "많은 사람들이 놀라운 움직임으로 간주하고 있는 이 새로운 [BUL.GetAdjective] 정부는, 화해적인 어조로 양국간의 관계를 강화하고 관계 증진을 위해 발칸 반도의 안정성을 언급했습니다. 우리가 받아들여야 할 의무는 없지만, 그렇게 하는 것이 [Root.GetNameDef]에게 큰 도움이 될 수 있을까요?"
 bulgaria.62.a:0 "우리는 받아들일 것이다."
 bulgaria.62.b:0 "절대 안된다."
 
@@ -499,7 +482,7 @@ bulgaria.64.d:0 "나쁜 소식입니다! [From.GetNameDef](은)는 발칸 반도
 bulgaria.64.a:0 "망할 놈들."
 
 bulgaria.65.t:0 "[BUL.GetName](와)과의 화해?"
-bulgaria.65.d:0 "많은 사람들이 놀라운 움직임으로 간주하고 있는 이 새로운 [BUL.GetAdjective](은)는, 화해적인 어조로 양국간의 관계를 강화하고 관계 증진을 위해 발칸 반도의 안정성을 언급했습니다. 우리가 받아들여야 할 의무는 없지만, 그렇게 하는 것이 [Root.GetNameDef]에게 큰 도움이 될 수 있을까요?"
+bulgaria.65.d:0 "많은 사람들이 놀라운 움직임으로 간주하고 있는 이 새로운 [BUL.GetAdjective] 정부는, 화해적인 어조로 양국간의 관계를 강화하고 관계 증진을 위해 발칸 반도의 안정성을 언급했습니다. 우리가 받아들여야 할 의무는 없지만, 그렇게 하는 것이 [Root.GetNameDef]에게 큰 도움이 될 수 있을까요?"
 bulgaria.65.a:0 "우리는 받아들일 것이다."
 bulgaria.65.b:0 "절대 안된다."
 
@@ -512,7 +495,7 @@ bulgaria.67.d:0 "나쁜 소식입니다! [From.GetNameDef](은)는 발칸 반도
 bulgaria.67.a:0 "망할 놈들."
 
 bulgaria.68.t:0 "[BUL.GetName](와)과의 화해?"
-bulgaria.68.d:0 "많은 사람들이 놀라운 움직임으로 간주하고 있는 이 새로운 [BUL.GetAdjective](은)는, 화해적인 어조로 양국간의 관계를 강화하고 관계 증진을 위해 발칸 반도의 안정성을 언급했습니다. 우리가 받아들여야 할 의무는 없지만, 그렇게 하는 것이 [Root.GetNameDef]에게 큰 도움이 될 수 있을까요?"
+bulgaria.68.d:0 "많은 사람들이 놀라운 움직임으로 간주하고 있는 이 새로운 [BUL.GetAdjective] 정부는, 화해적인 어조로 양국간의 관계를 강화하고 관계 증진을 위해 발칸 반도의 안정성을 언급했습니다. 우리가 받아들여야 할 의무는 없지만, 그렇게 하는 것이 [Root.GetNameDef]에게 큰 도움이 될 수 있을까요?"
 bulgaria.68.a:0 "우리는 받아들일 것이다."
 bulgaria.68.b:0 "절대 안된다."
 
@@ -525,7 +508,7 @@ bulgaria.70.d:0 "나쁜 소식입니다! [From.GetNameDef](은)는 발칸 반도
 bulgaria.70.a:0 "망할 놈들."
 
 bulgaria.71.t:0 "[BUL.GetName](와)과의 화해?"
-bulgaria.71.d:0 "많은 사람들이 놀라운 움직임으로 간주하고 있는 이 새로운 [BUL.GetAdjective](은)는, 화해적인 어조로 양국간의 관계를 강화하고 관계 증진을 위해 발칸 반도의 안정성을 언급했습니다. 우리가 받아들여야 할 의무는 없지만, 그렇게 하는 것이 [Root.GetNameDef]에게 큰 도움이 될 수 있을까요?"
+bulgaria.71.d:0 "많은 사람들이 놀라운 움직임으로 간주하고 있는 이 새로운 [BUL.GetAdjective] 정부는, 화해적인 어조로 양국간의 관계를 강화하고 관계 증진을 위해 발칸 반도의 안정성을 언급했습니다. 우리가 받아들여야 할 의무는 없지만, 그렇게 하는 것이 [Root.GetNameDef]에게 큰 도움이 될 수 있을까요?"
 bulgaria.71.a:0 "우리는 받아들일 것이다."
 bulgaria.71.b:0 "절대 안된다."
 
@@ -671,6 +654,49 @@ bulgaria.103.a:0 "한번 그래 보라지!"
 bulgaria.104.t:0 "전쟁이 끝났다"
 bulgaria.104.d:0 "투르크와의 전쟁이 끝났고, 우리 국경을 원래대로 돌려놓을 때가 왔습니다."
 bulgaria.104.a:0 "이제 푹 쉬어라!"
+
+bulgaria.110.t:0 "The [From.GetAdjective] Objection"
+bulgaria.110.d:0 "The [From.GetAdjective] government has sent us a vociferous objection to our plan to unite with [BUL.GetNameDef]. They claim it violates previous treaties, and will upset the balance of power in the Balkans. They are so outraged, in fact, that they've threatened to leave our alliance if we continue... and perhaps even take arms against us! How should we respond to such blackmail?"
+bulgaria.110.a:0 "Perhaps we should reconsider after all..."
+bulgaria.110.b:0 "No! We press forward!"
+
+bulgaria.111.t:0 "[From.GetNameDefCap] Abandons Plan"
+bulgaria.111.d:0 "The [From.GetAdjective] government has reassured us that the plan was tentative at best, and they have withdrawn the idea completely and apologized for offending us."
+bulgaria.111.a:0 "Good!"
+
+bulgaria.112.t:0 "[From.GetNameDefCap] Abandons Plan"
+bulgaria.112.d:0 "Under pressure from their allies in [From.From.GetNameDef], the [From.GetAdjective] government has decided to discard the proposed union with [Root.GetNameDef]. This is a disaster that makes our government look incredibly foolish!"
+bulgaria.112.a:0 "Alas"
+
+bulgaria.113.t:0 "[From.GetNameDefCap] Stands Firm"
+bulgaria.113.d:0 "It appears the [From.GetAdjective] has decided we are bluffing. They have informed us they are proceeding with the planned union, no matter what we say."
+bulgaria.113.a:0 "Then we have no use for this alliance"
+bulgaria.113.b:0 "We will oppose this decision with force!"
+bulgaria.113.c:0 "Let it go"
+bulgaria_war_serbia_tt:0 "A prompt to declare war on [SER.GetNameDef] may come within the next few days, if they proceed with their plan...\n"
+
+bulgaria.114.t:0 "[From.GetNameDefCap] Leaves the [Root.GetFactionName]"
+bulgaria.114.d:0 "While the [From.GetAdjective] government's threats were indeed so much hot air, their fury is not. They have decided to abandon their alliance with us, in objection to our plans."
+bulgaria.114.a:0 "Bah! Who needs them!"
+
+bulgaria.115.t:0 "The [From.GetAdjective] Threat"
+bulgaria.115.d:0 "It appears the [From.GetAdjective] government's objection to our plan was real and deep-seated. They have abandoned the [Root.GetFactionName] and are massing their forces on the border."
+bulgaria.115.a:0 "This is not good..."
+
+bulgaria.116.t:0 "The Bulgarian Coup"
+bulgaria.116.d:0 "It appears our estimation of the popularity of the union inside Bulgaria was not unwarranted. The democratic government has been overthrown by reactionaries opposed to [Root.GetNameDef], with Boris III retaking the throne. They have ended ties with us and announced absolute opposition to Stamboliyski's proposal. Some within our government are calling for intervention, at the very least to restore the old government but also to show that [Root.GetNameDef] cannot be insulted without reprisal."
+bulgaria.116.a:0 "Abandon the union idea and leave them be"
+bulgaria.116.b:0 "We will pursue this to the bitter end!"
+
+bulgaria.117.t:0 "The War Begins"
+bulgaria.117.d:0 "Even though the notion of union with [SER.GetNameDef] is violently opposed within Bulgaria, enough so that Boris III has had his throne restored to him to end the notion, the [SER.Adjective] government is not content to let it lie. They are pursuing conquest of [BUL.GetNameDef], and not it falls on us to consider whether we will go through with our threat of intervention."
+bulgaria.117.a:0 "We absolutely will"
+bulgaria.117.b:0 "Back down and leave them to their fate"
+
+bulgaria.118.t:0 "The Bulgarian Coup"
+bulgaria.118.d:0 "It appears the failure of Stamboliyski's proposal to unite with [SER.GetNameDef] has led to disarray within the party, and thus a chance for the government's enemies to take advantage. They've couped the government, discarding [Root.GetAdjective] overlordship in the process. If we wish to re-assert control, we will have to do it by force."
+bulgaria.118.a:0 "Then we must attack!"
+bulgaria.118.b:0 "Leave them be"
 
 bulgariaflavour.1.t:0 "불가리아 농민연합 피켓!"
 bulgariaflavour.1.d:0 "검은 월요일의 재앙적인 영향에 뒤이어, 우리 경제적으로 약한 입장이 불가리아 농민연합 회원들과의 협상을 통해 농민들을 대신하여 정부가 개입할 것을 요구하면서 주요 자유당 관리들의 사무실 밖에서 시위를 하고 있는 것으로 보입니다. 이것은 우리에게 더 큰 압력을 가하는 것 뿐만 아니라 국가 내에서의 불화를 확산시켰습니다."
@@ -1063,7 +1089,7 @@ BUL_the_schooling_issue_desc:0 "불가리아인과 무슬림 사이의 간격을
 BUL_promote_friendship_societies:0 "친목적인 사회 장려"
 BUL_promote_friendship_societies_desc:0 "우리와 무슬림 사이의 좋은 관계를 위해선 사회 내에서의 협력과 친선을 도모해야 합니다."
 BUL_funding_of_mosques:0 "모스크 투자"
-BUL_funding_of_mosques_desc:0 "이슬람 사원에 대한 국가의 자금 지원 현황에 대한 최근의 항의를 보았을 때 우리는 그 문제에 대한 입장을 명확히 할 필요가 있습니다. 우리는 그대로 자금을 지원해줄 수도 있고, 또는 부유한 무슬림들에게 이슬람 사원의 유지비를 내라고 강요할 수도 있습니다. 우리와 무슬림의 좋은 관계를 위해선 우리는 사회 내의 협력과 친선을 도모해야 합니다."
+BUL_funding_of_mosques_desc:0 "Due to recent Muslim unrest, it is important that we clarify our position on the funding of mosques. We could either continue our present course and fund mosques through the treasury, or we could force wealthy Muslims to use their own funds for the maintenance of mosques without the need for much state oversight of individual mosques."
 BUL_state_funding:0 "지역 재정 지원"
 BUL_state_funding_desc:0 "일부 기독교인들의 불만에도 불구하고 모스크 설립에 국고를 계속 지원하기로 결정했습니다."
 BUL_private_funding:0 "민간 재정 지원"
@@ -1080,8 +1106,8 @@ BUL_seizing_adrianople:0 "트라키아 점령"
 BUL_seizing_adrianople_desc:0 "터키인들은 너무 오랫동안 트라키아에 머물도록 허락되어 왔습니다. 이제 우리는 이 지역에서 그들의 통치를 종식시키고 트라키아를 우리 자신을 위하여 받아갈 때입니다."
 BUL_seizing_constantinople:0 "콘스탄티노플 점령"
 BUL_seizing_constantinople_desc:0 "페르디난트 1세의 가장 큰 꿈 중 하나는 항상 콘스탄티노플, 즉 차르그라드를 빼앗는 것이었습니다. 우리가 지금 우리의 행동에 대한 어떠한 반발을 받을 수 있는 위험을 감수할 준비가 되어 있는 것을 볼 때, 우리는 이제 도시를 장악할 준비가 되어 있습니다. 전진!"
-BUL_deposing_codreanu:0 "코드레아누 퇴위"
-BUL_deposing_codreanu_desc:0 "코드레아누의 통치 하에 있는, 철위대의 통치는 발칸 반도에서 우리의 지위에 직접적인 위협을 끼치고 있습니다. 코드레아누가 루마니아를 계속 통치하도록 허락된다면 우리는 안심할 수 없습니다. 우리는 루마니아인들이 우리를 경계하지 못하도록 먼저 쳐야만 합니다."
+BUL_deposing_codreanu:0 "Strike at Romania"
+BUL_deposing_codreanu_desc:0 "The Romanian regime of Carol II, led by Codreanu's Iron Guard, is a direct threat to our status in the Balkans. So long as these jumped nationalists are allowed to remain in charge of Romania we cannot rest easy. We must strike first lest the Romanians catch us off guard."
 BUL_strike_at_serbia:0 "세르비아 공격"
 BUL_strike_at_serbia_desc:0 "발칸 반도에 대한 우리의 이익을 보호하고 이 지역의 불가리아 패권을 유지하기 위해서는, 우리는 공격을 계속할 준비가 되어 있어야 하며 세르비아의 위협을 선제적으로 공격할 준비가 되어 있어야 합니다."
 BUL_attack_greece:0 "그리스 공격"

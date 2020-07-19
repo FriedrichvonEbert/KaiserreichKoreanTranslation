@@ -375,12 +375,12 @@ AUS_jet_tac_bomber_equipment_2:0 "아에로 L.44"
 AUS_jet_tac_bomber_equipment_2_short:0 "L.44"
 AUS_jet_tac_bomber_equipment_2_desc:0 "제트엔진의 신뢰성이 높아지고 경쟁이 날로 치열해짐에 따라, 아에로는 차세대 고속 폭격기를 설계해야 하는 과제에 직면하였고 L.44 고속 폭격기에서 정점을 찍었습니다."
 
-AUS_strat_bomber_equipment_1:0 "아비아-도르니에 Do.17"
-AUS_strat_bomber_equipment_1_short:0 "Do.17"
+AUS_strat_bomber_equipment_1:0 "아비아-도르니에 Do.19"
+AUS_strat_bomber_equipment_1_short:0 "Do.19"
 AUS_strat_bomber_equipment_1_desc:0 "전략폭격기 설계가 부족하던 아비아는 공군에게 그들의 잠재력을 보여주기 위해 많은 도르니에의 사발 엔진 폭격기를 구입했습니다."
 AUS_strat_bomber_equipment_2:0 "아비아-융커스 Ju.290"
 AUS_strat_bomber_equipment_2_short:0 "Ju.290"
-AUS_strat_bomber_equipment_2_desc:0 "아비아는 사용 중인 Do.17로 이루어진 소규모의 편대를 보완하기 위해 다량의 Ju.290을 구매하였습니다."
+AUS_strat_bomber_equipment_2_desc:0 "아비아는 사용 중인 Do.19로 이루어진 소규모의 편대를 보완하기 위해 다량의 Ju.290을 구매하였습니다."
 AUS_strat_bomber_equipment_3:0 "바이스 만프레트 WM.65"
 AUS_strat_bomber_equipment_3_short:0 "WM.65"
 AUS_strat_bomber_equipment_3_desc:0 "라즐로 바르가의 사발 엔진 폭격기 디자인은 제국에서는 처음으로 생산된 자국산 중폭격기입니다."
@@ -473,6 +473,10 @@ BAT_cv_fighter_equipment_2:0 "하잉켈 He 100"
 BAT_cv_fighter_equipment_2_short:0 "He 100"
 BAT_cv_fighter_equipment_3:0 "블롬 & 포스 BV 155"
 BAT_cv_fighter_equipment_3_short:0 "BV 155"
+BAT_scout_plane_equipment_1:0 "Henschel Hs 126"
+BAT_scout_plane_equipment_1_short:0 "Hs. 126"
+BAT_scout_plane_equipment_2:0 "Focke-Wulf Fw 189"
+BAT_scout_plane_equipment_2_short:0 "Fw 189"
 BAT_transport_plane_equipment_1:0 "Ju 52"
 
 #Missile
@@ -611,11 +615,11 @@ BOS_jet_tac_bomber_equipment_2_short:0 "L.44"
 BOS_jet_tac_bomber_equipment_2_desc:0 "With the reliability of jet engines increasing and competition ever-so fierce, Aero tackled the challenge to design a next-generation fast-bomber, culminating into the L.44 fast bomber."
 
 BOS_strat_bomber_equipment_1:0 "아비아-도르니어 Do.19"
-BOS_strat_bomber_equipment_1_short:0 "Do.17"
+BOS_strat_bomber_equipment_1_short:0 "Do.19"
 BOS_strat_bomber_equipment_1_desc:0 "Lacking designs for strategic bombers, Avia purchased a number of Dornier four-engine bombers to showcase the their potential to the air force."
 BOS_strat_bomber_equipment_2:0 "아비아-융커스 Ju.290"
 BOS_strat_bomber_equipment_2_short:0 "Ju.290"
-BOS_strat_bomber_equipment_2_desc:0 "Avia acquired a number of Ju.290 to supplement the small fleet of Do.17 in service."
+BOS_strat_bomber_equipment_2_desc:0 "Avia acquired a number of Ju.290 to supplement the small fleet of Do.19 in service."
 BOS_strat_bomber_equipment_3:0 "바이스 만프레트 WM.65"
 BOS_strat_bomber_equipment_3_short:0 "WM.65"
 BOS_strat_bomber_equipment_3_desc:0 "Lázló Varga's four-engine bomber design was the first domestically-produced heavy bomber of its kind in the Empire."
@@ -714,11 +718,11 @@ CZE_jet_tac_bomber_equipment_2_short:0 "L.44"
 CZE_jet_tac_bomber_equipment_2_desc:0 "With the reliability of jet engines increasing and competition ever-so fierce, Aero tackled the challenge to design a next-generation fast-bomber, culminating into the L.44 fast bomber."
 
 CZE_strat_bomber_equipment_1:0 "아비아-도르니어 Do.19"
-CZE_strat_bomber_equipment_1_short:0 "Do.17"
+CZE_strat_bomber_equipment_1_short:0 "Do.19"
 CZE_strat_bomber_equipment_1_desc:0 "Lacking designs for strategic bombers, Avia purchased a number of Dornier four-engine bombers to showcase the their potential to the air force."
 CZE_strat_bomber_equipment_2:0 "아비아-융커스 Ju.290"
 CZE_strat_bomber_equipment_2_short:0 "Ju.290"
-CZE_strat_bomber_equipment_2_desc:0 "Avia acquired a number of Ju.290 to supplement the small fleet of Do.17 in service."
+CZE_strat_bomber_equipment_2_desc:0 "Avia acquired a number of Ju.290 to supplement the small fleet of Do.19 in service."
 CZE_strat_bomber_equipment_3:0 "바이스 만프레트 WM.65"
 CZE_strat_bomber_equipment_3_short:0 "WM.65"
 CZE_strat_bomber_equipment_3_desc:0 "Lázló Varga's four-engine bomber design was the first domestically-produced heavy bomber of its kind in the Empire."
@@ -767,11 +771,11 @@ BUL_tac_bomber_equipment_1_short:0 "Ar-2"
 BUL_tac_bomber_equipment_1_desc:0 "Unsatisfied with Austrian and German bomber designs, and their high price tag, Bulgaria looked further afield. To fill the medium bomber role, it negotiated to produce the Arkhangelsky Ar-2 under license from the Russian Republic."
 BUL_tac_bomber_equipment_2:0 "Yermolaev Er-2"
 BUL_tac_bomber_equipment_2_short:0 "Er-2"
-BUL_tac_bomber_equipment_3:0 "Tupolev Tu-10"
+BUL_tac_bomber_equipment_3:0 "투폴레프 Tu-10"
 BUL_tac_bomber_equipment_3_short:0 "Tu-10"
 
 BUL_strat_bomber_equipment_1:0 "Avia-Dornier Do.19"
-BUL_strat_bomber_equipment_1_short:0 "Do.17"
+BUL_strat_bomber_equipment_1_short:0 "Do.19"
 BUL_strat_bomber_equipment_1_desc:0 "Lacking designs for strategic bombers, Avia purchased a number of Dornier four-engine bombers to showcase the their potential to the air force. The design was later licensed to Bulgaria."
 BUL_strat_bomber_equipment_2:0 "Bloch MB.165"
 BUL_strat_bomber_equipment_2_short:0 "MB.165"
@@ -1115,11 +1119,11 @@ CRO_jet_tac_bomber_equipment_2_short:0 "L.44"
 CRO_jet_tac_bomber_equipment_2_desc:0 "With the reliability of jet engines increasing and competition ever-so fierce, Aero tackled the challenge to design a next-generation fast-bomber, culminating into the L.44 fast bomber."
 
 CRO_strat_bomber_equipment_1:0 "아비아-도르니에 Do.19"
-CRO_strat_bomber_equipment_1_short:0 "Do.17"
+CRO_strat_bomber_equipment_1_short:0 "Do.19"
 CRO_strat_bomber_equipment_1_desc:0 "Lacking designs for strategic bombers, Avia purchased a number of Dornier four-engine bombers to showcase the their potential to the air force."
 CRO_strat_bomber_equipment_2:0 "아비아-융커스 Ju.290"
 CRO_strat_bomber_equipment_2_short:0 "Ju.290"
-CRO_strat_bomber_equipment_2_desc:0 "Avia acquired a number of Ju.290 to supplement the small fleet of Do.17 in service."
+CRO_strat_bomber_equipment_2_desc:0 "Avia acquired a number of Ju.290 to supplement the small fleet of Do.19 in service."
 CRO_strat_bomber_equipment_3:0 "바이스 만프레트 WM.65"
 CRO_strat_bomber_equipment_3_short:0 "WM.65"
 CRO_strat_bomber_equipment_3_desc:0 "Lázló Varga's four-engine bomber design was the first domestically-produced heavy bomber of its kind in the Empire."
@@ -1577,7 +1581,7 @@ FIN_heavy_fighter_equipment_1_short:0 "따흐띠"
 FIN_heavy_fighter_equipment_1_desc:0 "Developed from the Canadian Beaufort medium bomber in line with Canada's own Beaufighter design, the VL Tähti has been signifcantly lightened and its armaments and engine retrofitted for its new role. Though, unlike the Canadian Beaufighter, the bombardier's compartment has not been removed. Instead, the Tähti features a rotating front turret."
 FIN_heavy_fighter_equipment_2:0 "페틀랴코프 Pe-3"
 FIN_heavy_fighter_equipment_2_short:0 "Pe-3"
-FIN_heavy_fighter_equipment_2_desc:0 "Noting the success of Communard and British heavy fighter designs, in 1941 famed aircraft designer Vladimir Petlyakov and his eponymous aerospace firm began work on a fighter variant of the earlier Pe-2 medium bomber. As with many Russian designs, despite hostility between Russia and Finland, the Finnish government contracted the Petlyakov for a substantial number of the new aircraft."
+FIN_heavy_fighter_equipment_2_desc:0 "Noting the success of Communard and British heavy fighter designs, in 1941 famed aircraft designer Vladimir 페틀랴코프 and his eponymous aerospace firm began work on a fighter variant of the earlier Pe-2 medium bomber. As with many Russian designs, despite hostility between Russia and Finland, the Finnish government contracted the 페틀랴코프 for a substantial number of the new aircraft."
 FIN_heavy_fighter_equipment_3:0 "VL 비후리"
 FIN_heavy_fighter_equipment_3_short:0 "비후리"
 FIN_heavy_fighter_equipment_3_desc:0 "While some accuse the Finnish of copying the design of the Union of Britain's 'Mosquito', the Finnish 'Vihuri' is indeed a Finnish design taking cues from German, Russian, Entente, and Syndicalist models."
@@ -1594,6 +1598,10 @@ FIN_fighter_equipment_2_desc:0 "While the Brewster Buffalo carrier fighter was i
 FIN_fighter_equipment_3:0 "VL 퓌외레뮈르스퀴"
 FIN_fighter_equipment_3_short:0 "퓌외레뮈르스퀴"
 FIN_fighter_equipment_3_desc:0 "The Pyörremyrsky was designed around later models of the Heinkel He 100 with substantial changes made to improve the craft's agility, range, and armaments. The Pyörremyrsky is a remarkably quick and manoeuvrable fighter."
+FIN_jet_fighter_equipment_1:0 "SAAB J 21R"
+FIN_jet_fighter_equipment_1_short:0 "J 21R"
+FIN_jet_fighter_equipment_2:0 "SAAB 29 Tunnan"
+FIN_jet_fighter_equipment_2_short:0 "SAAB 29"
 
 FIN_nav_bomber_equipment_1:0 "블랙번 리폰"
 FIN_nav_bomber_equipment_1_short:0 "리폰"
@@ -1601,8 +1609,8 @@ FIN_nav_bomber_equipment_1_desc:0 "The Blackburn Ripon is truly a sight to behol
 FIN_nav_bomber_equipment_2:0 "VL 콧카"
 FIN_nav_bomber_equipment_2_short:0 "콧카"
 FIN_nav_bomber_equipment_2_desc:0 "Originally conceived of as a cheaper alternative to the Ripon, the Kotka outperforms the Ripon in nearly every way. Fitted with a new Canadian engine, the Kotka is both fast and capable of low level-low speed flight without stalling - essential to torpedo bombing."
-FIN_nav_bomber_equipment_3:0 "Fokker T.VIII"
-FIN_nav_bomber_equipment_3_short:0 "T.VIII"
+FIN_nav_bomber_equipment_3:0 "Heinkel He 115 E"
+FIN_nav_bomber_equipment_3_short:0 "He 115 E"
 
 FIN_CAS_equipment_1:0 "포커-VL C.X III"
 FIN_CAS_equipment_1_short:0 "C.X III"
@@ -1625,6 +1633,8 @@ FIN_tac_bomber_equipment_2_desc:0 "Before the development of the Tupelov SB, Rus
 FIN_tac_bomber_equipment_3:0 "아르한겔스크 SBB-2"
 FIN_tac_bomber_equipment_3_short:0 "SBB-2"
 FIN_tac_bomber_equipment_3_desc:0 "Based on a late model Tupelov SB, the Arkhangelsky designed the new SB-RK in late 1940 as a replacement for the SB adapted to dive-bombing rather than low level-high speed attacks. The SB-RK was later renamed to SBB and with the prototype's rejection by the Russian military, the SBB was redisgned, with the new craft designated SBB-2. The SBB-2 was offered to several foreign governments, with the Finnish securing a license to produce the aircraft."
+FIN_jet_tac_bomber_equipment_1:0 "아라도 Ar 234"
+FIN_jet_tac_bomber_equipment_1_short:0 "Ar 234"
 
 FIN_strat_bomber_equipment_1:0 "Dornier Do 19"
 FIN_strat_bomber_equipment_1_short:0 "Do 19"
@@ -1632,9 +1642,6 @@ FIN_strat_bomber_equipment_2:0 "Heinkel He 177 'Greif'"
 FIN_strat_bomber_equipment_2_short:0 "He 177 'Greif'"
 FIN_strat_bomber_equipment_3:0 "Junkers Ju 390"
 FIN_strat_bomber_equipment_3_short:0 "Ju 390"
-
-FIN_jet_tac_bomber_equipment_1:0 "아라도 Ar 234"
-FIN_jet_tac_bomber_equipment_1_short:0 "Ar 234"
 
 FIN_scout_plane_equipment_1:0 "Koolhoven F.K.51"
 FIN_scout_plane_equipment_1_short:0 "F.K.51"
@@ -1874,11 +1881,11 @@ GAL_jet_tac_bomber_equipment_2_short:0 "L.44"
 GAL_jet_tac_bomber_equipment_2_desc:0 "With the reliability of jet engines increasing and competition ever-so fierce, Aero tackled the challenge to design a next-generation fast-bomber, culminating into the L.44 fast bomber."
 
 GAL_strat_bomber_equipment_1:0 "아비아-도르니에 Do.19"
-GAL_strat_bomber_equipment_1_short:0 "Do.17"
+GAL_strat_bomber_equipment_1_short:0 "Do.19"
 GAL_strat_bomber_equipment_1_desc:0 "Lacking designs for strategic bombers, Avia purchased a number of Dornier four-engine bombers to showcase the their potential to the air force."
 GAL_strat_bomber_equipment_2:0 "아비아-융커스 Ju.290"
 GAL_strat_bomber_equipment_2_short:0 "Ju.290"
-GAL_strat_bomber_equipment_2_desc:0 "Avia acquired a number of Ju.290 to supplement the small fleet of Do.17 in service."
+GAL_strat_bomber_equipment_2_desc:0 "Avia acquired a number of Ju.290 to supplement the small fleet of Do.19 in service."
 GAL_strat_bomber_equipment_3:0 "바이스 만프레트 WM.65"
 GAL_strat_bomber_equipment_3_short:0 "WM.65"
 GAL_strat_bomber_equipment_3_desc:0 "Lázló Varga's four-engine bomber design was the first domestically-produced heavy bomber of its kind in the Empire."
@@ -2663,11 +2670,11 @@ HUN_jet_tac_bomber_equipment_2_short:0 "L.44"
 HUN_jet_tac_bomber_equipment_2_desc:0 "With the reliability of jet engines increasing and competition ever-so fierce, Aero tackled the challenge to design a next-generation fast-bomber, culminating into the L.44 fast bomber."
 
 HUN_strat_bomber_equipment_1:0 "아비아-도르니에 Do.19"
-HUN_strat_bomber_equipment_1_short:0 "Do.17"
+HUN_strat_bomber_equipment_1_short:0 "Do.19"
 HUN_strat_bomber_equipment_1_desc:0 "Lacking designs for strategic bombers, Avia purchased a number of Dornier four-engine bombers to showcase the their potential to the air force."
 HUN_strat_bomber_equipment_2:0 "아비아-융커스 Ju.290"
 HUN_strat_bomber_equipment_2_short:0 "Ju.290"
-HUN_strat_bomber_equipment_2_desc:0 "Avia acquired a number of Ju.290 to supplement the small fleet of Do.17 in service."
+HUN_strat_bomber_equipment_2_desc:0 "Avia acquired a number of Ju.290 to supplement the small fleet of Do.19 in service."
 HUN_strat_bomber_equipment_3:0 "바이스 만프레트 WM.65"
 HUN_strat_bomber_equipment_3_short:0 "WM.65"
 HUN_strat_bomber_equipment_3_desc:0 "Lázló Varga's four-engine bomber design was the first domestically-produced heavy bomber of its kind in the Empire."
@@ -2682,10 +2689,19 @@ HUN_transport_plane_equipment_1_short:0 "A.204"
 ### Iceland ###
 ###
 
+ICE_CAS_equipment_1:0 "SAI KZ IIA"
+ICE_CAS_equipment_1_short:0 "KZ IIA"
+ICE_CAS_equipment_1_desc:0 "Within months of its founding, SAI, Skandinavisk Aero Industri, founded by two found technically proficient aircraft enthusiasts, produced two different sport planes. Their second model drew interest from the Danish military, which eventually contracted for the production of a ground attack variant on the craft."
+
 ICE_fighter_equipment_0:0 "Gloster Gladiator"
 ICE_fighter_equipment_0_short:0 "Gladiator"
 ICE_fighter_equipment_1:0 "Fokker D.XXI"
 ICE_fighter_equipment_1_short:0 "D.XXI"
+
+ICE_nav_bomber_equipment_1:0 "Arado Ar 195"
+ICE_nav_bomber_equipment_1_short:0 "Ar 195"
+ICE_nav_bomber_equipment_2:0 "Fokker T.VIII"
+ICE_nav_bomber_equipment_2_short:0 "T.VIII"
 
 ###
 ### Indochinese Union ###
@@ -2821,15 +2837,15 @@ ITA_tac_bomber_equipment_3:0 "칸트 Z.1018 레오네"
 ITA_tac_bomber_equipment_3_short:0 "Z.1018 레오네"
 
 ITA_strat_bomber_equipment_1:0 "Avia-Dornier Do.19"
-ITA_strat_bomber_equipment_1_short:0 "Do.17"
+ITA_strat_bomber_equipment_1_short:0 "Do.19"
 ITA_strat_bomber_equipment_1_desc:0 "Lacking designs for strategic bombers, Avia purchased a number of Dornier four-engine bombers to showcase the their potential to the air force. The design was later licensed to the Italian Republic."
 ITA_strat_bomber_equipment_2:0 "사보이아-마체티 SM.82"
 ITA_strat_bomber_equipment_2_short:0 "SM.82"
 ITA_strat_bomber_equipment_3:0 "사보이아-마체티 SM.95 GA"
 ITA_strat_bomber_equipment_3_short:0 "SM.95 GA"
 
-ITA_transport_plane_equipment_1:0 "카프로니 Ca.133"
-ITA_transport_plane_equipment_1_short:0 "Ca.133"
+ITA_transport_plane_equipment_1:0 "카프로니 Ca.309 Ghibli"
+ITA_transport_plane_equipment_1_short:0 "Ca.309 Ghibli"
 
 ITA_scout_plane_equipment_1:0 "Caproni Ca.310"
 ITA_scout_plane_equipment_1_short:0 "Ca.310"
@@ -3018,10 +3034,14 @@ LEC_tac_bomber_equipment_0_short:0 "Do 23"
 ### Lithuania ###
 ###
 
+LIT_CAS_equipment_2:0 "ANBO VIII"
+LIT_CAS_equipment_2_short:0 "ANBO VIII"
+
 LIT_fighter_equipment_0:0 "ANBO III"
 LIT_fighter_equipment_0_short:0 "ANBO III"
-LIT_fighter_equipment_1:0 "ANBO IV"
-LIT_fighter_equipment_1_short:0 "ANBO IV"
+
+LIT_scout_plane_equipment_1:0 "ANBO IV"
+LIT_scout_plane_equipment_1_short:0 "ANBO IV"
 
 ###
 ### Mittelafrika ###
@@ -3410,16 +3430,17 @@ NOR_heavy_fighter_equipment_2_short:0 "리퍼"
 NOR_heavy_fighter_equipment_3:0 "록히드 P-58 체인 라이트닝"
 NOR_heavy_fighter_equipment_3_short:0 "P-58 체인 라이트닝"
 
-NOR_strat_bomber_equipment_1:0 "피아지오 P.50"
-NOR_strat_bomber_equipment_1_short:0 "P.50"
-NOR_strat_bomber_equipment_2:0 "피아지오 P.108"
-NOR_strat_bomber_equipment_2_short:0 "P.108"
-
 NOR_jet_fighter_equipment_1:0 "옐레-SAAB J21R"
 NOR_jet_fighter_equipment_1_short:0 "J21R"
 NOR_jet_fighter_equipment_2:0 "옐레-SAAB J29 투난"
 NOR_jet_fighter_equipment_2_short:0 "J29 투난"
 
+NOR_strat_bomber_equipment_1:0 "Vickers Wellington"
+NOR_strat_bomber_equipment_1_short:0 "Wellington"
+NOR_strat_bomber_equipment_2:0 "Vickers Waterloo"
+NOR_strat_bomber_equipment_2_short:0 "Waterloo"
+NOR_strat_bomber_equipment_3:0 "Avro Victoria"
+NOR_strat_bomber_equipment_3_short:0 "Victoria"
 NOR_jet_strat_bomber_equipment_1:0 "빅커스 밸리언트"
 NOR_jet_strat_bomber_equipment_1_short:0 "밸리언트"
 
@@ -3691,8 +3712,8 @@ POL_strat_bomber_equipment_3_short:0 "Szerszeń"
 POL_jet_strat_bomber_equipment_1:0 "PZL 79 Komar"
 POL_jet_strat_bomber_equipment_1_short:0 "Komar"
 
-POL_scout_plane_equipment_1:0 "LWS-3 Mewa"
-POL_scout_plane_equipment_1_short:0 "Mewa"
+POL_scout_plane_equipment_1:0 "RWD 14 Czapla"
+POL_scout_plane_equipment_1_short:0 "Czapla"
 POL_scout_plane_equipment_2:0 "LWS-7 Mewa II"
 POL_scout_plane_equipment_2_short:0 "Mewa II"
 
@@ -3781,15 +3802,15 @@ ROM_CAS_equipment_0:0 "IAR 81"
 ROM_CAS_equipment_0_short:0 "IAR 81"
 ROM_CAS_equipment_1:0 "IAR 37"
 ROM_CAS_equipment_1_short:0 "IAR 37"
-ROM_CAS_equipment_2:0 "헨셸 Hs-129"
-ROM_CAS_equipment_2_short:0 "Hs-129"
+ROM_CAS_equipment_2:0 "IAR 29"
+ROM_CAS_equipment_2_short:0 "IAR 29"
 ROM_CAS_equipment_3:0 "IAR 47"
 ROM_CAS_equipment_3_short:0 "IAR 47"
 
 ROM_heavy_fighter_equipment_1:0 "IAR 214"
 ROM_heavy_fighter_equipment_1_short:0 "IAR 214"
-ROM_heavy_fighter_equipment_2:0 "융커스 Ju 88"
-ROM_heavy_fighter_equipment_2_short:0 "Ju 88"
+ROM_heavy_fighter_equipment_2:0 "Potez 630"
+ROM_heavy_fighter_equipment_2_short:0 "Potez 630"
 ROM_heavy_fighter_equipment_3:0 "IAR 410"
 ROM_heavy_fighter_equipment_3_short:0 "IAR 410"
 
@@ -3807,8 +3828,8 @@ ROM_tac_bomber_equipment_0_short:0 "IAR 25"
 ROM_tac_bomber_equipment_0_desc:0 "Reverse engineered from a Communard design, the IAR 25 made several improvements over its forebearer and was adopted by the Romanian Air Force in 1929."
 ROM_tac_bomber_equipment_1:0 "블로흐 MB.210"
 ROM_tac_bomber_equipment_1_short:0 "MB.210"
-ROM_tac_bomber_equipment_2:0 "IAR 633"
-ROM_tac_bomber_equipment_2_short:0 "IAR 633"
+ROM_tac_bomber_equipment_2:0 "IAR 79"
+ROM_tac_bomber_equipment_2_short:0 "IAR 79"
 ROM_tac_bomber_equipment_3:0 "IAR 779"
 ROM_tac_bomber_equipment_3_short:0 "IAR 779"
 
@@ -3827,141 +3848,90 @@ ROM_strat_bomber_equipment_3:0 "IAR 979"
 ROM_strat_bomber_equipment_3_short:0 "IAR 979"
 
 ###
-### Royalist Romania ###
-###
-
-RRM_CAS_equipment_0:0 "IAR 81"
-RRM_CAS_equipment_0_short:0 "IAR 81"
-RRM_CAS_equipment_1:0 "IAR 37"
-RRM_CAS_equipment_1_short:0 "IAR 37"
-RRM_CAS_equipment_2:0 "헨셸 Hs 129"
-RRM_CAS_equipment_2_short:0 "Hs-129"
-RRM_CAS_equipment_3:0 "IAR 47"
-RRM_CAS_equipment_3_short:0 "IAR 47"
-
-RRM_heavy_fighter_equipment_1:0 "IAR 214"
-RRM_heavy_fighter_equipment_1_short:0 "IAR 214"
-RRM_heavy_fighter_equipment_2:0 "융커스 Ju 88"
-RRM_heavy_fighter_equipment_2_short:0 "Ju 88"
-RRM_heavy_fighter_equipment_3:0 "IAR 410"
-RRM_heavy_fighter_equipment_3_short:0 "IAR 410"
-
-RRM_fighter_equipment_0:0 "IAR 14"
-RRM_fighter_equipment_0_short:0 "IAR 14"
-RRM_fighter_equipment_1:0 "IAR P.24"
-RRM_fighter_equipment_1_short:0 "IAR P.24"
-RRM_fighter_equipment_2:0 "IAR 80"
-RRM_fighter_equipment_2_short:0 "IAR 80"
-RRM_fighter_equipment_3:0 "IAR 82"
-RRM_fighter_equipment_3_short:0 "IAR 82"
-
-RRM_tac_bomber_equipment_0:0 "IAR 25"
-RRM_tac_bomber_equipment_0_short:0 "IAR 25"
-RRM_tac_bomber_equipment_0_desc:0 "Reverse engineered from a Communard design, the IAR 25 made several improvements over its forebearer and was adopted by the Romanian Air Force in 1929."
-RRM_tac_bomber_equipment_1:0 "블로흐 MB.210"
-RRM_tac_bomber_equipment_1_short:0 "MB.210"
-RRM_tac_bomber_equipment_2:0 "IAR 633"
-RRM_tac_bomber_equipment_2_short:0 "IAR 633"
-RRM_tac_bomber_equipment_3:0 "IAR 779"
-RRM_tac_bomber_equipment_3_short:0 "IAR 779"
-
-RRM_nav_bomber_equipment_1:0 "SET 7H"
-RRM_nav_bomber_equipment_1_short:0 "SET 7H"
-RRM_nav_bomber_equipment_2:0 "하인켈 He 114 B"
-RRM_nav_bomber_equipment_2_short:0 "He 114 B"
-RRM_nav_bomber_equipment_3:0 "IAR 117"
-RRM_nav_bomber_equipment_3_short:0 "IAR 117"
-
-RRM_strat_bomber_equipment_1:0 "IAR 679"
-RRM_strat_bomber_equipment_1_short:0 "IAR 679"
-RRM_strat_bomber_equipment_2:0 "IAR 765"
-RRM_strat_bomber_equipment_2_short:0 "IAR 765"
-RRM_strat_bomber_equipment_3:0 "IAR 979"
-RRM_strat_bomber_equipment_3_short:0 "IAR 979"
-
-###
 ### Russia ###
 ###
 
-RUS_fighter_equipment_0:0 "폴리카포프 I-5"
-RUS_fighter_equipment_0_short:0 "I-5"
-RUS_cv_fighter_equipment_0:0 "폴리카포프 I-15P"
-RUS_cv_fighter_equipment_0_short:0 "I-15P"
-RUS_fighter_equipment_1:0 "예첸코 I-28"
-RUS_fighter_equipment_1_short:0 "I-28"
-RUS_cv_fighter_equipment_1:0 "폴리카포프 I-16P"
-RUS_cv_fighter_equipment_1_short:0 "I-16P"
-RUS_fighter_equipment_2:0 "폴리카포프 I-185"
-RUS_fighter_equipment_2_short:0 "I-185"
-RUS_cv_fighter_equipment_2:0 "라보츠킨-고르부노프-구드코프 LaGG-3P"
-RUS_cv_fighter_equipment_2_short:0 "LaGG-3P"
-RUS_fighter_equipment_3:0 "미코얀-구레비치 I-210"
-RUS_fighter_equipment_3_short:0 "I-210"
-RUS_cv_fighter_equipment_3:0 "라보츠킨 La-7P"
-RUS_cv_fighter_equipment_3_short:0 "La-7P"
+RUS_fighter_equipment_0:0 "폴리카포프 전투기 mod.16" #Previously I-5
+RUS_fighter_equipment_0_short:0 "I-16"
+RUS_cv_fighter_equipment_0:0 "폴리카포프 전투기 mod.16P" #Previously I-15
+RUS_cv_fighter_equipment_0_short:0 "I-16P"
+RUS_fighter_equipment_1:0 "예첸코 전투기 mod.17" #I-28
+RUS_fighter_equipment_1_short:0 "I-17"
+RUS_cv_fighter_equipment_1:0 "예첸코 전투기 mod.17P"
+RUS_cv_fighter_equipment_1_short:0 "I-17P"
+RUS_fighter_equipment_2:0 "폴리카포프 전투기 mod.18M" #I-185
+RUS_fighter_equipment_2_short:0 "I-18M"
+RUS_cv_fighter_equipment_2:0 "라보츠킨-고르부노프-구드코프 전투기 mod.20P" #LaGG-3P
+RUS_cv_fighter_equipment_2_short:0 "I-20P"
+RUS_fighter_equipment_3:0 "미코얀-구레비치 전투기 mod.21" #I-210
+RUS_fighter_equipment_3_short:0 "I-21"
+RUS_cv_fighter_equipment_3:0 "라보츠킨 전투기 mod.23P" #La-7P
+RUS_cv_fighter_equipment_3_short:0 "I-23P"
 
-RUS_heavy_fighter_equipment_1:0 "페틀랴코프 VI-100"
-RUS_heavy_fighter_equipment_1_short:0 "VI-100"
-RUS_heavy_fighter_equipment_2:0 "페틀랴코프 Pe-3"
-RUS_heavy_fighter_equipment_2_short:0 "Pe-3"
-RUS_heavy_fighter_equipment_3:0 "투폴레프 Tu-1"
-RUS_heavy_fighter_equipment_3_short:0 "Tu-1"
+RUS_heavy_fighter_equipment_1:0 "페틀랴코프 고고도전투기 STO-M" #VI-100
+RUS_heavy_fighter_equipment_1_short:0 "VI-100M"
+RUS_heavy_fighter_equipment_2:0 "페틀랴코프 고고도전투기 STO mod.4" #Pe-3
+RUS_heavy_fighter_equipment_2_short:0 "VI-104"
+RUS_heavy_fighter_equipment_3:0 "투폴레프 고고도전투기 STO mod.5" #Tu-1
+RUS_heavy_fighter_equipment_3_short:0 "VI-105"
 
-RUS_tac_bomber_equipment_0:0 "투폴레프 TB-3"
+RUS_tac_bomber_equipment_0:0 "투폴레프 중폭격기 mod.3"
 RUS_tac_bomber_equipment_0_short:0 "TB-3"
-RUS_tac_bomber_equipment_1:0 "아르한겔스크 Ar-2"
-RUS_tac_bomber_equipment_1_short:0 "Ar-2"
-RUS_tac_bomber_equipment_2:0 "예르몰라예프 Er-2"
-RUS_tac_bomber_equipment_2_short:0 "Er-2"
-RUS_tac_bomber_equipment_3:0 "투폴레프 Tu-10"
-RUS_tac_bomber_equipment_3_short:0 "Tu-10"
+RUS_tac_bomber_equipment_1:0 "아르한겔스크 고속폭격기 mod.2" #Ar-2
+RUS_tac_bomber_equipment_1_short:0 "SB-2"
+RUS_tac_bomber_equipment_2:0 "예르몰라예프 고속폭격기 mod.6" #Er-2
+RUS_tac_bomber_equipment_2_short:0 "SB-6"
+RUS_tac_bomber_equipment_3:0 "투폴레프 고속폭격기 mod.10" #Tu-10
+RUS_tac_bomber_equipment_3_short:0 "SB-10"
 
-RUS_strat_bomber_equipment_1:0 "페틀랴코프 TB-7"
+RUS_strat_bomber_equipment_1:0 "페틀랴코프 중폭격기 mod.7"
 RUS_strat_bomber_equipment_1_short:0 "TB-7"
-RUS_strat_bomber_equipment_2:0 "페틀랴코프-네즈발 Pe-8M"
-RUS_strat_bomber_equipment_2_short:0 "Pe-8M"
-RUS_strat_bomber_equipment_3:0 "투폴레프 Tu-4"
-RUS_strat_bomber_equipment_3_short:0 "Tu-4"
+RUS_strat_bomber_equipment_2:0 "페틀랴코프-네즈발 중폭격기 mod.8" #Pe-8M
+RUS_strat_bomber_equipment_2_short:0 "TB-8"
+RUS_strat_bomber_equipment_3:0 "투폴레프 중폭격기 mod.10" №Tu-4
+RUS_strat_bomber_equipment_3_short:0 "TB-10"
 
-RUS_nav_bomber_equipment_1:0 "일류신 DB-3T"
+RUS_nav_bomber_equipment_1:0 "일류신 장거리폭격기 mod.3T" #DB-3T
 RUS_nav_bomber_equipment_1_short:0 "DB-3T"
-RUS_cv_nav_bomber_equipment_1:0 "일류신 DB-3P"
-RUS_cv_nav_bomber_equipment_1_short:0 "DB-3P"
-RUS_nav_bomber_equipment_2:0 "일류신 Il-4T"
-RUS_nav_bomber_equipment_2_short:0 "Il-4T"
-RUS_cv_nav_bomber_equipment_2:0 "일류신 Il-4P"
-RUS_cv_nav_bomber_equipment_2_short:0 "Il-4P"
-RUS_nav_bomber_equipment_3:0 "일류신 Il-6T"
-RUS_nav_bomber_equipment_3_short:0 "Il-6T"
-RUS_cv_nav_bomber_equipment_3:0 "일류신 Il-6P"
-RUS_cv_nav_bomber_equipment_3_short:0 "Il-6P"
+RUS_cv_nav_bomber_equipment_1:0 "일류신 장거리폭격기 mod.3TP" #DB-3P
+RUS_cv_nav_bomber_equipment_1_short:0 "DB-3TP"
+RUS_nav_bomber_equipment_2:0 "일류신 장거리폭격기 mod.4T" #Il-4T
+RUS_nav_bomber_equipment_2_short:0 "DB-4T"
+RUS_cv_nav_bomber_equipment_2:0 "일류신 장거리폭격기 mod.4TP" #Il-4P
+RUS_cv_nav_bomber_equipment_2_short:0 "DB-4TP"
+RUS_nav_bomber_equipment_3:0 "일류신 장거리폭격기-뇌격기 mod.1" #Il-6T
+RUS_nav_bomber_equipment_3_short:0 "DBT-1"
+RUS_cv_nav_bomber_equipment_3:0 "일류신 장거리폭격-뇌격기 mod.1P" #Il-6P
+RUS_cv_nav_bomber_equipment_3_short:0 "DBT-1P"
 
-RUS_CAS_equipment_1:0 "그루신 슈-탄진"
-RUS_CAS_equipment_1_short:0 "슈-탄진"
-RUS_cv_CAS_equipment_1:0 "수호이 Su-2P"
-RUS_cv_CAS_equipment_1_short:0 "Su-2P"
-RUS_CAS_equipment_2:0 "수호이 Su-2"
-RUS_CAS_equipment_2_short:0 "Su-2"
-RUS_cv_CAS_equipment_2:0 "코체르긴 OPB-5P"
-RUS_cv_CAS_equipment_2_short:0 "OPB-5P"
-RUS_CAS_equipment_3:0 "수호이 Su-6"
-RUS_CAS_equipment_3_short:0 "Su-6"
-RUS_cv_CAS_equipment_3:0 "세버스키 Sev-47P"
-RUS_cv_CAS_equipment_3_short:0 "Sev-47P"
+RUS_CAS_equipment_1:0 "그루신 공격기 mod.1" #Sh-Tandem
+RUS_CAS_equipment_1_short:0 "Sh-1"
+RUS_cv_CAS_equipment_1:0 "수호이 단거리폭격기 mod.1P" #Su-2P
+RUS_cv_CAS_equipment_1_short:0 "BB-1P"
+RUS_CAS_equipment_2:0 "일류신 장갑공격기 mod.2" #Initially Su-2, changed to Il-2
+RUS_CAS_equipment_2_short:0 "BSh-2"
+RUS_cv_CAS_equipment_2:0 "코체르긴 장갑공격기 mod.5P" #OPB-5P
+RUS_cv_CAS_equipment_2_short:0 "BSh-5P"
+RUS_CAS_equipment_3:0 "수호이 장갑공격기 mod.6" #Su-6
+RUS_CAS_equipment_3_short:0 "BSh-6"
+RUS_cv_CAS_equipment_3:0 "세버스키 전투기 mod.22P" #Sev-47P
+RUS_cv_CAS_equipment_3_short:0 "I-22P"
 
-RUS_jet_fighter_equipment_1:0 "미코얀-구레비치 MiG-9"
-RUS_jet_fighter_equipment_1_short:0 "MiG-9"
-RUS_jet_fighter_equipment_2:0 "미코얀-구레비치 MiG-15"
-RUS_jet_fighter_equipment_2_short:0 "MiG-15"
-RUS_jet_tac_bomber_equipment_1:0 "일류신 Il-22"
-RUS_jet_tac_bomber_equipment_1_short:0 "Il-22"
-RUS_jet_tac_bomber_equipment_2:0 "일류신 Il-28"
-RUS_jet_tac_bomber_equipment_2_short:0 "Il-28"
-RUS_jet_strat_bomber_equipment_1:0 "투폴레프 Tu-16"
-RUS_jet_strat_bomber_equipment_1_short:0 "Tu-16"
+RUS_jet_fighter_equipment_1:0 "미코얀-구레비치 전투기 mod.25R" #MiG-9
+RUS_jet_fighter_equipment_1_short:0 "I-25R"
+RUS_jet_fighter_equipment_2:0 "미코얀-구레비치 제트 전투기 mod.2" #MiG-15
+RUS_jet_fighter_equipment_2_short:0 "RI-2"
+RUS_jet_tac_bomber_equipment_1:0 "일류신 제트 폭격기 mod.1" #Il-22
+RUS_jet_tac_bomber_equipment_1_short:0 "RB-1"
+RUS_jet_tac_bomber_equipment_2:0 "일류신 제트 폭격기 mod.2" #Il-28
+RUS_jet_tac_bomber_equipment_2_short:0 "RB-2"
+RUS_jet_strat_bomber_equipment_1:0 "투폴레프 제트 폭격기 mod.4" #Tu-16
+RUS_jet_strat_bomber_equipment_1_short:0 "RB-4"
 
-RUS_scout_plane_equipment_2:0 "Yakolev Yak-2"
-RUS_scout_plane_equipment_2_short:0 "Yak-2"
+RUS_scout_plane_equipment_1:0 "카모프 오토자이로 mod.1" #A-7
+RUS_scout_plane_equipment_1_short:0 "A-1"
+RUS_scout_plane_equipment_2:0 "야코블레프 단거리폭격기 mod.3" #Yak-2
+RUS_scout_plane_equipment_2_short:0 "BB-3"
 
 ###
 ### Union of South Africa ###
@@ -4126,11 +4096,19 @@ SCT_transport_plane_equipment_1:0 "브리스톨 봄베이"
 
 SER_fighter_equipment_0:0 "아비아 BH-33"
 SER_fighter_equipment_0_short:0 "BH-33"
+SER_fighter_equipment_1:0 "예첸코 I-28"
+SER_fighter_equipment_1_short:0 "I-28"
 SER_fighter_equipment_2:0 "로고자르스키 R-13"
 SER_fighter_equipment_2_short:0 "R-13"
+SER_fighter_equipment_3:0 "미코얀-구레비치 I-210"
+SER_fighter_equipment_3_short:0 "I-210"
 SER_jet_fighter_equipment_1:0 "로고자르스키 R-451"
 SER_jet_fighter_equipment_1_short:0 "로고자르스키 451"
+SER_jet_fighter_equipment_2:0 "미코얀-구레비치 MiG-15"
+SER_jet_fighter_equipment_2_short:0 "MiG-15"
 
+SER_heavy_fighter_equipment_1:0 "페틀랴코프 VI-100"
+SER_heavy_fighter_equipment_1_short:0 "VI-100"
 SER_heavy_fighter_equipment_2:0 "로고자르스키 R-313"
 SER_heavy_fighter_equipment_2_short:0 "R-313"
 SER_heavy_fighter_equipment_3:0 "네나도비치-미트로비치"
@@ -4140,6 +4118,8 @@ SER_CAS_equipment_1:0 "로고자르스키 R-100"
 SER_CAS_equipment_1_short:0 "R-100"
 SER_CAS_equipment_2:0 "로고자르스키 오르칸"
 SER_CAS_equipment_2_short:0 "오르칸"
+SER_CAS_equipment_3:0 "수호이 Su-6"
+SER_CAS_equipment_3_short:0 "Su-6"
 
 SER_tac_bomber_equipment_0:0 "즈마이 A-5"
 SER_tac_bomber_equipment_0_short:0 "A-5"
@@ -4149,16 +4129,26 @@ SER_tac_bomber_equipment_2:0 "즈마이 R-1"
 SER_tac_bomber_equipment_2_short:0 "R-1"
 SER_tac_bomber_equipment_3:0 "즈마이 R-2"
 SER_tac_bomber_equipment_3_short:0 "R-2"
+SER_jet_tac_bomber_equipment_1:0 "일류신 Il-22"
+SER_jet_tac_bomber_equipment_1_short:0 "Il-22"
+SER_jet_tac_bomber_equipment_2:0 "일류신 Il-28"
+SER_jet_tac_bomber_equipment_2_short:0 "Il-28"
 
 SER_nav_bomber_equipment_1:0 "로고자르스키 SIM-XIV-H"
 SER_nav_bomber_equipment_1_short:0 "SIM-XIV-H"
 SER_nav_bomber_equipment_2:0 "로고자르스키 SIM-XIX-V"
 SER_nav_bomber_equipment_2_short:0 "SIM-XIX-V"
+SER_nav_bomber_equipment_3:0 "일류신 Il-6T"
+SER_nav_bomber_equipment_3_short:0 "Il-6T"
 
 SER_strat_bomber_equipment_1:0 "즈마이 Q-12"
 SER_strat_bomber_equipment_1_short:0 "Q-12"
 SER_strat_bomber_equipment_2:0 "로고자르스키 R-522"
 SER_strat_bomber_equipment_2_short:0 "R-522"
+SER_strat_bomber_equipment_3:0 "투폴레프 Tu-4"
+SER_strat_bomber_equipment_3_short:0 "Tu-4"
+SER_jet_strat_bomber_equipment_1:0 "투폴레프 Tu-16"
+SER_jet_strat_bomber_equipment_1_short:0 "Tu-16"
 
 ###
 ### SAF rebel tag (SFR) ###
@@ -4437,11 +4427,11 @@ SLO_jet_tac_bomber_equipment_2_short:0 "L.44"
 SLO_jet_tac_bomber_equipment_2_desc:0 "With the reliability of jet engines increasing and competition ever-so fierce, Aero tackled the challenge to design a next-generation fast-bomber, culminating into the L.44 fast bomber."
 
 SLO_strat_bomber_equipment_1:0 "아비아-도르니에 Do.19"
-SLO_strat_bomber_equipment_1_short:0 "Do.17"
+SLO_strat_bomber_equipment_1_short:0 "Do.19"
 SLO_strat_bomber_equipment_1_desc:0 "Lacking designs for strategic bombers, Avia purchased a number of Dornier four-engine bombers to showcase the their potential to the air force."
 SLO_strat_bomber_equipment_2:0 "아비아-융커스 Ju.290"
 SLO_strat_bomber_equipment_2_short:0 "Ju.290"
-SLO_strat_bomber_equipment_2_desc:0 "Avia acquired a number of Ju.290 to supplement the small fleet of Do.17 in service."
+SLO_strat_bomber_equipment_2_desc:0 "Avia acquired a number of Ju.290 to supplement the small fleet of Do.19 in service."
 SLO_strat_bomber_equipment_3:0 "바이스 만프레트 WM.65"
 SLO_strat_bomber_equipment_3_short:0 "WM.65"
 SLO_strat_bomber_equipment_3_desc:0 "Lázló Varga's four-engine bomber design was the first domestically-produced heavy bomber of its kind in the Empire."
@@ -4456,85 +4446,87 @@ SLO_transport_plane_equipment_1_short:0 "A.204"
 ### Soviet Union ###
 ###
 
-SOV_fighter_equipment_0:0 "폴리카포프 I-5"
-SOV_fighter_equipment_0_short:0 "I-5"
-SOV_cv_fighter_equipment_0:0 "폴리카포프 I-15P"
-SOV_cv_fighter_equipment_0_short:0 "I-15P"
-SOV_fighter_equipment_1:0 "예첸코 I-28"
-SOV_fighter_equipment_1_short:0 "I-28"
-SOV_cv_fighter_equipment_1:0 "폴리카포프 I-16P"
-SOV_cv_fighter_equipment_1_short:0 "I-16P"
-SOV_fighter_equipment_2:0 "폴리카포프 I-185"
-SOV_fighter_equipment_2_short:0 "I-185"
-SOV_cv_fighter_equipment_2:0 "라보츠킨-고르부노프-구드코프 LaGG-3P"
-SOV_cv_fighter_equipment_2_short:0 "LaGG-3P"
-SOV_fighter_equipment_3:0 "미코얀-구레비치 I-210"
-SOV_fighter_equipment_3_short:0 "I-210"
-SOV_cv_fighter_equipment_3:0 "라보츠킨 La-7P"
-SOV_cv_fighter_equipment_3_short:0 "La-7P"
+SOV_fighter_equipment_0:0 "폴리카포프 전투기 mod.16" #Previously I-5
+SOV_fighter_equipment_0_short:0 "I-16"
+SOV_cv_fighter_equipment_0:0 "폴리카포프 전투기 mod.16P" #Previously I-15
+SOV_cv_fighter_equipment_0_short:0 "I-16P"
+SOV_fighter_equipment_1:0 "예첸코 전투기 mod.17" #I-28
+SOV_fighter_equipment_1_short:0 "I-17"
+SOV_cv_fighter_equipment_1:0 "예첸코 전투기 mod.17P"
+SOV_cv_fighter_equipment_1_short:0 "I-17P"
+SOV_fighter_equipment_2:0 "폴리카포프 전투기 mod.18M" #I-185
+SOV_fighter_equipment_2_short:0 "I-18M"
+SOV_cv_fighter_equipment_2:0 "라보츠킨-고르부노프-구드코프 전투기 mod.20P" #LaGG-3P
+SOV_cv_fighter_equipment_2_short:0 "I-20P"
+SOV_fighter_equipment_3:0 "미코얀-구레비치 전투기 mod.21" #I-210
+SOV_fighter_equipment_3_short:0 "I-21"
+SOV_cv_fighter_equipment_3:0 "라보츠킨 전투기 mod.23P" #La-7P
+SOV_cv_fighter_equipment_3_short:0 "I-23P"
 
-SOV_heavy_fighter_equipment_1:0 "페틀랴코프 VI-100"
-SOV_heavy_fighter_equipment_1_short:0 "VI-100"
-SOV_heavy_fighter_equipment_2:0 "페틀랴코프 Pe-3"
-SOV_heavy_fighter_equipment_2_short:0 "Pe-3"
-SOV_heavy_fighter_equipment_3:0 "투폴레프 Tu-1"
-SOV_heavy_fighter_equipment_3_short:0 "Tu-1"
+SOV_heavy_fighter_equipment_1:0 "페틀랴코프 고고도전투기 STO-M" #VI-100
+SOV_heavy_fighter_equipment_1_short:0 "VI-100M"
+SOV_heavy_fighter_equipment_2:0 "페틀랴코프 고고도전투기 STO mod.4" #Pe-3
+SOV_heavy_fighter_equipment_2_short:0 "VI-104"
+SOV_heavy_fighter_equipment_3:0 "투폴레프 중전투기 STO mod.5" #Tu-1
+SOV_heavy_fighter_equipment_3_short:0 "TI-105"
 
-SOV_tac_bomber_equipment_0:0 "투폴레프 TB-3"
+SOV_tac_bomber_equipment_0:0 "투폴레프 중폭격기 mod.3"
 SOV_tac_bomber_equipment_0_short:0 "TB-3"
-SOV_tac_bomber_equipment_1:0 "아르한겔스크 Ar-2"
-SOV_tac_bomber_equipment_1_short:0 "Ar-2"
-SOV_tac_bomber_equipment_2:0 "예르몰라예프 Er-2"
-SOV_tac_bomber_equipment_2_short:0 "Er-2"
-SOV_tac_bomber_equipment_3:0 "투폴레프 Tu-10"
-SOV_tac_bomber_equipment_3_short:0 "Tu-10"
+SOV_tac_bomber_equipment_1:0 "아르한겔스크 고속폭격기 mod.2" #Ar-2
+SOV_tac_bomber_equipment_1_short:0 "SB-2"
+SOV_tac_bomber_equipment_2:0 "예르몰라예프 고속폭격기 mod.6" #Er-2
+SOV_tac_bomber_equipment_2_short:0 "SB-6"
+SOV_tac_bomber_equipment_3:0 "투폴레프 고속폭격기 mod.10" #Tu-10
+SOV_tac_bomber_equipment_3_short:0 "SB-10"
 
-SOV_strat_bomber_equipment_1:0 "페틀랴코프 TB-7"
+SOV_strat_bomber_equipment_1:0 "페틀랴코프 중폭격기 mod.7"
 SOV_strat_bomber_equipment_1_short:0 "TB-7"
-SOV_strat_bomber_equipment_2:0 "페틀랴코프-네즈발 Pe-8M"
-SOV_strat_bomber_equipment_2_short:0 "Pe-8M"
-SOV_strat_bomber_equipment_3:0 "투폴레프 Tu-4"
-SOV_strat_bomber_equipment_3_short:0 "Tu-4"
+SOV_strat_bomber_equipment_2:0 "페틀랴코프-네즈발 중폭격기 mod.8" #Pe-8M
+SOV_strat_bomber_equipment_2_short:0 "TB-8"
+SOV_strat_bomber_equipment_3:0 "투폴레프 중폭격기 mod.10" №Tu-4
+SOV_strat_bomber_equipment_3_short:0 "TB-10"
 
-SOV_nav_bomber_equipment_1:0 "일류신 DB-3T"
+SOV_nav_bomber_equipment_1:0 "일류신 장거리폭격기 mod.3T" #DB-3T
 SOV_nav_bomber_equipment_1_short:0 "DB-3T"
-SOV_cv_nav_bomber_equipment_1:0 "일류신 DB-3P"
-SOV_cv_nav_bomber_equipment_1_short:0 "DB-3P"
-SOV_nav_bomber_equipment_2:0 "일류신 Il-4T"
-SOV_nav_bomber_equipment_2_short:0 "Il-4T"
-SOV_cv_nav_bomber_equipment_2:0 "일류신 Il-4P"
-SOV_cv_nav_bomber_equipment_2_short:0 "Il-4P"
-SOV_nav_bomber_equipment_3:0 "일류신 Il-6T"
-SOV_nav_bomber_equipment_3_short:0 "Il-6T"
-SOV_cv_nav_bomber_equipment_3:0 "일류신 Il-6P"
-SOV_cv_nav_bomber_equipment_3_short:0 "Il-6P"
+SOV_cv_nav_bomber_equipment_1:0 "일류신 장거리폭격기 mod.3TP" #DB-3P
+SOV_cv_nav_bomber_equipment_1_short:0 "DB-3TP"
+SOV_nav_bomber_equipment_2:0 "일류신 장거리폭격기 mod.4T" #Il-4T
+SOV_nav_bomber_equipment_2_short:0 "DB-4T"
+SOV_cv_nav_bomber_equipment_2:0 "일류신 장거리 폭격기 mod.4TP" #Il-4P
+SOV_cv_nav_bomber_equipment_2_short:0 "DB-4TP"
+SOV_nav_bomber_equipment_3:0 "일류신 장거리폭격-뇌격기 mod.1" #Il-6T
+SOV_nav_bomber_equipment_3_short:0 "DBT-1"
+SOV_cv_nav_bomber_equipment_3:0 "일류신 장거리폭격-뇌격기 mod.1P" #Il-6P
+SOV_cv_nav_bomber_equipment_3_short:0 "DBT-1P"
 
-SOV_CAS_equipment_1:0 "그루신 슈-탄진"
-SOV_CAS_equipment_1_short:0 "슈-탄진"
-SOV_cv_CAS_equipment_1:0 "수호이 Su-2P"
-SOV_cv_CAS_equipment_1_short:0 "Su-2P"
-SOV_CAS_equipment_2:0 "수호이 Su-2"
-SOV_CAS_equipment_2_short:0 "Su-2"
-SOV_cv_CAS_equipment_2:0 "코체르긴 OPB-5P"
-SOV_cv_CAS_equipment_2_short:0 "OPB-5P"
-SOV_CAS_equipment_3:0 "수호이 Su-6"
-SOV_CAS_equipment_3_short:0 "Su-6"
-SOV_cv_CAS_equipment_3:0 "세버스키 Sev-47P"
-SOV_cv_CAS_equipment_3_short:0 "Sev-47P"
+SOV_CAS_equipment_1:0 "그루신 공격기 mod.1" #Sh-Tandem
+SOV_CAS_equipment_1_short:0 "Sh-1"
+SOV_cv_CAS_equipment_1:0 "수호이 단거리폭격기 mod.1P" #Su-2P
+SOV_cv_CAS_equipment_1_short:0 "BB-1P"
+SOV_CAS_equipment_2:0 "일류신 장갑공격기 mod.2" #Initially Su-2, changed to Il-2
+SOV_CAS_equipment_2_short:0 "BSh-2"
+SOV_cv_CAS_equipment_2:0 "코체르긴 장갑공격기 mod.5P" #OPB-5P
+SOV_cv_CAS_equipment_2_short:0 "BSh-5P"
+SOV_CAS_equipment_3:0 "수호이 장갑공격기 mod.6" #Su-6
+SOV_CAS_equipment_3_short:0 "BSh-6"
+SOV_cv_CAS_equipment_3:0 "세버스키 전투기 mod.22P" #Sev-47P
+SOV_cv_CAS_equipment_3_short:0 "I-22P"
 
-SOV_jet_fighter_equipment_1:0 "미코얀-구레비치 MiG-9"
-SOV_jet_fighter_equipment_1_short:0 "MiG-9"
-SOV_jet_fighter_equipment_2:0 "미코얀-구레비치 MiG-15"
-SOV_jet_fighter_equipment_2_short:0 "MiG-15"
-SOV_jet_tac_bomber_equipment_1:0 "일류신 Il-22"
-SOV_jet_tac_bomber_equipment_1_short:0 "Il-22"
-SOV_jet_tac_bomber_equipment_2:0 "일류신 Il-28"
-SOV_jet_tac_bomber_equipment_2_short:0 "Il-28"
-SOV_jet_strat_bomber_equipment_1:0 "투폴레프 Tu-16"
-SOV_jet_strat_bomber_equipment_1_short:0 "Tu-16"
+SOV_jet_fighter_equipment_1:0 "미코얀-구레비치 전투기 mod.25R" #MiG-9
+SOV_jet_fighter_equipment_1_short:0 "I-25R"
+SOV_jet_fighter_equipment_2:0 "미코얀-구레비치 제트 전투기 mod.2" #MiG-15
+SOV_jet_fighter_equipment_2_short:0 "RI-2"
+SOV_jet_tac_bomber_equipment_1:0 "일류신 제트 폭격기 mod.1" #Il-22
+SOV_jet_tac_bomber_equipment_1_short:0 "RB-1"
+SOV_jet_tac_bomber_equipment_2:0 "일류신 제트 폭격기 mod.2" #Il-28
+SOV_jet_tac_bomber_equipment_2_short:0 "RB-2"
+SOV_jet_strat_bomber_equipment_1:0 "투폴레프 제트 폭격기 mod.4" #Tu-16
+SOV_jet_strat_bomber_equipment_1_short:0 "RB-4"
 
-SOV_scout_plane_equipment_2:0 "Yakolev Yak-2"
-SOV_scout_plane_equipment_2_short:0 "Yak-2"
+SOV_scout_plane_equipment_1:0 "카모프 오토자이로 mod.1" #A-7
+SOV_scout_plane_equipment_1_short:0 "A-1"
+SOV_scout_plane_equipment_2:0 "야코블레프 단거리폭격기 mod.3" #Yak-2
+SOV_scout_plane_equipment_2_short:0 "BB-3"
 
 ###
 ### Kingdom of Spain ###
@@ -4643,6 +4635,8 @@ SRD_scout_plane_equipment_2_short:0 "D.720"
 ### Socialist Republic of Italy ###
 ###
 
+SRI_CAS_equipment_1:0 "Breguet Br.693"
+SRI_CAS_equipment_1_short:0 "Br.693"
 SRI_CAS_equipment_2:0 "레지아네 Re.2002"
 SRI_CAS_equipment_2_short:0 "Re.2002"
 SRI_CAS_equipment_3:0 "레지아네 Re.2006"
@@ -4840,11 +4834,11 @@ SVK_jet_tac_bomber_equipment_2_short:0 "L.44"
 SVK_jet_tac_bomber_equipment_2_desc:0 "With the reliability of jet engines increasing and competition ever-so fierce, Aero tackled the challenge to design a next-generation fast-bomber, culminating into the L.44 fast bomber."
 
 SVK_strat_bomber_equipment_1:0 "아비아-도르니에 Do.19"
-SVK_strat_bomber_equipment_1_short:0 "Do.17"
+SVK_strat_bomber_equipment_1_short:0 "Do.19"
 SVK_strat_bomber_equipment_1_desc:0 "Lacking designs for strategic bombers, Avia purchased a number of Dornier four-engine bombers to showcase the their potential to the air force."
 SVK_strat_bomber_equipment_2:0 "아비아-융커스 Ju.290"
 SVK_strat_bomber_equipment_2_short:0 "Ju.290"
-SVK_strat_bomber_equipment_2_desc:0 "Avia acquired a number of Ju.290 to supplement the small fleet of Do.17 in service."
+SVK_strat_bomber_equipment_2_desc:0 "Avia acquired a number of Ju.290 to supplement the small fleet of Do.19 in service."
 SVK_strat_bomber_equipment_3:0 "바이스 만프레트 WM.65"
 SVK_strat_bomber_equipment_3_short:0 "WM.65"
 SVK_strat_bomber_equipment_3_desc:0 "Lázló Varga's four-engine bomber design was the first domestically-produced heavy bomber of its kind in the Empire."
@@ -4925,6 +4919,11 @@ SWE_heavy_fighter_equipment_2_desc:0 "After the success of the J 19, we had to i
 SWE_heavy_fighter_equipment_3:0 "SAAB J 24"
 SWE_heavy_fighter_equipment_3_short:0 "J 24"
 SWE_heavy_fighter_equipment_3_desc:0 "Heavier, bigger and stronger, the Saab J 24 is a last gen interceptor. Two powerful engines, a heavy armament, a pressurised cockpit, an advanced radar and a big fuel tank allow it to conduct air interceptions even in the worst flight conditions, wherever the enemy is. It's the best plane of its kind we've ever built."
+
+SWE_scout_plane_equipment_1:0 "Fieseler S 14"
+SWE_scout_plane_equipment_1_short:0 "S 14"
+SWE_scout_plane_equipment_2:0 "Caproni S 16"
+SWE_scout_plane_equipment_2_short:0 "S 16"
 
 SWE_transport_plane_equipment_1:0 "융커스 Ju-86 Tp 9"
 SWE_transport_plane_equipment_1_short:0 "Tp 9"
@@ -5152,11 +5151,11 @@ TRS_jet_tac_bomber_equipment_2_short:0 "L.44"
 TRS_jet_tac_bomber_equipment_2_desc:0 "With the reliability of jet engines increasing and competition ever-so fierce, Aero tackled the challenge to design a next-generation fast-bomber, culminating into the L.44 fast bomber."
 
 TRS_strat_bomber_equipment_1:0 "아비아-도르니에 Do.19"
-TRS_strat_bomber_equipment_1_short:0 "Do.17"
+TRS_strat_bomber_equipment_1_short:0 "Do.19"
 TRS_strat_bomber_equipment_1_desc:0 "Lacking designs for strategic bombers, Avia purchased a number of Dornier four-engine bombers to showcase the their potential to the air force."
 TRS_strat_bomber_equipment_2:0 "아비아-융커스 Ju.290"
 TRS_strat_bomber_equipment_2_short:0 "Ju.290"
-TRS_strat_bomber_equipment_2_desc:0 "Avia acquired a number of Ju.290 to supplement the small fleet of Do.17 in service."
+TRS_strat_bomber_equipment_2_desc:0 "Avia acquired a number of Ju.290 to supplement the small fleet of Do.19 in service."
 TRS_strat_bomber_equipment_3:0 "바이스 만프레트 WM.65"
 TRS_strat_bomber_equipment_3_short:0 "WM.65"
 TRS_strat_bomber_equipment_3_desc:0 "Lázló Varga's four-engine bomber design was the first domestically-produced heavy bomber of its kind in the Empire."

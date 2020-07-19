@@ -71,7 +71,7 @@ DOM_rojo_victory_2_5_desc:0 "도미니카의 관료제는 비대하고 비효율
 DOM_rojo_victory_2_6:0 "불사조"
 DOM_rojo_victory_2_6_desc:0 "여러 외세 – 스페인, 아이티, 미국 - 가 도미니카 공화국을 점령하고 또 점령했습니다. 그런데도 우리 국민들은 재에서 불사조가 날아오르듯 외세를 무찔렀습니다. 정치적 격동이 끝난 지금, 도미니카는 다시 한번 날아오르려 하고 있습니다. "
 DOM_post_elec_1:0 "역적 척결"
-DOM_post_elec_1_desc:0 "국가에 불충하는 군인을 남겨두면 골칫덩어리가 되기 십상이다. 조금이라도 의심되는 장교는 잡아다 전역시키고 충성스러운 인물을 그 자리에 앉혀라."
+DOM_post_elec_1_desc:0 "Those in the military who remain disloyal will prove to be a nuisance if left alone. Every officer with but a hint of suspicion about him but be dismissed and a replacement prepared."
 DOM_post_elec_2:0 "군부와의 타협"
 DOM_post_elec_2_desc:0 "트루히요와 다른 군인의 반역적인 영향력은 여전히 군대 내에서 감돌고 있지만, 관용을 베풀지 않는 것도 멍청한 일입니다. 부패한 장교와 병사와도 함께 힘을 합쳐야 합니다."
 DOM_post_elec_3:0 "충성파 장교 지원"
@@ -226,14 +226,14 @@ DOM_fortify_shore_desc:0 "히스파니올라 섬에서 국경을 맞댄 국가�
 DOM_naval_research:0 "해양연구소"
 DOM_naval_research_desc:0 "세계의 해군을 ‘따라잡으려면’ 기술을 집중적으로 연구해야 합니다. 이를 위해 중앙해양연구소를 창설합시다."
 DOM_modern_PT:0 "어뢰정"
-DOM_modern_PT_desc:0 "유럽에서 신형 함선이 나왔습니다. 어뢰정 대부분이 작고 해안선 부근에서만 작전할 수 있는데 반해, 크고 비싼 배를 보호하기 위해 일부 해군은 크고 단독 작전이 가능하며 대잠수함 무기를 장착한 어뢰정을 함대에 편제시켰습니다. 이 배들은 일반적인 어뢰정보다는 크지만 다른 배에 비하면 작고, 대량생산하기 쉽습니다. 이 배를 만들 뿐 아니라, 대규모로 건조합시다."
+DOM_modern_PT_desc:0 "From Europe, a new design has emerged. While most torpedo boats are small and operate close to shore, some navies have begun to field large torpedo boats equipped with anti-Submarine weapons. While larger than typical torpedo boats, these ships are still small and are easily produced. We should adopt such a design."
 DOM_further_doctrine:0 "해군 교리 강화"
 DOM_further_doctrine_desc:0 "우리 해군이 성장했지만, 잠재력을 완전히 발휘하려면 해군 전투 교리를 발전시켜야 합니다."
 DOM_new_generation:0 "새로운 피"
 DOM_new_generation_desc:0 "많은 예산과 빠른 발전으로 해군은 국민들 앞에서 사랑받을 수 있게 되었습니다. 새로운 세대의 아이들은 바다에서 용감히 싸우는 선원을 우상화하고 있으며, 해군에 입대하겠다는 사람들도 많이 늘었습니다. 그렇지만 해군 모병은 여전히 육군이 담당하고 있습니다. 해군에 새로운 피를 수혈하려면, 이 말도 안되는 상황을 고쳐야 합니다."
 
 DOM_air_begin:0 "항공대 정비"
-DOM_air_begin_desc:0 "공군은 새롭고, 참신하며, 그 존재만으로 군부 지도자는 우리 군이 미래를 대비한다며 자화자찬합니다. 그러나 공군은 무시당하고 있으며, 공군력은 공군이 창설되었을 때와 다를 바가 없습니다. 공군 증설 산업을 신중히 시작합시다."
+DOM_air_begin_desc:0 "The air corps is new and novel, and its simple existence was enough to make military leaders rest on their laurels, assured things will progress on their own. In reality, it remains neglected and we have no more capacity to take the fight to the air than before its creation. It would be prudent to begin to work on expanding the air corps."
 DOM_basing_advice:0 "주둔권 판매"
 DOM_basing_advice_desc:0 "우리는 항공전을 모르지만, 이 문제를 해결할 안이 나왔습니다. 아무 나라에나 비무장 항공기 주둔권을 주고, 대신에 우리 공군을 지원할 무관을 보내 달라고 해봅시다."
 DOM_reorganize_air:0 "공군 재조직"
@@ -401,6 +401,7 @@ DOM_anti_haitian_1:0 "잠재한 반-아이티 정서"
 ### Country Flags ###
 DOM_rojo_election:0 "로호당이 선거에서 승리하다"
 DOM_repub_election:0 "공화당이 선거에서 승리하다"
+DOM_coup_succeeds:0 "트루히요의 쿠데타가 성공하다"
 DOM_estrella_wins:0 "에스트렐라가 트루히요를 무찌르다"
 DOM_trujillo_wins:0 "트루히요가 에스트렐라를 무찌르다"
 DOM_estrella_gone:0 "에스트렐라의 임기가 끝나다"
@@ -864,7 +865,7 @@ domrep.76.d:0 "After days of consistent pressure to resume negotiations, Haiti h
 domrep.76.a:0 "Onwards!"
 
 domrep.77.t:0 "Fate Of Haiti"
-domrep.77.d:0 "The occupation has proven costly, and we must now decide Haiti's final fate. Some call for its total annexation, while others insist that it merely becoming a puppet state again, this time with closer supervision and control."
+domrep.77.d:0 "The occupation has proven costly, and we must now decide Haiti's final fate. Some call for its total annexation, while others insist that it should merely become a puppet state again, this time with closer supervision and control."
 domrep.77.a:0 "A Closely Supervised Puppet."
 domrep.77.b:0 "Work On Integration."
 
@@ -932,7 +933,7 @@ domrep.92.d:0 "As our valiant soldiers march through the streets of Santo Doming
 domrep.92.a:0 "Begin The Integration Process."
 
 domrep.93.t:0 "The End Of The Rebellion"
-domrep.93.d:0 "The Haitian has been totally crushed, and with the uprising's end, we must again rebuild Haiti. Now however, with puppet regimes proven ineffective at maintaining order, once fringe voices calling for the full annexation of Haiti have grown louder, and while for now the occupation must continue while a more concrete decision is reached, the prospect of annexation is ever enticing."
+domrep.93.d:0 "The Haitian Rebellion has been totally crushed, and with the uprising's end, we must again rebuild Haiti. Now however, with puppet regimes proven ineffective at maintaining order, once fringe voices calling for the full annexation of Haiti have grown louder, and while for now the occupation must continue while a more concrete decision is reached, the prospect of annexation is ever enticing."
 domrep.93.a:0 "Occupy Them For Now."
 
 domrep.94.t:0 "Troubling News From Costa Rica"

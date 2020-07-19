@@ -11,6 +11,22 @@ generic_car_company:0 "일반 차량 제조사"
 generic_industrial_company:0 "일반 산업 회사"
 generic_naval_company:0 "일반 선박 제조사"
 
+### Argentina ###
+somisa:0 "SOMISA"
+universidad_buenos_aires:0 "부에노스 아이레스 대학교"
+ypf:0 "YPF"
+fabricaciones_militares:0 "군수 제조사"
+hispano_argentina:0 "히스파노-아르헨티나"
+seccion_industrial_amasadoras_mecanicas:0 "산업용 부품 기계 혼합사"
+fabrica_militar_aviones:0 "군용 항공기 공장"
+afne:0 "AFNE"
+astarsa:0 "ASTARSA"
+astilleros_alianza:0 "조선소 연합"
+argentina_bmw:0 "DMW 아르헨티나"
+argentina_mauser:0 "마우저 아르헨티나"
+argentina_fokker:0 "포커 아르헨티나"
+argentina_frc:0 "FRC 아르헨티나"
+
 ### Armenia ###
 zangezur_combine:0 "장에주르 구리 & 몰리브덴 조합"
 yerevan_state_university:0 "예레반 국립 대학"
@@ -56,6 +72,7 @@ simmering_graz_pauker:0 "지머링-그라츠-파우커"
 wiener_neu_lokomotiv:0 "빈 노이슈타트 기관차 공장"
 wiener_neu_flugzeug:0 "빈 노이슈타트 항공기 공장"
 oeffag:0 "오스트리아 항공기공장 AG"
+hirtenberger:0 "Hirtenberger"
 
 ### Bharatiya Commune ###
 bengalese_steel_mills:0 "벵골 제강"
@@ -399,22 +416,6 @@ kure_naval_arsenal:0 "구레 해군 공창"
 sasebo_naval_arsenal:0 "사세보 해군 공창"
 maizuru_naval_arsenal:0 "마이즈루 해군 공창"
 
-### La Plata ###
-somisa:0 "SOMISA"
-universidad_buenos_aires:0 "부에노스 아이레스 대학교"
-ypf:0 "YPF"
-fabricaciones_militares:0 "군수 제조사"
-hispano_argentina:0 "히스파노-아르헨티나"
-seccion_industrial_amasadoras_mecanicas:0 "산업용 부품 기계 혼합사"
-fabrica_militar_aviones:0 "군용 항공기 공장"
-afne:0 "AFNE"
-astarsa:0 "ASTARSA"
-astilleros_alianza:0 "조선소 연합"
-argentina_bmw:0 "DMW 아르헨티나"
-argentina_mauser:0 "마우저 아르헨티나"
-argentina_fokker:0 "포커 아르헨티나"
-argentina_frc:0 "FRC 아르헨티나"
-
 ### Liangguang ###
 
 guangzhou_cement_factory:0 "광저우 시멘트 공장"
@@ -629,19 +630,6 @@ astaldi:0 "Astaldi"
 societa_edison:0 "Società Edison"
 societa_pont_saint_martin:0 "Società Pont Saint Martin"
 pirelli:0 "Pirelli"
-
-### Romania ###
-malaxa:0 "Malaxa"
-universitatea_bucuresti:0 "Universitatea din Bucuresti"
-rafinaria_steaua_romana:0 "Rafinaria Steaua Romana"
-fabrica_de_arme_cugir:0 "Fabrica de Arme Cugir"
-udr:0 "UDR"
-caile_ferate_romane:0 "Caile Ferate Romane"
-leonida:0 "Leonida"
-industria_aeronautica_romana:0 "Industria Aeronautică Română"
-icar:0 "ICAR"
-fabrica_avioane_set:0 "Fabrica de Avioane SET"
-santierul_naval_constanta:0 "Şantierul Naval Constanţa"
 
 ### Russia ###
 putilov:0 "푸틸로프 공장"

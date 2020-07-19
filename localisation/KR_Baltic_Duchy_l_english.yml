@@ -276,18 +276,6 @@ balticduchy.208.a:0 "포기하자."
 balticduchy.208.b:0 "포기하고 러시아와의 무역을 금지한다."
 balticduchy.208.c:0 "저들은 또 다른 브레스트-리토브스크 조약을 원하는군!"
 
-balticduchy.209.t_LAT:0 "발트 전쟁 - 부분적인 성공"
-balticduchy.209.d_LAT:0 "우리는 라트비아에 질서를 가져왔지만, 에스토니아는 되찾지 못했습니다. 우리는 발트 공국을 복원하거나 충성스러운 라트비아를 해방시킬 수 있습니다."
-balticduchy.209.t_LAT_EST:0 "발트 전쟁 - 완전한 성공"
-balticduchy.209.d_LAT_EST:0 "우리는 라트비아와 에스토니아의 질서를 되찾았고 지역은 평화를 되찾았습니다. 우리는 충성스러운 라트비아와 에스토니아를 해방하거나, 아니면 이전의 발트 공국을 복원할 수 있습니다."
-balticduchy.209.a:0 "충성스러운 라트비아를 해방하자."
-balticduchy.209.b:0 "공작에게 독일에 남을 것을 요청하자."
-balticduchy.209.c:0 "공작을 리가로 돌려보내자."
-balticduchy.209.e:0 "완전히 점령하자!"
-
-annexation_BALTIC_GER_CONQ:0 "발트 연합공국의 운명"
-annexation_BALTIC_GER_CONQ_desc:0 "발트 반군은 패배했고, 우리는 그들의 땅을 점령했습니다. 우리는 발트 공국을 복원할지 아니면 위성국을 세울지 결정해야 합니다."
-
 ### Parties ###
 
 BAT_totalist_party:0 "발트 전체주의당"

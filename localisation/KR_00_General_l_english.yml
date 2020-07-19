@@ -8,8 +8,11 @@ LOGO_MAIN_MENU_LINK:0 "여기를 눌러서 패치노트를 확인하세요"
 ### Diplomacy Tooltips ###
 REQUEST_EXP_FORCE_BLOCKED_TT:0 "§R이 나라는 당신의 군대 요청을 거부합니다.§!"
 
-### Minister Tooltip ###
+### Regular Tooltips ###
 general_minister_change_tt:0 "그들의 장관들은 우리의 이념에 따라 교체될 것입니다."
+is_actual_major_tt:0 "Is considered a major world power"
+if_FROM_agrees:0 "If §H[From.GetFlag] [From.GetNameDef]§! agrees:"
+upon_selecting_focus:0 "Upon selecting focus:"
 
 ### Renaming System ###
 toggle_renaming_button_tooltip:0 "[toggle_renaming_button_tooltip_loc]"
@@ -30,7 +33,7 @@ INTELLIGENCE_AGENCY_BLOCK_TOOLTIP:0 "[!intelligence_agency_blocker_button_click_
 
 ### Splash Screen ###
 KR_SPLASH_TITLE:0 "환영합니다!"
-KR_SPLASH_CREDITS:0 "§Y카라 개발팀 일동:§!\nAlpinia, Arvidus, Augenis, Blackfalcon501, Carmain, DSFDarker, Dr. Njitram, Drozdovite, Edouard Saladier, Eragaxshim, Fbruchmueller, Flamefang, Fort, Gideones, JazzyHugh, Jeankedezeehond, Jonjon428, Jonny BL, Krco, Liegnitz, Maltesefalcon, OperationsManagementDecisions, PPsyrius, Pietrus, Rei VL, Rinbro, Roniius, Rylock, Starguard, Telcontar101, The Alpha Dog, Thomahawk2k, Vidyaország, WordZero, Yard1, Zankoas and Zimbabwe Salt Co."
+KR_SPLASH_CREDITS:0 "§Y카라 개발팀 일동:§!\nAlpinia, Arvidus, Augenis, Blackfalcon501, DSFDarker, Carmain, Dr. Njitram, Drozdovite, Edouard Saladier, Éloïse, Eragaxshim, Fbruchmueller, Flamefang, Fort, Gideones, JazzyHugh, Jeankedezeehond, Jonjon428, Jonny BL, Krco, Liegnitz, Maltesefalcon, Matoro, NukeGaming, OperationsManagementDecisions, PPsyrius, Pietrus, Rei VL, Rylock, SPQR, Starguard, Telcontar101, The Alpha Dog, Thomahawk2k, Vidyaország, WordZero, Yard1, Zankoas and Zimbabwe Salt Co."
 
 ### Autonomy Levels ###
 kr_integrated_puppet:0 "동화된 괴뢰국"
@@ -62,7 +65,8 @@ chief_of_army_cost_factor:0 "육군장관 비용"
 chief_of_navy_cost_factor:0 "해군장관 비용"
 chief_of_air_force_cost_factor:0 "공군장관 비용"
 weapons_manufacturer_cost_factor:0 "무기 제조사 비용"
-cannot_train_units_tt:2 "§R부대를 훈련하거나 해산하거나 구성을 수정할 수 없습니다.§!\n"
+cannot_train_units_tt:0 "§R부대를 훈련하거나 해산하거나 구성을 수정할 수 없습니다.§!\n"
+cannot_mobilise_tt:0 "§RCannot enact conscription or mobilise the economy.§!\n"
 
 ### Opinion Modifiers ###
 KR_friendly:0 "우호적"
@@ -90,6 +94,9 @@ FOCUS_FILTER_LEC_CURRENCY:0 "통화 비축"
 FROM_becomes_puppet:0 "§H[From.GetNameDefCap]§!은 더이상 §H점령된 괴뢰국§!이 아닙니다."
 FROM_becomes_autonomous_puppet:0 "§H[From.GetNameDefCap]§!은 §H자치 괴뢰국§!이 됩니다."
 FROM_becomes_nominal_puppet:0 "§H[From.GetNameDefCap]§!은 §H명목상 괴뢰국§!이 됩니다."
+
+### Compliance ###
+compliance_integration:0 "Integration"
 
 ### Operatives ###
 CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC:5 "첩보부를 세우는 것으로 첫 번째 슬롯을 열 수 있습니다. 다른 슬롯은 5번째 업그레이드를 하거나 디시전으로 §H정보부장§!을 모집한 후에 열 수 있습니다.\n스파이마스터가 되면 당신의 세력에 더 많은 국가가 들어올 수록 더 많은 슬롯을 열 수 있습니다. 속국이나 공장 수가 매우 적은 국가는 첩보원 슬롯을 추가해주지 않습니다."
@@ -154,9 +161,9 @@ unit_leader.2.d:0 "전투의 성공적인 결과를 위해, [From.GetHerHis]의 
 unit_leader.2.a:0 "유감스럽군."
 
 ### Government in Exile Events ###
-mtg_exile_government.1.t:0 "[exile_nation.GetAdjective]의 망명 지도자가 군복무를 원하다"
-mtg_exile_government.1.desc:0 "적에게 점령당한 영토와 여러 중립국들을 통한 길고 위험한 여정 끝에, 항복한 동맹의 고위 군 장교 중 한 명이 드디어 수도에 도착했습니다. 짧은 회복 시간 후, 그는 우리의 공동투쟁에서의 군복무를 원합니다."
-mtg_exile_government.1.a:0 "당신의 싸움은 아직 끝나지 않았습니다."
+mtg_exile_leader_added.1.t:0 "[exile_nation.GetAdjective]의 망명 지도자가 군복무를 원하다"
+mtg_exile_leader_added.1.desc:0 "적에게 점령당한 영토와 여러 중립국들을 통한 길고 위험한 여정 끝에, 항복한 동맹의 고위 군 장교 중 한 명이 드디어 수도에 도착했습니다. 짧은 회복 시간 후, 그는 우리의 공동투쟁에서의 군복무를 원합니다."
+mtg_exile_leader_added.1.a:0 "당신의 싸움은 아직 끝나지 않았습니다."
 mtg_exile_government.2.title:0 "[From.GetAdjective] 망명정부"
 mtg_exile_government.2.desc:0 "[From.GetLeader](은)는 [From.GetNameDef]의 영토를 반환하고 전후의 평화에 대비하여 [From.GetRulingPartyLong]의 임시 내각을 재성립할 것을 [Root.GetAdjective] 정부에 공식적으로 요청했습니다. "
 mtg_exile_government.2.a:0 "그들의 영토를 돌려줄 때가 되었다."
@@ -183,6 +190,8 @@ militia:0 "민병대"
 
 ### Tech ###
 military_police_tech:0 "헌병"
+dd_tech_research:0 "Destroyer Research Speed"
+cl_tech_research:0 "Cruiser Research Speed"
 
 ### Research Bonus Names ###
 refinery_bonus:0 "정유공장 보너스"
@@ -300,9 +309,12 @@ economy_minister:0 "경제장관"
 security_minister:0 "내무장관"
 head_of_intel:0 "군사정보부장"
 ## Country-Specific Ones
-knight_captain_of_liv_ord:0 "기사단장"            # BAT
+knight_captain_of_liv_ord:0 "기사단장 of LivOrd"  # BAT
 land_marshal_of_liv_ord:0 "지방사령관"                # BAT
 leader_of_the_british_exiles:0 "영국 총리" # CAN
+underworld_boss:0 "Underworld Boss"                     # LEC
+marshal_of_the_palace:0 "Marshal of the Palace"         # ROM
+minister_of_native_affairs:0 "Min. of Native Affairs"   # SAF, SFR
 
 ### Company Traits ###
 

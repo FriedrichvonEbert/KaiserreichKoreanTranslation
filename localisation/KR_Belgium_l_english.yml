@@ -581,6 +581,7 @@ Flemish_Council_Chosen:0 "플랜더스 수사"
 chasseurs_ardennais.tt:0 "\nSpawn £nato_unit_mountaineers_icon_small  §Y"Chasseurs Ardennais"§! in §MWallonia§!"
 BEL.LC.tt:0 "Creates £light_cruiser_texticon §YSMS Adalbert I§! in §MKiel§!\nCreates £light_cruiser_texticon §YSMS Ambiorix§! in §MKiel§!"
 BEL_reservemob_tt:0 "\nMobilise §Y20§! £nato_unit_infantry_icon_small  §YInfantry Divisions§! from the reserves"
+BEL_same_wars_as_HOL:0 "Isn't at war with anyone who isn't also at war with [HOL.GetNameDef]"
 
 ### Opinion Modifiers ###
 BEL_Arlon_Refused:0 "아를롱 조약 거절"
@@ -1110,11 +1111,11 @@ bel.464.a:0 "조약이 체결되었다!"
 bel.464.b:0 "독일은 이런 반란군에게 고개숙이지 않는다!"
 
 bel.465.t:0 "벨기에의 아를롱 회의 거부"
-bel.465.d:0 "It seems those upstart "Belgiums" have completly rejected our generous offer and turned their backs on us. With this clear slap to the face, our war hawks have demanded that the Kaiserreich set things right and move in to crush these upstarts. It appears that cooler heads have prevailed, with [GER.GetRulingParty] opting to bide it's time and deal with the "Belgium" problem at a later date, when this plage of Black Monday no longer afflict us."
+bel.465.d:0 "It seems those upstart "Belgians" have completely rejected our generous offer and turned their backs on us. With this clear slap to the face, our war hawks have demanded that the Kaiserreich set things right and move in to crush these upstarts. It appears that cooler heads have prevailed, with [GER.GetRulingParty] opting to bide it's time and deal with the "Belgium" problem at a later date, when this plague of Black Monday no longer afflict us."
 bel.465.a:0 "충분한 시간이 흐른 뒤에 우린 다시 돌아오리라."
 
 bel.466.t:0 "독일측의 반박"
-bel.466.d:0 "It seems that the Germans in an un-German counteroffer, has offered only the region of Wallon Luxembourg, but have refused Luxembourg proper. This would mean that Arlon would rejoin Belgium, which would appease those within the more extreme fringes of the political specturm and be a win in the eyes of the Public. Of course this would be mean that Luxembourg Proper, would offically be under the Kaiserreich and though this is a smaller pill to swallow, there are those who state it's all or nothing"
+bel.466.d:0 "It seems that the Germans in an un-German counteroffer, has offered only the region of Wallon Luxembourg, but have refused Luxembourg proper. This would mean that Arlon would rejoin Belgium, which would appease those within the more extreme fringes of the political spectrum and be a win in the eyes of the Public. Of course this would be mean that Luxembourg Proper, would officially be under the Kaiserreich and though this is a smaller pill to swallow, there are those who state it's all or nothing"
 bel.466.a:0 "좋아. 받아들이지."
 bel.466.b:0 "룩셈부르크는 협상할 수 있는게 아니다."
 
@@ -1392,17 +1393,12 @@ bel.1001.a:0 "Camille Huysmans and his Social Democrat BWP"
 bel.1001.b:0 "Paul-Henri Spaak and his Social Liberal BWP"
 bel.1001.c:0 "Paul Van Zeeland and his social conservative KP"
 bel.1001.e:0 "Paul-Emile Janson and his market liberal LP"
+
 #Renaming
 bel.1002.t:0 "Integration of French Flanders"
 bel.1002.d:0 "After we secured the French state of Pas-De-Calais, the Government has decided to take the first step into integrating the province in the nation. All French city names will be restored to their Flemish equivalents and the province itself will be redubbed Frans Vlaanderen."
 bel.1002.a:0 "At last Flanders is whole!"
-#bel.1003.t:0 "콘스탄티노플 영유권 재주장!"
-#bel.1003.d:0 "During the Fourth Crusade, knights from all over Europe travelled to the Holy Land to fight back the Islamic occupants. During their travels however, the knights ransacked the city of Constantinopel and drove off the Byzantine Emperor. Boudewijn I of Flanders was under support of his fellow crusaders crowned as emperor of the Latin Empire by Pope Innocentius III. Even though his Empire was short lived, it's a moment of glory in our history and with the recapture of Constantinopel we can reclaim the throne and as such our empire!"
-#bel.1003.a:0 "진정하게 친구들, 지금은 중세가 아니야!"
-#bel.1003.b:0 "플랜더스를 위하여, 벨기에와 라틴 제국을 위하여!"
-bel.10031.t:0 "성지 영유권 재주장"
-bel.10031.d:0 "With the musulman finally driven out of the city, Belgium has reclaimed the Holy City. In memory of the national hero, Godfried Van Bouillon, the city has once more been renamed to Jerusalem. This is a great day for Christians everywhere and we have been officially congratulated by the Pope who has declared our leader Advocatus Sancti Sepulchri, defender of the Holy Sepulchre."
-bel.10031.a:0 "우리의 군세를 막을 수는 없다!"
+
 #Guarantees
 bel.1003.t:0 "Belgium Requests Entente Protection"
 bel.1003.d:0 "After their independence struggle the Belgian government has come forth to discuss the possibilities of protection. Due to our connections with their king and assistance during the Weltkrieg, they have requested that we guarantee their independence and defend them once more from whatever nations might be willing to invade."

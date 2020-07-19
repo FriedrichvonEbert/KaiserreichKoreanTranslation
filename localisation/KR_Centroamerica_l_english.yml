@@ -30,20 +30,6 @@ POLITICS_CENTRAL_AMERICAN_COUNCIL_DESC:0 "중앙아메리카가 마침내 재통
 POLITICS_REVOLUTIONARY_COUNCIL_DESC:0 "중앙아메리카가 마침내 재통일되었지만 국가 정치구조가 여전히 확정되지 않았습니다. 당분간 임시 과도정부가 수립되었습니다만, 사회주의 권력 대부분이 각자 출신 지역에 기반한 진영별로 분열되어있기 때문에 대표성은 거의 없습니다."
 
 ### Decisions ###
-annexation_CEN_CONQ:0 "중앙 아메리카의 운명"
-annexation_CEN_CONQ_desc:0 "중앙아메리카 사람들을 어떻게 할지 결정해야 합니다."
-annexation_CEN_CONQ2:0 "중앙 아메리카의 운명"
-annexation_CEN_CONQ2_desc:0 "중앙아메리카 사람들을 어떻게 할지 결정해야 합니다."
-CEN_panama_grant:0 "Grant [CEN.GetNameDefCap] [PAN.GetAdjective] land"
-CEN_panama_grant_desc:0 "We must decide whether to grant [CEN.GetNameDefCap] [PAN.GetAdjective] land"
-CEN_costa_grant:0 "Grant [CEN.GetNameDefCap] [COS.GetAdjective] land"
-CEN_costa_grant_desc:0 "We must decide whether to grant [CEN.GetNameDefCap] [COS.GetAdjective] land"
-
-CEN_conquered_release:0 "통일된 중앙아메리카를 독립시킬 것이다!"
-release_cen_seperate:0 "온두라스, 니카라과, 과테말라, 엘살바도르, 그리고 만약 합병된 상태라면 코스타리카까지 각자 독립시킬 것이다!"
-owns_ca_trigger_tooltip:0 "중앙아메리카 전역을 소유하겠다"
-
-
 Forming_Central_America:0 "중앙아메리카 정치"
 Forming_Central_America_desc:0 "Central American politics can be complex at times. It deeply involves playing off of each other while staying on the good side of whoever has their eyes on the region, and will need to be navigated carefully."
 
@@ -190,6 +176,9 @@ soc_dem_revolutionary:0 "당신은 사회민주주의 혁명가입니다."
 soc_dem_democratic:0 "당신은 사회민주주의와 연대한 자유주의입니다."
 CEN_prepare_your_ass:0 "§R조만간 아대륙에서 충돌이 터져나올 것이므로 준비해야만 합니다.§!"
 CEN_sparks_flying:0 "§R이로서 중앙아메리카의 운명을 결정할 갈등의 수레바퀴가 돌기 시작합니다.§!"
+CEN_demgeneraltransfer_tt:0 "Gains new ministers and all democratic-aligned Central American generals.\n\n"
+CEN_milgeneraltransfer_tt:0 "Gains new ministers and all authoritarian-aligned Central American generals.\n\n"
+CEN_socgeneraltransfer_tt:0 "Gains new ministers and all socialist-aligned Central American generals.\n\n"
 
 ## Trigger Tooltips ##
 CEN_socialist_aligned:0 "Owner must either be a subject of §Y[Root.GetNameDef]§! or an aligned, socialist Central American nation which isn't at war\n"

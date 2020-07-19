@@ -19,7 +19,7 @@ FRA_sxtnreserve_tt:0 "16개 예비 사단이 증원될 것입니다."
 CAF_redeagles_tt:0 "새로운 자원 조종사와 항공기가 도착할 것입니다."
 FRA_nfadivs_tt:0 "프랑스 본토에서 반자코뱅 세력이 우리의 깃발 아래 결집할 것입니다."
 FRA_sorelian_economy_tooltip:0 "§Y파리에 4개 사단을 보낼 것입니다§!\n"
-FRA_tank_division_tooltip:0 "Three §HLight Armour§! divisions will be deployed."
+FRA_tank_division_tooltip:0 "Three £nato_unit_light_armor_icon_small  §HLight Armour§! divisions will be deployed."
 
 ### Ideas ###
 FRA_communard_spirit:0 "파리 코뮌의 영혼"
@@ -91,7 +91,7 @@ FRA_tank_assembly_line_idea_desc:0 "수많은 적들이 우리에게 몰려오�
 FRA_fast_army_idea:0 "기동력에 집중"
 FRA_fast_army_idea_desc:0 "속도는 단순히 다른 지점으로 더 빨리 가는 것만이 아닙니다. 속도는 전쟁의 모든 것입니다. 다음 대전쟁이 참호전으로 흘러갈 것이라는 생각은 어리석기 짝이 없습니다. 기동력이야말로 전쟁의 미래가 될 것입니다. 우리는 기계화된 군대가 아니고, 따라서 빠른 속도를 가진 기계화 사단에 투자해야만 합니다."
 
-FRA_Red_Army:0 "붉은 대육군"
+FRA_Red_Army:0 "Grande Armee Rouge"
 FRA_Red_Army_desc:0 "우리 군대는 자본주의 세계의 악마들보다 더 나은 형태를 가지고 있습니다."
 
 Capital_Ship_Primacy:0 "주력함 우선"
@@ -638,7 +638,7 @@ comfrance.64.d:0 "우리의 방첩 활동 전문가들은 최근 우리나라에
 comfrance.64.a:0 "걱정스러운 전개 상황이군."
 
 comfrance.65.t:0 "코뮌의 사회주의 반-식민주의 위원회 설립"
-comfrance.65.d:0 "소문이 퍼졌습니다. 프랑스 코뮌은 다른 국제 기구의 회원들과 사회주의 반-식민주의 위원회를 설립했습니다. 이는 북아프리카의 아랍인들이 식민지 열강의 손에서 그들의 조국을 해방시키는 것을 지지하는 것을 목표로 하고 있습니다.\n그래서, 모로코를 보호했던 다른 생디칼리스트 인터내셔널의 회원들과 함께 '사회주의 무슬림 위원회'로 알려진 위원회를 부활시켰습니다. 이 단체는 중동에서 생디칼리슴 세력의 행동을 조정하고 있으며, 우리의 정보통에 따르면 이집트 좌파 급진주의자들이 조금씩 유입되고 있다는 사실을 알려왔습니다. 프랑스 코뮌이나 생디칼리슴 국가와 전쟁상태는 아니지만, 우리는 매우 조심해야 합니다."
+comfrance.65.d:0 "소문이 퍼졌습니다. 프랑스 코뮌은 다른 국제 기구의 회원들과 사회주의 반-식민주의 위원회를 설립했습니다. 이는 북아프리카의 아랍인들이 식민지 열강의 손에서 그들의 조국을 해방시키는 것을 지지하는 것을 목표로 하고 있습니다.\n그래서, 다른 생디칼리스트 인터내셔널의 회원들과 함께 '사회주의 무슬림 위원회'로 알려진 위원회를 부활시켰습니다. 이 단체는 중동에서 생디칼리슴 세력의 행동을 조정하고 있으며, 우리의 정보통에 따르면 이집트 좌파 급진주의자들이 조금씩 유입되고 있다는 사실을 알려왔습니다. 프랑스 코뮌이나 생디칼리슴 국가와 전쟁상태는 아니지만, 우리는 매우 조심해야 합니다."
 comfrance.65.a:0 "반역, 음모, 사보타지!"
 
 comfrance.66.t:0 "사회주의 무슬림 위원회 발족"
@@ -939,9 +939,9 @@ comfrance.169.a:0 "드디어!"
 comfrance.169.b:0 "1초만 더 생각해보자..."
 
 #French News#
-frenchnews.1.t:0 "가믈랭의 파리 행진"
-frenchnews.1.d:0 "A few days ago, General Maurice Gamelin, launched a successful coup against the Jacobin regime of Marcel Déat. While this seems like a staunch attack on the commune’s democratic system, many argue that the Jacobins would have destroyed the democratic system if not for Gamelin’s intervention. Gamelin has promised to restore France to traditional syndicalism, and the process of De-Jacobinisation is already taking place. It is still unknown how his plans will turn out. We can only wait..."
-frenchnews.1.a:0 "거짓없이, 정말로 놀랍군."
+frenchnews.1000.t:0 "가믈랭의 파리 행진"
+frenchnews.1000.d:0 "A few days ago, General Maurice Gamelin, launched a successful coup against the Jacobin regime of Marcel Déat. While this seems like a staunch attack on the commune’s democratic system, many argue that the Jacobins would have destroyed the democratic system if not for Gamelin’s intervention. Gamelin has promised to restore France to traditional syndicalism, and the process of De-Jacobinisation is already taking place. It is still unknown how his plans will turn out. We can only wait..."
+frenchnews.1000.a:0 "거짓없이, 정말로 놀랍군."
 
 ### Decisions ###
 

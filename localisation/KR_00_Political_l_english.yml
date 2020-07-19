@@ -1,8 +1,5 @@
 ﻿l_english:
 
-### Popularity ###
-ruling_party_popularity_change:0 "[This.GetRulingIdeologyFullName]의 인기도 변화: [?ideology_change_var|+2%]\n"
-
 ### Syndie Soc Dem Notice ###
 SYNDIE_SOC_DEM_NOTICE:0 "(생디칼리스트 지지)"
 
@@ -10,8 +7,8 @@ SYNDIE_SOC_DEM_NOTICE:0 "(생디칼리스트 지지)"
 war_propaganda_against_warmonger_desc:0 "국가에서 모든 성인들과  [From.GetNameDef](와)과 싸움에 이바지해줄 것을 요청하고 있습니다!"
 
 ### Opening Event ###
-kr.political.1.t:0 "카이저라이히 베타 0.12.2"
-kr.political.1.d:0 "카이저라이히 팀에서 자랑스럽게 하츠 오브 아이언 4의 카이저라이히 베타 0.12.2 버전을 소개해드립니다.\n\n저희 개발진은 여러분에게 새로운 버전을 제공해드리기 위해 세계 각지에서 열심히 개발해왔으며, 여러분이 플레이하시는 것이 영광스러울뿐입니다.\n\n안내사항:\n본 모드는 플레이어가 평화회담에서 최대한 모든 지역을 합병하는 것을 전제로 하고 있으니 꼭 이행해주시길 바랍니다.\n'결정' 창의 상단부에 있는 아이콘을 토글하여 뉴스 이벤트의 빈도를 변경할 수 있습니다\n지명표기방식은 기존의 우측상단에 있는 업적버튼 자리에 있는 아이콘을 누르셔서 변경하실 수 있습니다\n이 모드는 아직 베타버전이며, 따라서 많은 버그와 충돌 그리고 골치 아픈 문제가 생길 수 있습니다\n만약 버그를 발견하셨다면, GitHub 이슈트래커에 제보해주시는 것으로 저희가 신속히 수정할 수 있게 도움을 주실 수 있습니다\n\n저희가 열심히 개발한만큼 재밌게 즐기시길 바랍니다!"
+kr.political.1.t:0 "카이저라이히 베타 0.13 - '국왕과 선장'"
+kr.political.1.d:0 "카이저라이히 팀에서 자랑스럽게 하츠 오브 아이언 4의 카이저라이히 베타 0.13 - '국왕과 선장'을 소개해드립니다.\n\n저희 개발진은 여러분에게 새로운 버전을 제공해드리기 위해 세계 각지에서 열심히 개발해왔으며, 여러분이 플레이하시는 것이 영광스러울뿐입니다.\n\n안내사항:\n본 모드는 플레이어가 평화회담에서 최대한 모든 지역을 합병하는 것을 전제로 하고 있으니 꼭 이행해주시길 바랍니다.\n'결정' 창의 상단부에 있는 아이콘을 토글하여 뉴스 이벤트의 빈도를 변경할 수 있습니다\n지명표기방식은 기존의 우측상단에 있는 업적버튼 자리에 있는 아이콘을 누르셔서 변경하실 수 있습니다\n이 모드는 아직 베타버전이며, 따라서 많은 버그와 충돌 그리고 골치 아픈 문제가 생길 수 있습니다\n만약 버그를 발견하셨다면, GitHub 이슈트래커에 제보해주시는 것으로 저희가 신속히 수정할 수 있게 도움을 주실 수 있습니다\n\n저희가 열심히 개발한만큼 재밌게 즐기시길 바랍니다!"
 kr.political.1.a:0 "물론이죠!"
 
 ### Returning Cores ###
@@ -61,6 +58,42 @@ KR_left_wing_democracy_NOT:0 "좌익 민주주의가 아님"
 
 has_scripted_peace:0 "우리는 전쟁 중입니다"
 has_scripted_peace_desc:0 "국가가 전쟁 중이며, 승리를 목표로 하고 있습니다 - 기회가 있지만 우리의 저항력은 생각보다 조금 더 취약합니다. (안내: 이것은 평화 이벤트가 존재하는 전쟁을 위한 것이며, 항복율 한계가 거의 도달했을 때 발동됩니다. 이점을 알아두세요.)"
+
+### Demobilisation ###
+mobilisation_penalty_modifier:0 "Above Division Limit"
+
+unit_limit_count:0 "[unit_limit_count_loc]/[?max_divisions|H0]"
+unit_limit_count_green:0 "[?num_divisions|G0]"
+unit_limit_count_yellow:0 "[?num_divisions|H0]"
+toggle_news_text_red:0 "[?num_divisions|R0]"
+
+unit_limit_factory_bonus:0 "Factory Bonus to Division Limit"
+unit_limit_max:0 "Division Limit Cap"
+unit_limit_bonus:0 "Division Limit"
+
+unit_limit_label:0 "§HMaximum Supported Divisions§!"
+unit_limit_desc:0 "Every country only has the ability to support a certain number of individual military divisions before their economy and infrastructure struggle to maintain them.§L\n\n   - Net Factories:§! [?net_factory_count]§L[unit_limit_major_power][unit_limit_world_tension]\n   - [unit_limit_economy_law]:§! [upper_limit_perc_figure]§L[unit_limit_was_capped][unit_limit_lower_limit_used][unit_limit_bonus_used]\n\n   FINAL TOTAL: §W[?max_divisions]§! (rounded up)\n\nPlease note that changes to the above take up to one in-game week before they are reflected in the calculation.§![above_unit_limit_desc]"
+
+unit_limit_desc_above_limit:0 "\n\n--------------\n\n§RWe have currently exceeded our capacity, and the only way to alleviate the stress on our country will be to remove some of our divisions.§!\n\nDivision Organisation: [?mobilisation_penalty_var|+=%1]\nConsumer Goods Factories: [?mobilisation_penalty_var_positive|=%H0]\nFactory Output: [?mobilisation_penalty_var|+=%]\nTraining Time: [?mobilisation_penalty_var_positive|-=%]\nReinforce Rate: [?mobilisation_penalty_var|+=%1]"
+
+unit_limit_major_power_desc:0 "\n   - Major Power/Head of Faction: §G+15%§!"
+unit_limit_world_tension_desc:0 "\n   - World Tension 70% or higher: §G+5§!%"
+unit_limit_was_capped_desc:0 "\n   - Uncapped Total: §W[?net_max_divisions]§!\n   - Division Limit Cap (from [unit_limit_economy_law]): §W[?upper_limit]§!"
+unit_limit_manpower_used_desc:0 "\n\n   Because the total provided by factories was lower than that provided by Total Manpower (§W[?lower_limit_from_manpower]§!}, that was used instead."
+unit_limit_num_states_used_desc:0 "\n\n   Because the total provided by factories was lower than the number of owned states (§W[?lower_limit_from_states]§!), that was used instead."
+unit_limit_default_used_desc:0 "\n\n   Because the total provided by factories was less than the default (§W5§!), that was used instead."
+unit_limit_bonus_used_desc:0 "\n\n   - Additional Modifiers: §G+[?upper_limit_unit_bonus]§! to cap"
+
+upper_limit_perc_figure_pos:0 "§G+[?upper_limit_from_factory_mult]%§!"
+upper_limit_perc_figure_neg:0 "§R-[?upper_limit_from_factory_mult]%§!"
+
+unit_limit_undisturbed_isolation:0 "§YUndisturbed Isolation§!"
+unit_limit_isolation:0 "§YIsolation§!"
+unit_limit_civilian_economy:0 "§YCivilian Economy§!"
+unit_limit_low_economic_mobilisation:0 "§YEarly Mobilization§!"
+unit_limit_partial_economic_mobilisation:0 "§YPartial Mobilization§!"
+unit_limit_war_economy:0 "§YWar Economy§!"
+unit_limit_tot_economic_mobilisation:0 "§YTotal Mobilization§!"
 
 ### Tooltips ###
 KR_improving_stability:0 "이미 안정도를 향상시키고 있습니다"

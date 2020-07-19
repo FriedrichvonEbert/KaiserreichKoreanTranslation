@@ -50,6 +50,9 @@ EGY_threeoob_tt:0 "3개의 새 보병 사단이 생성될것입니다."
 EGY_ethloytribe_tt:0 "새로운 부족 민병대 사단이 생성될 것입니다."
 EGY_sudloytribe_tt:0 "두개의 새로운 부족 민병대 사단이 생성될 것입니다."
 
+EGY_camel_corps_tech:0 "Royal Camel Corps"
+EGY_camel_corps_tech_effect:0 "Enables §HRoyal Camel Corps§!\n§HCavalry\n    Desert§!\n      Attack: §G+15%§!\n      Defence: §G+5%§!\n      Movement: §G+3%§!\n\n"
+
 ### Opinion Modifiers ###
 EGY_economic_plan_support:0 "이집트 경제 계획 지지"
 EGY_economic_plan_no_support:0 "이집트 경제 계획을 지지하지 않음"

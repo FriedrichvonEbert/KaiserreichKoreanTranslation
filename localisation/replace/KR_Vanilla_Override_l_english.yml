@@ -124,6 +124,10 @@ REMOVE_IDEA:0 ""
 ### peace_l_english
 PEACE_CONFERENCE_WHITE_PEACE:0 "\n@$ACTOR_TAG$$ACTOR_COUNTRY|Y$(와)과 $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$\n 사이에 §Y평화협정§!이 체결되며 상호 교전은 마침표를 찍었습니다."
 
+### rules_l_english
+CAN_JOIN_FACTIONS:0 "세력에 참여할 수 없습니다"
+
+
 ### state_l_english
 twelve:0 "초거대 도시 지역"
 eleven:0 "거대 도시 지역"
