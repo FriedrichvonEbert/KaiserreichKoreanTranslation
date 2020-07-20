@@ -76,7 +76,7 @@ LEC_TMKKD_idea_desc:0 "The Japanese war effort will be advanced through us, thei
 LEC_FNG_tianjin:0 "톈진 점령"
 LEC_FNG_tianjin_desc:0 "우리 군대가 현재 톈진을 점령하고 있지만, 도시를 완전히 장악하고 있기 때문에, 얻은 이익의 상당 부분은 상하이로 흘러가고 있습니다."
 LEC_supply_lines_idea:0 "일본의 보급망"
-LEC_supply_lines_idea_desc:0 ""
+LEC_supply_lines_idea_desc:0 "Though Japanese goods may be embargoed, their neutral ally here in Shanghai will get them what they need. Plus, we can make a little extra on the side, too..."
 LEC_GER_open_door:0 "문호개방의 과실"
 LEC_GER_open_door_desc:0 "공사관 도시에서의 자유무역은 우리에게 많은 혜택을 주긴 하지만, 사실 중국으로부터의 이익의 대부분은 AOG에 대한 우리의 투자에서 비롯됩니다. (불법적이든 합법적이든)무역은 우리 나라의 건전한 재정에 도움을 줍니다."
 LEC_USA_open_door:0 "문호개방의 과실"
@@ -168,7 +168,7 @@ LEC_german_influence_too_high:0 "German Influence must not be too high"
 LEC_british_influence_too_high:0 "British Influence must not be too high"
 LEC_american_influence_too_high:0 "American Influence must not be too high"
 LEC_new_high_commissioner:0 "The current High Commissioner of the International Mandate for the Chinese Concessions is here to stay."
-LEC_navy_arrives:0 "§MThe International Navy will arrive in Shanghai§!"
+LEC_navy_arrives:0 "§CThe International Navy will arrive in Shanghai§!"
 LEC_navy_approved:0 "The formation of the Legationary navy has been approved."
 LEC_prevent_collapse:0 "§RThis is necessary to prevent a financial meltdown in case of war§!"
 LEC_faction_joining_decisions:0 "This will unlock decisions to align ourselves with a global faction. However, this will mean abandoning much of the international protections we ostensbly still have."
@@ -186,12 +186,16 @@ LEC_more_evidence_adler:0 "This will give us more evidence on Solomon Adler"
 LEC_more_evidence_eisentrager:0 "This will give us more evidence on Lothar Eisentrager"
 LEC_more_evidence_brits:0 "This will give us more evidence on British businessmen"
 
+yuesheng_unavailable:0 "Du Yuesheng is no longer at liberty to help us"
+xiaolin_unavailable:0 "Zhang Xiaolin is no longer at liberty to help us"
+jinrong_unavailable:0 "Huang Jinrong is no longer at liberty to help us"
+
 LEC_surrender_to_china:0 "We shall surrender the duties of the Mandate back to the Chinese government. This will end the game."
 LEC_war_tooltip:0 "Controlled by §Yany Legation Council backer§!"
 
-LEC_big_recession:0 "§MThe world is in the throes of Black Monday§!"
+LEC_big_recession:0 "§CThe world is in the throes of Black Monday§!"
 LEC_japtroops:0 "§RWe will begin destabilising Tianjin giving our troops a prerogative to invade§!"
-LEC_japowns_tianjin:0 "§MWe can begin building up our military forces in Tianjin.§!"
+LEC_japowns_tianjin:0 "§CWe can begin building up our military forces in Tianjin.§!"
 LEC_jap_tianjin_dominance:0 "§RWe have an unassailable position in Tianjin§!"
 
 russianshipsjapguns:0 "An investigation into Japanese weapon smuggling has begun"
@@ -408,7 +412,7 @@ LEC_coastal_defence_desc:0 "The only way we have a chance of surviving a Japanes
 
 LEC_open_door:0 "열려있는 문"
 LEC_open_door_desc:0 "The Legation Cities were created to serve as the world’s open door into China, and they will remain so! The Anglo-American rule of the Cities will continue the policies of neutrality and cooperation that led it to success over the last decades."
-LEC_forum_of_peace:0 "A Forum for Peace Among the Powers"
+LEC_forum_of_peace:0 "A Forum for Peace And Prosperity"
 LEC_forum_of_peace_desc:0 "The Legation Cities have always been designed to keep the peace between the Germans, Chinese, Japanese, and Americans. We should completely dedicate the Mandate to this goal."
 LEC_encourage_cooperation:0 "Encourage Great Power Cooperation"
 LEC_encourage_cooperation_desc:0 "We do not favour either power in the conflict over China. All are welcome to come to Shanghai to debate their positions, after all. Our ultimate mission is continuing peace in the Far East"
@@ -480,46 +484,31 @@ LEC_remove_japan_motion:0 "일본 제국을 공사관위원회에서 제명"
 LEC_remove_germany_motion:0 "독일 제국을 공사관위원회에서 제명"
 LEC_restore_america_motion:0 "미국의 공사관위원회 의결권 복권"
 LEC_belgium_vote:0 "공사관위원회에서 [BEL.GetNameDef] 제명"
-LEC_standard_dollar_motion:0 "공사관 달러 표준화"
-LEC_standard_yuan_motion:0 "상하이 위안 표준화"
 
 ### Events ###
 lec.1.t:0 "Open For Business!"
 lec.1.d:0 "Formed under the shadow of a possible German-Japanese war by American mediation, the International Mandate for the Chinese Concessions, colloquially known as the Legation Cities, is emblematic of both the failure of China to successfully resist foreign imperialism and the American push for the "Open Door" policy, under which all nations should have equal access to one of the world's largest markets. Shanghai's reach goes beyond her limits, and beyond the thirty mile "neutral zone" that has become a haven for criminals, all the way up the Yangtze in a sprawling path of railroads, factories and telegraph lines that forms the beating heart of Chinese industry. Money comes and goes like water in the cities at all levels of society. \n\nTo the north Tianjin is the world's entrepot for Beijing and a thriving hub of railway speculation for all of China, to the south is old Hong Kong: a last guttering ember of British glory kept alive by her fine harbour and access to southern China. At the beating heart of it all lies Shanghai, a diamond plucked from the hands of China and polished to a mirror shine. The Paris of the East is in its heyday, the streets hum with electricity, the opium dens curl with mysterious smoke and the westerners spend money like it is going out of fashion and make it just as fast. \n\nAll of course, is not as it appears. Under the golden surface of Shanghai lies a terrifying underbelly of murder, intrigue and revolution."
 lec.1.a:0 "What a world."
 
-
 lec.2.t:0 "공사관위원회에서의 의결권"
 lec.2.d.germany:0 "공사관 도시는 1928년, 자칫하면 큰 전쟁으로 번질 뻔했던 중-일간의 분쟁에 미국인들이 개입하면서 형성되었습니다. 열차가 중국 군벌들의 공격을 받았을 때 미국은 동양의 불안정성을 해결할 보다 항구적인 해결책을 만들면서, 모든 강대국들이 중국 시장에 평등하게 접근할 수 있도록 하는 '중국 문호 개방'정책을 만들고자 했습니다.\n\n 중국 내 모든 조차지와 그 주변 30마일 지역을 공사관 도시의 중립 지역으로 선포하고, 공식적으로는 중국의 조차지 도시들을 위한 국제적 위임통치로 공사관 도시를 운영하고, 이익 분쟁을 해결하고 다양한 열강이 협력하도록 공사관위원회를 주최합니다. 우리는 동유럽의 최고 권력자로서, 우리는 당연히 공사관위원회에 투표할 수 있고, 더 나아가서 동유럽의 아젠다를 펼칠 수 있습니다."
-
 lec.2.d.japan:0 "공사관 도시는 1928년, 직례-봉천 분쟁이 일어났을때 봉천의 후견인인 우리와 직례의 후견인인 독일 사이의 공개적인 전쟁이 일어날 것을 우려한 미국이 개입한 결과입니다. 열차가 중국 군벌들의 공격을 받았을 때 미국은 동양의 불안정성을 해결할 보다 항구적인 해결책을 만들면서, 모든 강대국들이 중국 시장에 평등하게 접근할 수 있도록 하는 '중국 문호 개방'정책을 만들고자 했습니다.\n\n 중국 내 모든 조차지와 그 주변 30마일 지역을 공사관 도시의 중립 지역으로 선포하고, 공식적으로는 중국의 조차지 도시들을 위한 국제적 위임통치로 공사관 도시를 운영하고, 이익 분쟁을 해결하고 다양한 열강이 협력하도록 공사관위원회를 주최합니다. 우리는 극동의 최고 권력자로서, 우리는 당연히 공사관위원회에 투표할 수 있고, 나아가 중국의 아젠다를 지지하고 적들의 개입을 방해할 수 있습니다."
-
 lec.2.d.usa:0 "공사관 도시는 1928년, 우리가 일본과 독일간의 전면전으로 번질뻔 한 직례-봉천 분쟁에 개입하여 형성되었습니다. 양 국간의 분쟁을 종식시키고자 개입하기는 했지만, 한편으로는 중국의 제국주의적 경쟁관계에 대한 지속적인 해결책과 개방 정책을 추진하고자 했기에, 우리는 다른 강대국들이 중국에게서 받은 조차지를 하나의 집합체로 합병하도록 강요했습니다. \n\n 중국 내 모든 조차지와 그 주변 30마일 지역을 공사관 도시의 중립 지역으로 선포하고, 공식적으로는 중국의 조차지 도시들을 위한 국제적 위임통치로 공사관 도시를 운영하도록 했으며, 이익 분쟁을 해결하고 다양한 열강이 협력하도록 공사관위원회를 주최합니다. 당연히 우리는 이 공사관위원회에 대한 투표권을 가지고 있으며, 종종 일본과 독일 사이를 중재하는 역할을 합니다. 그 외의 강대국들은 대부분 우리를 돕는 역할을 합니다. 우리의 목소리는 모든 열강을 위해 '중국 문호 개방'의 현상을 유지하는 것을 대변하는 목소리이며, 이는 모든 사람들이 중국 파벌에 관여하지 않아도 되도록 만들었습니다. 또한 미국 시민들에게, 공사관 도시는 부를 쌓는 훌륭한 방법일 뿐만 아니라, 미국의 진보적인 사고와 평화에 대한 헌신의 본보기가 될 것입니다."
-
 lec.2.d.austria:0 "공사관 도시는 1928년, 직례-봉천 분쟁이 일어났을때 봉천의 후견인인 일본과 직례의 후견인인 독일 사이의 공개적인 전쟁이 일어날 것을 우려한 미국이 개입한 결과입니다. 열차가 중국 군벌들의 공격을 받았을 때 미국은 동양의 불안정성을 해결할 보다 항구적인 해결책을 만들면서, 모든 강대국들이 중국 시장에 평등하게 접근할 수 있도록 하는 '중국 문호 개방'정책을 만들고자 했습니다.\n\n 중국 내 모든 조차지와 그 주변 30마일 지역을 공사관 도시의 중립 지역으로 선포하고, 공식적으로는 중국의 조차지 도시들을 위한 국제적 위임통치로 공사관 도시를 운영하고, 이익 분쟁을 해결하고 다양한 열강이 협력하도록 공사관위원회를 주최합니다. 오스트리아-헝가리 제국은 이 의회에서 투표권을 행사하고 있지만, 우리는 대부분 미국, 독일, 일본인들이 제안한 설득력 있는 계획에 투표하거나 기권하고, 중국과 우리 국민들을 위한 경제적 구제같은 합리적인 행동만을 지지하고 있습니다."
-
 lec.2.d.belgium:0 "공사관 도시는 1928년, 직례-봉천 분쟁이 일어났을때 봉천의 후견인인 일본과 직례의 후견인인 독일 사이의 공개적인 전쟁이 일어날 것을 우려한 미국이 개입한 결과입니다. 열차가 중국 군벌들의 공격을 받았을 때 미국은 동양의 불안정성을 해결할 보다 항구적인 해결책을 만들면서, 모든 강대국들이 중국 시장에 평등하게 접근할 수 있도록 하는 '중국 문호 개방'정책을 만들고자 했습니다.\n\n 중국 내 모든 조차지와 그 주변 30마일 지역을 공사관 도시의 중립 지역으로 선포하고, 공식적으로는 중국의 조차지 도시들을 위한 국제적 위임통치로 공사관 도시를 운영하고, 이익 분쟁을 해결하고 다양한 열강이 협력하도록 공사관위원회를 주최합니다. 플랑드르-월로니아는 이 의회에서 투표권을 행사하고 있지만, 우리는 주로 독일의 제안을 지지 하고 있습니다. 하지만, 우리 시민들에게 더 합리적이고 유익한 것처럼 보인다면 미국의 입장을 지지하기도 합니다."
 lec.2.a:0 "기대가 되는군!"
 lec.2.b:0 "완벽한 방식이야!"
 lec.2.c:0 "기대가 되는군!"
 
-
 lec.3.t:0 "공사관 도시 감찰 권한"
 lec.3.d.ostasien:0 "중국 조차지를 위한 국제 위임 통치령으로 알려진 공사관 도시는 1928년, 유럽의 여객 열차가 국민당 군벌들에게 공격당했던, 일명 '제이드 윈드' 사건 이후 형성되었습니다. 대부분 극동을 불안정하게 만들고 있던 직례-봉천 분쟁을 중단시키기 위함이었지만, 중국 시장에 모든 서방 국가들과 일본이 접근할 수 있게 하는 미국인들의 '문호 개방 정책'의 역할을 수행하게 할 의도이기도 했습니다. 우리는 아시아의 가장 강력한 독일의 오른팔로서, 많은 외교관들이 상하이에 있는 공사관위원회의 대표자 역할을 하고 있습니다. 공사관 도시 관련 정책은 베를린의 이사회에서 수립하지만, 베를린은 이 일에 직접적으로 관여하는 일이 거의 없으며, 우리는 베를린을 대신하여 독일의 일상 업무와 비밀 업무들을 공사관 도시에서 관리해야 할 책임이 있습니다. 하지만 대부분의 중국에서의 거래는 국제 위임 통치권을 따지는 것과 관련이 있습니다. 그리고 우리는 동맹인 쑨촨팡의 팔성연합에서 반법적인 치외법권적 양보를 많이 하고 있습니다. 만약 중국이 혼란한 상황에 빠진다면, 난징은 우리의 유일한 친구라고 할 수 있습니다."
-
 lec.3.d.australasia:0 "1925년 대영제국이 멸망하고 캐나다로 도피하면서 당시 홍콩의 총독은 독일 등 강대국들을 초청해 중국을 배제하고 영국의 조차지를 점령했습니다. 이것은 미국인들, 일본인들, 독일인들 사이의 은밀한 갈등을 촉발시켰고, 이것은 1928년 공식적으로 중국 조차지를 위한 국제 위임통치령으로 알려진 공사관 도시가 형성되면서 이러한 갈등은 미국에 의해 종결되었습니다. 전세계적으로 그렇듯이, 독일은 우리의 제국주의의 결실을 사용하고있지만, 우리는 여전히 (원론적으로는) 소유권을 유지하고 있습니다. 중국내 우리의 광범위한 조차지가 공사관위원회의 자리를 보장해 주고는 있습니다. 하지만, 오타와에 있는 정부를 정당한 영국 정부로 인정하지 않는 독일인들은 상하이에서의 투표를 거부하고 있습니다. \n\n 극동에서의 영국의 보증인으로서, 캔버라는 일반적으로 중국 조차지에 대한 권리를 적극적으로 유지하는 것에 책임이 있습니다. 따라서, 우리는 우리의 조차지를 인정 받고, 공사관위원회에서 우리의 표를 되찾기 위한 영향력과 기회를 위해, 혹은 최소한 홍콩 반환을 성취할 수 있는 기회를 가지려고 노력하고 있습니다."
- 
 lec.3.d.canada:0 "1925년 대영제국이 멸망하고 캐나다로 도피하면서 당시 홍콩의 총독은 독일 등 강대국들을 초청해 중국을 배제하고 영국의 조차지를 점령했습니다. 이것은 미국인들, 일본인들, 독일인들 사이의 은밀한 갈등을 촉발시켰고, 이것은 1928년 공식적으로 중국 조차지를 위한 국제 위임통치령으로 알려진 공사관 도시가 형성되면서 이러한 갈등은 미국에 의해 종결되었습니다. 전세계적으로 그렇듯이, 독일은 우리의 제국주의의 결실을 사용하고있지만, 우리는 여전히 (원론적으로는) 소유권을 유지하고 있습니다. 중국내 우리의 광범위한 조차지가 공사관위원회의 자리를 보장해 주고는 있습니다. 하지만, 오타와에 있는 정부를 정당한 영국 정부로 인정하지 않는 독일인들은 상하이에서의 투표를 거부하고 있습니다. \n\n 극동에서의 영국의 보증인으로서, 캔버라는 일반적으로 중국 조차지에 대한 권리를 적극적으로 유지하는 것에 책임이 있습니다. 덕분에 우리는 본토 해방과 조지 5세의 복권에 집중할 수 있게 되었습니다. 하지만 오스트랄라시아가 불안정한 상황에 처하게 된다면, 우리는 그들의 자리를 대신할 의무가 있습니다."
-
-lec.3.d.transamur:0 "영국이 멸망하자 극동의 세 강대국은 중국에서의 무역과 영향력을 장악하기 위해 영국의 조차지를 놓고 긴장이 감돌고 있었습니다. 우리 또한 조차지를 확보하기 위해 군대를 파견했고, 동맹 일본 과 함께 중국 급진주의자들과 싸웠습니다. 미국이 전쟁을 멈추기 위해 개입했을 때, 그들은 중국의 무역을 규제하고 정책에 따라 열강들의 동등한 권리를 보장하는 방법으로 중국 조차지를 위한 국제 기관으로 알려진 공사관 도시를 만들었습니다. 당연히, 우리는 공사관위원회의 의석을 얻었고 트란스아무르의 대표단들도 상하이에서 환영받았지만, 우리는 이사회에 대한 감찰자 권한만을 부여 받았습니다. 공사관 도시에서는 페트로그라드의 실패한 정권이 우리보다 더 합법적인 정부라고 간주하고 있으며, 우리의 정통성에 대한 의구심 가지고 있기 때문입니다. 그래서 상하이의 러시아 대표 한 명이 두 정권을 대변해야하는, 투표도 못하고 토론도 할 수 없는 난처한 상황이 벌어지고 있습니다. 우리나 페트로그라드 중 어느 한쪽이 러시아에 대한 정당한 정부라는 입지를 확보할 때까지, 이러한 모순은 계속될 것입니다."
-
-lec.3.d.russia:0 "영국이 멸망하자 극동의 세 강대국은 중국에서의 무역과 영향력을 장악하기 위해 영국의 조차지를 놓고 긴장이 감돌고 있었습니다. 미국이 전쟁을 멈추기 위해 개입했을 때, 그들은 중국의 무역을 규제하고 정책에 따라 열강들의 동등한 권리를 보장하는 방법으로 중국 조차지를 위한 국제 기관으로 알려진 공사관 도시를 만들었습니다. 공사관위원회가 만들어졌을 때 톈진에 있는 우리의 조차지는 현재 콜차크 제독의 트란스아무르가 차지하고 있었기 때문에 대표자 자리는 그들이 차지했지만, 트란스아무르는 명백한 일본의 괴뢰 국가이기 때문에, 공사관위원회는 러시아의 대표단이  블라디보스토크와 페트로그라드 양쪽을 대표하도록 선택했습니다. 이 상황은 (누가 봐도) 매우 혼란스럽기 때문에, 우리는 투표가 허락되지 않았고, 영국처럼 감찰하는 것만이 허락되었습니다. 그러나 트란스아무르가 주장하는 '합법적인 정부'라는 가식을 끝내면, 우리의 투표권을 되찾을 수 있을 것입니다."
-
+lec.3.d.transamur:0 "영국이 멸망하자 극동의 세 강대국은 중국에서의 무역과 영향력을 장악하기 위해 영국의 조차지를 놓고 긴장이 감돌고 있었습니다. 우리 또한 조차지를 확보하기 위해 군대를 파견했고, 동맹 일본 과 함께 중국 급진주의자들과 싸웠습니다. 미국이 전쟁을 멈추기 위해 개입했을 때, 그들은 중국의 무역을 규제하고 정책에 따라 열강들의 동등한 권리를 보장하는 방법으로 중국 조차지를 위한 국제 기관으로 알려진 공사관 도시를 만들었습니다. 당연히, 우리는 공사관위원회의 의석을 얻었고 트란스아무르의 대표단들도 상하이에서 환영받았지만, 우리는 이사회에 대한 감찰자 권한만을 부여 받았습니다. 공사관 도시에서는 모스크바의 실패한 정권이 우리보다 더 합법적인 정부라고 간주하고 있으며, 우리의 정통성에 대한 의구심 가지고 있기 때문입니다. 그래서 상하이의 러시아 대표 한 명이 두 정권을 대변해야하는, 투표도 못하고 토론도 할 수 없는 난처한 상황이 벌어지고 있습니다. 우리나 페트로그라드 중 어느 한쪽이 러시아에 대한 정당한 정부라는 입지를 확보할 때까지, 이러한 모순은 계속될 것입니다."
+lec.3.d.russia:0 "영국이 멸망하자 극동의 세 강대국은 중국에서의 무역과 영향력을 장악하기 위해 영국의 조차지를 놓고 긴장이 감돌고 있었습니다. 미국이 전쟁을 멈추기 위해 개입했을 때, 그들은 중국의 무역을 규제하고 정책에 따라 열강들의 동등한 권리를 보장하는 방법으로 중국 조차지를 위한 국제 기관으로 알려진 공사관 도시를 만들었습니다. 공사관위원회가 만들어졌을 때 톈진에 있는 우리의 조차지는 현재 콜차크 제독의 트란스아무르가 차지하고 있었기 때문에 대표자 자리는 그들이 차지했지만, 트란스아무르는 명백한 일본의 괴뢰 국가이기 때문에, 공사관위원회는 러시아의 대표단이 블라디보스토크와 모스크바 양쪽을 대표하도록 선택했습니다. 이 상황은 (누가 봐도) 매우 혼란스럽기 때문에, 우리는 투표가 허락되지 않았고, 영국처럼 감찰하는 것만이 허락되었습니다. 그러나 트란스아무르가 주장하는 '합법적인 정부'라는 가식을 끝내면, 우리의 투표권을 되찾을 수 있을 것입니다."
 lec.3.d.qing:0 "중국 조차지를 위한 국제 위임 통치령으로 알려진 공사관 도시는 1928년, 유럽의 여객 열차가 국민당 군벌들에게 공격당했던, 일명 '제이드 윈드' 사건 이후 형성되었습니다. 대부분 극동을 불안정하게 만들고 있던 직례-봉천 분쟁을 중단시키기 위함이었지만, 중국 시장에 모든 서방 국가들과 일본이 접근할 수 있게 하는 미국인들의 '문호 개방 정책'의 역할을 수행하게 할 의도이기도 했습니다. 이러한 제국주의적인 목적에 편승하여 명목상 우리로부터 영토를 '임대'한 것임에도 불구하고, 베이징 정부는 공사관의원회의 모든 의사결정 과정에서 배제되었습니다. 우리는 의회에 대한 감찰 지위를 가지고 있고, 그들의 회의에서 취해진 결정들을 볼 수 있습니다. 하지만 그 이상의 상호 작용은 정부 차원에서 제한되어 있습니다."
-
 lec.3.d.fengtian:0 "중국 조차지를 위한 국제 위임 통치령으로 알려진 공사관 도시는 1928년, 유럽의 여객 열차가 국민당 군벌들에게 공격당했던, 일명 '제이드 윈드' 사건 이후 형성되었습니다. 대부분 극동을 불안정하게 만들고 있던 직례-봉천 분쟁을 중단시키기 위함이었지만, 중국 시장에 모든 서방 국가들과 일본이 접근할 수 있게 하는 미국인들의 '문호 개방 정책'의 역할을 수행하게 할 의도이기도 했습니다. 이러한 제국주의적인 목적에 편승하여 명목상 우리로부터 영토를 '임대'한 것임에도 불구하고, 베이징 정부는 공사관의원회의 모든 의사결정 과정에서 배제되었습니다. 우리는 의회에 대한 감찰 지위를 가지고 있고, 그들의 회의에서 취해진 결정들을 볼 수 있습니다. 하지만 그 이상의 상호 작용은 정부 차원에서 제한되어 있습니다."
 lec.3.a:0 "우리도 상하이에서 목소리를 낼 자격이 있다!"
-
 
 lec.4.t:0 "공사관 도시의 해군"
 lec.4.d:0 "상임 위원장은 특별 의안에 대한 투표를 하기 위해 의원회를 소집했습니다. 즉, 공사관 도시 자체의 해군을 허용할 것인지의 여부입니다. 세계가 날이 갈수록 양극화되고 전쟁으로 폐허가 되면서 공사관 도시들이 그들 스스로를 지켜야 하는 것은 당연합니다. 외국의 해군들 중 많은 수가 현재 그들의 전장에서 활동하고 있습니다. 우리는 그들이 우리에게 약간의 배를 제공해주길 바랍니다."
@@ -617,7 +606,7 @@ lec.25.a:0 "These Westerners don't seem so bad."
 
 lec.26.t:0 "Legation Council Votes No on Famine Relief"
 lec.26.d:0 "Though we lobbied extensively, and seemed to have much support in the Council, it seems that Germany has successfully led the Council to vote against providing us aid. It would seem that they consider our political system to hostile to European interests and values, and that any money given to us would go straight into [SZC.GetLeader]'s pockets. We will be getting no help from that quarter."
-lec.26.a:0 "Greedy imperialists!" 
+lec.26.a:0 "Greedy imperialists!"
 
 lec.27.t:0 "안건이 부결되다!"
 lec.27.d:0 "가장 최근의 공사관의원회에서의 투표는 근소한 차이로 부결되었습니다. 현재는 다시 제안할 수 없습니다."
@@ -655,7 +644,7 @@ lec.34.d:0 "After our recent installation alongside the Germans of coastal defen
 lec.34.a:0 "They are right, we should adopt their plans."
 lec.34.b:0 "The Chinese would never dare attack us!"
 
-lec.35.t:0 "The United States Sends Troops to Shanghai"
+lec.35.t:0 "Germany Sends Troops to Shanghai"
 lec.35.d:0 "Citing security concerns following the collapse of the German ally in Nanjing, the Germans have sent more troops to the volunteer force in Shanghai, as well as reinforcing their own divisions in the Cities. This has increased German popularity in the Cities, as well as boosting our manpower."
 lec.35.a:0 "We can always use more men, I suppose."
 
@@ -699,7 +688,7 @@ lec.44.d:0 "The Germans have been diplomatically isolating Brussels since the [B
 lec.44.a:0 "They never cared, really..."
 
 lec.45.t:0 "The Legation Council Votes on Confiscating [BEL.GetNameDef]'s Concessions"
-lec.45.d:0 "The High Commissioner has moved to consider the German ambassador's request for [BEL.GetName]'s removal from the Council. It is likely that all parties who wish to dominate the Council will vote to remove an unnecessary, possibly hostile, third party from the Council, while those who espouse muli-polarism, such as the English, Austrians, and Americans will probably vote no. Only time will tell."
+lec.45.d:0 "The High Commissioner has moved to consider the German ambassador's request for [BEL.GetName]'s removal from the Council. It is likely that all parties who wish to dominate the Council will vote to remove an unnecessary, possibly hostile, third party from the Council, while those who espouse multi-polarism, such as the English, Austrians, and Americans will probably vote no. Only time will tell."
 lec.45.a:0 "Time and chance happens to them all."
 
 lec.46.t:0 "The Legation Council Votes on Removing the Belgians"
@@ -860,7 +849,7 @@ lec.79.d:0 "Tokyo has apparently seen accepting us into their alliance as too mu
 lec.79.a:0 "젠장!"
 
 lec.80.t:0 "The Fate of Zhang Xiaolin"
-lec.80.d:0 "Zhang Xiaolin has been a valuable tool for the Japanese, using his criminal contacts to secure the Cities for them, as well as making a hefty profit for himself. Now that the Japanese are fairly secure in their position, though, some diplomats and officers are beginning to wonder if Xioalin's help is truly necessary at this stage.\n\nNow a meeting has been arranged with Xiaolin and his immediate underlings. As our officials approach the pleasure house in the beautiful Shanghai evening, policemen and gangsters size each other up, wondering who would make the first move. After being received, the District Commissioner puts his hand in his pocket. What does he pull out?"
+lec.80.d:0 "Zhang Xiaolin has been a valuable tool for the Japanese, using his criminal contacts to secure the Cities for them, as well as making a hefty profit for himself. Now that the Japanese are fairly secure in their position, though, some diplomats and officers are beginning to wonder if Xiaolin's help is truly necessary at this stage.\n\nNow a meeting has been arranged with Xiaolin and his immediate underlings. As our officials approach the pleasure house in the beautiful Shanghai evening, policemen and gangsters size each other up, wondering who would make the first move. After being received, the District Commissioner puts his hand in his pocket. What does he pull out?"
 lec.80.a:0 "His revolver!"
 lec.80.b:0 "Xiaolin's commission in the government."
 
@@ -882,8 +871,8 @@ lec.84.t:0 "The Council Starts Voting on Removing Germany's Concessions"
 lec.84.d:0 "The Council has begun voting on the Japanese ambassador's motion to remove Germany from the Legation Council."
 lec.84.a:0 "Let's hope they vote 'yes.'"
 
-lec.85.t:0 "The Legation Council Votes on Removing the Japanese Concessions"
-lec.85.d.noger:0 "The Germans have been slowly isolating themselves within the Legation Council for a couple years by now. Their arrogance and dishonest play has been widely known by the well-informed in Shanghai, even as they claim to trumpet the cause of global stability and cooperation. Now, it seems, the Legation Council has decided to remove them from what parts of China it feels it legally can. Should we take the opportunity to strike a blow at the world hegemon, or is it too risky?"
+lec.85.t:0 "The Legation Council Votes on Revoking the German Concessions"
+lec.85.d.noger:0 "The Germans have been slowly isolating themselves within the Legation Council for a couple years now. Their arrogance and dishonest play have been widely known by the well-informed in Shanghai, even as they claim to trumpet the cause of global stability and cooperation. Now, it seems, the Legation Council has decided to remove them from what parts of China it feels it legally can. Should we take the opportunity to strike a blow at the world hegemon, or is it too risky?"
 lec.85.d.ger:0 "The Legation Council has begun voting on a motion to remove our Kaiserreich from the Chinese concessions administered by them, and to expel our diplomats from the Council! This would be a huge blow to German power in Asia if it passed, and we must do everything in our power to ensure it does not. "
 lec.85.a:0 "We will vote wisely."
 lec.85.b:0 "This is outrageous!"
@@ -987,12 +976,96 @@ lec.107.a:0 "Arrest them, and confiscate their materials!"
 lec.107.b:0 "Just ban their overt political publications."
 lec.107.c:0 "Art is a relative term, let them be..."
 
+lec.108.t:0 "The Isolated Mandate"
+lec.108.d:0 "With the defeat or removal of all members of the Legation Council, the International Mandate for the Chinese Concessions now serves no purpose. Although many exiles and expats would prefer that the cities remain independent, under their own government, I'm too lazy to code that and furthermore it would be diplomatically infeasible. Consequently, High Commissioner [LEC.GetLeader] has made the decision to return the cities occupied by the Mandate to the Chinese government."
+lec.108.a:0 "We had a good run."
+
+lec.109.t:0 "The Legation Council's Decison on Russian Voting Rights"
+lec.109.d.success:0 "Following our subjugation at the hands of the Japanese, the Legation Council has decided that we are no longer worthy of having a seat in their ranks in Shanghai. In fact, Ivan Luganets-Orelsky, our ambassador in Shanghai, has defected to the Moscow regime, in order to keep his comfortable lifestyle. This is in general emblematic of our falling international legitimacy, and our transformation into just another part of the Japanese Empire."
+lec.109.d.fail:0 "Following our subjugation at the hands of the Japanese, the Muscovite ambassador at the Legation Council has attempted to convince the rest of that body that we are no longer worthy of having a seat in their ranks in Shanghai. Happily, however, he failed, possibly due to Japanese influence. As such, we are still recognized as a possible Russian government internationally."
+lec.109.a:0 "Damn!"
+lec.109.b:0 "That's a relief."
+
+lec.110.t:0 "Restoring the Transamurian Vote?"
+lec.110.d:0 "When the Legation Cities were founded, Russia, as a nation with Chinese concessions, was naturally given voting rights on the Council. Unfortunately, there were two Russias at the time. While Kerenskiy's Russian Republic had more international recognition, Admiral Kolchak's Vladivostok regime was far closer, being able to actually occupy the concessions, and had the support of Tokyo. This resulted in both governments being granted the same sort of observer rights given to the Canadians and Australasians. Now that the eastern [TRM.GetNameDef] is indisputably the only Russia remaining which has any interest in maintaining its position in Tianjin, however, the ambassador from Vladivostok has urged us to restore voting rights to his government. \n\nSince this is quite a substantive matter, it is technically supposed to go through the Legation Council. However, since it is unlikely that Germany, a rival of the Russians and Japanese, would ever let it pass, we can instead simply let the Chair of the Legation Council push it through on a Point of Order. While this would provide a powerful new voter with no ties to the Germans, and would please the Japanese, it would probably upset some powers on the Council."
+lec.110.a:0 "The Legation Council must vote."
+lec.110.b:0 "This is solely a procedural matter."
+
+lec.111.t:0 "The Legation Council Votes on Restoring the [TRM.GetAdjective] Voting Rights"
+lec.111.d.notjapan:0 "For years, the Russian voice on the Legation Council has been split between Admiral Kolchak's [TRM.GetName] and [RUS.GetNameDef]. Now that the latter has been eliminated from the world stage, however, it would seem only proper for the Russian voting rights to be restored to the legitimate eastern government. However, Transamur is undoubtedly a geopolitical threat to the nations of Eurasia, and some question if it would be wise to so easily grant them more influence."
+lec.111.d.japan:0 "For years, the Russian voice on the Legation Council has been split between our ally Admiral Kolchak's state of Transamur and [RUS.GetNameDef]. Now that the Moscow regime is no longer in a position to claim to be the proper White Russian government, the Chair of the Legation Council has decided that Vladivostok's voting rights should be restored. We should be pleased that our influence has stretched far enough to pull off this coup."
+lec.111.a:0 "We will vote with care."
+
+lec.112.t:0 "The Legation Council Votes on Restoring Our Vote"
+lec.112.d:0 "For years, we have had only observer rights on the Legation Council in Shanghai, even though we have Chinese concessions. They claimed that the reason for this disrespect were the competing claims of we and the hostile Moscow regime of Kerensky and his republicans. Now that Moscow no longer disputes our claims to be the one true White Russia, however, the Chair has decided to call for a vote on whether or not to restore our rights. If there is any justice in this world, we will naturally regain them, but we cannot discount the malice and jealousy of Berlin."
+lec.112.a:0 "Let the Council see sense."
+
+lec.113.t:0 "The Results of the Vote on [TRM.GetAdjective] Voting Rights"
+lec.113.d:0 "The vote on whether or not to restore voting rights to the Transamurian government has ended. Smaller states supported the motion as an invaluable counterbalance against Germany, but many major powers followed their lead as well. In the end, it seems the motion has been..."
+lec.113.a:0 "Accepted!"
+lec.113.b:0 "Denied."
+
+lec.114.t:0 "[TRM.GetName] is Granted Voting Rights on the Legation Council"
+lec.114.d:0 "It seems that the Legation Council has granted [TRM.GetName] the right to vote on the Legation Council, as the former Moscow regime is no longer is in a position to dispute the issue. While this is undoubtedly correct procedure, not consulting the Council for a vote sets a worrying precedent, and threatens Japanese and German precedence in the Council. Unfortunately, however, we have no choice but to accept this for now."
+lec.114.a:0 "It cannot happen again."
+
+lec.115.t:0 "Our Voting Rights Are Restored!"
+lec.115.d:0 "The Legation Council, after a contentious debate, has elected to restore our voting rights on the Legation Council, since Transamur no longer disputes our Russian claims. This is a great day for Russia and Asia as a whole!"
+lec.115.a:0 "Great news!"
+
+lec.116.t:0 "The Legation Council Votes Against Restoring Our Voting Rights"
+lec.116.d:0 "The Legation Council has voted not to restore our voting rights, citing both the irrelevance of our concessions and our aggressive actions in the West as reasons. It would seem that fear of Germany has triumphed against common sense and hope for the future."
+lec.116.a:0 "So much for international cooperation."
+
+lec.117.t:0 "The Legation Council's Decison on Transamurian Voting Rights"
+lec.117.d.success:0 "The Legation Council has granted our rival in Vladivostok voting rights on the Legation Council. Even though we are not in a position to claim those rights now, as we no longer have imperialist ambitions in the Far East, this is still an outrage!"
+lec.117.d.fail:0 "We hear from Shanghai that the ambassador from [TRM.GetName] petitioned the Council to vote to grant his regime voting rights on the Legation Council, but that he was voted down. While we may not be in a position to claim those rights ourselves, it is still good our rival cannot have them."
+lec.117.a:0 "Damn!"
+lec.117.b:0 "Good."
+
+lec.118.t:0 "Chen Jiongming Holds Conference in Shantou"
+lec.118.d:0 "Federalism in China has been defeated many times, yet always seems to rise from the ashes. Chief among the reasons for this is the persistance of its main advocate, Chen Jiongming from Guangdong. He has recently defeated the hostile Guangxi clique, as well as traitors within his own ranks, and is now ready to begin expeditions northward and eastward. To organize his regime and allies, he is holding a conference in Shantou, or Swatow, one of the cities that makes up our Mandate. Since the city formally belongs to China, and his province, we have no legal grounds to deny him. We are unlikely to even be granted observer status, so we can only observe from without how this conference to decide the fate of China goes."
+lec.118.a:0 "Well, good luck..."
+
+lec.119.t:0 "Du Yuesheng Preemtively Bailed Out"
+lec.119.d:0 "When the police arrived to Du Yuesheng's teahouse to arrest him until his trial, the gangster quickly sent out a flunky to make a reasonable counteroffer. Since he can legally be bailed before his trial begins, there is no reason to even go to the trouble of taking him to the station. Surely, the government would be willing to accept immediate bail payment in cash. The officers quickly agreed, and so Du Yuesheng waits for his trial in the style in which he is accustomed - independently."
+lec.119.a:0 "Hold on, we recieved none of this money!"
+
+lec.120.t:0 "Du Yuesheng Is Gone"
+lec.120.d.american:0 "When the officers finally got around to delivering the sentence on Du Yuesheng, sending him to prison for life in Japan, far from his base of operations in Shanghai, they arrived at his teahouse to find nobody there. They alerted the Legation Council, which in turn dispatched its security forces to search for the triad leader across the Mandate. However, after over a month of looking, it seems that Du is gone, with those that know where he is remaining totally silent to our investigators. In his absence, the triad leadership has fallen onto lesser shoulders, but the leadership of the nationalist Chinese community is now ever more clearly on Robert Hotung, the 'Grand Old Man of Hong Kong'."
+lec.120.d.germans:0 "When the officers finally got around to delivering the sentence on Du Yuesheng, sending him to prison for life in Japan, far from his base of operations in Shanghai, they arrived at his teahouse to find nobody there. They alerted the Legation Council, which in turn dispatched its security forces to search for the triad leader across the Mandate. However, after over a month of looking, it seems that Du is gone, with those that know where he is remaining totally silent to our investigators. In his absence, the triad leadership has fallen onto lesser shoulders, and the AOG has gained influence in the southern cities. In particular, many now speak of Lothar Eisentrager as one of the most influential men in the Mandate."
+lec.120.d.brit:0 "When the officers finally got around to delivering the sentence on Du Yuesheng, sending him to prison for life in Japan, far from his base of operations in Shanghai, they arrived at his teahouse to find nobody there. They alerted the Legation Council, which in turn dispatched its security forces to search for the triad leader across the Mandate. However, after over a month of looking, it seems that Du is gone, with those that know where he is remaining totally silent to our investigators. In his absence, the triad leadership has fallen onto lesser shoulders, and much of his influence in Hong Kong has devolved onto the official British governor-general of Hong Kong."
+lec.120.d.japs:0 "When the officers finally got around to delivering the sentence on Du Yuesheng, sending him to prison for life in Japan, far from his base of operations in Shanghai, they arrived at his teahouse to find nobody there. They alerted the Legation Council, which in turn dispatched its security forces to search for the triad leader across the Mandate. However, after over a month of looking, it seems that Du is gone, with those that know where he is remaining totally silent to our investigators. In his absence, the triad leadership has fallen onto the capable if slightly deranged shoulders of Hiraya Amane."
+lec.120.a:0 "As long as he's gone..."
+
+lec.121.t:0 "Zhang Xiaolin Escapes Arrest"
+lec.121.d:0 "It seems that Zhang Xiaolin was taking no chances. The Council put out a warrant for his arrest, but there have been no reported sightings, despite everyone knowing that he is somewhere in Fuzhou. He has either bribed police throughout the Mandate or is in hiding. This has not stopped him from getting close enough to the High Commissioner's office to slide in a note wrapped in a Golden Dragon cigarette, informing the government he would continue to cooperate, as long as he was not convicted."
+lec.121.a:0 "We don't negotiate with criminals!"
+
+lec.122.t:0 "The Death of Zhang Xiaolin"
+lec.122.d.american:0 "Zhang Xiaolin had been tried in absentia and sentenced to life imprisonment in Vladivostok. To enforce the sentence, however, he had to be found. Although he has been in hiding since the warrant for his arrest was sent out, it seems that the hefty award posted for knowledge of his whereabouts has convinced some former associates of his to reveal his location. A week ago, he and his lieutenants were found in a wharehouse in Fuzhou. After recieving no reply save gunshots to demands to come out, the police broke into the wharehouse. In the scuffle that followed, Zhang Xioalin was shot in the leg, then was killed by one of his partners to prevent his capture or torture. Since his death, Liu Hongsheng, the leading industrialist known as the "King of Matches," has assumed control over much of Zhang's old semilegal activity in Shanghai and Fuzhou." 
+lec.122.d.brit:0 "Zhang Xiaolin had been tried in absentia and sentenced to life imprisonment in Vladivostok. To enforce the sentence, however, he had to be found. Although he has been in hiding since the warrant for his arrest was sent out, it seems that the hefty award posted for knowledge of his whereabouts has convinced some former associates of his to reveal his location. A week ago, he and his lieutenants were found in a wharehouse in Fuzhou. After recieving no reply save gunshots to demands to come out, the police broke into the wharehouse. In the scuffle that followed, Zhang Xioalin was shot in the leg, then was killed by one of his partners to prevent his capture or torture. Since his death, the Apostolic Vicar of Yangku and Titular Bishop of Ruspae, Thomas Tien Ken-sin, has assumed much influence in Shanghai, turning the city slightly away from crime and towards Catholicism." 
+lec.122.d.germans:0 "Zhang Xiaolin had been tried in absentia and sentenced to life imprisonment in Vladivostok. To enforce the sentence, however, he had to be found. Although he has been in hiding since the warrant for his arrest was sent out, it seems that the hefty award posted for knowledge of his whereabouts has convinced some former associates of his to reveal his location. A week ago, he and his lieutenants were found in a wharehouse in Fuzhou. After recieving no reply save gunshots to demands to come out, the police broke into the wharehouse. In the scuffle that followed, Zhang Xioalin was shot in the leg, then was killed by one of his partners to prevent his capture or torture. Since his death, the brutal AOG operative Walter Stennes has assumed much control in Fuzhou, furthering the interests of his organization." 
+lec.122.d.japs:0 "Zhang Xiaolin had been tried in absentia and sentenced to life imprisonment in Vladivostok. To enforce the sentence, however, he had to be found. Although he has been in hiding since the warrant for his arrest was sent out, it seems that the hefty award posted for knowledge of his whereabouts has convinced some former associates of his to reveal his location. A week ago, he and his lieutenants were found in a wharehouse in Fuzhou. After recieving no reply save gunshots to demands to come out, the police broke into the wharehouse. In the scuffle that followed, Zhang Xioalin was shot in the leg, then was killed by one of his partners to prevent his capture or torture. Since his death, the former officer and China Agency operative Masahiko Amakasu has assumed much control in Fuzhou, furthering the interests of his organization." 
+lec.122.a:0 "He was too dangerous to be left alive."
+
+lec.123.t:0 "The Investigation of Huang Jinrong"
+lec.123.d:0 "Huang Jinrong is now being prosecuted in the courts for unprofessional and illegal methods of solving crimes. Nevertheless, he is still the chief of police of Shanghai, and he has displayed no outward show of fear or despair. Indeed, he and the lawyer for the government have gone on many a cheerful outing around town."
+lec.123.a:0 "He surely has done nothing wrong."
+
+lec.124.t:0 "Huang Jinrong's Transfer"
+lec.124.d.american:0 "Although Huang Jinrong has undoubtedly commited many heinous acts, most have been in the service of our government. As such, he has merely been demoted, and is no longer chief of police in Shanghai. Instead, he is chief of police in Ningbo, where he should be able to cause far less trouble. His replacement in Shanghai, the American financier Solomon Adler, is now reportedly making contact with many in Zhang's old network."
+lec.124.d.brit:0 "Although Huang Jinrong has undoubtedly commited many heinous acts, most have been in the service of our government. As such, he has merely been demoted, and is no longer chief of police in Shanghai. Instead, he is chief of police in Ningbo, where he should be able to cause far less trouble. His replacement is a quiet British nonentity, and is remarkable only in his loyalty to Vandeleur Molyneux Grayburn, the British financier and man of influence from Hong Kong."
+lec.124.d.germans:0 "Although Huang Jinrong has undoubtedly commited many heinous acts, most have been in the service of our government. As such, he has merely been demoted, and is no longer chief of police in Shanghai. Instead, he is chief of police in Ningbo, where he should be able to cause far less trouble. His replacement in Shanghai, the German diplomat Hubert Knipping, is now reportedly making contact with many in Zhang's old network."
+lec.124.d.japs:0 "Although Huang Jinrong has undoubtedly commited many heinous acts, most have been in the service of our government. As such, he has merely been demoted, and is no longer chief of police in Shanghai. Instead, he is chief of police in Ningbo, where he should be able to cause far less trouble. His replacement in Shanghai, the Japanese general and China Agency security head Michitarō Komatsubara, is now reportedly making contact with many in Zhang's old network."
+lec.124.a:0 "Good luck, all of you."
+
 lecgreengangclash.1.t:0 "The Green Gangs Clash!"
 lecgreengangclash.1.d:0 "Shanghai's criminal underworld has long been under the control of three mysterious figures who lead a collective known as the "Green Gang". At the head of this alliance is crime lord Du Yuesheng, better known as "Big Ears Du". \n\nYuesheng's iron grip on the opium trade out of Shanghai is long established, and with the establishment of the Legation Cities the route has been opened for him and the Green Gang to muscle in on Hong Kong. The triad gangsters who thrive in the Chinese districts of Hong Kong have pushed back strongly against this attempt, culminating in a clash today between them and Green Gang men at a pleasure house in Hong Kong. Reportedly at least fifty people were involved in an armed clash with machetes, knives and pistols before the police were able to break it up. This has only served to highlight the ongoing problem of criminality in the cities and its potentially destabilising effect."
 lecgreengangclash.1.a:0 "How terrible!"
 
 lecgreengangclash.2.t:0 "Murder In Broad Daylight!"
-lecgreengangclash.2.d:0 "A grisly event took place in Shanghai today as a member of one of the last rival gangs finally fell foul of the Green Gang. He had apparently been leaving the police station in the German (formerly French) concession after a heated conversation, when a large group of men in western suits and hats ambushed him. After his bodyguards and companion were shot he was subsequently torn apart with axes in an act of mob violence. Despite the extremely accurate acounts circulating about the incident it seems there were absolutely no witnesses, the police at the time being extremely busy."
+lecgreengangclash.2.d:0 "A grisly event took place in Shanghai today as a member of one of the last rival gangs finally fell foul of the Green Gang. He had apparently been leaving the police station in the German (formerly French) concession after a heated conversation, when a large group of men in western suits and hats ambushed him. After his bodyguards and companion were shot he was subsequently torn apart with axes in an act of mob violence. Despite the extremely accurate accounts circulating about the incident it seems there were absolutely no witnesses, the police at the time being extremely busy."
 lecgreengangclash.2.a:0 "Gruesome..."
 
 lecgreengangclash.3.t:0 "Investigating the Green Gang"
@@ -1023,7 +1096,7 @@ lecgreengangclash.8.d:0 "Under harsh questioning by the German police in Shangha
 lecgreengangclash.8.a:0 "Fantastic!"
 
 lecgreengangclash.9.t:0 "A Triad Member Picked Up"
-lecgreengangclash.9.d:0 "A member of the Ye On Son traid was tapped up for information about the recent clashes by the Hong Kong Police Force today, in the interrogation room he revealed that he and his gang had smuggled arms for various groups, including, curiously, the Japanese "Special Agency" to dissident groups in China..."
+lecgreengangclash.9.d:0 "A member of the Ye On Son triad was tapped up for information about the recent clashes by the Hong Kong Police Force today, in the interrogation room he revealed that he and his gang had smuggled arms for various groups, including, curiously, the Japanese "Special Agency" to dissident groups in China..."
 lecgreengangclash.9.a:0 "Intriguing..."
 
 lecgreengangclash.10.t:0 "Documents Found!"
@@ -1173,17 +1246,17 @@ lecbrits.12.d:0 "It seems that burgeoning unrest in Hong Kong against the percei
 lecbrits.12.a:0 "Damn and blast!"
 
 lecbrits.13.t:0 "Appointing a New Hong Kong Governor"
-lecbrits.13.d:0 "Though Hong Kong has been out of our grasp since 1925 when we asked for German protection for our concessions, we have always held the territory legally. Even when it became administered by the Legation Council, we kept theoretical ownership of the whole city as one concession among many. \n\nOne thing that has always stayed constant is our right to appoint a governor in Hong Kong, but we have not done so in over a decade. The current Acting Administrator of Hong Kong is Norman Lockhart Smith, but though he is undoubtedly loyal to the Crown, he does have local connections that would possibly lead him to act more independently than we could prefer. We could easily earmark him as our candidate for High Commissioner of the Legation Cities, and thus find a way to make him accept his removal and replacement by Mark Aitchison Young, a more loyal civil servant currently stationed in Sierra Leone. Alternatively, we could appoint Young to be our future voice in Shanghai, and keep Smith in his current position. Who should we choose?"
+lecbrits.13.d:0 "Though Hong Kong has been out of our grasp since 1925 when we asked for German protection for our concessions, we have always held the territory legally. Even when it became administered by the Legation Council, we kept theoretical ownership of the whole city as one concession among many. \n\nOne thing that has always stayed constant is our right to appoint a governor in Hong Kong, but we have not done so in over a decade. The current Acting Administrator of Hong Kong is Norman Lockhart Smith, but though he is undoubtedly loyal to the Crown, he does have local connections that would possibly lead him to act more independently than we could prefer. We could easily earmark him as our candidate for High Commissioner of the Legation Cities, and thus find a way to make him accept his removal and replacement by Mark Aitchison Young, a more loyal civil servant currently stationed in the West Indies Federation. Alternatively, we could appoint Young to be our future voice in Shanghai, and keep Smith in his current position. Who should we choose?"
 lecbrits.13.a:0 "Smith has served us well in Hong Kong."
 lecbrits.13.b:0 "Smith would serve us better in Shanghai."
 
-lecbrits.14.t:0 "Canada Appoints a New Ambassador in Shanghai"
-lecbrits.14.d:0 "It would seem the British continue to extend their influence. They have contacted the Governor of Hong Kong, Norman Lockhart Smith, and have also appointed a new Ambassador in Shanghai, Mark Aitchison Young. He is now responsible for all British Concessions in China beyond Hong Kong, and it is anticipated the Canadians may soon begin to take more extreme actions to renew their influence. Norman Lockhart Smith is a man of the status quo, however, and he would lose much if it were to change. We could possibly stop the British plots in their tracks if we leant on him in some way."
+lecbrits.14.t:0 "Canada Appoints a New Consul in Shanghai"
+lecbrits.14.d:0 "It would seem the British continue to extend their influence. They have contacted the Governor of Hong Kong, Norman Lockhart Smith, and have also appointed a new Consul in Shanghai, Mark Aitchison Young. He is now responsible for all British Concessions in China beyond Hong Kong, and it is anticipated the Canadians may soon begin to take more extreme actions to renew their influence. Norman Lockhart Smith is a man of the status quo, however, and he would lose much if it were to change. We could possibly stop the British plots in their tracks if we leant on him in some way."
 lecbrits.14.a:0 "This is nothing worthy of comment."
 lecbrits.14.b:0 "We should investigate Hong Kong and lean on Administrator Smith."
 
 lecbrits.15.t:0 "The British Appoint a New Governor for Hong Kong"
-lecbrits.15.d:0 "The British have appointed Mark Aitchison Young as the new governor of Hong Kong, and have switched the former governor of Hong Kong, Norman Lockhart Smith, to be their ambassador in Shanghai, a position that was previously empty (placeholder need to expand)"
+lecbrits.15.d:0 "The British have appointed Mark Aitchison Young as the new governor of Hong Kong, and have switched the former governor of Hong Kong, Norman Lockhart Smith, to be their ambassador in Shanghai, a position that was previously empty since the British withdrawal in 1926."
 lecbrits.15.a:0 "Worrying moves."
 
 lecbrits.16.t:0 "Investigating the British in Hong Kong"
@@ -1198,7 +1271,7 @@ lecbrits.17.a:0 "Go ahead."
 lecbrits.17.b:0 "It's too dangerous."
 
 lecbrits.18.t:0 "Huang Jinrong's Conclusions"
-lecbrits.18.d:0 "Huang Jinrong appears to have hired several prominent Hongkonger businessmen to investigate the British Crown's activities in Hong Kong. He now has presented evidence to the High Commissioner that seems to implicate prominent Japanese businessmen in a plot to get Britain back onto the Legation Council. This might seem highly suspect, but Huang Jinrong just invited you on a trip downtown, and you wouldn't want to ruin the mood..."
+lecbrits.18.d:0 "Huang Jinrong appears to have hired several prominent Hongkonger businessmen to investigate the British Crown's activities in Hong Kong. He now has presented evidence to the High Commissioner that seems to implicate prominent Japanese businessmen in a plot to get Britain back onto the Legation Council. This might seem highly suspect, but Huang Jinrong just invited you on a trip down-town, and you wouldn't want to ruin the mood..."
 lecbrits.18.a:0 "This man is a genius!"
 lecbrits.18.b:0 "This is obviously a lie."
 
@@ -1220,7 +1293,7 @@ lecbrits.26.d:0 "Canberra has been organizing the British in our territory with 
 lecbrits.26.a:0 "This should slow their progress."
 
 lecbrits.27.t:0 "A Royal Visit to Hong Kong"
-lecbrits.27.d:0 "Today the HMS Sussex arrived in Hong Kong from Halifax with royal passengers - Prince Albert of Windsor and his young daughter, Princess Elizabeth. High Commissioner [Lec.GetLeader] and several other ambassadors and representatives to the Legation Council stood at the end of the dock to meet him. After some brief formalities, the Prince and his entourage got in a taxicab and drove quickly to the Peninsula Hong Kong hotel, citing his daughter's seasickness as the reason for the hasty departure. It is anticipated that he will have several meetings with important British officials and businessmen in Hong Kong throughout the month-long stay, as well as some tours about the city and its outskirts. Given the Prince's dislike for large public gatherings, however, it is unlikely that he will advertise these outings much."
+lecbrits.27.d:0 "Today the HMS Sussex arrived in Hong Kong from Halifax with royal passengers - Prince Albert of Windsor and his young daughter, Princess Elizabeth. High Commissioner [LEC.GetLeader] and several other ambassadors and representatives to the Legation Council stood at the end of the dock to meet him. After some brief formalities, the Prince and his entourage got in a taxicab and drove quickly to the Peninsula Hong Kong hotel, citing his daughter's seasickness as the reason for the hasty departure. It is anticipated that he will have several meetings with important British officials and businessmen in Hong Kong throughout the month-long stay, as well as some tours about the city and its outskirts. Given the Prince's dislike for large public gatherings, however, it is unlikely that he will advertise these outings much."
 lecbrits.27.a:0 "Welcome to the Legation Cities, Your Royal Highness."
 
 lecbrits.28.t:0 "Our Place on the Legation Council"
@@ -1319,12 +1392,20 @@ lecbrits.53.t:0 "British Troops in Hong Kong"
 lecbrits.53.d:0 "As our war with the International Mandate for the Chinese Concessions rages on, the [FROM.GetAdjective]s have seen an opportunity to retake their former colony of Hong Kong. The Royal Navy's marines have now occupied Kowloon and the New Territories, and the governor has accepted the return of the Crown. While this has weakened our enemies in Shanghai, this also means we will not be acquiring the port ourselves once the Cities fall."
 lecbrits.53.a:0 "Damm those underhanded British!"
 
+lecbrits.54.t:0 "Mark Aitchison Young Appointed Ambassador to Shanghai"
+lecbrits.54.d:0 "A hallmark of the British Empire, even in these days of decline, is its tendency to whisk away administrators, governors, and attaches to a post on the other side of the world from their original posting after some time. Today, word came from the colonial office that Governor Mark Aitchison Young, Governor of Barbados, was to be appointed to a new post, as the ambassador to the Legation Council and minister plenipotentiary in Shanghai. \n\nHis replacement, Grattan Bushe, sets a new precedent for the Empire, as Bushe is the first colonial governor to be appointed from the Colonial Office legal staff. A reclusive but educated man, the new governor seems set to continue the policies of his predecessor in our Federation and Barbados. After a farewell party last night in Bridgetown, Mr Aitchison set off for his new post at dawn."
+lecbrits.54.a:0 "Good luck in China, Mr Young."
+
+lecbrits.55.t:0 "Mark Aitchison Young Appointed Governor of Hong Kong"
+lecbrits.55.d:0 "A hallmark of the British Empire, even in these days of decline, is its tendency to whisk away administrators, governors, and attaches to a post on the other side of the world from their original posting after some time. Today, word came from the colonial office that Governor Mark Aitchison Young, Governor of Barbados, was to be appointed to a new post, the Governor of Hong Kong, replacing the Acting Administrator Norman Smith, who has been formally granted the position of Ambassador to the Legation Council and Minister Plenipotentiary in Shanghai. \n\nHis replacement, Grattan Bushe, sets a new precedent for the Empire, as Bushe is the first colonial governor to be appointed from the Colonial Office legal staff. A reclusive but educated man, the new governor seems set to continue the policies of his predecessor in our Federation and Barbados. After a farewell party last night in Bridgetown, Mr Aitchison set off for his new post at dawn."
+lecbrits.55.a:0 "Farewell, Mr Young."
+
 lecjapfeud.1.t:0 "Gang Skirmish in Tianjin"
 lecjapfeud.1.d:0 "For the most part, the buzzing streets of Tianjin have been spared from the turmoil that has afflicted the rest of China. While anything but calm, this Paris of the Orient has been more accustomed to fireworks than the battles-scarred cities to the west. Today however, the citizens of the city had their daily affairs interrupted as they were treated to a taste of the region's conflicts right at their doorstep.\n\nIt quickly became evident that this was no ordinary heist or criminal dispute as shots were exchanged in a busy street crossing near the diplomatic quarters. Four groups of men in suits, numbering about a dozen total, were exchanging fire before taking off. They managed to escape by mixing in with the panicked crowds, successfully using the general chaos of the situation to evade law enforcement. Two of the criminals were left dead on the ground, and with nothing to tie anyone to a motive or an organization for the time being the police are left struggling to solve this one. Although an embarrassment for the Tianjin police department, the chief of police has ordered an increase in police presence in the area to root out the gangsters. At the very least, we should be thankful that no innocent people were injured in the crossfire."
 lecjapfeud.1.a:0 "Catch those crooks!"
 
 lecjapfeud.2.t:0 "Escalation of Sectional Disputes"
-lecjapfeud.2.d:0 "Mere days after the last skirmish, Tianjin was rocked again by another gun battle, this time within the diplomatic quarters itself. Luckily, the increased police presence prevented a repeat of the last public shooting. Their findings in its aftermath are, however, quite alarming.\n\nOnce more, the criminals had gathered in a similar fashion. Only this time, the Tianjin Police Department were able to both observe them before the crime and intervene as things went south. Two gangsters met one-another outside of a cafe and spoke to one another, exchanged a briefcase, and were then assaulted by a group of six men armed with revolvers, seemingly vying for whatever was in the suitcase. What followed almost seemed like it would be more befitting of a crime flick than real life as the stick-up was met by half four armed crooks on either side of them opening fire at the presumptive thieves as they realized all too late that their victims weren't alone. Even worse for all of them, the police were quick to intervene before any further tragedies could be had, and luckily enough all men gave up the moment they realized that they couldn't fight their way past half of Tianjin's police force. While most were tight-lipped about it, the contents of the briefcase gave away that the men are hired guns from local Triads acting as middlemen in a larger dispute, although the contents of the briefcase didn't give away who or what right away. After the suspects were subjected to lengthy interrogations, however, one eventually snapped and ratted them all out. They were acting on behalf of the Japanese embassy, but it gets more convoluted from there on. One group were acting on behalf of the navy attache, another group from the colonial office, and yet another acting for the Japanese foreign affairs department. We suspect that more departments of the Japanese may be involved as well, but we have no concrete proof at the time being.\n\nThe fact the Japanese have factional disputes is not news to us, but it hasn't gotten this bad in public before. Now comes the difficult choice in deciding how to deal with this situation. We could intervene directly into the matter, although we should be mindful that doing so could open a bigger can of worms than simply letting this factional dispute die down on its own would."
+lecjapfeud.2.d:0 "Mere days after the last skirmish, Tianjin was rocked again by another gun battle, this time within the diplomatic quarters itself. Luckily, the increased police presence prevented a repeat of the last public shooting. Their findings in its aftermath are, however, quite alarming.\n\nOnce more, the criminals had gathered in a similar fashion. Only this time, the Tianjin Police Department were able to both observe them before the crime and intervene as things went south. Two gangsters met one-another outside of a cafe and spoke to one another, exchanged a briefcase, and were then assaulted by a group of six men armed with revolvers, seemingly vying for whatever was in the suitcase. What followed almost seemed like it would be more befitting of a crime flick than real life as the stick-up was met by half four armed crooks on either side of them opening fire at the presumptive thieves as they realized all too late that their victims weren't alone. Even worse for all of them, the police were quick to intervene before any further tragedies could be had, and luckily enough all men gave up the moment they realized that they couldn't fight their way past half of Tianjin's police force. While most were tight-lipped about it, the contents of the briefcase gave away that the men are hired guns from local Triads acting as middlemen in a larger dispute, although the contents of the briefcase didn't give away who or what right away. After the suspects were subjected to lengthy interrogations, however, one eventually snapped and ratted them all out. They were acting on behalf of the Japanese embassy, but it gets more convoluted from there on. One group were acting on behalf of the navy attaché, another group from the colonial office, and yet another acting for the Japanese foreign affairs department. We suspect that more departments of the Japanese may be involved as well, but we have no concrete proof at the time being.\n\nThe fact the Japanese have factional disputes is not news to us, but it hasn't gotten this bad in public before. Now comes the difficult choice in deciding how to deal with this situation. We could intervene directly into the matter, although we should be mindful that doing so could open a bigger can of worms than simply letting this factional dispute die down on its own would."
 lecjapfeud.2.a:0 "Intervene!"
 lecjapfeud.2.b:0 "Let it simmer down."
 
@@ -1426,9 +1507,9 @@ lecyankded.6.t:0 "President Reed's Actions Destabilize the Cities"
 lecyankded.6.d:0 "Newly elected President Reed has already embarked on a program of ambitious socialist reform. His moves to crack down on enemies of his regime, combined with sweeping reforms to the American economy, are worrying financial experts the world over. As an institution reliant on American backing, these moves are greatly unsettling the businessmen of the Legation Cities."
 lecyankded.6.a:0 "He'll come down to earth soon enough."
 
-lecyankded.7.t:0 "President Long's Reforms Worry the Legation Cities"
+lecyankded.7.t:0 "President Long's Actions Destabilize the Cities"
 lecyankded.7.d:0 "It seems that newly elected President Long has begun a process of extensive political reform designed to radically transform America. Many of his Executive Orders have already been blocked by the Supreme Court, but this has not dissuaded him. These moves are worrying financiers in the Legation Cities, but most remain hopeful that the democratic system will suffice to resolve these problems."
-lecyankded.7.a:0 "Nothing to worry about."
+lecyankded.7.a:0 "Let's keep calm here"
 
 lecyankded.8.t:0 "General MacArthur Assumes Control Over the United States"
 lecyankded.8.d:0 "Shocking news has come from the United States over the past couple of days. It seems that the Chief of Staff, General Douglas MacArthur, has taken complete control of the government, apparently in response to 'improper actions' by the President. However this crisis resolves itself, this has put an enormous dent in the Legation Cities' faith in America. Some bookmarkers in Shanghai are even offering good odds that America will soon fall into civil war again."
@@ -1572,11 +1653,11 @@ lectianjap.5.d:0 "In the early hours of the morning, an explosive device failed 
 lectianjap.5.a:0 "I don't care who investigates it, I want the head of the terrorist on my desk!"
 
 lectianjap.6.t:0 "Arms Shipment Discovered!"
-lectianjap.6.d:0 "During a routine custom's inspection of a ship docking in Shanghai, a massive cache of weapons has been discovered with all of the crew aboard being put under arrest until further notice with the ship officially siezed. An official investigation is under way and is expected to get some resutls soon."
+lectianjap.6.d:0 "During a routine custom's inspection of a ship docking in Shanghai, a massive cache of weapons has been discovered with all of the crew aboard being put under arrest until further notice with the ship officially seized. An official investigation is under way and is expected to get some results soon."
 lectianjap.6.a:0 "Never a dull day in Shanghai!"
 
 lectianjap.7.t:0 "Japanese Guns In A Russian Ship"
-lectianjap.7.d:0 "The investigation has finally returned and gathered up all the evidence available to them. The ship itself is Russian in origin, registered to a shipping company in Vladivstok but the guns are Japanese in nature and comprised mostly out of obsolete Arisakas. The crew have given no useful leads and it appears we will have to track this down to the source, either investigating the shipping company in Vladivstok or calling on the Japanese to assist."
+lectianjap.7.d:0 "The investigation has finally returned and gathered up all the evidence available to them. The ship itself is Russian in origin, registered to a shipping company in Vladivostok but the guns are Japanese in nature and comprised mostly out of obsolete Arisakas. The crew have given no useful leads and it appears we will have to track this down to the source, either investigating the shipping company in Vladivostok or calling on the Japanese to assist."
 lectianjap.7.a:0 "Authorize an official investigation, lets get to the bottom of this!"
 
 lectianjap.8.t:0 "A Warm Day In Vladivostok"
@@ -1588,7 +1669,7 @@ lectianjap.9.d:0 "The Japanese have been less than cooperative with our detectiv
 lectianjap.9.a:0 "The Green Gang don't seem like too bad fellows..."
 
 lectianjap.10.t:0 "Japanese Intrigue In China"
-lectianjap.10.d:0 "With an official investigation of the China Agency having gone under way we have finally reached the bottom of these arms shipments and it appears that the Japanese are arming loyal collaborators in preparation for a fullscale invasion and occupation of China. Now that the genie is out of the bottle we will have to pick a side, either offering the Japanese a deal or attempting to crackdown on their smuggling."
+lectianjap.10.d:0 "With an official investigation of the China Agency having gone under way we have finally reached the bottom of these arms shipments and it appears that the Japanese are arming loyal collaborators in preparation for a full scale invasion and occupation of China. Now that the genie is out of the bottle we will have to pick a side, either offering the Japanese a deal or attempting to crackdown on their smuggling."
 lectianjap.10.a:0 "How scandalous!"
 
 lectianjap.11.t:0 "Offering A Deal"
@@ -1605,7 +1686,7 @@ lectianjap.13.d:0 "Good news has for once reached Shanghai and it seems that our
 lectianjap.13.a:0 "Stability returns to Shanghai!"
 
 lectianjap.14.t:0 "The Crackdown Fails!"
-lectianjap.14.d:0 "It seems that our crackdown against the China Agency and its puppet organizations has not gone according to plan. A combination of corruption and proactive attempts to hide their deeds on behalf the Japanese has meant that our attempts to strike down on the Japanese has failed, making a mockery of the Council and allowing the Japanese to paint themselves as victims of a witchunt."
+lectianjap.14.d:0 "It seems that our crackdown against the China Agency and its puppet organizations has not gone according to plan. A combination of corruption and proactive attempts to hide their deeds on behalf the Japanese has meant that our attempts to strike down on the Japanese has failed, making a mockery of the Council and allowing the Japanese to paint themselves as victims of a witch-hunt."
 lectianjap.14.a:0 "Well that's not good..."
 
 lectianjap.15.t:0 "Help From The Green Gang"
@@ -1629,15 +1710,15 @@ lectianjap.19.d:0 "It seems that economic woes have gone down hard on the Legati
 lectianjap.19.a:0 "Worrying, to say the least."
 
 lectianjap.20.t:0 "Shanghai Refuses!"
-lectianjap.20.d:0 "Terrible news has come out of Shanghai, the Mandate has refused to give us a  greenlight to further operations! This is a major blow to our plans to takeover Tianjin and we will now have to wait for the China Agency to orchestrate more attacks before we can make our demands again."
-lectianjap.20.a:0 "!"
+lectianjap.20.d:0 "Terrible news has come out of Shanghai, the Mandate has refused to give us a green light to further operations! This is a major blow to our plans to takeover Tianjin and we will now have to wait for the China Agency to orchestrate more attacks before we can make our demands again."
+lectianjap.20.a:0 "Damn!"
 
 lectianjap.21.t:0 "테러리스트들의 톈진 공격!"
 lectianjap.21.d:0 "Earlier today an explosive device was detonated in the port city of Tianjin, killing scores of civilians and wounding many more. The police have claimed that this is simply a case of the anti-concessionist violence though the native Chinese are adamant that 'dark forces' are at work, with some wondering if this has any relation to our recent involvment of Tianjin. Obviously the military has claimed it has nothing to do with them."
 lectianjap.21.a:0 "우린 모르는 일이야!"
 
 lectianjap.22.t:0 "Japan Demands A Security Garrison"
-lectianjap.22.d:0 "Members of the Japanese delegation have petitioned the mandate to grant Japan a greenlight to security operations in Tianjin. Arguing that the Tianjin Police have been unable to stem the tide of attcks they now believe that only their own troops can guarantee the safety of their citizens."
+lectianjap.22.d:0 "Members of the Japanese delegation have petitioned the mandate to grant Japan a green light to begin security operations in Tianjin. Arguing that the Tianjin Police have been unable to stem the tide of attacks they now believe that only their own troops can guarantee the safety of their citizens."
 lectianjap.22.a:0 "그거 좋은 지적이군..."
 lectianjap.22.b:0 "여기가 일본 조계지인줄 아나?"
 
@@ -1679,7 +1760,7 @@ lectianjap.30.a:0 "Still, an enormous coup!"
 lectianjap.30.b:0 "In that case, it's not worth it."
 
 lectianjap.31.t:0 "[FNG.GetNameDef] Occupies Tianjin"
-lectianjap.31.d:0 "The Fengtian government, with the abettance of the Japanese and the Legation Council, has occupied Tianjin, opening another flanking front for their troops in the coming war. This has energized our people even further to expel the imperial collaborators from our land, but there is little we can do, for now. "
+lectianjap.31.d:0 "The Fengtian government, with the assistance of the Japanese and the Legation Council, has occupied Tianjin, opening another flanking front for their troops in the coming war. This has energized our people even further to expel the imperial collaborators from our land, but there is little we can do, for now. "
 lectianjap.31.a:0 "Awful!"
 
 lectianjap.32.t:0 "Weapons Stockpiles in the Legation Cities"
@@ -1691,7 +1772,7 @@ lectianjap.33.d:0 "The pro-Japanese but ostensibly neutral Legation Cities have 
 lectianjap.33.a:0 "Good news."
 
 lectianjap.34.t:0 "Fengtian Accepts"
-lectianjap.34.d:0 "[FNG.GetNameDefCap] has accepted our offer of free passage through Tianjin, meaning they have also accepted our demand of continuing to recieve the profits of Mandate-owned industries and Mandatory protective tariffs from nations not on the Council."
+lectianjap.34.d:0 "[FNG.GetNameDefCap] has accepted our offer of free passage through Tianjin, meaning they have also accepted our demand of continuing to receive the profits of Mandate-owned industries and Mandatory protective tariffs from nations not on the Council."
 lectianjap.34.a:0 "Cooperation is good for everybody."
 
 lectianjap.35.t:0 "Fengtian Refuses"
@@ -1703,7 +1784,7 @@ lectianjap.36.d:0 "After almost two years of occupation, it seems the [FNG.GetAd
 lectianjap.36.a:0 "How annoying."
 
 lecfuzhou.1.t:0 "Triad Activity in Fuzhou"
-lecfuzhou.1.d:0 "One of the preeminent members of the Green Gang, Zhang Xiaolin, has begun opening storefronts and suppressing local crime in Fuzhou. This is one of the first times Xiaolin has attempted an independent operation in a different city from Shanghai, and this operation could reveal his style of conducting a gang. What will he order his men to do?"
+lecfuzhou.1.d:0 "One of the pre-eminent members of the Green Gang, Zhang Xiaolin, has begun opening store fronts and suppressing local crime in Fuzhou. This is one of the first times Xiaolin has attempted an independent operation in a different city from Shanghai, and this operation could reveal his style of conducting a gang. What will he order his men to do?"
 lecfuzhou.1.a:0 "Xiaolin's men are deadly."
 lecfuzhou.1.b:0 "Xiaolin's men expand the Triad organization."
 lecfuzhou.1.c:0 "Xiaolin likes profit, however he can find it."
@@ -1730,17 +1811,17 @@ lecfuzhou.6.d:0 "Drugs have become more and more common in Fuzhou, with the poli
 lecfuzhou.6.a:0 "Where are the police when you need them?"
 
 lecfuzhou.7.t:0 "Zhang Xiaolin's New Powerbase"
-lecfuzhou.7.d:0 "Zhang Xialon has established Fuzhou as his new power base for his smuggling operations, giving him and the Green Gang a sizeable advantage over other, more local, Triads. He is using his new power base already to expand his smuggling operation elsewhere within China. Many within the government ask how we should respond to this new development, as he may be an useful ally, though some say his new rival and former partner Du Yuesheng could be a more valuable one. Some propose that the best course of action is simply to try and eradicate his gang from Fuzhou, now that he has proved himself a disturber of the peace."
+lecfuzhou.7.d:0 "Zhang Xiaolin has established Fuzhou as his new power base for his smuggling operations, giving him and the Green Gang a sizeable advantage over other, more local, Triads. He is using his new power base already to expand his smuggling operation elsewhere within China. Many within the government ask how we should respond to this new development, as he may be an useful ally, though some say his new rival and former partner Du Yuesheng could be a more valuable one. Some propose that the best course of action is simply to try and eradicate his gang from Fuzhou, now that he has proved himself a disturber of the peace."
 lecfuzhou.7.a:0 "Go to Du Yuesheng."
 lecfuzhou.7.b:0 "Try to root him out."
 lecfuzhou.7.c:0 "Work with Xiaolin."
 
 lechotung.1.t:0 "Strange Things At The Vermillion Society"
-lechotung.1.d:0 "The Vermillion Society is a collection of various clubs, informal groupings, secret societies and organizations made up of monied and influential men, often from Chinese or mixed-race backgrounds. The Society's nationalist leaning is an open secret and their funding of nationalist organizations is somewhat in the open though has never been confirmed true. The Society provides somewhat of a headache to the council and represents in the broadest terms Chinese influence in the Legations. Recently, tax agents have discovered numerous irregularities in the funding of the Society with the trail leading to Hong Kong. While there is no evidence as to whether or not this is simple tax evasion or a much grander conspiracy, we should investigate and see where the clues take us."
+lechotung.1.d:0 "The Vermillion Society is a collection of various clubs, informal groupings, secret societies and organizations made up of wealthy and influential men in the Mandate, often from Chinese or mixed-race backgrounds. The Society's nationalist leaning is an open secret and their funding of nationalist organizations througout China is somewhat in the open, though it has never been confirmed to be true. The Society provides somewhat of a headache to the council and represents in the broadest terms Chinese influence in the Legations. Recently, tax agents have discovered numerous irregularities in the funding of the Society with the trail leading to Hong Kong. While there is no evidence as to whether or not this is simple tax evasion or a much grander conspiracy, we should investigate and see where the clues take us."
 lechotung.1.a:0 "This could prove interesting..."
 
 lechotung.2.t:0 "The Hotung Connection"
-lechotung.2.d:0 "Our investigations have borne fruit and the paper trail leads back to none other than Sir Robert Hotung of Hong Kong. Hotung is one of Hong Kong's more influential businessman and is widely respected in the city and the Legations at large. One of the richest men in Hong Kong, Hotung controls much of the city's largest enterprises and was able to expand his influence when the British were partially evicted. Hotung is a notable Chinese nationalist and was involved in the founding of the Vermillion Society when his Hong Kong based Chinese Club merged with similar groups, with Hotung still acting as the de facto chairman of the Hong Kong branch and is by far its most notable figure. Despite his leanings Hotung is ironically one of the larger supporters of the Legations among the Chinese crowd, seeing no contradition in his support for both Chinese nationalism and the perceived safety of the cities. Despite all this it seems the old man is despairing at the situation of China and has began desperately funding nationalist organizations across the spectrum including the fledgling KMT, the Fengtian Government and Chen Jiongming's Federalists. While funding these organizations is not illegal, tax evasion is and it gives us an oppurtunity to crack the monetary lifelines of some of the Legations greatest existential threats."
+lechotung.2.d:0 "Our investigations have borne fruit and the paper trail leads back to none other than Sir Robert Hotung of Hong Kong. Hotung is one of Hong Kong's more influential businessman and is widely respected in the city and the Legations at large. One of the richest men in Hong Kong, Hotung controls much of the city's largest enterprises and was able to expand his influence when the British were partially evicted. Hotung is a notable Chinese nationalist and was involved in the founding of the Vermillion Society when his Hong Kong based Chinese Club merged with similar groups, with Hotung still acting as the de facto chairman of the Hong Kong branch and is by far its most notable figure. Despite his leanings Hotung is ironically one of the larger supporters of the Legations among the Chinese crowd, seeing no contradiction in his support for both Chinese nationalism and the perceived safety of the cities. Despite all this it seems the old man is despairing at the situation of China and has began desperately funding nationalist organizations across the spectrum including the fledgling KMT, the Fengtian Government and Chen Jiongming's Federalists. While funding these organizations is not illegal, tax evasion is and it gives us an opportunity to crack the monetary lifelines of some of the Legations greatest existential threats."
 lechotung.2.a:0 "Sir Robert would surely understand."
 
 lechotung.3.t:0 "Questions Need To Be Asked"
@@ -1801,7 +1882,7 @@ lechotung.16.d:0 "Be it by the Japanes vetoing our investigation or an attack by
 lechotung.16.a:0 "Put it in the cold cases."
 
 lechotung.17.t:0 "Interesting Leads"
-lechotung.17.d:0 "It seems that by investigating the Cantonese connection has paid off greatly with the numerous interestig leads being discovered by the investigation team. It seems that Sir Robert is heavily involved in the activities of Chen Jiongming and Li Zongren of the essentially defunct Rightist KMT. To continue our investigation we will have to dig deeper into the Canton connection by either going to the heart of operations in Hong Kong or by strongarming the Ostchina Direktorium to grant us some favours within the AOG."
+lechotung.17.d:0 "It seems that by investigating the Cantonese connection has paid off greatly with the numerous interesting leads being discovered by the investigation team. It seems that Sir Robert is heavily involved in the activities of Chen Jiongming and Li Zongren of the essentially defunct Rightist KMT. To continue our investigation we will have to dig deeper into the Canton connection by either going to the heart of operations in Hong Kong or by strongarming the Ostchina Direktorium to grant us some favours within the AOG."
 lechotung.17.a:0 "Into the heart of darkness we go."
 
 lechotung.18.t:0 "A Dinner At The Hong Kong Club"
@@ -1813,7 +1894,7 @@ lechotung.19.d:0 "The AOG or Aufsichtsrat der Ostasiatischen Generalverwaltung a
 lechotung.19.a:0 "Pleasure doing business with you!"
 
 lechotung.20.t:0 "The Commission For Laundering"
-lechotung.20.d:0 "It seems that our conenctions have paid off and we have struck a monumental blow to the Vermillion Society as one of their biggest allies has been cut off from funding. While in the short term this won't have much impact on Chen, it has already wreaked havoc on the Vermillion Society. A direct product of the investigation is the creation of the Commission for Laundering which will oversee and fight money laundering attempts in the cities, curtailing future Vermillion Society intrigue."
+lechotung.20.d:0 "It seems that our connections have paid off and we have struck a monumental blow to the Vermillion Society as one of their biggest allies has been cut off from funding. While in the short term this won't have much impact on Chen, it has already wreaked havoc on the Vermillion Society. A direct product of the investigation is the creation of the Commission for Laundering which will oversee and fight money laundering attempts in the cities, curtailing future Vermillion Society intrigue."
 lechotung.20.a:0 "You fought the law and the law won."
 
 lechotung.21.t:0 "천중밍이 홍콩에 도착하다"
@@ -1830,9 +1911,9 @@ LEC_china_observer_rights_desc:0 "When the International Mandate for the Chinese
 LEC_china_peace:0 "Sign a Peace Treaty with the Western Coalition"
 LEC_china_peace_desc:0 "This war has dragged on long enough, and it is clearly in our favor. We should request peace."
 
+
 LEC_votes_category:0 "공사관위원회"
 LEC_votes_category_desc:0 "공사관위원회는 중국에 대한 이해관계를 가진 주요국 대표단으로 구성된 기구입니다. 이곳에서 안건을 발의하고 통과시키는 방식은 간단합니다. 대표단이 안건을 제시하고 과반수가 찬성하면 통과되며(단, 찬반률이 동률일 경우, 기각으로 간주) 기권은 찬반결과에 반영되지 않습니다. [LEC_observer_status]\n\n현재 공사관위원회의 의결권을 가진 국가:\n[LEC_voter1] [LEC_voter2] [LEC_voter3] [LEC_voter4] [LEC_voter5] [LEC_voter6] [LEC_voter7] [LEC_voter8]\n\n현재 발의: [LEC_current_motion]\n\n찬성표: §G[?global.legations_yes_votes]§!\n기권: §Y[?global.legations_abstain_votes]§!\n반대표: §R[?global.legations_no_votes]§!"
-
 LEC_observer_status_text:0 " 우리는 투표권이 없지만 위원회의 행동을 주시할 수 있습니다."
 LEC_vote_yes:0 "현재 발의에 찬성함"
 LEC_vote_abstain:0 "현재 발의에 기권함"
@@ -1842,6 +1923,8 @@ LEC_vote_timer_desc:0 "상하이에 있는 우리 대표단에게 우리의 의�
 LEC_we_voted_this_time:0 "우리는 현재 발의에 투표했습니다"
 LEC_restore_russian_vote:0 "[RUS.GetNameDef]의 의결권 복권"
 LEC_restore_russian_vote_desc:0 "우리는 지난 수년 동안 위원회에서의 러시아의 의결권을 보류해왔습니다. 이제 러시아가 다시 한번 분열되지 않는 한, 독일과 일본에 맞서 균형을 맞추기 위해 러시아의 의결권을 복권시켜주어야합니다."
+LEC_restore_transamurian_vote:0 "Restore Voting Rights to [TRM.GetNameDef]"
+LEC_restore_transamurian_vote_desc:0 "For years, we have held back on granting the Transamurians the voting rights on the Council they have always lawfully had. Now that Russia is united under their rule once again, we should restore to them their voting rights, as a crucial counterbalance against Germany and Japan."
 LEC_DAB_bailout_motion:0 "Start a Motion To Bail Out the DAB"
 LEC_sichuan_famine_motion:0 "쓰촨성 구호 발의 시작"
 LEC_belgium_motion:0 "위원회에서 [BEL.GetName] 제명 발의 시작"
@@ -1869,7 +1952,7 @@ LEC_arrest_du_yuesheng:0 "Arrest Du Yuesheng"
 LEC_convict_du_yuesheng:0 "Convict Du Yuesheng"
 LEC_convict_du_yuesheng_desc:0 "Convicting Du Yuesheng will be difficult, due to the amount of supporters he has in the Cities and all over China."
 LEC_investigate_zhang_xiaolin:0 "Start an Investigation Into Zhang Xiaolin's Activities"
-LEC_prosecute_zhang_xiaolin:0 "Prosecute Zhang Xiaolin"
+LEC_prosecute_zhang_xiaolin:0 "Arrest Zhang Xiaolin"
 LEC_convict_zhang_xiaolin:0 "Convict Zhang Xiaolin"
 LEC_investigate_huang_jinrong:0 "Start an Investigation Into Huang Jinrong's Methods"
 LEC_prosecute_huang_jinrong:0 "Arrest Huang Jinrong"
@@ -1967,6 +2050,5 @@ LEC_france_shanghai:0 "상하이 반환"
 LEC_france_concessions:0 "조차지 반환"
 LEC_france_macao:0 "마카오 반환"
 
-LEC_uk_stuff_category:0 "극동에서의 우리 지위"
-LEC_uk_stuff_category_desc:0 "Now that we have reclaimed the Home Isles we should reassert ourself in the Far East, principally by taking our position on the Legations Cities council."
-LEC_ask_for_hongkong:0 "홍콩 반환 요청"
+ #LEC_uk_stuff_category:0 "극동에서의 우리 지위"
+ #LEC_uk_stuff_category_desc:0 "Now that we have reclaimed the Home Isles we should reassert ourself in the Far East, principally by taking our position on the Legations Cities council."

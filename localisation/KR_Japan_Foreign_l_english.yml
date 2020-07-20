@@ -88,6 +88,9 @@ JAP_fading_sun_desc.JAP:0 "우리는 대다수 대륙 영토를 통제할 수 �
 JAP_fading_sun_desc.other:0 "우리는 일본을 대다수 대륙 지역에서 밀어내는 데 성공했습니니다! 그들이 공격을 시도하고 대항할 것이라는 점은 의심의 여지가 없지만, 이 일은 일본에 큰 타격입니다. 그들이 자신의 땅을 되찾지 못 한다면, 고조되는 정치적 압력으로인해 그들은 협상에 나설 수 밖에 없게 될 것입니다."
 
 is_fully_controlled_by_JAP_or_war_ally_tooltip:0 "(은)는 §Y[JAP.GetNameDef]§!, 혹은 동맹에 의해 완전히 통제되고 있습니다."
+JAP_cannot_call_allies_in_idea:0 "§RWe can't call in allies unless we are at war with a major or losing a war§!"
+JAP_cannot_call_allies_in:0 "§RWe don't want to share the fruits of war unless we have to! We can only call in allies if we are at war with a major or losing a war§!"
+JAP_wont_let_allies_join:0 "§RJapan doesn't want to share the fruits of war with us! They won't let us join their war unless they are at war with a major or losing a war§!"
 
 ### Scripted ###
 JAP_ally1_name:0 "§Y[?global.asian_economic_sphere^0.GetFlag][?global.asian_economic_sphere^0.GetName]§!, "
@@ -125,8 +128,12 @@ JAP_ally_no_sphere:0 "None"
 JAP_not_invest_within_last_year:0 "지난 1년간 투자 대상이 되지 않음"
 
 ### Ideas ###
-JAP_rising_sun_idea:0 "욱일"
-JAP_rising_sun_idea_desc:0 "마침내 세계 제국들 사이에 일본이 자리잡을 때가 왔습니다. 우리는 서구 제국주의로부터 아시아를 해방시키고 경쟁자들에게서 전리품을 얻어낼 것입니다. 태양이 떠오른 것입니다!"
+JAP_rising_sun_idea_1:0 "제국의 영광"
+JAP_rising_sun_idea_1_desc:0 "Japan has not always received the respect it deserves. While thing have changed over the last 30 years, there is still a long way to go. We trust that every citizen will do their duty to make sure that we get there; none shall stop us.\n\nWe are the most powerful nation in Asia and the fruits of war should be ours and ours alone. To ensure this is the case we can only call in allies if we are at war with a major or losing a war."
+JAP_rising_sun_idea_2:0 "제국의 영광"
+JAP_rising_sun_idea_2_desc:0 "마침내 세계 제국들 사이에 일본이 자리잡을 때가 왔습니다. 우리는 서구 제국주의로부터 아시아를 해방시키고 경쟁자들에게서 전리품을 얻어낼 것입니다. 태양이 떠오른 것입니다!\n\nWe are the most powerful nation in Asia and the fruits of war should be ours and ours alone. To ensure this is the case we can only call in allies if we are at war with a major or losing a war."
+JAP_rising_sun_idea_3:0 "제국의 영광"
+JAP_rising_sun_idea_3_desc:0 "일본은 논란의 여지없이 수많은 아시아인의 선도자이자 빛나는 상징이 되었으며, 우리의 미래가 곧 그들에게도 영광을 약속합니다. 한때 외국인들에게 박해받고 착취당하던 나라가, 이젠 적수가 없는 동아시아의 지배자가 되었습니다. 천황 폐하 만세!\n\nWe are the most powerful nation in Asia and the fruits of war should be ours and ours alone. To ensure this is the case we can only call in allies if we are at war with a major or losing a war."
 fengtian_exploitation:0 "만철 배당금"
 fengtian_exploitation_desc:0 "봉천 경제에서 가지는 사실상의 독점적인 지위를 통해 만철은 엄청난 수익을 산출해내고 있으며, 정부 소유의 주식 배당금과 직접 얻는 수익금을 각각 할당하는 방식으로 일본에 이윤을 제공합니다."
 GER_KOR_support:0 "독일 군사고문단"
@@ -162,9 +169,6 @@ JAP_asian_economic_sphere_desc:0 "이것은 우리가 공영권의 핵심 구성
 
 JAP_asian_economic_sphere_member:0 "아시아 공영권"
 JAP_asian_economic_sphere_member_desc:0 "이것은 우리가 일본 경제공영권의 회원국으로서 받은 경제 향상도를 나타냅니다. 더 많은 회원국이 가입하고 그들의 산업력이 집약될수록 우리에게도 이득이 올 것입니다."
-
-JAP_final_victory_idea:0 "제국의 영광"
-JAP_final_victory_idea_desc:0 "일본은 논란의 여지없이 수많은 아시아인의 선도자이자 빛나는 상징이 되었으며, 우리의 미래가 곧 그들에게도 영광을 약속합니다. 한때 외국인들에게 박해받고 착취당하던 나라가, 이젠 적수가 없는 동아시아의 지배자가 되었습니다. 천황 폐하 만세!"
 
 JAP_member_integration_1:0 "경제적 침투 수준: 낮음"
 JAP_member_integration_1_desc:0 "우리에 대한 일본의 투자는 상당한 수준으로, 우리 경제의 성장에 박차를 가하고 있습니다... 하지만 일본의 영향력이 커질수록 우리는 점차 그들에게 종속될 것입니다."
@@ -213,8 +217,8 @@ JAP_support_allies:0 "군벌 동맹 지원"
 JAP_support_allies_desc:0 "많은 중국의 군벌들이 그들의 옛 원수가 그랬듯 일본의 힘을 등에 업기위해 고개숙이려고 줄을 서 있습니다. 우리는 그들에게 호의를 베풀고 잘 무장시켜 중국의 우리 대리인들로 만들어야합니다."
 JAP_sow_chaos:0 "분할과 정복"
 JAP_sow_chaos_desc:0 "'나누어서 정복하라'는 중국에 대한 모든 것에서 우리의 지침이 되어야 합니다. 많은 군벌들이 우리의 지원을 바라는 동안, 우리는 때가 올 때까지 그들의 힘을 입맛에 맞게 조절해서 중국을 계속 분열시키고 쉬운 표적으로 만들 수 있습니다."
-JAP_war_economy:0 "국가동원법"
-JAP_war_economy_desc:0 "중국과의 전쟁은 우리의 한계에 도전하는 매우 어려운 일이 될 것이 명백합니다. 우리는 이 대규모 전쟁을 감당할 수 있도록 사람들을 준비시켜야만 합니다."
+JAP_national_mobilisation_law:0 "국가동원법"
+JAP_national_mobilisation_law_desc:0 "중국과의 전쟁은 우리의 한계에 도전하는 매우 어려운 일이 될 것이 명백합니다. 우리는 이 대규모 전쟁을 감당할 수 있도록 사람들을 준비시켜야만 합니다."
 JAP_spiritual_mobilisation:0 "현지 징집"
 JAP_spiritual_mobilisation_desc:0 "불행하게도 중국의 인력은 승리를 위해 필수불가결하며, 우리가 정복한 모든 중국 지역들은 군인과 자원을 제공해야만 할 것입니다."
 JAP_three_alls:0 "소각 전략"
@@ -234,7 +238,7 @@ JAP_own_faction_desc:0 "서구 제국주의에 반대하는 아시아 국가들�
 JAP_create_riken:0 "이화학 연구소 설립"
 JAP_create_riken_desc:0 "'이화학 연구소', 혹은 줄여서 '이연'은 일본의 주요 연구 개발 기관 중 하나입니다. 만약 우리가 기금을 제공하면, 해외의 연구 계획들을 시작할 수 있으며, 우리 식민지와 동맹국을 돕는 공영권의 과학적 날개 역할을 할 수 있습니다."
 JAP_tokyo_conference:0 "도쿄 회담 개최"
-JAP_tokyo_conference_desc:0 "범아시아 사상은 수많은 정치 계층에서 지지받는 훌륭한 정치 사상입니다. 아시아의 외교관들을 초청하여 도쿄에서 대규모 회담을 개최한다면 우리는 서구 제국주의에 대한 아시아인들의 협력을 꾀할 수 있을 것입니다."
+JAP_tokyo_conference_desc:0 "범아시아 사상은 수많은 정치 계층에서 지지받는 훌륭한 정치 사상입니다. 아시아의 외교관들을 초청하여 도쿄에서 대규모 회담을 개최한다면 우리는 서구 제국주의에 대적하며 아시아인들의 협력을 꾀할 수 있을 것입니다."
 JAP_invite_alliance_members:0 "군사동맹 공식화"
 JAP_invite_alliance_members_desc:0 "도쿄 회담의 성공과 함께, 이젠 누가 공식적인 군사동맹에 참여할만큼 협조적인지 찾아볼 때가 되었습니다."
 JAP_osaka_conference:0 "오사카 경제사무국"
@@ -273,6 +277,7 @@ JAP_economic_sphere_takeover:0 "[From.GetNameDef] 장악"
 JAP_economic_sphere_takeover_desc:0 "[From.GetNameDef]에 대한 우리의 경제 침투력은 [Root.GetNameDef](을)를 완전히 지배할 정도까지 성장했습니다. [From.GetAdjective] 정부는 이미 우리의 꼭두각시입니다. 이제 남은 것은 독립할 수 있다는 그들의 환상을 체념하는 것 뿐입니다."
 JAP_co_prosperity_member_decisions:0 "일본의 공영권"
 JAP_co_prosperity_member_decisions_desc:0 "공영권은 [JAP.GetNameDef](이)가 주도하는 군사동맹이자 경제협력체이며, 특히 동아시아에 큰 영향력을 투사하고 있습니다. 일본인들은 스스로가 '약간' 제국주의자가 되어서라도 서구 제국주의자들의 침탈에 맞서 싸울 각오가 되었습니다."
+JAP_join_rikagaku_kenkyusho:0 "Join the Riken Research Group"
 JAP_withdraw_from_alliance:0 "군사동맹 탈퇴"
 JAP_withdraw_from_alliance_desc:0 "우리는 더 이상 [JAP.GetNameDef](와)과의 군사동맹이 필요하지 않습니다. 이제 끝낼 차례입니다."
 JAP_withdraw_from_sphere:0 "경제공영권 탈퇴"
@@ -280,14 +285,16 @@ JAP_withdraw_from_sphere_desc:0 "우리에게 주어지는 혜택에도 불구�
 JAP_nationalize_japanese_investments:0 "일본 투자 자본 국유화"
 JAP_nationalize_japanese_investments_desc:0 "[Root.GetNameDef]의 대한 일본 투자자가 많아지면서 많은 우려가 제기되고 있습니다. 터무니 없는 비용이 필요하고 또한 일본 경제공영권에서 완전히 탈퇴해야 할 필요가 있지만, 우리는 그들의 투자를 국유화하고 [Root.GetAdjective] 경제가 저들에게 꼭두각시 수준으로 종속되는 것을 막아야만 합니다."
 
+JAP_member_of_co_prosperity_sphere:0 "Becomes a Member of the §HEast Asian Co-Prosperity Sphere§!\n     Construction Speed: [?0.2|+=%]\n     Resource Gain Efficiency: [?global.sphere_resources_boost_member|+=%]\n     Consumer Goods Factories: [?global.sphere_goods_boost_member|=%0H]"
+
 KR_co_prosperity_sphere_tooltip:0 "§H[GetCoProsperitySphereName]§!\n[GetCoProsperitySphereEffects]"
-KR_co_prosperity_sphere_tooltip_desc:0 "§L[GetCoProsperitySphereDesc]§"
+KR_co_prosperity_sphere_tooltip_desc:0 "§L[GetCoProsperitySphereDesc]§!"
 
 KR_co_prosperity_sphere_name_JAP:0 "대동아 공영권의 대표국"
 KR_co_prosperity_sphere_name:0 "대동아 공영권의 회원국"
 
-KR_co_prosperity_sphere_desc_JAP:0 ""
-KR_co_prosperity_sphere_desc:0 ""
+KR_co_prosperity_sphere_desc_JAP:0 "[GetCoProsperitySphereEffects]"
+KR_co_prosperity_sphere_desc:0 "[GetCoProsperitySphereEffects]"
 
 KR_co_prosperity_sphere_effects_JAP:0 "소비재 공장: [?global.sphere_goods_boost|=%H]\n공장 산출량: [?global.sphere_industry_boost|+=%]\n조선소 산출량: [?global.sphere_industry_boost|+=%]"
 KR_co_prosperity_sphere_effects:0 "건설 속도: [?0.2|+=%]\n자원 획득 효율: [?global.sphere_resources_boost_member|+=%]\n소비재 공장: [?global.sphere_goods_boost_member|=%0H]"
@@ -370,7 +377,7 @@ japfor.8.d:0 "오늘 압둘라시드 이브라힘이라는 이맘(이슬람교�
 japfor.8.a:0 "만나뵈서 반갑습니다, 선생."
 
 japfor.9.t:0 "일본의 지원?"
-japfor.9.d:0 "오늘 일본에서 온 특사가 우리를 위해 특별히 제작된 고성능 무기를 가지고 나타났습니다. 일본이 왜 [Root.GetNameDef]에게 비밀리에 이런 도움을 주고 싶어하는지는 언급하지 않았고, 이 '선물'을 받는 조건이 있는지도 이야기하지 않았습니다. 일본이 이 지역에서 우리와 [event_target:current_chinese_leader.GetNameDef]의 충돌을 이용해 어떤 장난을 치고 있는 걸까요? 조심해야 합니까?"
+japfor.9.d:0 "오늘 일본에서 온 특사가 우리를 위해 특별히 제작된 고성능 무기를 가지고 나타났습니다. 일본이 왜 [Root.GetNameDef]에게 비밀리에 이런 도움을 주고 싶어하는지는 언급하지 않았고, 이 '선물'을 받는 조건이 있는지도 이야기하지 않았습니다. 일본이 이 지역에서 우리와 [current_china_leader.GetNameDef]의 충돌을 이용해 어떤 장난을 치고 있는 걸까요? 조심해야 합니까?"
 japfor.9.a:0 "그들의 도움을 받는다."
 japfor.9.b:0 "아니, 이런 건 필요 없다."
 
@@ -739,7 +746,7 @@ japfor.180.a:0 "우리는 항복해야한다."
 japfor.180.b:0 "우리는 싸울 것이다!"
 
 japfor.181.t:0 "고개숙인 네덜란드!"
-japfor.181.d:0 "한심한 네덜란드인은 우리의 영광스러운 군대를 맞이하자 스스로 굽혔고 우리의 요구에 굴복했습니다! 이제 인도네시아는 우리의 전면적인 통제하에 들어갔고, 식민지 정권의 이양이 시작됐습니다."
+japfor.181.d:0 "한심한 네덜란드인은 우리의 영광스러운 군대를 맞이하자 스스로 굽혔고 우리의 요구에 굴복했습니다! 이제 인술인디아는 우리의 전면적인 통제하에 들어갔고, 식민지 정권의 이양이 시작됐습니다."
 japfor.181.a:0 "반자이!"
 
 japfor.182.t:0 "네덜란드의 저항!"
@@ -751,13 +758,13 @@ japfor.183.t:0 "일본의 철회!"
 japfor.183.d:0 "기적이 일어났습니다! 우리의 단호한 거절에 놀란 일본인들은 그들의 요구를 철회하고 우리를 내버려 두기로 결정했습니다! 축하할 일입니다!"
 japfor.183.a:0 "만세!"
 
-japfor.184.t:0 "인도네시아 함락"
+japfor.184.t:0 "인술인디아 함락"
 japfor.184.d:0 "일본인은 대부분의 동인도 식민지를 점령했고 식민지 주둔군은 패배했습니다. 우리는 일본 해군을 상대로 승리하기를 기대할 수 없어 보입니다. 외교 당국의 몇몇은 평화협정을 맺고 일본인에게 항복 할 것을 제안했습니다."
 japfor.184.a:0 "우리는 이길 수 없다..."
 japfor.184.b:0 "아직 끝난 게 아니다!"
 
 japfor.185.t:0 "네덜란드의 평화 요청!"
-japfor.185.d:0 "우리의 우월한 군대에 압도당한 네덜란드는 우리에게 평화를 구걸하고 있습니다. 그들은 우리에게 인도네시아의 식민지 전부를 제공한다고 합니다. 어떻게 반응해야 할까요?"
+japfor.185.d:0 "우리의 우월한 군대에 압도당한 네덜란드는 우리에게 평화를 구걸하고 있습니다. 그들은 우리에게 인술인디아의 식민지 전부를 제공한다고 합니다. 어떻게 반응해야 할까요?"
 japfor.185.a:0 "좋아! 위대한 승리를 축하해라!"
 japfor.185.b:0 "우리가 암스테르담에서 행진할 때까지 평화는 없다!"
 
@@ -771,7 +778,7 @@ japfor.187.a:0 "평화 조약의 초안을 작성해라."
 japfor.187.b:0 "우리는 그들을 물리칠수 있다."
 
 japfor.188.t:0 "독일의 평화 요청!"
-japfor.188.d:0 "우리의 우월한 군대에 압도당한 독일은 우리에게 평화를 구걸하고 있습니다. 그들은 우리에게 인도네시아의 식민지 전부와 자신들의 식민지 일부를 제공한다고 합니다. 어떻게 반응해야 할까요?"
+japfor.188.d:0 "우리의 우월한 군대에 압도당한 독일은 우리에게 평화를 구걸하고 있습니다. 그들은 우리에게 인술인디아의 식민지 전부와 자신들의 식민지 일부를 제공한다고 합니다. 어떻게 반응해야 할까요?"
 japfor.188.a:0 "아주 좋아! 훌륭한 승리다!"
 japfor.188.b:0 "우리는 완전한 항복만을 승낙하겠다!"
 
@@ -782,24 +789,24 @@ japfor.189.a:0 "망할!"
 japfor.190.t:0 "일본의 요구"
 japfor.190.d:0 "우리는 일본으로부터 그들의 군대에 대한 완전한 항복과 우리 영토를 그들의 군사 지휘부로 이전할 것을 요구하는 전보를 받았습니다. 그들의 해군이 우리 해안에 배치되고 있다는 보고를 받았습니다. 우리 스스로의 힘으로는 그들을 물리칠 수 있는 방법이 없습니다. 어떻게 해야 할까요?"
 
-japfor.191.t:0 "인도네시아의 지지 요청!"
-japfor.191.d:0 "지난 주 일본인들은 인도네시아에 정식으로 합병할 것을 요구했습니다. 인도네시아인들은 일본의 공격으로부터 자신들을 지켜달라고 요청했습니다. 만약 일본인들이 인도네시아를 합병한다면, 말라야와 파푸아뉴기니에 있는 우리의 식민지에 위험할 정도로 가까워질 것입니다. 우리 어떻게 해야합니까?"
+japfor.191.t:0 "인술인디아의 지지 요청!"
+japfor.191.d:0 "지난 주 일본인들은 인술인디아에 정식으로 합병할 것을 요구했습니다. 인술인디아인들은 일본의 공격으로부터 자신들을 지켜달라고 요청했습니다. 만약 일본인들이 인술인디아를 합병한다면, 말라야와 파푸아뉴기니에 있는 우리의 식민지에 위험할 정도로 가까워질 것입니다. 우리 어떻게 해야합니까?"
 
-japfor.192.t:0 "독일의 인도네시아 지지"
-japfor.192.d:0 "비겁한 인도네시아인들은 독일의 보호아래로 들어갔고, 지금은 그들의 동맹의 일부가 되었습니다. 이런 무례함은 처벌받지 않을 수 없습니다!"
+japfor.192.t:0 "독일의 인술인디아 지지"
+japfor.192.d:0 "비겁한 인술인디아인들은 독일의 보호아래로 들어갔고, 지금은 그들의 동맹의 일부가 되었습니다. 이런 무례함은 처벌받지 않을 수 없습니다!"
 
-japfor.195.t:0 "고개숙인 인도네시아!"
-japfor.195.d:0 "한심한 인도네시아인들은 우리의 영광스러운 군대를 맞이하자 스스로 굽혔고 우리의 요구에 굴복했습니다! 이제 우리는 인도네시아의 전면적인 통제에 들어갔고, 행정부의 이전이 시작됐습니다."
+japfor.195.t:0 "고개숙인 인술인디아!"
+japfor.195.d:0 "한심한 인술인디아인들은 우리의 영광스러운 군대를 맞이하자 스스로 굽혔고 우리의 요구에 굴복했습니다! 이제 우리는 인술인디아의 전면적인 통제에 들어갔고, 행정부의 이전이 시작됐습니다."
 
-japfor.196.t:0 "인도네시아의 저항!"
-japfor.196.d:0 "건방진 인도네시아인들은 우리의 요구를 거절했고, 이제 우리의 막강한 군대와 싸울 준비를 하고 있습니다! 우리는 해군을 보내서 그들이 원래 있어야 할 곳으로 되돌려보낼 것입니다!"
+japfor.196.t:0 "인술인디아의 저항!"
+japfor.196.d:0 "건방진 인술인디아인들은 우리의 요구를 거절했고, 이제 우리의 막강한 군대와 싸울 준비를 하고 있습니다! 우리는 해군을 보내서 그들이 원래 있어야 할 곳으로 되돌려보낼 것입니다!"
 japfor.196.a:0 "그들을 부숴버려라!"
 
 japfor.199.t:0 "일본의 승리"
-japfor.199.d:0 "일본은 우리의 식민지 주둔군과 인도네시아군대를 무찌르고, 이제는 우리 영토를 점령하고 있습니다. 잠재적으로 계속해서 싸울 수는 있지만 그렇게 하는 것은 비용이 많이들고 전쟁 자산의 전환이 필요합니다. 우리는 그들에게 평화의 대가로 땅을 제공할 수 있습니다."
+japfor.199.d:0 "일본은 우리의 식민지 주둔군과 인술인디아군대를 무찌르고, 이제는 우리 영토를 점령하고 있습니다. 잠재적으로 계속해서 싸울 수는 있지만 그렇게 하는 것은 비용이 많이들고 전쟁 자산의 전환이 필요합니다. 우리는 그들에게 평화의 대가로 땅을 제공할 수 있습니다."
 
 japfor.200.t:0 "독일의 평화 요청!"
-japfor.200.d:0 "우리의 우월한 군대에 압도당한 독일은 우리에게 평화를 구걸하고 있습니다. 그들은 우리에게 인도네시아 전체와 자신들의 식민지 일부를 제공한다고 합니다. 어떻게 반응해야 할까요?"
+japfor.200.d:0 "우리의 우월한 군대에 압도당한 독일은 우리에게 평화를 구걸하고 있습니다. 그들은 우리에게 인술인디아 전체와 자신들의 식민지 일부를 제공한다고 합니다. 어떻게 반응해야 할까요?"
 
 japfor.202.t:0 "봉천 은 위기"
 japfor.202.d:0 "일본에서 가장 큰 은행인 일본은행과 미쓰이은행이 봉천 중앙은행에게 대출금 상환을 요청하자 중앙은행은 '설명하기는 어렵지만 은이 부족하다'며 채무를 이행하지 않았습니다. 이 은 부족의 원인이 무능하고 잘못된 경영 때문인지, 아니면 그보다 더 불길한 무언가 때문인지 분명하게 말할 수 없지만, 봉천 정부가 심각한 경제상황에 처해 있다는 것과 우리에게 도움을 요청했다는 것은 명백한 사실입니다. \n\n 우리는 영향력을 이용해 봉천에게 다른 무엇보다도 미쓰이은행과 일본은행에게 먼저 채무를 지불하라고 말할 수 있지만, 봉천 정부는 합법성에 대한 그들의 주장과 자선에 대한 우리의 주장을 심각하게 뒤집을 것입니다. 그럼에도 우리는 그들을 구제할 수 있습니다."
@@ -1060,11 +1067,11 @@ japfor.458.t:0 "독일의 보호 거절!"
 japfor.458.d:0 "독일은 동인도의 식민지를 보호하는것이 그들에게 이익이 되지 않음을 통보해왔습니다. 우리 홀로 맞서야 할 것 같습니다."
 japfor.458.a:0 "동인도는 우리끼리도 막아낼 수 있어, 그렇지?"
 
-japfor.459.t:0 "홀로 맞서는 인도네시아"
-japfor.459.d:0 "도움을 받지 못한건지 그럴 의지가 없었는지 모르겠지만, 인도네시아는 홀로 맞설 준비를 하고 있습니다. 그들의 군대는 우리에 비해 보잘것없는 수준이고 지휘관들도 약해빠졌습니다. 아무도 우릴 막을 수 없을 것입니다."
+japfor.459.t:0 "홀로 맞서는 인술인디아"
+japfor.459.d:0 "도움을 받지 못한건지 그럴 의지가 없었는지 모르겠지만, 인술인디아는 홀로 맞설 준비를 하고 있습니다. 그들의 군대는 우리에 비해 보잘것없는 수준이고 지휘관들도 약해빠졌습니다. 아무도 우릴 막을 수 없을 것입니다."
 japfor.459.a:0 "만세!"
 
-japfor.460.t:0 "독일과 함께 저항하는 인도네시아"
+japfor.460.t:0 "독일과 함께 저항하는 인술인디아"
 japfor.460.d:0 "독일은 네덜란드령 동인도를 우리로부터 보호하는걸 돕기로 했습니다. 그에 상관없이 공격할 수는 있겠지만, 과연 그런 전쟁을 시작해도 되는지 신중하게 고려할 필요가 있습니다."
 japfor.460.a:0 "신경쓰지 마라. 어차피 넘어야 할 산이다."
 japfor.460.b:0 "아무래도 지금은 때가 아닌 것 같군."

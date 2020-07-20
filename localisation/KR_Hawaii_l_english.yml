@@ -63,8 +63,6 @@ HAW_international_advisors_idea:0 "생디칼리스트 고문"
 HAW_producing_ship:0 "함선 건조"
 HAW_bought_ship:0 "해외 함선 구매"
 
-
-
 ### Tooltips ###
 HAW_foreign_economic_advisers_tooltip:0 "§M우리는 자립하기 위해 외국 경제 고문들을 초대할 것입니다§M"
 HAW_foreign_investments_tooltip:0 "§M우리는 하와이에 투자할 외국인 투자자를 구할 것입니다§M"
@@ -73,10 +71,10 @@ HAW_buy_destroyers_tooltip:0 "§M우리는 구축함을 살 국가들을 찾을 
 HAW_destroyer_arrives_tooltip:0 "우리가 구매한 구축함이 도착했습니다"
 HAW_light_cruiser_arrives_tooltip:0 "우리가 구매한 경순양함이 도착했습니다"
 
-
-
-
 ### Decisions ###
+JAP_hold_hawaii:0 "Maintain Control of Hawaii"
+JAP_hold_hawaii_desc:0 "With the Hawaiian defences shattered, and the islands fully under our control, it's just a matter of time until their allies give up the fight. However, we must hold the islands against any possible counterattacks, lest their recovery embolden their resistance against us."
+
 HAW_foreign_policy_decisions:0 "대외정책 결정"
 HAW_foreign_policy_decisions_desc:0 "우리는 태평양 한가운데서 적들에게 둘러싸여 있습니다. 우리가 살아남으려면 우리는 강대국과 협력해야 할 것입니다. 문제는 누구와 협력하는가 입니다."
 HAW_join_entente:0 "협상국 가입"
@@ -84,8 +82,6 @@ HAW_join_loas:0 "Join the League of American States"
 HAW_join_international:0 "인터내셔널 가입"
 HAW_join_germany:0 "제국조약 가입"
 HAW_join_japan:0 "공영권 가입"
-HAW_join_german_tech:0 "Join the Kaiser Wilhelm Society"
-HAW_join_japan_tech:0 "Join the Rikagaku Kenkyusho"
 
 HAW_economic_decisions:0 "경제정책 결정"
 HAW_economic_decisions_desc:0 "우리는 산업이 발전하지 못한 작은 섬나라입니다. 우리 경제를 부흥시키려면 정부 지원과 섬에 대한 투자를 위해 외국인들을 끌어모아야합니다."
@@ -315,7 +311,7 @@ HAW_thriving_economy_desc:0 "Against all odds, we have achieved economic self-su
 
 ### Naval Focuses ###
 HAW_navy:0 "Assess the Navy"
-HAW_navy_desc:0 "The Hawaii Navy was heavily or entirely reliant on Us support. With loyalists in Honolulu dedicated to protecting the pacific above their orders to retreat to the mainland. We honor their self-sacrifice."
+HAW_navy_desc:0 "The Hawaiian Navy was heavily or entirely reliant on US support. With loyalists in Honolulu dedicated to protecting the Pacific above their orders to retreat to the mainland, we should work on improving our capabilities."
 HAW_grand_navy:0 "하와이 대해군"
 HAW_grand_navy_desc:0 "The Great White Fleet was the height to American naval power, though it was used for imperial expansion. As a sovereign nation we will outdo the mainland with a Grand Navy of mutual protection, instead of imperial incursion."
 HAW_battleships:0 "Battle Cruiser Efforts"
@@ -709,6 +705,20 @@ hawaii.110.t:0 "일본이 거절하다"
 hawaii.110.d:0 "The [From.GetAdjective] government has refused our request to join their alliance. Perhaps we are not good enough for their measure, or unworthy as an ally. Either way, the answer was clearly no."
 hawaii.110.a:0 "망할 일본 같으니."
 
+hawaii.111.t:0 "Peace with [JAP.GetNameDef]?"
+hawaii.111.d:0 "Hawaii has been lost to the Japanese war machine, and six months have passed without any inroads into recovering the islands. Perhaps it would be better to cut our losses and seek peace with [JAP.GetNameDef] - surely tiny Hawaii isn't worth the costs of this war?"
+hawaii.111.a:0 "Yes, let us end this."
+hawaii.111.b:0 "We will not abandon our allies!"
+
+hawaii.112.t:0 "Peace with [FROM.GetNameDef]?"
+hawaii.112.d:0 "Even though Hawaii is now firmly under our control, their allies in the [FROM.GetFactionName] have yet to concede defeat... until now. We have received a missing from the [FROM.GetAdjective] ambassador, offering to end this war in exchange for recognising our control over Hawaii. With neither side being able to effectively contest the other, this seems like an acceptable offer."
+hawaii.112.a:0 "We are victorious once again."
+hawaii.112.b:0 "There will be no peace with Western imperialists!"
+
+hawaii.113.t:0 "[FROM.GetNameDef] Refuses Peace"
+hawaii.113.d.JAP:0 "Despite our hopes that [FROM.GetNameDef] and the [FROM.GetFactionName] would see the futility of trying to protect Hawaii against our mighty navy, it seems that they are yet to realise this. Already the [FROM.GetAdjective] government has stated their resolve to see Hawaii protected against \"Japanese aggression\"."
+hawaii.113.d.other:0 "Despite our generous offer, the [FROM.GetAdjective] government has categorically refused any notion of peace with our alliance, denigrating our offer as \"bowing down to Western imperialism\". [FROM.GetNameDefCap] has vowed to continue this war until we are ready for peace on \"their terms\" - whatever those may be."
+hawaii.113.a:0 "The war continues..."
 
 #########################################
 #Army General Descriptions By Drozdovite#
