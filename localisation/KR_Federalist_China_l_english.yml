@@ -31,6 +31,7 @@ POLITICS_UPC_ZHANG_TIANRAN_DESC:0 ""
 
 ### Ideas ###
 UPC_corruption:0 "부패 문제"
+UPC_federal_authority_0:0 "연방 권위 부재"
 UPC_federal_authority_1:0 "매우 낮은 연방 권위"
 UPC_federal_authority_2:0 "낮은 연방 권위"
 UPC_federal_authority_3:0 "중간 연방 권위"

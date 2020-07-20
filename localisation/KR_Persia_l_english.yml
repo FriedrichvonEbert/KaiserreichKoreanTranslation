@@ -26,6 +26,9 @@ PER_national_populist_party_long:0 "Hezb-e Pān Irānist"
 # should be Ḥezb-e Pān Irānist but the first Ḥ doesnt work
 
 ### Tooltips ###
+PER_bad_military_french_help_tooltip:0 "Modify §HDisorganised Military§! by\nLand Doctrine Research Speed: [?0.4|+=%0]\n\n"
+
+### Focuses ###
 PER_shah_is_dead_press_f:0 "샤의 승하!"
 PER_shah_is_dead_press_f_desc:0 "오늘 아침 6시 30분에 [PER.GetNameDef]의 샤 아흐마드 카자르께서 마지막 숨을 몰아쉬었습니다.샤의 건강상 합병증과 암살 시도로 인한 상처때문에 샤의 죽음은 어느 누구에게도 놀라운 일이 아니지만,샤의 죽음은 [PER.GetNameDef] 곳곳에서 수많은 정치적 혼란를 가져올 것이기 때문에 [PER.GetNameDef]들은 동요하고있습니다.샤의 죽음에 이은 사건들은 이미 움직이고 있습니다.
 PER_long_live:0 "샤여 영원하라!"
@@ -57,7 +60,7 @@ PER_stronk_parliament_desc:0 "의회는 입헌혁명 이후 줄곧 권력을 축
 PER_uproot_aristos:0 "귀족을 뿌리뽑다"
 PER_uproot_aristos_desc:0 "비록 우리가 국가 전역을 거의 지배하고 있지만, 정치에의 귀족의 영향력이 아직 강합니다. 새로운 법을 제정하고 개혁을 추진함으로써 우리는 그들의 권력을 제한할 수 있을 것입니다."
 PER_nedaye_socialism:0 "네데이 사회주의"
-PER_nedaye_socialism_desc:0 "이제 [PER.GetNameDef](이)가 진정한 믿음을 따를 때가 왔습니다: 바로 사회주의입니다. 1905년부터 [PER.GetAdjective]에는 좌익 정치세력이 존재해왔습니다. 우리는 러시아 내전에 참전할 수 있으며, 필요하다면 그렇게 할 것입니다. 그동안 우리는 많은 실패를 겪었고, 마침내 때가 왔습니다. 우리 국가와 세계인들을 위해 우리는 사회주의의 부름에 응답해야 합니다! 네데이 사회주의 만세!"
+PER_nedaye_socialism_desc:0 "It is time for [PER.GetNameDef] to follow its true calling: Socialism. Since 1905 [PER.GetAdjective]s have had an active presence in the left leaning political movements, even participating in the Russian civil war on the side of the reds. Today, after many years and many failures it's finally time to answer the Calling of Socialism! Nedaye Socialism!"
 PER_evolution:0 "진화"
 PER_evolution_desc:0 "우리나라는 수 세기 동안 고통을 겪어왔습니다. 이제 모든 사람의 요구를 받아들여 우리나라의 시스템과 정책을 개혁해야 합니다. 모든 것을 처음부터 끝까지 개혁해야 할 것처럼 보이지만, 우리 정부는 유연하고, 거대한 개혁도 견뎌낼 수 있을 것입니다."
 PER_integrate_burgie:0 "자본가를 개혁하다"
@@ -101,7 +104,7 @@ PER_mandatory_nezam_desc:0 "우리나라는 적들로 둘러싸여 있습니다.
 PER_tehran_uni:0 "[266.GetName] 대학"
 PER_tehran_uni_desc:0 "아미르 카비르에 의해 만들어진 Dar ul Fununs은 [PER.GetNameDef]의 고등교육을 담당해왔으나, 신세대 엘리트를 양성하기엔 충분히 현대적이지 않습니다. 우리는 이를 확장해야 합니다. 우리는 서구의 다른 대학들을 참고하여 우리의 첫 현대적 대학교를 만들어야 합니다."
 PER_tribal_appeasment:0 "부족 유화정책"
-PER_tribal_appeasment_desc:0 "수 세기 동안 [PER.GetNameDef]의 부족민의 존재는 축복이자 저주였습니다. 그들이 충성을 다하면 그들은 우리에게 큰 도움이 되는 반면 그렇지 않을 경우... 그들은 큰 재앙이었습니다. 우리는 지금까지 강력한 중앙정부의 부재로 인해 독립적으로 움직였던 지방 부족들을 정부의 권력에 복종하게 해야 합니다. 우리는 강철 주먹으로 그들을 복속시킬 것이고 정부에 다시금 대항하지 못하게 만들 것입니다."
+PER_tribal_appeasment_desc:0 "수 세기 동안 [PER.GetNameDef]내 부족민의 존재는 축복이자 저주였습니다. 그들이 충성을 다하면 그들은 우리에게 큰 도움이 되는 반면 그렇지 않을 경우... 그들은 큰 재앙이었습니다. 우리는 지금까지 나약한 지방정부로 인해 독립적으로 움직였던 지방 부족들을 정부의 권력에 복종하게 해야 합니다. 우리는 강철 주먹으로 그들을 복속시킬 것이고 정부에 다시금 대항하지 못하게 만들 것입니다."
 PER_child_labour_nope:0 "아동노동법"
 PER_child_labour_nope_desc:0 "얼핏 보기에 아이들에게 일을 시키는 것이 우리나라에 이익이 될 수도 있지만, 우리는 아이들에겐 일할 의무가 없다는 사실을 잊어선 안됩니다. 아이들은 건강하고 화기애애한 분위기에서 자라야 하고, 훌륭한 사람이 되기 위해 학교에서 교육을 받아야 합니다. 아동노동법을 통해 우리는 어떤 형태의 아동노동도 금지시킬 것입니다."
 PER_women_rights:0 "여성의 권리"
@@ -206,6 +209,14 @@ PER_iran_airspace:0 "이란 영공"
 PER_iran_airspace_desc:0 "우리 영공을 지배하기 위해서 더 나은 항공기를 생산해야 합니다."
 PER_radar:0 "레이더 수입과 설치"
 PER_radar_desc:0 "영공을 지배하기 위해 적기를 탐지할 수 있는 레이더를 설치해야 합니다. 우리는 이란의 요충지 곳곳에 레이더 기지를 설치하기 위해 외국과 접촉할 수 있습니다."
+
+### Scripted Localization ###
+PER_franavaltext_yes:0 "With our important strategic location, we need a strong navy to protect our nation and trade. Currently as it stands, [PER.GetNameDef]'s navy is a mish mash of fishing boats and in order to have a formidable regional navy first we need to train naval officers. The French Commune having access to the old French Republics navy is a good choice to have our officers trained at."
+PER_franavaltext_no:0 "Though the Commune has fallen, the naval tradition it cultivated is a model for the socialist nations of the world. Let us direct substantial state resources to adapting the doctrine of the Commune."
+PER_gernavaltext_yes:0 "With our important strategic location, we need a strong navy to protect our nation and trade. Currently as it stands, [PER.GetNameDef]'s navy is a mish mash of fishing boats and in order to have a formidable regional navy first we need to train naval officers. The German Empire with its grand navy is a good choice to have our officers trained at."
+PER_gernavaltext_no:0 "Though the German Empire has fallen, the naval tradition it cultivated is a model for the nations of the world. Let us direct substantial state resources to adapting the doctrine of the German Navy."
+PER_swenavaltext_yes:0 "With our important strategic location, we need a strong navy to protect our nation and trade. Currently as it stands, [PER.GetNameDef]'s navy is a mish mash of fishing boats and in order to have a formidable regional navy first we need to train naval officers. Sweden being neutral in world affairs and a formidable navy, is a good choice for us in order to good officers trained and not get tangled in world affairs."
+PER_swenavaltext_no:0 "Though Sweden has fallen, the naval tradition it cultivated is a model for the nations of the world. Let us direct substantial state resources to adapting the doctrine of the Swedes."
 
 ### Ideas ###
 

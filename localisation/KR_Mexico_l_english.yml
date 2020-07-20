@@ -303,7 +303,7 @@ MEX_improve_native_rights_desc:0 "우리나라의 원주민들은 멕시코가 �
 MEX_education_improvement:0 "교육기금조성"
 MEX_education_improvement_desc:0 "멕시코의 교육 예산은 국가적 관심사에서 언제나 부차적인 것이 되어 왔습니다. 하지만, 이제 우리가 정권을 잡았으니, 우리는 더 나은 멕시코를 이루기 위해 그들의 자금을 늘려야 할 필요를 느낍니다."
 MEX_moderate_land_reform:0 "중도적인 토지 개혁"
-MEX_moderate_land_reform_desc:0 "많은 사람들이 사파타의 토지 개혁에 기뻐했지만, 그는 자신들의 토지 내에서 살면서 노동자들과 긴밀하게 일하는 작은 토지 소유자들에게 속한 토지를 몰수하였습니다. 우리는 이것이 정당한 조치라고 생각하지 않지만, 토지 개혁은 필요하다고 생각합니다. 그러므로 우리는 토지 개혁 노력을 계속하되, 토지 소유자들이 현재 소유하는 토지의 일부를 소유할 수 있는 권리를 보장할 것입니다."
+MEX_moderate_land_reform_desc:0 "While many were happy with Zapata's land reform, he expropriated lands from even the most upstanding small-landowners. We do not consider this a just move, yet we consider a land reform necessary. So, we shall continue the land reform efforts but assuring certain landowners the rights of keeping some of the land they now possess if they live and work there."
 MEX_union_support:0 "조합 지원"
 MEX_union_support_desc:0 "조합의 지지가 없다면, 우리의 개혁은 대부분 상징적일 것입니다. 우리는 CGT와 CROM에서 더 큰 지지층을 확보하여 공동 지지로 개혁을 더욱 진전시킬 수 있기를 바랍니다."
 MEX_industralization:0 "산업화"
@@ -313,7 +313,7 @@ MEX_promote_trade_desc:0 "인류가 시작된 이래로, 번영과 발전은 항
 MEX_social_welfare:0 "새로운 학교들"
 MEX_social_welfare_desc:0 "우리는 교육 예산을 늘렸지만 문맹 문제에 돈을 쏟아붓는 것만으로는 문제를 해결하지 못할 것입니다. 우리나라의 많은 시골 마을에는 교사들이 있지만 큰 집이나 야외에서 공부하도록 강요됩니다. 우리는 멕시코 전역에 새 학교를 짓기 시작할 것이며 이것은 개선될 수밖에 없습니다."
 MEX_mexican_socialism:0 "멕시코 사회주의"
-MEX_mexican_socialism_desc:0 "멕시코 사회는 복잡합니다. 보수적이고 진보적인 도시들과 시민들은 모두 서로를 돕기를 원하지만, 둘 다 상대방이 그들을 억압하기를 원하는 것을 두려워합니다. 우리는 유럽의 사회주의자들이 가지고 있는 전통적인 '투쟁 계급'을 가지고 있지 않습니다. 이를 위해 우리는 멕시코 사회가 직면한 현실에 적응할 수 있는 우리만의 사회주의를 만들기 위해 노력할 것입니다."
+MEX_mexican_socialism_desc:0 "Mexican society is complex. There are plenty of both conservative and progressive towns and citizens that, while wishing to help one another, fear each other. As such, we don't have the conventional 'Class struggle' that the socialists in Europe have. Provided this, we shall strive to create our own version of socialism, one that can adapt to the realities that the Mexican society faces."
 MEX_strengthen_congress:0 "의회 권한 강화"
 MEX_strengthen_congress_desc:0 "최근 대통령들이 대부분의 일을 했지만, 우리가 진정으로 현대 민주주의 국가가 되기를 원한다면, 우리는 국민이 요구하는 변화를 제공할 수 있는 진정한 대표 의회를 만들기 위해 노력해야 합니다. 우리는 의회가 그렇게 할 수 있도록 힘을 실어줄 것입니다. 그래야 우리나라가 민주적 개념을 진정으로 받아들일 수 있습니다."
 MEX_bread_and_roses:0 "빵과 장미"
@@ -448,7 +448,7 @@ MEX_die_standing_desc:0 "멕시코 땅은 단 1미터도 반혁명군과 제국�
 MEX_legacy_of_the_revolution:0 "혁명의 유산"
 MEX_legacy_of_the_revolution_desc:0 "멕시코 혁명은 우리 대륙의 최근 역사에서 가장 큰 군사 작전 중 하나였습니다. 거대한 규모와 더불어, 멕시코는 새로운 군사 전술과 무기를 도입했습니다. 우리는 전쟁에서 얻은 교훈에 따라 우리 군대를 증강해야 합니다."
 MEX_improve_soldiers:0 "개선된 장교 교육"
-MEX_improve_soldiers_desc:0 ""
+MEX_improve_soldiers_desc:0 "In this age of modern warfare, it is imperative that we update the training methods we use for our officers and army leaders."
 MEX_desert_training:0 "사막 훈련"
 MEX_desert_training_desc:0 "아메리카 대륙에서 우리의 가장 큰 라이벌 중 하나는 멕시코의 자유를 침해하려는 미국입니다. 멕시코와 미국의 국경지역은 대부분 사막과 건조한 산으로 이루어져 있습니다. 그래서 우리는 우리의 군인들이 이런 적대적인 환경에서 미군의 활동을 중단할 수 있도록 훈련시켜야 합니다."
 MEX_jungle_training:0 "정글 훈련"
@@ -588,12 +588,6 @@ mexico.7.a:0 "그들은 반역자의 죽음을 마주하게 될 것이다"
 mexico.8.t:0 "사파타의 장례식"
 mexico.8.d:0 "오늘, 멕시코 시티에서 에밀리아노 사파타의 대규모 장례식이 있었습니다. 쓰러진 대통령을 기념하기 위해 거의 모든 가게가 문을 닫았습니다. 모두가 비통해하며 죽은 영웅을 애도하고 있습니다. 이것은 특히 쓰러진 지도자에 대한 그들의 감정을 보여주기 위해 도시로 온 가난한 시골 사람들이 특히 그러합니다."
 mexico.8.a:0 "그는 우리의 발밑에 잠들었다"
-
-mexico.9.t:0 ""
-mexico.9.d:0 ""
-mexico.9.a:0 ""
-mexico.9.b:0 ""
-
 
 ### Calles / Maximato Events ###
 mexico.10.t:0 "종교활동법"
@@ -793,22 +787,6 @@ mexico.52.d:0 "멕시코 군대는 농민군이 주둔하고 있는 셀라야 �
 mexico.52.a:0 "농민군이 승리하였다."
 mexico.52.b:0 "멕시코 군대가 승리하였다."
 
-mexico.53.t:0 ""
-mexico.53.d:0 ""
-mexico.53.a:0 ""
-
-mexico.55.t:0 ""
-mexico.55.d:0 ""
-mexico.55.a:0 ""
-
-mexico.56.t:0 ""
-mexico.56.d:0 ""
-mexico.56.a:0 ""
-
-mexico.57.t:0 ""
-mexico.57.d:0 ""
-mexico.57.a:0 ""
-
 mexico.58.t:0 "농민 전쟁 - [attack_state.GetName]"
 mexico.58.d:0 "[attack_state.GetName]지역에서 멕시코 군대뿐만 아니라 농민군의 목숨까지 앗아가는 전투가 있었습니다. 이것은 단지 농민군의 테러분자들에 대한 피비린내 나는 싸움에서의 한 전투일 뿐입니다. 이 전투에서의 승자는..."
 mexico.58.a:0 "멕시코군"
@@ -821,8 +799,6 @@ mexico.59.a:0 "혁명을 지켜내었다"
 mexico.60.t:0 "농민 전쟁 - 연방정부의 승리"
 mexico.60.d:0 "반란군들은 처리되었고 질서는 회복되었습니다. [MEX.GetLeader]는 대부분의 사람들에게서 반란을 종식시키고 국가의 법과 질서를 회복시킨 영웅으로 멕시코 전역에서 기념되고 있습니다."
 mexico.60.a:0 "질서가 회복되었다"
-
-
 
 ### Military Junta and Auth-Dem ###
 
@@ -870,45 +846,6 @@ mexico.70.t:0 "유카탄이 계속해서 싸우다"
 mexico.70.d:0 "유카테크는 사파타의 법을 회복하고 반역자들을 처벌하려는 우리의 노력에도 불구하고 그들은 오히려 독립을 위해 투쟁하기로 결정했습니다. 아주 좋습니다. 유카탄은 곧 진압될 것입니다"
 mexico.70.a:0 "그들은 파괴될 것이다"
 
-mexico.71.t:0 ""
-mexico.71.d:0 ""
-mexico.71.a:0 ""
-
-mexico.72.t:0 ""
-mexico.72.d:0 ""
-mexico.72.a:0 ""
-
-mexico.73.t:0 ""
-mexico.73.d:0 ""
-mexico.73.a:0 ""
-
-mexico.74.t:0 ""
-mexico.74.d:0 ""
-mexico.74.a:0 ""
-
-mexico.75.t:0 ""
-mexico.75.d:0 ""
-mexico.75.a:0 ""
-
-mexico.76.t:0 ""
-mexico.76.d:0 ""
-mexico.76.a:0 ""
-
-mexico.77.t:0 ""
-mexico.77.d:0 ""
-mexico.77.a:0 ""
-
-mexico.78.t:0 ""
-mexico.78.d:0 ""
-mexico.78.a:0 ""
-
-mexico.79.t:0 ""
-mexico.79.d:0 ""
-mexico.79.a:0 ""
-
-mexico.80.t:0 ""
-mexico.80.d:0 ""
-mexico.80.a:0 ""
 ### Military Democracy ###
 
 mexico.81.t:0 "[GetYear]년 대통령 선거"
@@ -927,62 +864,6 @@ mexico.84.t:0 "연방 의회"
 mexico.84.d:0 "포르피리오 디아스의 통치 기간에 그는 멕시코를 위한 거대한 새 연방 의회를 지을 계획을 가지고 있었습니다. 하지만, 혁명은 이 계획을 오랫동안 지연시켜 왔습니다. 하지만 먼지는 오래전에 가라앉았으니, 우리는 이 일을 끝낼 수 있고, 세상이 놀랄만한 의회를 만들 수 있습니다."
 mexico.84.a:0 "드디어 끝났군"
 
-mexico.85.t:0 ""
-mexico.85.d:0 ""
-mexico.85.a:0 ""
-
-mexico.86.t:0 ""
-mexico.86.d:0 ""
-mexico.86.a:0 ""
-
-mexico.87.t:0 ""
-mexico.87.d:0 ""
-mexico.87.a:0 ""
-
-mexico.88.t:0 ""
-mexico.88.d:0 ""
-mexico.88.a:0 ""
-
-mexico.89.t:0 ""
-mexico.89.d:0 ""
-mexico.89.a:0 ""
-
-mexico.90.t:0 ""
-mexico.90.d:0 ""
-mexico.90.a:0 ""
-
-mexico.91.t:0 ""
-mexico.91.d:0 ""
-mexico.91.a:0 ""
-
-mexico.92.t:0 ""
-mexico.92.d:0 ""
-mexico.92.a:0 ""
-
-mexico.93.t:0 ""
-mexico.93.d:0 ""
-mexico.93.a:0 ""
-
-mexico.94.t:0 ""
-mexico.94.d:0 ""
-mexico.94.a:0 ""
-
-mexico.96.t:0 ""
-mexico.96.d:0 ""
-mexico.96.a:0 ""
-
-mexico.97.t:0 ""
-mexico.97.d:0 ""
-mexico.97.a:0 ""
-
-mexico.98.t:0 ""
-mexico.98.d:0 ""
-mexico.98.a:0 ""
-
-mexico.99.t:0 ""
-mexico.99.d:0 ""
-mexico.99.a:0 ""
-
 ### National Populist events ###
 
 mexico.100.t:0 "전통 vs 라 라자"
@@ -996,18 +877,6 @@ mexico.101.a:0 "다니엘 코시오 빌레가스"
 mexico.101.b:0 "호세 드 레온 토랄"
 mexico.101.c:0 "빅토리아노 라미레즈"
 
-mexico.102.t:0 "텍사스 지명 변경"
-mexico.102.d:0 "이제 텍사스를 장악했으니 모든 사람들이 텍사스가 테하스라는 것을 알도록 해야 합니다."
-mexico.102.a:0 "우리는 테하스를 지배한다!"
-
-mexico.103.t:0 "뉴 멕시코 지명 변경"
-mexico.103.d:0 "우리는 뉴 멕시코의 이름을 스페인식으로 바꿀 것입니다."
-mexico.103.a:0 "누에보 멕시코는 우리의 통제하에 있다"
-
-mexico.104.t:0 "캘리포니아 지명 변경"
-mexico.104.d:0 "알타 캘리포니아를 마침내 우리가 되찾았으며 우리는 이것을 세계에 알릴 것입니다."
-mexico.104.a:0 "알타 캘리포니아가 다시 우리의 통제하에 있다"
-
 mexico.105.t:0 "알라모 파괴"
 mexico.105.d:0 "알라모는 산타 안나의 패배와 테하스 주를 잃었을 때 그가 멕시코로 가져온 치욕의 상징입니다. 이 수치심이 영원히 잊혀지도록, 그리고 수십 년 전 '텍사스'에 대한 처벌로서 철거되어야 합니다."
 mexico.105.a:0 "그들은 더 이상 알라모를 기억하지 못할 것이다"
@@ -1020,70 +889,6 @@ mexico.107.t:0 "중앙아메리카 계획"
 mexico.107.d:0 "멕시코가 스페인에서 처음 분리되었을 때, 중앙아메리카는 멕시코 영토의 일부였습니다. 그들이 나중에 멕시코에서 분리되더라도 정부 내에서는 남쪽으로 재정복을 통해 중앙아메리카를 점령해야 하는지에 대한 의문이 제기되고 있습니다. 다른 의견으로는 우리가 해야 할 일은 중앙아메리카 국가들과 동맹을 맺는 것이라고 주장하며 이것은 일부 시나키즘의 사상과 일치합니다."
 mexico.107.a:0 "남쪽으로 재정복을 진행한다"
 mexico.107.b:0 "남부와 동맹을 맺는다"
-
-mexico.109.t:0 ""
-mexico.109.d:0 ""
-mexico.109.a:0 ""
-
-mexico.110.t:0 ""
-mexico.110.d:0 ""
-mexico.110.a:0 ""
-
-mexico.111.t:0 ""
-mexico.111.d:0 ""
-mexico.111.a:0 ""
-
-mexico.112.t:0 ""
-mexico.112.d:0 ""
-mexico.112.a:0 ""
-
-mexico.113.t:0 ""
-mexico.113.d:0 ""
-mexico.113.a:0 ""
-
-mexico.114.t:0 ""
-mexico.114.d:0 ""
-mexico.114.a:0 ""
-
-mexico.115.t:0 ""
-mexico.115.d:0 ""
-mexico.115.a:0 ""
-
-mexico.116.t:0 ""
-mexico.116.d:0 ""
-mexico.116.a:0 ""
-
-mexico.117.t:0 ""
-mexico.117.d:0 ""
-mexico.117.a:0 ""
-
-mexico.118.t:0 ""
-mexico.118.d:0 ""
-mexico.118.a:0 ""
-
-mexico.119.t:0 ""
-mexico.119.d:0 ""
-mexico.119.a:0 ""
-
-mexico.120.t:0 ""
-mexico.120.d:0 ""
-mexico.120.a:0 ""
-
-mexico.121.t:0 ""
-mexico.121.d:0 ""
-mexico.121.a:0 ""
-
-mexico.122.t:0 ""
-mexico.122.d:0 ""
-mexico.122.a:0 ""
-
-mexico.123.t:0 ""
-mexico.123.d:0 ""
-mexico.123.a:0 ""
-
-mexico.124.t:0 ""
-mexico.124.d:0 ""
-mexico.124.a:0 ""
 
 ### General Flavor Events ###
 
@@ -1195,6 +1000,10 @@ mexico.214.b:0 "No deals with the Germans!"
 mexico.215.t:0 "Mexico Refuses Peace"
 mexico.215.d:0 "Unexpectedly, the Mexicans have opted to refuse our peace offer, and have insisted that they shall remain in a state of war for the foreseable future. While it is extremelly unlikely they are planning on launching a trans-atlantic operation, we should still keep an eye out in case they decided to help our enemies..."
 mexico.215.a:0 "They Will Regret This."
+
+mexico.500.t:0 "Mexico Threatens Us"
+mexico.500.d:0 "As our young nation joins the international stage, we are already surrounded by opportunist vultures who seek to oppress us. The Mexican government refuses to recognize our government as legitimate, and our reports indicate that they are amassing their troops at our borders, clearly with the intention of waging war against us. We must prepare, if we wish to prevail..."
+mexico.500.a:0 "To Arms!"
 
 ##Army Generals##
 

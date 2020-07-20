@@ -2,13 +2,13 @@
 
 ### Parties ###
 
-CHS_authoritarian_democrat_party:0 "National Protection Association"
-CHS_authoritarian_democrat_party_long:0 "National Protection Association"
+CHS_authoritarian_democrat_party:0 "호국협회"
+CHS_authoritarian_democrat_party_long:0 "호국협회"
 
 ### Flags and Tooltips ###
 
-refused_npa:0 "Refused to join the NPA or was refused by the NPA"
-NPA_secured:0 "Our leadership of the NPA is secured"
+refused_npa:0 "Refused to join the 호국협회 or was refused by the 호국협회"
+NPA_secured:0 "Our leadership of the 호국협회 is secured"
 CHS_centralism_tt:0 "Replace §HEmpowered Legislative§! or §HEmpowered Executive§! with §HCentralist Government§!\nEffective Change:\nConstruction Speed: §G+10.00%§!\n"
 CHS_federalism_tt:0 "Replace §HEmpowered Legislative§! or §HEmpowered Executive§! with §HFederalist Government§!\nEffective Change:\nMax Factories in a State: §G+10.00%§!\n"
 CHS_merge_personality_cult:0 "Merge §HCentralist Government§! or §HFederalist Government§! with §HLegacy of the National Protection Wars§!\nEffective change:\nDaily Political Power Gain: §G+0.25§!\nWar Support: §G+10.00%§!"
@@ -68,7 +68,7 @@ CHS_provisional_government:0 "임시 정부"
 CHS_provisional_government_desc:0 "With the core of China under our control, we have set up a new Provisional Government that will work on a new, hopefully permanent, constitution and create a united Republic that will stand the test of time."
 
 CHS_strenghten_parliament:0 "의회 강화"
-CHS_strenghten_parliament_desc:0 "Democrats all over China agree that Parliament must be strenghtened to secure democracy in the country and ensure that authoritarians are unable to usurp power in the young Republic once again."
+CHS_strenghten_parliament_desc:0 "Democrats all over China agree that Parliament must be strengthened to secure democracy in the country and ensure that authoritarians are unable to usurp power in the young Republic once again."
 
 CHS_strenghten_presidency:0 "대통령 권한 강화"
 CHS_strenghten_presidency_desc:0 "The failure of the previous republican government shows that the government's powers must be clearly defined and the importance of the presidency to ensure stability and proper governance."
@@ -174,11 +174,11 @@ npa.2.d:0 "[From.GetLeader] has made a formal request to join the National Prote
 npa.2.a:0 "Of course!"
 npa.2.b:0 "It would be unwise."
 
-npa.3.t:0 "[ROOT.GetLeader] Accepted into the NPA"
+npa.3.t:0 "[ROOT.GetLeader] Accepted into the 호국협회"
 npa.3.d:0 "Our province has been welcomed into the National Protection Alliance. We shall now prepare for the inevitable Second Northern Expedition that will surely bring the Beijing government to their knees!"
 npa.3.a:0 "For the Republic!"
 
-npa.4.t:0 "[ROOT.GetLeader] Refused into the NPA"
+npa.4.t:0 "[ROOT.GetLeader] Refused into the 호국협회"
 npa.4.d:0 "Our request has been denied; [From.GetLeader] has refused to allow us into the National Protection Alliance."
 npa.4.a:0 "How rude!"
 
@@ -213,7 +213,7 @@ npa.11.d:0 "This is a hidden event. If you see this, then I, Vidyaország, have 
 npa.11.a:0 "Beep boop"
 
 npa.12.t:0 "Power Struggle"
-npa.12.d:0 "The fragile alliance that was the NPA has been shattered. Some of our former allies have turned on us, declaring us incapable to leading the new Republic and our provisional government illegitimate.\n\nIt appears that another round of civil war has begun."
+npa.12.d:0 "The fragile alliance that was the 호국협회 has been shattered. Some of our former allies have turned on us, declaring us incapable to leading the new Republic and our provisional government illegitimate.\n\nIt appears that another round of civil war has begun."
 npa.12.a:0 "Traitors! Backstabbers!"
 
 npa.13.t:0 "(( Finalizing Power Struggle... ))"
