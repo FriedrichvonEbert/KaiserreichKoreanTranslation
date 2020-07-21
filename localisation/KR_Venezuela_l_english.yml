@@ -104,17 +104,12 @@ VEN_US_treaty:0 "미국-베네수엘라 친선관계"
 
 ### Flags and Tooltips
 VEN_no_coup:0 "쿠데타를 회피하다"
-VEN_no_coup_flag:0 "민간 정부가 위기에서 살아남았다"
 VEN_coup:0 "검은 월요일 이후 쿠데타가 일어나다"	
-VEN_coup_flag:0 "임시 군사 정부가 설치되었다"
 VEN_colombianexiles_tt:0 "망명한 2개의 콜롬비아 민병대 사단이 증원됩니다."
 
 VEN_election_desc:0 "이 중점은 선거가 끝나면 건너뛰게 됩니다."
-VEN_AD_victory_flag:0 "민주운동당이 1940 선거에서 승리하다"
 VEN_AD_victory_desc:0 "이 중점은 선거에서 민주운동당이 승리하면 건너뛰게 됩니다."
-VEN_URD_victory_flag:0 "민주공화연합이 1940 선거에서 승리하다"
 VEN_URD_victory_desc2:0 "이 중점은 선거에서 민주공화연합이 승리하면 건너뛰게 됩니다."
-VEN_PSV_victory_flag:0 "베네수엘라 사회당이 1940 선거에서 승리하다"
 VEN_PSV_victory_desc:0 "이 중점은 선거에서 베네수엘라 사회당이 승리하면 건너뛰게 됩니다."
 VEN_perez_coup:0 "마르코스 페레스 히메네스가 권력을 장악하다"
 VEN_perez_coup_desc:0 "마르코스 페레스 히메네스는 사회주의자들이 선거에서 승리하고 미국이 그를 지지할 위치에 있다면 권력을 장악할 것입니다."
@@ -183,9 +178,11 @@ VEN_oil_HOL_seize_desc:0 "네덜란드에서 생디칼리슴 혁명이 진행 �
 VEN_alliance_decisions:0 "세계무대 위로"
 VEN_alliance_decisions_desc:0 "베네수엘라는 항상 역사의 조류에 의해 외세의 간섭과 제국주의의 표적이 되어왔습니다. 더이상은 안됩니다! 우리는 적극적으로 외교에 나설 것이며, 우리의 자유를 지키기 위해 필요한 어떤 동맹에도 참여할 것입니다."
 VEN_join_internationale:0 "인터내셔널 가입"
-VEN_join_internationale_desc:0 "우리의 평화적인 혁명이 성공했고, 우리는 혁명을 공고히 다져야 합니다. 이제 혁명 베네수엘라는 자유 노동자들의 동맹에 동참해야 합니다. 프랑스와 접촉을 시작합시다."
+VEN_join_internationale_desc:0 "우리의 평화적인 혁명이 성공했고, 우리는 혁명을 공고히 다져야 합니다. 이제 혁명 베네수엘라는 자유 노동자들의 동맹에 동참해야 합니다. [INT.GetNameDef]측과 접촉을 시작합시다."
 VEN_join_entente:0 "협상국 가입"
 VEN_join_entente_desc:0 "우리나라는 제3인터내셔널의 생디칼리스트들과 전쟁 중이고, 따라서 우리는 협상국과 가까워져야 합니다. 그들은 카리브해에서 우리를 보호할 수 있고, 프랑스와 브리튼의 위협을 물리칠 힘이 있습니다."
+VEN_join_USA:0 "Align with the Americans"
+VEN_join_USA_desc:0 "Now that our government has been saved from the syndicalist menace by American aid, we should repay them for their trouble by forming an alliance with them. Together we will free the world from radical syndicalism!"
 
 ### Parties ###
 VEN_social_democrat_party:0 "민주운동당"
@@ -465,6 +462,8 @@ ven.9.t:0 "50 대 50 법"
 ven.9.d:0 " [VEN.GetLeader] 대통령은 외국 정부가 베네수엘라산 석유에서 얻는 이윤을 줄이는 법안에 방금 사인했습니다. '50 대 50 법'으로 명명된 이 법안은 베네수엘라에서 외국인의 석유 시추로 발생하는 수익금의 절반을 정부가 가져갈 수 있도록 하는 법안입니다. 이는 경제적 독립을 향한 큰 걸음이며, 많은 사람들은 정부를 칭찬하고 있습니다."
 ven.9.a:0 "공평한 제안이군."
 
+VEN_fifty_to_fifty_idea_change:0 "Modify §HDominance of Foreign Oil Companies§! by\nPolitical Power Gain: [?0.05|+=0%]"
+
 ven.10.t:0 "베네수엘라 석유 산업"
 ven.10.d:0 "우리가 기억하는 한, 석유는 항상 베네수엘라의 주요 수출품입니다. 외국 회사의 손에서 석유 산업을 빼앗아 직접 석유를 팔자는 제안이 나왔습니다. 우리의 이익은 증가할 것이고 우리는 진정한 독립과 자기 의존을 향해 한 걸음 더 나아갈 것입니다."
 ven.10.a:0 "이곳의 정제된 석유는 우리의 것이다, 국유화하라!"
@@ -631,3 +630,26 @@ ven.40.a:0 "하나님과 연방 만세!"
 ven.41.t:0 "서인도제도의 평화 거부"
 ven.41.d:0 "[CAF.GetNameDefCap]은 우리의 관대한 평화 제안을 거절했습니다. 그들은 다시한번 가이아나 에세키바를 우리에게 양도하지 않겠다고 선언했고, 따라서 전쟁은 계속될 것입니다. 우리 정부 일각에서는 이 전쟁에서 우리가 과연 이길 수 있을지 의구심이 솟아나고 있지만, 우리 국민들은 싸우겠다는 의지가 있습니다."
 ven.41.a:0 "망할 앵글로놈들!"
+
+ven.42.t:0 "The Venezuelan Government Offers Alliance"
+ven.42.d:0 "In the aftermath of our peaceful intervention in the troubled republic of Venezuela, stability has finally been restored under President Marcos Pérez Jiménez. In order to maintain the health and prestige of his regime, he has asked us to join with him in making a formal treaty of alliance and aid. Since we are part of a greater alliance, the [ROOT.GetFactionName], we will need to ask the leading country of our alliance if they would be willing to protect Venezuela. Since we will be doing most of the heavy lifting in protecting them, however, there is no reason to refuse."
+ven.42.a:0 "Pass on the request to our ally."
+ven.42.b:0 "We don't want the Venezuelans."
+
+ven.43.t:0 "America Forwards Venezuelan Alliance Request"
+ven.43.d:0 "Our American allies have received a request from Venezuela to join the [ROOT.GetFactionName]. The United States seems interested in bringing their southern neighbor into its sphere, and has encouraged us to accept. While Venezuela would provide us with a stable oil supply and a base in the southern Caribbean, allying them risks entanglement in South American politics. Should we allow them to join?"
+ven.43.a:0 "Naturally they are welcome!"
+ven.43.b:0 "It would be too much of a liability."
+
+ven.44.t:0 "[FROM.GetNameDefCap] Accepts the Venezuelan Offer"
+ven.44.d:0 "Our allies in [FROM.GetName] have accepted our request that Venezuela be allowed to join the [ROOT.GetFactionName]. Our reputation as the most influential country in the Americas has been reinforced, and we have a firm new ally to boot."
+ven.44.a:0 "Great!"
+
+ven.45.t:0 "[FROM.GetNameDefCap] Accepts Alliance"
+ven.45.d.america:0 "[From.GetNameDefCap] has accepted our request to join their global alliance, the [FROM.GetFactionName]. This is a great day for international cooperation, and a day that signals the coming death of worldwide radicalism and socialism!"
+ven.45.d:0 "Our request for an alliance was forwarded by the Americans to the the faraway nation of [FROM.GetName], and they have accepted our request to join their global alliance, the [FROM.GetFactionName]. This is a great day for international cooperation, and a day that signals the coming death of worldwide radicalism and socialism!"
+ven.45.a:0 "To friendship!"
+
+ven.46.t:0 "[FROM.GetNameDefCap] Refuses"
+ven.46.d:0 "Although the Americans had clearly already shown their willingness to help us, their alliance has proved less friendly. Our offer of alliance has been rebuffed, on the grounds that we might drag them into wars with our neighbors. This is a national outrage, and has shaken our popularity with the people."
+ven.46.a:0 "We were foolish to trust the imperialists."

@@ -9,6 +9,9 @@ POLITICS_MERKULOV_DESC:0 "친일 임시 연해주 정부의 전 지도자였던 
 POLITICS_WOJ_DESC:0 "체코슬로바키아 군단의 지도자이자 러시아 내전의 영웅인 보이체호프스키는 브레스트-리토프스크 조약을 받아들이기를 거부했습니다. 화가 난 그는 러시아 공화국 정부와의 모든 접촉을 끊고 그의 지지자들을 찾아 트란스아무르로 떠났습니다. 콜차크 제독의 오른팔이었던 세르게이는 자신의 '친구'를 배반하고 살해했습니다. 악당 제독보다 덜 공격적이고 야심이 강하며, 숙련된 베테랑인 보이체호프스키는 서쪽으로 진격할 준비가 되었습니다."
 POLITICS_SEMYONOV_DESC:0 "바이칼 코사크의 아타만인 세묘노프와 그의 자식들은 러시아 극동을 휘젓고 다니는 볼셰비키들과 싸우기 위해 현재 트란스아무르로 알려진 트란스바이칼국을 가까스로 설립했습니다. 그러나 이 신생국은 곧 일본에 예속되고 맙니다. 1925년에 쿠데타에 실패한 사기꾼 콜차크가 러시아를 떠나 트란스아무르로 향했을 때, 세묘노프는 어쩔 수 없이 지도직을 사임하고 군 통수권자로서의 역할을 이어나갔습니다. 그러나 소위 '국부'는 정치적 영향력을 행사하며 가까스로 지도직에 복귀하게 됩니다. 세모노프의 유일한 목표는 트란스아무르의 번영이며, 이 목표를 이루기 위해서 그는 불확실한 전쟁을 꺼립니다."
 
+### Leader Traits ###
+TRM_shaky_rule:0 "Shaky Rule\n§gKolchak's regime has few supporters and many haters. Most of the liberal minds are in open opposition to him, while even his own generals are not trustworthy. There even is a chance that they will start a coup to overthrow Kolchak.§!"
+
 ### Events ###
 tram.intro.t:0 "트란스아무르 - 주블라디보스토크 러시아 임시정부"
 tram.intro.d:0 "민주주의가 오래가지 못하는곳에 위치한 시베리아와 러시아 극동지역은 '체코 군단' 의 부상, 일본의 개입 등으로 러시아 내전 당시 분쟁의 주요 지역이었습니다. 독일군의 압력(그리고 코삭으로부터의 강력한 저항)으로 군대를 철수시키는 동안, 일본인들은 그들의 영향력 확대에 열심이었고, 1922년에 트란스아무르 지역에 독립국가의 설립을 추진하였습니다. 일본에 의한 독립국가의 설립이 경제적인 의존을 형성한다는 사실에도 불구하고도, 이러한 움직임은 블라디보스토크 경제 공동체의 지지를 얻었습니다. 그들의 대다수는 러시아를 괴롭히는 혼란에 더 깊이 빠져들 수 있는 다른 대안과 비교할 때, 동양의 부상하는 세력과의 경제 및 외교 관계구축을 중요한 이점으로 보았습니다. 이 신생 국가는 1925년, 통치권 장악에 실패한 후 러시아를 탈출할 수 밖에 없었던 내전의 백군들 중 하나이자 한때, 자칭 '전 러시아의 최고 지도자'인 콜차크 제독이라는 두드러진 인물을 얻었습니다. \n\n 1936년 트란스아무르 공화국은 기업주의와 군국주의 국가가 되었으며, 정치적, 경제적, 군사적으로 일본 제국의 손아귀에 있었습니다. 그럼에도 불구하고 콜차크는 자신의 야망을 가지고 있습니다. 그는 일본의 위세를 이용해 자신의 지배력을 확립하고, 시베리아를 넘어 러시아 전체를 아우르는 아주 위험한 게임을 할 수 있을까요?"
@@ -19,50 +22,12 @@ tram.1.d:0 "트란스아무르는 우리의 내정 간섭에 반발하며 우리
 tram.1.a:0 "저들을 파괴하라!"
 tram.1.b:0 "그냥 두자..."
 
-tram.6.t:0 "시베리아의 혼란!"
-tram.6.d:0 "러시아 정부가 시베리아 영토의 안전을 보장할 수 없을것 같은 모습을 보이자 많은 지역 지도자들이 트란스아무르에 합류하기를 원하고 있습니다! 국제적 분쟁이있을 수도 있지만 이런 기회를 다시는 얻지 못할 수도 있습니다!"
-tram.6.a:0 "바이칼 호까지의 영토를 주장해라!"
-tram.6.b:0 "일본 제국의 의중을 물어라."
-tram.6.c:0 "이건 조금 위험하군..."
-
-tram.7.t:0 "시베리아를 향한 트란스아무르의 야망"
-tram.7.d:0 "현재 러시아의 불안정함을 트란스아무르 지도층은 이러한 정세가 마침내 동시베리아를 장악할 수 있는 절호의 기회로 여기는 것 같습니다. 트란사무르의 외교 담당자는 러시아가 시베리아에 대한 정당한 요구에 저항할 경우, 무력을 사용하는걸 허가받기 위해서 우리를 찾아왔습니다."
-tram.7.a:0 "그들의 영유권 주장을 지지하라."
-tram.7.b:0 "멋대로 러시아를 건들지 마라!"
-
-tram.8.t:0 "일본이 시베리아 영유권 주장을 지지하다"
-tram.8.d:0 "일본 정부는 우리의 제안을 수락하고 불법적인 러시아 정권으로부터 극동 지역을 탈환하겠다는 우리의 명분을 지지했습니다."
-tram.8.a:0 "좋아!"
-
-tram.9.t:0 "일본이 시베리아 영유권 주장을 지지하지 않다"
-tram.9.d:0 "일본 정부는 우리의 영유권 주장에 대한 지지를 거부했습니다."
-tram.9.a:0 "별 수 있나? 빌어먹을."
-tram.9.b:0 "집어치워! 독립을 선포한다!"
-
-tram.10.t:0 "시베리아의 혼란!"
-tram.10.d:0 "소비에트 정부가 시베리아 영토의 안전을 보장할 수 없을것 같은 모습을 보이자 많은 지역 지도자들이 트란스아무르에 합류하기를 원하고 있습니다! 국제적 분쟁이있을 수도 있지만 이런 기회를 다시는 얻지 못할 수도 있습니다!"
-tram.10.a:0 "바이칼 호까지의 영토를 주장해라!"
-tram.10.b:0 "일본 제국의 의중을 물어라."
-tram.10.c:0 "이건 조금 위험하군..."
-
-tram.11.t:0 "시베리아를 향한 트란스아무르의 야망"
-tram.11.d:0 "현재 소비에트 러시아의 불안정함을 트란스아무르 지도층은 이러한 정세가 마침내 동시베리아를 장악할 수 있는 절호의 기회로 여기는 것 같습니다. 트란사무르의 외교 담당자는 소비에트 러시아가 시베리아에 대한 정당한 요구에 저항할 경우, 무력을 사용하는걸 허가받기 위해서 우리를 찾아왔습니다."
-tram.11.a:0 "그들의 영유권 주장을 지지하라."
-tram.11.b:0 "멋대로 소비에트를 건들지 마라!"
-
-tram.12.t:0 "일본이 시베리아 개입을 지지하다"
-tram.12.d:0 "일본 정부는 우리의 제안을 수락하고 불법적인 러시아 정권으로부터 극동 지역을 탈환하겠다는 우리의 명분을 지지했습니다."
-tram.12.a:0 "좋아!"
-
 tram.21.t:0 "트란스아무르의 극동 침공!"
-tram.21.d:0 "트란스아무르는 이 지역에 대한 지배권을 획득하기 위해 시베리아의 혼란을 틈타 침공했습니다. 이것은 우리의 주권을 침해한 것이지만, 우리는 현재 매우 약하며, 무엇보다 트란스아무르와 싸우는 것은 곧 일본과 싸우는 것이기에 이 전쟁에서 이길 가능성은 희박해 보입니다..."
+tram.21.d.RUS:0 "트란스아무르는 이 지역에 대한 지배권을 획득하기 위해 시베리아의 혼란을 틈타 침공했습니다. 이것은 우리의 주권을 침해한 것이지만, 우리는 현재 매우 약하며, 무엇보다 트란스아무르와 싸우는 것은 곧 일본과 싸우는 것이기에 이 전쟁에서 이길 가능성은 희박해 보입니다..."
+tram.21.d.SOV:0 "Transamur has taken advantage of the unrest in Siberia to establish its control over the region. While this is a great infringement on our sovereignty, we are currently very weak in the Far East and can not hope to win a war to reclaim our lands, especially since we are still recovering from the deadly civil war."
 tram.21.a:0 "얼음뿐인 황무지를 위해 싸울 필요는 없다."
 tram.21.b:0 "나중에 와서 받으라는 계략을 누가 믿겠는가?"
-tram.21.c:0 "뭐? 시베리아는 언제나 러시아의 소유다!"
-
-tram.22.t:0 "트란스아무르의 극동 침공!"
-tram.22.d:0 "트란스아무르는 이 지역에 대한 지배권을 획득하기 위해 시베리아의 혼란을 틈타 침공했습니다. 이것은 우리의 주권을 침해한 것이지만, 우리는 현재 매우 약하며, 아직 치명적인 내전에 빠져있기 때문에 이 전쟁에서 이길 가능성은 희박해 보입니다..."
-tram.22.a:0 "젠장!"
+tram.21.c:0 "젠장!"
 
 tram.23.t:0 "러시아가 개입하지 않다"
 tram.23.d:0 "러시아 정부는 '시베리아 합병의 기정사실화'를 받아들인 것으로 보이며, 심각한 군사행동은 취하지 않았습니다."
@@ -98,30 +63,8 @@ tram.48.a:0 "그래, [TRM.GetLeader]은(는) 축출 되어야만 해!"
 tram.48.b:0 "[TRM.GetLeader]은(는) 아무데도 가지 않는다!"
 
 tram.49.t:0 "트란스아무르의 굴복"
-tram.49.d:0 "[TRM.GetLeader]이(가) 우리 앞에 굴복하고 무릎을 꿇기로 결정했습니다. 이에따라 블라디보스토크의 통치자 자리가 공석이 되었기 때문에 대체자를 찾아야합니다. 대체자로는 몇명의 후보가  있습니다.\n\n 콜차크의 오른손인 세르게이 우지에쵸프스키. 그는 사람들을 억압하는 방법을 알고 있지만, 팽창주의적 견해는 어떤 악질적인 제독과 다를바가 없기 때문에 문제가 될 수 있습니다.\n\n 반면에, 트란스아무르의 전직 지도자인 세르게이 세묘노프가 다시 업무를 볼게 할 수 있을겁니다. 그는 심각한 문제를 일으키진 않을 것입니다.\n\n 러시아 내전 당시 일본 원정대의 지휘를 받았던 유히 미쓰에 장군도 선택 가능합니다. 트란스아무르에서 적절한 퇴직금을 받아먹으며 사는 노인이 되는 일이 잘 어울릴 것입니다.\n\n 몇몇 자유주의자들은 우리가 트란스아무르에 새로운 민주정을 수립해야한다고 제안하고 있습니다..."
-tram.49.a:0 "Shigemoto 장군, 자네가 새로운 통치자네."
-tram.49.b:0 "Voytsekhovskiy는 사람들을 통치하는 법을 잘 알고 있지."
-tram.49.c:0 "Semyenov와 같은 겸손한 종자는 언제나 환영이다."
-tram.49.e:0 "새로운 트란스아무르 공화국을 탄생시켜라!"
-
-tram.50.t:0 "트란스아무르의 새로운 질서"
-tram.50.d:0 "일본인들은 [TRM.GetLeader]가 우리를 이끌어야 한다고 결정했습니다. 우리는 복종 할 수 밖에 없습니다."
-tram.50.a:0 "지금이 이전보다 훨씬 의존적이다!"
-
-tram.56.t:0 "시베리아의 혼란!"
-tram.56.d:0 "러시아 정부가 시베리아 영토의 안전을 보장할 수 없을것 같은 모습을 보이자 많은 지역 지도자들이 트란스아무르에 합류하기를 원하고 있습니다! 국제적 분쟁이있을 수도 있지만 이런 기회를 다시는 얻지 못할 수도 있습니다!"
-tram.56.a:0 "바이칼 호까지의 영토를 주장해라!"
-tram.56.b:0 "일본 제국의 의중을 물어라."
-tram.56.c:0 "이건 조금 위험하군..."
-
-tram.57.t:0 "트란스아무르가 이르쿠츠크를 점령하게 허가를 요청하다"
-tram.57.d:0 "현재 시베리아의 불안정함을 트란스아무르 지도층은 이르쿠츠크를 점령할 수 있는 절호의 기회로 여기는 것 같습니다. 트란사무르의 외교 담당자는 러시아가 도시에 대한 정당한 요구에 저항할 경우, 무력을 사용하는걸 허가받기 위해서 우리를 찾아왔습니다."
-tram.57.a:0 "그들에게 그린 라이트를 보내라.(수락)"
-tram.57.b:0 "이르쿠츠크는 손 대지 않을 것이다!"
-
-tram.58.t:0 "일본이 이르쿠츠크 점령 계획 수락하다"
-tram.58.d:0 "일본 정부는 우리의 제안을 수락하고 이르쿠츠크를 점령하려는 우리에게 그린라이트를 보냈습니다"
-tram.58.a:0 "좋아!"
+tram.49.d:0 "[TRM.GetLeader] has decided to submit and kneel before us. Now, there is an empty office of the Vladivostok governorship, and so we shall find a replacement. We have a perfect candidate in the loyal general Oi Shigemoto, leader of the Siberian Intervention during the Russian Civil War. As of today, Transamur is now officially ruled by general Shigemoto, having effectively become our puppet."
+tram.49.a:0 "완벽해."
 
 tram.59.t:0 "트란스아무르가 이르쿠츠크를 침공하다!"
 tram.59.d:0 "트란스아무르는 군 부대와 정치가들을 이르쿠츠크에 파견하여 우리 영토 동부의 통치권을 주장했다. 우리는 어떻게 해야할까요?"
@@ -131,30 +74,6 @@ tram.59.b:0 "아니! 이건 우리의 땅이야!"
 tram.60.t:0 "러시아가 개입하지 않다"
 tram.60.d:0 "러시아 정부는 '시베리아의 기정사실화'를 받아들인 것으로 보이며, 심각한 군사행동은 취하지 않았습니다."
 tram.60.a:0 "현명한 선택이야."
-
-tram.61.t:0 "시베리아의 혼란!"
-tram.61.d:0 "소비에트 정부가 시베리아 영토의 안전을 보장할 수 없을것 같은 모습을 보이자 많은 지역 지도자들이 트란스아무르에 합류하기를 원하고 있습니다! 국제적 분쟁이있을 수도 있지만 이런 기회를 다시는 얻지 못할 수도 있습니다!"
-tram.61.a:0 "바이칼 호까지의 영토를 주장해라!"
-tram.61.b:0 "일본 제국의 의중을 물어라."
-tram.61.c:0 "이건 조금 위험하군..."
-
-tram.62.t:0 "트란스아무르의 시베리아를 향한 야망"
-tram.62.d:0 "현재 시베리아의 불안정함을 트란스아무르 지도층은 이르쿠츠크를 점령할 수 있는 절호의 기회로 여기는 것 같습니다. 트란사무르의 외교 담당자는 소비에트 러시아가 도시에 대한 정당한 요구에 저항할 경우, 무력을 사용하는걸 허가받기 위해서 우리를 찾아왔습니다."
-tram.62.a:0 "그들에게 그린 라이트를 보내라.(수락)"
-tram.62.b:0 "이르쿠츠크는 손 대지 않을 것이다!"
-
-tram.63.t:0 "일본이 이르쿠츠크 점령 계획을 수락하다"
-tram.63.d:0 "일본 정부는 우리의 제안을 수락하고 이르쿠츠크를 점령하려는 우리에게 그린라이트를 보냈습니다."
-tram.63.a:0 "좋아!"
-
-tram.64.t:0 "트란스아무르가 이르쿠츠크를 침공하다!"
-tram.64.d:0 "트란스아무르는 군 부대와 정치가들을 이르쿠츠크에 파견하여 우리 영토 동부의 통치권을 주장했다. 우리는 어떻게 해야할까요?"
-tram.64.a:0 "그냥 가져가게 두어라..."
-tram.64.b:0 "아니! 이건 우리의 땅이야!"
-
-tram.65.t:0 "소비에트 러시아의 굴복"
-tram.65.d:0 "새로이 설립된 소비에트 정권은 약점을 내비쳤습니다. 그들은 러시아 극동지역에 개입하지 않기로 결정했고 우리는 정당한 땅을 다시 찾을 수 있었습니다."
-tram.65.a:0 "현명한 선택이야."
 
 tram.67.t:0 "트란스아무르가 우리에게서 벗어나려하다"
 tram.67.d:0 "최근 트란스아무르에 의한 시베리아의 재정복과 더불어, 그들은 태양아래에서 자신의 길을 만들어 내려고 노력하면서 훨씬 더 대담해졌습니다. 최근에 그들은 블라디보스토크보다 더 먼 곳으로 수도를 옮겼습니다. 우리의 영향력을 최소화하려는 시도가 분명합니다. 우리는 어떻게 해야할까요?"
@@ -169,8 +88,7 @@ tram.68.b:0 "절대못한다!"
 tram.80.t:0 "반 콜차크 쿠데타"
 tram.80.d:0 "야당은 우리에 대한 공개적 반란을 일으켰습니다. Sergey Voytsekhovskiy가 이끄는 충성스럽지 못한 장군과 군인은 가장 중요한 인근 지역을 점령하고서 지금은 우리에게로 나아가고 있습니다. 여전히 콜차크 제독에게 충성하는 사람들은 이 더러운 반역자들과 싸울 준비가되어 있습니다."
 tram.80.a:0 "콜차크의 부대는 반란군을 물리쳤다."
-tram.80.b:0 "일본 제국의 부대가 개입했다."
-tram.80.c:0 "콜차크가 전복되었다."
+tram.80.b:0 "콜차크가 전복되었다."
 
 tram.81.t:0 "콜차크가 전복되다!"
 tram.81.d:0 "12년 넘게 트란스아무르의 지도자였던 Aleksandr 콜차크는 Sergey Voytsekhovskiy가 이끄는 쿠데타 군들에 의해 전복되었고, 사격수에게 처형당했습니다. 그의 죽음은 공화국의 선언을 포함하여 트란스아무르에있는 각종 정치적인 변화의 가능성을 열어줄 것입니다... 물론, Sergey Voytsekhovskiy와 그의 부하들이 그것을 허용하는 경우에 말이죠."
@@ -186,15 +104,13 @@ tram.86.t:0 "두마 선거"
 tram.86.d:0 "몇 달간의 준비끝에 임시정부는 1920년 이후 처음으로 트란스아무르의 선거를 위한 준비를 마쳤습니다. 국회 의석수는 90석이며 각 정당들은 선거운동을 시작했습니다. 현재 아래 3개의 정당만이 과반 득표를 할 가능성이 있어보이며, 이 중 한 당이 새 정부를 구성할 것입니다. 어느 쪽이 우세할까요?"
 tram.86.a:0 "인민극동당!"
 tram.86.b:0 "대중주의자!"
-tram.86.c:0 "젬스키 소보르(전국 회의)!"
-tram.86.e:0 "군대는 이 혼란스러운 민주주의에 종지부를 찍을 것이다!"
+tram.86.c:0 "젬스키 의회!"
 
 tram.87.t:0 "두마 선거"
 tram.87.d:0 "헌법에 따라 선거는 4년마다 개최됩니다. 이전 두마의 임기가 만료되었으며 새로운 의회를 선출할 때가되었습니다. 국회 의석수는 90석이며 각 정당들은 선거운동을 시작했습니다. 현재 아래 3개의 정당만이 과반 득표를 할 가능성이 있어보이며, 이 중 한 당이 새 정부를 구성할 것입니다. 어느 쪽이 우세할까요?"
 tram.87.a:0 "인민극동당!"
 tram.87.b:0 "대중주의자!"
-tram.87.c:0 "젬스키 소보르(전국 회의)!"
-tram.87.e:0 "군대는 이 혼란스러운 민주주의에 종지부를 찍을 것이다!"
+tram.87.c:0 "젬스키 의회!"
 
 tram.92.t:0 "러시아와의 통일 제안?"
 tram.92.d:0 "일본의 무력을 극복할 가능성이 희박해진 가운데, 트란스아무르 내 다수의 주요 인사들로부터 일본의 위협을 피하기 위해 러시아와의 경쟁을 포기하고 그들과 함께 해야 한다는 주장이 있었습니다. 러시아에 평화롭게 통일을 제안함으로써, 우리는 콜차크의 호전성에 의해 강요된 수년간의 고립을 끝내고, 나아가 도쿄의 지배에서 벗어나길 희망할 수 있습니다."
@@ -411,7 +327,7 @@ tram.141.d:0 "또다른 지역이 우리 땅이 되었고, 드디어 전쟁 이�
 tram.141.a:0 "러시아에 영광을!"
 
 tram.142.t:0 "우크라이나 분쟁 해결"
-tram.142.d:0 "우크라이나는 10월 혁명으로 우리에게서 떨어져나간 땅으로, 카이저의 통제권이 약해져 감에 따라, 우리는 외교로 또는 힘으로 그 땅을 차지할 것입니다."
+tram.142.d:0 "우크라이나는 10월 혁명으로 우리에게서 떨어져나간 땅으로, 카이저의 통제권이 약해져 감에 따라, 우리는 외교로 또는 힘으로 그 땅을 차지할 것입니다!"
 tram.142.a:0 "군대를 보내라!"
 tram.142.b:0 "영토를 요구하자!"
 
@@ -472,8 +388,8 @@ TRM_social_liberal_party:0 "민주당"
 TRM_social_liberal_party_long:0 "민주당"
 TRM_market_liberal_party:0 "대중주의자"
 TRM_market_liberal_party_long:0 "대중주의자"
-TRM_social_conservative_party:0 "젬스키 소보르(전국 회의)"
-TRM_social_conservative_party_long:0 "젬스키 소보르(전국 회의)"
+TRM_social_conservative_party:0 "젬스키 의회"
+TRM_social_conservative_party_long:0 "젬스키 의회"
 TRM_authoritarian_democrat_party:0 "대표단"
 TRM_authoritarian_democrat_party_long:0 "대표단"
 TRM_paternal_autocrat_party:0 "군정"
@@ -522,8 +438,6 @@ TRM_supply:0 "향상된 공급망"
 TRM_supply_desc:0 "시베리아 횡단철도의 통제권을 얻어, 우리는 추가적인 기반시설의 이점을 이용하여 물류 수송망을 개선을 했습니다."
 TRM_modest_society:0 "정치 안정화"
 TRM_modest_society_desc:0 "우리 나라는 마침내 안정을 되찾은 것 같습니다. 그리고 새로운 '겸손한 사회'의 트란스아무르에게 번영과 새로운 권력의 시대가 열렸습니다."
-TRM_anti_kolchak:0 "반콜차크 정서"
-TRM_anti_kolchak_desc:0 "콜차크 정권에는 지지자가 거의 없고 반대자가 더 많습니다. 대부분의 진보주의자들은 그를 공개적으로 비난하고, 그의 장군들은 신뢰할 수 없습니다. 심지어 그들이 콜차크를 타도하기 위해 쿠데타를 일으킬 가능성도 있습니다."
 TRM_JAP_CONS:0 "일본 협약"
 TRM_JAP_CONS_desc:0 "트란스아무르의 일본 기업의 이윤이 증가하고 로비스트들의 힘이 점점 강해지고 있으며, 조계는 이를 증명하고 있습니다. 한때 유럽의 강대국으로서 아시아 시장을 개방했던 트란스아무르는, 그 반대의 상황에 놓여 있습니다."
 
@@ -592,7 +506,7 @@ TRM_Ind_Mon:0 "치타 개발"
 TRM_Ind_Mon_desc:0 "The lands east of Lake Baikal are rich in resources, but extremely underdeveloped. 이 지역을 재건하는 데는 오랜 시간이 걸리겠지만, 어쨌거나 이제 재건을 시작할 수 있습니다."
 
 TRM_Ind_Transsib_exp:0 "공급망 개선"
-TRM_Ind_Transsib_exp_desc:0 "시베리아 횡단철도가 우리나라의 일부가 되면서 그 유용성이 점점 더 뚜렷해지고 있습니다. 우리는 이제 전국적인 철도 공급 시스템을 구축하여 전국적으로 물품을 배달할 수 있는 잠재력까지 갖추고 있습니다."
+TRM_Ind_Transsib_exp_desc:0 "As the Trans-Siberian railway expands more and more, its usefulness becomes increasingly apparent. We now even have the potential to create a nationwide railway supply system to deliver goods all across the country."
 
 TRM_Ind_West_Sib:0 "서부 시베리아 산업시설 확장"
 TRM_Ind_West_Sib_desc:0 "서부 시베리아는 페트로그라드의 배신자들을 직접 공격할 수 있게 해주는 우리의 주요 전략 지역입니다. 최종 전투 전, 우리는 더욱 강해지기 위해 더 많은 시설들을 건설해야 합니다."
@@ -607,7 +521,7 @@ TRM_Ind_Ukraine:0 "옛 우크라이나 해군의 운명"
 TRM_Ind_Ukraine_desc:0 "세바스토폴에는 거대한 함대가 있고 우리는 이를 러시아 해군에 편입할지 아니면 팔아넘길지 결정해야 합니다."
 
 TRM_Ind_CA:0 "중앙아시아 산업화"
-TRM_Ind_CA_desc:0 "중앙아시아는 다른 지역에 비해 산업이 뒤떨어져 있어 우리가 지역의 개발에 앞장서야 합니다."
+TRM_Ind_CA_desc:0 "Central Asia is an excellent place to build up some industry, as it currently is lacking in comparison to other areas of the Russia. Let us build up the region!"
 
 TRM_Ind_Caucasus:0 "코카서스 개발"
 TRM_Ind_Caucasus_desc:0 "코카서스의 땅은 석유가 풍부해서 독일은 이 지역을 차지하고 싶어했습니다. 이 지역을 우리가 통제하고 있는 덕분에 우리는 오랫동안 고통 받아온 사람들을 위한 산업을 발전시킬 수 있습니다."
@@ -616,10 +530,10 @@ TRM_Ind_POL:0 "폴란드인 유화책"
 TRM_Ind_POL_desc:0 "폴란드인들은 반항적인 사람들이기 때문에 채찍보다는 당근을 줘야 합니다. 우리는 그들을 돕기 위해 폴란드의 산업을 확장시킬 필요가 있습니다."
 
 TRM_Ind_BLT:0 "발트 확장"
-TRM_Ind_BLT_desc:0 "발트 지역이 우리 수중에 들어왔고, 러시아화와 더불어 지역 산업을 발전시킴으로써 주민들이 딴 맘을 품지 않도록 합시다."
+TRM_Ind_BLT_desc:0 "The Baltic states are back under our control. We should learn from the past and not continue our Russification, but instead develop their industry and grant them some illusion of autonomy so that they are satisfied with our rule."
 
 TRM_Ind_Research_2:0 "신무기"
-TRM_Ind_Research_2_desc:0 "수도를 되찾은 과학자들이 우리 연구를 돕고 있습니다. 또한 새롭게 병합된 땅에서 온 과학자들도 그들 지역의 산업화를 돕고 있습니다. 이들은 전쟁에 사용될 신무기 개발도 도울 것입니다."
+TRM_Ind_Research_2_desc:0 "With the Capital retaken, the scientists there are now contributing to our research, giving us an edge over our rivals. Also, with the industrialisation campaign over, more scientists in the newly conquered regions are joining our ranks. This combination has helped us invent whole new possibilities of weapons to use in wars."
 
 TRM_Trade_Jap:0 "일본과의 무역 관계를 개선"
 TRM_Trade_Jap_desc:0 "우리는 일본을 멀리할 수도 있지만 장님들조차도 우리가 그들의 경제에 의존하고 있다는 것을 압니다. 일본 제국과의 무역 관계를 개선하는 것이 현명한 일일 것입니다."
@@ -691,7 +605,7 @@ TRM_Air_Para:0 "블라디보스토크 공수부대"
 TRM_Air_Para_desc:0 "공수부대는 새로운 유형의 보병입니다. 일반적인 보병만큼 수가 많지 않은 이 부대는 항공기를 이용해 적진에 침투합니다."
 
 TRM_Air_Bases_Vlad:0 "블라디보스토크 공군 기지 확장"
-TRM_Air_Bases_Vlad_desc:0 "우리나라는 우리 이름의 공군 기지 하나 없이, '공중의 혁명'에서 뒤쳐져 있습니다. 세계대전기에, 항공기는 매우 치명적인 무기가 되었기 때문에 우리는 항공기를 소유해야만 합니다. 그러나 공군기지가 없다면 거대한 공군이라도 무용지물일 것입니다."
+TRM_Air_Bases_Vlad_desc:0 "Our nation has been left behind by the aerial revolution. We do not have a single modern air field to our name. Since the Weltkrieg, aircraft have become a very deadly weapon of war, and as such we must possess them. Without air bases, even the biggest air force would be useless."
 
 TRM_Air_Bases_Irk:0 "이르쿠츠크 회랑"
 TRM_Air_Bases_Irk_desc:0 "시베리아에는 새로운 착륙장과 공군 기지를 위한 충분한 공간이 있습니다. 이러한 땅을 이용하지 않는 것은 어리석은 것입니다."
@@ -788,9 +702,9 @@ TRM_Demand_DKB_desc:0 "돈-쿠반은 러시아나 마찬가지입니다. 그곳�
 TRM_Invade_Azerbaijan:0 "바쿠 유전"
 TRM_Invade_Azerbaijan_desc:0 "오랫동안, 우리는 전쟁을 지속하기 위해 값비싼 석유 수입에 의존해 왔습니다. 작고 약한 아제르바이잔을 점령하면 석유를 자급할 수 있을 것입니다."
 TRM_Invade_Georgia:0 "조지아 문제"
-TRM_Invade_Georgia_desc:0 "조지아는 크지도 않고, 부유하지도 않고, 우리에게 어떤 위협도 가하지 못합니다... 하지만 이는 원칙의 문제입니다. 대전쟁기 우리에게서 벗어난 이 땅은 다시 우리에게로 돌아올 것입니다."
+TRM_Invade_Georgia_desc:0 "While Georgia is not large, wealthy, or powerful at all, we must deal with them at once... It is a matter of principle. This is land stolen from us during the Weltkrieg. Soon it will be back in the fold, with the rest of them."
 TRM_Invade_Armenia:0 "아르메니아의 지위"
-TRM_Invade_Armenia_desc:0 "아르메니아인들은 우리와 신앙을 공유하고 있어 우리의 지배를 반길 것입니다. 설마 아닐까요?"
+TRM_Invade_Armenia_desc:0 "The Armenian people share our faith. Thus they should only be happy to return to our rule, No?"
 
 TRM_Attack_Europe:0 "동유럽 영유권 재주장"
 TRM_Attack_Europe_desc:0 "러시아 전체가 지금 우리의 통제하에 있습니다. 이제는 다른 국가들로부터 동유럽에 있는 우리의 땅을 되찾을 때입니다."
@@ -842,7 +756,7 @@ TRM_zaibatsus:0 "재벌들의 인정을 받다"
 TRM_zaibatsus_desc:0 "일본과의 경제적 제휴가 많은 돈과 투자를 끌어들인 것은 사실입니다. 오늘 블라디보스토크 주재 일본 대표단은 우리 지도부에게 트란스아무르에 새로운 조계를 두자고 직접 제안했습니다."
 
 TRM_support_anti_japanese_rally:0 "반일집단 지원"
-TRM_support_anti_japanese_rally_desc:0 "우리 정부요원들은 지역 반일 시위에 긴밀하게 협력하고 있습니다. 우리는 '자주적인' 집회를 열 수 있도록 자금을 지원할 수 있습니다. 그러한 행동은 블라디보스토크에서 일본인들의 입지를 약화시킬 것입니다."
+TRM_support_anti_japanese_rally_desc:0 "우리 정부요원들은 지역 반일 시위에 긴밀하게 협력하고 있습니다. 우리는 '자주적인' 집회를 열 수 있도록 자금을 지원할 수 있습니다. 그러한 행동은 트란스아무르에서 일본인들의 입지를 약화시킬 것입니다."
 
 TRM_hold_vladivostok:0 "일본으로부터 블라디보스토크 수비"
 TRM_hold_vladivostok_desc:0 "우리가 일본군을 바다에서 격퇴할 가능성은 거의 없습니다. 우리가 살아남기 위한 유일한 해결책은 블라디보스토크를 이 전쟁의 명분을 무의미하게 만들 만큼 오랫동안 방어하는 것입니다. 러시아 농담중에 '아무도 조를 잡고 싶어하지 않기 때문에, 아무도 조를 잡을수 없다'(아무도 원하지 않으므로, 아무도 가질수 없다)라는 말이 있습니다. 블라디보스토크는 일본인들에게 이 조가 되어야 합니다."
@@ -878,7 +792,7 @@ TRM_integrate_siberia:0 "시베리아 지역 통합"
 TRM_integrate_siberia_desc:0 "다음 지역을 핵심 주로 갖습니다:"
 
 TRM_Leave_Japan:0 "Breakway from the Japanese's Control"
-TRM_Leave_Japan_desc:0 "§RWhile this will finally allows us to finally dictate our own fate, doing so may have dire consequences!§"
+TRM_Leave_Japan_desc:0 "§RWhile this will finally allows us to finally dictate our own fate, doing so may have dire consequences!§!"
 
 ### Cosmetic Tags ###
 TRM_FE_totalist:0 "극동 연방"

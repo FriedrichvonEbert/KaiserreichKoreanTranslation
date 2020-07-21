@@ -11,22 +11,18 @@ WAR_TAKE_CLAIM_NAME:0 "$ORDER$$FIRST$의 $STATE$ 침략전쟁"
 KR_separate_peace:0 "모든 전쟁을 내려놓게 될 것입니다\n"
 
 ### 2nd American Civil War ###
-WAR_NAME_CSA_USA:0 "제2차 미국 내전: 생디칼-연방 전쟁"
-WAR_NAME_USA_CSA:0 "제2차 미국 내전: 생디칼-연방 전쟁"
-WAR_NAME_TEX_USA:0 "제2차 미국 내전: 연합-연방 전쟁"
-WAR_NAME_USA_TEX:0 "제2차 미국 내전: 연합-연방 전쟁"
-WAR_NAME_CAL_USA:0 "제2차 미국 내전: 태평양-연방 전쟁"
-WAR_NAME_USA_CAL:0 "제2차 미국 내전: 태평양-연방 전쟁"
-WAR_NAME_CAL_CSA:0 "제2차 미국 내전: 태평양-생디칼 전쟁"
-WAR_NAME_CSA_CAL:0 "제2차 미국 내전: 태평양-생디칼 전쟁"
-WAR_NAME_TEX_CSA:0 "제2차 미국 내전: 연합-생디칼 전쟁"
-WAR_NAME_CSA_TEX:0 "제2차 미국 내전: 연합-생디칼 전쟁"
-WAR_NAME_CAL_TEX:0 "제2차 미국 내전: 태평양-연합 전쟁"
-WAR_NAME_TEX_CAL:0 "제2차 미국 내전: 태평양-연합 전쟁"
-
-### Romanian Civil War ###
-WAR_NAME_ROM_RRM:0 "$ORDER$$SECOND$ 내전"
-WAR_NAME_RRM_ROM:0 "$ORDER$$SECOND$ 내전"
+WAR_NAME_CSA_USA:0 "제2차 미국 내전"
+WAR_NAME_USA_CSA:0 "제2차 미국 내전"
+WAR_NAME_TEX_USA:0 "제2차 미국 내전"
+WAR_NAME_USA_TEX:0 "제2차 미국 내전"
+WAR_NAME_CAL_USA:0 "제2차 미국 내전"
+WAR_NAME_USA_CAL:0 "제2차 미국 내전"
+WAR_NAME_CAL_CSA:0 "제2차 미국 내전"
+WAR_NAME_CSA_CAL:0 "제2차 미국 내전"
+WAR_NAME_TEX_CSA:0 "제2차 미국 내전"
+WAR_NAME_CSA_TEX:0 "제2차 미국 내전"
+WAR_NAME_CAL_TEX:0 "제2차 미국 내전"
+WAR_NAME_TEX_CAL:0 "제2차 미국 내전"
 
 ### Spanish Civil War ###
 WAR_NAME_SPR_CAR:0 "스페인 내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
@@ -66,6 +62,10 @@ WAR_NAME_FRA_GER:0 "제2차 세계대전"
 WAR_NAME_RUS_JAP:0 "제2차 러일전쟁"
 WAR_NAME_JAP_RUS:0 "제2차 일러전쟁"
 
+### Winter War ###
+WAR_NAME_RUS_FIN:0 "겨울 전쟁"
+WAR_NAME_FIN_RUS:0 "겨울 전쟁"
+
 ### Middle Eastern Wars ###
 WAR_NAME_OTT_KUR:0 "$ORDER$$SECOND$ 반란"
 WAR_NAME_KUR_OTT:0 "$ORDER$$FIRST$ 독립전쟁"
@@ -89,14 +89,14 @@ WAR_NAME_PRF_BHC:0 "토후 연맹의 벵갈 수복"
 WAR_NAME_PRF_DEH:0 "토후 연맹의 델리 수복"
 
 ### 37th Siamese-Burma War ###
-WAR_NAME_BUR_SIA:0 "제37차 시암-버마 전쟁"
-WAR_NAME_SIA_BUR:0 "제37차 시암-버마 전쟁"
+WAR_NAME_BRM_SIA:0 "제37차 시암-버마 전쟁"
+WAR_NAME_SIA_BRM:0 "제37차 시암-버마 전쟁"
 
 ### Indochina War ###
 WAR_NAME_INC_GEA:0 "인도차이나 반독일 저항 전쟁"
-WAR_NAME_INC_VIE:0 "베트남 재통일 전쟁"
+WAR_NAME_INC_VIN:0 "베트남 재통일 전쟁"
 WAR_NAME_GEA_INC:0 "$ORDER$ 인도차이나 전쟁"
-WAR_NAME_VIE_INC:0 "비엣민 중재"
+WAR_NAME_VIN_INC:0 "비엣민 중재"
 
 ### SIA-INC War ###
 WAR_NAME_INC_SIA:0 "인도차이나 메콩 지역 해방"
@@ -115,6 +115,10 @@ WAR_NAME_ETH_ERT:0 "에리트리아 반란"
 WAR_NAME_ERT_ETH:0 "에리트리아 독립전쟁"
 WAR_NAME_ETH_SOM:0 "오가덴 전쟁"
 WAR_NAME_SOM_ETH:0 "오가덴 전쟁"
+
+### Bush War ###
+WAR_NAME_MAF_POR:0 "부시 전쟁"
+WAR_NAME_POR_MAF:0 "부시 전쟁"
 
 ### Ottoman Wars ###
 WAR_NAME_LBA_OTT:0 "트리폴리타니아 독립전쟁"
@@ -136,7 +140,7 @@ WAR_NAME_QIE_SIK:0 "북양의 신강 수복"
 WAR_NAME_QIE_MON:0 "북양의 몽골 수복" 
 WAR_NAME_QIE_TIB:0 "북양의 티베트 수복" 
 WAR_NAME_QIE_INC:0 "북양의 안남 개입"
-WAR_NAME_QIE_VIE:0 "북양의 안남 개입"
+WAR_NAME_QIE_VIN:0 "북양의 안남 개입"
 
 # Initiator: FNG, Fengtian Government
 WAR_NAME_FNG_QIE:0 "제5차 직예-봉천 전쟁"
@@ -150,7 +154,7 @@ WAR_NAME_FNG_SIK:0 "봉천의 신강 수복"
 WAR_NAME_FNG_MON:0 "봉천의 몽골 수복" 
 WAR_NAME_FNG_TIB:0 "봉천의 티베트 수복" 
 WAR_NAME_FNG_INC:0 "봉천의 안남 개입"
-WAR_NAME_FNG_VIE:0 "봉천의 안남 개입"
+WAR_NAME_FNG_VIN:0 "봉천의 안남 개입"
 
 # Initiator: CHI, Left Kuomintang / Nationalist China
 WAR_NAME_CHI_LEP:0 "중국 국민 혁명"
@@ -167,7 +171,7 @@ WAR_NAME_CHI_SIK:0 "중국의 신강 수복"
 WAR_NAME_CHI_MON:0 "중국의 몽골 수복"
 WAR_NAME_CHI_TIB:0 "중국의 티베트 수복"
 WAR_NAME_CHI_INC:0 "중국의 안남 개입"
-WAR_NAME_CHI_VIE:0 "중국의 안남 개입"
+WAR_NAME_CHI_VIN:0 "중국의 안남 개입"
 
 # Initiator: GXC, SZC, HNN, YUN- Federalist Tags
 WAR_NAME_GXC_CHI:0 "반국민당 전쟁" 
@@ -187,13 +191,13 @@ WAR_NAME_SZC_MON:0 "$ORDER$$FIRST$의 몽골 수복"
 WAR_NAME_HNN_MON:0 "$ORDER$$FIRST$의 몽골 수복"
 WAR_NAME_YUN_MON:0 "$ORDER$$FIRST$의 몽골 수복"
 WAR_NAME_GXC_INC:0 "중국의 안남 개입"
-WAR_NAME_GXC_VIE:0 "중국의 안남 개입"
+WAR_NAME_GXC_VIN:0 "중국의 안남 개입"
 WAR_NAME_SZC_INC:0 "중국의 안남 개입"
-WAR_NAME_SZC_VIE:0 "중국의 안남 개입"
+WAR_NAME_SZC_VIN:0 "중국의 안남 개입"
 WAR_NAME_HNN_INC:0 "중국의 안남 개입"
-WAR_NAME_HNN_VIE:0 "중국의 안남 개입"
+WAR_NAME_HNN_VIN:0 "중국의 안남 개입"
 WAR_NAME_YUN_INC:0 "중국의 안남 개입"
-WAR_NAME_YUN_VIE:0 "중국의 안남 개입"
+WAR_NAME_YUN_VIN:0 "중국의 안남 개입"
 WAR_NAME_GXC_QIE:0 "중국 내전" 
 WAR_NAME_GXC_FNG:0 "중국 내전" 
 WAR_NAME_SZC_QIE:0 "중국 내전" 
@@ -242,4 +246,3 @@ WAR_NAME_SZC_JAP:0 "제2차 중일전쟁"
 WAR_NAME_GXC_JAP:0 "제2차 중일전쟁"
 WAR_NAME_YUN_JAP:0 "제2차 중일전쟁"
 WAR_NAME_HNN_JAP:0 "제2차 중일전쟁"
-

@@ -46,6 +46,7 @@ RUS_mass_mobilisation:0 "대중 동원"
 RUS_cold_war:0 "황혼의 투쟁"
 RUS_cold_war_desc:0 "나팔소리가 우리를 다시 불러들이고 있습니다. - 무기가 필요하지만, 무기를 들라는 부름이 아니고, 전투를 치르는 중이지만, 전투에 나서라는 부름이 아니라 - 긴 황혼의 투쟁의 짐을 짊어지라는 부름입니다."
 RUS_state_religion:0 "국가정교회"
+RUS_rearmament_programme_idea:0 "Rearmament Programme"
 
 russian_research:0 "러시아 과학 학술원"
 russian_research_name:0 "러시아 과학 학술원"
@@ -81,7 +82,6 @@ RUS_popular_front:0 "인민전선"
 RUS_dmitry_party:0 "국가연합"
 
 ### Leader Traits ###
-
 RUS_eternal_president:0 "영원한 대통령"
 RUS_vozhd:0 "보즈드"
 RUS_black_baron:0 "검은 남작"
@@ -96,7 +96,7 @@ RUS_savvy_politician:0 "요령있는 정치 공작원"
 ### Leaders ###
 POLITICS_BORIS_SAVINKOV_DESC:0 "테러리스트, 폭력적인 미치광이, 살인자, 혁명가 그리고 독재자는 러시아 인민공화당의 지도자인 보리스 사빈코프에게 붙은 수많은 별명들 중 일부에 불과합니다. 그는 화려한 일생 동안 사회혁명당 전투조직의 일원으로서 많은 정적들을 암살했고, 1917년부터는 전쟁장관이자 유능한 책략가로 알렉산드르 케렌스키의 등 뒤에서 활약했으며, 은밀하게 러시아의 독재적 권력을 장악하려 시도했지만, 코르닐로프의 쿠데타가 실패하며 몰락했습니다. 그러나 그는 1919년 모스크바의 지하 저항 단체이자 도시를 전복한 기반이 된 '조국의 방위를 위한 연합'을 조직하며 스스로 재기에 성공했습니다.\n\n사빈코프는 한때 사회주의자였을지 모르지만, 수년 동안 자신에게 영향을 끼쳐온 수많은 사상들을 하나로 통합한 그는 이미 나약한 사회주의 혁명가들을 저버린 지 오래입니다 - 그의 모든 것은 전체주의적 독재 체제, 극도의 러시아 민족주의, 그리고 재현적 재건의 형태로 초점이 맞춰져 있습니다: 잿더미에서 솟아오르는 독수리처럼, '영도자'는 러시아의 영광을 되찾아 반동주의 패권국으로 변모시킬 것입니다. 테러리스트로 활동하던 시절 그는 당국과 그를 오흐라나에 넘길 가능성이 있는 모든 인물들로부터 숨어다녔으며, 이 때문에 사빈코프의 성격은 거의 편집증에 가깝습니다. 그는 아직도 건물이나 골목의 모든 구석을 확인하며 적을 경계하고, 일행이 있다면 단단히 긴장시키곤 합니다. 무엇보다도 그는 사회주의, 사회주의의 그 모든 형태를 경멸합니다."
 POLITICS_DMITRI_ROMANOV_DESC:0 "드미트리 파블로비치 대공은 전 러시아의 마지막 황제였던 니콜라이 2세의 종형제이자 가장 유명한 로마노프 가문원입니다. 어린 시절부터 그는 늙은 키릴 대공과는 달리 신세대 왕실의 선두 주자로 여겨졌습니다. 그는 현대 서구사회를 따르는 열렬한 스포츠맨이자 야망 있는 모험가입니다. 펠릭스 유수포프 왕자와 친분이 있었던 그는 그레고리 라스푸틴 암살에 참여했고, 그 결과 페르시아로 추방당했습니다. 하지만 덕분에 그는 러시아 혁명에서 살아남아 서유럽으로 도망쳤습니다. 코코 샤넬과 오드리 에메리와 염문을 뿌리던 드미트리는 러시아로 돌아왔고 새로운 공화정 체제를 받아들였습니다. 최소한 겉으로는요. \n\n군주주의자들과 중도우파 공화주의자들의 연대가 드미트리의 뒤에서 구성되었고 그를 구원자로 바라보게 되었습니다. 키릴의 성격을 두려워하는 이들은 "새로운 로마노프"가 위대한 입헌군주제를 만들 수 있으리라 믿으며, 귀족 공화주의자들은 그를 좌파와 우파를 하나로 통합할 강인하고 카리스마 있는 인물로 바라봅니다. 드미트리는 스스로 통치자라고 생각해 본 적도 없으며 통치에 그렇게 유능한 인물도 아니지만 제위에 오르라는 제안을 받는다면 그다지 거부하지는 않을 듯 합니다. 만약 그가 러시아를 지배하는 일에서 재미를 느끼기만 한다면 말이죠."
-POLITICS_DMITRI_ROMANOV_TSAR_DESC:0 "드미트리 2세 로마노프는 전 러시아의 마지막 황제였던 니콜라이 2세의 종형제이자 가장 유명한 로마노프 가문원입니다. 어린 시절부터 그는 늙은 키릴 대공과는 달리 신세대 왕실의 선두 주자로 여겨졌습니다. 그는 현대 서구사회를 따르는 열렬한 스포츠맨이자 야망 있는 모험가입니다. 펠릭스 유수포프 왕자와 친분이 있었던 그는 그레고리 라스푸틴 암살에 참여했고, 그 결과 페르시아로 추방당했습니다. 하지만 덕분에 그는 러시아 혁명에서 살아남아 서유럽으로 도망쳤습니다. 코코 샤넬과 오드리 에메리와 염문을 뿌리던 드미트리는 러시아로 돌아왔고 새로운 공화정 체제를 받아들였습니다. 최소한 겉으로는요. \n\n군주주의자들과 중도우파 공화주의자들의 연대가 드미트리의 뒤에서 구성되었고 그를 구원자로 바라보게 되었습니다. 키릴의 성격을 두려워하는 이들은 "새로운 로마노프"가 위대한 입헌군주제를 만들 수 있으리라 믿으며, 귀족 공화주의자들은 그를 좌파와 우파를 하나로 통합할 강인하고 카리스마 있는 인물로 바라봅니다. 드미트리는 스스로 통치자라고 생각해 본 적도 없으며 통치에 그렇게 유능한 인물도 아니지만 제위에 오르라는 제안을 받는다면 그다지 거부하지는 않을 듯 합니다. 만약 그가 러시아를 지배하는 일에서 재미를 느끼기만 한다면 말이죠."
+POLITICS_DMITRI_ROMANOV_TSAR_DESC:0 "드미트리 3세 로마노프는 전 러시아의 마지막 황제였던 니콜라이 2세의 종형제이자 가장 유명한 로마노프 가문원입니다. 어린 시절부터 그는 늙은 키릴 대공과는 달리 신세대 왕실의 선두 주자로 여겨졌습니다. 그는 현대 서구사회를 따르는 열렬한 스포츠맨이자 야망 있는 모험가입니다. 펠릭스 유수포프 왕자와 친분이 있었던 그는 그레고리 라스푸틴 암살에 참여했고, 그 결과 페르시아로 추방당했습니다. 하지만 덕분에 그는 러시아 혁명에서 살아남아 서유럽으로 도망쳤습니다. 코코 샤넬과 오드리 에메리와 염문을 뿌리던 드미트리는 러시아로 돌아왔고 새로운 공화정 체제를 받아들였습니다. 최소한 겉으로는요. \n\n군주주의자들과 중도우파 공화주의자들의 연대가 드미트리의 뒤에서 구성되었고 그를 구원자로 바라보게 되었습니다. 키릴의 성격을 두려워하는 이들은 "새로운 로마노프"가 위대한 입헌군주제를 만들 수 있으리라 믿으며, 귀족 공화주의자들은 그를 좌파와 우파를 하나로 통합할 강인하고 카리스마 있는 인물로 바라봅니다. 드미트리는 스스로 통치자라고 생각해 본 적도 없으며 통치에 그렇게 유능한 인물도 아니지만 제위에 오르라는 제안을 받는다면 그다지 거부하지는 않을 듯 합니다. 만약 그가 러시아를 지배하는 일에서 재미를 느끼기만 한다면 말이죠."
 POLITICS_PAVEL_II_DESC:0 "아버지의 사망 당시에 겨우 12살이었던 어린 파벨 2세는 섭정의회의 꼭두각시가 될 가능성이 매우 높습니다. 그럼에도 불구하고, 그가 최소한 그의 아버지의 매력 중 일부를 유전받았다는 사실은 분명한데, 그렇기에 만약 충분한 정치적 능력만 갖춘다면, 언젠가 그에게 독립적인 통치의 기회가 주어질지도 모릅니다."
 POLITICS_KYRIL_ROMANOV_CON_DESC:0 "키릴 블라디미로비치 대공, 지금 러시아의 키릴 1세는 로마노프 가문에서 가장 골칫거리입니다. 의지가 강하고 야심차며 옥좌를 빼앗을 단호할 의지를 가진 그는 여러 차례 종형제 니콜라이 2세에게 머리아픈 사건을 벌여주었습니다. 2월혁명 동안 키릴은 부하들에게 페트로그라드에 붉은 깃발을 게양하라고 명령하는 등 차르와 가문을 상대로 적대적인 행보를 보였다는 사실은 공공연한 비밀입니다. 이는 혁명적 이상에 뭔가 신념이 있어서 한 행동은 아니고, 사촌이 폐위된 후 뒤를 이어 섭정을 맡거나 어쩌면 차르 제위까지도 넘볼 수 있을지도 모른다는 희망에서 나온 행보였습니다. \n\n니콜라이와 일가족이 처형당한 이후 키릴은 흩어진 로마노프 가문에 대한 지배권을 주장했는데, 이로 인해 키릴은 러시아 옥좌를 수복할 권리가 없으며 러시아 왕가를 이끌 자격도 없다고 주장하는 나머지 가문원들과 격렬한 논쟁을 주고받았습니다. 하지만 마침내 1929년 그는 마침내 인정을 받았는데, 이는 때아닌 니콜라이 대공의 죽음이 원인이 된 것이 분명합니다. 키릴은 더 큰 민주주의적 이상에 대해 마지못해 립서비스를 던지지만, 러시아가 입헌주의로 갈지 권위주의로 갈지는 그에게 아무런 의미가 없습니다. 키릴이 책임자가 되는 한 말이지요."
 POLITICS_KYRIL_ROMANOV_ABS_DESC:0 "키릴 블라디미로비치 대공, 지금 러시아의 키릴 1세는 로마노프 가문에서 가장 골칫거리입니다. 의지가 강하고 야심차며 옥좌를 빼앗을 단호할 의지를 가진 그는 여러 차례 종형제 니콜라이 2세에게 머리아픈 사건을 벌여주었습니다. 2월혁명 동안 키릴은 부하들에게 페트로그라드에 붉은 깃발을 게양하라고 명령하는 등 차르와 가문을 상대로 적대적인 행보를 보였다는 사실은 공공연한 비밀입니다. 이는 혁명적 이상에 뭔가 신념이 있어서 한 행동은 아니고, 사촌이 폐위된 후 뒤를 이어 섭정을 맡거나 어쩌면 차르 제위까지도 넘볼 수 있을지도 모른다는 희망에서 나온 행보였습니다. \n\n니콜라이와 일가족이 처형당한 이후 키릴은 흩어진 로마노프 가문에 대한 지배권을 주장했는데, 이로 인해 키릴은 러시아 옥좌를 수복할 권리가 없으며 러시아 왕가를 이끌 자격도 없다고 주장하는 나머지 가문원들과 격렬한 논쟁을 주고받았습니다. 하지만 마침내 1929년 그는 마침내 인정을 받았는데, 이는 때아닌 니콜라이 대공의 죽음이 원인이 된 것이 분명합니다. 키릴은 의심의 여지가 없이 독재자로서의 역할을 받아들였지만, 러시아가 입헌주의로 갈지 권위주의로 갈지는 그에게 아무런 의미가 없습니다. 키릴이 책임자가 되는 한 말이지요."
@@ -133,6 +133,7 @@ POLITICS_MIKHAIL_TUKHACHEVSKY_DESC:0 "§Y장군 약력\n§Y출생:§L\n1893년 2
 POLITICS_JOSEPH_STALIN_DESC:0 "§Y장군 약력\n§Y출생:§L\n1878년 12월 18일\n러시아 제국, 트빌리시 현, 고리\n§Y군 경력:§L\n이오세브 주가슈빌리는 수많은 이름과 별명을 가졌으며 소셀로, 스탈린, 코바 등은 그들 중 가장 유명한 일부분 뿐입니다. 가난한 조지아 가족에서 태어난 이오세브는 어려서부터 신체적 장애가 있었고 싸움과 학대, 알코올 중독으로 얼룩진 괴로운 어린시절을 보냈습니다. 어린 시절에 조지아 민족주의 시문학에 이끌려 트빌리시 신학교에 입학했지만, 사회주의 문학 작품을 접하면서 이전의 신념을 버렸습니다. 그는 마르크스주의에 투신했고 러시아 사회민주노동당 볼셰비키 파벌에 가담했으며, 상납금 징수와 화폐 위조 그리고 은행 강도 등을 통해 혁명 자금을 마련했습니다. 대중 앞에서 그는 신문 '프라우다'를 발행하는 레닌의 충성스러운 부하였고 그는 자신의 기사를 활용해 유명세를 얻을 수 있었습니다.\n\n1917년 운명의 순간 주가슈빌리는 7월 봉기와 10월 혁명 조직을 도왔고 인민위원평의회에 진출했습니다. 그와 레닌 그리고 트로츠키는 국가를 통치하는 비공식적 삼두체제를 구성했습니다. 그 결과로 주가슈빌리는 백군에 저항하는 저항군을 조직하기 위해 차리친으로 파견갔고, 거기서 자신이 능력은 괜찮지만 무모한 지휘관이라는 점을 보여주었습니다. 1918년 8월 레닌이 암살당하자 그 뒤를 이은 자는 트로츠키였지만 소비에트 국가는 마침내 무너지고 말았습니다. 트로츠키와 달리 주가슈빌리는 가까스로 탈출하는데 성공했고 다른 볼셰비키 잔당과 함께 프랑스로 향해 망명상태에서 정당을 재건했습니다.\n\n주가슈빌리와고 다른 볼셰비키 동지들은 파타고니아 생디칼리슴 혁명을 지원하라는 지령을 받고 코노 수르로 파견되었습니다. 그 중에는 투하쳅스키도 있었는데, 그는 파타고니아 인터내셔널 고위 관료 중 한명이었습니다. 그 정도는 아니었지만 주가슈빌리도 인터내셔널의 정치적 이익을 대변합니다.\n§Y중요한 사항:§W- 공산주의 파벌과 연계된 인물입니다."
 POLITICS_VASILY_CHUIKOV_DESC:0 "§Y장군 약력\n§Y출생:§L\n1900년 2월 12일\n러시아 제국, 툴라 현, 세레브라녜 프루디\n§Y군 경력:§L\n바실리 추이코프는 러시아 중부 깊은 곳에서 열두명의 아이들을 기를 수 없을 정도로 빈곤하며 기아에 시달리는 가난한 농민 가정에서 아무것도 아닌 사람으로 태어났습니다. 열두 살이 된 그는 가족과 집을 떠나 전국을 여행했고 페트로그라드에서 여행을 끝냈습니다. 거기서 그는 군수공장 아동 노동자로 취직했고 기병 장교가 사용할 박차를 생산했습니다. 1917년 혁명으로 인해 열일곱 살의 추이코프는 실업자가 되었습니다. 하지만 많은 형들 중 한명과 연락이 닿았고 그 연줄을 활용해 적위대에 입대했으며, 이후 적군에도 가담합니다.\n\n추이코프는 부대를 지휘하는 능력을 여실히 보여주면서 중대장까지 진급했지만, 그의 위치에서는 이해할 수 없는 너무도 거대한 역사 속에서 중요하지 않은 인물일 뿐이었습니다. 하지만 그는 적군 잔당과 함께 간신히 프랑스로 탈출하는데 성공했습니다. 집과 가족, 그리고 일상적인 삶과 너무도 멀어진 그가 가야 할 길은 단 하나 뿐이었습니다. 망명 볼셰비키에 참가해 장교 훈련을 받고 프랑스군 지휘관이 되는 것입니다. 미하일 투하쳅스키의 가까운 동료였던 그는 자신의 가치를 증명하기를 고대하며 파타고니아로 가는 인터내셔널 군단의 일원으로 편성되었습니다."
 POLITICS_GEORGY_ZHUKOV_DESC:0 "§Y장군 약력\n§Y출생:§L\n1896년 12월 1일\n러시아 제국, 칼루가 현, 스트렐코프카\n§Y군 경력:§L\n중부 러시아의 가난한 농민 가정에서 태어난 게오르기 주코프는 자신이 군인이 되려는 생각은 한번도 한 적이 없었고, 그 대신에 모스크바에 있는 형의 작업장에 모피 상인 도제로 취직했습니다. 그리고 세계대전이 발발하자 주코프는 러시아 제국군에 징병되었습니다. 바로 여기서 그는 능력과 용맹을 보여주면서 자신의 소명을 찾았고, 정식 임관하지는 않았지만 기병 장교의 부관이 되었습니다. 10월 혁명 이후 집으로 돌아왔지만, 다시 한번 전선으로 향했습니다. 이번에는 적군 하급 지휘관으로서 군에 들어갔습니다.\n\n비록 주코프의 복무가 그다지 길지는 않지만 소비에트 정권이 무너진 이후 그는 다른 적군 지휘관들과 함께 고향을 탈출해 프랑스에 도착했습니다. 외국에서 살아가는데 완전히 적응하기는 힘들었지만, 주코프는 그 이후로도 볼셰비키 훈련 과정에 뛰어들었습니다. 장교 훈련 과정을 마친 그는 선임에게 현대 전술을 배웠고 파타고니아로 향하는 인터내셔널 군단에 자원했습니다. 혁명의 대의에 열렬한 충성을 바치는 그는 비록 경험 부족으로 인해 승진에서 자주 제외되기는 하지만, 볼셰비키 사인방 가운데 가장 신뢰하고 의지할 만한 인물입니다."
+POLITICS_ALEKSANDR_VASILEVSKIY_DESC:0 "§YGeneral Description\n§YBorn:§LSeptemer 30th, 1895, in Novaya Golchikha, Kostroma Governorate, Russian Empire\n§YMilitary Career:§L\nBorn to an extremely poor family of a priest in the Central Russian countryside, Vasilevskiy completed studies in the seminary before the Weltkrieg and considered an agronomist's career, but his plans were changed by the war, which, in his own words, "overwhelmed him with patriotic feelings". He completed a course in military law and joined the front during the Brusilov Offensive, where he served with distinction and achieved the rank of captain, thanks to high casualties among his fellow officers leaving a vacancy to fill. The war left Vasilevskiy sick, however, and he returned to his village after being demobilized in 1917, hoping to return to an agronomist's career.\n\nThat did not come to be, as in 1919, he ended up conscripted into the White Army and fought in the Volunteer Army during the last few months of the Russian Civil War. This time, Vasilevskiy stayed, accepting a commission in the new Russian army and rapidly rising through the ranks. Considered to be one of the best organizers in the general staff and a grey eminence, he is seen by many as a vanguard of the new generation of Russian officers. In person, Vasilevskiy is kind hearted, polite and extremely modest, to the point where he avoids mentioning his medals and assigns many of his achievements to the perceived brilliance of others."
 
 ### Decisions ###
 RUS_Foreign_Policy_decisions:0 "대외 정책"
@@ -171,9 +172,9 @@ RUS_Attack_Ottomans:0 "[FROM.GetFlag] [FROM.GetNameDef] 공격"
 RUS_Attack_Ottomans_desc:0 "우리의 오랜 숙적은 긴 시간동안 우리를 방해해 왔습니다. 이들을 고통에서 해방시키고, 동유럽의 거대한 질서로서의 우리의 지위를 다시 한 번 강조할 때가 되었습니다."
 
 RUS_Ultimatum_To_Persia:0 "[FROM.GetNameDef]에게 최후통첩"
-RUS_Ultimatum_To_Persia_desc:0 "[FROM.GetNameDef](은)는 거대하고 강력한 국가입니다. 그들은 우리의 적대관계가 될 필요가 없습니다. 아마도 우리는 그들과 일종의 '합의'에 도달할 수 있을 것입니다."
+RUS_Ultimatum_To_Persia_desc:0 "[FROM.GetNameDefCap](은)는 거대하고 강력한 국가입니다. 그들은 우리의 적대관계가 될 필요가 없습니다. 아마도 우리는 그들과 일종의 '합의'에 도달할 수 있을 것입니다."
 RUS_Attack_Persia:0 "[FROM.GetNameDef] 분쇄"
-RUS_Attack_Persia_desc:0 "[FROM.GetNameDef](은)는 우리의 확장 정책을 방해하고 있고, 우리의 부동항을 얻고자하는 계획을 막고 있습니다. [FROM.GetNameDef] 혹은 우리, 두 국가 중 하나가 승자가 될 것입니다!"
+RUS_Attack_Persia_desc:0 "[FROM.GetNameDefCap](은)는 우리의 확장 정책을 방해하고 있고, 우리의 부동항을 얻고자하는 계획을 막고 있습니다. [FROM.GetNameDef] 혹은 우리, 두 국가 중 하나가 승자가 될 것입니다!"
 
 RUS_Demand_Tuva:0 "투바 요구"
 RUS_Demand_Tuva_desc:0 "투바는 이전에 러시아 제국의 지배하에 있었습니다. 이제 우리는 서쪽에 있는 우리의 옛 영토를 다시 되찾았으므로, 시베리아 횡단 철도를 보호하기 위한 추가적인 완충지대를 확보하기 위해 이 국경 지역을 다시 점령해야 합니다."
@@ -201,21 +202,8 @@ RUS_Attack_Poland_desc:0 "1917년, 러시아의 붕괴 후에 폴란드 사람�
 RUS_Integration_decisions:0 "영토 통합"
 RUS_Integration_decisions_desc:0 "제국이 붕괴되면서 잃어버린 영토를 다시 통합하기 위해 노력해야 합니다. 구 정권으로부터의 변화는 우리 산업에 상당한 영향을 미칠 것이지만 장기적으로는 세계적인 위험에 직면할 수 있을만큼 러시아를 강하게 만들 것입니다."
 RUS_Integrate_Karelia:0 "카렐리야 통합"
-RUS_Integrate_Estonia:0 "에스토니아 통합"
-RUS_Integrate_Latvia:0 "라트비아 통합"
-RUS_Integrate_Lithuania:0 "리투아니아 통합"
-RUS_Integrate_White_Ruthenia:0 "백루테니아 통합"
-RUS_Integrate_Western_Ukraine:0 "서부 우크라이나 통합"
-RUS_Integrate_Eastern_Ukraine:0 "동부 우크라이나 통합"
 RUS_Integrate_Bessarabia:0 "베사라비아 통합"
-RUS_Integrate_Don_Kuban:0 "돈-쿠반 통합"
-RUS_Integrate_Georgia:0 "조지아 통합"
-RUS_Integrate_Armenia:0 "아르메니아 통합"
-RUS_Integrate_Azerbaijan:0 "아제르바이잔 통합"
-RUS_Integrate_Kazakhstan:0 "카자흐스탄 통합"
-RUS_Integrate_Turkestan:0 "투르케스탄 통합"
 RUS_Integrate_Tuva:0 "투바 통합"
-RUS_Integrate_Transamur:0 "트란스아무르 통합"
 RUS_Integrate_Sakhalin:0 "사할린 통합"
 
 RUS_Alliance_decisions:0 "러시아 영향권" #The Russian Sphere
@@ -417,7 +405,7 @@ RUS_Zemstvo_Research_Initiatives:0 "젬스트보 연구 계획"
 RUS_Zemstvo_Research_Initiatives_desc:0 "경제와 사업은 성장하고 확장하기 위해 경쟁력을 유지할 필요가 있습니다. 우리는 시행중인 사업뿐만 아니라 그 이후의 것에도 투자해야 합니다. 충분한 과학 자금을 지원한다면 국내 기업뿐만 아니라 러시아 전체에도 이익이 될 것입니다."
 
 RUS_War_Preparations_Programme:0 "전쟁 대비 계획"
-RUS_War_Preparations_Programme_desc:0 "러시아 경제가 다시 한번 성장한 가운데, 우리의 이웃들은 우리를 부러워하면서도 굶주려있습니다. 따라서, 우리는 실수해서는 안 됩니다. 전쟁이 발발한다면, 이제 막 성장하는 민간 경제는 떠오르는 별이 추락하듯이 몇 달 안에 붕괴될 것입니다."
+RUS_War_Preparations_Programme_desc:0 "러시아 경제가 다시 한번 성장한 가운데, 우리의 이웃들은 우리를 부러워합니다. 따라서, 우리는 실수해서는 안 됩니다. 전쟁이 발발한다면, 이제 막 성장하는 민간 경제는 떠오르는 별이 추락하듯이 몇 달 안에 붕괴될 것입니다."
 
 RUS_Funding_Frenzy:0 "투자 열풍"
 RUS_Funding_Frenzy_desc:0 "젬스트보에 더 많은 경제적 지원과 세금 혜택을 제공함으로써, 우리는 그들이 지역 계획에 자금을 지원하도록 할 수 있습니다. 이에 더 나아가 러시아 국민과 새로운 국가 당국 간의 관계를 강화할 것입니다."
@@ -462,7 +450,7 @@ RUS_Expand_The_Transsiberian:0 "시베리아 횡단 철도 확장"
 RUS_Expand_The_Transsiberian_desc:0 "우리 군대와 경제에 있어 시베리아 횡단 철도의 중요성은 아무리 강조해도 지나치지 않습니다. 성장으로 인해 교통 인프라가 포화상태에 이르렀으므로, 우리는 신기술을 활용하여 철도의 새로운 연결망을 건설해 교통 인프라를 확장해야 합니다."
 
 RUS_Research_Investments:0 "연구에 투자"
-RUS_Research_Investments_desc:0 "우리의 산업과 경제에 대한 막대한 투자를 통해 우리는 연구에 투입될 더 많은 자원을 확보할 수 있었습니다. 이러한 상태는 우리에게 아주 좋은 성과를 가져다 줄 것입니다."
+RUS_Research_Investments_desc:0 "우리의 산업과 경제에 대한 막대한 투자를 통해 우리는 연구에 투입될 더 많은 자원을 확보할 수 있었습니다. 이러한 상태는 우리에게 거대한 성과를 가져다 줄 것입니다."
 
 RUS_Project_Kremlin:0 "RDS-1"
 RUS_Project_Kremlin_desc:0 "이고르 쿠르차토프가 이끄는 러시아 핵과학자단은 우리에게 핵분열의 파괴적 잠재력에 대해 소개했고, 적들이 이 힘을 손에 넣기 전에 우리가 선수를 칠 필요가 있다는 청원을 보냈습니다.."
@@ -487,6 +475,9 @@ RUS_Front_Line_Commissars_desc:0 "오흐라나는 위험한 혁명가들이 군�
 
 RUS_Equipment_Modernisation:0 "장비 현대화"
 RUS_Equipment_Modernisation_desc:0 "우리는 어느 정도의 성과를 얻었지만, 여전히 우리가 해야 할 일이 더 남아있습니다. 어떤 군대든지 핵심은 결국, 세계대전에서와 마찬가지로 대포와 소총입니다."
+
+RUS_Rearmament_Programme:0 "Rearmament Programme"
+RUS_Rearmament_Programme_desc:0 "As tensions between the French and Germans continue to increase, the world finds itself closer and closer to the outbreak of a new war, one that will define the future of Europe. We must be ready to confront Germany when the time comes, and, to that end, we must embark on an ambitious programme to rearm the Russian Army."
 
 RUS_Special_Forces_Office:0 "특수 부대"
 RUS_Special_Forces_Office_desc:0 "우리 장관들은 군대의 규모도 중요하지만 실력이 확실히 더 중요하다고 믿고 있습니다. 특정 상황에 맞게 훈련을 받은 정예부대가 적진을 분쇄할 수 있을 것입니다."
@@ -519,7 +510,7 @@ RUS_High_Command_Reforms:0 "군 고위 간부 개혁"
 RUS_High_Command_Reforms_desc:0 "군 사령부는 세계대전과 적백 내전을 거치고도 배운 것이 없는 늙은이들이 차지하고 있습니다. 그들은 우리가 하고자 하는 전쟁의 형태를 이해하고 수행할 수 있는 사람들로 대체될 필요가 있습니다."
 
 RUS_Extensive_Planning:0 "대전략"
-RUS_Extensive_Planning_desc:0 "우리 참모단의 몇몇 구성원은 규율을 중시합니다. 그들은 광범위한 작전계획과 차량화를 통해 러시아 군대를 세계에서 제일가는 수준으로 만들 수 있다고 자신합니다."
+RUS_Extensive_Planning_desc:0 "Some members of our chief of staff believe in discipline, thorough logistical planning and organisational integrity above all else. With extensive planning and a general motorisation, they believe that they can make the Russian army the greatest in the world!"
 
 RUS_Military_Infrastructure:0 "군 기반 시설"
 RUS_Military_Infrastructure_desc:0 "우리의 현대화 계획은 주요 장소에 중요한 보급 지점을 설정하는 것을 포함하여 많은 준비가 필요합니다. 러시아의 철도와 고속도로는 끝에서 끝까지 뻗어 있어야 합니다!"
@@ -668,7 +659,10 @@ RUS_economic_tree_unlocked_zemstva:0 "§H젬스트보 재도입§! 중점이 해
 RUS_economic_tree_unlocked_bureaucracy:0 "§H관료제 정비§! 중점이 해금됩니다"
 RUS_economic_tree_unlocked_cooperatives:0 "§H협동자본주의§! 중점이 해금됩니다"
 
-RUS_Expansionism_tooltip:0 "§C팽창주의를 선택하면, 당신은 이벤트나 중점, 결정에서 더 공격적인 입장을 취할 수 있을 것이지만, 세계 긴장도가 상승하고 주변국을 화나게 할 것입니다!§!"
+RUS_may_lead_to_war_with_FROM:0 "§RMay lead to war with [FROM.GetNameDef]§!"
+RUS_may_lead_to_war_with_FROM_overlord:0 "§RMay lead to war with [FROM.Overlord.GetNameDef]§!"
+
+RUS_Expansionism_tooltip:0 "Unlocks extra expansion options against §HPoland§!, §HAustria§!, §HRomania§! and §HPersia§!."
 RUS_Attack_Central_Asia_ALO_tooltip:0 "§H[ALO.GetNameDef]§! 공격\n"
 RUS_Attack_Central_Asia_TRK_tooltip:0 "§H[TRK.GetNameDef]§! 공격\n"
 RUS_Integrate_Alash_Autonomy_tooltip:0 "§H[ALO.GetNameDef]§! 통합\n"
@@ -1074,73 +1068,73 @@ rusd.56.e:0 "좋아, 새로운 차르께서 질서와 안정을 가져올 것이
 rusd.56.f:0 "아니, 차르의 시대는 지났다."
  
 rusd.57.t:0 "투자 논쟁"
-rusd.57.d:0 "젬스트바 기관에 자금을 제공하는 능력은 양날의 검입니다. 현재 상태로는 젬스트바에 지역에서 얻은 세입만을 투입할 수 밖에 없고, 뭔가 사건이 터질 시에 [RUS.Capital.GetName] 정부는 지역 통치권자를 딱 집어 비난하고 다른 사람으로 대체하는 것으로 끝낼 수 있습니다. 반면에 현상을 유지시킨다면 젬스트바가 성취할 수 있는 정도를 제한하게 됩니다. 하지만 [RUS.Capital.GetName] 정부가 개입을 선언한다면 모든 실패에 책을 지게 됩니다.\n\n이런 이유로 일각에서는 신중한 투자를 권고하고 있습니다. 일부 인사들은 모든 시베리아 소규모 마을의 모든 작은 사안까지도 개입해야 한다고 주장하는 한편, 더 많은 시장 지향적인 장관들은 젬스트바가 정부 지도 없이도 여태까지 충분히 잘 해왔으며 국가는 지역 통치자가 의도한 대로 기능하도록 허락하는 선에서 그만두어야 한다고 주장합니다. 하지만 정부의 더 직접적인 개입을 원하는 다른 장관들은 얼마 되지도 않는 무책임한 직업 정치인들이 우리의 눈을 가리고 젬스트바에 국비를 지원함으로써 얻을 수 있는 잠재적인 이익에서 눈을 돌리도록 놔둬서는 안된다고 주장합니다."
+rusd.57.d:0 "젬스트보 기관에 자금을 제공하는 능력은 양날의 검입니다. 현재 상태로는 젬스트보에 지역에서 얻은 세입만을 투입할 수 밖에 없고, 뭔가 사건이 터질 시에 [RUS.Capital.GetName] 정부는 지역 통치권자를 딱 집어 비난하고 다른 사람으로 대체하는 것으로 끝낼 수 있습니다. 반면에 현상을 유지시킨다면 젬스트보가 성취할 수 있는 정도를 제한하게 됩니다. 하지만 [RUS.Capital.GetName] 정부가 개입을 선언한다면 모든 실패에 책을 지게 됩니다.\n\n이런 이유로 일각에서는 신중한 투자를 권고하고 있습니다. 일부 인사들은 모든 시베리아 소규모 마을의 모든 작은 사안까지도 개입해야 한다고 주장하는 한편, 더 많은 시장 지향적인 장관들은 젬스트보가 정부 지도 없이도 여태까지 충분히 잘 해왔으며 국가는 지역 통치자가 의도한 대로 기능하도록 허락하는 선에서 그만두어야 한다고 주장합니다. 하지만 정부의 더 직접적인 개입을 원하는 다른 장관들은 얼마 되지도 않는 무책임한 직업 정치인들이 우리의 눈을 가리고 젬스트보에 국비를 지원함으로써 얻을 수 있는 잠재적인 이익에서 눈을 돌리도록 놔둬서는 안된다고 주장합니다."
 rusd.57.a:0 "소규모로 유지하자."
 rusd.57.b:0 "투자를 증가시키자."
 rusd.57.c:0 "대규모 투자를 하자."
 
 rusd.58.t:0 "투자의 방향"
-rusd.58.d:0 "우리가 젬스트바를 확장하면서, 새로운 투자 기회가 열렸습니다. 이제 우리는 어디에, 어떻게 투자할 것인지 결정해야 합니다."
+rusd.58.d:0 "우리가 젬스트보를 확장하면서, 새로운 투자 기회가 열렸습니다. 이제 우리는 어디에, 어떻게 투자할 것인지 결정해야 합니다."
 rusd.58.a:0 "관료주의적인 문제에 집중하자."
 rusd.58.b:0 "지역 산업 개발에 투자하자."
 rusd.58.c:0 "지역 연구 시설에 투자하자."
 
 rusd.59.t.hospital:0 "의료 시스템 확장"
-rusd.59.d.hospital:0 "오늘 [RUS_zemstvo_state.GetName]에 새 병원이 문을 열었습니다. 젬스트바가 이끄는 지역 정부는 지역 지도자들이 더 빠르고 정확하게 지역민들의 요구에 반응할 수 있도록 만들었으며, 새로 지어진 병원은 일어날지도 모르는 지역 보건 위기를 효과적으로 차단하고 있습니다. 주민들의 삶의 질이 향상되면서, 정부 요인들은 만족하고 있습니다."
+rusd.59.d.hospital:0 "오늘 [RUS_zemstvo_state_1.GetName]에 새 병원이 문을 열었습니다. 젬스트보가 이끄는 지역 정부는 지역 지도자들이 더 빠르고 정확하게 지역민들의 요구에 반응할 수 있도록 만들었으며, 새로 지어진 병원은 일어날지도 모르는 지역 보건 위기를 효과적으로 차단하고 있습니다. 주민들의 삶의 질이 향상되면서, 정부 요인들은 만족하고 있습니다."
 
 rusd.59.t.schools:0 "새 학교가 문을 열다"
-rusd.59.d.schools:0 "[RUS_zemstvo_state.GetName]에 이루어진 투자 덕분에, 빠른 속도로 지역에 학교가 지어지고 있고 선생들이 교육받고 있습니다. 교육 시스템의 빠른 발전으로 지역 주민들의 삶의 질이 크게 향상되고 있습니다. 젬스트보의 성공은 정부의 성공이나 마찬가지입니다."
+rusd.59.d.schools:0 "[RUS_zemstvo_state_1.GetName]에 이루어진 투자 덕분에, 빠른 속도로 지역에 학교가 지어지고 있고 선생들이 교육받고 있습니다. 교육 시스템의 빠른 발전으로 지역 주민들의 삶의 질이 크게 향상되고 있습니다. 젬스트보의 성공은 정부의 성공이나 마찬가지입니다."
 
 rusd.59.t.housing:0 "젬스트보 주택 공급 프로그램"
-rusd.59.d.housing:0 "[RUS_zemstvo_state.GetName]의 지역 젬스트보에 의해 시작된 주택 공급 프로그램이 긍정적인 결과를 낳고 있습니다. 보고에 따르면 지역 노숙자의 숫자가 줄어들고 있으며, 주민들의 삶의 질이 향상됨에 따라 그들의 애국심도 자라고 있습니다. 결국, 정부가 주민들의 머리 위에 지붕을 씌워줌으로써 그들의 투쟁은 끝났습니다."
+rusd.59.d.housing:0 "[RUS_zemstvo_state_1.GetName]의 지역 젬스트보에 의해 시작된 주택 공급 프로그램이 긍정적인 결과를 낳고 있습니다. 보고에 따르면 지역 노숙자의 숫자가 줄어들고 있으며, 주민들의 삶의 질이 향상됨에 따라 그들의 애국심도 자라고 있습니다. 결국, 정부가 주민들의 머리 위에 지붕을 씌워줌으로써 그들의 투쟁은 끝났습니다."
 
 rusd.59.t.civilian_industry_1:0 "산업 확장"
-rusd.59.d.civilian_industry_1:0 "부유한 사업가들로 구성된 [RUS_zemstvo_state.GetName]의 젬스트바는 지역 공장 신설에 상당한 투자를 했습니다. 이 신설 공장들은 지역 경제를 활성화시키고 있으며, 지역의 산업 확장은 또한 이 주의 산업을 활성화시키고 있습니다."
+rusd.59.d.civilian_industry_1:0 "부유한 사업가들로 구성된 [RUS_zemstvo_state_1.GetName]의 젬스트보는 지역 공장 신설에 상당한 투자를 했습니다. 이 신설 공장들은 지역 경제를 활성화시키고 있으며, 지역의 산업 확장은 또한 이 주의 산업을 활성화시키고 있습니다."
 
 rusd.59.t.civilian_industry_2:0 "경제 개발"
-rusd.59.d.civilian_industry_2:0 "[RUS_zemstvo_state.GetName]의 젬스트바는 자원과 전문가들을 활용해 지역 경제 활성화 계획을 시작했습니다. 수백만 루블이 지역 기업에 쏟아져 들어왔고 경제 활동의 증가는 외부 투자 유치에도 자석처럼 작용했습니다. 상점과 공장들이 여러 도시에 문을 열었고 새로운 철도는 러시아 전역의 선반에 상품을 채우기 위해 지역의 끝에서 끝으로 깔리고 있습니다. 당연히, 이러한 부들은 필연적으로 상류로 흘러가 [RUS.Capital.GetName]에도 도달할 것입니다."
+rusd.59.d.civilian_industry_2:0 "[RUS_zemstvo_state_1.GetName]와 [RUS_zemstvo_state_2.GetName]의 젬스트보는 자원과 전문가들을 활용해 지역 경제 활성화 계획을 시작했습니다. 수백만 루블이 지역 기업에 쏟아져 들어왔고 경제 활동의 증가는 외부 투자 유치에도 자석처럼 작용했습니다. 상점과 공장들이 여러 도시에 문을 열었고 새로운 철도는 러시아 전역의 선반에 상품을 채우기 위해 지역의 끝에서 끝으로 깔리고 있습니다. 당연히, 이러한 부들은 필연적으로 상류로 흘러가 [RUS.Capital.GetName]에도 도달할 것입니다."
 
 rusd.59.t.military_industry:0 "무기 생산 증대"
-rusd.59.d.military_industry:0 "[RUS_zemstvo_state.GetName]에 현대적인 생산 설비를 도입한 지역 상인의 투자는 최근 큰 성과를 거두었습니다. 물건들이 상점의 선반에 기록적인 속도로 쌓이고 있고, 이 투자로 인해 우리 국영 기업들도 혜택을 보고 있습니다. 소비재가 많이 생산되는 건 좋은 일이나, 또한 우리는 국방 문제에도 신경을 써야 합니다."
+rusd.59.d.military_industry:0 "[RUS_zemstvo_state_1.GetName]에 현대적인 생산 설비를 도입한 지역 상인의 투자는 최근 큰 성과를 거두었습니다. 물건들이 상점의 선반에 기록적인 속도로 쌓이고 있고, 이 투자로 인해 우리 국영 기업들도 혜택을 보고 있습니다. 소비재가 많이 생산되는 건 좋은 일이나, 또한 우리는 국방 문제에도 신경을 써야 합니다."
 
-rusd.59.t.civilian_industry_3:0 "[RUS_zemstvo_state.GetName]의 대규모 산업 확장"
-rusd.59.d.civilian_industry_3:0 "[RUS_zemstvo_state.GetName](은)는 지역 산업 혁명의 중심입니다. 좋은 산업 환경과 풍부한 전문인력 그리고 통찰력 있는 지도층의 존재는 지역의 꾸준한 산업 발전을 이끌어 왔습니다. 수천명의 사람들이 지역 공장에서 일하고 있으며 상품들이 어마무시한 속도로 생산되고 있습니다. 이는 우리 경제 정책이 성공했다는 본보기입니다!"
+rusd.59.t.civilian_industry_3:0 "대규모 산업 확장"
+rusd.59.d.civilian_industry_3:0 "[RUS_zemstvo_state_1.GetName], [RUS_zemstvo_state_2.GetName] 그리고 [RUS_zemstvo_state_3.GetName](은)는 지역 산업 혁명의 중심입니다. 좋은 산업 환경과 풍부한 전문인력 그리고 통찰력 있는 지도층의 존재는 이 지역들의 꾸준한 산업 발전을 이끌어 왔습니다. 수천명의 사람들이 지역 공장에서 일하고 있으며 상품들이 어마무시한 속도로 생산되고 있습니다. 이는 우리 경제 정책이 성공했다는 본보기입니다!"
 
 rusd.59.t.infrastructure:0 "인프라 향상"
-rusd.59.d.infrastructure:0 "[RUS_zemstvo_state.GetName]의 지방 총독에게 지역 도로의 관리 상태가 충격을 주었고, 그는 그의 사비를 털어 새 도로를 깔도록 지시했습니다. 지난 몇 주 동안, 노동자들은 삽을 들어 땅을 파기 시작했습니다. 지역 신문은 그의 노력을 추켜세웠으나, 이러한 노력의 이득을 보는 것은 [ROOT.Capital.GetName] 지역 정부일 것입니다."
+rusd.59.d.infrastructure:0 "[RUS_zemstvo_state_1.GetName]의 지방 총독에게 지역 도로의 관리 상태가 충격을 주었고, 그는 그의 사비를 털어 새 도로를 깔도록 지시했습니다. 지난 몇 주 동안, 노동자들은 삽을 들어 땅을 파기 시작했습니다. 지역 신문은 그의 노력을 추켜세웠으나, 이러한 노력의 이득을 보는 것은 [ROOT.Capital.GetName] 지역 정부일 것입니다."
 
 rusd.59.t.agriculture:0 "농작물 생산량 증가"
-rusd.59.d.agriculture:0 "[RUS_zemstvo_state.GetName]의 농업 계획으로 올해 농작물 생산량이 예년에 비해 엄청나게 증가했습니다! 상점 선반과 농민들의 은행 잔고가 가득 찼고, 이러한 성과의 결실은 우리에게도 올 것입니다."
+rusd.59.d.agriculture:0 "[RUS_zemstvo_state_1.GetName]의 농업 계획으로 올해 농작물 생산량이 예년에 비해 엄청나게 증가했습니다! 상점 선반과 농민들의 은행 잔고가 가득 찼고, 이러한 성과의 결실은 우리에게도 올 것입니다."
 
 rusd.59.t.synthetics:0 "합성 정유 분야의 혁신"
-rusd.59.d.synthetics:0 "최근 젬스트보의 예산 증액이 어마어마한 성과를 만든 것 같습니다! [RUS_zemstvo_state.GetName]는 그들이 합성 공장을 설립하였고, 연료와 고무가 원활히 생산되고 있다고 보고했습니다. 이는 지역 주민들에게 도움이 될 것이고, 많은 수출 이윤을 보장할 것입니다. 또한 이 발전은 우리 군수 산업에도 도움이 될 것입니다."
+rusd.59.d.synthetics:0 "최근 젬스트보의 예산 증액이 어마어마한 성과를 만든 것 같습니다! [RUS_zemstvo_state_1.GetName]는 그들이 합성 공장을 설립하였고, 연료와 고무가 원활히 생산되고 있다고 보고했습니다. 이는 지역 주민들에게 도움이 될 것이고, 많은 수출 이윤을 보장할 것입니다. 또한 이 발전은 우리 군수 산업에도 도움이 될 것입니다."
 
 rusd.59.t.failure_1:0 "젬스트보의 경영 실패"
-rusd.59.d.failure_1:0 "분산 통치는 많은 이점을 가지고 있지만, 정부의 감독 부족은 때때로 부정적인 문제를 야기하고 있습니다. 우리는 최근 [RUS_zemstvo_state.GetName]에 있는 많은 공장들과 회사들에 대해 알게 되었는데, 이들은 총체적인 관리 실패로 인해 꽤 오랜 시간 동안 제대로 운영되지 못하고 있었습니다. 지역 총독이 문제를 해결하기 위해 개입했지만, 그럼에도 불구하고 우리는 이러한 광범위한 방치를 끝내지 못한 대가를 치루게 되었습니다."
+rusd.59.d.failure_1:0 "분산 통치는 많은 이점을 가지고 있지만, 정부의 감독 부족은 때때로 부정적인 문제를 야기하고 있습니다. 우리는 최근 [RUS_zemstvo_state_1.GetName]에 있는 많은 공장들과 회사들에 대해 알게 되었는데, 이들은 총체적인 관리 실패로 인해 꽤 오랜 시간 동안 제대로 운영되지 못하고 있었습니다. 지역 총독이 문제를 해결하기 위해 개입했지만, 그럼에도 불구하고 우리는 이러한 광범위한 방치를 끝내지 못한 대가를 치루게 되었습니다."
 
 rusd.59.t.failure_2:0 "횡령 스캔들에 휘말린 젬스트보"
-rusd.59.d.failure_2:0 "경제 문제에 대한 우리의 자유방임적 접근은 경제를 크게 발전시켜 왔지만, 느슨한 규제 때문에 생산된 부의 대부분이 사기꾼의 주머니에 넘어가고 있습니다. 최근[RUS_zemstvo_state.GetName]에서는 몇몇의 부유한 상인들이 그들의 부를 지역 젬스트바를 매수하기 위해 사용했습니다. 그들은 법이 그들을 멈추게 할 때까지 지역 재원으로부터 엄청난 양의 자금을 횡령하는 데 성공했습니다. 하지만 이러한 예시는 빙산의 일각에 불과합니다. 우리는 이러한 부패와 맞서 싸워야 합니다."
+rusd.59.d.failure_2:0 "경제 문제에 대한 우리의 자유방임적 접근은 경제를 크게 발전시켜 왔지만, 느슨한 규제 때문에 생산된 부의 대부분이 사기꾼의 주머니에 넘어가고 있습니다. 최근 [RUS_zemstvo_state_1.GetName]에서는 몇몇의 부유한 상인들이 그들의 부를 지역 젬스트보를 매수하기 위해 사용했습니다. 그들은 법이 그들을 멈추게 할 때까지 지역 재원으로부터 엄청난 양의 자금을 횡령하는 데 성공했습니다. 하지만 이러한 예시는 빙산의 일각에 불과합니다. 우리는 이러한 부패와 맞서 싸워야 합니다."
 
 rusd.59.t.failure_3:0 "젬스트보가 긴급 지원을 요청하다!"
 rusd.59.d.failure_3:0 "일련의 투자 실패와 형편없는 계획으로 인해 젬스트보 프로젝트에 관련된 몇몇 주요 회사들이 적자에 내몰리게 되었고, 우리는 그들의 프로젝트가 완전히 실패하는 것을 막기 위해 정부의 구제금융을 그들에게 제공할 수 밖에 없었습니다. 앞으로 몇 달 간은 우리의 허리를 졸라매고 이를 악물면서 버틸 수 밖에 없을 것입니다. 물론 일이 이렇게 되기까지 방치한 총독도 책임을 져야 할 것입니다..."
 
 rusd.59.t.industrial_research:0 "기술 혁신"
-rusd.59.d.industrial_research:0 "[RUS_zemstvo_state.GetName]의 우리 연구진들은 토목공학 부문에서 그들이 상당한 진전을 거두었다고 보고했습니다. 그들의 노력의 결실은 우리나라 전역의 연구진들에게 큰 도움이 될 것입니다."
+rusd.59.d.industrial_research:0 "[RUS_zemstvo_state_1.GetName]의 우리 연구진들은 토목공학 부문에서 그들이 상당한 진전을 거두었다고 보고했습니다. 그들의 노력의 결실은 우리나라 전역의 연구진들에게 큰 도움이 될 것입니다."
 
 rusd.59.t.industrial_research_bonus:0 "산업 혁신!"
-rusd.59.d.industrial_research_bonus:0 "좋은 소식입니다! [RUS_zemstvo_state.GetName]의 천재들이 오늘 산업과 토목 공학 분야에서 큰 발전을 이루었다고 발표했습니다! 그들의 연구 성과 덕분에 연구개발 분야에 들어가는 노력을 덜 수 있게 되었습니다. 테스트 준비가 끝났습니다!"
+rusd.59.d.industrial_research_bonus:0 "좋은 소식입니다! [RUS_zemstvo_state_1.GetName]의 천재들이 오늘 산업과 토목 공학 분야에서 큰 발전을 이루었다고 발표했습니다! 그들의 연구 성과 덕분에 연구개발 분야에 들어가는 노력을 덜 수 있게 되었습니다. 테스트 준비가 끝났습니다!"
 
 rusd.59.t.industrial_research_failure:0 "산업 연구에 차질이 생기다!"
-rusd.59.d.industrial_research_failure:0 "[RUS_zemstvo_state.GetName]의 우리 연구진들이 연구에 중대한 차질이 생겼다고 보고했습니다. 젬스트보의 교수들은 그들의 연구에서 끔찍한 실수를 저질렀고 (불행히도 수많은 테스트를 거친 후에야) 지금까지의 그들의 연구들이 잘못된 전제에 바탕을 둔 것으로 밝혀졌습니다. 불행히도, 몇몇 국책 연구팀들은 그들의 연구를 그들의 프로젝트의 기반으로 사용했습니다. 이는 앞으로 몇 달 동안 전반적인 연구 속도가 둔화될 것이라는 것을 의미합니다."
+rusd.59.d.industrial_research_failure:0 "[RUS_zemstvo_state_1.GetName]의 우리 연구진들이 연구에 중대한 차질이 생겼다고 보고했습니다. 젬스트보의 교수들은 그들의 연구에서 끔찍한 실수를 저질렀고 (불행히도 수많은 테스트를 거친 후에야) 지금까지의 그들의 연구들이 잘못된 전제에 바탕을 둔 것으로 밝혀졌습니다. 불행히도, 몇몇 국책 연구팀들은 그들의 연구를 그들의 프로젝트의 기반으로 사용했습니다. 이는 앞으로 몇 달 동안 전반적인 연구 속도가 둔화될 것이라는 것을 의미합니다."
 
 rusd.59.t.military_research:0 "군사 혁신"
-rusd.59.d.military_research:0 "[RUS_zemstvo_state.GetName]의 우리 연구진들은 군사 공학 분야에서 그들이 진전을 이루었다고 보고했습니다. 새로운 발명을 이루어 낸 그들의 노력은 국가 전역의 우리 연구진들에게 도움이 될 것입니다."
+rusd.59.d.military_research:0 "[RUS_zemstvo_state_1.GetName]의 우리 연구진들은 군사 공학 분야에서 그들이 진전을 이루었다고 보고했습니다. 새로운 발명을 이루어 낸 그들의 노력은 국가 전역의 우리 연구진들에게 도움이 될 것입니다."
 
 rusd.59.t.military_research_bonus:0 "군사 혁신!"
-rusd.59.d.military_research_bonus:0 "좋은 소식입니다! [RUS_zemstvo_state.GetName]의 천재들이 오늘 군사 공학 분야에서 큰 발전을 이루었다고 발표했습니다! 그들의 연구 성과 덕분에 연구개발 분야에 들어가는 노력을 덜 수 있게 되었습니다. 테스트 준비가 끝났습니다!"
+rusd.59.d.military_research_bonus:0 "좋은 소식입니다! [RUS_zemstvo_state_1.GetName]의 천재들이 오늘 군사 공학 분야에서 큰 발전을 이루었다고 발표했습니다! 그들의 연구 성과 덕분에 연구개발 분야에 들어가는 노력을 덜 수 있게 되었습니다. 테스트 준비가 끝났습니다!"
 
 rusd.59.t.military_research_failure:0 "군사 연구에 차질이 생기다!"
-rusd.59.d.military_research_failure:0 "끔찍한 소식입니다! [RUS_zemstvo_state.GetName]의 주요 연구시설에서 실험 도중 연기가 뿜어져 나왔습니다... 바로 그들의 얼굴로요. 비록 다친 사람은 없지만, 우리는 우리 군대가 사용할 최고의 소총을 만들어내는 데는 지름길이 없다는 것을 배웠습니다. 망가진 시설을 보수하고 개조하는 동안 연구는 지연될 것입니다."
+rusd.59.d.military_research_failure:0 "끔찍한 소식입니다! [RUS_zemstvo_state_1.GetName]의 주요 연구시설에서 실험 도중 연기가 뿜어져 나왔습니다... 바로 그들의 얼굴로요. 비록 다친 사람은 없지만, 우리는 우리 군대가 사용할 최고의 소총을 만들어내는 데는 지름길이 없다는 것을 배웠습니다. 망가진 시설을 보수하고 개조하는 동안 연구는 지연될 것입니다."
 
 rusd.59.a:0 "훌륭하군."
 rusd.59.b:0 "무능한 멍청이들!"
@@ -1567,6 +1561,7 @@ rusfor.1021.b:0 "거절하고 러시아의 영향력을 제한하자!"
 rusfor.1022.t:0 "아제르바이잔이 저항하다"
 rusfor.1022.d:0 "어리석은 아제르바이잔 정부는 그들의 정부에 우리의 영향력을 행사하려는 우리의 시도를 거부했습니다. 이 무례함을 어떻게 심판해야 할까요?"
 rusfor.1022.a:0 "전쟁으로 해결할 것이다!"
+rusfor.1022.b:0 "퇴각하라."
 
 rusfor.1023.t:0 "아제르바이잔이 받아들이다!"
 rusfor.1023.d:0 "아제르바이잔은 국영 석유 산업에 대한 우리의 과반수 지분 인수를 수락했습니다. 이것은 우리에게 아제르바이잔의 경제와 정부를 완전히 지배하거나 러시아로의 재통합을 시작할 수 있는 충분한 발판을 제공할 것입니다."
@@ -1750,14 +1745,15 @@ rusfor.1071.d:0 "러시아가 우리의 아르메니아계 영토의 통제권�
 rusfor.1071.a:0 "어쩔 수 없다. 수락하자."
 rusfor.1071.b:0 "이 북쪽 야만인들에 대항하여 일어서자!"
 
-rusfor.1072.t:0 "[FROM.GetNameDef]의 대아르메니아 양보"
-rusfor.1072.d:0 "[FROM.GetNameDef](이)가 우리의 요구를 받아들였고, 이제 우리는 대아르메니아의 지배자입니다."
+rusfor.1072.t:0 "[FROM.GetNameDefCap]의 대아르메니아 양보"
+rusfor.1072.d:0 "[FROM.GetNameDefCap](이)가 우리의 요구를 받아들였고, 이제 우리는 대아르메니아의 지배자입니다!"
 rusfor.1072.a:0 "우라!"
 rusfor.1072.b:0 "우리의 캅카스 속국에게 주자!"
 
-rusfor.1073.t:0 "[FROM.GetNameDef]의 요구 거절"
+rusfor.1073.t:0 "[FROM.GetNameDefCap]의 요구 거절"
 rusfor.1073.d:0 "마침내 우리는 오스만 영사관으로부터 [Root.GetLeader]에게 직접 쓰인 편지를 받았습니다. 그들은 대아르메니아 지역의 반환을 거부했습니다. 더 골치아픈 것은, 그 편지에는 그 땅이 온전히 투르크의 땅이라는 것과, 우리 정권에 대한 경멸적인 모욕으로 가득 차 있었으며, 무분별한 팽창주의와 역사적 수정주의의 국가라고 우리를 비난했다는 것이었습니다."
 rusfor.1073.a:0 "분명 후회할 것이다!"
+rusfor.1073.b:0 "강압에 의한 것이라 믿고 가겠다!"
 
 rusfor.1082.t:0 "트란스아무르 탈취"
 rusfor.1082.d:0 "러시아국이 한 때 분쟁의 대상이었던 몽골의 시베리아 횡단철도를 완전히 장악하면서, 트랜스아무르와의 상업적 접촉이 크게 증가했고, 대규모 러시아 투자의 유입에 의해 일본의 영향력이 줄어들기 시작했습니다. 러시아 내전 당시 일본 침략을 통해 만들어진 국가인 트란스아무르 경제는 최근 해방된 시베리아 횡단 철도를 통한 값싼 러시아 상품의 유입으로 심각한 어려움을 겪기 시작했습니다. 이제 몇 명의 병사만 파견하면 그들을 쉽게 무너뜨릴 수 있을 것입니다."
@@ -1806,9 +1802,10 @@ rusfor.1180.d:0 "어제 러시아 정부는 베사라비아 지역의 반환을 
 rusfor.1180.a:0 "받아들이자."
 rusfor.1180.b:0 "안돼!"
 
-rusfor.1181.t:0 "[FROM.GetNameDef](이)가 거절했다!"
+rusfor.1181.t:0 "[FROM.GetNameDefCap](이)가 거절하다!"
 rusfor.1181.d:0 "[FROM.GetAdjective] 정부는 베사라비아가 당연히 루마니아 영토이며 러시아는 결코 그것을 되찾지 못할 것이라고 주장했습니다. 이 문제의 유일한 해결책은 [FROM.GetNameDef](와)과의 전쟁입니다."
 rusfor.1181.a:0 "그럼 전쟁이다."
+rusfor.1181.b:0 "퇴각하라."
 
 rusfor.1210.t:0 "갈리치아 최후통첩"
 rusfor.1210.d:0 "러시아인들이 최후통첩을 보내, 갈리치아를 할양하지 않으면 전쟁을 선포하겠다고 요구해왔습니다. 어떻게 할까요?"
@@ -1823,6 +1820,7 @@ rusfor.1211.a:0 "우라!"
 rusfor.1212.t:0 "오스트리아가 거절하다!"
 rusfor.1212.d:0 "미친 오스트리아인들은 우리의 최후통첩을 거부했습니다. 어떻게 할까요?"
 rusfor.1212.a:0 "그럼 전쟁이다."
+rusfor.1212.b:0 "퇴각하라."
 
 rusfor.1222.t:0 "오스트리아가 우리를 배신했다!"
 rusfor.1222.d:0 "오스트리아는 러시아의 최후통첩을 수락했고 우리를 그들의 위협에 방치했습니다. 어떻게 해야 할까요?"
@@ -1843,27 +1841,33 @@ rusfor.1230.d:0 "핀란드 왕국은 비보르그와 카렐리야 할양이라�
 rusfor.1230.a:0 "무력으로라도 되찾겠다!"
 rusfor.1230.b:0 "잊어버리자."
 
-rusfor.1231.t:0 "영토 할양"
-rusfor.1231.d:0 "핀란드 왕국이 물질적,금전적 보상을 대가로 하는 비보르그,카렐리야 일부의 할양에 동의했습니다!"
+rusfor.1231.t:0 "카렐리야 할양"
+rusfor.1231.d:0 "[FROM.GetNameDefCap] has agreed to transfer the larger part of Karelia in return for monetary and material compensation as well as the guarantee of the security of their new borders!"
 rusfor.1231.a:0 "러시아 외교의 또 다른 승리다!"
 
 rusfor.1232.t:0 "우리는 패배하고 있다!"
-rusfor.1232.d:0 "러시아국 군대는 우리에게 큰 패배를 안겨 주었습니다. 그들이 우리 조국을 완전히 점령하기 전에 우리는 이 전쟁을 끝내야 합니다."
+rusfor.1232.d.defeat:0 "The armed forces of the Russian state have inflicted a series of great defeats upon us, and they encroach further upon our lands by the day. We must end this war before they manage to overrun our entire homeland."
+rusfor.1232.d.victory:0 "We have successfully routed the armed forces of the Russian state and inflicted a series of great defeats upon them. This is an opportunity to offer them peace in exchange for Karelia."
 rusfor.1232.a:0 "평화협정을 제안하라!"
 rusfor.1232.b:0 "아직 이길 수 있다!"
 
 rusfor.1233.t:0 "핀란드와의 평화협정?"
-rusfor.1233.d:0 "카렐리야 재정복으로 핀란드 정부는 양국간의 평화협정을 제안하면서 우리의 카렐리야 영유권을 인정하겠다고 전해왔습니다. 어떻게 할까요?"
+rusfor.1233.d.victory:0 "카렐리야 재정복으로 핀란드 정부는 양국간의 평화협정을 제안하면서 우리의 카렐리야 영유권을 인정하겠다고 전해왔습니다. 어떻게 할까요?"
+rusfor.1233.d.defeat:0 "With our armies completely routed, the government of Finland has declared their desire to end the state of war between our nations, demanding sovereignty over Karelia in the process. How shall we respond?"
 rusfor.1233.a:0 "제안을 받아들여라!"
 rusfor.1233.b:0 "아니, 그들을 끝까지 박살낼 것이다!"
 
 rusfor.1234.t:0 "페트로그라드 조약"
-rusfor.1234.d:0 "러시아국이 우리의 항복 요청을 받아들였고, 전쟁이 공식적으로 끝났습니다."
+rusfor.1234.d.defeat:0 "러시아국이 우리의 항복 요청을 받아들였고, 전쟁이 공식적으로 끝났습니다."
+rusfor.1234.d.victory:0 "The Russian state has agreed to our offer of peace. Karelia has been ceded, and the war is finally over."
 rusfor.1234.a:0 "적어도 우리는 살아있잖아!"
+rusfor.1234.b:0 "A magnificent victory!"
 
 rusfor.1235.t:0 "페트로그라드 조약"
-rusfor.1235.d:0 "우리의 무적의 군대는 러시아 내전 당시 부당하게 도둑맞은 것들을 가까스로 되찾을 수 있었습니다. 온 국민이 이 멋진 승리를 축하하고 있습니다!"
+rusfor.1235.d.victory:0 "우리의 무적의 군대는 대전쟁 직후 당시 부당하게 도둑맞은 것들을 가까스로 되찾을 수 있었습니다. 온 국민이 이 멋진 승리를 축하하고 있습니다!"
+rusfor.1235.d.defeat:0 "We have signed today a peace treaty with Finland, officially ceding the Karelian and Kola peninsulas in their entirety to the Finnish state. The only silver lining is that this war is finally over."
 rusfor.1235.a:0 "러시아는 승리한다!"
+rusfor.1235.b:0 "A bitter defeat."
 
 rusfor.1273.t:0 "중앙아시아 무슬림의 종교 행정"
 rusfor.1273.d:0 "중앙아시아가 합병된 후, 많은 이슬람계 주민들이 러시아의 손에 들어왔습니다. 그들은 이전에 지역 반계몽주의 사제들과 설교자들에게 지배당했습니다. 우리가 이들을 러시아 사회로 동화시켜 충성스럽고 평화로운 러시아인이 되도록 해야 한다는 것은 명백합니다. 이제 우리는 두 가지 선택을 할 수 있습니다. 중앙아시아의 이슬람교도들을 위한 특별한 종교 행정부를 설립하거나, 충성스런 타타르족과 바쉬키르족에 의해 통제되는 오렌부르크 이슬람 종교 의회에 추가적인 권한을 부여할 수 있습니다."
@@ -1898,6 +1902,21 @@ rusfor.1278.a:0 "예상했던 대로다."
 rusfor.1279.t:0 "캅카스 북부의 질서가 확립되었다"
 rusfor.1279.d:0 "우리가 돈-쿠반 지역을 탈환한 지 6개월이 넘었고, 마침내 지역 전역에 대한 통제권을 확보할 수 있게 되었습니다. 지역 러시아인들과 기독교 국가들이 마침내 적대적인 부족의 약탈 위협에서 벗어났고 우리에 대항하여 싸웠던 범죄자들이 죽거나 도망쳤습니다. 러시아 남부에 새로운 번영의 시대가 열렸습니다!"
 rusfor.1279.a:0 "좋아!"
+
+rusfor.1280.t:0 "Successful Integration of [RUS_puppet_to_annex.GetNameDef]"
+rusfor.1280.d:0 "With the integration process complete, [RUS_puppet_to_annex.GetNameDef] has been formally annexed into our administration, and its government has ceased to exist."
+rusfor.1280.a:0 "Perfect!"
+
+rusfor.1281.t:0 "The Ottomans are Collapsing!"
+rusfor.1281.d:0 "As the War in the Desert reaches a climax, it seems the Ottoman Empire has reached a point of complete collapse, and their forces are in full retreat from Mesopotamia and the Levant. This is a perfect opportunity for us to regain the provinces of Greater Armenia, as the alternative for them is to declare war on us."
+rusfor.1281.a:0 "Give the order!"
+rusfor.1281.b:0 "This is too risky."
+
+rusfor.1282.t:0 "Russia Seizes Greater Armenia!"
+rusfor.1282.d.OTT:0 "Russia has taken advantage of our weakness to occupy our Eastern provinces. With our military in tatters following the war with the Cairo Pact, it would be suicidal to try and stop them."
+rusfor.1282.d.other:0 "Russia has taken advantage of the Ottoman weakness to occupy their Eastern provinces of Kars and Ardahan, considered part of Greater Armenia."
+rusfor.1282.a:0 "We will remember this."
+rusfor.1282.b:0 "Not our problem."
 
 #Russian World News#
 russianews.1.t:0 "보즈드의 부상"
@@ -1995,4 +2014,3 @@ RUS_empire_paternal_autocrat_DEF:0 "러시아 제국"
 RUS_empire_national_populist:0 "러시아 제국"
 RUS_empire_national_populist_ADJ:0 "러시아"
 RUS_empire_national_populist_DEF:0 "러시아 제국"
-
