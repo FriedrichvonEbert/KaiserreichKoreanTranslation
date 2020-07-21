@@ -3,10 +3,10 @@
 persia_focus:0 "페르시아 중점계통도"
 
 ### Parties ###
-PER_totalist_party:0 "이란 사회주의당"
-PER_totalist_party_long:0 "이란 사회주의당"
-PER_syndicalist_party:0 "이란 생디칼리스트당"
-PER_syndicalist_party_long:0 "이란 생디칼리스트당"
+PER_totalist_party:0 "이란 사회당"
+PER_totalist_party_long:0 "이란 사회당"
+PER_syndicalist_party:0 "이란 생디칼리슴당"
+PER_syndicalist_party_long:0 "이란 생디칼리슴당"
 PER_radical_socialist_party:0 "에달라트당"
 PER_radical_socialist_party_long:0 "에달라트당"
 PER_social_democrat_party:0 "민주당"

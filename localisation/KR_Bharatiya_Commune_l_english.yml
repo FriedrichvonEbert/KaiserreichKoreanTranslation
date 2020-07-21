@@ -236,7 +236,7 @@ BHC_expand_dockyard_desc:0 "캘커타 조선소를 다시금 확장하기 위해
 BHC_adv_command_3:0 "해양 지배"
 BHC_adv_command_3_desc:0 "우리는 해군에 주로 집중하고 있습니다. 맞습니다. 이는 우리의 육군과 공군의 능력을 희생시키지만, 코뮌은 자신의 힘이 어디에 있는지를 인식하고, 그 효과를 극대화해야 합니다."
 BHC_third_internationale:0 "제3인터내셔널"
-BHC_third_internationale_desc:0 "제3인터네셔널 1차 총회가 곧 소집될 예정이고, 우리의 참석은 해외 생디칼리즘 국가로부터 원조를 받을 수 있는 유일한 기회일지도 모릅니다."
+BHC_third_internationale_desc:0 "제3인터네셔널 1차 총회가 곧 소집될 예정이고, 우리의 참석은 해외 생디칼리슴 국가로부터 원조를 받을 수 있는 유일한 기회일지도 모릅니다."
 #BHC_invite_hochiminh:0 "Invite Ho Chi Minh"
 #BHC_invite_hochiminh_desc:0 "In Paris, a group of Indochinese revolutionaries under the leadership of Nguyen Sinh Con, also known as Ho Chi Minh, have announced their decision to form a united leftist government in exile whose declared goal is to topple German colonial rule. It has been suggested that our government invite Ho Chi Minh and his comrades to Calcutta and place all available resources at their disposal."
 BHC_anglo_indian_trade:0 "앵글로-인도 무역 협정"
