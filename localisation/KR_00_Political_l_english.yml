@@ -60,16 +60,16 @@ has_scripted_peace:0 "우리는 전쟁 중입니다"
 has_scripted_peace_desc:0 "국가가 전쟁 중이며, 승리를 목표로 하고 있습니다 - 기회가 있지만 우리의 저항력은 생각보다 조금 더 취약합니다. (안내: 이것은 평화 이벤트가 존재하는 전쟁을 위한 것이며, 항복율 한계가 거의 도달했을 때 발동됩니다. 이점을 알아두세요.)"
 
 ### Demobilisation ###
-mobilisation_penalty_modifier:0 "Above Division Limit"
+mobilisation_penalty_modifier:0 "사단 한계 도달"
 
 unit_limit_count:0 "[unit_limit_count_loc]/[?max_divisions|H0]"
 unit_limit_count_green:0 "[?num_divisions|G0]"
 unit_limit_count_yellow:0 "[?num_divisions|H0]"
 toggle_news_text_red:0 "[?num_divisions|R0]"
 
-unit_limit_factory_bonus:0 "Factory Bonus to Division Limit"
-unit_limit_max:0 "Division Limit Cap"
-unit_limit_bonus:0 "Division Limit"
+unit_limit_factory_bonus:0 "사단 한계에 의한 공장 보너스"
+unit_limit_max:0 "사단 한계값"
+unit_limit_bonus:0 "사단 한계"
 
 unit_limit_label:0 "§HMaximum Supported Divisions§!"
 unit_limit_desc:0 "Every country only has the ability to support a certain number of individual military divisions before their economy and infrastructure struggle to maintain them.§L\n\n   - Net Factories:§! [?net_factory_count]§L[unit_limit_major_power][unit_limit_world_tension]\n   - [unit_limit_economy_law]:§! [upper_limit_perc_figure]§L[unit_limit_was_capped][unit_limit_lower_limit_used][unit_limit_bonus_used]\n\n   FINAL TOTAL: §W[?max_divisions]§! (rounded up)\n\nPlease note that changes to the above take up to one in-game week before they are reflected in the calculation.§![above_unit_limit_desc]"
@@ -87,13 +87,13 @@ unit_limit_bonus_used_desc:0 "\n\n   - Additional Modifiers: §G+[?upper_limit_u
 upper_limit_perc_figure_pos:0 "§G+[?upper_limit_from_factory_mult]%§!"
 upper_limit_perc_figure_neg:0 "§R-[?upper_limit_from_factory_mult]%§!"
 
-unit_limit_undisturbed_isolation:0 "§YUndisturbed Isolation§!"
-unit_limit_isolation:0 "§YIsolation§!"
-unit_limit_civilian_economy:0 "§YCivilian Economy§!"
-unit_limit_low_economic_mobilisation:0 "§YEarly Mobilization§!"
-unit_limit_partial_economic_mobilisation:0 "§YPartial Mobilization§!"
-unit_limit_war_economy:0 "§YWar Economy§!"
-unit_limit_tot_economic_mobilisation:0 "§YTotal Mobilization§!"
+unit_limit_undisturbed_isolation:0 "§Y방해받지 않는 고립주의§!"
+unit_limit_isolation:0 "§Y고립주의§!"
+unit_limit_civilian_economy:0 "§Y민간 경제§!"
+unit_limit_low_economic_mobilisation:0 "§Y초기 동원령§!"
+unit_limit_partial_economic_mobilisation:0 "§Y부분 동원령§!"
+unit_limit_war_economy:0 "§Y전시 경제§!"
+unit_limit_tot_economic_mobilisation:0 "§Y총 동원령§!"
 
 ### Tooltips ###
 KR_improving_stability:0 "이미 안정도를 향상시키고 있습니다"
