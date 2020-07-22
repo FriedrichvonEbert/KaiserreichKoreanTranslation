@@ -110,16 +110,16 @@ ROM_lr_infra_done_desc:0 ""
 ROM_lr_infra2_done:0 "농촌 기반시설"
 ROM_lr_infra2_done_desc:0 ""
 
-ROM_codreanu_economics:0 "Strength from the Land"
-ROM_codreanu_economics_desc:0 "Great, unequal estates have been broken up. The countryside is developing and prosperous, and the most important of all, loyal to the idea of Romania and the Captain that keeps it safe."
-ROM_codreanu_compromise:0 "Codreanu's Land Reform"
-ROM_codreanu_compromise_desc:0 "The land has been shared fairly to the peasants who cultivate it, and the countryside prospers."
-ROM_compromise_economics:0 "Completed Land Reform"
-ROM_compromise_economics_desc:0 "The most pressing issues of Romanian agriculture and industry have been fixed, even though neither Codreanu or the king can claim to have achieved their vision."
-ROM_carol_compromise:0 "The King's Land Reform"
-ROM_carol_compromise_desc:0 "The unrest in the countryside has been fixed through compromises with the landowners, and the king has directed great funds towards rapid industrial development."
-ROM_carol_economics:0 "Romania of the Future"
-ROM_carol_economics_desc:0 "The king has truly modernised Romanian agrarian infrastructure and along with it the land ownership situation, leading to a much more efficient economy. Even though he did not fulfil the original promises of equal land share, the booming exports economy has greatly helped the plight of many."
+ROM_codreanu_economics:0 "대지의 힘"
+ROM_codreanu_economics_desc:0 "크고 불공평한 땅들이 부서졌습니다. 시골은 발전하고 번창하고 있으며, 무엇보다 가장 중요한 사실로 그들은 루마니아와 루마니아를 안전하게 보호하는 선장에게 충성하고 있습니다."
+ROM_codreanu_compromise:0 "코드레아누의 토지 개혁"
+ROM_codreanu_compromise_desc:0 "토지는 경작민들에게 공평하게 공유되었고, 농촌은 번영하고 있습니다."
+ROM_compromise_economics:0 "완성된 토지 개혁"
+ROM_compromise_economics_desc:0 "코드레아누와 국왕 모두 자신의 비전을 달성했다고 주장하기는 어렵지만, 어쨌든 루마니아 농업과 산업의 가장 시급한 문제가 해결되었습니다."
+ROM_carol_compromise:0 "국왕의 토지 개혁"
+ROM_carol_compromise_desc:0 "농촌의 불안은 지주들과의 타협을 통해 해결되었고, 국왕은 급속한 산업 발전을 위해서 막대한 자금을 투입했습니다."
+ROM_carol_economics:0 "미래의 루마니아"
+ROM_carol_economics_desc:0 "국왕은 루마니아 농경 기반시설을 진정으로 현대화시켰고, 토지 소유권도 함께 현대화해서 훨씬 더 효율적인 경제를 이끌어냈습니다. 비록 그가 동등한 토지 점유라는 당초의 약속을 이행하지는 않았지만, 수출 경제의 호황은 곤경에 처한 많은 사람들에게 큰 도움이 되었습니다."
 
 ROM_set:0 "SET"
 ROM_set_desc:0 ""
@@ -390,8 +390,8 @@ ROM_legionary_rally_desc:0 "While we have bypassed the early phase of our strugg
 ROM_riches_under_the_carpathians_category:0 "Riches under the Carpathians"
 ROM_riches_under_the_carpathians_category_desc:0 ""
 
-ROM_reconquest_category:0 "Quest for Greater Romania"
-ROM_reconquest_category_desc:0 "Ever since Michael the Great established his kingdom, our holy task has been clear: a Romanian union on both slopes of the Carpathians. An union with the plains of Bukowina, where Stephen the Great has slept for centuries. In our moral energy and our valour lie the means of giving him back his birthright of a great and free Romania from the Tisza to the Black Sea, and to prosper in peace in accordance with our customs and our hopes and dreams."
+ROM_reconquest_category:0 "대루마니아를 향한 여정"
+ROM_reconquest_category_desc:0 "미하이 대왕이 왕국을 세운 이후로 우리의 거룩한 임무는 명확해졌습니다. 바로 카르파티아의 양쪽 너머에 있는 루마니아인들의 연합이자, 스테판 대왕이 수 세기 동안 잠든 부코비나 평원과의 연합입니다. 우리의 사기와 용맹함 속에는 티서 강에서 흑해까지 이어지는 위대하고 자유로운, 그리고 우리의 관습, 희망 그리고 꿈에 따라 평화롭게 번영할 수 있는 루마니아의 출생권을 돌려받겠다는 의지가 들어있습니다."
 
 ROM_legion_category:0 "Factions of the Legion"
 ROM_legion_category_desc:0 "The Legion is hardly an unitary movement. Even though each and everyone only seeks greatness for all Romanians, many disagree on the exact methods and on the question of leadership. Corneliu Codreanu has solidified his position as a clear leading personality among the movement.\n\n"
@@ -835,7 +835,7 @@ ROM_PNT_constitution_desc:0 "With the PNT having secured the support of the Roma
 ##Events
 #Intro
 romania.0.t:0 "루마니아 왕국, 1936년"
-romania.0.d:0 "루마니아 왕국은 1916년 헝가리인들로부터 트란실바니아를 빼앗겠다는 원대한 야망을 품고 세계대전에 가입했을 당시 비교적 젊은 신생국가였습니다. 1916년 초기의 몇몇 성공에도 불구하고 이 작은 나라는 독일, 오스트리아, 그리고 불가리아 군대에 의해 빠르게 제압되었습니다. 모든 역경에도 불구하고 루마니아군은 무너지지 않았고, 대신 그들은 이아시를 중심으로 저항을 계속 이어나갔습니다. 러시아와 프랑스의 도움으로 루마니아는 그들의 힘을 보충하고 계속해서 동맹국을 격퇴해 나갈 수 있었습니다. 그들의 운명은 러시아 혁명과 동부전선의 붕괴로 흔들리면서 끝이 났습니다.\n\n많은 젊은이들이 닿을 수 없는 이상 때문에 죽었고, 나라에는 아무런 이익도 가져다주지 못했습니다. 루마니아군은 최선을 다해 싸웠기 때문에 부쿠레슈티 조약은 더욱더 쓰라린 것이었습니다. 이로 인해서 배후중상론이 등장했습니다. 루마니아는 러시아인들에게 배신당했고, 서방의 협상국에게서 홀로 남겨졌고, 유대인들 같은 반역자들이 내부에서 벌인 방해공작에 당했습니다. 이러한 쓰라림, 보복주의, 그리고 불평등한 토지 소유와 같은 사회적 문제들은 급진적인 운동을 빠르게 발전시켰습니다. 1936년까지 그러한 운동 중 가장 강력했던 것은 철위대의 수장 코르넬리우 코드레아누가 이끄는 군단 운동으로 알려진 미카엘 대천사 군단이었습니다.\n\n1927년, 페르디난트 왕이 사망하자 그의 아들 카롤 2세가 그 뒤를 이었습니다. 카롤은 꽤나 바람둥이라는 평판을 가지고 있었지만, 대전쟁은 그에게 상흔을 남겼습니다. 그의 꿈은 확고했습니다: 아버지가 이루지 못했던 것을 성공시키는 것입니다. 국왕은 같은 추진력을 가진 동맹을 발견했고 코드레아누와 거래를 맺었습니다. 보복의 열정으로 힘을 합친 두 남자는 1933년 선거에서 민주주의 체제를 무너뜨렸습니다. 철위대가 이온 게오르게 두카 총리를 암살한 이후 코드레아누는 첫 군단 정부를 구성했습니다. 이는 대루마니아를 향한 첫 발걸음이었습니다.\n\n국왕과 수장은 그들의 보복 프로젝트에서는 동맹일지 모르지만, 궁극적으로 그들은 권력을 나눠 갖고 싶어하지 않습니다. 두 남자 사이에서 벌어진 '그레이트 게임'이 선거 이후 빠르게 시작되었습니다. 코드레아누는 그의 근거지에서 매우 인기 있는 이슈인 야심찬 토지 개혁에 착수했씁니다. 영향력 있는 지주들은 왕에게 호소했고, 왕은 코드레아누에게 개혁을 중단할 것을 지시했습니다. 두 사람 사이의 적대감이 커지면서 권력 투쟁은 더욱 치열해졌고, 두 명 모두 권력을 포기할 생각은 없습니다. 그들이 대루마니아라는 공동의 목표를 공유하는 한, 그들은 함께 일할 것입니다. 하지만 그 이후에는... 오직 신만이 알 것입니다."
+romania.0.d:0 "루마니아 왕국은 1916년 헝가리인들로부터 트란실바니아를 빼앗겠다는 원대한 야망을 품고 세계대전에 가입했을 당시 비교적 젊은 신생국가였습니다. 1916년 초기의 몇몇 성공에도 불구하고 이 작은 나라는 독일, 오스트리아, 그리고 불가리아 군대에 의해 빠르게 제압되었습니다. 모든 역경에도 불구하고 루마니아군은 무너지지 않았고, 대신 그들은 이아시를 중심으로 저항을 계속 이어나갔습니다. 러시아와 프랑스의 도움으로 루마니아는 그들의 힘을 보충하고 계속해서 동맹국을 격퇴해 나갈 수 있었습니다. 그들의 운명은 러시아 혁명과 동부전선의 붕괴로 흔들리면서 끝이 났습니다.\n\n많은 젊은이들이 닿을 수 없는 이상 때문에 죽었고, 나라에는 아무런 이익도 가져다주지 못했습니다. 루마니아군은 최선을 다해 싸웠기 때문에 부쿠레슈티 조약은 더욱더 쓰라린 것이었습니다. 이로 인해서 배후중상론이 등장했습니다. 루마니아는 러시아인들에게 배신당했고, 서방의 협상국에게서 홀로 남겨졌고, 유대인들 같은 반역자들이 내부에서 벌인 방해공작에 당했습니다. 이러한 쓰라림, 보복주의, 그리고 불평등한 토지 소유와 같은 사회적 문제들은 급진적인 운동을 빠르게 발전시켰습니다. 1936년까지 그러한 운동 중 가장 강력했던 것은 철위대의 수장 코르넬리우 코드레아누가 이끄는 군단 운동으로 알려진 미카엘 대천사 군단이었습니다.\n\n1927년, 페르디난트 왕이 사망하자 그의 아들 카롤 2세가 그 뒤를 이었습니다. 카롤은 꽤나 바람둥이라는 평판을 가지고 있었지만, 대전쟁은 그에게 상흔을 남겼습니다. 그의 꿈은 확고했습니다: 아버지가 이루지 못했던 것을 성공시키는 것입니다. 국왕은 같은 추진력을 가진 동맹을 발견했고 코드레아누와 거래를 맺었습니다. 보복의 열정으로 힘을 합친 두 남자는 1933년 선거에서 민주주의 체제를 무너뜨렸습니다. 철위대가 이온 게오르게 두카 총리를 암살한 이후 코드레아누는 첫 군단 정부를 구성했습니다. 이는 대루마니아를 향한 첫 발걸음이었습니다.\n\n국왕과 수장은 그들의 보복 프로젝트에서는 동맹일지 모르지만, 궁극적으로 그들은 권력을 나눠 갖고 싶어하지 않습니다. 두 남자 사이에서 벌어진 '그레이트 게임'이 선거 이후 빠르게 시작되었습니다. 코드레아누는 그의 근거지에서 매우 인기 있는 문제인 야심찬 토지 개혁에 착수했습니다. 영향력 있는 지주들은 왕에게 호소했고, 왕은 코드레아누에게 개혁을 중단할 것을 지시했습니다. 두 사람 사이의 적대감이 커지면서 권력 투쟁은 더욱 치열해졌고, 두 명 모두 권력을 포기할 생각은 없습니다. 그들이 대루마니아라는 공동의 목표를 공유하는 한, 그들은 함께 일할 것입니다. 하지만 그 이후에는... 오직 신만이 알 것입니다."
 romania.0.a:0 "루마니아의 새로운 미래를 위해!"
 #Great Game Mechanics
 romania.1.t:0 "그레이트 게임 메커니즘"
