@@ -165,25 +165,25 @@ SER_accepted_bulgaria_union:0 "유고슬라비아 연방 수립을 위해 불가
 
 ### Focuses ###
 SER_Return_Of_The_Crown_Prince:0 "왕세자의 귀환"
-SER_Return_Of_The_Crown_Prince_desc:0 "After over a decade of exile, war-hero Alexander Karađorđević has returned to Belgrade. The Crown Prince has been crowned King of Serbia, a cause for national celebration. A moderniser and militarist, the kingdom will be only made stronger by his benevelent rule. God save the king!"
+SER_Return_Of_The_Crown_Prince_desc:0 "전쟁영웅 알렉산다르 카라조르제비치는 십 년이 넘는 망명 생활을 끝내고 베오그라드에 돌아왔습니다. 왕세자가 세르비아 왕위에 오르면서 전국에 경사가 났습니다. 현대주의자이자 군국주의자인 그의 자애로운 통치가 있어야만 왕국이 부강해질 수 있습니다. 국왕 폐하 만세!"
 
 SER_Alexanders_Vision:0 "알렉산다르의 목표"
-SER_Alexanders_Vision_desc:0 "If our great nation is to bring itself into the modern age, it requires a radical political overhaul. The king and Zivković, working in perfect harmony, plan to suspend Bojovic's constitution and build a strong government on its ashes, one that our people can be proud of. Nothing can get in the way of our king's lofty goals; progress and reclamation!"
+SER_Alexanders_Vision_desc:0 "위대한 우리나라가 현대에 들어서기 위해서는 급진적인 정치판 개선이 필요합니다. 완벽한 조화를 이루며 함께 일하는 국왕과 지브코비치는 보조비치의 헌법을 유예하고 잿더미 속에서 모든 국민들이 자랑스러워 할 정도로 강력한 정부를 세울 계획을 세웠습니다. 그 무엇도 진보와 수복이라는 페하의 고귀한 목표를 방해할 수 없습니다!"
 
 SER_Encourage_Yugoslavism:0 "유고슬라비아주의 이념 장려"
-SER_Encourage_Yugoslavism_desc:0 "Our king is a strong believer in the Pan-Slavic Yugoslav movement, believing the South Slavs all share a common cultural bond. Though this isn't an uncommon belief amongst the intelligentsia of Serbia and beyond, Alexander wishes to encourage the Yugoslav ideology amongst the common Serb, aiming to build the groundwork for a future Yugoslav nation."
+SER_Encourage_Yugoslavism_desc:0 "국왕 폐하는 모든 남슬라브 민족이 공통된 문화적 유대감을 공유한다고 믿는 범슬라브주의 유고슬라비아 운동을 강력하게 신봉합니다. 비록 이런 사상이 세르비아와 넘어선 지역의 지식인들 사이에서 흔히 찾아 볼 수 있는 이념이기는 하지만, 알렉산다르는 미래에 유고슬라비아 국가를 세우기 위한 기초를 다지려는 목적으로 유고슬라비아 이념을 일반 세르비아인 사이에서도 장려하고자 합니다."
 
 SER_Begin_Land_Reform:0 "토지 개혁 시작"
-SER_Begin_Land_Reform_desc:0 "Serbia is largely agrarian, with the vast majority of its population being rural farmers. King Alexander is eager to win over the people and cement himself as a modernizing leader, decreeing that all feudal estates over 100 cadastral yokes to be broken up and their owners compensated. This will affect a large number of landowners, but should help alleviate poverty in rural areas in the long-run."
+SER_Begin_Land_Reform_desc:0 "인구 대다수가 농촌에서 농업에 종사하고 있는 세르비아는 대체로 농업국가입니다. 알렉산다르 폐하는 국민들 사이에서 자신이 현대적인 지도자의 화신으로 비쳐지도록 열망하면서 100 cadastral yokes가 넘는 엄청나게 넓은 봉건 사유지를 모두 해체하고 소유주에게 보상하겠다고 선언했습니다. 이로 인해 엄청난 숫자의 토지 소유자들이 영향을 받겠지만 장기적으로는 농촌 지역의 빈곤을 완화하는데 도움을 줄 것입니다."
 
 SER_Glory_To_The_King:0 "국왕 폐하께 영광을"
-SER_Glory_To_The_King_desc:0 "Our king and war hero is truly the greatest symbol of the Serbian nation. Just as he led us in Serbia's darkest time, he has returned to lead it into the light. Long live King Alexander!"
+SER_Glory_To_The_King_desc:0 "전쟁영웅인 우리 국왕 폐하는 세르비아 국가의 가장 위대한 상징물입니다. 그가 세르비아의 가장 어두운 시대에 우리를 이끌었던 것 처럼, 우리를 빛으로 이끌어내기 위해서 돌아왔습니다. 알렉산다르 페하 만세!"
 
-SER_Maintain_Military_Dominance:0 "Maintain Military Dominance"
-SER_Maintain_Military_Dominance_desc:0 "Only the army can liberate the Serbian nation. It is only natural that it continues to hold an important place as a pillar of stability and patriotism, as protectors of the nation from enemies within and without, and as the tool to reunite Serbdom."
+SER_Maintain_Military_Dominance:0 "군부 지배력 유지"
+SER_Maintain_Military_Dominance_desc:0 "오직 군대만이 세르비아 국가를 해방할 수 있습니다. 안정과 애국심의 기둥이자 국내외의 적으로부터 조국을 지키슷 수호자로서, 그리고 세르비아 왕국을 재통합할 수단으로서 군부가 중요한 위치를 계속해서 차지하는 것은 당연한 일입니다."
 
-SER_Monument_To_The_Unknown_Soldier:0 "Monument to the Unknown Soldier"
-SER_Monument_To_The_Unknown_Soldier_desc:0 "Since the end of the war, veneration of the Unknown Soldier became popular and the building of a monument dedicated to him has been considered for over a decade. Without Austria watching us, there has been renewed interest in the project and we have few reasons not to go ahead as a great gesture of respect for those who fought and died for Serbdom."
+SER_Monument_To_The_Unknown_Soldier:0 "무명용사 기념비"
+SER_Monument_To_The_Unknown_Soldier_desc:0 "전쟁이 끝난 이후 무명 용사를 숭상하는 문화가 대중화되었고 그들을 기리는 기념비 건립 문제를 십년 넘게 논의해 왔습니다. 오스트리아가 우리를 감시하지 않고 있으니 지금이야 말로 기념비 건립에 다시 주의를 기울여 세르비아를 위해 싸우고 죽어간 영령들을 위한 존경의 표시를 건립하지 않을 이유가 없습니다."
 
 SER_The_Vojvoda_Stands_Tall:0 "The Vojvoda Stands Tall"
 SER_The_Vojvoda_Stands_Tall_desc:0 "With numerous conspiracies crushed, Vojvoda Bojović remains at the top of the Serbian nation. He now stands unopposed to reforge Serbia into a state able to liberate the rest of Serbdom, with its people loyal and dedicated to its mission without fear of internal enemies."
