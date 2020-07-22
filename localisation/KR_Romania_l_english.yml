@@ -253,14 +253,14 @@ ROM_eco_explainer_king:0 "§C이 중점 계통도의 마지막 국민정신은 �
 ROM_eco_explainer_cap:0 "§C이 중점 계통도의 마지막 국민정신은 플레이어의 선택에 따라 고유의 국민정신을 줄 것입니다. 코드레아누의 개혁을 시작함으로써 플레이어의 마지막 중점은 그의 비전인 강력한 농업국가인 루마니아에 더 가까워질 것입니다.§!\n"
 ROM_eco_cap:0 "§H코드레아누의 경제 정책§!에 가까워집니다.\n이 중점을 채택하는 것은 §G코드레아누의 정치적 영향력§!을 §R소모§!할 것입니다.\n"
 ROM_eco_captain_strong:0 "§H코드레아누의 경제 정책§!에 훨씬 더 가까워집니다.\n이 중점을 채택하는 것은 §G코드레아누의 정치적 영향력§!을 §R소모§!할 것입니다.\n"
-ROM_eco_king:0 "§H카롤 왕의 경제 정책§!에 가까워집니다.\n이 중점을 채택하는 것은 §g국왕의 정치적 영향력§!을 §R소모§!할 것입니다.\n"
-ROM_eco_king_strong:0 "§H카롤 왕의 경제 정책§!에 훨씬 더 가까워집니다.\n이 중점을 채택하는 것은 §g국왕의 정치적 영향력§!을 §R소모§!할 것입니다.\n"
+ROM_eco_king:0 "§H카롤 왕의 경제 정책§!에 가까워집니다.\n이 중점을 채택하는 것은 §G국왕의 정치적 영향력§!을 §R소모§!할 것입니다.\n"
+ROM_eco_king_strong:0 "§H카롤 왕의 경제 정책§!에 훨씬 더 가까워집니다.\n이 중점을 채택하는 것은 §G국왕의 정치적 영향력§!을 §R소모§!할 것입니다.\n"
 ROM_eco_finish_explainer:0 "§C이전의 경제 선택에 따라 국민정신을 얻을 것입니다. 코드레아누의 개혁은 강력한 인력 기반과 안정도를 부여할 것이고, 카롤의 비전은 산업과 기술 발전에 초점을 맞출 것입니다.§!\n"
 
-ROM_malaxa_tooltip:0 "Unlocks §gMALAXA§! as a designer company."
-ROM_udr_tooltip:0 "Unlocks §gUDR§! as a designer company."
-ROM_galati_tt:0 "Unlocks §gSanterul Naval Constanta§! as a designer company."
-ROM_set_tooltip:0 "Unlocks §gFabrica de Avioane SET§! as a designer company."
+ROM_malaxa_tooltip:0 "Unlocks §GMALAXA§! as a designer company."
+ROM_udr_tooltip:0 "Unlocks §GUDR§! as a designer company."
+ROM_galati_tt:0 "Unlocks §GSanterul Naval Constanta§! as a designer company."
+ROM_set_tooltip:0 "Unlocks §GFabrica de Avioane SET§! as a designer company."
 
 ROM_tech_ski_infantry:0 "산악 훈련"
 
