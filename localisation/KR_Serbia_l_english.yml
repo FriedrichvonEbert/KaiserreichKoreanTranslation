@@ -51,16 +51,16 @@ SER_YUG_national_populist_party_long:0 "유고슬라비아 인민당"
 
 ### Ideas ###
 SER_occupation_of_bulgaria_idea:0 "불가리아 점령"
-SER_occupation_of_bulgaria_idea_desc:0 "불가리아인들이 반발하고 있기 때문에 불가리아 점령에는 많은 비용이 들어갑니다."
+SER_occupation_of_bulgaria_idea_desc:0 "불가리아인들의 반발로 인해, 불가리아 점령에는 많은 비용이 소모되고 있습니다."
 
 SER_austrias_watchful_eye:0 "오스트리아의 감시"
-SER_austrias_watchful_eye_desc:0 "서류상으로는 오스트리아가 이미 10년전에 세르비아에서 손을 뗀 것으로 되어 있지만, 오스트리아는 그리도 사랑하던 프란츠 페르디난트 대공을 살해하고 세계대전을 일으킨 민족을 여전히 감시하고 있습니다. 합스부르크 가문은 언제라도 다뉴브 강을 건너 베오그라드로 군을 진주시켜 우리의 연약한 독립을 끝장낼 힘이 있습니다."
+SER_austrias_watchful_eye_desc:0 "서류상으로 오스트리아는 이미 10년 전에 세르비아에 대한 간섭을 철회했지만, 오스트리아는 널리 사랑받던 프란츠 페르디난트 대공을 살해하고 세계대전을 일으킨 민족을 여전히 감시하고 있습니다. 합스부르크 왕조는 언제라도 다뉴브 강을 건너 베오그라드에 군대를 진주시키고 우리의 연약한 독립을 끝장낼 만한 무력을 가지고 있습니다."
 
 SER_political_instability:0 "베오그라드 음모"
 SER_political_instability:0 "세르비아 국경에서 오스트리아군이 철수한 아후로 보이보다의 통치권은 결코 안전한 상태가 아닙니다. 음모가 사방에 널려 있으며 수많은 비밀리에 구성되거나 공개적으로 드러난 수많은 집단들이 보요비치의 자리를 위협하려는 작전을 꾸미고 있습니다. 지식인들과 장교들이 텅 빈 세르비아 왕좌의 주변을 배회하는 현 상황에 섭정이 자신의 자리를 지키고자 한다면 위협을 제거하기 위해 뭔가 해야 할 것입니다."
 
 SER_alexanders_vision:0 "알렉산다르의 목표"
-SER_alexanders_vision_desc:0 "우리의 위대한 국왕께서는 개혁되고 현대화된 세르비아라는 원대한 꿈을 품고 있습니다. 토지개혁과 산업화 계획, 그리고 군국화 정책 등 수많은 급진적이고 강렬한 프로그램을 통해 알렉산다르는 언젠가 과거의 족쇄에서 벗어난 강하고 독립적인 국가를 지배하기를 열망합니다."
+SER_alexanders_vision_desc:0 "국왕 폐하께서는 개혁되고 현대화된 세르비아라는 원대한 꿈을 품고 있습니다. 토지개혁과 산업화 계획, 그리고 군국화 정책 등 수많은 급진적이고 강렬한 프로그램을 통해 알렉산다르는 언젠가 과거의 족쇄에서 벗어난 강하고 독립적인 국가를 지배하기를 열망합니다."
 
 SER_military_dominance:0 "군부 지배"
 SER_military_dominance_desc:0 "보이스카(군부)는 세계대전 이전부터 우리 사회의 모든 분야에서 막강한 영향력을 행사해 왔습니다. 그리고 지금 저들의 영향력은 더욱 커지는 중입니다. 장군들은 일상적으로 정부 요직을 차지하고 있으며 거대 산업 기업들과 중요한 관계를 맺고 있습니다."
@@ -165,7 +165,7 @@ SER_accepted_bulgaria_union:0 "유고슬라비아 연방 수립을 위해 불가
 
 ### Focuses ###
 SER_Return_Of_The_Crown_Prince:0 "왕세자의 귀환"
-SER_Return_Of_The_Crown_Prince_desc:0 "전쟁영웅 알렉산다르 카라조르제비치는 십 년이 넘는 망명 생활을 끝내고 베오그라드에 돌아왔습니다. 왕세자가 세르비아 왕위에 오르면서 전국에 경사가 났습니다. 현대주의자이자 군국주의자인 그의 자애로운 통치가 있어야만 왕국이 부강해질 수 있습니다. 국왕 폐하 만세!"
+SER_Return_Of_The_Crown_Prince_desc:0 "전쟁영웅 알렉산다르 카라조르제비치가 십 년이 넘는 망명 생활을 끝내고 베오그라드로 귀환했습니다. 왕세자가 세르비아 왕위에 오르면서 전국이 환호를 부르고 있습니다. 현대주의자이자 군국주의자인 그의 자애로운 통치가 있어야만 왕국이 부강해질 수 있습니다. 국왕 폐하 만세!"
 
 SER_Alexanders_Vision:0 "알렉산다르의 목표"
 SER_Alexanders_Vision_desc:0 "위대한 우리나라가 현대에 들어서기 위해서는 급진적인 정치판 개선이 필요합니다. 완벽한 조화를 이루며 함께 일하는 국왕과 지브코비치는 보요비치의 헌법을 유예하고 잿더미 속에서 모든 국민들이 자랑스러워 할 정도로 강력한 정부를 세울 계획을 세웠습니다. 그 무엇도 진보와 수복이라는 페하의 고귀한 목표를 방해할 수 없습니다!"
@@ -185,7 +185,7 @@ SER_Maintain_Military_Dominance_desc:0 "오직 군대만이 세르비아 국가�
 SER_Monument_To_The_Unknown_Soldier:0 "무명용사 기념비"
 SER_Monument_To_The_Unknown_Soldier_desc:0 "전쟁이 끝난 이후 무명 용사를 숭상하는 문화가 대중화되었고 그들을 기리는 기념비 건립 문제를 십년 넘게 논의해 왔습니다. 오스트리아가 우리를 감시하지 않고 있으니 지금이야 말로 기념비 건립에 다시 주의를 기울여 세르비아를 위해 싸우고 죽어간 영령들을 위한 존경의 표시를 건립하지 않을 이유가 없습니다."
 
-SER_The_Vojvoda_Stands_Tall:0 "보이보다는 여전히 서있다"
+SER_The_Vojvoda_Stands_Tall:0 "보이보다는 건재하다"
 SER_The_Vojvoda_Stands_Tall_desc:0 "보이보다 보요비치는 수많은 음모를 분쇄하였고 여전히 세르비아 국가에서 정상을 차지하고 있습니다. 이제 세르비아를 충성스러운 국민들이 내부의 적을 두려워하지 않고 맡은 일에 최선을 다할 수 있고 나머지 세르비아 지역을 해방시킬 수 있는 국가로 재탄생시키는 그의 작업을 막을 자는 아무도 없습니다."
 
 SER_Organise_The_Radical_Union:0 "급진연합당 조직"
@@ -212,31 +212,31 @@ SER_Education_Reform_desc:0 "세르비아 민족이 우리의 기치 아래에�
 SER_The_Belgrade_Salonica_Railway:0 "베오그라드-테살로니키 철도"
 SER_The_Belgrade_Salonica_Railway_desc:0 "우리는 이웃이자 친구인 그리스와 새롭고 안전한 무역로와 보급로를 가지고 있습니다. 하지만 이 지역의 기반시설은 부족한 상태이며 수십년간 불가리아의 잘못된 통치 아래에서 아무런 도움을 받지 못했습니다. 아테네의 도움이 약간만 주어진다면 이런 상황을 바로잡고 세계로 나갈 관문과 그리스와의 관계까지 개선할 수 있습니다."
 
-SER_Addressing_The_Macedonians:0 "마케도니아를 다루자"
+SER_Addressing_The_Macedonians:0 "마케도니아 대책"
 SER_Addressing_The_Macedonians_desc:0 "마케도니아는 현대 역사 동안 반복적으로 주인이 바뀐 지역이며, 그 지역 주민들은 전쟁, 점령, 그리고 억압을 확실히 두려워하고 있습니다. 그들의 우려를 해소하고 마케도니아 지역에 대한 적절한 계획을 세워야 합니다."
 
 SER_Promote_Macedonian_Investment:0 "마케도니아 투자 촉진"
 SER_Promote_Macedonian_Investment_desc:0 "남부 세르비아는 굉장히 가난하고 투자가 절실하게 필요한 상황입니다. 단기적으로는 수익이 거의 나오지 않는 값비싼 과정이겠지만, 안정을 보장하고 우리 정부가 지역민으로부터 신뢰를 얻기 위해서는 꼭 필요한 사업입니다."
 
-SER_The_Republican_Proclamation:0 "The Republican Proclamation"
-SER_The_Republican_Proclamation_desc:0 "The Regency is no more! Provisional President Slobodan Jovanovic has proclaimed the Serbian Republic, with his aim to create a democracy free from tyranny and oppression. With the people on our side, the reclaimation of our lost territories will only be a matter of time."
+SER_The_Republican_Proclamation:0 "공화국의 선포"
+SER_The_Republican_Proclamation_desc:0 "이제 섭정 따위는 없습니다! 임시 대통령 슬로보단 요바노비치는 폭정과 압제로부터 자유로운 민주주의 국가의 이상을 토대로 세르비아 공화국을 선포했습니다. 인민들이 우리 편이므로, 잃어버린 영토를 수복하는 것 역시 시간문제에 불과합니다."
 
-SER_Draft_A_Constitution:0 "Draft a Constitution"
+SER_Draft_A_Constitution:0 "헌법 초안 작성"
 SER_Draft_A_Constitution_desc:0 "The current constitution is clearly inadequate for our fledgling new republic. With the aim of building a stable and prosperous democracy for all Serbs, we will have to draft a new one that truly represent republican Serbia's values."
 
-SER_Free_The_Vojvodas_Prisoners:0 "Free the Vojvoda's Prisoners"
+SER_Free_The_Vojvodas_Prisoners:0 "보이보다 정치범 석방"
 SER_Free_The_Vojvodas_Prisoners_desc:0 "The Vojvoda had no qualms with imprisoning political opponents and dissidents and a number of democrats remain in jail under flimsy pretexts. Liberating political prisoners is an action that will speak louder than words and clearly show our commitment to pluralism and democracy."
 
-SER_A_Nascent_Balkan_Democracy:0 "A Nascent Balkan Democracy"
+SER_A_Nascent_Balkan_Democracy:0 "발칸 민주주의의 태동"
 SER_A_Nascent_Balkan_Democracy_desc:0 "To some, a free and liberal democracy in the middle of a region as unstable as the Balkans seems impossible, but President Jovanovic has built one against the odds. With the constitution proglamated and civilian rule restored, it is time for the provisional President to resign his post and welcome in a new age."
 
-SER_Restore_Local_Governance:0 "Restore Local Governance"
+SER_Restore_Local_Governance:0 "지역자치 복권"
 SER_Restore_Local_Governance_desc:0 "Successive Serbian governments have followed a policy of centralization. While this has had benefits for sure, it also hurt grassroot movements and local democratic processes. Restoring local governments will help rebuild democratic values at a regional and municipal level."
 
-SER_Implement_The_Pasic_Manifesto:0 "Implement the Pasic Manifesto"
+SER_Implement_The_Pasic_Manifesto:0 "파시치의 유지를 잇다"
 SER_Implement_The_Pasic_Manifesto_desc:0 "Nikola Pasic was possibly the greatest statesman in Serbian history. A leading light for over 30 years, Pasic’s political programme was one of wide-reaching reforms; in the press, the judiciary and the schools. The Regency undid much of his hard work, and it is our duty to honour his legacy."
 
-SER_Open_The_Serbian_Economy:0 "Open the Serbian Economy"
+SER_Open_The_Serbian_Economy:0 "세르비아 경제 개방"
 SER_Open_The_Serbian_Economy_desc:0 "For too long, the Serbian economy has been weak and isolated from the great powers. Now, with the freedom to chart our own path, we have an opportunity to reverse this isolation. Establishing new international trade deals and projects with our neighbours and beyond can only be a boon to the economy."
 
 SER_Farming_Subsidies:0 "Farming Subsidies"
@@ -338,16 +338,16 @@ SER_Modernise_Airports_desc:0 "The Airport in Belgrade has seen better days. Now
 SER_Local_Designs:0 "Local Designs"
 SER_Local_Designs_desc:0 "With our Engineers now having more access to foreign aeroplane designs, they have been able to draw up their own designs, allowing Serbia to further further self-reliant."
 
-SER_Crna_Gora_I_Srbija:0 "Crna Gora i Srbija"
-SER_Crna_Gora_I_Srbija_desc:0 "After far too long, the Serbian brothers in Belgrade and Podgorica have united once again. Lets officialise this new South-Slavic union, and toast it as the first step to a much greater Federation..."
+SER_Crna_Gora_I_Srbija:0 "몬테네그로-세르비아"
+SER_Crna_Gora_I_Srbija_desc:0 "너무나 오랜 기다림 끝에, 베오그라드와 프드고리차의 세르비아인 동포들이 다시 한 번 단결했습니다. 이 새로운 남슬라브 연합을 공식화하고, 더더욱 웅대한 연방을 위한 첫 단계를 자축하며 잔을 들어올립시다..."
 
-SER_Brotherly_Union:0 "Brotherly Union"
+SER_Brotherly_Union:0 "동족 연합"
 SER_Brotherly_Union_desc:0 "For the people of the Serbian-Montenegrin union, there is a new sense of unity. Great Powers might have tried to divide us through warfare and conflict, but they have failed. Let this young union stand as an example of brotherly peace in a region full of unruly chaos."
 
 SER_Prospecting_In_Niksic:0 "Prospecting in Niksic"
 SER_Prospecting_In_Niksic_desc:0 "The irresponsible Croat government in Zagreb never took advantage of the vast wealth of the Niksic region. Now, with their new-found freedom, mining companies have begun excavating the region to great effect. We must invest Dinar into their projects, and mine the resources we need for war."
 
-SER_Integrate_The_Montenegrin_Economy:0 "Integrate the Montenegrin Economy"
+SER_Integrate_The_Montenegrin_Economy:0 "몬테네그로 경제 통합"
 SER_Integrate_The_Montenegrin_Economy_desc:0 "If we're to take full advantage of the booming economy in Podgorica, then large steps will need to be taken to centralise the union's economic structure. Integration of their banks and factories will be slow, but it'll be lucrative once finally finished."
 
 SER_Connect_The_Railways:0 "Connect the Railways"
@@ -386,7 +386,7 @@ serbia.2.a:0 "아마도 기회 아닐까?"
 
 serbia.3.t:0 "전선의 고요"
 serbia.3.d:0 "지난 달, 오스트리아군의 느린 철수는 많은 사람들을 놀라게 했고 혼란스럽게 만들었으며, 새로운 준비가 되어있는 것 같습니다. 합스부르크는 국가 불안이 가중되고 있다는 명분으로 국경을 지키는데 최소한의 인원만을 남겨두었습니다. 오스트리아의 영원한 감시가 움직인 것은 분명하고, 우리는 20년간의 억압 끝에 마침내 빈의 멍에에서 벗어났습니다!\n\n그러나 이 새로 얻은 자유를 어떻게 해야 할까요? 오랜 섭정이자 보즈보다인 페타르 보요비치는 수많은 질문을 받았지만 거의 대답할 수 없었습니다. 그는 오스트리아가 대규모의 군을 데리고 돌아온다는 것을 알고 있으며 기회의 창구는 작습니다. 그 창구는 검은 월요일의 충격으로 더 줄어들었고, 그 충격으로 우리 또한 약해졌습니다. 그는 이 절호의 기회 앞에서 약하고 비효율적인 것처럼 보일 수 없으며 따라서 세르비아의 독립을 공고히 하기 위해 앞으로 몇 주 안에 보요비치가 정치적인 움직임을 보일 것입니다."
-serbia.3.a:0 "우린 오스트리아에서 해방됐다. 적어도 지금은."
+serbia.3.a:0 "우리는 오스트리아에게서 해방되었다. 적어도 지금은."
 
 serbia.4.t:0 "몬테네그로에서 커져가는 불안"
 serbia.4.d.CRO:0 "우리 일리리아인 국가가 건국된 이래, 남슬라브 땅에서 불필요한 민족 갈등이 소멸되기를 바랐습니다. 불미스러운 급진운동이 해체되고 전 반오스트리아 단체가 입장을 바꾸면서 이런 경우가 많았습니다. 그러나 오랫동안 친세르비아 활동에 시달려온 몬테네그로 지역의 경우에는 그렇지 않은 것이 분명합니다.\n\n지난 몇 년간, 세르비아-몬테네그로계 조합주의 정당인 인민당의 활동이 조직을 탄압하려는 우리의 시도에도 불구하고 늘어났습니다. 그들은 크로아티아 주도의 일리리아 의회에 반대하며, 이후 국정에 있어 목소리를 내지 못하는 상황에 맞서 싸우고 있습니다. 게다가, 그들은 최근 지역 의회에 대한 통제권을 확고히 함으로써 좀 더 심기를 건드렸습니다. 최근의 소요사태를 세르비아가 사주했다고 암시하는 증거는 없지만, 만약 사태가 훨씬 더 악화된다면 세르비아는 분명히 소요사태를 이용하려고 시도할 것입니다."
