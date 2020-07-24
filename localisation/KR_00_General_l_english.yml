@@ -10,9 +10,9 @@ REQUEST_EXP_FORCE_BLOCKED_TT:0 "§R이 나라는 당신의 군대 요청을 거�
 
 ### Regular Tooltips ###
 general_minister_change_tt:0 "그들의 장관들은 우리의 이념에 따라 교체될 것입니다."
-is_actual_major_tt:0 "Is considered a major world power"
+is_actual_major_tt:0 "세계의 주된 열강으로 여겨짐"
 if_FROM_agrees:0 "If §H[From.GetFlag] [From.GetNameDef]§! agrees:"
-upon_selecting_focus:0 "Upon selecting focus:"
+upon_selecting_focus:0 "국가중점 선택 시:"
 
 ### Renaming System ###
 toggle_renaming_button_tooltip:0 "[toggle_renaming_button_tooltip_loc]"
@@ -66,7 +66,7 @@ chief_of_navy_cost_factor:0 "해군장관 비용"
 chief_of_air_force_cost_factor:0 "공군장관 비용"
 weapons_manufacturer_cost_factor:0 "무기 제조사 비용"
 cannot_train_units_tt:0 "§R부대를 훈련하거나 해산하거나 구성을 수정할 수 없습니다.§!\n"
-cannot_mobilise_tt:0 "§RCannot enact conscription or mobilise the economy.§!\n"
+cannot_mobilise_tt:0 "§R법률을 변경할 수 없습니다.§!\n"
 
 ### Opinion Modifiers ###
 KR_friendly:0 "우호적"
@@ -126,8 +126,8 @@ kr.political.106.b:0 "그래, 우린 독립을 요구해야해."
 kr.political.106.c:0 "아니, 굳이 벌집을 들쑤실 필요는 없지."
 
 kr.political.107.t:0 "[From.GetNameDefCap]의 독립 요구"
-kr.political.107.d:0 "현재, [From.GetAdjective]정부에 대한 [Root.GetAdjective]의 통제는  약화세를 그리는 중입니다. 그들을 우리가 완전히 억제하는데엔 너무나 역부족합니다. [From.GetAdjective]의 사람들 사이에선 [From.GetNameDef](을)를 해방시켜 달라는 탄원이 빗발쳤고, 이제 그들 정부측에선 완전 독립 요구를 공식적으로 제출하였습니다."
-kr.political.107.a:0 "우리가 아직 친구인 동안, 풀어줘라."
+kr.political.107.d:0 "현재, [From.GetAdjective]정부에 대한 [Root.GetAdjective]의 통제는 약화세를 그리는 중입니다. 그들을 우리가 완전히 억제하는데엔 너무나 역부족합니다. [From.GetAdjective]의 사람들 사이에선 [From.GetNameDef](을)를 해방시켜 달라는 탄원이 빗발쳤고, 이제 그들 정부측에선 완전 독립 요구를 공식적으로 제출하였습니다."
+kr.political.107.a:0 "우리가 아직 친구인 동안에는 풀어줘라."
 kr.political.107.b:0 "농담하는거지? 잊어버려."
 
 kr.political.108.t:0 "독립 거부"
@@ -154,7 +154,7 @@ kr.political.111.b:0 "아니! 우리는 끝장을 보고만다!"
 
 ### Unit Leader Events ###
 unit_leader.1.t:0 "병에 걸린 [From.From.GetName]"
-unit_leader.1.d:0 "[From.From.GetNameDef]에서의 [From.GetHerHis](으)로 복무하던 [From.GetRank] [From.GetName](은)는 [From.GetHerselfHimself](을)를 지나치게 진격하려 한 듯보입니다.  작전 구역의 나쁜 기후로 인해, [From.GetRank](은)는 질병에 걸렸고 회복하려면 시간이 필요할 것 같습니다. [From.GetSheHe](이)가 낫기 전까지, [From.GetSheHe](은)는 [From.GetHerHis](이)가 지닌 원래의 수준을 발휘할 수 없을 것입니다."
+unit_leader.1.d:0 "[From.From.GetNameDef]에서의 [From.GetHerHis](으)로 복무하던 [From.GetRank] [From.GetName](은)는 [From.GetHerselfHimself](을)를 지나치게 진격하려 한 듯보입니다. 작전 구역의 나쁜 기후로 인해, [From.GetRank](은)는 질병에 걸렸고 회복하려면 시간이 필요할 것 같습니다. [From.GetSheHe](이)가 낫기 전까지, [From.GetSheHe](은)는 [From.GetHerHis](이)가 지닌 원래의 수준을 발휘할 수 없을 것입니다."
 unit_leader.1.a:0 "유감스럽군."
 unit_leader.2.t:0 "부상당한 [From.From.GetName]"
 unit_leader.2.d:0 "전투의 성공적인 결과를 위해, [From.GetHerHis]의 병력을 이끌던 [From.GetRank] [From.GetName](은)는 [From.GetHerselfHimself] 스스로를 지나친 위험 부담에 처하게 한 것 같습니다. [From.GetSheHeCap](은)는 부상을 입었고, 완전히 치료되려면 시간이 필요할 것이며, 그 때까지 [From.GetRank](은)는 [From.GetHerHis](이)가 지닌 원래의 수준을 발휘할 수 없을 것입니다."
@@ -190,8 +190,8 @@ militia:0 "민병대"
 
 ### Tech ###
 military_police_tech:0 "헌병"
-dd_tech_research:0 "Destroyer Research Speed"
-cl_tech_research:0 "Cruiser Research Speed"
+dd_tech_research:0 "구축함 연구 속도"
+cl_tech_research:0 "순양함 연구 속도"
 
 ### Research Bonus Names ###
 refinery_bonus:0 "정유공장 보너스"
@@ -313,8 +313,8 @@ knight_captain_of_liv_ord:0 "기사단장 of LivOrd"  # BAT
 land_marshal_of_liv_ord:0 "지방사령관"                # BAT
 leader_of_the_british_exiles:0 "영국 총리" # CAN
 underworld_boss:0 "Underworld Boss"                     # LEC
-marshal_of_the_palace:0 "Marshal of the Palace"         # ROM
-minister_of_native_affairs:0 "Min. of Native Affairs"   # SAF, SFR
+marshal_of_the_palace:0 "왕실원수"         # ROM
+minister_of_native_affairs:0 "원주민부 장관"   # SAF, SFR
 
 ### Company Traits ###
 
