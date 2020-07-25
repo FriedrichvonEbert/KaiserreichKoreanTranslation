@@ -79,15 +79,15 @@ RULE_OPTION_ENG_REVOLUTION_FAILURE_DESC:0 "오스왈드 모즐리의 국가 장�
 
 IRE_FUTURE:0 "£KR_game_rule_flag_IRE   아일랜드의 미래"
 RULE_OPTION_IRE_FUTURE_RANDOM:0 "기본값"
-RULE_OPTION_IRE_FUTURE_RANDOM_DESC:0 "Ireland will hold its most contentious elections yet in 1937 and dictatorial president Michael Collins may not prevail..."
-RULE_OPTION_IRE_FUTURE_AUTHDEM:0 "£KR_game_rule_flag_IRE   콜린스의 통제"
-RULE_OPTION_IRE_FUTURE_AUTHDEM_DESC:0 "Extensive vote rigging and intimidation will see Collins take an easy elective victory and the opposition will collapse."
+RULE_OPTION_IRE_FUTURE_RANDOM_DESC:0 "아일랜드는 1937년에 가장 논쟁이 많은 선거를 치르게 될 것이며 독재자 마이클 콜린스는 승리하지 못할 수도 있습니다..."
+RULE_OPTION_IRE_FUTURE_AUTHDEM:0 "£KR_game_rule_flag_IRE   콜린스의 권력 유지"
+RULE_OPTION_IRE_FUTURE_AUTHDEM_DESC:0 "광범위한 부정선거와 협박은 콜린스가 쉽게 당선되고 야당이 붕괴되는 결과를 가져올 것입니다."
 RULE_OPTION_IRE_FUTURE_PATAUT:0 "£KR_game_rule_flag_IRE   콜린스의 에러크터스 해체"
-RULE_OPTION_IRE_FUTURE_PATAUT_DESC:0 "A grand coalition of democrats will dislodge Fine Gael causing Collins to dissolve the Oireachtas and rule by decree."
+RULE_OPTION_IRE_FUTURE_PATAUT_DESC:0 "민주주의 대연정은 피너 게일을 몰아내고 이에 콜린스는 에러크터스 해체하고 법령을 통해 통치합니다."
 RULE_OPTION_IRE_FUTURE_DEMOCRACY:0 "£KR_game_rule_flag_IRE   민주주의 우세"
-RULE_OPTION_IRE_FUTURE_DEMOCRACY_DESC:0 "A grand coalition of all democratic parties will dislodge Fine Gael and Collins will resign."
+RULE_OPTION_IRE_FUTURE_DEMOCRACY_DESC:0 "모든 민주 정당들의 대연정은 피너 게일을 몰아내고 콜린스는 사임할 것입니다."
 RULE_OPTION_IRE_FUTURE_SYNDIE:0 "£KR_game_rule_flag_IRE   아일랜드 혁명"
-RULE_OPTION_IRE_FUTURE_SYNDIE_DESC:0 "After dissolving the Oireachtas, Collins will be assassinated and the ICA will coup the government."
+RULE_OPTION_IRE_FUTURE_SYNDIE_DESC:0 "에러크터스를 해체한 후 콜린스는 암살되고 ICA는 정부에 대항해 쿠데타를 일으킵니다."
 
 
 FRA_START_ELECTION:0 "£KR_game_rule_flag_FRA   1936년 코뮌 선거"
