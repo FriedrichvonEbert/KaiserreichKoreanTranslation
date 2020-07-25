@@ -30,7 +30,6 @@ POLITICS_UPC_ZHANG_XUELIANG_DESC:0 ""
 POLITICS_UPC_ZHANG_TIANRAN_DESC:0 ""
 POLITICS_UPC_CHEN_QIYOU_DESC:0 "광저우에서 현대의학을 공부한 뒤, 천치요우는 1911년 동맹회에 가맹했고 1917년 천중밍의 비서가 되기 전까진 일본에서 유학했습니다. 이후 그는 푸젠에 위치한 둥산과 윈샤오의 현령부터 샨터우의 세관원까지 다수의 민간 직책을 역임했습니다. 그는 1931년 중국 치공당에 입당해, 제2차 전당대회 기간 동안 당중앙위원회의 일원이 되었습니다. 당시, 그는 공화대동맹이 광둥 내외의 공화주의자들의 동맹으로서 자리매김하고 해외의 정치적으로 활동적인 중국인들 주류의 지지를 구하도록 도왔습니다. 천중밍의 은퇴 이후, 그는 치공당 총재가 되었고 최초로 민주적으로 선출된 통일 중국의 국가원수, 즉 중화합중국 총집정(Zongzhizheng)의 자리에 올랐습니다.\n천치요우의 초대 정부수반으로서의 목표는 천중밍의 재건계획과 치공당 정당을 이행해, 각기 다른 공화주의 정당들 사이에서 광범위한 합의를 유지해 정책을 성공으로 이끌기를 기대하는 것입니다."
 
-
 ### Ideas ###
 UPC_corruption:0 "부패 문제"
 UPC_federal_authority_0:0 "연방 권위 부재"
@@ -45,10 +44,10 @@ UPC_popular_support_3:0 "중간 대중 지지"
 UPC_popular_support_4:0 "높은 대중 지지"
 UPC_popular_support_5:0 "매우 높은 대중 지지"
 
-UPC_gentry_cooperation: "신사와 협력"
-UPC_business_relations: "사업 관계"
-UPC_farmer_unions: "농민 조합"
-UPC_unionisation: "조합화"
+UPC_gentry_cooperation:0 "신사와 협력"
+UPC_business_relations:0 "사업 관계"
+UPC_farmer_unions:0 "농민 조합"
+UPC_unionisation:0 "조합화"
 
 UPC_inadequate_public_services:0 "부족한 공공 서비스"
 UPC_scholarship_funds:0 "장학금"
@@ -156,6 +155,9 @@ UPC_attack_non_aligned_LEC:0 "[LEC.GetFlag] 상하이 탈환"
 UPC_attack_non_aligned_LEC_desc:0 ""
 UPC_threaten_ger_treaty_ports:0 "[GER.GerFlag] 독일 조계지 점령"
 UPC_threaten_ger_treaty_ports_desc:0 ""
+UPC_integrate_allies:0 "Offer membership to [FROM.GetNameDef]"
+UPC_integrate_allies_desc:0 ""
+
 
 ### Flags ###
 UPC_dealt_with_feds:0 "[ROOT.GetName](이)가 중화합중국과 협상함"
@@ -169,7 +171,7 @@ UPC_built_to_nanning:0 "광저우-난닝 철도 부설"
 UPC_CZGP_tang_actually_made_it_holy_shit:0 "\n\n천치요우는 처음엔 창당자의 자리를 계승할 인물로 점쳐졌고, 재건계획의 방향성을 유지하면서 이를 열성적으로 이행할 것을 약속했습니다. 그러나, 당의 공동 창당자인 탕지야오가 실력행사에 나섰습니다. 자신의 계파를 등에 업은 가운데, 그는 \"명백한 외국의 영향력\"과 \"가증스러운 국민당\"의 냄새가 풍기는 급진주의를 거리낌없이 비판했습니다. 그가 온건파에게 호소함에 따라 총재직을 목표로 한 책략이 성공할 수도 있을 것으로 보입니다."
 UPC_CZGP_tang_didnt_make_it_duh:0 "\n\n당내 다수파와 천중밍 본인 양쪽에게 선호된 천치요우는 재빠르게 당대회를 휩쓸고 치공당의 제2대 총재 자리에 올랐습니다. 그는 재건계획에 대한 공약과 치공당 주도하의 공화주의자들의 대연정과 함께하는 합의정국의 지속을 재확인했습니다."
 
-UPC_DC_tang_actually_made_it_and_hes_really_desperate_lmao:0 "\n\n연성주의자들의 지도자가 되려는 시도가 실패하면서, 탕지야오는 치공당을 떠나 신생 공화국의 지도자가 되려는 최후의 수단으로 민주입헌당에 입당해 이윽고 제3의 잠재력 있는 후보가 되었습니다. 이에 대해 소수만이 그의 성실성을 믿지만, 이와는 별개로 탕지야오는 실용주의적이고 연성주의자들의 승리에 그의 이름이 꼬리표처럼 따라다니며, 무엇보다도 당에게 있어서 더욱 중요한 거물 후보입니다. \n\n이 3명의 후보는 실용주의적인 면모로 잘 알려져있고, 이는 행정수반의 입지가 비교적 취약하고 국회에 종속돼있다는 점 때문에 유용하게 작용할 것입니다." 
+UPC_DC_tang_actually_made_it_and_hes_really_desperate_lmao:0 "\n\n연성주의자들의 지도자가 되려는 시도가 실패하면서, 탕지야오는 치공당을 떠나 신생 공화국의 지도자가 되려는 최후의 수단으로 민주입헌당에 입당해 이윽고 제3의 잠재력 있는 후보가 되었습니다. 이에 대해 소수만이 그의 성실성을 믿지만, 이와는 별개로 탕지야오는 실용주의적이고 연성주의자들의 승리에 그의 이름이 꼬리표처럼 따라다니며, 무엇보다도 당에게 있어서 더욱 중요한 거물 후보입니다. \n\n이 3명의 후보는 실용주의적인 면모로 잘 알려져있고, 이는 행정수반의 입지가 비교적 취약하고 국회에 종속돼있다는 점 때문에 유용하게 작용할 것입니다."
 UPC_DC_tang_didnt_make_it_duh:0 "양쪽 후보가 모두 실용주의적인 정치인이자 숙련된 외교관으로서 평판이 좋고, 따라서 이들은 행정수반의 상당히 추약한 입지를 해결할 좋은 지도자가 될 수 있을 것입니다."
 
 UPC_DCP_Yan:0 "옌후이칭"
