@@ -285,12 +285,12 @@ albania.65.d:0 "시골 지역의 위기에 대처하는데 실패했기 때문�
 albania.65.a:0 "젠장할!"
 
 albania.66.t:0 "[BUL.GetName]와(과) 싸우고 있는 [ALB.GetName]에 가입?"
-albania.66.d:0 "[ALB.GetAdjective]이(가) [BUL.GetName]의 상당한 [ALB.GetAdjective] 인구를 포함하고있는 마케도니아를 다시 찾겠다는 캠페인을 시작한 것처럼 보이며 우리 또한 동맹국으로서 개입할 것을 요청했습니다. 이것은 [BUL.GetName]에 우리 자신의 이익이 있다는 점에서 유리할 수 있지만, 전쟁에서 지는 쪽에 있는것이 [Root.GetAdjective] 사람들이 원하는 마지막 것입니다. 우리는 무엇을 해야 할까요?"
+albania.66.d:0 "[ALB.GetAdjective](이)가 [BUL.GetName]의 상당한 [ALB.GetAdjective] 인구를 포함하고있는 마케도니아를 다시 찾겠다는 캠페인을 시작한 것처럼 보이며 우리 또한 동맹국으로서 개입할 것을 요청했습니다. 이것은 [BUL.GetName]에 우리 자신의 이익이 있다는 점에서 유리할 수 있지만, 전쟁에서 지는 쪽에 있는것이 [Root.GetAdjective] 사람들이 원하는 마지막 것입니다. 우리는 무엇을 해야 할까요?"
 albania.66.a:0 "우리는 우리의 용감한 [ALB.GetAdjective] 동맹들과 함께 할 것이다!"
 albania.66.b:0 "우리는 그러한 제의를 거절해야 한다."
 
 albania.67.t:0 "[GRE.GetName]와(과) 싸우고 있는 [ALB.GetName]에 가입?"
-albania.67.d:0 "[ALB.GetAdjective]이(가) [GRE.GetName]의 상당한 [ALB.GetAdjective] 인구를 포함하고있는 차머리아를 다시 찾겠다는 캠페인을 시작한 것처럼 보이며 우리 또한 동맹국으로서 개입할 것을 요청했습니다. 이것은 [GRE.GetName]에 우리 자신의 이익이 있다는 점에서 유리할 수 있지만, 전쟁에서 지는 쪽에 있는것이 [Root.GetAdjective] 사람들이 원하는 마지막 것입니다. 우리는 무엇을 해야 할까요?"
+albania.67.d:0 "[ALB.GetAdjective](이)가 [GRE.GetName]의 상당한 [ALB.GetAdjective] 인구를 포함하고있는 차머리아를 다시 찾겠다는 캠페인을 시작한 것처럼 보이며 우리 또한 동맹국으로서 개입할 것을 요청했습니다. 이것은 [GRE.GetName]에 우리 자신의 이익이 있다는 점에서 유리할 수 있지만, 전쟁에서 지는 쪽에 있는것이 [Root.GetAdjective] 사람들이 원하는 마지막 것입니다. 우리는 무엇을 해야 할까요?"
 albania.67.a:0 "우리는 우리의 용감한 [ALB.GetAdjective] 동맹들과 함께 할 것이다!"
 albania.67.b:0 "우리는 그러한 제의를 거절해야 한다."
 

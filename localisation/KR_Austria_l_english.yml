@@ -966,7 +966,7 @@ ausgleich.new.701.t:0 "[From.GetNameDefCap](이)가 재통합에 동의하다"
 ausgleich.new.701.d:0 "[From.GetAdjective] 정부는 보다 중앙집권적인 국가의 성립에 동의했습니다."
 ausgleich.new.701.a:0 "좋아."
 
-ausgleich.new.702.t:0 "[From.GetNameDefCap]이(가) 헝가리를 침공하다!"
+ausgleich.new.702.t:0 "[From.GetNameDefCap](이)가 헝가리를 침공하다!"
 ausgleich.new.702.d:0 "[FROM.GetNameDef]의, 남의 불행을 이용해 먹는 자들은 헝가리 왕국을 침공함으로써 내부 문제를 해결하기로 결정했습니다. 비록 그들은 현재 반란을 겪고 있지만, 헝가리는 합스부르크 제국의 핵심 지역 중 하나입니다. 그들은 피에 굶주린 주변의 이웃들로부터 보호받아야 합니다. 우리는 이미 마자르 반란을 진압하는데 급급해 있지만, 이웃들의 침략은 군주제 자체에 대한 공격임이 분명합니다."
 ausgleich.new.702.a:0 "우리 영토의 통합은 반드시 수호되어야 한다!"
 ausgleich.new.702.b:0 "우리는 아무것도 할 수 없다..."
@@ -990,7 +990,7 @@ ausgleich.new.803.d:0 "베오그라드 협약의 대표들은 부다페스트에
 ausgleich.new.803.a:0 "위대한 승리다!"
 ausgleich.new.803.b:0 "One last step towards victory."
 
-ausgleich.new.804.t:0 "[FROM.GetNameDefCap]이(가) 평화를 거절하다"
+ausgleich.new.804.t:0 "[FROM.GetNameDefCap](이)가 평화를 거절하다"
 ausgleich.new.804.d:0 "우리가 [FROM.GetNameDef]에게 한 평화 제안이 거부되었습니다. 전쟁은 한쪽이 무조건 항복할 때까지 계속될 것입니다. 이 무자비한 전쟁을 끝내려면 더 많은 피가 흘러야 할 것입니다."
 ausgleich.new.804.a:0 "그럼 끝까지 싸우도록 하지."
 

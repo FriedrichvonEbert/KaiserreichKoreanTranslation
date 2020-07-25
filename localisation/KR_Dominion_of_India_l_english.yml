@@ -43,7 +43,7 @@ POLITICS_CHHOTU_RAM_DESC:0 "Chhotu Ram, after helping to found the Unionist Part
 POLITICS_MALIK_KHIZAR_TIWANA_DESC:0 "Malik Khizar Hayat Tiwana, upon returning from service in the Weltkrieg, became distraught at the division and political violence which had consumed India. Tiwana took up arms against the marauding socialists loyal to the breakaway government in Bengal. Tiwana committed himself in the fragile peace that followed to bring unity to the Indian sub-continent. He joined the conservative Unionist party based in his native Punjab and quickly rose to its leadership."
 
 ### Tooltips ###
-DEH_ISAC_has_formed:0 "§Y[CAN.GetName]§!이(가) ISAC을 설립했습니다\n"
+DEH_ISAC_has_formed:0 "§Y[CAN.GetName]§!(이)가 ISAC을 설립했습니다\n"
 DEH_1936_election:0 "1936년 선거가 개최되었습니다\n"
 DEH_PRF_cores_1:0 "§Y봄베이§!와 §Y안드라§!에서 핵심 주를 소유할 수 있습니다.\n"
 DEH_PRF_cores_2:0 "§Y[PRF.GetName]§! 토후령에서 핵심 주를 소유할 수 있습니다.\n"

@@ -504,7 +504,7 @@ FNG_can_shenyang_conference_tt:0 "\n참가할 가능성이 있는 중국 동맹�
 FNG_ask_reconstruction_jap_anqing_tt:0 "안경을 돕는데 합의하고 일본에 요청 사항을 전달할 것입니다. 그들도 역시 수용한다면 안경 재건을 위해 상당한 정치 경제적 자원을 투입하여 최대한 빨리 베이징을 공격할 수 있도록 하겠습니다.\n"
 FNG_more_strategies_anqing_tt:0 "여기에 동의하지 말고 다른 전략을 제안하십시오.\n"
 FNG_wait_recover_anqing_tt:0 "수복전쟁을 연기하고 안경이 독자적인 재건 노력을 마칠 때까지 대기할 것입니다. 이 결정 사항을 일본과 안경에 전달할 것입니다.\n"
-FNG_strike_fast_strategy_anqing_tt:0 "§R이 전략에는 최대한 빠른 시간 내에 [QIE.GetNameDef]을(를) 공격하는 계획이 포함되어 있습니다!§! 일본과 안경 모두가 동의해야 합니다. 만약 동의를 얻지 못한다면 다른 선택 사항을 고려해야 합니다.\n"
+FNG_strike_fast_strategy_anqing_tt:0 "§R이 전략에는 최대한 빠른 시간 내에 [QIE.GetNameDef](을)를 공격하는 계획이 포함되어 있습니다!§! 일본과 안경 모두가 동의해야 합니다. 만약 동의를 얻지 못한다면 다른 선택 사항을 고려해야 합니다.\n"
 FNG_japan_approves_fast_strike_now_anqing_tt:0 "일본이 우리가 제안한 속공 계획을 승인했습니다. 이제 안경이 승인한다면 계획을 실행할 것입니다.\n"
 FNG_no_change_of_strategy_anqing_tt:0 "수복전쟁에 관해서 원래 계획을 고수할 것이며 다른 어떤 전략도 고려하지 않을 것입니다. 일본과 안경에 우리의 결정 사항을 통보해야 합니다.\n"
 FNG_abandon_strategy_for_shanxi_tt:0 "§R이 선택지를 고른다면 안경과 함께 결정한 전략을 포기한다는 것을 뜻합니다. 아마도 그들의 지지도 함께 잃게 될 것입니다.§!\n"
@@ -512,7 +512,7 @@ FNG_abandon_strategy_for_shanxi_tt:0 "§R이 선택지를 고른다면 안경과
 FNG_prince_visit_unlock:0 "§Y간인노미야 친왕의 방문 준비§! 결정들을 해금합니다."
 
 FNG_war_info:0 "§H봉천§!이 §R30일 후§!우리에게 선전포고할 것입니다!"
-FNG_preparing_war_of_national_reclamation:0 "이/가 재수복 전쟁을 준비하고 있습니다"
+FNG_preparing_war_of_national_reclamation:0 "(이)가 재수복 전쟁을 준비하고 있습니다"
 
 FNG_increase_legitimacy_tooltip:0 "§G우리는 정통성을 얻을 것입니다.§!\n"
 FNG_decrease_legitimacy_tooltip:0 "§R우리는 정통성을 잃을 것입니다.§!\n"

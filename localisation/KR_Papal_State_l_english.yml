@@ -12,7 +12,7 @@ POLITICS_COLLEGE_CARDINALS_DESC:0 "콘클라베가 진행되는 동안에는 교
 
 ### Ideas ###
 PAP_holy_see:0 "성좌"
-PAP_holy_see_desc:0 "[PAP.GetNameDefCap]은(는) 전세계에 분포한 3억 명이 넘는 가톨릭교도들의 중심에 있으며, 교황이 하는 행동과 말들은 지구상 어디에서도 볼 수 없는 특별한 무게를 가지고 있습니다."
+PAP_holy_see_desc:0 "[PAP.GetNameDefCap](은)는 전세계에 분포한 3억 명이 넘는 가톨릭교도들의 중심에 있으며, 교황이 하는 행동과 말들은 지구상 어디에서도 볼 수 없는 특별한 무게를 가지고 있습니다."
 PAP_black_monday_1:0 "검은 월요일"
 PAP_blackmonday_1_desc:0 "독일 경제의 붕괴는 전세계에 파문을 일으켰습니다. 독일과 오스트리아 소유의 기업들이 문을 닫고 국가 채무가 통제 범위를 넘어서고 있는 지금 이 상황에서 우리도 예외는 아닙니다."
 PAP_black_monday_2:0 "검은 월요일"

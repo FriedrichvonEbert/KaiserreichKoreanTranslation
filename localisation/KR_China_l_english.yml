@@ -108,7 +108,7 @@ china_shared.5.d:0 "[From.GetNameDef](은)는 타당한 이유도 없이 통일�
 china_shared.5.a:0 "반역자다!"
 
 china_shared.6.t:0 "[current_china_leader.GetNameDefCap](이)가 휴전을 요청하다"
-china_shared.6.d:0 "[From.GetNameDef]이(가) 통일전선에 참가하면서, [current_china_leader.GetNameDef]은(는) 중국의 이익을 위해 일본의 침략이 멈출 때까지 우리 정부와 [From.GetNameDef] 간 전쟁을 멈추고 정전 협정의 중개국이 되겠다고 나섰습니다. 하지만 이 협정은 양측간의 모든 점령지를 반환해야 한다는 조건을 달고 있습니다."
+china_shared.6.d:0 "[From.GetNameDef](이)가 통일전선에 참가하면서, [current_china_leader.GetNameDef](은)는 중국의 이익을 위해 일본의 침략이 멈출 때까지 우리 정부와 [From.GetNameDef] 간 전쟁을 멈추고 정전 협정의 중개국이 되겠다고 나섰습니다. 하지만 이 협정은 양측간의 모든 점령지를 반환해야 한다는 조건을 달고 있습니다."
 china_shared.6.a:0 "그래. 지금 당장은."
 china_shared.6.b:0 "절대로 저들과 함께 싸울 수는 없다!"
 
@@ -133,7 +133,7 @@ china_shared.11.d:0 "일본과의 전쟁이 끝을 향해 나아가면서, 수�
 china_shared.11.a:0 "통일로 가기 전 마지막 장애물이로군."
 
 china_shared.12.t:0 "[FROM.GetNameDefCap](이)가 통일전선을 떠나다"
-china_shared.12.d:0 "[FROM.GetNameDefCap]은(는) 동맹이 이제 '불필요'하고 그들의 요구와 야망을 '제한'한다고 비난하며 통일전선을 떠났습니다."
+china_shared.12.d:0 "[FROM.GetNameDefCap](은)는 동맹이 이제 '불필요'하고 그들의 요구와 야망을 '제한'한다고 비난하며 통일전선을 떠났습니다."
 china_shared.12.a:0 "So much for unity."
 
 china_shared.13.t:0 "중화통일전선 출범"

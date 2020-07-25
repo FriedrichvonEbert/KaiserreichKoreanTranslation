@@ -803,21 +803,21 @@ unionstate.65.a:0 "우리는 언제쯤 자유로워질까?"
 
 
 ### Foreign Events ###
-unionstate.71.t:0 "[From.GetNameDefCap]이(가) 협상국 가입을 원하다"
-unionstate.71.d:0 "[From.GetNameDefCap]이(가) 협상국에 가입하고자 국왕 및 수상에게 대사를 파견했습니다. 우리는 미국인들의 제안을 받아들여야 할까요?"
+unionstate.71.t:0 "[From.GetNameDefCap](이)가 협상국 가입을 원하다"
+unionstate.71.d:0 "[From.GetNameDefCap](이)가 협상국에 가입하고자 국왕 및 수상에게 대사를 파견했습니다. 우리는 미국인들의 제안을 받아들여야 할까요?"
 unionstate.71.a:0 "당연하지! 그들을 환영한다"
 unionstate.71.b:0 "필요없다"
 
-unionstate.72.t:0 "[From.GetNameDefCap]이(가) 거절하다"
+unionstate.72.t:0 "[From.GetNameDefCap](이)가 거절하다"
 unionstate.72.d:0 "[From.GetAdjective] 정부는 우리의 동맹 가입 제안을 거절했습니다. 아마도 우리는 저들의 기준을 충족시키지 못했거나 동맹국으로서의 가치가 없었을지도 모르겠습니다. 어찌되었든간에, 저들의 대답은 명백하게 '아니오'였습니다."
 unionstate.72.a:0 "형편없는 결정이군"
 
-unionstate.73.t:0 "[From.GetNameDefCap]이(가) 제국 조약 가입을 원하다"
-unionstate.73.d:0 "[From.GetNameDefCap]이(가) 제국 조약에 가입하고자 카이저 및 수상에게 대사를 파견했습니다. 우리는 미국인들의 제안을 받아들여야 할까요?"
+unionstate.73.t:0 "[From.GetNameDefCap](이)가 제국 조약 가입을 원하다"
+unionstate.73.d:0 "[From.GetNameDefCap](이)가 제국 조약에 가입하고자 카이저 및 수상에게 대사를 파견했습니다. 우리는 미국인들의 제안을 받아들여야 할까요?"
 unionstate.73.a:0 "당연하지! 그들을 환영한다"
 unionstate.73.b:0 "필요없다"
 
-unionstate.74.t:0 "[From.GetNameDefCap]이(가) 거절하다"
+unionstate.74.t:0 "[From.GetNameDefCap](이)가 거절하다"
 unionstate.74.d:0 "[From.GetAdjective] 정부는 우리의 동맹 가입 제안을 거절했습니다. 아마도 우리는 저들의 기준을 충족시키지 못했거나 동맹국으로서의 가치가 없었을지도 모르겠습니다. 어찌되었든간에, 저들의 대답은 명백하게 '아니오'였습니다."
 unionstate.74.a:0 "형편없는 결정이군"
 

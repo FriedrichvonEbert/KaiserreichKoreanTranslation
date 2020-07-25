@@ -721,7 +721,7 @@ comfrance.102.d:0 "[FROM.GetAdjective]에서 우리의 지원 요청에 움직�
 comfrance.102.a:0 "참자."
 
 comfrance.103.t:0 "[FROM.GetAdjective]에서 우릴 돕기로 결정했다!"
-comfrance.103.d:0 "[FROM.GetNameDefCap]은(는) 우리에게 도움의 손길을 내주기로 동의했습니다. 우리는 그들이 준비가 되는 대로 며칠 안에 선적물을 받을 것입니다."
+comfrance.103.d:0 "[FROM.GetNameDefCap](은)는 우리에게 도움의 손길을 내주기로 동의했습니다. 우리는 그들이 준비가 되는 대로 며칠 안에 선적물을 받을 것입니다."
 comfrance.103.a:0 "환상적이군!"
 
 comfrance.104.t:0 "[FROM.GetAdjective]의 원조가 도착했다"

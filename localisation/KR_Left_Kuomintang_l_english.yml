@@ -378,7 +378,7 @@ CHI_northern_expedition_desc:0 "남부에서의 우리의 지위가 확보됨에
 CHI_deal_with_north_warlords:0 "북부 군벌들과의 외교"
 CHI_deal_with_north_warlords_desc:0 "북중국과의 전쟁은 이 지역의 정치에 대한 세심한 배려를 필요로 합니다. 특히 주목되는 지역 중 하나는 옌시산과 펑위샹의 본거지인, 중립 군벌로 알려지기도 한 산시입니다. 우리는 그들을 강제로 개방하거나 그들의 지도자의 기회주의적 성격을 고려하는 선택권이 있습니다."
 CHI_negotiate_FNG:0 "장 원수와의 협상"
-CHI_negotiate_FNG_desc:0 "전쟁 비용이 새롭게 떠오르는 상황에서, 북양 정부와의 외교는 노골적인 전쟁보다 더 바람직할 수 있습니다. 거래가 성사될 수만 있다면 [QIE.GetName]을(를) 완전히 물리칠 수 있는 기회를 제공받을 수 있을 것입니다."
+CHI_negotiate_FNG_desc:0 "전쟁 비용이 새롭게 떠오르는 상황에서, 북양 정부와의 외교는 노골적인 전쟁보다 더 바람직할 수 있습니다. 거래가 성사될 수만 있다면 [QIE.GetName](을)를 완전히 물리칠 수 있는 기회를 제공받을 수 있을 것입니다."
 CHI_invade_FNG:0 "다이강을 건너"
 CHI_invade_FNG_desc:0 "다이 강 북부에는 도쿄에서 제국주의 주인님들이 입찰해주는 것 이외에는 아무것도 바라지 않는 일본의 애완용 국가인 봉천 정부가 있습니다. 그들을 완전히 무너뜨리고 그들의 만주를 도쿄의 멍에에서 해방시킬 때입니다."
 CHI_anti_JAP:0 "반제국주의 전쟁"
@@ -434,7 +434,7 @@ chi_dom.3.b:0 "샤오커를 지명하라."
 
 chi_dom.4.t:0 "랴오중카이가 서거하다"
 chi_dom.4.d1:0 "오늘 이른 아침, 그의 가족과 함께, 국민당의 베테랑이자 혁명의 영웅이었던 랴오중카이가 수면 중 세상을 떠났습니다. 현재 국민당의 지도자인 왕징웨이를 포함한 많은 주요 인사들이 그의 장례식에 참석했습니다. 국민당 당원들이 그의 죽음을 애도하고 있는 동안, 왕징웨이의 조수이자 정치적 동맹인 천궁보가 랴오중카이의 자리를 물려받았고, 랴오중카이의 유산을 이어받아 혁명적 경력의 투쟁을 계속하겠다고 발표했습니다."
-chi_dom.4.d2:0 "오늘 이른 아침, 그의 가족과 함께, 국민당의 베테랑이자 혁명의 영웅이었던 랴오중카이가 수면 중 세상을 떠났습니다. 현재 국민당의 지도자인 [CHI.GetLeader]을(를) 포함한 많은 주요 인사들이 그의 장례식에 참석했습니다. 국민당 당원들이 그의 죽음을 애도하고 있는 동안, [CHI.GetLeader]은(는) 국민당의 당원들에게 랴오중카이의 유산을 이어받아 혁명적 경력의 투쟁을 계속하겠다고 발표했습니다."
+chi_dom.4.d2:0 "오늘 이른 아침, 그의 가족과 함께, 국민당의 베테랑이자 혁명의 영웅이었던 랴오중카이가 수면 중 세상을 떠났습니다. 현재 국민당의 지도자인 [CHI.GetLeader](을)를 포함한 많은 주요 인사들이 그의 장례식에 참석했습니다. 국민당 당원들이 그의 죽음을 애도하고 있는 동안, [CHI.GetLeader](은)는 국민당의 당원들에게 랴오중카이의 유산을 이어받아 혁명적 경력의 투쟁을 계속하겠다고 발표했습니다."
 chi_dom.4.a:0 "그가 그리워질 것이다."
 
 chi_dom.5.t:0 "원저우 사태"
@@ -700,12 +700,12 @@ chi_for.6.d:0 "[ROOT.GetName]에서 일어난 일련의 군 창고 폭발과 철
 chi_for.6.a:0 "We must brace for the worst!"
 
 chi_for.7.t:0 "전쟁을 준비하는 국민당"
-chi_for.7.d:0 "[CHI.GetNameDef] 국경에서 [CHI.GetNameDef]이(가) 병력을 상당히 증강했다는 보고가 올라왔습니다. 우리 군 기지 근처에서 의심스러운 활동이 있었다는 보고와 막사 근처에서 선전 전단이 나온 것은 국민당 비밀요원들이 우리의 수비를 약화시키고 있다는 신호일 수도 있습니다. 그들은 가까운 장래에 침략할 계획을 세우고 있는 것 같습니다."
+chi_for.7.d:0 "[CHI.GetNameDef] 국경에서 [CHI.GetNameDef](이)가 병력을 상당히 증강했다는 보고가 올라왔습니다. 우리 군 기지 근처에서 의심스러운 활동이 있었다는 보고와 막사 근처에서 선전 전단이 나온 것은 국민당 비밀요원들이 우리의 수비를 약화시키고 있다는 신호일 수도 있습니다. 그들은 가까운 장래에 침략할 계획을 세우고 있는 것 같습니다."
 chi_for.7.a:0 "We must brace for the worst!"
 
 chi_for.8.t:0 "안국전쟁" # CHI side
 chi_for.8.d1:0 "지금까지 [ANQ.GetLeader]의 난징 정권에 대한 반란과 우리의 봉기는 서로 직접 대결하는 것을 피했습니다. 그러나 이 불안한 휴전은 결코 현상유지를 의미하는 것은 아니었고, 이제 공식적으로 전쟁이 발발했습니다. 우리의 국가혁명의 목표가 [ANQ.GetName]와(과) 직접 충돌하고 있기 때문 전쟁의 확대는 불가피하고 환영할 만합니다." # ANQ has no allies
-chi_for.8.d2:0 "지금까지 [ANQ.GetLeader]의 난징 정권에 대한 반란과 우리의 봉기는 서로 직접 대결하는 것을 피했습니다. 그러나 이 불안한 휴전은 결코 현상유지를 의미하는 것은 아니었고, 이제 공식적으로 전쟁이 발발했습니다.\n\n[ANQ.GetName]은(는) [FNG.GetNameDef]와(과) 동맹 관계이며 우리 군은 [FNG.GetNameDef], 그리고 그들의 지배국인 일본 제국의 추가적인 반대에 대처해야 할 것입니다." # ANQ allied with FNG
+chi_for.8.d2:0 "지금까지 [ANQ.GetLeader]의 난징 정권에 대한 반란과 우리의 봉기는 서로 직접 대결하는 것을 피했습니다. 그러나 이 불안한 휴전은 결코 현상유지를 의미하는 것은 아니었고, 이제 공식적으로 전쟁이 발발했습니다.\n\n[ANQ.GetName](은)는 [FNG.GetNameDef]와(과) 동맹 관계이며 우리 군은 [FNG.GetNameDef], 그리고 그들의 지배국인 일본 제국의 추가적인 반대에 대처해야 할 것입니다." # ANQ allied with FNG
 chi_for.8.d3:0 "지금까지 [ANQ.GetLeader]의 난징 정권에 대한 반란과 우리의 봉기는 서로 직접 대결하는 것을 피했습니다. 그러나 이 불안한 휴전은 결코 현상유지를 의미하는 것은 아니었고, 이제 공식적으로 전쟁이 발발했습니다.\n\n[QIE.GetNameDef]의 개입과 함께 우리 군은 직예군벌 전체와 옛 황실의 추가적인 반대에 대체해야 합니다. 길고 피비린내 나는 혁명전쟁이 눈앞에 펼쳐져 있습니다." # ANQ allied with QIE
 chi_for.8.a:0 "Divide and conquer." # ANQ has no allies
 chi_for.8.b:0 "We're now also fighting Japanese Imperialism?" # ANQ allied with FNG
@@ -997,7 +997,7 @@ chi_fng.1.t:0 "협상의 시작"
 chi_fng.1.d:0 "봉천 대표단은 난징에 도착해 우리 대표단의 환호를 받았습니다. 봉천 대표단에 점심에 대접한 후, 이제 회담이 시작될 준비가 되었습니다."
 chi_fng.1.a:0 "Let's hope Marshal Zhang will put China before himself"
 
-chi_fng.2.t:0 "[CHI.GetNameDefCap]이(가) 우리를 협상에 초대하다"
+chi_fng.2.t:0 "[CHI.GetNameDefCap](이)가 우리를 협상에 초대하다"
 chi_fng.2.d:0 "While we have most certainly had our differences with the Kuomintang, we must remember that we were both founded on the same basic ideals of republicanism. While this might be true, we must also keep in mind that their form of republicanism has been corrupted by syndicalist elements. However, they could prove to be a useful ally against [QIE.GetNameDefCap]. How should we reply?"
 chi_fng.2.a:0 "We will hear them out"
 chi_fng.2.b:0 "No cooperation with the syndicalists!"
@@ -1015,7 +1015,7 @@ chi_fng.5.d:0 "협상은 지금까지 거의 진척되지 않고 계속되고 �
 chi_fng.5.a:0 "These things take time"
 
 chi_fng.6.t:0 "[QIE.GetNameDefCap]의 운명"
-chi_fng.6.d:0 "이 협상에서 시급한 문제는 [QIE.GetNameDefCap]을(를) 어떻게 할 것인가 하는 문제였습니다. 우리에게는 두 가지 선택지가 있습니다. 첫 번째로, [QIE.GetNameDefCap]을(를) 협공하자고 제안할 수 있습니다. 두 번째로는, [QIE.GetNameDefCap] 침공에 봉천이 간섭하지 말 것을 제안할 수도 있습니다."
+chi_fng.6.d:0 "이 협상에서 시급한 문제는 [QIE.GetNameDefCap](을)를 어떻게 할 것인가 하는 문제였습니다. 우리에게는 두 가지 선택지가 있습니다. 첫 번째로, [QIE.GetNameDefCap](을)를 협공하자고 제안할 수 있습니다. 두 번째로는, [QIE.GetNameDefCap] 침공에 봉천이 간섭하지 말 것을 제안할 수도 있습니다."
 chi_fng.6.a:0 "Propose the Kuomintang and Fengtian organise a joint invasion of [QIE.GetNameDefCap]"
 chi_fng.6.b:0 "Propose a Non-Intervention pact with Fengtian and have them stay out of the war"
 
