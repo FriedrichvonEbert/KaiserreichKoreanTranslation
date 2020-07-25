@@ -59,7 +59,7 @@ liangguang_aligned_tt:0 "Liangguang is annexed or aligned with one of the Nation
 GXC_border_raids_tt:0 "Unlocks £decision_icon_small §HBorder Raiding Decisions§!."
 GXC_secure_south_tt:0 "Unlocks £decision_icon_small §HDecisions to Secure Southern China§!."
 raiding_in_progress:0 "Raid in Progress"
-secured_border_with_GXC: "도적질에 맞서 보호받는 국경"
+secured_border_with_GXC:0 "도적질에 맞서 보호받는 국경"
 securing_border_with_GXC_tt:0 "Our §Hborders§! will be protected from §Rbandits§! coming from §HLiangguang§!."
 GXC_join_factions:0 "Unlocks §HDecisions to Join a Chinese Faction§!"
 GXC_integrate_provinces_tt:0 "Unlocks £decision_icon_small §HDecisions§! to §HIntegrate Provinces§!"
@@ -493,7 +493,7 @@ GXC_syndicalist_party_long:0 "중국 생디칼리슴당 (중국 공동체당)   
 GXC_radical_socialist_party:0 "국민당"
 GXC_radical_socialist_party_long:0 "국민당                                                             §g중국 국민당은 한때는 중국을 현대성과 자유로 인도하려는 혁명세력이었습니다- 양쯔강에서 저지당하기 전까진 말이죠. 북벌은 실패하고 말았지만, 국민당은 지하로 숨어들었고 양광의 강력한 세력 중 하나가 되었습니다. 천밍수의 생산인민당은 국민혁명군 제4군의 잔당과 지역의 당내 사회민주주의 정치인들의 표면상의 조직으로 활동하고 있습니다. 왕징웨이의 중앙위원회 계파는 상당히 위세가 약한 편이고, 대부분의 양광 출신 당원은 쑹칭링의 대중주의자 계파를 지지합니다.§!"
 GXC_social_democrat_party:0 "중국 치공당"
-GXC_social_democrat_party_long: "중국 치공당                                                §g중국 치공당(Zhongguo Zhigongdang)은 중국의 연성주의 운동의 주요 정당입니다. 1925년 창당한 ㅣ이 정당은 국민당에 환멸한 정치인들과 해외의 중국인들(특히 비밀결사인 홍문)을 통합해 중화민국을 참된 연방국가이자 다당제 민주주의 국가로 개혁할 것을 촉구했습니다. 이러한 희망은 청 제국의 복고에 의해 빠르게 좌절되었지만, 비록 청/직예 치하 지역에서는 노골적인 공화주의 때문에 금지되었을지라도 여전히 중요한 세력으로 남아있습니다. 이들의 정강은 연방주의와 공화주의 이외에도, 모든 행정 단위의 선출된 의회에서 토지 및 교육개혁에서 기원한 진보적인 사회 및 정치적 관점을 옹호합니다.§!"
+GXC_social_democrat_party_long:0 "중국 치공당                                                §g중국 치공당(Zhongguo Zhigongdang)은 중국의 연성주의 운동의 주요 정당입니다. 1925년 창당한 ㅣ이 정당은 국민당에 환멸한 정치인들과 해외의 중국인들(특히 비밀결사인 홍문)을 통합해 중화민국을 참된 연방국가이자 다당제 민주주의 국가로 개혁할 것을 촉구했습니다. 이러한 희망은 청 제국의 복고에 의해 빠르게 좌절되었지만, 비록 청/직예 치하 지역에서는 노골적인 공화주의 때문에 금지되었을지라도 여전히 중요한 세력으로 남아있습니다. 이들의 정강은 연방주의와 공화주의 이외에도, 모든 행정 단위의 선출된 의회에서 토지 및 교육개혁에서 기원한 진보적인 사회 및 정치적 관점을 옹호합니다.§!"
 GXC_social_liberal_party:0 "공화대동맹"
 GXC_social_liberal_party_long:0 "공화대동맹                                      §g공화대동맹(Gonghe Datongmeng)은 1928년 연성주의자들의 치공당을 대표하는 천중밍과 당시까진 현존해있던 중화민국 및 안휘군벌을 대표하는 돤치루이 사이에 공화주의자들의 대연정을 만들기 위해 세워진 동맹입니다. 동맹이 꽤나 적은 주의만을 끄는 동안, 이들은 광둥성의회 내에서 천중밍의 공식적인 대연정으로 자리잡았습니다. 이들 동맹은 모든 성향의 연성주의자, 국민당 잔당, 사업 및 신사층 관계자, 심지어는 생디칼리스트들을 포함하는 등 광범위하고 다루기 힘듭니다. 팔성연합이 붕괴함에 따라, 공화주의는 차치하고 광둥의 안정 유지에만 겨우 관심을 공유하는 대연정은 바야흐로 붕괴에 직면했습니다.§!"
 GXC_market_liberal_party:0 "상인단"
@@ -736,7 +736,7 @@ GXC_Massive_Literacy_Campaign:0 "대규모 문맹 퇴치 캠페인"
 GXC_Massive_Literacy_Campaign_desc:0 "문맹은 우리를 너무나도 오랫동안 괴롭혔습니다. 중국이 다시 번영하려면, 모든 중국인은 중국의 개선에 참여할 수 있을 정도로 교육을 받아야 합니다. 다 떠나서, 중국인들이 글을 읽을 수가 없어 스스로의 결정을 내리지도 못한다면 어떻게 진정 자유로워질 수 있을까요??"
 
 GXC_Reform_Local_Culture:0 "지방 문화 개혁"
-GXC_Reform_Local_Culture_desc:0 "Guangdong was never spared from decadence, corruption and mismanagement. These problems cannot be solved unless the roots are target, which is, more often than not, deeply ingrained in culture. While Chen Jiongming has been fighting the vices of gambling and opium smoking for over two decades, these efforts must continue in order to improve people's livelihoods.
+GXC_Reform_Local_Culture_desc:0 "Guangdong was never spared from decadence, corruption and mismanagement. These problems cannot be solved unless the roots are target, which is, more often than not, deeply ingrained in culture. While Chen Jiongming has been fighting the vices of gambling and opium smoking for over two decades, these efforts must continue in order to improve people's livelihoods."
 
 GXC_County_Self_Governmence:0 "지방 자치"
 GXC_County_Self_Governmence_desc:0 "Chen Jiongming, along with many prominent Chinese reformers, understand that China is too large to be governed like a unitary state, and rearranging the government along federalist lines would help alleviate many of its ills related to the Central Government. This must be done Bottom-Up, not Top-Down, and must begin in the traditionally-autonomous counties, where democracy can strive."
