@@ -4,7 +4,7 @@
 SYNDIE_SOC_DEM_NOTICE:0 "(생디칼리스트 지지)"
 
 ### Decisions ###
-war_propaganda_against_warmonger_desc:0 "국가에서 모든 성인들과  [From.GetNameDef](와)과 싸움에 이바지해줄 것을 요청하고 있습니다!"
+war_propaganda_against_warmonger_desc:0 "국가에서 남녀노소 가리지 않고 [From.GetNameDef](와)과 싸움에 이바지해줄 것을 요청하고 있습니다!"
 
 ### Opening Event ###
 kr.political.1.t:0 "카이저라이히 베타 0.13 - '국왕과 선장'"
