@@ -122,7 +122,7 @@ RELEASE_NATION_DESC:0 "정말로 $COUNTRY|H$(을)를 해방시키시겠습니까
 REMOVE_IDEA:0 ""
 
 ### peace_l_english
-PEACE_CONFERENCE_WHITE_PEACE:0 "\n@$ACTOR_TAG$$ACTOR_COUNTRY|Y$ 측과 $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$ 측\n서로 간에 §Y평화협정§!을 체결하며 상호 교전에 마침표를 찍었습니다."
+PEACE_CONFERENCE_WHITE_PEACE:0 "\n@$ACTOR_TAG$$ACTOR_COUNTRY|Y$(와)과 $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$ \n양 측은 §Y평화협정§!을 체결하며 상호 교전에 마침표를 찍었습니다."
 
 ### rules_l_english
 CAN_JOIN_FACTIONS:0 "세력에 참여할 수 없습니다"
