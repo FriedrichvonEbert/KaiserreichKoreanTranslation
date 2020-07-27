@@ -475,8 +475,8 @@ lngupc.16.d:0 "총선 과정에서 여러 민주정당들이 적극적으로 참
 lngupc.16.a:0 "신중한 낙관론과 함께, 우리는 미래로 나아간다."
 
 lngupc.17.t:0 "천중밍의 제안"
-lngupc.17.d:0 "Once merely the governor of Guangdong, Chen Jiongming's Federalist movement has become a veritable force in China and is potentially on its way to becoming a serious contender for national leadership. An emissary from the so-called United Provinces of the Republic of China, Chen's government, appeared with a request: Join the United Provinces in overthrowing the decadent and corrupt [QIE.GetName] and restore the Republic and Constitution.\n\nThe message does include demands and a final threat: [Root.GetLeader] must abide to Chen Jiongming's so-called Reconstruction Plan, which would require us to adopt a constitution and delegate the majority of our powers to an elected assembly while our armies would be integrated into the United Provinces', essentially depriving us of political power. In exchange, [GetAdjective] officers would maintain their rank in the federalist army, with [Root.GetLeader] promised a command.\n\nShould we refuse, the message makes it clear that Chen Jiongming is willing to use force to \"help the [GetAdjective] people overthrow their illegal warlord regime and restore democracy.\""
-lngupc.17.a:0 "수락한다. 중국을 위해!"
+lngupc.17.d:0 "한때는 일개 광둥성장에 불과하던 천중밍의 연성자치운동은 중국 내의 참된 주요세력이 되었고, 잠재적으로 국가 영도에 있어서 중대한 경쟁자가 되어가고 잇습니다. 이제 중화합중국으로 불리우는 천중밍의 정부에서 온 밀사가 제안서와 함께 나타났습니다: 합중국에 참여해, 퇴폐적이고 타락한 [QIE.GetName](을)를 타도하고 공화국과 헌법을 복원하자는 요청 말이죠.\n\n이 메시지는 요구와 최후통첩을 포함하고 있습니다: [Root.GetLeader](은)는 반드시 천중밍의 재건 계획이라 불리우는 것에 따라야 하며, 이는 헌법을 채택하고 우리 중 다수파의 대표단을 선출된 국회에 파견하는 동시에 우리의 군대를 합중국 휘하에 통합시키는 것을 의미합니다. 이는 본질적으로 우리의 정치적 권력을 박탈할 것입니다. 그 대신, [GetAdjective]의 군관들은 연방군 내에서도 그들의 계급을 그대로 유지할 것이며 [Root.GetLeader](은)는 이들에 대한 지휘권을 약속받을 것입니다.\n\n이 메시지는 만약 우리가 거절한다면 천중밍이 \"[GetAdjective]의 인민들이 불법적인 군벌 정권을 타도하고 민주주의를 복원하는 것을 돕기 위해\" 무력을 사용할 것임을 명확히 보여주고 있습니다."
+lngupc.17.a:0 "받아들이겠다. 중국을 위하여!"
 lngupc.17.b:0 "우리는 저런 건방진 놈 따위에게 굴복하지 않을 것이다!"
 
 lngupc.18.t:0 "[From.GetLeader](이)가 복종하다!"
@@ -495,17 +495,17 @@ lngupc.21.t:0 "연성주의자들로부터의 초대"
 lngupc.21.d:0 "Chen Jiongming's rival government in Guangzhou, having secured themselves a significant presence in the South, has sent delegates for negotiations. Unwilling to shed further bloodsheds and wanting to reunify the country as painlessly and peacefully as possible. The emissaries made their case that our government should adopt Chen Jiongming's Reconstruction Plan, which would mean that our provinces would send delegates to Chen's National Conference. This assembly would hammer out a new Federal Constitution based on the 1924 Constitution and an economic plan to rebuild the country. This would, however, submit all our military forces to this new civilian federal government, practically robbing us of significant bargaining power in Chen's Federal Republic.\n\nNegotiations quickly broke down as the Federalists refused to allow our Marshall to remain head of the reunified Chinese military or to adjust the powers of the President. The delegates left bitterly disappointed and we can only expect their rebellious armies to march against us."
 lngupc.21.a:0 "미련한 반역자들 같으니."
 
-lngupc.211.t:0 "[FROM.GetNameDef](와)과의 협상이 와해되다"
+lngupc.211.t:0 "[FROM.GetNameDef] 측과의 협상이 와해되다"
 lngupc.211.d:0 "Our delegates have returned bitterly disappointed. [FROM.GetLeader] refused to adopt Chen's Reconstruction Plan and attempts at compromise failed, seemingly unwilling to avoid more bloodshed among countrymen in order to preserve their thinly-veiled dictatorships. We will have to overthrow the militarists by force."
 lngupc.211.a:0 "미련한 군국주의자들 같으니."
 
 lngupc.22.t:0 "연성주의자들이 우리에 맞서 군을 동원하다"
 lngupc.22.d:0 "Chen Jiongming and his treacherous band of republicans and self-proclaimed revolutionaries have mobilized their rebel forces against us. Unsurprisingly, they are unwilling to be reasonable, dead-set on overthrowing the Emperor and bringing another era of anarchy to the Empire. We can expect them to attack us soon, and we will destroy the anarchist when he tries to march north."
-lngupc.22.a:0 "He never should've been restored to Guangdong."
+lngupc.22.a:0 "그는 광둥에서 복권되지 말았어야 했다."
 
 lngupc.23.t:0 "재건 계획 이행"
-lngupc.23.d:0 "While we have been working on its preliminary implementation since we joined Chen Jiongming's Federalist movement, the new Federal Government has made it official as its first act. We will soon be invited to the National Conference, where details of a new Constitution will be decided.\n\nUnlike the last two Republican constitutions, this one will clearly determine the powers of the Chief Executive (head of state), the cabinet, the legislature, the Federal and Provincial governments, and so on. Essentially, the Provisional Government is expected to model itself after the United States of America while taking into account its recent failings and, of course, the particularities of China. After a Constitution is adopted and Senate (representing the Provinces) is formed, elections will be organized for the National Assembly.\n\nUntil the National Conference opens, as part of the Plan, we can expect help from the Provisional Government in infrastructure projects to help rebuild the national economy."
-lngupc.23.a:0 "Help? From the Central Government?"
+lngupc.23.d:0 "우리가 천중밍의 연성자치운동에 참여해 그 예비 단게 이행을 위해 일하는 동안, 신생 연방정부는 그 첫 번째 행보로 이를 공식화했습니다. 우리는 곧 전국대회에 초대받을 것이고, 거기서 새 헌법의 구체적인 부분이 결정될 것입니다.\n\n이전의 두 공화국 헌법과는 달리, 이는 정부수반(국가원수)과 내각, 입법부, 연방정부와 성정부, 그 이외의 요소들에 주어질 권한을 명료하게 결정지을 것입니다. 근본적으로, 임시정부는 미합중국이 최근 겪은 실패와 중국의 특수성을 감안하더라도 미국식 모델을 본뜰 것으로 예상됩니다. 헌법이 채택되고 상원(각 성을 대표)이 구성된 이후엔, 국회를 위해 총선이 실시될 것입니다.\n\n전국대회가 개최될 때까지, 우리는 국가 경제를 재건하는 것을 돕기 위한 인프라 계획이 재건계획의 일환으로 임시정부로부터 지원을 받을 것이라 기대할 수 있습니다."
+lngupc.23.a:0 "지원? 중앙정부에서 말이냐?"
 
 lngupc.24.t:0 "Invitation to the National Conference"
 lngupc.24.d:0 "The National Conference, as agreed in the Reconstruction Plan, is to draft the new Constitution of the Republic, form a Senate to represent the provinces of China, and create a new Central Government along democratic, federalist ideals. Our part of the country will be an integral part of the reborn Chinese nation."
@@ -513,18 +513,18 @@ lngupc.24.a:0 "A new China rises."
 
 lngupc.25.t:0 "[FROM.GetLeader] Attends the National Conference"
 lngupc.25.d:0 "Among the representatives of [FROM.GetNameDef] is [FROM.GetLeader] joining us at the National Conference. Their support in the reconstruction of China will prove instrumental and we welcome them with open arms!"
-lngupc.25.a:0 "Welcome, brother!"
+lngupc.25.a:0 "환영하오, 형제여!"
 
-lngupc.26.t:0 "Diplomatic Ouverture from [FROM.GetNameDef]"
+lngupc.26.t:0 "[FROM.GetNameDef] 측에서 찾아온 외교적 접근"
 lngupc.26.d:0 "Ever since we have gained our independence, China, regardless of its successive governments, continues to claim our lands as part of their country. While this was hardly a problem when the Chinese continued to squabble among each other, a new Chinese government has risen from the ashes and reunified the country, which is now at its strongest in recent memory.\n\nHowever, it appears that [FROM.GetLeader] is willing to see reason and compromise. They sent a diplomatic envoy, making clear that they are willing to recognize our independence. In exchange, our nations are to seek closer economic ties for mutual benefits. The Chinese diplomat appears sincere enough with pretty words about our twinkling democracies forming closer ties despite a turbulent past relationship and does not give up hope for further Asian unity in the future."
-lngupc.26.a:0 "Let us seek closer relations as equals."
-lngupc.26.b:0 "This is merely an act to exploit us again!"
+lngupc.26.a:0 "동등한 입장에서 더 가까운 관계를 추구하자."
+lngupc.26.b:0 "이는 단지 우리를 다시 착취하려는 행위일 뿐이다!"
 
-lngupc.27.t:0 "Diplomatic Relations Established with [FROM.GetNameDef]"
-lngupc.27.d:0 "Our diplomat was successful. In exchange for recognition of their independence, we have signed a mutually-beneficial trade agreement as the basis for future relations and regional cooperation."
-lngupc.27.a:0 "For a better future with fellow Asians."
+lngupc.27.t:0 "[FROM.GetNameDef] 측과의 외교적 관계가 수립되다"
+lngupc.27.d:0 "우리의 외교관이 성공을 거두었습니다. 이들의 독립을 인정하는 대가로, 우리는 향후 관계와 지역 협력의 기초가 되는 상호 이익이 되는 무역협정을 체결했습니다."
+lngupc.27.a:0 "아시아의 동료들과 함께 더 나은 미래를 위하여."
 
-lngupc.28.t:0 "[FROM.GetLeader](이)가 우리의 제안을 거절하다"
+lngupc.28.t:0 "[FROM.GetLeader] 측이 우리의 제안을 거절하다"
 lngupc.28.d:0 "우리의 외교관이 성공을 거두지 못했습니다. 그들은 독립 인정 이외에 그 어떤 것도 받아들이지 않을 것이고 그 어떠한 무역협정도 단지 그들의 나라에 중국의 지배를 재개시킬 뿐이라는 입장을 확고히 했습니다. 그들의 이러한 모욕은 기록에 남을 것입니다."
 lngupc.28.a:0 "어리석은 일이군!"
 
@@ -542,7 +542,7 @@ lngupc.30.b:0 "장쥔마이와 중국 민주동맹"
 lngupc.30.c:0 "[UPC_DCP_leader](와)과 민주입헌당"
 
 lngupc.31.t:0 "[From.GetName](이)가 통합을 요구하다!"
-lngupc.31.d:0 "With intensified anti-imperialist rhetoric, [FROM.GetLeader] has made it clear that our uncertain status cannot be maintained any longer. While the municipalities under our control are guaranteed to have autonomy under the Chinese Constitution, we are to be returned to direct control of the Chinese Federal Government with the Unequal Treaties declared null and void."
+lngupc.31.d:0 "한층 강렬해진 반제국주의적 수사에 더해, [From.GetName](은)는 우리의 불확실한 지위가 더이상 유지되지 않으리란 점을 확실히 했습니다. 우리의 통제 하에 있는 기초자치단체들이 중국 헌법에 따라 자치권을 보장받음에 따라, 우리는 불평등조약이 무효임을 선언한 중화합중국의 직할통치하에 복귀할 것입니다."
 lngupc.31.a:0 "우리는 재통합된 중국에 참여할 것이다. ([From.GetName](으)로 플레이)"
 
 lngupc.32.t:0 "[From.GetName](이)가 마카오를 공격하다!"
@@ -551,27 +551,27 @@ lngupc.32.a:0 "명목상의 저항을 연출한 뒤 항복하자."
 lngupc.32.b:0 "그들과 싸우자!"
 
 lngupc.320.t:0 "포르투갈령 마카오가 항복하다!"
-lngupc.320.d:0 "Excellent news! Portuguese forces, facing our overwhelming superiority, surrendered control of Macau soon after our attack began. We allowed them to return home unmolested, and now the city is ours!"
+lngupc.320.d:0 "좋은 소식입니다! 우리의 압도적인 우위에 직면한 포르투갈군은 공격이 시작된 지 얼마 지나지 않아 마카오의 지배권을 넘겨주었습니다. 우리는 그들이 방해받지 않고 귀향할 수 있도록 허락했고, 이제 도시는 우리의 것이 되었습니다!"
 lngupc.320.a:0 "멋지군!"
 
 lngupc.33.t:0 "[From.GetName](이)가 우리를 위협하다!"
-lngupc.33.d_AST:0 "The [From.GetName] have long considered Hong Kong an integral part of their territory, and given Canada's current military status they have taken this opportunity to mobilize troops on our borders. We must petition Canada for help - hopefully their current conflicts are not too distracting!"
-lngupc.33.d_LEC:0 "The [From.GetName] have long considered our status illegitimate, and while we had hoped Canada would provide protection against any revanchist activity from the Chinese government, it seems they have taken Canada's current military struggles as an opportunity to attempt to try and retake the Legations. We must petition Canada for aid and hope they are not too distracted!"
+lngupc.33.d_AST:0 "[From.GetName](은)는 오랫동안 홍콩을 그들의 영토의 필수요소로 여겼고, 캐나다의 현 군사적 상황을 우리 국경에 병력을 동원할 기회로 삼았습니다. 우리는 캐나다에게 도움을 간청해야 합니다. 바라건대, 그들에게 현재의 교전이 지나치게 신경쓰이는 일이 아니길 빌면서 말이죠!"
+lngupc.33.d_LEC:0 "[From.GetName](은)는 오랫동안 우리의 지위를 불법적인 것으로 여겼고, 비록 우리가 중국 정부로부터 어떠한 보복주의 행동이 가해지든 캐나다가 보호를 제공하길 기원했지만, 그들은 캐나다의 현 군사적 고투를 공사관들을 도찾을 기회로 삼은 것으로 보입니다. 우리는 캐나다에게 도움을 간청하고, 그들이 다른 데에 지나치게 신경이 팔려있지 않도록 기도해야 합니다!"
 lngupc.33.a:0 "즉시 오타와에 전보를 보내라!"
 
 lngupc.330.t:0 "중국이 우리의 동방 이권을 위협하다!"
-lngupc.330.d:0 "A worrying telegram this morning arrived from Hong Kong! It appears that the Chinese are attempting to reassert control over the legations currently under our protection! What are we to do?"
+lngupc.330.d:0 "성가신 내용의 전보가 오늘 아침 홍콩에서 도착했습니다! 중국이 현재 우리 보호 하에 놓인 공사관들의 지배권을 재주장하려 시도했음이 드러났습니다! 어쩌면 좋을까요?"
 lngupc.330.a:0 "[UPC_leader.Capital.GetName]에게 물러설 것을 요구해라!"
 lngupc.330.b:0 "우린 전쟁에서 또다른 전선을 만들 능력이 되지 못한다..."
 
 lngupc.331.t:0 "[CAN.GetName](이)가 우리를 보호할 것이라고 알리다!"
-lngupc.331.d:0 "[CAN.GetName] formally told [UPC_leader.Capital.GetName] that they will protect us against any military incursion! While the United Provinces of China has a powerful army, their navy is rather lackluster, and most experts agree they would never dare challenge the Canadian fleet."
+lngupc.331.d:0 "[CAN.GetName](이)가 [UPC_leader.Capital.GetName]에게 우리를 어떠한 군사적 침략으로부터든 지켜주겠다고 공언했습니다! 중화합중국은 강대한 육군을 보유하고 있지만 그들의 해군은 비교적 평범하며, 대부분의 전문가들은 그들이 감히 캐나다 함대에 도전하는 일은 절대 일어나지 않을 것이라는 점에 동의했습니다."
 lngupc.331.a:0 "만세!"
 
 lngupc.332.t:0 "캐나다가 개입하다!"
-lngupc.332.d:0 "The Canadian government announced today that they would take any action necessary to protect their eastern interests, including military action. It appears they have called our bluff! While their current war leaves them distracted, we are a young power, and would be facing one of the world's most formidable navies..."
+lngupc.332.d:0 "캐나다 정부는 오늘 그들의 동방 이권을 보호하기 위해, 군사 행동을 포함하는 어떠한 조치라도 필요하다면 취할 것이라고 발표했습니다. 그들이 우리의 허세를 눈치챈 것 같습니다! 그들은 현 전쟁 때문에 산만해진 상태이지만, 우리는 신생 세력이고 곧 세계에서 가장 강력한 해군 중 하나와 맞상대하게 될 것입니다..."
 lngupc.332.a:0 "젠장! 물러서자..."
-lngupc.332.b:0 "전쟁이 해결해줄 것이다!"
+lngupc.332.b:0 "전쟁이 해결해 줄 것이다!"
 
 lngupc.333.t:0 "캐나다가 [PREV.GetName](을)를 버리다!"
 lngupc.333.d_HK:0 "캐나다가 [AST.GetName](을)를 버렸고, 홍콩이 우리에게 항복하도록 강요했습니다! 이는 중국 전역에서 기념될 위대한 승리입니다!"
@@ -584,7 +584,7 @@ lngupc.334.d:0 "전쟁을 치르는 중이라는 이유로 캐나다가 우리�
 lngupc.334.a:0 "제기랄!"
 
 lngupc.34.t:0 "[From.GetName](이)가 우리의 개항장을 위협하다!"
-lngupc.34.d:0 "A new Chinese central government rose from the ashes, consolidating itself to the point that it has deluded itself that it can demand the return of all concessions granted to us! This is outrageous, of course, but the instability in the region essentially destroyed our presence in the region and the new Chinese government does have a very large and remarkably competent army."
+lngupc.34.d:0 "신생 중국 중앙정부가 잿더미에서 부활했고, 이제 우리에게 주어진 모든 조계를 반환하라고 요구할 수 있을 정도로 세력을 굳혔습니다! 물론 이 요구는 터무니없는 것이지만, 이 지역에서의 불안으로 인해 우리의 진출 세력이 근본적으로 소멸되었고 신생 중국 정부는 매우 거대하고 놀랄 만큼 유능한 군대를 보유하고 있습니다."
 lngupc.34.a:0 "넘겨줘라, 전쟁을 벌일 가치가 있는 땅이 아니다."
 lngupc.34.b:0 "버르장머리 없는 요구를 단칼에 거절해라!"
 
