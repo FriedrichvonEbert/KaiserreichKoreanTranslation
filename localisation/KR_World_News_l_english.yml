@@ -1323,7 +1323,7 @@ worldnews.284.d:0 "곧 전쟁이 끝날까?"
 worldnews.285.t:0 "보스턴 함락"
 worldnews.285.d.nee:0 "The people of Boston, along with the New England National Guard, made their impression on [new_controller.GetAdjective]. The invading force entered the Third Tunnel under heavy resistance, encircling Boston via the Charles River. The New England National Guard was forced to evacuate via Cambridge, losing Jamaica Plains entirely to the enemy.\n\nThe historical and symbolic significance of this victory was not lost on [new_controller.GetNameDef], who have set about to capitalize on the city's remaining symbols of American independence, including the Old North Church, now dwarfed by street battlements all around it."
 worldnews.285.d.other:0 "A careful application of force was sufficient for [new_controller.GetAdjective] forces to dislodge the defenders in Boston's Inner Belt. After furious scrummage in the Port, the city's defenders were forced to retreat across the Charles River towards Everett in an astonishing defeat. Both soldiers and civilians are in disarray. \n\nInterviewes of [new_controller.GetAdjective] men on the scene report not only the ecstasy of victory, but the massive need to find and preserve the city's symbols of freedom that [new_controller.GetNameDef] claims to represent."
-worldnews.285.a:0 "보스턴을 손에 쥔 채 뉴잉글랜드가 확보됐다."
+worldnews.285.a:0 "보스턴과 함께, 뉴잉글랜드가 확보되었다."
 worldnews.285.b:0 "자유는 소멸되지 않을 것이다!"
 worldnews.285.c:0 "미국의 아테네는 멸망했다..."
 
@@ -1337,12 +1337,12 @@ worldnews.421.d:0 "After the Socialist victory in the Argentino-Chilean War, the
 worldnews.421.a:0 "사회주의자는 단결을 촉구한다. 지금까지는..."
 worldnews.421.b:0 "동지에 대항하는 동지라니, 이것이 과연 옳은 길일까?"
 
-worldnews.422.t:0 "[FOP.GetAdjective] 의장 사망"
+worldnews.422.t:0 "[FOP.GetAdjective] 의장의 사망"
 worldnews.422.d:0 "After the Socialist victory in the Argentino-Chilean War, the government seemed to be slowly settling down for the Argentinean Nation. With the results pointing at a clear majority of the Unión Sindical Argentina (USA), many were expecting the new government to finally stabilize the situation. However, it seems that was not meant to be, as Chairman Antonio Soto, and his main political ally, Emilio Lopez Arango, have been found dead. The moderates in the USA, now leaderless, quickly lost their grip on the union to the leader of the radicals, Severino di Giovanni, who was quick to uncover a conspiracy by the other Congress factions and quickly executed a takeover. While many see the uncovering of this conspiracy as the turning point of Argentinean Political stability, others wonder if the rule of Severino will live up to his predecessors."
 worldnews.422.a:0 "야만적이군!"
 worldnews.422.b:0 "새로운 의장이 상황을 해결할 수 있기를 바라자."
 
-worldnews.423.t:0 "권력에서 물러난 발도메로 의장"
+worldnews.423.t:0 "권좌에서 물러난 발도메로 의장"
 worldnews.423.d:0 "After the Socialist victory in the Argentino-Chilean War, the government seemed to be slowly settling down for the Argentinean Nation. With the results pointing at a clear majority of the Federación Obrera Regional Argentina (FORA), many were expecting the new government to assume its duties and finally stabilize the situation. However, this unfortunately never came to be, as Anarchist and Communist forces both clashed at the capital, and the victorious side from the skirmish quickly went against Chairman Baldomero's forces. After securing Baldomero's resignation in the Presidential house, [FOP.GetLeaderName]'s forces quickly took over the Congress, expelled the opposition and sworn [FOP.GetLeaderName] as the new chairman. Whether this will put an end to the violent political disputes in Argentina or further inflame tensions with the war weary populace, it remains to be seen..."
 worldnews.423.a:0 "사회주의자는 단결을 촉구한다. 지금까지는..."
 worldnews.423.b:0 "동지에 대항하는 동지라니, 이것이 과연 옳은 길일까?"
