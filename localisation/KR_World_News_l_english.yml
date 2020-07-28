@@ -22,7 +22,7 @@ worldnews.6.d:0 "독일의 첩보원들은 최근 제3인터내셔널의 회원�
 worldnews.6.a:0 "만약 저들이 성공한다면..."
 
 worldnews.7.t:0 "다뉴브 위기"
-worldnews.7.d.pluralism:0 "During the Austro-Hungarian Ausgleich of 1937, the Austrians promised the autonomous states of their empire that the minorities in Transleithania would also receive autonomy. The Hungarians, however, were unwilling to oblige with the dismantlement of their state and privileges within the Monarchy. In consequence, the Austrians have announced their intention to both humiliate Hungary and liberate the Slovaks, Translyvanians and Ruthenes by force, and already skirmishes have begun along the Austro-Hungarian border. Only time will tell the fate of the former Dual Monarchy."
+worldnews.7.d.pluralism:0 "오스트리아-헝가리의 1937년 대타협에서, 오스트리아인들은 트란스라이타니아의 소수민족에게도 자치를 부여하겠노라고 제국 내의 자치주들에게 약속했습니다. 그러나 헝가리인들이 헝가리의 해체와 특권 회수에 동의할 리 없었습니다. 이에 맞서 오스트리아인들은 헝가리를 점령하고 슬로바키아인, 트란실바니아인, 루테니아인을 무력으로 해방시킬 것을 선언했으며, 이미 오스트리아와 헝가리 국경에서 교전이 시작되었습니다. 오직 시간만이 옛 이중군주국의 운명을 알려줄 것입니다."
 worldnews.7.d.illyria:0 "During the Austro-Hungarian Ausgleich of 1937, the Austrian delegates promised their Hungarian counterpart that the historic Kingdom of Croatia - added to the newly created Kingdom of Illyria a decade ago - would be returned to the Transleithanian half of the Empire. The Hungarians soon attempted to move into Croatia-Slavonia, but were met by Illyrian troops on the border, who refused to allow the Hungarians into their land. Skirmishes between the Hungarians and Illyrians have now spiraled into a war that pits the two powerhouses of the Dual Monarchy in Austria and Hungary against the former autonomous components, all of which are fearful of renewed Dualism. Galicia-Lodomeria, however, is being eyed by its neighbors..."
 worldnews.7.d.hungary:0 "During the Austro-Hungarian Ausgleich of 1937, the Austrian delegates promised their Hungarian counterpart that the historic Kingdom of Croatia - added to the newly created Kingdom of Illyria a decade ago - would be returned to the Transleithian half of the Empire. The Hungarians soon demanded that Vienna fulfill their end of the bargain, but the Imperial Government unexpectedly refused. The angered Hungarians attempted to retake Croatia-Slavonia by force, but were rebuffed by the Illyrian troops. Now Austria has entered the conflict in favor of the Illyrians, vowing to end Hungary’s delusions of mastery over the Empire."
 worldnews.7.a:0 "중유럽의 안정이 위협받고 있다."
@@ -56,8 +56,8 @@ worldnews.13.a:0 "어린애 같은 발상이군."
 worldnews.14.t:0 "오스트리아-헝가리 이원론의 종말"
 worldnews.14.d.puppets:0 "After the defeat of Hungary, the governments of Galicia-Lodomeria, Bohemia and Illyria expected the Austrian promises to give the Hungarian minorities autonomy to be fulfilled. Instead, the Austrians renounced any decentralization, and consequently the autonomous Slavic states have revolted against the Austrians. Now, with all other parts of the Empire occupied by Austrian troops or in open revolt, the government in Vienna has announced a return to the Austrian Empire as it was before 1867. Most observers predict the revolts will be crushed, and the return of reaction to Central Europe."
 worldnews.14.d.nopuppets:0 "After the defeat of Illyria and Bohemia, the Austro-Hungarian Empire looked set to return to the status quo of 1920. Instead, the Austrians refused to let the Hungarians reclaim Croatia-Slavonia, despite all their promises. When the angered Hungarians attempted to take it by force once again, they were promptly invaded by the Landwehr, and were soon defeated. Now, with all other parts of the Empire occupied by Austrian troops, the government in Vienna has announced a return to the Austrian Empire as it was before 1867 - centralized under Vienna, committed to the status quo and reaction. Though some continue to predict the collapse of the Empire, order has been restored for now."
-worldnews.14.a:0 "A step backwards?"
-worldnews.14.b:0 "Further reaction cannot stop the revolution!"
+worldnews.14.a:0 "퇴보인가?"
+worldnews.14.b:0 "궁여지책 따위로 혁명을 저지할 수는 없다!"
 
 worldnews.15.t:0 "케렌스키 대통령 암살"
 worldnews.15.d:0 "케렌스키 대통령이 상원에 가던 중 총에 맞아 숨졌습니다! 가해자는 경찰에 의해 체포되었지만 공격자의 목표와 의도는 알 수 없습니다. 케렌스키는 어설픈 토지 개혁과 비효율적인 통치로 인해 러시아 국민들에게 인기를 얻지 못했음에도 불구하고 수년간 이 나라를 하나로 이끌었으며, 그의 암살로 러시아는 혼란에 빠졌습니다. 상원 의원은 케렌스키의 대체자에 대해 이미 논의하고 있으며, 좌파와 우파 양측 모두 새로운 연합이 형성되고 있는 반면에, 데니킨, 브란겔, 코르닐로프와 같은 군인들은 민주주의를 해산하고 '모국 러시아'를 지키기 위해 개입을 준비하고 있습니다..."
@@ -514,7 +514,7 @@ worldnews.144.a:0 "또? 도무지 겉잡을 수가 없는데..."
 worldnews.145.t:0 "라이히스팍트의 붕괴"
 worldnews.145.d.africa:0 "It appears the unthinkable has occurred! News has spread that the German kaiser, his cabinet, and a considerable number of state officials and key generals have embarked by air and sea to Mittelafrika, where they have erected a government-in-exile. German territories and allies in Europe have been abandoned to their fate, with the structure offered by the Reichspakt alliance now completely evaporating. German forces in Europe are expected to offer their final surrender within days, and while the German government lives on it is clear that the world order which has existed since the end of the First Welkrieg is about to come to a fiery end."
 worldnews.145.d.collapse:0 "It appears the unthinkable has occurred! Today, German forces fighting in Europe have finally collapsed under the weight of the invading armies. With nowhere left to run, the kaiser and his cabinet have met and agreed that a complete surrender was imminent within days. The news has thrown their allies into complete disarray, with the structure offered by the Reichspakt alliance completely evaporating. It is clear that the world order which has existed since the end of the First Welkrieg is about to come to a fiery end."
-worldnews.145.a:0 "The Kaiserreich is about to fall..." #Generic
+worldnews.145.a:0 "카이저라이히가 무너져간다..." #Generic
 worldnews.145.b:0 "세계혁명이 곧 실현될 것이다..." #Commune of France
 worldnews.145.c:0 "붉은 평등이 높이 떠오른다!" #Union of Britain
 worldnews.145.e:0 "이제 오스트리아만이 독일인들의 힘이다." #Austria
@@ -809,7 +809,7 @@ worldnews.216.a:0 "흥미로운데."
 
 worldnews.217.t:0 "이탈리아 국민연합의 이탈리아 정부 전복"
 worldnews.217.d:0 "After failing in their attempt to take power in the 1937 elections, Italo Balbo and the ANI today overthrew the Italian government following months of insurrection and bombings. The republican government's attempts to keep order failed miserably enough that sentiment turned against them, and the ANI pounced on this weakness and gained considerable support within the Italian military. With demonstrations filling the streets, particularly in Venice, Italo Balbo today announced that the ANI had taken complete control and would see that the nation remained strong in the face of the syndicalist threat."
-worldnews.217.a:0 "Seems like a recipe for instability"
+worldnews.217.a:0 "불안정을 사랑하는군."
 
 worldnews.218.t:0 "이탈리아 통일!"
 worldnews.218.d.ani:0 "Today the leader of [ITA.GetNameDef], the self-styled 'Duce' [ITA.GetLeader], announced that Italy was once again whole and reunited. 'This Second Risorgimento has come about at great cost,' he told a cheering crowd in Rome, 'but there will be more sacrifices even still, for Italy must reach for the greatness it has known only in centuries past. The embarrassments of the First Weltkrieg must be put aside, and the world must know that our nation will never again be torn apart by foreign powers!' The so-called ‘Greenshirt’ forces have been busy spreading throughout regions of Italy where the ANI has only recently achieved control, making sure that opposition to the new regime remains quiet."
@@ -1173,14 +1173,14 @@ worldnews.264.b.other:0 "사자의 도시는 이제 우리 수중에 있다!"
 worldnews.264.c:0 "황제 해군이 도착하는 날, 이 강도짓을 후회하게 될거다!"
 worldnews.264.e:0 "싱가포르는 영국의 정당한 식민지다. 이 일을 유심히 보자."																								  
 
-worldnews.265.t:0 "The Fall of New York City"
+worldnews.265.t:0 "뉴욕 함락"
 worldnews.265.d.csa:0 "[new_controller.GetAdjective] militias have been fighting sparse skirmishes with the Red Guard down the Hudson River. This morning, the palisades, both natural and manmade, fell from Syndicate hands. Not long after that Manhattan Island was forced to capitulate rather than risk the massive loss of life that urban warfare would bring. The Syndicates have ordered the remainder of the Red Guard to transport the gold from the Federal Reserve Building to safety, leaving behind many financial workers imprisoned on Welfare Island.\n\nThe whole of New York City is now under the control of [new_controller.GetNameDef], and a massive relief effort is underway to assess the full scope of the damage the Syndicates did to the city."
 worldnews.265.d.other:0 "[new_controller.GetAdjective] forces have been pushing down the Hudson River for a while now. Today, their efforts came to a close as they finally descended on New York City after successfully encircling the remaining defenders. To the great dismay of the conquerors, the Federal Reserve Building has been thoroughly looted of gold and transferred to a safehouse. Political prisoners were left in their prison cells in Welfare Island.\n\nThe fall of New York City strikes a major blow to the [old_controller.GetAdjective] cause, the symbol of American power and the thousands of supporters that attended their rallies. As fighting dies down in the New York Harbour, it appears almost certain that [new_controller.GetNameDef] has a definite advantage."
-worldnews.265.a:0 "New York is ours!"
-worldnews.265.b:0 "This is a setback to the Revolution!"
-worldnews.265.c:0 "New York must not remain in enemy hands!"
-worldnews.265.d:0 "The Syndicates lose a major symbol."
-worldnews.265.e:0 "And to the victors goes the Statue of Liberty."
+worldnews.265.a:0 "뉴욕은 우리 도시다!"
+worldnews.265.b:0 "혁명에 차질이 생겼다!"
+worldnews.265.c:0 "뉴욕을 적의 수중에 두어선 안 된다!"
+worldnews.265.d:0 "생디칼리스트들의 상징이 함락되었군."
+worldnews.265.e:0 "자유의 여신상은 승자의 편이지."
 
 worldnews.266.t:0 "홍콩 함락"
 worldnews.266.d.asia:0 "[new_controller.GetNameDef] 군대가 진 드링커 방어선을 돌파하고 홍콩 섬에 상륙해 과거 영국 식민지였던 홍콩을 점령했습니다. 상황이 방어군에게 불리해지자 홍콩 총독은 [new_controller.GetAdjective] 사령부가 있는 페닌슐라 홍콩 호텔로 직접 찾아와 항복했습니다.\n\n짧은 항복식 이후, 새 [new_controller.GetAdjective] 총독이 임명되었습니다. 새 총독은 세계에 '서구 식민주의로부터 해방된 새 홍콩'을 선언했습니다."
@@ -1342,7 +1342,7 @@ worldnews.422.d:0 "After the Socialist victory in the Argentino-Chilean War, the
 worldnews.422.a:0 "야만적이군!"
 worldnews.422.b:0 "새로운 의장이 상황을 해결할 수 있기를 바라자."
 
-worldnews.423.t:0 "권력에서 물러난 Baldomero 의장"
+worldnews.423.t:0 "권력에서 물러난 발도메로 의장"
 worldnews.423.d:0 "After the Socialist victory in the Argentino-Chilean War, the government seemed to be slowly settling down for the Argentinean Nation. With the results pointing at a clear majority of the Federación Obrera Regional Argentina (FORA), many were expecting the new government to assume its duties and finally stabilize the situation. However, this unfortunately never came to be, as Anarchist and Communist forces both clashed at the capital, and the victorious side from the skirmish quickly went against Chairman Baldomero's forces. After securing Baldomero's resignation in the Presidential house, [FOP.GetLeaderName]'s forces quickly took over the Congress, expelled the opposition and sworn [FOP.GetLeaderName] as the new chairman. Whether this will put an end to the violent political disputes in Argentina or further inflame tensions with the war weary populace, it remains to be seen..."
 worldnews.423.a:0 "사회주의자는 단결을 촉구한다. 지금까지는..."
 worldnews.423.b:0 "동지에 대항하는 동지라니, 이것이 과연 옳은 길일까?"
