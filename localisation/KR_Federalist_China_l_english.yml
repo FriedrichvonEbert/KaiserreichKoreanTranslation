@@ -357,59 +357,59 @@ national_aviation_corporation:0 "국립항공사"
 
 ### Events ###
 lngupc.1.t:0 "[GetConferenceCity] 회의"
-lngupc.1.d:0 "The First and Second Shantou Conferences of 1924 were an assembly of federalists from across China to discuss the future of the movement and the country. Notably, the second one was attended by delegates from both the Kuomintang and the Beijing Government despite their ongoing conflict. Chen Jiongming will now host a third conference, hoping to bring the southern provincial governments together to agree on a new Reconstruction Plan for the region and form a provisional government to rival the Beijing and Fengtian governments and the Kuomintang upstarts. Once more, the strength of the Federalist movement is on the upswing and there is a real chance for it to become influential in national politics."
+lngupc.1.d:0 "1924년의 제1차 및 제2차 샨터우 회의는 연성자치운동의 미래와 국가에 대해 논의하기 위해 중국 전역에서 온 연성주의자들이 모인 집회였습니다. 특히, 제2차 회담은 계속되는 국민당과 북양정부의 갈등에도 불구하고 양측의 대표단이 모두 참석했습니다. 천중밍은 이제 제3차 회의를 개최하려 하며, 남방의 성정부들이 모여 이 지역의 새로운 재건 계획에 합의하고 북경과 봉천 정부, 그리고 국민당 애송이들에 맞설 임시정부를 구성하기를 희망합니다. 연성주의 운동의 힘은 다시 한 번 상승세에 놓였으며, 국내 정치에도 영향력을 행사할 수 있는 실질적인 기회를 얻었습니다."
 lngupc.1.a:0 "통일을 향하여."
 
 lngupc.101.t:0 "회의 시작"
-lngupc.101.d:0 "Governor Chen Jiongming, chairman of the China Public Interest Party, opened the conference stating that Southern China was in a unique position once again, and that the Federalist movement could prove themselves to the rest of China as models for true democracy and prosperity. [GXC.GetTangStatus]. Zhao Hengti reiterated his statement from 1922 that the only way to unite China is to build a federalized, unified nation. Notably, there are a number of delegates from outside the Federalist movement observing the Conference like the first two. After the opening statements, the delegates begin discussing Chen Jiongming's Reconstruction Plan and the possibility of forming a new National Government."
-lngupc.101.a:0 "Get on with it!"
+lngupc.101.d:0 "중국 치공당의 총재이자 광둥성장인 천중밍은 이날 회의를 열고, 남중국이 다시 한 번 특별한 위치에 서게 되었다며 연성자치운동이 중국의 나머지 지역에서도 진정한 민주주의와 번영의 모범으로서 스스로를 입증할 수 있다고 말했습니다. [GXC.GetTangStatus]. 자오헝티는 1922년 이래로 중국을 통합할 수 있는 유일한 방법은 연방제 통일 국가를 건설하는 것이라는 자신의 입장을 되풀이했습니다. 특히, 연성주의 운동 바깥에선 많은 대표단이 앞의 두 명처럼 총회를 참관하고 있습니다. 개회사 이후, 대표단은 천중밍의 재건 계획과 신정부의 구성 가능성에 대해 논의하기 시작했습니다."
+lngupc.101.a:0 "빨리빨리!"
 
 lngupc.102.t:0 "탕지야오의 방책"
-lngupc.102.d:0 "As the Conference drags on, Governor Tang is becoming uneasy. Chen Jiongming's Reconstruction Plan would severely weaken his position within the movement and in Yunnan itself, and while he had previously agreed to it back in 1924, the leader of Yunnan has become ambitious over the years. As deputy chairman of the Chen's Public Interest Party, Tang is in a position to oppose the more radical proposals of the party chairman.\n\nIt is becoming clear that the chairman and deputy chairman are no longer in complete agreement, and Tang is seeing his chance to usurp the Federalism movement from Chen. To do so, however, would go against the majority of the Public Interest Party and break the movement altogether. However, the idea of attaining national leadership is an attractive one, and may be worth the risk of a war with Liangguang."
-lngupc.102.a:0 "Denounce Chen and claim leadership!"
-lngupc.102.b:0 "No, unity must be preserved."
+lngupc.102.d:0 "회의가 길어지면서, 탕지야오 성장은 불안해하고 있습니다. 천중밍의 재건 계획은 운동 내에서든 윈난 자체에서든 그의 입지를 심각하게 약화시킬 것이며, 앞서 1924년 재건 계획에 동의했던 윈난의 통치자는 천중밍의 치공당 부총재로서 총재의 보다 급진적인 제안에 반대해야 할 처지에 놓였습니다.\n\n총재와 부총재 간에 더 이상 완전한 합의가 이뤄지지 못하고 있다는 점이 분명해지고 있으며, 탕지야오는 천중밍으로부터 연성자치운동을 탈취할 기회를 엿보고 있습니다. 그러나 이러한 행위는 치공당의 주류 의견에 반하고, 연성자치운동을 완전히 무너뜨릴 것입니다. 하지만 국가의 지도권을 얻어낸다는 것은 매력적인 발상으로, 양광과의 전쟁의 위험성을 감수할 만한 가치가 있을지도 모릅니다."
+lngupc.102.a:0 "천중밍을 비난하고 대표직을 요구하자!"
+lngupc.102.b:0 "안돼, 단합은 지켜져야만 해."
 
 lngupc.103.t:0 "합중국이 선포되다"
-lngupc.103.d:0 "The delegates at the Conference have agreed to Chen's Reconstruction Plan and soon finished the draft of their declaration. Chen Jiongming declares that [QIE.GetNameDef] to be illegitimate and the formation of a new national government in [Root.GetCapital]: The United Provinces of the Republic of China. The Conference then elect him as Provisional Chief Executive of the United Provincial Government, promptly announcing another conference to draft a provisional constitution for the Federalist government.\n\nWhile Southern China has been de facto outside the control of the Beijing Government since February 1936, this declaration formally announced the creation of a rival republican government in the South. While Chen Jiongming hopes that reconcilliation is still possible with other republican movements in China, this will likely be taken poorly from the rival national governments."
+lngupc.103.d:0 "회의의 대표단은 천중밍의 재건 계획에 동의했고, 곧 선언문 초안을 완성했습니다. 천중밍은 [QIE.GetNameDef](이)가 불법적인 정권이며 [Root.GetCapital]에서 신정부를 구성할 것임을 선언했습니다: 중화합중국 말이죠. 그런 다음, 회의는 그를 합중국 정부의 임시 정부수반으로 선출했으며, 연방정부를 위한 임시 헌법 초안을 작성하기 위한 또다른 회의를 개최할 것을 즉시 발표했습니다.\n\n1936년 2월 이래로 남중국은 사실상 북경정부의 통제 바깥에 있었지만, 이 선언은 공식적으로 남방에 그들의 경쟁자인 공화정부의 건설을 발표했습니다. 천중밍은 중국의 다른 공화주의 운동들과도 여전히 화해할 수 있기를 바라고 있지만, 이는 아마도 경쟁 정부들로부터 잘 받아들여질 것 같지는 않습니다."
 lngupc.103.a:0 "합중국 만세!"
 
 lngupc.104.t:0 "합중국이 선포되다"
-lngupc.104.d:0 "The delegates at the Conference have agreed to Chen's Reconstruction Plan and soon finished the draft of their declaration. Chen Jiongming declares that [QIE.GetNameDef] to be illegitimate and the formation of a new national government in Guangzhou: The United Provinces of the Republic of China. The Conference then elect him as Provisional Chief Executive of the United Provincial Government, promptly announcing another conference to draft a provisional constitution for the Federalist government.\n\nOur province has been formally invited to join the Federalist government, and we are expected to join Chen Jiongming against the monarchists and militarists in the North, and the party-dictators in the East."
+lngupc.104.d:0 "회의의 대표단은 천중밍의 재건 계획에 동의했고, 곧 선언문 초안을 완성했습니다. 천중밍은 [QIE.GetNameDef](이)가 불법적인 정권이며 광저우에서 신정부를 구성할 것임을 선언했습니다: 중화합중국 말이죠. 그런 다음, 회의는 그를 합중국 정부의 임시 정부수반으로 선출했으며, 연방정부를 위한 임시 헌법 초안을 작성하기 위한 또다른 회의를 개최할 것을 즉시 발표했습니다.\n\n우리 성은 연방정부에 가입하도록 정식으로 초대를 받았으며, 우리는 천중밍과 함께 북방의 왕당파와 군국주의자들, 그리고 동쪽의 일당독재자들과 맞서 싸울 것으로 예상됩니다."
 lngupc.104.a:0 "합중국 만세!"
 lngupc.104.b:0 "우리가 마음을 바꾸기엔 이미 늦은 걸까?"
 
-lngupc.105.t:0 "End of the [GetConferenceCity] Conference"
-lngupc.105.d:0 "The [GetConferenceCity] Conference has successfully closed today after the foundation of the Federal Republic. We are now on the path to a free, democratic, federal China. This path, however, is guaranteed to be a difficult one as many claim leadership over the country, and few are willing to entertain the Provisional Chief Executive's plea for reconcilliation and peaceful reunification."
+lngupc.105.t:0 "[GetConferenceCity] 회의가 끝나다"
+lngupc.105.d:0 "[GetConferenceCity] 회의는 합중국의 수립과 함께 성공적으로 폐회되었습니다. 우리는 이제 자유롭고 민주주의며 연방제에 기반한 중국으로 향하는 길을 택했습니다. 하지만, 이 길은 국가에 대한 지도권을 주장하는 자들이 많아 가시밭길이 될 것으로 예상되며, 임시 정부수반의 화해와 평화통일을 위한 탄원을 기꺼이 들어줄 사람은 거의 없습니다."
 lngupc.105.a:0 "천중밍이 중국을 자유케 하리라!"
 
 lngupc.106.t:0 "[GetConferenceCity] 회의가 끝나다"
-lngupc.106.d:0 "The [GetConferenceCity] Conference has ended in relative success. The Federalist movement appears united and on the way to securing the whole of Southern China. This could eventually pose a threat to our position, and we should keep a watchful eye to the Federalist upstarts in Guangzhou."
+lngupc.106.d:0 "[GetConferenceCity] 회의는 비교적 성공적인 결과를 얻어냈습니다. 연성자치운동은 단결하여 남중국 전체를 확보하는 길로 향한 것으로 보입니다. 이는 결국 우리의 입지에 위협이 될 수 있기 때문에, 우리는 광저우의 시건방진 연성주의자들을 주시해야 합니다."
 lngupc.106.a:0 "두고 보자고."
 
 lngupc.107.t:0 "탕지야오의 배반"
-lngupc.107.d:0 "Tang Jiyao, governor of Yunnan and deputy chairman of the Public Interest Party, has turned on Chen Jiongming in the middle of the conference. It wasn't long before Tang and his delegates walked out of the assembly, denouncing Chairman Chen as a radical and what he sees as violating provincial autonomy.\n\nThe Conference is shaken, but continues without Yunnan. Tang's betrayal is quickly denounced and the rest of the delegates accept the Reconstruction Plan. Chen Jiongming reads out the conference's decision, declaring that [QIE.GetNameDef] to be illegitimate and the formation of a new national government in Guangzhou: The United Provinces of the Republic of China. The Conference then elect him as Provisional Chief Executive of the United Provincial Government, promptly announcing another conference to draft a provisional constitution for the Federalist government.\n\nWhile Southern China has been de facto outside the control of the Beijing Government since February 1936, this declaration formally announced the creation of a rival republican government in the South. While Chen Jiongming hopes that reconcilliation is still possible with other republican movements in China, this will likely be taken poorly from the rival national governments, and his legitimacy is shaken by Tang's open rebellion."
+lngupc.107.d:0 "윈난성장이자 치공당의 부총재인 탕지야오가 회의 도중 천중밍을 적대했습니다. 탕지야오와 그의 대표단이 천중밍 총재를 급진적이고 성자치를 훼손하고 있다며 비난하곤 의회에서 항의 퇴장하기까진 오랜 시간이 걸리지 않았습니다.\n\n회의는 동요했지만, 윈난 없이 계속 진행하기로 결정됐습니다. 탕지야오의 배반은 빠르게 규탄되었고, 나머진 대표단은 재건 계획을 수락했습니다. 천중밍은 [QIE.GetNameDef](이)가 불법적인 정권이며 [Root.GetCapital]에서 신정부를 구성할 것임을 선언했습니다: 중화합중국 말이죠. 그런 다음, 회의는 그를 합중국 정부의 임시 정부수반으로 선출했으며, 연방정부를 위한 임시 헌법 초안을 작성하기 위한 또다른 회의를 개최할 것을 즉시 발표했습니다.\n\n1936년 2월 이래로 남중국은 사실상 북경정부의 통제 바깥에 있었지만, 이 선언은 공식적으로 남방에 그들의 경쟁자인 공화정부의 건설을 발표했습니다. 천중밍은 중국의 다른 공화주의 운동들과도 여전히 화해할 수 있기를 바라고 있지만, 이는 탕지야오가 떨어져나가면서 정통성이 흔들림에 따라 아마도 경쟁 정부들로부터 잘 받아들여질 것 같지는 않습니다."
 lngupc.107.a:0 "탕지야오를 타도하자, 합중국 만세!"
 
 lngupc.108.t:0 "합중국이 선포되다"
-lngupc.108.d:0 "Tang Jiyao's open betrayal at the conference has shaken the Federalist movement, but the delegates continued their work regardless. The remaining delegates at the Conference have agreed to Chen's Reconstruction Plan and soon finished the draft of their declaration. Chen Jiongming declares that [QIE.GetNameDef] to be illegitimate and the formation of a new national government in Guangzhou: The United Provinces of the Republic of China. The Conference then elect him as Provisional Chief Executive of the United Provincial Government, promptly announcing another conference to draft a provisional constitution for the Federalist government.\n\nOur province has been formally invited to join the Federalist government, and we are expected to join Chen Jiongming against the monarchists and militarists in the North, and the party-dictators in the East."
+lngupc.108.d:0 "회의 도중 탕지야오의 공개적인 배반이 연성자치운동을 뒤흔들긴 했지만, 이에 괘념치 않고 대표단은 그들의 일을 계속했습니다. 회의의 나머지 대표단은 천중밍의 재건 계획에 동의했고, 곧 선언문 초안을 완성했습니다. 천중밍은 [QIE.GetNameDef](이)가 불법적인 정권이며 광저우에서 신정부를 구성할 것임을 선언했습니다: 중화합중국 말이죠. 그런 다음, 회의는 그를 합중국 정부의 임시 정부수반으로 선출했으며, 연방정부를 위한 임시 헌법 초안을 작성하기 위한 또다른 회의를 개최할 것을 즉시 발표했습니다.\n\n우리 성은 연방정부에 가입하도록 정식으로 초대를 받았으며, 우리는 천중밍과 함께 북방의 왕당파와 군국주의자들, 그리고 동쪽의 일당독재자들과 맞서 싸울 것으로 예상됩니다."
 lngupc.108.a:0 "탕지야오를 타도하자, 합중국 만세!"
 lngupc.108.b:0 "연성주의자들은 침몰하는 배와도 같다."
 
 lngupc.109.t:0 "[GetConferenceCity] 회의가 끝나다"
-lngupc.109.d:0 "The [GetConferenceCity] Conference has successfully closed today after the foundation of the Federal Republic despite Tang Jiyao's betrayal. We are now on the path to a free, democratic, federal China. This path, however, is guaranteed to be a difficult one as many claim leadership over the country, and few are willing to entertain the Provisional Chief Executive's plea for reconcilliation and peaceful reunification, especially with his legitimacy shaken by Tang's split."
+lngupc.109.d:0 "[GetConferenceCity] 회의는 탕지야오의 배신에도 불구하고 합중국의 수립과 함께 성공적으로 폐회되었습니다. 우리는 이제 자유롭고 민주주의며 연방제에 기반한 중국으로 향하는 길을 택했습니다. 하지만, 이 길은 국가에 대한 지도권을 주장하는 자들이 많아 가시밭길이 될 것으로 예상되며, 특히 탕지야오가 떨어져나가면서 정통성이 흔들림에 따라 임시 정부수반의 화해와 평화통일을 위한 탄원을 기꺼이 들어줄 사람은 거의 없습니다."
 lngupc.109.a:0 "천중밍이 중국을 자유케 하리라!"
 
 lngupc.110.t:0 "[GetConferenceCity] 회의가 끝나다"
-lngupc.110.d:0 "The [GetConferenceCity] Conference has ended and the split between Chen Jiongming and Tang Jiyao has become a very public affair as the two former allies have become hostile enemies. It is clear to us that the Federalists are quite lacking in unity, but it could come out from this crisis very strong. We should keep a close eye on the South."
+lngupc.110.d:0 "[GetConferenceCity] 회의는 끝났고, 천중밍과 탕지야오 사이의 분열은 이전까지 동맹이었던 둘이 적대적으로 돌변함에 따라 매우 공공연한 사건이 되었습니다. 연성주의자들 간의 단합이 상당히 부족한 것은 분명해보이지만, 이 위기에 따를 결과는 매우 클 수도 있습니다. 우리는 남방을 예의 주시해야 합니다."
 lngupc.110.a:0 "세 번째는 명백하게 구미가 당기지 않는군."
 
-lngupc.2.t:0 "Attend the [GetConferenceCity] Conference?"
-lngupc.2.d:0 "With his position secure in Liangguang, Chen Jiongming has invited us to the [GetConferenceCity] Conference. We attended the first two conferences in 1924 as members of the Federalist movement, which led to mixed results as our movement failed to end the war between the North and South. We expect that, this time, Chen Jiongming is aiming to form a new national government based on his ideals for a democratic and federal China, which he believes is the only way for the Chinese people to be free and prosperous. \n\nIf we are to attend and agree to his Reconstruction Plan, it is clear that we will eventually have adopt a federalist constitution, transfer power to an elected assembly, and, more importantly, have our armies absorbed into a central command. While this is not ideal for us, Chen's ideas have grown popular in southern China, and joining him will help stabilize our province and put us in a prominent position in the movement."
+lngupc.2.t:0 "[GetConferenceCity] 회의 참석?"
+lngupc.2.d:0 "천중밍의 양광에서의 입지가 확고해지면서, 그는 우리를 [GetConferenceCity] 회의에 초대했습니다. 우리는 남북 간의 전쟁을 끝내는 데 실패함에 따라 복합적인 결과를 낳은, 1924년 개최된 이전의 두 회의에 연성자치운동의 일원으로서 참석한 바 있습니다. 우리는 천중밍이 그가 중국 인민을 자유와 번영으로 이끌 유일한 방법이라 믿는 민주제 및 연방제 중국의 이상에 기반한, 신정부를 구성하는 것을 목표로 할 것이라 예상하고 있습니다.\n\n만약 우리가 회의에 참석하고 재건 계획에 동의한다면, 우리가 결국 연성주의 헌법을 채택하고 선출된 국회에 권력을 이양하며, 무엇보다도 우리 군대가 총사령부에 흡수될 것이 분명합니다. 이는 우리에겐 이상적인 일이 아니지만, 천중밍의 이상은 남중국에서 계속해서 인기를 얻고 있으며 그에게 가담하는 것은 우리 성을 안정시키고 연성자치운동 내에서 우리의 입지를 두드러지게 하는 데 도움을 줄 것입니다."
 lngupc.2.a:0 "수락한다."
 lngupc.2.b:0 "거절한다."
 
-lngupc.3.t:0 "Observe the [GetConferenceCity] Conference?"
-lngupc.3.d:0 "With Governor Chen Jiongming securing a significant part of Southern China, the Federalist movement has been on the upswing once again. While we are not part of this movement, we have been invited as part of Governor Chen's hope of fostering cooperation between the warring factions. Sending a delegate could help us gather more information in the happenings of the South and see if the Federalists can truly take advantage of their renewed momentum."
+lngupc.3.t:0 "[GetConferenceCity] 회의 참관?"
+lngupc.3.d:0 "천중밍 총독이 남중국의 상당한 부분을 확보하면서, 연성자치운동은 다시 한 번 상승세에 놓였습니다. 비록 우리가 연성자치운동의 일원이 아니긴 하지만, 우리는 천중밍 총독이 가슴속에 품은 전국 세력들 간의 협력에 대한 희망의 일환으로 회의에 초대되었습니다. 대표단을 파견하는 것은 우리에게 남방의 사건들에 대해 더 많은 정보를 얻게 해주고, 연성주의자들이 정말로 그들의 회복된 추진력의 이점을 잘 살릴 수 있을지 확인하는 것을 도울 것입니다."
 lngupc.3.a:0 "수락한다."
 lngupc.3.b:0 "거절한다."
 
@@ -419,9 +419,9 @@ lngupc.4.a:0 "합중국 만세!"
 lngupc.4.b:0 "잠깐- 우리의 자치는!?"
 
 lngupc.5.ta:0 "[From.GetLeader](이)가 동의를 거부하다"
-lngupc.5.da:0 "Completely disregarding our previous agreement in [GetConferenceCity], [From.GetNameDef] has refused to subordinate themselves to the federal government. This betrayal must be punished!"
+lngupc.5.da:0 "[GetConferenceCity]에서 이전에 체결된 우리의 협정을 완전히 무시한 [From.GetNameDef](은)는 연방정부에 귀속되는 것을 거부했습니다. 이 배신자들을 반드시 응징해야 합니다!"
 lngupc.5.tb:0 "[From.GetLeader](이)가 동의하다"
-lngupc.5.db:0 "Without any sign of trouble, the forces of [From.GetNameDef] have been subordinated to the Government of the United Provinces as agreed in the [GetConferenceCity] Conference."
+lngupc.5.db:0 "아무런 문제의 징후도 없이, [From.GetNameDef]의 세력은 [GetConferenceCity] 회의에서 합의된 대로 합중국 정부에 귀속되었습니다."
 lngupc.5.a:0 "알았다."
 
 lngupc.6.t:0 "합중국 임시헌법"
@@ -492,31 +492,31 @@ lngupc.20.d:0 "천중밍과 그의 가증스러운 반혁명 패거리가 국민
 lngupc.20.a:0 "그들이 감히 쑨원의 유산에 침을 뱉다니!"
 
 lngupc.21.t:0 "연성주의자들로부터의 초대"
-lngupc.21.d:0 "Chen Jiongming's rival government in Guangzhou, having secured themselves a significant presence in the South, has sent delegates for negotiations. Unwilling to shed further bloodsheds and wanting to reunify the country as painlessly and peacefully as possible. The emissaries made their case that our government should adopt Chen Jiongming's Reconstruction Plan, which would mean that our provinces would send delegates to Chen's National Conference. This assembly would hammer out a new Federal Constitution based on the 1924 Constitution and an economic plan to rebuild the country. This would, however, submit all our military forces to this new civilian federal government, practically robbing us of significant bargaining power in Chen's Federal Republic.\n\nNegotiations quickly broke down as the Federalists refused to allow our Marshall to remain head of the reunified Chinese military or to adjust the powers of the President. The delegates left bitterly disappointed and we can only expect their rebellious armies to march against us."
+lngupc.21.d:0 "광둥에 위치한 천중밍의 경쟁 정권은 남방에서 중대한 세력을 확보했고, 협상에 대표단을 보내왔습니다. 더 많은 유혈사태를 일으키길 꺼려하고, 최대한 고통 없고 평화적인 방식으로 나라를 재통합하길 바라는 마음에서 말이죠. 밀사들은 우리 성이 천중밍의 전국대회에 대표단을 파견하는 것을 의미하기도 하는, 그의 재건 계획을 채택해야 한다는 입장을 확고히 했습니다. 이 회합은 1924년 헌법에 기반한 새 연방헌법과 국가 재건을 위한 경제 계획을 만들어낼 것입니다. 하지만, 이는 우리의 모든 군대를 새 민간 연방정부에 속하게 하고, 천중밍의 합중국에 우리의 권력을 상당히 헐값에 팔아넘김으로써 이들을 실질적으로 강탈당하게 만드는 결과를 낳을 것입니다.\n\n협상은 연성주의자들이 우리의 대원수가 재통합된 중국군의 수장직을 유지하게 만들거나, 총통의 권력을 조정할 것을 거부하면서 빠르게 와해됐습니다. 대표단은 몹시 실망한 상태로 떠났고, 우리는 단지 그들의 반란군이 우리에게로 진군해올 것임을 예상할 수 있을 뿐입니다."
 lngupc.21.a:0 "미련한 반역자들 같으니."
 
 lngupc.211.t:0 "[FROM.GetNameDef] 측과의 협상이 와해되다"
-lngupc.211.d:0 "Our delegates have returned bitterly disappointed. [FROM.GetLeader] refused to adopt Chen's Reconstruction Plan and attempts at compromise failed, seemingly unwilling to avoid more bloodshed among countrymen in order to preserve their thinly-veiled dictatorships. We will have to overthrow the militarists by force."
+lngupc.211.d:0 "우리 대표단이 몹시 실망한 상태로 돌아왔습니다. [FROM.GetLeader](은)는 천중밍의 재건 계획의 채택을 거부했고 타협 시도는 실패로 돌아갔으며, 그들의 얄팍한 독재정권을 보존하기 위해 동포들 사이에서 더 많은 유혈 사태가 벌어질 것을 피하려 하지 않는 듯 보였습니다. 우리는 무력으로 군국주의자들을 타도해야 할 것입니다."
 lngupc.211.a:0 "미련한 군국주의자들 같으니."
 
 lngupc.22.t:0 "연성주의자들이 우리에 맞서 군을 동원하다"
-lngupc.22.d:0 "Chen Jiongming and his treacherous band of republicans and self-proclaimed revolutionaries have mobilized their rebel forces against us. Unsurprisingly, they are unwilling to be reasonable, dead-set on overthrowing the Emperor and bringing another era of anarchy to the Empire. We can expect them to attack us soon, and we will destroy the anarchist when he tries to march north."
+lngupc.22.d:0 "천중밍과 그의 가증스러운 공화주의자들, 그리고 자칭 혁명가들로 구성된 패거리는 우리에 대항해 반란군을 동원했습니다. 그들은 합리적으로 행동하길 꺼려하고, 황제를 타도해 제국에 또다른 무정부시대를 가져오기 위해 단호하게 움직이고 있습니다. 그들이 곧 우리를 공격해올 것이 예상되며, 만약 그가 북방으로 진격하려 한다면 우리는 무정부주의자들을 박살낼 것입니다."
 lngupc.22.a:0 "그는 광둥에서 복권되지 말았어야 했다."
 
 lngupc.23.t:0 "재건 계획 이행"
 lngupc.23.d:0 "우리가 천중밍의 연성자치운동에 참여해 그 예비 단게 이행을 위해 일하는 동안, 신생 연방정부는 그 첫 번째 행보로 이를 공식화했습니다. 우리는 곧 전국대회에 초대받을 것이고, 거기서 새 헌법의 구체적인 부분이 결정될 것입니다.\n\n이전의 두 공화국 헌법과는 달리, 이는 정부수반(국가원수)과 내각, 입법부, 연방정부와 성정부, 그 이외의 요소들에 주어질 권한을 명료하게 결정지을 것입니다. 근본적으로, 임시정부는 미합중국이 최근 겪은 실패와 중국의 특수성을 감안하더라도 미국식 모델을 본뜰 것으로 예상됩니다. 헌법이 채택되고 상원(각 성을 대표)이 구성된 이후엔, 국회를 위해 총선이 실시될 것입니다.\n\n전국대회가 개최될 때까지, 우리는 국가 경제를 재건하는 것을 돕기 위한 인프라 계획이 재건계획의 일환으로 임시정부로부터 지원을 받을 것이라 기대할 수 있습니다."
 lngupc.23.a:0 "지원? 중앙정부에서 말이냐?"
 
-lngupc.24.t:0 "Invitation to the National Conference"
-lngupc.24.d:0 "The National Conference, as agreed in the Reconstruction Plan, is to draft the new Constitution of the Republic, form a Senate to represent the provinces of China, and create a new Central Government along democratic, federalist ideals. Our part of the country will be an integral part of the reborn Chinese nation."
-lngupc.24.a:0 "A new China rises."
+lngupc.24.t:0 "전국대회 초대"
+lngupc.24.d:0 "전국대회는 재건 계획에서 합의한 대로 공화국의 새 헌법 초안을 작성하고, 중국의 각 성을 대표할 상원을 구성하며, 민주적이고 연성주의적인 이상을 따라 새로운 중앙정부를 세울 것입니다. 우리 지역은 거듭난 중국 국가의 필수요소가 될 것입니다."
+lngupc.24.a:0 "신중국의 해가 떠오른다."
 
-lngupc.25.t:0 "[FROM.GetLeader] Attends the National Conference"
-lngupc.25.d:0 "Among the representatives of [FROM.GetNameDef] is [FROM.GetLeader] joining us at the National Conference. Their support in the reconstruction of China will prove instrumental and we welcome them with open arms!"
+lngupc.25.t:0 "[FROM.GetLeader](이)가 전국대회에 참석하다"
+lngupc.25.d:0 "[FROM.GetNameDef]의 대표단 중에서 [FROM.GetLeader](이)가 우리의 전국대회에 합류한다고 합니다. 중국의 재건에 대한 그들의 지지는 중요한 역할을 할 것이고, 우리는 그들을 두 팔 벌려 환영할 것입니다!"
 lngupc.25.a:0 "환영하오, 형제여!"
 
 lngupc.26.t:0 "[FROM.GetNameDef] 측에서 찾아온 외교적 접근"
-lngupc.26.d:0 "Ever since we have gained our independence, China, regardless of its successive governments, continues to claim our lands as part of their country. While this was hardly a problem when the Chinese continued to squabble among each other, a new Chinese government has risen from the ashes and reunified the country, which is now at its strongest in recent memory.\n\nHowever, it appears that [FROM.GetLeader] is willing to see reason and compromise. They sent a diplomatic envoy, making clear that they are willing to recognize our independence. In exchange, our nations are to seek closer economic ties for mutual benefits. The Chinese diplomat appears sincere enough with pretty words about our twinkling democracies forming closer ties despite a turbulent past relationship and does not give up hope for further Asian unity in the future."
+lngupc.26.d:0 "우리가 독립을 쟁취한 이래로, 후계 정권과는 상관없이 중국은 우리의 영토가 그들의 일부라는 주장을 이어왔습니다. 이는 중국인들이 서로 하찮은 싸움을 벌이고 있을 때는 별 문제가 되지 않았지만, 중국의 신정부가 잿더미에서 부활했고 나라를 재통일했으며, 이젠 최근의 기억속에서도 최전성기에 도달한 것으로 보입니다.\n\n하지만, [FROM.GetLeader](은)는 설득과 타협을 고려하길 꺼리지 않는 것으로 보입니다. 그들은 외교 사절을 보내왔고, 그들이 우리의 독립을 인정하는 것을 꺼리지 않음을 확실히 했습니다. 그 대신, 우리나라는 상호간의 이익을 위한 더 긴밀한 경제적 협력을 추구할 것입니다. 중국의 외교관은 이전의 몹시 사나운 관계에도 불구하고 우리의 눈부신 민주주의가 더 긴밀한 협력을 구성하고 있고, 더 나아가 미래엔 아시아의 단합이 이뤄질 것이란 희망을 포기하지 않을 것임에 대한 멋진 어구들과 충분히 진실한 모습을 보여줬습니다."
 lngupc.26.a:0 "동등한 입장에서 더 가까운 관계를 추구하자."
 lngupc.26.b:0 "이는 단지 우리를 다시 착취하려는 행위일 뿐이다!"
 
