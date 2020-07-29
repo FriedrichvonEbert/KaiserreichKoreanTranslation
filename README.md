@@ -1,6 +1,7 @@
 
-# Kaiserreich 한국어 번역 공지
-## [Kaiserreich 한국어 번역](https://steamcommunity.com/sharedfiles/filedetails/?id=2098453801)은 공개 번역으로 진행되며, 누구든지 Github 가입 후 참여하실 수 있습니다. 
+# Kaiserreich 한국어 번역 공지사항
+## [Kaiserreich 한국어 번역](https://steamcommunity.com/sharedfiles/filedetails/?id=2098453801)은 공개 번역으로 진행됩니다.
+- 따라서 누구든지 Github 가입 후 자유롭게 참여하실 수 있습니다! 
 - 번역팀 디스코드 주소 : https://disc1ord.gg/fGPdPFP **(주소 중간의 '1'을 삭제하고 접속)**
 ### [0.13 패치노트](https://www.reddit.com/r/Kaiserreich/comments/htql0h/kaiserreich_beta_013_a_king_and_his_captain/)
 - 20.07.21. 기준 한국어 번역 0.13.0 호환 작업이 완료되었습니다.
@@ -40,3 +41,21 @@
 
 **3. 번역 이후**
   - 번역은 관리자가 `Pull request`탭에 올라온 내용을 수락한 다음 반영될 것입니다.
+***
+
+## 번역시 도움되는 페이지
+ 파란 단어를 클릭하면 해당 사이트로 넘어갑니다.
+- **자료검색** - 모르는 단어가 중간에 나오면 최소한 한번은 검색하고 진행해주세요.
+  - [카이저라이히 번역팀 단어사전](단어사전.md)
+  - [위키백과(위키피디아) 한국어판](https://ko.wikipedia.org)
+  - [위키백과(위키피디아) 영문판](https://en.wikipedia.org) 
+    - 영문 위키에서 검색 후, 좌측란의 `Language`를 통해 한국어판에선 어떻게 표기되었는지 확인할 수 있습니다.
+  - [네이버](https://www.naver.com)
+  - [구글](https://www.google.com)
+- **번역기** - 오로지 **참조**로만 사용하십시오. 재차 경고합니다.
+  - [파파고](https://papago.naver.com/)
+  - [구글 번역](https://translate.google.co.kr/)
+- **원문 한글 표기와 문장교정**
+  - [한글라이즈](https://hangulize.org) - 각 언어에 맞는 글자를 넣어야 정상적으로 출력됩니다.
+  - [한어병음/일문가나 한글표기 변환 도구](https://boncho.kiom.re.kr/tool/index.htm) - 중국어를 로마자로 표기한 것을 넣으면 변환이 됩니다.
+  - [한국어 맞춤법/문법 검사기](http://speller.cs.pusan.ac.kr/) - 번역 후에 어색한 느낌이 든다면 사용해보세요. 강한 규칙 적용을 권장드립니다.
