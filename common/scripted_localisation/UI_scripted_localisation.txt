@@ -488,6 +488,18 @@ defined_text = {
 	}
 	text = {
 		trigger = {
+			check_variable = { ROOT.economic_sphere_leader = INT }
+		}
+		localization_key = "팔랑스테르 인터내셔널"
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.economic_sphere_leader = ENT }
+		}
+		localization_key = "제국경제개발위원회"
+	}
+	text = {
+		trigger = {
 			check_variable = { ROOT.economic_sphere_leader = JAP }
 		}
 		localization_key = "공영권"
