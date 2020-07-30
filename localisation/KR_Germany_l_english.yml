@@ -314,6 +314,7 @@ GER_send_support_to_bulgaria:0 "불가리아 지원"
 GER_send_support_to_bulgaria_desc:0 "불가리아는 세계대전 동안 전황을 뒤집어 놓을 만한 결정적인 역할을 하진 못했지만 충성스러운 동맹이었고, 이제는 세르비아의 침략으로 위험에 처하지는 않았습니다. [Root.GetNameDefCap](은)는 우방을 잊지 않았으며, 다시 한번 차르에게 도움을 주기 위해 움직일 것입니다!"
 
 GER_join_kaiser_wilhelm_society:0 "Join the Kaiser Wilhelm Society"
+GER_puppet_core_germany:0 "Restore Order in [From.GetNameDef]"
 
 french_occupation_decisions:0 "프랑스 점령"
 french_occupation_decisions_desc:0 "[FRA.GetNameDef] 영토 내에서 저항이 계속되고 있습니다. 제3인터내셔널 전체를 물리치는 것이 아니라 프랑스의 저항세력들이 완전히 항복할 정도로 코뮌 망명 정부의 정통성을 잠식하는 것이 가능할지도 모릅니다. \n\n[FRA.GetNameDef]의 현재 §Y정통성§!: §R[?FRA.legitimacy|-0]§!\n"
@@ -356,9 +357,6 @@ GER_mil_expansion_desc:0 "총참모장은 어떤 군사 교리를 채택해야 �
 
 GER_squad_tactics:0 "분대 전술"
 GER_squad_tactics_desc:0 "중국 개입과 최근의 분쟁은 우리 관리들에게 개별 분대 내에서 조정이 중요하다는 것을 확신시켜 주었습니다. 우리는 소위 '분대 전술'이라는 것을 보병 훈련 제도에 통합하고, 그들이 그것을 최대한 활용할 수 있는 장비를 갖추고 있는지 확인해야 합니다."
-
-GER_motorized:0 "차량화 침투"
-GER_motorized_desc:0 "우리 군 고위 지휘부는 여러 사안에 대해 하나된 의견을 도출하지 못하였으나, 하나의 사안에는 의견을 모으고 있습니다: 1870년과 1871년 승리를 되돌아봤을 때, 작전 규모에서 신속하고 결정적인 승리는 보병을 집단적으로 차량화함으로써 달성할 수 있다는 것입니다."
 
 GER_doctrine_mobile_3:0 "기갑 생산공장에 투자"
 GER_doctrine_mobile_3_desc:0 "적지만 직접적인 투자를 통해 기갑 생산공장의 생산량을 향상할 수 있습니다. 다만 보수적인 장군의 일부는 이 투자에 동의하지 않을 것입니다."

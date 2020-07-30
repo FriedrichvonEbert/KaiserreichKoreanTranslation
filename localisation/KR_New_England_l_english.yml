@@ -651,7 +651,7 @@ newengland.93.d:0 "Officials from New England delivered the message promptly: th
 newengland.93.a:0 "Excellent!"
 
 newengland.94.t:0 "The Canadian Concern"
-newengland.94.d:0 "While the New England government is not a Canadian puppet, it would be false to suggest that it wasn't part of the British Empire - such as it is - and of great concern to the larger Canadian sphere of interest. The Canadian government is willing to allow New England to reunite with [requester.GetNameDef], since the reason for Canada's intervention in the region ended with the civil war, but they are asking that [requester.GetNameDef] join the Entente alliance. This would make up for New England's loss, and also be a way to pay back [CAN.GetNameDef] for saving American lives."
+newengland.94.d:0 "While the New England government is not a Canadian puppet, it would be false to suggest that it wasn't part of the British sphere - such as it is - and of great concern to the larger Canadian sphere of interest. The Canadian government is willing to allow New England to reunite with [requester.GetNameDef], since the reason for Canada's intervention in the region ended with the civil war, but they are asking that [requester.GetNameDef] join the Entente alliance. This would make up for New England's loss, and also be a way to pay back [CAN.GetNameDef] for saving American lives."
 newengland.94.a:0 "We'll see where this goes..."
 newengland.94.b:0 "We're fine with that request"
 newengland.94.c:0 "No, they have no right to make that demand"

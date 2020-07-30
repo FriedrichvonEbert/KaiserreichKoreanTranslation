@@ -973,20 +973,29 @@ ausgleich.new.702.b:0 "우리는 아무것도 할 수 없다..."
 
 ausgleich.new.800.t:0 "오스트리아의 몰락"
 ausgleich.new.800.d:0 "육군 최고사령부와 외교부가 공황상태에 빠져있는 가운데, 우리의 신흥 이웃 국가들과의 전쟁이 최악의 국면을 맞이했다는 사실이 분명해지고 있습니다. 왕권이 위협받고 있는 가운데, 한때 자신만만했던 육군 최고사령부조차도 최악의 사태를 두려워하고 있습니다. 제국의 영토는 더 이상 구제될 수 없을 뿐더러, 이미 완전한 붕괴의 문턱에 와있습니다. 제국의 체면을 세우고, 완전한 붕괴를 막기 위해, 평화를 호소하거나 합스부르크 왕정을 해체해야 합니다."
+ausgleich.new.800.d.germany:0 "It has become increasingly clear, with both the Armee-Oberkommando (Army High Command) and the Foreign Ministry in panic, that the war with our upstart neighbours has taken a turn for the worse. With the core of the monarchy threatened, even the once-confident AOK fears we are at the doorstep of complete collapse. It has been suggested to the Emperor-King that we must sue for peace... though we could possibly ask for German intervention to ensure that the core of Austria remains intact. If we do so, the Germans will undoubtedly ask for us to accept their permanent alliance and protection. Our only alternative is to place ourselves at [AUS_belgrade_pact_leader.GetAdjective] mercy."
 ausgleich.new.800.a:0 "우리는 패배했다. 평화를 애원하라."
 ausgleich.new.800.b:0 "우리는 항복하지 않는다!"
+ausgleich.new.800.c:0 "We must turn to [GER.GetNameDef] for help."
+ausgleich.new.800.e:0 "No Germans - just give our enemies whatever they want."
+ausgleich.new.800.f:0 "We don't need Germany - we fight on!"
 
 ausgleich.new.801.t:0 "오스트리아가 항복을 애원하다"
-ausgleich.new.801.d:0 "우리의 영광스러운 해방군은 합스부르크 왕정의 압제적인 군대를 꺾었습니다. 썩은 제국의 늙은 우두머리조차 더이상 죽음을 피할 수 없다는 사실을 알았고, 몇 가지 조건을 단 채 평화를 애원했습니다. They are willing to cede all of our claims, except those on core Austrian lands, as they are desperate to salvage what is left. 우리의 목표가 일단 달성되었으니, 빈의 영웅광장을 행진하지 않게 되더라도 이 제안을 거절할 이유는 없습니다."
-ausgleich.new.801.a:0 "우리는 승리했다."
+ausgleich.new.801.t.germany:0 "Austria and Germany Sue For Peace"
+ausgleich.new.801.d:0 "The tyrannical Habsburg Monarchy's troops have been beaten on the field by our glorious liberating armies. Even the decrepit head of the rotten empire is seeing his inevitable demise and has sued for peace. They are willing to cede all of our claims, as they are desperate to salvage what is left. With our aims achieved, there is little reason to refuse this generous offer even if the prospect of marching through Vienna's Heldenplatz and finishing off the dying corpse of an Empire is indeed tempting."
+ausgleich.new.801.d.germany:0 "The tyrannical Habsburg Monarchy's troops have been beaten on the field by our glorious liberating armies, enough that they wish to sue for peace but have also run to the Germans for protection. [GER.GetNameDefCap] has agreed to allow us any claims which do not impede on core Austrian lands, so long as we make peace. Failure to do so will mean war with the entire Reichspakt."
+ausgleich.new.801.a:0 "We agree to their terms."
 ausgleich.new.801.b:0 "아니, 우리는 합스부르크를 완전히 끝낼 것이다!"
 
 ausgleich.new.802.t:0 "부다페스트 조약" #AUS POV
-ausgleich.new.802.d:0 "합스부르크 왕가의 대표들은 부다페스트에서 베오그라드 협약 회원국들과 만나 평화협정을 체결했습니다. 우리는 평화를 대가로 그들에게 황실 및 왕실 영토의 모든 권리를 양도하는데 동의했습니다. 이 굴욕적 패배는 합스부르크 역사에 치욕으로 남을 것입니다. 더이상 우리는 강대국이 아닙니다. 하지만 그나마 남은 것은 건질 수 있고, 왕국의 완전한 해체는 피할 수 있을지 모릅니다."
-ausgleich.new.802.a:0 "마침내 평화가 도래했군."
+ausgleich.new.802.d.germany:0 "Delegates from the Habsburg Monarchy and [GER.GetNameDef] met with counterparts from enemy nations in Budapest to hammer out the peace terms. Austria has agreed to cede all claims their enemies have on Imperial and Royal lands in exchange for peace. This humiliating defeat marks a new chapter in Habsburg history as Austria can no longer consider itself to be a Great Power. However, it may be able to salvage what is left and avoid the complete dismantling of its monarchy now that it is under German protection."
+ausgleich.new.802.d:0 "Delegates of the Habsburg Monarchy met with their enemy counterparts in Budapest to hammer out the peace terms. We have agreed to cede all claims they have on Imperial and Royal lands in exchange for peace. This humiliating defeat marks a new chapter in Habsburg history as we can no longer consider ourselves to be a Great Power. However, we may be able to salvage what is left and avoid the complete dismantling of the Monarchy."
+ausgleich.new.802.a:0 "마침내 평화가 찾아왔군."
+ausgleich.new.802.b:0 "Good, then it's done"
 
 ausgleich.new.803.t:0 "부다페스트 조약" #SER/ROM/POL/ITA POV
-ausgleich.new.803.d:0 "베오그라드 협약의 대표들은 부다페스트에서 합스부르크 왕가의 대표들과 만나 평화협정을 체결했습니다. In the ensueing treaty, the Austrians have ceded all our claims - except for those in core Austrian lands - in exchange for peace. 발칸 반도는 마침내 외국의 간섭으로부터 자유로워졌고, 우리의 동포들은 고국의 품에 들어오게 되었습니다. 참으로 영광스러운 날입니다."
+ausgleich.new.803.d:0 "Delegates from [Root.GetNameDef] met with their Habsburg counterparts in Budapest to hammer out the peace terms. In the ensueing treaty, the Austrians have ceded all our claims in exchange for peace. This is a glorious day indeed, for the Balkans are finally free from foreign interference and our ethnic brothers are finally reunited with the homeland."
+ausgleich.new.803.d.germany:0 "Delegates from [Root.GetNameDef] met with their German and Habsburg counterparts in Budapest to hammer out the peace terms. In the ensueing treaty, the Austrians have ceded all our claims - except for those in core Austrian lands - in exchange for peace. This is a glorious day indeed, for the Balkans are finally free from foreign interference and our ethnic brothers are finally reunited with the homeland."
 ausgleich.new.803.a:0 "위대한 승리다!"
 ausgleich.new.803.b:0 "One last step towards victory."
 
@@ -999,7 +1008,8 @@ ausgleich.new.805.d:0 "Our choice to accept the peace offer from the Austrians s
 ausgleich.new.805.a:0 "They will regret this when the Austrians turn towards them."
 
 ausgleich.new.806.t:0 "The Treaty of Budapest" #global news event
-ausgleich.new.806.d:0 "A new chapter opens for the Habsburg Monarchy as their forces have been defeated by the Belgrade Pact and her allies. Once one of the dominant forces in the Balkans, Austria has seen continuous decline for decades and while their hollow victory in the Weltkrieg had brought a brief respite, the Belgrade Pact may have finally brought down the once-proud Empire. The map of the Balkans and Central Europe have been redrawn once more; Austria can no longer consider herself a Great Power while her neighbours have reunited with their national brethrens once firmly under Habsburg control."
+ausgleich.new.806.d:0 "A new chapter opens for the Habsburg Monarchy as their forces have been defeated by [AUS_belgrade_pact_leader.GetNameDef] and her allies. Once one of the dominant forces in the Balkans, Austria has seen continuous decline for decades and, while their hollow victory in the Weltkrieg brought a brief respite, this war may have finally brought down the once-proud Empire. The map of the Balkans and Central Europe has been redrawn once more; Austria can no longer consider herself a Great Power while her neighbours have reunited with their national brethren once firmly under Habsburg control."
+ausgleich.new.806.d.germany:0 "A new chapter opens for the Habsburg Monarchy as their forces have been defeated by [AUS_belgrade_pact_leader.GetNameDef] and her allies. Once one of the dominant forces in the Balkans, Austria has seen continuous decline for decades and, while their hollow victory in the Weltkrieg brought a brief respite, this war may have finally brought down the once-proud Empire. The map of the Balkans and Central Europe have been redrawn once more, and Austria has turned to [GER.GetNameDef] for protection. It can no longer be considered a Great Power, and will be fortunate if its monarchy remains intact in the wake of this humiliation."
 ausgleich.new.806.a:0 "Austria has fallen far..."
 
 ausgleich.new.807.t:0 "The Terms of the Treaty of Budapest"
@@ -1009,6 +1019,33 @@ ausgleich.new.807.a:0 "Very well."
 ausgleich.new.808.t:0 "The Terms of the Treaty of Budapest"
 ausgleich.new.808.d:0 "According to the terms of the Treaty of Budapest, to which we were a signatory, we must evacuate all lands that were ceded to our enemies in the Belgrade Pact."
 ausgleich.new.808.a:0 "Very well."
+
+ausgleich.new.820.t:0 "The Austrians Near Collapse"
+ausgleich.new.820.d:0 "The Austrian war against [AUS_belgrade_pact_leader.GetNameDef] has taken a turn for the worse, and now they are on the verge of collapse. Swallowing their pride, they have come to [Root.GetNameDef] to ask for our intervention and protection. With us at the peace talks, we can ensure the Austrians are not dismantled completely, and in exchange they and their remaining subjects will join the Reichspakt alliance. This could mean becoming involved in a Balkan war, but if we ignore the situation the Balkans nations could continue their aggressive expansion... and who knows what side they'll pick in the future?"
+ausgleich.new.820.a:0 "We shall intervene."
+ausgleich.new.820.b:0 "The Austrians are on their own."
+
+ausgleich.new.821.t:0 "The Germans Shall Intervene"
+ausgleich.new.821.d:0 "The [From.GetAdjective] government has agreed to intervene in our peace negotiations. Should [AUS_belgrade_pact_leader.GetNameDef] refuse to make peace, they'll join the war, but otherwise their presence will be to ensure our core territory is not stripped from us. In exchange, we will dismantle the [Root.GetFactionName] and join the [GER.GetFactionName] once the talks are done."
+ausgleich.new.821.a:0 "What a relief! Let the peace talks begin!"
+
+ausgleich.new.822.t:0 "The Germans Will Not Intervene"
+ausgleich.new.822.d:0 "Unwilling to get drawn into a potential Balkans conflict, the [From.GetAdjective] government has declined to become involved in our peace talks with [AUS_belgrade_pact_leader.GetNameDef]. We are on our own."
+ausgleich.new.822.a:0 "Then we have no choice - give them whatever they want"
+ausgleich.new.822.b:0 "Then we fight on to the bitter end!"
+
+ausgleich.new.823.t:0 "[FROM.GetNameDefCap] Agrees to Peace"
+ausgleich.new.823.d:0 "Our choice to refuse the peace offer from the Austrians seems to have greatly angered our erstwhile allies in [FROM.GetNameDef]. Their ambassador has declared our refusal a \"betrayal\" of the Pact's raison d'être, saying there is no point in continuing the war now that our aims have been achieved. It appears our alliance with [FROM.GetNameDef] is at an end."
+ausgleich.new.823.a:0 "They will regret this."
+
+ausgleich.new.824.t:0 "Austria Joins the Reichspakt"
+ausgleich.new.824.d:0 "As a result of the failing war, the Austrians have turned to [GER.GetNameDef] for protection. They will join the Reichspakt alliance in full, and have asked us to join them. Should we refuse, we will be on our own."
+ausgleich.new.824.a:0 "Of course we will join them!"
+ausgleich.new.824.b:0 "We would rather be on our own."
+
+ausgleich.new.825.t:0 "Joining the Reichspakt"
+ausgleich.new.825.d:0 "Now that our empire has largely been dismantled, we must turn to the Germans for their alliance and protection as promised."
+ausgleich.new.825.a:0 "So be it!"
 
 #########################################################################################################################
 ### TREE EVENTS

@@ -162,6 +162,7 @@ SER_has_black_monday:0 "§H검은 월요일§! 국민정신을 가짐"
 SER_has_black_monday_NOT:0 "§H검은 월요일§! 국민정신을 가지지 않음"
 
 SER_accepted_bulgaria_union:0 "유고슬라비아 연방 수립을 위해 불가리아의 승인을 얻었습니다"
+SER_if_ENT_agrees:0 "If §H[ENT.GetFlag] [ENT.GetNameDef]§! agrees:"
 
 ### Focuses ###
 SER_Return_Of_The_Crown_Prince:0 "왕세자의 귀환"

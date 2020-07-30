@@ -779,21 +779,6 @@ TRM_relocate_capital_3_desc:0 "모스크바는 이제 우리나라의 영구적�
 TRM_relocate_capital_4:0 "페트로그라드를 수도로 결정"
 TRM_relocate_capital_4_desc:0 "페트로그라드는 이제 우리나라의 영구적인 수도가 될 것입니다"
 
-TRM_russian_integaration:0 "러시아 재통합"
-TRM_russian_integaration_desc:0 "우리의 이전 영토로의 확장을 통해 우리는 영토를 다시 통합하여 더 효과적으로 관리할 수 있도록 해야 할 것입니다. 그러나 이 과정을 수행하려면 상당한 양의 §Y 시간 §!과 §Y 정치력 §!이 필요합니다."
-
-TRM_integrate_baikal:0 "바이칼 지역 통합"
-TRM_integrate_baikal_desc:0 "다음 지역을 핵심 주로 갖습니다:"
-
-TRM_integrate_railway:0 "시베리아 횡단 철도 통합"
-TRM_integrate_railway_desc:0 "다음 지역을 핵심 주로 갖습니다:"
-
-TRM_integrate_siberia:0 "시베리아 지역 통합"
-TRM_integrate_siberia_desc:0 "다음 지역을 핵심 주로 갖습니다:"
-
-TRM_Leave_Japan:0 "Breakway from the Japanese's Control"
-TRM_Leave_Japan_desc:0 "§RWhile this will finally allows us to finally dictate our own fate, doing so may have dire consequences!§!"
-
 ### Cosmetic Tags ###
 TRM_FE_totalist:0 "극동 연방"
 TRM_FE_totalist_ADJ:0 "극동"

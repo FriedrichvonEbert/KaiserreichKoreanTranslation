@@ -972,6 +972,19 @@ lep.202.t:0 "난징으로부터의 총기!"
 lep.202.d:0 "우리는 방금 난징에 있는 정권으로부터 보병 장비 수송품을 받았습니다. 이것은 우리가 직면하고 있는 반란군을 물리치는 데 도움이 될 것이고, 이것을 기억해야만 할 것입니다."
 lep.202.a:0 "훌륭하군."
 
+lep.203.t:0 "The [LEP.GetName] is coming!"
+lep.203.d:0 "According to our spies in [LEP.Capital.GetName], the [LEP.GetName] is preparing its forces for an offensive against us. This fight will be one for survival."
+lep.203.a:0 "We have only a short time to prepare."
+
+lep.204.t:0 "The [FROM.GetName] calls for Aid!"
+lep.204.d:0 "News has come by telephone straight from [FROM.Capital.GetName], our allies in the [FROM.GetName] are about to be attacked by [LEP.GetName]! Already their forces are mobilizing, but they cannot confront this foe alone."
+lep.204.a:0 "We must prepare!"
+
+lep.205.t:0 "The [LEP.GetName] Mulls Intervention"
+lep.205.d_ger:0 "According to our spies in [LEP.Capital.GetName], [LEP.GetLeader] and his senior command staff are currently considering opening a new front in our war against [QIE.GetName]. Reportedly the German Nanking-Kommission is footing the bill for a major weapons shipment in preparation, but [LEP.GetLeader]'s tenuous relationship with the Central Government is well known.\n\nWhatever decision is made in [LEP.Capital.GetName], we must be ready."
+lep.205.d_noger:0 "According to our spies in [LEP.Capital.GetName], [LEP.GetLeader] and his senior command staff are currently considering opening a new front in our war against [QIE.GetName]. Should the [QIE.GetName] fall the [LEP.GetName] is certain to be next, but [LEP.GetLeader]'s tenuous relationship with the Central Government is well known.\n\nWhatever decision is made in [LEP.Capital.GetName], we must be ready."
+lep.205.a:0 "Another obstacle on the road to reclamation."
+
 lepcollapse.1.t:0 "쑨촨팡이 성장들과 만남을 가지다"
 lepcollapse.1.d:0 "연합 지도자 쑨촨팡은 오늘 일반 대중들이 정기적인 통치와 행정 문제에 대해 논의했다는 말을 들은 동부 오성의 성장들을 만났습니다. \"올해 장시의 쌀 수확량이 예상보다 저조했습니다\"라고 덩루저우 성장이 말했습니다. "세금이 적절히 조정되어 보상되는 것이 중요합니다.\"\n\n광둥, 광시, 후난의 관리들의 부재와 치셰위안 장군같은 순전히 군사적인 인물들의 참석으로 인해 일부 사람들은 이번 회담이 국가 안보에 더 심각한 문제를 우려했다고 믿게 되었습니다."
 lepcollapse.1.a:0 "흥미롭군."

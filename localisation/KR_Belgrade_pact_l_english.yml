@@ -192,7 +192,7 @@ pact.46.d:0 "우리가 적들에게 관대한 양보를 하겠다는 제안을 �
 pact.46.a:0 "우리는 전세를 역전시킬 것이다!"
 
 pact.47.t:0 "우리는 발칸 전쟁에서 패배하고 있다"
-pact.47.d:0 "불가리아와의 전쟁은 완전한 재앙이었습니다. 베오그라드 협약의 동맹국들이 있음에도 불구하고 불가리아는 다시 한 번 우리를 막아냈으며, 불가리아 군대는 베오그라드와 가까워지고 있습니다. 우리는 불가리아에게 베오그라드 협약을 파기하고, 분쟁지역인 니슈를 할양하고 국경지역을 비무장화 시킬 것을 제안할 수 있습니다. 또한 우리는 불가리아에게 수년 동안 배상금을 지급하게 될 것입니다. 이것들은 매우 가혹한 조치지만, 그렇지 않으면 우리는 우리의 주권을 잃게 될 수도 있습니다."
+pact.47.d:0 "The war against Bulgaria has been a total disaster. Despite our allies in the Belgrade Pact, Bulgaria has been able to defeat us once again, and they're close to Belgrade itself. We can offer the Bulgarians the dismantlement of our alliance, cede them the disputed province of Nis, give the Albanians in Kosovo and Albania autonomy, and de-militarise border provinces. Furthermore, we need to offer them reparation payments for several years. These are harsh terms, but otherwise we might lose our independence completely."
 pact.47.a:0 "휴전을 제안한다."
 pact.47.b:0 "아직 우린 이길 수 있다!"
 
@@ -202,7 +202,7 @@ pact.48.a:0 "다시 한 번 우리는 승리했다."
 pact.48.b:0 "아니, 저들은 파괴될 것이다!"
 
 pact.49.t:0 "불가리아가 우리의 휴전 제안을 받아들이다"
-pact.49.d:0 "제4차 발칸 전쟁은 우리의 기대와 달리 성공을 거두지 못 했습니다. 불가리아는 성공적으로 공세를 막아내었고 베오그라드의 목전에 다다랐습니다. 불가리아가 우리의 휴전 제안을 받아들였기에, 우리는 독립을 지킬 수 있었습니다. 하지만, 우리는 니시 지역을 비무장화 시키고 향후 수년 동안 전쟁 배상금을 지불해야 합니다."
+pact.49.d:0 "The Fourth Balkan War has not quite had the successes we had in mind. Bulgaria has been able to successfully mount an offensive and was on the verge of taking Belgrade. They have accepted our peace offer so we can keep our independence. However, we need to cede Niš to Bulgaria, Kosovo to Albania, and pay war reparations for the coming years."
 pact.49.a:0 "최소한 우리는 아직 존재하고 있다."
 
 pact.50.t:0 "불가리아의 승리"
@@ -348,13 +348,13 @@ pact.109.t:0 "오스트리아는 더 이상 우리의 목표가 아닙니다"
 pact.109.d:0 "물러나야 할 때입니다!"
 pact.109.a:0 "흠, 좋다."
 
-
 annexation_DOBROGEA_CONQ:0 "도브루자의 상황"
 annexation_DOBROGEA_CONQ_desc:0 "우리는 도브루자 지역을 점령했으며, 이제 영유권을 주장하는 동맹국에게 할양해야 합니다."
-pact.111.a:0 "[ROM.GetNameDef]에게 주어라"
-pact.111.b:0 "[BUL.GetNameDef]에게 주어라"
-pact.111.c:0 "영토를 분할하라"
-pact.111.e:0 "그대로 갖고 있자"
+pact.111.a:0 "[ROM.GetNameDef]에게 주어라."
+pact.111.b:0 "[BUL.GetNameDef]에게 주어라."
+pact.111.f:0 "[SER.GetNameDef]에게 주어라."
+pact.111.c:0 "영토를 분할하라."
+pact.111.e:0 "그대로 갖고 있자."
 
 annexation_SALONICA_CONQ:0 "The Status of Salonica"
 annexation_SALONICA_CONQ_desc:0 "We have taken control of the region of Salonica and must now decide what to do with it."
@@ -477,3 +477,8 @@ pact.303.a:0 "A closer, prosperous Balkan."
 pact.304.t:0 "Report from the Economic Council"
 pact.304.d:0 "Through the efforts of the Economic Council and our allies, the benefits we gain from further regional integration have significantly improved."
 pact.304.a:0 "Excellent!"
+
+pact.305.t:0 "Leaving the Economic Council"
+pact.305.d.war:0 "Due to acts of aggression against other members of the Balkan Economic Council, we have been expelled from the Council with immediate effect. As such, we will no longer receive its benefits."
+pact.305.d.revolution:0 "Our new socialist regime has declared all treaties with the Balkan Economic Council null and void, effective immediately. As such, we will no longer receive its benefits."
+pact.305.a:0 "Very well."

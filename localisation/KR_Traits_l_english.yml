@@ -49,6 +49,8 @@ hog_gentleman_politician:0 "신사 정치인"
 hog_supreme_ruler:0 "최고통치자"
 hog_the_grand_old_man:0 "위대한 노장"
 hog_hooded_chairman:0 "복면을 쓴 의장"
+hog_aggressive_modernizer:0 "Aggressive Moderniser"
+hog_architect_of_the_union:0 "Architect of the Union"
 
 ### Economy Minister ###
 eco_administrative_genius:0 "행정의 천재"
@@ -149,6 +151,9 @@ naaf_bigoted_boer:0 "Bigoted Boer"
 naaf_progressive_firebrand:0 "Progressive Firebrand"
 naaf_sober_pragmatist:0 "Sober Pragmatist"
 naaf_understanding_principal:0 "Understanding Principal"
+
+### Natural Philosopher (NFA) ###
+naph_le_matre:0 "Le Maître"
 
 ### Chief of Staff Minister ###
 cos_school_of_manoeuvre:0 "기동전 교련"

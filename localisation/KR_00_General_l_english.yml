@@ -46,6 +46,7 @@ kr_special_autonomous_dependency:0 "자치 속국"
 kr_initial_wif_puppet:0 "연합된 식민지"
 kr_soclib_wif_puppet:0 "연합된 자치령"
 kr_ottoman_emirate:0 "오스만 토후국" #Ottoman Emirate
+kr_federated_state:0 "Confederated State"
 
 ### Autonomy Tooltips ###
 can_lower_autonomy_level:0 "자치도를 낮출 수 있습니다\n"
@@ -287,6 +288,9 @@ belgrade_pact_threat:0 "베오그라드 협약이 창설됨"
 fading_sun_threat:0 "일본 제국의 붕괴"
 GRE_took_diplomatic_path:0 "그리스가 메갈리이데아를 포기"
 GRE_took_expansionist_path:0 "그리스의 팽창주의 노선"
+reichspakt_collapse_threat: "Collapse of the Reichspakt"
+lep_collapse_threat:0 "Collapse of the League of Eight Provinces"
+sino_jap_threat:0 "Second Sino-Japanese War"
 
 ### Other ###
 unlock_focuses:0 "§G이 중점은 자동으로 통과될 것이며 다른 중점을 해금할 것입니다§!\n"
@@ -315,6 +319,7 @@ leader_of_the_british_exiles:0 "영국 총리" # CAN
 underworld_boss:0 "Underworld Boss"                     # LEC
 marshal_of_the_palace:0 "왕실원수"         # ROM
 minister_of_native_affairs:0 "원주민부 장관"   # SAF, SFR
+natural_philosopher:0 "Natural Philosopher"             # NFA
 
 ### Company Traits ###
 
@@ -451,6 +456,8 @@ mining_company:0 "광산 회사"
 chemical_producer:0 "화학 회사"
 industrial_manufacturer:0 "산업 회사"
 electronics_manufacturer:0 "전자공학 제조사"
+railroad_company:0 "Railroad Company"
+oil_concern:0 "Petroleum Company"
 
 ### General ###
 fighter_techs:0 "전투기 장비"

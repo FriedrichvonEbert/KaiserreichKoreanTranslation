@@ -431,7 +431,7 @@ ENG_tuc2_internal_desc:0 "전쟁을 치루는 동안 관료주의의 불미스�
 
 ### 0 - 100: 노동조합총회 and Show of Force ###
 uob.0.t:0 "새로운 브리튼"
-uob.0.d:0 "프랑스의 패배 이후, 독일과 연합왕국의 전쟁은 끝나지 못하고 2년간 질질 끌렸습니다. 1921년, 로이드-조지가 독일이 제안한 "명예로운 평화"를 승낙하면서 교착 상태는 끝났습니다. 브리튼의 해외 영토는 대체로 온전히 남아있었지만, 본토민들의 신뢰는 그러지 못했습니다.\n\n1925년, 참사가 발생했습니다. 남웨일스 탄전에서 일어난 작은 노동 분규가 빠르게 확산했고, 장장 6주에 걸친 폭동, 약탈, 선동 이후 왕실을 포함한 대부분의 '기득권층'이 캐나다로 피난 갔습니다. 혁명단체의 임시정부는 거의 남아있지도 않은 의회를 해산시키고, 새로운 "브리튼 연방"을 선언했습니다.\n\n11년 뒤, 노동조합총회는 여전히 민주적인 연방 정치의 중심을 맡고 있습니다. 브리튼 인민들은 본토에서 안정을 확보했으며, 기꺼이 고립된 사회주의를 건설해나가려 합니다. 이들은 강력한 공화국 공군과 해군의 보호를 받으며, 각 자치주에선 예비군 및 경찰 역할을 하는 대중적인 민병대의 보호를 받고 있습니다.\n\n그렇지만, 세계가 혼돈속으로 빠질 것처럼 보임에 따라, 많은 사람들이 브리튼에게 이전 식민 영토에 혁명을 퍼트릴 의무가 있지 않은지 고민하기 시작했습니다. 어쨌든, 캐나다의 군주주의자들이 계속해서 연방에 대한 음모를 꾸미는 것을 좌시할 순 없습니다..."
+uob.0.d:0 "프랑스의 패배 이후, 독일과 연합왕국의 전쟁은 끝나지 못하고 2년간 질질 끌렸습니다. 1921년, 로이드-조지가 독일이 제안한 "명예로운 평화"를 승낙하면서 교착 상태는 끝났습니다. 브리튼의 해외 영토는 대체로 온전히 남아있었지만, 본토민들의 신뢰는 그러지 못했습니다.\n\n1925년, 참사가 발생했습니다. 남웨일스 탄전에서 일어난 작은 노동 분규가 빠르게 확산했고, 장장 6주에 걸친 폭동, 약탈, 선동 이후 왕실을 포함한 대부분의 '기득권층'이 캐나다로 피난 갔습니다. 혁명단체의 임시정부는 거의 남아있지도 않은 의회를 해산시키고, 새로운 "브리튼 연방"을 선언했습니다.\n\n11년 뒤, 노동조합총회는 여전히 민주적인 연방 정치의 중심을 맡고 있습니다. The British people are secure on their island, having built up a socialist dream, protected by the strong Republican Air Force and Navy, and with each county protected by its own popular militia who act both as a reserve military and the new police.\n\nYet, with the world seemingly ready to erupt into chaos and its continental allies clamouring for war, many are starting to wonder if Britain has a duty to spread the revolution to her former colonial territories. After all, the Monarchists in Canada cannot be allowed to plot against the Union forever..."
 uob.0.a:0 "매력적이군."
 
 uob.1.t:0 "1936년 노동조합총회가 시작되다."

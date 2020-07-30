@@ -21,6 +21,15 @@ FRA_nfadivs_tt:0 "프랑스 본토에서 반자코뱅 세력이 우리의 깃발
 FRA_sorelian_economy_tooltip:0 "§Y파리에 4개 사단을 보낼 것입니다§!\n"
 FRA_tank_division_tooltip:0 "Three £nato_unit_light_armor_icon_small  §HLight Armour§! divisions will be deployed."
 
+KR_phalanstere_tooltip:0 "§H[GetPhalanstereName]§!"
+KR_phalanstere_tooltip_desc:0 "§L[GetPhalanstereDesc]§!"
+
+KR_phalanstere_name_INT:0 "Leader of the Phalanstère Internationale"
+KR_phalanstere_name:0 "Member of the Phalanstère Internationale"
+
+KR_phalanstere_desc_INT:0 ""
+KR_phalanstere_desc:0 ""
+
 ### Ideas ###
 FRA_communard_spirit:0 "파리 코뮌의 영혼"
 FRA_communard_spirit_desc:0 "우리는 파리 코뮌의 유산이며, 파리 코뮌은 공화국 반동분자들에 의해 박해받고 잔인하게 탄압된 최초의 사회주의 국가입니다. 1920년, 노동자들은 마침내 복수에 성공했고 '질서당'의 군정을 무너뜨렸습니다. 우리 코뮌의 자손들은 우리의 조국과 영혼을 보호해야 합니다. 우리는 더 이상 폭군에게 명령받지 않을 것입니다!"

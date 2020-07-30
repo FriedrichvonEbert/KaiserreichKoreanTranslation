@@ -952,7 +952,7 @@ mexico.201.d:0 "[From.GetAdjective] 정부는 그들의 동맹에 동참하려�
 mexico.201.a:0 "그놈들 형편없는 결정이로군"
 
 mexico.202.t:0 "[From.GetNameDefCap]이 협상국에 가입하기를 원하다"
-mexico.202.d:0 "[From.GetNameDefCap]은 협상국에 합류하기 위해 국왕과 총리를 만날 대사를 [From.GetNameDefCap]에 파견하였습니다. 우리는 아메리카인들의 제안을 받아들여야 할까요?"
+mexico.202.d:0 "[From.GetNameDefCap]은 협상국에 합류하려 폐하와 총리를 만날 대사를 [From.GetNameDefCap]에 파견하였습니다. 우리는 [From.GetAdjective]의 제안을 받아들여야 할까요?"
 mexico.202.a:0 "물론이지! 우리는 그들을 환영한다"
 mexico.202.b:0 "우리는 그들이 필요하지 않다"
 
@@ -975,7 +975,7 @@ mexico.208.d:0 "멕시코인들은 온건한 정당이 국가를 운영하도록
 mexico.208.a:0 "그렇다면 전쟁이다"
 mexico.208.b:0 "그들을 쫓아내라"
 
-mexico.209.t:0 "미국이 우리를 아메리카 국가 연맹에서 쫓아냈다"
+mexico.209.t:0 "미국이 우리를 미주연맹에서 쫓아냈다"
 mexico.209.d:0 "미국은 현 정부가 아메리카 국가 연맹에 적합하지 않다고 판단하여 우리를 연맹에서 쫓아냈습니다."
 mexico.209.a:0 "이럴 줄 알았어야 했는데."
 
