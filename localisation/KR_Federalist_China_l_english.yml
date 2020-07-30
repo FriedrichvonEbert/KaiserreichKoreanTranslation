@@ -68,14 +68,14 @@ UPC_coastal_defense:0 "해안 방어"
 
 ### Tooltips ###
 UPC_after_reforms_tooltip:0 "\n§H300§!일 후:\n"
-UPC_Federal_Ministry_Of_Railways_tooltip:0 "Modify §HDecentralised Economic Development§! or §HIndustrialisation Committee§! by\n§HInfratructure§! construction speed: §G+10.00%§!\n"
+UPC_Federal_Ministry_Of_Railways_tooltip:0 "§H분권화된 경제개발§! 또는 §H산업화 위원회§!에 의해 변경됨 \n§H기반시설§! 건설 속도: §G+10.00%§!\n"
 
-UPC_Aircraft_Repair_Schools_tooltip:0 "Modify §HNew Aviation Ministry§! by\nAir Accidents Chance: §G-10.0%§!\n"
-UPC_Civil_Aviation_Administration_tooltip:0 "Modify §HNew Aviation Ministry§! by\nAir Experience Gain: §G+10.0%§!\n"
-UPC_Central_Aviation_School_tooltip:0 "Modify §HNew Aviation Ministry§! by\nAce Generation Chance: §G+10.00%§!\n"
-UPC_Build_A_Merchant_Navy_tooltip:0 "Modify §HFederal Shipbuilding Program§! or §HCoastal Defence§! by\n§HTrade Convoy§!: £production_cost  Production Cost:  [?-0.15|%-]\n"
+UPC_Aircraft_Repair_Schools_tooltip:0 "§H신설된 항공부§!에 의해 변경됨 \n항공 사고 확률: §G-10.0%§!\n"
+UPC_Civil_Aviation_Administration_tooltip:0 "§H신설된 항공부§!에 의해 변경됨 \n공군 경험치 획득: §G+10.0%§!\n"
+UPC_Central_Aviation_School_tooltip:0 "§H신설된 항공부§!에 의해 변경됨 \n에이스 출현 확률: §G+10.00%§!\n"
+UPC_Build_A_Merchant_Navy_tooltip:0 "§H연방 건함 계획§! 또는 §H해안 방어§!에 의해 변경됨 \n§H수송선§!: £production_cost 생산 비용: [?-0.15|%-]\n"
 
-UPC_Tie_Up_Loose_Ends_tt:0 "Unlocks £decision_icon_small §Y분리주의자 처리§! §H결정§!을 해금합니다."
+UPC_Tie_Up_Loose_Ends_tt:0 "£decision_icon_small §Y분리주의자 처리§! §H결정§!을 해금합니다."
 UPC_chen_will_become_CE:0 "§H천치요우§!가 §H총선§!에서 승리해 국가원수가 될 것입니다."
 UPC_tang_will_become_CE:0 "§H탕지야오§!가 §H총선§!에서 승리해 국가원수가 될 것입니다."
 
