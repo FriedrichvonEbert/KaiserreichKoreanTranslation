@@ -248,8 +248,8 @@ FNG_Raise_Independent_Brigades_in_Ruyang_desc:0 "[QIE.GetNameDef]의 붕괴 이�
 FNG_Raise_Independent_Brigades_in_Guanzhong:0 "관중에서 독립 여단 창설"
 FNG_Raise_Independent_Brigades_in_Guangzhong_desc:0 "[QIE.GetNameDef]의 붕괴 이후로 북중국 지역의 드넓은 평야는 예전부터 지역에서 할거하던 도적떼나 전에 [QIE.GetName] 소속 부대였으나 지금은 범죄자가 되어버린 이들이 마음대로 습격할 수 있는 지역으로 전락했습니다. 약탈에 대한 우리의 정책이 그리 적극적이지 않았기 때문에 그들을 모아 '독립 여단'으로 재편하는 작업은 그리 어렵지 않을 겁니다."
 
-FNG_Raise_the_Baoding_Cadet_Corps:0 "바오딩 생도 군단 모집"
-FNG_Raise_the_Baoding_Cadet_Corps_desc:0 "젊은 바오딩 생도들은 북경에서 만주 왕정을 가장 강력하게 지지하는 세력들 중 하나였고, 우리가 북중국에서 승리를 거둔 이래로 대부분 감옥에 갇히거나 고향으로 돌아갔기 때문에 얼마 남지 않았습니다. 이제 그들도 역사의 참된 주인 곁에서 싸울 때가 왔습니다. 일각에서는 한때 우리의 적이었던 이들을 무장시킨다는 정책에 의문을 제기할 수도 있겠지만, 저들의 애국심은 의심의 여지가 없으며 이런 어려운 시기에는 국가에서 먼저 다가가야 합니다."
+FNG_Raise_the_Baoding_Cadet_Corps:0 "보정군관학교 생도 군단 모집"
+FNG_Raise_the_Baoding_Cadet_Corps_desc:0 "젊은 보정군관학교 생도들은 북경에서 만주 왕정을 가장 강력하게 지지하는 세력들 중 하나였고, 우리가 북중국에서 승리를 거둔 이래로 대부분 감옥에 갇히거나 고향으로 돌아갔기 때문에 얼마 남지 않았습니다. 이제 그들도 역사의 참된 주인 곁에서 싸울 때가 왔습니다. 일각에서는 한때 우리의 적이었던 이들을 무장시킨다는 정책에 의문을 제기할 수도 있겠지만, 저들의 애국심은 의심의 여지가 없으며 이런 어려운 시기에는 국가에서 먼저 다가가야 합니다."
 
 FNG_Centralise_the_Banks:0 "은행 중앙화"
 FNG_Centralise_the_Banks_desc:0 "봉천은 현재 4개의 지폐 발권 은행이 있는데 동부3성 은행, 지린 은행, 헤이룽장 은행과 프론티어 은행으로 이들은 모두 과거 은행 중앙화의 노력에 대한 결과물들입니다. 이제 계획을 완료하고 이 은행들을 모두 한개의 중앙은행으로 통합해야합니다."
@@ -445,7 +445,7 @@ FNG_unlock_showa_steel:0 "§Y쇼와제강소§! 를 해금합니다."
 FNG_unlock_southern_companies:0 "다음 회사들을 해금합니다:\n- §Y치수옌 기관차공장§!\n- §Y중국 국립항공산업사§!\n- §Y중앙연구원§!\n"
 
 FNG_second_army_spawn:0 "£manpower_texticon 3 §Y제2육군사단§! 부대가 베이징에 생성될 것입니다.\n"
-FNG_cadet_corps_spawn:0 "£manpower_texticon 2 §Y바오딩 생도 군단§! 부대가 바오딩에 생성될 것입니다.\n"
+FNG_cadet_corps_spawn:0 "£manpower_texticon 2 §보정군관학교 생도 군단§! 부대가 바오딩에 생성될 것입니다.\n"
 FNG_independent_brigades_spawn_cangzhou:0 "£manpower_texticon 2 §Y독립 여단§! 부대가 창저우에 생성될 것입니다.\n"
 FNG_independent_brigades_spawn_kaifeng:0 "£manpower_texticon 2 §Y독립 여단§! 부대가 카이펑에 생성될 것입니다.\n"
 FNG_independent_brigades_spawn_ruyang:0 "£manpower_texticon 2 §Y독립 여단§! 부대가 뤄양에 생성될 것입니다.\n"
