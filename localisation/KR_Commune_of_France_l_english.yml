@@ -24,8 +24,8 @@ FRA_tank_division_tooltip:0 "Three £nato_unit_light_armor_icon_small  §HLight 
 KR_phalanstere_tooltip:0 "§H[GetPhalanstereName]§!"
 KR_phalanstere_tooltip_desc:0 "§L[GetPhalanstereDesc]§!"
 
-KR_phalanstere_name_INT:0 "Leader of the Phalanstère Internationale"
-KR_phalanstere_name:0 "Member of the Phalanstère Internationale"
+KR_phalanstere_name_INT:0 "팔랑스테르 인터내셔널 지도국"
+KR_phalanstere_name:0 "팔랑스테르 인터내셔널 회원국"
 
 KR_phalanstere_desc_INT:0 ""
 KR_phalanstere_desc:0 ""
