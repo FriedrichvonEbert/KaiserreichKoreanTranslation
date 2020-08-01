@@ -46,7 +46,7 @@ kr_special_autonomous_dependency:0 "자치 속국"
 kr_initial_wif_puppet:0 "연합된 식민지"
 kr_soclib_wif_puppet:0 "연합된 자치령"
 kr_ottoman_emirate:0 "오스만 토후국" #Ottoman Emirate
-kr_federated_state:0 "Confederated State"
+kr_federated_state:0 "연합된 주(State)"
 
 ### Autonomy Tooltips ###
 can_lower_autonomy_level:0 "자치도를 낮출 수 있습니다\n"
@@ -97,7 +97,7 @@ FROM_becomes_autonomous_puppet:0 "§H[From.GetNameDefCap]§!은 §H자치 괴뢰
 FROM_becomes_nominal_puppet:0 "§H[From.GetNameDefCap]§!은 §H명목상 괴뢰국§!이 됩니다."
 
 ### Compliance ###
-compliance_integration:0 "Integration"
+compliance_integration:0 "통합"
 
 ### Operatives ###
 CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC:5 "첩보부를 세우는 것으로 첫 번째 슬롯을 열 수 있습니다. 다른 슬롯은 5번째 업그레이드를 하거나 디시전으로 §H정보부장§!을 모집한 후에 열 수 있습니다.\n스파이마스터가 되면 당신의 세력에 더 많은 국가가 들어올 수록 더 많은 슬롯을 열 수 있습니다. 속국이나 공장 수가 매우 적은 국가는 첩보원 슬롯을 추가해주지 않습니다."
@@ -232,7 +232,7 @@ CEN_anti_revolutionary_alliance:0 "인민전위대" #People's Vanguard
 CEN_liberal_pact:0 "자유협약" #Liberal Pact
 CEN_revolutionary_front:0 "혁명전선" #Revolutionary Front
 china_upc_faction:0 "중화합중국" #United Provinces of China
-co_prosperity_sphere:0 "대동아공영권" #Co-Prosperity Sphere
+co_prosperity_sphere:0 "공영권" #Co-Prosperity Sphere
 colombia_gran_alliance:0 "안데스 협약" #Andean Pact
 cos_carib_faction:0 "카리브 민주연합" #Democratic Alliance of the Carribean
 EANL_faction:0 "동아시아 국가연맹" #East Asian National League
@@ -313,13 +313,13 @@ economy_minister:0 "경제장관"
 security_minister:0 "내무장관"
 head_of_intel:0 "군사정보부장"
 ## Country-Specific Ones
-knight_captain_of_liv_ord:0 "기사단장 of LivOrd"  # BAT
+knight_captain_of_liv_ord:0 "리보니아 기사단 단장"  # BAT
 land_marshal_of_liv_ord:0 "지방사령관"                # BAT
 leader_of_the_british_exiles:0 "영국 총리" # CAN
 underworld_boss:0 "Underworld Boss"                     # LEC
 marshal_of_the_palace:0 "왕실원수"         # ROM
 minister_of_native_affairs:0 "원주민부 장관"   # SAF, SFR
-natural_philosopher:0 "Natural Philosopher"             # NFA
+natural_philosopher:0 "자연철학자"             # NFA
 
 ### Company Traits ###
 
@@ -456,8 +456,8 @@ mining_company:0 "광산 회사"
 chemical_producer:0 "화학 회사"
 industrial_manufacturer:0 "산업 회사"
 electronics_manufacturer:0 "전자공학 제조사"
-railroad_company:0 "Railroad Company"
-oil_concern:0 "Petroleum Company"
+railroad_company:0 "철도 회사"
+oil_concern:0 "석유 회사"
 
 ### General ###
 fighter_techs:0 "전투기 장비"
