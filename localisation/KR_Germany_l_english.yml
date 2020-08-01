@@ -313,8 +313,8 @@ GER_national_populist_party_long:0 "전독일연맹"
 GER_send_support_to_bulgaria:0 "불가리아 지원"
 GER_send_support_to_bulgaria_desc:0 "불가리아는 세계대전 동안 전황을 뒤집어 놓을 만한 결정적인 역할을 하진 못했지만 충성스러운 동맹이었고, 이제는 세르비아의 침략으로 위험에 처하지는 않았습니다. [Root.GetNameDefCap](은)는 우방을 잊지 않았으며, 다시 한번 차르에게 도움을 주기 위해 움직일 것입니다!"
 
-GER_join_kaiser_wilhelm_society:0 "Join the Kaiser Wilhelm Society"
-GER_puppet_core_germany:0 "Restore Order in [From.GetNameDef]"
+GER_join_kaiser_wilhelm_society:0 "카이저 빌헬름 협회에 참여
+GER_puppet_core_germany:0 "[From.GetNameDef]에 질서 되찾기"
 
 french_occupation_decisions:0 "프랑스 점령"
 french_occupation_decisions_desc:0 "[FRA.GetNameDef] 영토 내에서 저항이 계속되고 있습니다. 제3인터내셔널 전체를 물리치는 것이 아니라 프랑스의 저항세력들이 완전히 항복할 정도로 코뮌 망명 정부의 정통성을 잠식하는 것이 가능할지도 모릅니다. \n\n[FRA.GetNameDef]의 현재 §Y정통성§!: §R[?FRA.legitimacy|-0]§!\n"
@@ -1944,7 +1944,7 @@ KR_mitteleuropa_tooltip:0 "§H[GetMitteleuropaName]§!\n[GetMitteleuropaEffects]
 KR_mitteleuropa_tooltip_desc:0 "§L[GetMitteleuropaDesc]§!"
 
 KR_mitteleuropa_name_GER:0 "미텔오이로파 지도국"
-KR_mitteleuropa_name:0 "미텔오이로파 가맹국"
+KR_mitteleuropa_name:0 "미텔오이로파 국원
 
 KR_mitteleuropa_desc_GER:0 "공식적으로 중앙유럽경제연합(Central European Economic Union)이라고 명명된 미텔오이로파는 독일과 독일의 영향권을 통합하는 경제 연합으로 세계대전 직후 설립되었습니다. 미텔오이로파의 지도국이자 연합에서 가장 지배적인 세력으로서, 독일은 가장 큰 몫의 이익을 차지합니다."
 KR_mitteleuropa_desc:0 "공식적으로 중앙유럽경제연합(Central European Economic Union)이라고 명명된 미텔오이로파는 독일과 독일의 영향권을 통합하는 경제 연합으로 세계대전 직후 설립되었습니다. 미텔오이로파의 가맹국으로서, 국가와 독일과의 경제적 연계는 이로운 영향을 주는 반면, 이 협정은 독일의 이익에 초점이 맞춰져 있습니다."
