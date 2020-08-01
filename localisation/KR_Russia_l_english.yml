@@ -199,6 +199,11 @@ RUS_Demand_Galicia_desc:0 "갈리치아에 있는 우리의 슬라브 형제들�
 
 RUS_Attack_Poland_desc:0 "1917년, 러시아의 붕괴 후에 폴란드 사람들은 차르 대신 카이저를 섬기고 있습니다. 그들이 현재 독일의 영향력에서 포로로 잡혀있고, 그들을 해방시키는 것은 이제 우리 손에 달려 있습니다."
 
+RUS_Integration_decisions:0 "Territorial Integration"
+RUS_Integration_decisions_desc:0 "We should make strives to reintegrate territories lost to us during the collapse of the Empire. The change in management from the old regime will have significant effects on our industry however in the long term it will leave Russia strong enough to face the dangers of the world."
+RUS_Integrate_Country:0 "Integrate [From.GetNameDef]"
+RUS_Integrate_State:0 "Integrate [From.GetName]"
+
 RUS_Alliance_decisions:0 "러시아 영향권" #The Russian Sphere
 RUS_Invite_Country:0 "[FROM.GetFlag] [FROM.GetNameDef] 초대"
 RUS_invited_country:0 "진행중인 협상"
