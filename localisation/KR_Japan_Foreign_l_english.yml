@@ -266,7 +266,7 @@ JAP_co_prosperity_decisions_desc:0 "우리의 동맹은 서구 제국주의자�
 JAP_invite_into_faction:0 "[From.GetNameDef]에 동맹 제안"
 JAP_invite_into_faction_desc:0 "[From.GetAdjective] 정부가 도쿄 회담에 대한 관심을 표명했으므로 정식으로 회담에 초청하는 절차를 밟을 수 있습니다."
 JAP_invite_into_economic_sphere:0 "[From.GetNameDef]에 경제공영권 합류 제안"
-JAP_invite_into_economic_sphere_desc:0 "[From.GetNameDefCap](은)는 세력에 소속되지 않았거나 이미 일본의 동맹국이며, 어느 쪽이든 그들과 우리의 이익을 위해 대동아공영권에 참여할 수 있는 훌륭한 후보입니다."
+JAP_invite_into_economic_sphere_desc:0 "[From.GetNameDefCap](은)는 세력에 소속되지 않았거나 이미 일본의 동맹국이며, 어느 쪽이든 그들과 우리의 이익을 위해 공영권에 참여할 수 있는 훌륭한 후보입니다."
 JAP_invest_in_sphere_member1:0 "[From.GetNameDef]에 투자 촉진"
 JAP_invest_in_sphere_member1_desc:0 "[From.GetNameDef]에 대한 투자를 시작해야 합니다. 이것은 그들과 더 쉽게 교역하게 해줄 뿐 아니라 일본의 자본을 상대국에 심어놓을 수도 있고, 결국 그들을 내부에서부터 잠식할 것입니다."
 JAP_invest_in_sphere_member2:0 "[From.GetNameDef]에 투자 촉진"
@@ -290,8 +290,8 @@ JAP_member_of_co_prosperity_sphere:0 "Becomes a Member of the §HEast Asian Co-P
 KR_co_prosperity_sphere_tooltip:0 "§H[GetCoProsperitySphereName]§!\n[GetCoProsperitySphereEffects]"
 KR_co_prosperity_sphere_tooltip_desc:0 "§L[GetCoProsperitySphereDesc]§!"
 
-KR_co_prosperity_sphere_name_JAP:0 "대동아 공영권의 대표국"
-KR_co_prosperity_sphere_name:0 "대동아 공영권의 회원국"
+KR_co_prosperity_sphere_name_JAP:0 "공영권 지도국"
+KR_co_prosperity_sphere_name:0 "공영권 회원국"
 
 KR_co_prosperity_sphere_desc_JAP:0 "[GetCoProsperitySphereEffects]"
 KR_co_prosperity_sphere_desc:0 "[GetCoProsperitySphereEffects]"
