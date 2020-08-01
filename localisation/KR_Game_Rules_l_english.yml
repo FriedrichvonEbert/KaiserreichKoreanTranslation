@@ -14,25 +14,25 @@ RULE_GROUP_KAISERREICH_RULES:0 "게임 규칙 설정"
 
 RULE_UNIT_LIMIT_OPTIONS:0 "사단 제한"
 RULE_OPTION_STANDARD:0 "모두 적용"
-RULE_UNIT_LIMIT_OPTIONS_STANDARD_DESC:0 "Limits have been applied to how many divisions the AI can build, based on their factory counts and economy law level. Once the AI hits this limit, they will simply stop building new divisions. This limit also applies to a player, though for them it's a soft cap and they receive a malus based on how far over the limit they build.\n\n§RNote that this is a system put in place to reduce the inevitable slowdown that happens as a game goes on, as the sheer number of divisions in action is the primary cause of system lag.§!"
+RULE_UNIT_LIMIT_OPTIONS_STANDARD_DESC:0 "공장의 숫자와 경제법 수준에 따라, AI가 얼마나 많은 사단을 만들 수 있는지에 한계가 적용됩니다. AI가 이 제한에 도달하면, 단순하게 새로운 사단의 생성을 멈출 것입니다. 플레이어 또한 이 제한이 적용되지만 강제하는 것은 아니며, 다만 얼마나 제한을 넘어섰는지에 따라 불이익을 받게 됩니다.\n\n§R이는 게임 진행 도중, 단순히 사단들의 수많은 행동들이 시스템 랙의 주요 원인으로써, 그로 인해 불가피하게 발생하는 속도 저하를 줄이려 추가된 시스템임을 참고하십시오.§!"
 RULE_OPTION_AI_ONLY:0 "AI만 적용"
-RULE_UNIT_LIMIT_OPTIONS_AI_ONLY_DESC:0 "Limits have been applied to how many divisions the AI can build, based on their factory counts and economy law level. Once the AI hits this limit, they will simply stop building new divisions. At this setting, there is no limit to how many divisions a player may build other than their ability to supply manpower and equipment.\n\n§RNote that this will put the player at a considerable advantage against AI countries that would otherwise be of comparable strengths.§!"
+RULE_UNIT_LIMIT_OPTIONS_AI_ONLY_DESC:0 "공장의 숫자와 경제법 수준에 따라, AI가 얼마나 많은 사단을 만들 수 있는지에 한계가 적용됩니다. AI가 이 제한에 도달하면, 단순하게 새로운 사단의 생성을 멈출 것입니다. 이 설정에서는, 플레이어가 인력과 장비 보급 이외에 몇개의 사단을 생성할 수 있는지와 관련한 제한은 없습니다.\n\n§R이렇게 진행할 경우, 플레이어는 비등한 국력의 힘을 가진 AI를 상대로 상당한 이점을 가지게 될 것임을 참고하십시오.§!"
 RULE_OPTION_TURN_OFF:0 "끄기"
-RULE_UNIT_LIMIT_OPTIONS_TURN_OFF_DESC:0 "This turns off the division limit system completely.\n\n§RIt is suggested you only do this if you either don't mind game speeds getting much slower as the game goes on, or you have a VERY hefty computer to run the game.§!"
+RULE_UNIT_LIMIT_OPTIONS_TURN_OFF_DESC:0 "사단제한 시스템을 완전히 끕니다.\n\n§R이것은 오로지 당신이 게임을 진행하면서 게임 속도가 매우 느려지는 것을 개의치 않거나, 혹은 당신이 정말로 크고 아름다운 컴퓨터로 게임을 진행할 경우에만 진행하는 것을 추천합니다.§!"
 
 RULE_DEMOB_OPTIONS:0 "평화시 동원 해제"
 RULE_OPTION_DEMOB_EXISTS:0 "기본값"
-RULE_OPTION_DEMOB_EXISTS_DESC:0 "When at peace, the player will be prompted to reduce their economy and/or conscription laws to levels allowed in peacetime and according to their War Support within four months. The AI will do the same, though they will do so more quickly and will tend to reduce their laws to lower levels than the player is required to. If unit limits apply to the AI, this will also tend to prompt them to reduce the number of units they have active for performance reasons."
+RULE_OPTION_DEMOB_EXISTS_DESC:0 "평화 상태일 때, 플레이어는 4개월 이내에 경제법 및 징병법의 둘 중 하나, 혹은 둘 다의 수준을 평화 시와 전쟁을 지원하는데 알맞은 정도로 신속히 줄일 것을 촉구받을 것입니다. AI 또한 마찬가지로, 심지어 더 빠르거나 플레이어가 요구받는 수준보다 더 낮은 수준으로 줄이는 경향이 있습니다. AI에 사단 제한이 적용되었다면, 성능상의 이유로 활동 중인 사단의 수를 줄이게끔 유도하는 경향도 있습니다."
 RULE_OPTION_DEMOB_AI_ONLY:0 "AI만 적용"
-RULE_OPTION_DEMOB_AI_ONLY_DESC:0 "In peacetime, the AI will reduce their economy and/or conscription laws. If unit limits apply to the AI, this will also prompt them to reduce the number of units they have active for performance reasons. The player, however, will never be prompted to reduce their laws."
+RULE_OPTION_DEMOB_AI_ONLY_DESC:0 "평화 상태일 때, AI는 경제법 및 징병법의 둘 중 하나, 혹은 둘 다의 수준을 평화 시와 전쟁을 지원하는데 알맞은 정도로 줄일 것입니다. AI에 사단 제한이 적용되었다면, 성능상의 이유로 활동 중인 사단의 수를 줄이게끔 유도합니다. 그러나 플레이어는 절대로 법을 낮추도록 촉구받지 않을 것입니다."
 RULE_OPTION_DEMOB_OFF:0 "끄기"
-RULE_OPTION_DEMOB_OFF_DESC:0 "Neither the player nor the AI will never be prompted to reduce their economy and/or conscription laws in peacetime.\n\n§RIt is suggested you only do this if you either don't mind game speeds getting much slower as the game goes on, or you have a VERY hefty computer to run the game.§!"
+RULE_OPTION_DEMOB_OFF_DESC:0 "플레이어도 AI도 절대 법을 낮추도록 촉구받지 않을 것입니다.\n\n§R이것은 오로지 당신이 게임을 진행하면서 게임 속도가 매우 느려지는 것을 개의치 않거나, 혹은 당신이 정말로 크고 아름다운 컴퓨터로 게임을 진행할 경우에만 진행하는 것을 추천합니다.§!"
 
 RULE_FACTION_BUTTON_OPTIONS:0 "세력 외교 버튼"
 RULE_OPTION_NO_BUTTON:0 "기본값"
-RULE_OPTION_NO_BUTTON_DESC:0 "Creating factions, joining factions, and leaving factions have always been done in Kaiserreich via decisions, focuses, and events - so the presence of the diplomacy buttons was deemed unneeded, and thus they were removed from the list. By default, this game rule will keep them that way."
+RULE_OPTION_NO_BUTTON_DESC:0 "세력을 만들거나, 참여하거나, 혹은 떠나는 것은 카이저라이히에서 결정, 국가중점 그리고 사건을 통해 이루어졌고 - 따라서 외교 버튼은 불필요하다 여겨졌으므로 항목에서 삭제되었습니다. 기본적으로, 이 게임 규칙은 계속 그러도록 할 것입니다."
 RULE_OPTION_BUTTON_PRESENT:0 "버튼 있음"
-RULE_OPTION_BUTTON_PRESENT_DESC:0 "This option restores the diplomacy buttons for creating, joining, and leaving factions.\n\n§RNote that this does not make them any more useable than they were previously - it simply restores them to the diplomacy interface. Any ability to use them above and beyond what Kaiserreich normally allows will need to come either via a sub-mod or through the console. Please use at your own risk - Kaiserreich's code does not assume that any country could potentially be in any faction, so using this function may mean encountering bugs that you otherwise would not. This option is primarily intended for those in multiplayer games, or those who otherwise know what they're doing and are willing to risk bugs in exchange for their own enjoyment of the mod.§!"
+RULE_OPTION_BUTTON_PRESENT_DESC:0 "이 옵션은 세력의 생성, 가입, 탈퇴를 위한 외교 버튼을 복원합니다.\n\n§R이것은 외교 버튼이 쓸모 있게 만드는 것이 아니며 - 그저 외교 인터페이스에 이를 복원하는 것뿐입니다. 카이저라이히가 일반적으로 허용하는 범위의 너머나 그 이상은 서브모드나 콘솔을 이용하십시오. 이 기능을 이용할 경우, 카이저라이히의 코드에선 그 어느 나라도 어떤 세력에 가입할 수 있다고 가정하고 있지 않기에 듣도 보도 못한 버그와 맞닥뜨릴 수 있으며, 이는 전적으로 당신의 잘못입니다. 이 옵션은 주로 멀티플레이어 게임이나, 자신이 뭘 하는지 잘 이해하고 자신의 즐거움을 대가로 삼으며 버그를 감수할 생각이 있을 경우를 대상으로 합니다.§!"
 
 
 ### Custom Country Paths ###
