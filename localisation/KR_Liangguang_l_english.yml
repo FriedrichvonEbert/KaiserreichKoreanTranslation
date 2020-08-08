@@ -138,7 +138,7 @@ GXC_align_with_japan:0 "일본과의 제휴"
 GXC_align_with_japan_desc:0 "With China ravaged by radicalism and warlordism, the economy is guaranteed to fall into shambles once more. Japan, however, is now the key to stability for the country. Chen Lianbo has pro-Japanese sympathies and he believes in their Panasian ideal. After all, they are now the only chance to finally bring peace, and it would be in our best interests to strike a good deal with them first before the Imperial Japanese Army marches into Guangzhou."
 
 GXC_UPC_reunification_decisions:0 "연성주의자 재통합"
-GXC_UPC_reunification_decisions_desc:0 "The time has come. With the United Provinces consolidated, we can now expand our influence in the region by toppling the remaining unruly warlords of Southern China and handing power to the people. When the Republic secures this half of the nation, we will be able to negotiate with the northern militarists and republicans for the reunification of our beloved country."
+GXC_UPC_reunification_decisions_desc:0 "때가 되었습니다. 합중국의 입지를 견고히 하면서, 이제 우리는 남중국에 잔존한 무법자 군벌들을 와해시키고 인민에게 권력을 넘겨줌을 통해 이 지역에서의 영향력을 확장할 수 있습니다. 공화국이 이 나라의 절반을 확보한다면, 우리는 조국의 재통일을 위해 북방의 군국주의자 및 공화주의자들과 담판을 지을 수 있을 것입니다."
 
 GXC_UPC_ultimatums:0 "[GXC_UPC_ultimatums_titles]"
 GXC_UPC_ultimatums_desc:0 "[GXC_UPC_ultimatums_descs]"
@@ -292,7 +292,7 @@ GXC_professional_training_focus_desc:0 "Focusing on creating a cadre of professi
 GXC_literacy_campaign:0 "문맹 퇴치 캠페인"
 GXC_literacy_campaign_desc:0 "It is clear that one of the major reasons why the West is so prosperous is its high literacy rate. Since literacy is abysmally low in China, we can never hope to become equals to the rest of the world until we improve it, or else we will remain inferior to them."
 
-GXC_decentralisation:0 "탈중앙화"
+GXC_decentralisation:0 "지방분권화"
 GXC_decentralisation_desc:0 "Chen Jiongming is adamant that decentralisation is the best way to govern a country as large as China. Centralisation brings too much power to too few people, which inevitably leads to corruption and autocracy. If China is to be united and prosperous, the division of power between the central government and the provinces, and between the province and the counties, must be clear. Through provincial self-rule, democracy can be introduced to China from the bottom up, and only with democracy can the people of China truly be free."
 
 GXC_land_reform:0 "토지 개혁 계획"
@@ -599,31 +599,31 @@ GXC_Sparta_of_the_East_desc:0 "Sparta is well-known to many Westerners: A highly
 ###Military
 
 GXC_provincial_armies:0 "지방군 재조직"
-GXC_provincial_armies_desc:0 "Guangdong and Guangxi have had separate armies, command and administrative structures since the formation of the League of Eight Provinces. The two forces must be united under a single command in order to become a cohesive fighting force, lest we find ourselves caught in a fight with a split and disorganized one."
+GXC_provincial_armies_desc:0 "광둥과 광시는 팔성연합의 형성 이래로 분리된 육군, 지휘부와 행정 구조를 갖추고 있었습니다. 두 성의 군대는 단결된 전투력을 갖추기 위해 단일한 지휘부 하에 통합되어야 하며, 그렇지 않다면 우리는 분열되고 지리멸렬한 군대를 보유한 채로 전투에 휘말려들게 될 것입니다."
 
 GXC_hong_kong_contacts:0 "홍콩과의 연계"
-GXC_hong_kong_contacts_desc:0 "With our proximity to Hong Kong and the tight commercial links between it and our provinces, we have numerous contacts within the Legation Cities, many of them sympathetic to our cause and the rest willing to profit from it. This opens us to a market of surplus weaponry and advanced machinery from the rest of China and the West."
+GXC_hong_kong_contacts_desc:0 "우리는 홍콩과 인접했고 그들과 우리 성 사이에는 강한 상업적 제휴관계가 존재하며, 이에 따라 우리는 공사관 도시와 무수한 연결을 갖고 있어 그들 중 다수는 우리에 대한 공감을, 나머지는 이를 통해 이익을 얻으려는 생각을 갖고 있습니다. 이는 우리에게 중국의 나머지 지역과 서방에서 온 진보된 기계류와, 남아도는 무기류를 구할 수 있는 시장을 개척해줄 것입니다."
 
 GXC_tooling_help:0 "생산에 도움을 받다"
-GXC_tooling_help_desc:0 "Our contacts in Hong Kong have secured us a shipment of modern machine parts that we can use to upgrade our current stock. This will cost us, but would help us quickly rebuild our forces compared to our rivals."
+GXC_tooling_help_desc:0 "우리의 홍콩과의 접촉은 현재의 무기 재고를 업그레이드하는 데 사용할 수 있는 현대 기계류의 출하를 확보해줬습니다. 이는 값을 치러야 할 테지만, 경쟁자들과 비교했을 때 우리의 군대를 더 빨리 재건할 수 있도록 도와줄 것입니다."
 
 GXC_second_arsenal:0 "제2조병창 확장"
-GXC_second_arsenal_desc:0 "The Paijang Artillery Factory, also known as the Second Guangdong Arsenal, was built in 1933 with help from Siemmsen & Co. and the AOG. It recently began producing field artillery and ammunition for the League until it collapsed. With government help, it can be expanded and ensure it remains out of German hands."
+GXC_second_arsenal_desc:0 "광둥제2조병창으로도 알려진 파이장포병창은 지멘스와 AOG의 도움을 받아 1933년에 건설되었습니다. 여기선 최근 팔성연합이 무너질 때까지 야포와 포탄을 생산했습니다. 정부의 도움을 받는다면 이곳은 확장될 수 있고, 독일 수중에 넘어가지 않도록 보장할 수 있습니다."
 
 GXC_improved_communications:0 "라디오 확보"
-GXC_improved_communications_desc:0 "Logistics and communications are instrumental in modern warfare. From our Hong Kong contacts, we can gain access to some modern radios, which could prove instrumental to our forces' ability to fight as they would improve officers' ability to maintain contact with their subordinates during heavy fighting."
+GXC_improved_communications_desc:0 "병참과 통신은 현대전에서 중요한 역할을 합니다. 홍콩과의 접촉을 통해 우리는 몇몇 현대식 라디오에 접근할 수 있고, 이는 격렬한 전투 동안 부하들과 연락을 유지하는 군관들의 능력을 향상시킬 것이기 때문에 군대의 전투력에도 중요한 역할을 할 수 있습니다."
 
 GXC_specialized_artillery:0 "전문화된 대공포와 대전차포"
-GXC_specialized_artillery_desc:0 "While air and armoured power remains fairly limited in China, their presence is steadily growing and we must adopt countermeasures to deal with them effectively. Artillery pieces designed to counter aircraft and armoured vehicles are continuing to be the most cost-effective solution."
+GXC_specialized_artillery_desc:0 "중국에서는 항공 및 기갑 전력이 상당히 제한된 반면, 이들의 존재감은 꾸준히 증가하고 있으며 우리는 이에 효과적으로 대처할 수 있는 방안을 채택해야 합니다. 항공기와 장갑차량에 대항하기 위해 고안된 포병 분야는 계속해서 가장 가성비 좋운 해결책이 되어가고 있습니다."
 
 GXC_Liangguang_Aviation_Bureau:0 "양광 항공부"
-GXC_Liangguang_Aviation_Bureau_desc:0 "Both provinces have a tiny aviation industry spurred by the demands of the provincial armies and their leaders. While this industry may be insignificant to foreign eyes, it is an incredible boon compared to most Chinese provincial governments. The two provinces should pool their resources and expertise together to maintain the significant advantage military aviation brings to the modern battlefield."
+GXC_Liangguang_Aviation_Bureau_desc:0 "양쪽 성 모두가 성군과 그들의 지도자들의 요구에 힘입어 소규모 항공산업을 꾸려나가고 있습니다. 외국인들의 눈에는 이러한 산업이 보잘것없을지 모르지만, 이는 대부분의 중국 성정부들에 비하면 믿을 수 없는 수준로 요긴합니다. 양쪽 성은 군용 항공이 현대 전장에 가져다주는 중요한 이점을 유지하기 위해 자원과 전문 지식을 한데 모아야 합니다."
 
-GXC_Aircraft_Repair_Factory:0 "항공기 수리 공장"
-GXC_Aircraft_Repair_Factory_desc:0 "Shaoguan has a small factory able to build small military aircraft. While their capabilities are small, they are able to repair and maintain the aircraft we have in stock."
+GXC_Aircraft_Repair_Factory:0 "항공기 정비창"
+GXC_Aircraft_Repair_Factory_desc:0 "샤오관에는 소형 군용기를 제작할 수 있는 작은 공장이 위치해있습니다. 이들의 역량이 작긴 하지만, 우리가 보유중인 항공기를 수리하고 유지보수하기엔 충분합니다."
 
 GXC_Liangguang_Aviation_School:0 "양광 비행학교"
-GXC_Liangguang_Aviation_School_desc:0 "In order to create any kind of air force, officers and men must be trained and educated. An aviation school to train pilots and crews would help us create the basic infrastructure and develop our fledging air fleet."
+GXC_Liangguang_Aviation_School_desc:0 "어떤 종류든간에, 일단 항공대를 창설하려면 군관들과 사병들은 훈련과 교육을 받아야 합니다. 조종사와 지원반을 육성하기 위한 비행학교는 우리가 기반시설을 갖추고 풋내기 공군력을 발전시키는 데 도움을 줄 것입니다."
 
 GXC_rejuvenation_type_aircraft:0 "'부활'급 전투기"
 GXC_rejuvenation_type_aircraft_desc:0 "The aircraft factories in Liuzhou and Shaoguan have begun developing their own aircraft design. The Guangxi Type 3, a biplane of mixed construction, is one of the first successful fighters made in China, while Shaoguan is working on a modern monoplane they named \"Rejuvenation-type\". They could become the backbone of our air force and give us an immeasurable advantage over our foes."
@@ -638,10 +638,10 @@ GXC_reopen_whampoa:0 "전문 장교단"
 GXC_reopen_whampoa_desc:0 "Professionalism among the officers of Chinese armies is hard to come by since many of them are former bandits. However, Liangguang has seen a steadily increasing literacy rate, which gives us an advantage when recruiting and training new officers. We must strive for professionalization so that our officers can be the true defenders of the Republic and not an army trained from the \"Green School\"."
 
 GXC_militia_integration:0 "민병대 통합"
-GXC_militia_integration_desc:0 "Armies in Southern China since the creation of the Qing New Armies in the late 19th century have essentially been large militia forces. Integrating them into our army structure will ensure that we have access to motivated and experienced manpower, eager to defend their homes from warlords and bandits."
+GXC_militia_integration_desc:0 "19세기 후반 청나라의 신건육군 창설 이래로, 남중국의 육군은 근본적으로 대규모 민병대에 지나지 않았습니다. 이들을 우리의 육군 편제 하에 통합하는 것은 열의 있고 노련한 인력풀에 대한 접근과, 이들이 군벌과 도적떼로부터 고향을 지키려 열망할 것을 보장합니다."
 
 GXC_minjun_reforms:0 "민군 개혁"
-GXC_minjun_reforms_desc:0 "Minjun, or citizen/popular armies, are the name used to denote volunteer soldiers in Southern Armies. They have a mixed reputation to say the least, as the Kuomintang derided them as bandits in their propaganda. We must reform this force, as citizen-soldiers will be the backbone of an effective army that will defend the republic just as they did in the United States and Britain."
+GXC_minjun_reforms_desc:0 "민군, 또는 시민/인민군은 남방의 군대들에서 자원병들을 나타내기 위해 쓰인 명칭입니다. 이들은 국민당이 선전 활동에서 단지 비적떼일 뿐이라며 비웃었던 점 때문에, 단정지어 말하기엔 다소 복합적인 평판을 얻고 있습니다. 우리는 이들 민군을 시민병으로 개혁해, 미국이나 영국에서 그랬던 것처럼 공화국을 지켜줄 효과적인 군대의 중추로 만들어야 합니다."
 
 GXC_civilwar_lessons:0 "월계전쟁의 교훈"
 GXC_civilwar_lessons_desc:0 "The Yue-Gui Wars, shorthand for the Guangdong-Guangxi Wars, refer to a number of conflicts between Guangdong and Guangxi province since the Xinhai Revolution. Our forces still have much to learn when it comes to modern warfare, and the most recent war will be examined and studied in order to improve our armies, for the wars in China appear to have no end in sight."
@@ -649,7 +649,7 @@ GXC_civilwar_lessons_desc:0 "The Yue-Gui Wars, shorthand for the Guangdong-Guang
 GXC_modern_army_structure:0 "군대 구조 현대화"
 GXC_modern_army_structure_desc:0 "Chinese armies differ significantly from modern Western armies despite decades of attempting to emulate them. Unsurprisingly, a modern army structure is a necessity to properly conduct wars, and the Chief of Staff has presented a new system to organize infantry divisions."
 
-GXC_improved_logistics:0 "보급 개선"
+GXC_improved_logistics:0 "병참 개선"
 GXC_improved_logistics_desc:0 "Amateurs study tactics, masters study logistics. In China, where the infrastructure ranges from poor to non-existent, properly organizing the logistics of armies can not only mean the difference between victory and defeat, but save them from complete annihilation."
 
 GXC_mountain_warfare:0 "산악전의 교훈"
