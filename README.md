@@ -61,8 +61,8 @@
   - [한국어 맞춤법/문법 검사기](http://speller.cs.pusan.ac.kr/) - 번역 후에 어색한 느낌이 든다면 사용해보세요. 강한 규칙 적용을 권장드립니다.
 ***
 
-## 번역팀 자매 프로젝트
-
+## 번역팀 자매 프로젝트   
+아래 번역에도 많은 기여를 부탁드립니다.
 - RedFlood 한국어 번역
   - [Red-Flood-Korean](https://github.com/Edietchek/Red-Flood-Korean)
 - Road to 56 한국어 번역
