@@ -59,3 +59,13 @@
   - [한글라이즈](https://hangulize.org) - 각 언어에 맞는 글자를 넣어야 정상적으로 출력됩니다.
   - [한어병음/일문가나 한글표기 변환 도구](https://boncho.kiom.re.kr/tool/index.htm) - 중국어를 로마자로 표기한 것을 넣으면 변환이 됩니다.
   - [한국어 맞춤법/문법 검사기](http://speller.cs.pusan.ac.kr/) - 번역 후에 어색한 느낌이 든다면 사용해보세요. 강한 규칙 적용을 권장드립니다.
+***
+
+## 번역팀 자매 프로젝트
+
+- RedFlood 한국어 번역
+  - [Red-Flood-Korean](https://github.com/Edietchek/Red-Flood-Korean)
+- Road to 56 한국어 번역
+  - [Road-to-56-Korean](https://github.com/codmw123/Road-to-56-Korean)
+- The New Order 한국어 번역
+  - [The-New-Order-Korean-Translazione](https://github.com/hiland400/The-New-Order-Korean-Translazione)
