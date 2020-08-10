@@ -68,4 +68,4 @@
 - Road to 56 한국어 번역
   - [Road-to-56-Korean](https://github.com/codmw123/Road-to-56-Korean)
 - The New Order 한국어 번역
-  - [The-New-Order-Korean-Translazione](https://github.com/hiland400/The-New-Order-Korean-Translazione)
+  - [TheNewOrderKoreanTranslation](https://github.com/FriedrichvonEbert/TheNewOrderKoreanTranslation)
