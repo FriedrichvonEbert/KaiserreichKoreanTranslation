@@ -93,7 +93,7 @@ GXC_civil_war_over:0 "제2차 월계전쟁이 발발하다.\n"
 ### Decisions ###
 
 GXC_border_raid_decisions:0 "국경 약탈"
-GXC_border_raid_decisions_desc:0 "Guangxi has a history of banditry, one that we may as well use to help improve our equipment stockpile. Our neighbours certainly won't like it, but with China in chaos, they are unlikely to be able to pin the blame us officially thanks to the general confusion. We may as well take advantage of the situation."
+GXC_border_raid_decisions_desc:0 "광시는 약탈의 역사를 가지고 있으며, 이는 우리가 장비 비축량을 향상시키는 데 도움을 주는 것에 유용하게 쓰일 것입니다. 분명 우리 이웃들은 이를 좋아하지 않겠지만, 중국이 혼란에 빠지면서 이들은 전반적인 혼란 때문에라도 공식적으로 우리를 비난할 수 없을 것으로 보입니다. 우리는 이러한 상황을 이용하는 편이 나을 것입니다."
 
 GXC_raid_german_indochina:0 "독일령 인도차이나 약탈"
 GXC_raid_indochina:0 "인도차이나 약탈"
@@ -105,7 +105,7 @@ GXC_raid_lec:0 "공사관도시 약탈"
 GXC_raid_aog:0 "독일령 조계 약탈"
 
 GXC_anti_banditry_decisions:0 "도적질과의 투쟁"
-GXC_anti_banditry_decisions_desc:0 "Bandits from Guangxi Province in Liangguang have been raiding lightly-defended outposts by the border, stealing military equipment. We must make sure to secure our border with Liangguang in order to stop them. Otherwise, we risk getting raided again."
+GXC_anti_banditry_decisions_desc:0 "양광의 광시성에서 온 도적들이 국경 인근의 경비가 허술한 전초기지를 습격해, 군사 장비들을 훔쳐가고 있습니다. 이들을 저지하기 위해선 반드시 양광과 맞닿은 우리 국경을 확보해야 합니다. 그렇지 않다면, 우리는 다시 약탈당할 위험이 있습니다."
 
 GXC_GEA_secure_border:0 "북부 국경 확보"
 GXC_GEA_secure_border_desc:0 "We know for sure that the bandits came from Guangxi. Whether they were aligned with the local warlord there or not, we don't know. What we do know is that the raiders came from there and we must prevent another raid."
@@ -125,14 +125,14 @@ GXC_AOG_secure_border:0 "남부 조계 확보"
 GXC_AOG_secure_border_desc:0 "We know for sure that the bandits came from Guangxi. Whether they were aligned with the local warlord there or not, we don't know. What we do know is that the raiders came from there and we must prevent another raid."
 
 GXC_secure_south_decisions:0 "남중국 확보"
-GXC_secure_south_decisions_desc:0 "Liangguang is now in a position to establish hegemony over Southern China. Where hostile Cliques are weak and vulnerable, we must strike, and bring them to our fold. Soon enough, we will have uncontested control of this part of China, making us highly influential in national politics."
-GXC_secure_south:0 "[FROM.GetFlag] Secure [FROM.GetCliqueShortName]"
+GXC_secure_south_decisions_desc:0 "양광은 이제 남중국에 대한 패권을 확립해야 할 상황에 놓였습니다. 우리는 적대적인 군벌들이 나약하고 취약한 상황에서 공격해야 하고, 그들을 우리의 구역으로 이끌어야 합니다. 머지않아, 우리는 중국의 이 지역에 대해 논쟁의 여지가 없는 지배권을 갖게 될 것이고, 이는 우리를 국정에 있어서 큰 영향을 갖게 해줄 것입니다."
+GXC_secure_south:0 "[FROM.GetFlag] [FROM.GetCliqueShortName] 확보"
 
 GXC_finding_backers:0 "후원자 물색"
-GXC_finding_backers_desc:0 "Since the collapse of the League, that status of the Central Government has been confusing at best. In order to secure our own position as one of Southern China's promiment leaders, we should find backers among the factions trying to seize control of China's government or, potentially, Japan."
+GXC_finding_backers_desc:0 "팔성연합이 붕괴된 이후, 중앙정부의 지위는 기껏해야 혼란스러운 수준이었씁니다. 우리 스스로의 지위를 남중국의 특출한 지도자 중 하나로 자리매김하기 위해선, 중국 정부에게서 지배권을 빼앗아오려 시도하는 파벌이나 어쩌면 일본 사이에서 후원자를 물색해야 합니다."
 
 GXC_align_with_zhili:0 "직예군벌과의 제휴"
-GXC_align_with_zhili_desc:0 "Ma Ji is a personal friend of Wu Peifu, having fought under him during the Kuomintang's failed invasion. His Clique has been supporting us since then, and it is time we repaid our debt to the Jade Marshall and support the Central Government against treachery."
+GXC_align_with_zhili_desc:0 "마지는 우페이푸와 개인적인 친분을 갖고 있으며, 국민당의 실패한 침공 당시 그의 밑에서 싸운 바 있습니다. 그의 군벌은 그때부터 우리를 지원해주었고, 이제 우리는 장군에게 빚을 갚고 중앙정부에 대한 배반에 맞서 그를 지원할 때가 되었습니다."
 
 GXC_align_with_japan:0 "일본과의 제휴"
 GXC_align_with_japan_desc:0 "With China ravaged by radicalism and warlordism, the economy is guaranteed to fall into shambles once more. Japan, however, is now the key to stability for the country. Chen Lianbo has pro-Japanese sympathies and he believes in their Panasian ideal. After all, they are now the only chance to finally bring peace, and it would be in our best interests to strike a good deal with them first before the Imperial Japanese Army marches into Guangzhou."
