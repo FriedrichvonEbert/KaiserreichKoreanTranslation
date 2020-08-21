@@ -57,7 +57,7 @@ SER_austrias_watchful_eye:0 "오스트리아의 감시"
 SER_austrias_watchful_eye_desc:0 "서류상으로 오스트리아는 이미 10년 전에 세르비아에 대한 간섭을 철회했지만, 오스트리아는 널리 사랑받던 프란츠 페르디난트 대공을 살해하고 세계대전을 일으킨 민족을 여전히 감시하고 있습니다. 합스부르크 왕조는 언제라도 다뉴브 강을 건너 베오그라드에 군대를 진주시키고 우리의 연약한 독립을 끝장낼 만한 무력을 가지고 있습니다."
 
 SER_political_instability:0 "베오그라드 음모"
-SER_political_instability:0 "세르비아 국경에서 오스트리아군이 철수한 아후로 보이보다의 통치권은 결코 안전한 상태가 아닙니다. 음모가 사방에 널려 있으며 수많은 비밀리에 구성되거나 공개적으로 드러난 수많은 집단들이 보요비치의 자리를 위협하려는 작전을 꾸미고 있습니다. 지식인들과 장교들이 텅 빈 세르비아 왕좌의 주변을 배회하는 현 상황에 섭정이 자신의 자리를 지키고자 한다면 위협을 제거하기 위해 뭔가 해야 할 것입니다."
+SER_political_instability_desc:0 "세르비아 국경에서 오스트리아군이 철수한 아후로 보이보다의 통치권은 결코 안전한 상태가 아닙니다. 음모가 사방에 널려 있으며 수많은 비밀리에 구성되거나 공개적으로 드러난 수많은 집단들이 보요비치의 자리를 위협하려는 작전을 꾸미고 있습니다. 지식인들과 장교들이 텅 빈 세르비아 왕좌의 주변을 배회하는 현 상황에 섭정이 자신의 자리를 지키고자 한다면 위협을 제거하기 위해 뭔가 해야 할 것입니다."
 
 SER_alexanders_vision:0 "알렉산다르의 목표"
 SER_alexanders_vision_desc:0 "국왕 폐하께서는 개혁되고 현대화된 세르비아라는 원대한 꿈을 품고 있습니다. 토지개혁과 산업화 계획, 그리고 군국화 정책 등 수많은 급진적이고 강렬한 프로그램을 통해 알렉산다르는 언젠가 과거의 족쇄에서 벗어난 강하고 독립적인 국가를 지배하기를 열망합니다."
@@ -79,8 +79,6 @@ SER_balkan_democracy_desc:0 "우리는 독재자와 폭군의 바다에서 찬�
 
 SER_the_dream_of_yugoslavia:0 "유고슬라비아의 꿈"
 SER_the_dream_of_yugoslavia_desc:0 "빈과 부다페스트의 압제자가 분쇄하기 위해 최선의 노력을 들였지만, 여전히 유고슬라비아의 꿈은 모든 남슬라브 민족의 가슴 속에서 살아 숨쉬고 있습니다! 세르비아는 슬라브 지역에 대한 독일-헝가리 패권주의를 타도하겠다는 사심 없는 대의를 지고 다시 한번 해방의 횃불을 높게 들어올려야 합니다."
-
-SER_the_dream_of_yugoslavia_tooltip:0 "\n§H유고슬라비아의 꿈§! 국민정신 획득 효과\n매일 정치력 획득: [?0.25|-=]\n§H[AUS.GetNameDefCap]§!:\n     에 대한 공격력 보너스: [?0.1|+=%1]\n     에 대한 방어력 보너스: [?0.1|+=%1]\n§H[CRO.GetNameDefCap]§!:\n     에 대한 공격력 보너스: [?0.1|+=%1]\n     에 대한 방어력 보너스: [?0.1|+=%1]"
 
 SER_black_monday:0 "검은 월요일"
 SER_black_monday_desc:0 "모든 독일인과 오스트리아인들은 자신들의 슬픔을 온 세상과 나누게 되었다는 사실에 행복을 느끼는 모양입니다..."
@@ -158,6 +156,9 @@ SER_Local_Designs_tooltip:0 "항공기 설계사 해금: §H아에로푸트§!, 
 SER_The_Serbian_Airforce_tooltip_RUS:0 "§H러시아 조언가§!와 §H국산 설계§!를 §H세르비아 공군 교리§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
 SER_The_Serbian_Airforce_tooltip_NFA:0 "§H프랑스 조언가§!와 §H국산 설계§!를 §H세르비아 공군 교리§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
 
+SER_the_dream_of_yugoslavia_tooltip:0 "Gains National Spirit §HThe Dream of Yugoslavia§!, which grants\nDaily Political Power Cost: [?0.25|-=]\n§H[AUS.GetNameDefCap]§!:\n     Attack bonus against country: [?0.1|+=%1]\n     Defence bonus against country: [?0.1|+=%1]\n§H[CRO.GetNameDefCap]§!:\n     Attack bonus against country: [?0.1|+=%1]\n     Defence bonus against country: [?0.1|+=%1]\n§H[HUN.GetNameDefCap]§!:\n     Attack bonus against country: [?0.1|+=%1]\n     Defence bonus against country: [?0.1|+=%1]"
+SER_The_Dream_Fulfilled_tooltip:0 "Modify §HThe Dream of Yugoslavia§! by\nDaily Political Power Gain: [?0.35|+=]\nDivision Recovery Rate: [?0.05|+=%1]\nStability: [?0.05|+=%]"
+
 SER_has_black_monday:0 "§H검은 월요일§! 국민정신을 가짐"
 SER_has_black_monday_NOT:0 "§H검은 월요일§! 국민정신을 가지지 않음"
 
@@ -207,8 +208,8 @@ SER_The_Balkan_Research_Initiative_desc:0 "발칸 반도의 여러 이질적인 
 SER_Together_Against_Austria:0 "다함께 오스트리아에 저항하자"
 SER_Together_Against_Austria_desc:0 "불가리아의 위협이 사라졌으니, 지금이야 말로 우리의 관심을 다음이자 가장 거대한 적에게로 돌려야 할 때입니다. 오스트리아는 수백년동안 동포 세르비아 민족들을 억압해왔고, 여태까지 우리가 시도했던 모든 노력들은 실패로 끝났습니다. 이런 역사적 부정을 바로 잡을 기회가 왔습니다. 합스부르크 가문은 고립되어 있습니다. 죽어가는 껍데기밖에 남지 않은 저 국가를 한번 때려 눕힐 때가 되었습니다!"
 
-SER_Education_Reform:0 "교육 개혁"
-SER_Education_Reform_desc:0 "세르비아 민족이 우리의 기치 아래에서 단결한 가운데, 이제 국가 전체의 미래를 구축해야 하며 이를 위해 즉각 투자를 개시해야 합니다. 교육 개혁은 우리의 뒤를 이을 차세대 세르비아인들을 형성할 수 있게 해줄 것이며, 다음 세대는 세르비아를 훨씬 더 큰 영광으로 이끌 것입니다."
+SER_The_Dream_Fulfilled:0 "꿈의 실현"
+SER_The_Dream_Fulfilled_desc:0 "세르비아 민족이 우리의 기치 아래에서 단결한 가운데, 이제 국가 전체의 미래를 구축해야 하며 이를 위해 즉각 투자를 개시해야 합니다. Let us prepare the next generation of Serbs that will take over after us, so that they will lead Serbia to even greater glories."
 
 SER_The_Belgrade_Salonica_Railway:0 "베오그라드-테살로니키 철도"
 SER_The_Belgrade_Salonica_Railway_desc:0 "우리는 이웃이자 친구인 그리스와 새롭고 안전한 무역로와 보급로를 가지고 있습니다. 하지만 이 지역의 기반시설은 부족한 상태이며 수십년간 불가리아의 잘못된 통치 아래에서 아무런 도움을 받지 못했습니다. 아테네의 도움이 약간만 주어진다면 이런 상황을 바로잡고 세계로 나갈 관문과 그리스와의 관계까지 개선할 수 있습니다."

@@ -320,17 +320,17 @@ MAF_White_Graveyard:0 "백인들의 무덤"
 MAF_White_Graveyard_desc:0 "Ours is an army prepared for Jungle Warfare on the tactical level, both in the equipment we've selected and our troops' familiarity with and resistance to tropical disease. While other armies fear the jungle, we welcome it."
 
 ### Cosmetic Tags ###
-MAG_GER_subject:0 "마다가스카 자유국"
-MAG_GER_subject_ADJ:0 "마다가스카"
-MAG_GER_subject_DEF:0 "마다가스카 자유국"
+MAD_GER_subject:0 "마다가스카 자유국"
+MAD_GER_subject_ADJ:0 "마다가스카"
+MAD_GER_subject_DEF:0 "마다가스카 자유국"
 
-NGR_GER_subject:0 "니게리아"
-NGR_GER_subject_ADJ:0 "니게리아"
-NGR_GER_subject_DEF:0 "니게리아"
+NGA_GER_subject:0 "니게리아"
+NGA_GER_subject_ADJ:0 "니게리아"
+NGA_GER_subject_DEF:0 "니게리아"
 
-NGR_ENG_subject:0 "나이지리아 자유국"
-NGR_ENG_subject_ADJ:0 "나이지리아"
-NGR_ENG_subject_DEF:0 "나이지리아"
+NGA_ENG_subject:0 "나이지리아 자유국"
+NGA_ENG_subject_ADJ:0 "나이지리아"
+NGA_ENG_subject_DEF:0 "나이지리아"
 
 CEA_GER_subject:0 "우방기샤리"
 CEA_GER_subject_ADJ:0 "우방기"

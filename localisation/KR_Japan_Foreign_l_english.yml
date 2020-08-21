@@ -12,7 +12,7 @@ japan_research_name:0 "이화학 연구소"
 japan_research_desc:0 "이화학 연구소는 공영권 내의 식민지와 동맹국의 질적 향상을 꾀하는 과학기관입니다."
 
 ### Tooltips ###
-JAP_gain_claim_southern_islands:0 "§Y[JAP.GetNameDefCap]§!(은)는 §Y말레이 반도§!, §Y동인도 제도§!, 공영권과 미합중국 소유가 아닌 모든 §Y태평양 제도§!에 영유권을 주장합니다.\n"
+JAP_gain_claim_southern_islands:0 "§Y[JAP.GetNameDefCap]§!(은)는 §Y싱가포르§!, §Y[1020.GetName]§!, 공영권과 미합중국 소유가 아닌 모든 §Y태평양 제도§!에 영유권을 주장합니다.\n"
 can_blockade_kor:0 "우리는 반란군들을 봉쇄하기 위해 우리의 함대를 한반도에 전개하는 것을 고려해야 합니다."
 JAP_russia_trigger1:0 "당신은 괴뢰국이 되지는 않지만 러시아와 같은 세력에 속하게 됩니다."
 JAP_russia_trigger2:0 "러시아와 연결되는 육로가 있어야만 합니다."
@@ -129,7 +129,7 @@ JAP_not_invest_within_last_year:0 "지난 1년간 투자 대상이 되지 않음
 
 ### Ideas ###
 JAP_rising_sun_idea_1:0 "제국의 영광"
-JAP_rising_sun_idea_1_desc:0 "Japan has not always received the respect it deserves. While thing have changed over the last 30 years, there is still a long way to go. We trust that every citizen will do their duty to make sure that we get there; none shall stop us.\n\nWe are the most powerful nation in Asia and the fruits of war should be ours and ours alone. To ensure this is the case we can only call in allies if we are at war with a major or losing a war."
+JAP_rising_sun_idea_1_desc:0 "Japan has not always received the respect it deserves. While things have changed over the last 30 years, much remains the same. In light of this, we trust that every citizen will do their patriotic duty; none shall stop us.\n\nWe are the most powerful nation in Asia and the fruits of war should be ours and ours alone. To ensure this is the case we can only call in allies if we are at war with a major or losing a war."
 JAP_rising_sun_idea_2:0 "제국의 영광"
 JAP_rising_sun_idea_2_desc:0 "마침내 세계 제국들 사이에 일본이 자리잡을 때가 왔습니다. 우리는 서구 제국주의로부터 아시아를 해방시키고 경쟁자들에게서 전리품을 얻어낼 것입니다. 태양이 떠오른 것입니다!\n\nWe are the most powerful nation in Asia and the fruits of war should be ours and ours alone. To ensure this is the case we can only call in allies if we are at war with a major or losing a war."
 JAP_rising_sun_idea_3:0 "제국의 영광"

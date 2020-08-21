@@ -18,8 +18,6 @@ AUS_new_administration:0 "행정 개편"
 AUS_economy_ready_tooltip:0 "우리는 경제의 선진화를 준비해야 합니다. \n\n 이는 현재 우리에게 닥친 경제 위기를 극복해야 한다는 뜻입니다."
 AUS_potb_albania_tooltip:0 "알바니아가 우리 영향권에 인접해 있습니다."
 AUS_potb_greece_tooltip:0 "그리스가 우리 영향권에 인접해 있습니다."
-AUS_potb_romanian_civil_war_tooltip:0 "루마니아가 내전에 휩싸였습니다."
-AUS_potb_romania_tooltip:0 "복원된 루마니아 왕국이 우리 영향권에 인접해 있습니다."
 AUS_potb_bulgaria_tooltip:0 "불가리아가 우리 영향권에 인접해 있습니다."
 AUS_no_greek_economic_sanctions:0 "그리스에 경제 재제를 가하지 않았어야 합니다"
 
@@ -42,6 +40,8 @@ AUS_dualism_restored_tooltip:0 "헝가리는 통합될 것이고, 오스트리�
 ITA_bruh_why:0 "공화국이 우리의 외교적 접근을 거부함"
 sicilian_reengage:0 "이탈리아의 연방주의자들을 지지했습니다"
 sicilian_disengage:0 "이탈리아의 공화주의자들을 지지했습니다"
+
+AUS_treaty_of_budapest:0 "The Treaty of Budapest has been signed"
 
 AUS_HUN_Civil_war:0 "§Y헝가리§W와 오스트리아가 내전을 시작합니다. \n\n"
 greater_austrian_empire:0 "대타협 기간 동안 오스트리아의 주도 하에 이중 제국을 재결속하기로 결정했고, 헝가리는 결국 굴복했습니다. \n\n OR \n\n오스트리아는 헝가리를 합병하고 중앙집권 체제를 건설하기로 결정했습니다."
@@ -67,14 +67,10 @@ AUS_ausgleich_kingdoms:0 "모든 왕국이 대타협에 초청됩니다."
 AUS_ausgleich_peoples:0 "모든 민족이 대타협에 초청됩니다."
 
 ### Ideas ###
-AUS_part_of_the_Empire:0 "오스트리아 제국 구성국"
-AUS_part_of_the_Empire_desc:0 "이 나라나 직할령은 적어도 명목상으로는 오스트리아-헝가리 제국의 구성원입니다."
-
 AUS_financial_ties_broken:0 "오스트리아-헝가리 관계 악화"
 AUS_financial_ties_broken_desc:0 "헝가리의 왕가는 통합정부의 재정에 세금을 납부하는 것을 거부합니다. \n\n 그들은 1926년 남부 슬라브인 반란의 중재안으로 인한 일리리아 왕국의 형성에 여전히 불만을 가지고 있으며 오스트리아 정부에 의해 배신당한 이들은 크로아티아의 토지 손실에 대한 보상을 원합니다."
 
 HUN_financial_ties_broken:0 "오스트리아-헝가리의 관계 악화"
-HUN_financial_ties:0 "오스트리아-헝가리의 관계 회복"
 HUN_slovak_demonstrations:0 "슬로바키아 독립운동"
 HUN_transylvanian_demonstrations:0 "트란실바니아 독립운동"
 
@@ -121,8 +117,8 @@ AUS_DNF_political_instability-2_desc:0 "국가개인자치원칙이 자리를 �
 
 AUS_modern_army:0 "현대화된 군대"
 
-AUS_SLOintegration:0 "슬로베니아 통합"
-AUS_SLOintegration_desc:0 "많은 슬로베니아인들은 독일 민족이고 합스부르크의 오랜 유산이 슬로베니아 영토에 대한 오스트리아 정부의 신속한 통제를 가능하게 했지만, 많은 슬로베니아인이 느끼는 것은 새로운 통치자 그 이상입니다."
+AUS_SLVintegration:0 "슬로베니아 통합"
+AUS_SLVintegration_desc:0 "많은 슬로베니아인들은 독일 민족이고 합스부르크의 오랜 유산이 슬로베니아 영토에 대한 오스트리아 정부의 신속한 통제를 가능하게 했지만, 많은 슬로베니아인이 느끼는 것은 새로운 통치자 그 이상입니다."
 
 ### Decisions ###
 AUS_syndie_threat:0 "생디칼리스트의 위협"
@@ -134,6 +130,7 @@ AUS_reform_faction_desc:0 "Now that the war is over, the time has come to resume
 AUS_germany_on_the_ropes:0 "[FRA.GetNameDef](이)가 남독일 깊숙히 침투해 들어왔습니다"
 AUS_syndicalism_winning_Italy:0 "동맹국 프랑스가 이탈리아 대부분을 통제하에 두고 있습니다"
 AUS_russia_penetrated_germany:0 "[RUS.GetNameDef] or its allies have take control of [5.GetName]"
+AUS_poland_fallen_to_russia:0 "[POL.GetNameDef] is in the Reichspakt and has fallen to [RUS.GetNameDef]"
 AUS_elections_decisions:0 "선거 결정"
 AUS_endorse_CS:0 "기독사회당을 지지"
 AUS_endorse_SDAP:0 "사회민주노동자당을 지지"
@@ -541,20 +538,11 @@ AUS_us_looking_outwards_desc:0 "과거의 분열을 제쳐두고, 이제 연방�
 AUS_protector_of_the_balkans:0 "발칸반도의 보호자"
 AUS_protector_of_the_balkans_desc:0 "세계대전은 방대한 오스트리아의 영향권에서 발칸반도를 떠나게 했습니다. 안타깝게도, 우리는 지난 몇 년 동안 다른 것들에 주력해야 했습니다. 우리는 이제 이것을 바로잡고 다시 한번 누가 이 땅의 주인인지 보여 줄 것입니다."
 
-AUS_potb_help_romania:0 "루마니아에 개입"
-AUS_potb_help_romania_desc:0 "코드레아누의 정권은 무너지는 중이고 루마니아는 내전으로 찢어지고 있습니다. 하지만 우리가 루마니아에 개입한다면 전세를 역전시킬 수도 있을 것입니다."
-
-AUS_potb_invite_romania:0 "루마니아에 접근"
-AUS_potb_invite_romania_desc:0 "이제 다시 안전해진 루마니아 왕국은 반드시 우리 편으로 끌어들여야 합니다."
-
 AUS_potb_albania:0 "알바니아에 접근"
 AUS_potb_albania_desc:0 "우리의 영향 없이 남쪽에 있는 알바니아를 더 이상 방관할 수는 없습니다. 그들의 편이 어디인지에 대한 물음을 해결할 때입니다."
 
 AUS_potb_greece:0 "그리스에 접근"
 AUS_potb_greece_desc:0 "그리스가 누구의 편인가의 문제는 아직 미해결입니다. 우리는 그리스가 비명을 지르든 발로 차든 우리의 영향력으로 끌어들여야 합니다."
-
-AUS_potb_serbia:0 "세르비아와의 문제"
-AUS_potb_serbia_2:0 "남부 슬라브인 문제"
 
 AUS_potb_invite_bulgaria:0 "불가리아의 옛 친구들"
 AUS_potb_invite_bulgaria_desc:0 "불가리아는 지난 전쟁에서 우리가 세르비아의 저항을 억제하는데 도움을 주었고, 적어도 우리는 그렇게 생각합니다. 전쟁 후 중앙집권체제의 붕괴는 세르비아인들이 우리의 손아귀에서 벗어나게 해주었습니다. 불가리아는 다시 한번 발칸반도의 평화와 안정을 회복하는 열쇠입니다."
@@ -564,7 +552,7 @@ AUS_totalist_party:0 "전체주의 인민회의"
 AUS_totalist_party_long:0 "전체주의 인민회의"
 AUS_syndicalist_party:0 "사회주의 노동위원회"
 AUS_syndicalist_party_long:0 "사회주의 노동위원회"
-AUS_radical_socialist_party:0 "2½. 인터내셔널"
+AUS_radical_socialist_party:0 "사회주의 작업공동체당"
 AUS_radical_socialist_party_long:0 "사회주의 작업공동체당"
 AUS_social_democrat_party:0 "사회민주노동자당"
 AUS_social_democrat_party_long:0 "사회민주노동자당"
@@ -886,12 +874,12 @@ ausgleich.new.340.t:0 "[AUS_ausgleich_demonstrations] 민족주의"
 ausgleich.new.340.d:0 "대타협 재협상 동안 빈의 황제 폐하와 내각의 지원에 고무되어, [AUS_ausgleich_demonstrations] 반대 시위 행렬은 거리를 행진하고 있습니다. 그들은 친오스트리아적이며, 동시에 반헝가리적인 시위대입니다."
 ausgleich.new.340.a:0 "그들을 진정시켜라."
 
-AUS_ausgleich_demonstrations_SVK_ROM:0 "슬로바키아인과 루마니아인"
-AUS_ausgleich_demonstrations_SVK:0 "슬로바키아인"
+AUS_ausgleich_demonstrations_SLO_ROM:0 "슬로바키아인과 루마니아인"
+AUS_ausgleich_demonstrations_SLO:0 "슬로바키아인"
 AUS_ausgleich_demonstrations_ROM:0 "루마니아인"
 
-AUS_ausgleich_demonstrations_cities_SVK_ROM:0 "슬로바키아와 트란실바니아"
-AUS_ausgleich_demonstrations_cities_SVK:0 "슬로바키아"
+AUS_ausgleich_demonstrations_cities_SLO_ROM:0 "슬로바키아와 트란실바니아"
+AUS_ausgleich_demonstrations_cities_SLO:0 "슬로바키아"
 AUS_ausgleich_demonstrations_cities_ROM:0 "트란실바니아"
 ausgleich.new.341.t:0 "헝가리에서 벌어진 [AUS_ausgleich_demonstrations] 시위"
 ausgleich.new.341.d:0 "이번 주 초, 헝가리 경찰이 군중을 폭력적으로 해산시키며, [AUS_ausgleich_demonstrations_cities]의 몇몇 도시에서 벌어진 빈을 지지하는 평화 시위는 끝이 났습니다. 이렇게 잠시 저항 운동이 후퇴했지만, [AUS_ausgleich_demonstrations] 지도자들은 이제 우리 정부에 이 분쟁을 중재해달라고 요청하고 있습니다."
@@ -918,8 +906,8 @@ ausgleich.new.345.d:0 "마침내 슬로바키아가 헝가리의 손에서 해�
 ausgleich.new.345.a:0 "우리는 해방자다. 슬로바키아 정부 수립은 반드시 선포될 것이다."
 ausgleich.new.345.b:0 "지금 당장으로서 이 지역은 계속 점령될 것이다."
 
-annexation_SVK_AUS_CONQ:0 "슬로바키아인의 국가 선포"
-annexation_SVK_AUS_CONQ_desc:0 "마침내 슬로바키아가 헝가리의 손에서 해방되었지만, 여전히 그들은 불안정합니다. 당장 그들을 해방하는 것은 다른 이들에게 존경받을 일이겠지만, 군사 고문들은 그렇게 하기 전에 사태를 관망하는 것이 현명할 수 있다고 우리에게 조언합니다."
+annexation_SLO_AUS_CONQ:0 "슬로바키아인의 국가 선포"
+annexation_SLO_AUS_CONQ_desc:0 "마침내 슬로바키아가 헝가리의 손에서 해방되었지만, 여전히 그들은 불안정합니다. 당장 그들을 해방하는 것은 다른 이들에게 존경받을 일이겠지만, 군사 고문들은 그렇게 하기 전에 사태를 관망하는 것이 현명할 수 있다고 우리에게 조언합니다."
 
 ausgleich.new.346.t:0 "트란실바니아인의 국가 선포"
 ausgleich.new.346.d:0 "마침내 트란실바니아가 헝가리의 손에서 배아되었지만, 여전히 그들은 불안정합니다. 당장 그들을 해방하는 것은 다른 이들에게 존경받을 일이겠지만, 군사 고문들은 그렇게 하기 전에 사태를 관망하는 것이 현명할 수 있다고 우리에게 조언합니다."

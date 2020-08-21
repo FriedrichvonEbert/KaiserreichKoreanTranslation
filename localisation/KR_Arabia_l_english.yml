@@ -111,6 +111,7 @@ SAU_sole_caliphate_is_a_bad_idea:0 "§RClaiming the title of Caliph will likely 
 
 ### Decisions ###
 ARA_integrate_holy_cities:0 "Integrate the Holy Cities"
+ARA_integrate_state:0 "Integrate [From.GetName]"
 ARA_increased_research_efforts:0 "Increased Research Efforts"
 
 ARA_Power_Struggle:0 "Preparations for the War of Unification"

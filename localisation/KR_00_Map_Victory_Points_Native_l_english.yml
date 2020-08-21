@@ -1,10 +1,10 @@
 ﻿l_english:
 
 ###################################################################################################################################
-### NOTE - FOR THE LOVE OF GOD PLEASE READ BEFORE MAKING CHANGES                                                                ###
-### Just because the name shows up in the map, doesn't mean the localisation will display in the UI (e.g. peace deal windows)   ###
+### FOR THE LOVE OF GOD PLEASE READ BEFORE MAKING CHANGES                                                                       ###
+### Just because the name shows up in the map doesn't mean the localisation will display in the UI (e.g. peace deal windows)    ###
 ### Characters confirmed NOT to display right: ă č ı ő ō ş ū ż                                                                  ###
-### This applied to bother lower and upper case versions of these characters                                                    ###
+### This applies to both the lower and upper case versions of these characters                                                  ###
 ###################################################################################################################################
 
 endo_vp_53:0 "스타방에르"
@@ -15,7 +15,7 @@ endo_vp_153:0 "빌렘스타트"
 endo_vp_156:0 "팔룬"
 endo_vp_177:0 "포르드프랑스"
 endo_vp_185:0 "아렌스부르크"
-endo_vp_191:0 "허밍스타드"
+endo_vp_191:0 "Ludwigsstadt"
 endo_vp_192:0 "나르비크"
 endo_vp_221:0 "입스위치"
 endo_vp_233:0 "브라슬라우"
@@ -115,7 +115,7 @@ endo_vp_1104:0 "옌타이"
 endo_vp_1117:0 "니가타"
 endo_vp_1120:0 "사오관"
 endo_vp_1124:0 "린이"
-endo_vp_1125:0 "화이저우"
+endo_vp_1125:0 "Huizhou"
 endo_vp_1126:0 "라구아트"
 endo_vp_1127:0 "아즈다비야"
 endo_vp_1138:0 "난핑"
@@ -199,7 +199,7 @@ endo_vp_1929:0 "분케야"
 endo_vp_1939:0 "나이로비"
 endo_vp_1943:0 "바잉궈렁"
 endo_vp_1944:0 "마라카이보"
-endo_vp_1950:0 "몰트케슈타트"
+endo_vp_1950:0 "Simpsonhafen"
 endo_vp_1951:0 "로메"
 endo_vp_1961:0 "게르"
 endo_vp_1962:0 "양취안"
@@ -362,7 +362,7 @@ endo_vp_4245:0 "콜카타"
 endo_vp_4250:0 "카라간다"
 endo_vp_4256:0 "시안"
 endo_vp_4261:0 "오르스크"
-endo_vp_4268:0 "누메아"
+endo_vp_4268:0 "Solfhafen"
 endo_vp_4286:0 "수바"
 endo_vp_4288:0 "칼라판"
 endo_vp_4299:0 "러크나우"
@@ -454,7 +454,7 @@ endo_vp_5117:0 "프리드리히스타드"
 endo_vp_5120:0 "로하"
 endo_vp_5128:0 "타나나리브"
 endo_vp_5131:0 "아리카"
-endo_vp_5139:0 "트리피츠슈타트"
+endo_vp_5139:0 "Neu-Freiburg"
 endo_vp_5143:0 "산티아고델에스테로"
 endo_vp_5157:0 "데라둔"
 endo_vp_5166:0 "쿠스코"
@@ -1300,6 +1300,7 @@ endo_vp_4056_korean:0 "부산"
 endo_vp_4180_japanese:0 "호놀룰루"
 endo_vp_4329_german:0 "모르즈비하펜"
 endo_vp_4329_japanese:0 "포토모르주비"
+endo_vp_4268_english:0 "Noumea"
 endo_vp_4268_french:0 "누메아"
 endo_vp_4268_japanese:0 "누메아"
 endo_vp_4401_cambodian:0 "프레이 노코르"

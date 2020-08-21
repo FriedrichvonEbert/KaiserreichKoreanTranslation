@@ -146,6 +146,7 @@ BUL_pomak_conscription_idea:0 "포막인 징병"
 BUL_pomak_conscription_idea_desc:0 ""
 BUL_peasants_organized:0 "Peasants Organized"
 BUL_benefits_of_peace:0 "The Benefits of Peace"
+BUL_old_guard_training:0 "Old Guard Training"
 
 ### Opinion Modifiers ###
 ottoman_aggression_bulgaria_GER:0 "발칸에서 오스만 제국의 침략"
@@ -829,6 +830,15 @@ bulgariaflavour.25.a:0 "그러길 바라자."
 bulgariaflavour.26.t:0 "높아진 긴장"
 bulgariaflavour.26.d:0 "최근의 경기 침체로, 극우 단체 즈베노(전 [BUL.GetAdjective]의 장군 키몬 게오르기예프 스토야노프가 이끄는)는 [BUL.GetName] 내의 무슬림 공동체들을 물리적, 언어적으로 비방하고 공격하고 있습니다. 그들은 무슬림들이 일자리를 다 뺏어 가고 있다고 주장하면서, [BUL.GetAdjective] 정부가 무슬림에 너무 관대한 정책을 펴고 있다고, 정책을 바꿀 것을 주장하고 있습니다.\n\n이에 대한 저항으로, [BUL.GetAdjective]의 투르크인들과 일부 포마크인들 또한  [BUL.GetAdjective] 정부에 단지 자치권을 부여해주는 것뿐 아니라 이러한 이슈들에 대한 입장을 분명히 하라고 요구하고 있습니다."
 bulgariaflavour.26.a:0 "이런."
+
+bulgariaflavour.27.t:0 "General Vazov Wishes to Help"
+bulgariaflavour.27.d:0 "Prominent representatives of the last generation of Bulgarian army leaders gathered in Sofia to discuss the current military situation. While some recommendations were made to the current government, only Vladimir Vazov stood and expressed a desire to return to active duty. The seventy-year old former general is remembered as a fine general from the Weltkrieg, but is particularly remembered for the Battle of Doiran where he engineered a defeat of the Entente despite being heavily outnumbered."
+bulgariaflavour.27.a:0 "Of course he can rejoin the ranks!"
+bulgariaflavour.27.b:0 "Let him train the next generation, instead"
+
+bulgariaflavour.28.t:0 "General Vazov Retires Once More"
+bulgariaflavour.28.d:0 "With [Root.GetNameDef] currently at peace, General Vladimir Vazov has once more stepped down from active duty. Word has it that his health has been failing, and he is planning on returning to his home village of Ribaritsa, where he plans to spend the rest of his remaining days."
+bulgariaflavour.28.a:0 "He served his country well"
 
 ### Focuses ###
 BUL_economic_affairs:0 "경제 문제"

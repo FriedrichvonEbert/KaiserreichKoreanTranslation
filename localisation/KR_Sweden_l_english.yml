@@ -65,6 +65,7 @@ SWE_douglas_army_defence_desc:0 "더글라스 장군의 사상에 따라 자동�
 SWE_douglas_army_offense:0 "더글라스의 육군"
 SWE_douglas_army_offense_desc:0 "더글라스 장군의 사상에 따라 자동화 장비를 보급하고 기동대를 창설하는 등 대규모 영토를 신속하게 정복할 수 있도록 스웨덴군을 개혁하고 있습니다."
 
+
 SWE_idea_naval_investments:0 "해군 투자"
 SWE_idea_air_investments:0 "공군 투자"
 SWE_tamm_idea:0 "탬 제독의 계획"
@@ -89,6 +90,7 @@ SWE_kompani_linge_idea_desc:0 "콤파니링게는 전직배우 마르틴 링게�
 SWE_public_health_care_idea:0 "공공의료"
 SWE_education_reforms_idea:0 "교육 개혁"
 
+SWE_idea_unity_cabinet:0 "연합 내각"
 SWE_military_work_battalions_idea:0 "군 노동 대대"
 SWE_stapol_idea:0 "STAPOL"
 SWE_idea_divine_disapproval:0 "교회에 대적"

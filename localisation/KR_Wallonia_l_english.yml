@@ -1,6 +1,7 @@
 ﻿l_english:
 
 WLL_focus:0 "왈로니아 중점계통도"
+WLL_focus_blank:0 "왈로니아 중점계통도"
 
 ### Parties ###
 WLL_social_conservative_party:0 "기독민주당"

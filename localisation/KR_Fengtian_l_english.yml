@@ -112,6 +112,7 @@ FNG_Expel_the_Japanese_Bandits:0 "도적떼 일본놈들을 축출하자!"
 FNG_Expel_the_Japanese_Bandits_desc:0 "중국에서 일본 침략자들을 몰아내고, 견딜 수 없는 민족적 굴욕으로 점철된 한 세기를 종식시킬 때가 왔습니다!"
 
 FNG_Legitimacy:0 "정통성"
+FNG_Economic_Concessions_To_Guangdong:0 "Economic Concessions to Guangdong"
 
 FNG_mantetsu_influence_modifier:0 "£pol_idea 만철 영향력"
 FNG_mantetsu_influence_idea:0 "만철 영향력"
@@ -461,7 +462,7 @@ FNG_event_return:0 "§Y이전으로§! 돌아갑니다"
 FNG_army_path:0 "§Y군사§! 중점들에 §G추가§! 정치력 점수 보너스\n"
 FNG_enrichment_path:0 "§Y경제§! 중점들에 §G추가§! 정치력 점수 보너스\n"
 FNG_remove_backward_industry:0 "§Y낙후된 산업§! 국민정신을 제거하는데 필요합니다.\n"
-FNG_ma_fired:0 "마잔산이 해임될 것입니다.\n"
+FNG_ma_fired:0 "§Y마잔산§!이 해임될 것입니다.\n"
 FNG_chosabu_radar:0 "§Y일본§!이 §G레이더 연구§!를 완료하면 보너스를 받을 것입니다.\n"
 FNG_chosabu_construction:0 "§Y일본§!이 §G건설 연구§!를 완료하면 보너스를 받을 것입니다.\n"
 FNG_chosabu_efficiency:0 "§Y일본§!이 §G생산 효율성 연구§!를 완료하면 보너스를 받을 것입니다.\n"
@@ -523,6 +524,8 @@ FNG_projapan_tooltip:0 "§R친일정책으로 인해 사용할 수 없습니다�
 FNG_merchants_wait:0 "§GThis decision can be returned to later without any negative consequences.§!\n"
 
 FNG_clear_state_modifiers:0 "§GThis decision will create an opportunity to clear negative modifiers in Shenyang.§!\n"
+
+FNG_ma_zhanshan_reinstated:0 "§YMa Zhanshan§! will be reinstated as a §YGeneral§!.\n"
 
 #ships (include decisions names, decision category use loc from focus)
 FNG_JAP_destroyers:0 "구축함 주문"
@@ -1460,11 +1463,13 @@ fengtian.142.a:0 "간인노미야 친왕의 방문을 환영한다!"
 fengtian.142.b:0 "방문을 취소해라."
 
 fengtian.143.t:0 "호랑이의 눈으로"
-fengtian.143.d:0 "선양에 있는 대원수 관저에 도착한 이후 친왕은 호랑이 방에서 저명한 의원들과 함께 직접 등장한 [Root.GetLeader]에게 영접받았습니다. 그 다음에는 정부에서 사용하도록 개조된 옛 청 제국 시절의 왕궁과 도시 서북부 교외에 있는 센양 병기고를 둘러봤습니다. 저녁에는 화려한 식당에서 중국과 일본 양국 간의 특별한 관계를 기원하는 건배를 하면서 중국식 국빈 만찬으로 식사를 마쳤습니다.\n\n고토히토는 선양을 떠나 며칠간 남부 방위 태세를 검사할 계획이지만, 그의 생명을 노리는 암살 시도가 있을지도 모른다는 소문이 돌고 있습니다."
-fengtian.143.d_embarassment:0 "선양에 있는 대원수 관저에 도착한 이후 친왕은 호랑이 방에서 저명한 의원들과 함께 직접 등장한 [Root.GetLeader]에게 영접받았습니다. 그 다음에는 정부에서 사용하도록 개조된 옛 청 제국 시절의 왕궁과 도시 서북부 교외에 있는 센양 병기고를 둘러봤습니다. 저녁에는 화려한 식당에서 중국과 일본 양국 간의 특별한 관계를 기원하는 건배를 하면서 중국식 국빈 만찬으로 식사를 마쳤습니다.\n\n불행히도 고토히토는 아군 병사들의 장비가 형편없다는 사실을 눈치챘고, 이 부분에 대해 상당한 당혹감을 드러냈습니다. 친왕은 선양을 떠나 며칠간 남부 방위 태세를 검사할 계획이지만, 그의 생명을 노리는 암살 시도가 있을지도 모른다는 소문이 돌고 있습니다."
-fengtian.143.d_arsenal:0 "센양에 있는 대원수 관저에 도착한 이후 친왕은 호랑이 방에서 저명한 의원들과 함께 직접 등장한 [Root.GetLeader]에게 영접받았습니다. 그 다음에는 정부에서 사용하도록 개조된 옛 청 제국 시절의 왕궁과 도시 서북부 교외에 있는 센양 병기고를 둘러보고 병기고 확장 상태에 큰 감명을 받았습니다. 저녁에는 화려한 식당에서 중국과 일본 양국 간의 특별한 관계를 기원하는 건배를 하면서 중국식 국빈 만찬으로 식사를 마쳤습니다.\n\n친왕은 선양을 떠나 며칠간 남부 방위 태세를 검사할 계획이지만, 그의 생명을 노리는 암살 시도가 있을지도 모른다는 소문이 돌고 있습니다."
+fengtian.143.d:0 "선양에 있는 대원수 관저에 도착한 이후 친왕은 호랑이 방에서 저명한 의원들과 함께 직접 등장한 [Root.GetLeader]에게 영접받았습니다. 그 다음에는 정부에서 사용하도록 개조된 옛 청 제국 시절의 왕궁을 둘러보았습니다. 또한 도시 서북부 교외에 있는 센양 병기고도 방문했습니다. 저녁에는 화려한 식당에서 중국과 일본 양국 간의 특별한 관계를 기원하는 건배를 하면서 중국식 국빈 만찬으로 식사를 마쳤습니다.\n\n고토히토는 선양을 떠나 며칠간 남부 방위 태세를 검사할 계획이지만, 그의 생명을 노리는 암살 시도가 있을지도 모른다는 소문이 돌고 있습니다."
+fengtian.143.d_embarassment:0 "선양에 있는 대원수 관저에 도착한 이후 친왕은 호랑이 방에서 저명한 의원들과 함께 직접 등장한 [Root.GetLeader]에게 영접받았습니다. 그 다음에는 정부에서 사용하도록 개조된 옛 청 제국 시절의 왕궁을 둘러보았습니다. 또한 약간의 시간을 내 도시 서북부 교외에 있는 센양 병기고를 둘러봤습니다. 저녁에는 화려한 식당에서 중국과 일본 양국 간의 특별한 관계를 기원하는 건배를 하면서 중국식 국빈 만찬으로 식사를 마쳤습니다.\n\n불행히도 고토히토는 아군 병사들의 장비가 형편없다는 사실을 눈치챘고, 이 부분에 대해 상당한 당혹감을 드러냈습니다. 친왕은 선양을 떠나 며칠간 남부 방위 태세를 검사할 계획이지만, 그의 생명을 노리는 암살 시도가 있을지도 모른다는 소문이 돌고 있습니다."
+fengtian.143.d_arsenal:0 "센양에 있는 대원수 관저에 도착한 이후 친왕은 호랑이 방에서 저명한 의원들과 함께 직접 등장한 [Root.GetLeader]에게 영접받았습니다. 그 다음에는 정부에서 사용하도록 개조된 옛 청 제국 시절의 왕궁을 둘러보았습니다. He also visited the Shenyang Arsenal in the city's Northwest Suburbs, and seemed particularly impressed by its recent expansions. 저녁에는 화려한 식당에서 중국과 일본 양국 간의 특별한 관계를 기원하는 건배를 하면서 중국식 국빈 만찬으로 식사를 마쳤습니다.\n\n친왕은 선양을 떠나 며칠간 남부 방위 태세를 검사할 계획이지만, 그의 생명을 노리는 암살 시도가 있을지도 모른다는 소문이 돌고 있습니다."
+fengtian.143.d_evac:0 "After arriving at the Grand Marshal's residence in Shenyang, the Prince was ceremoniously received in the Tiger Room by prominent members of the Assembly and [Root.GetLeader] himself, before touring the former Palace of the Qing Dynasty, which has since been converted for use by the Government. He also visited the Shenyang Arsenal in the city's Northwest Suburbs, and seemed particularly impressed by its recent expansions. The evening was finished by an elegant state dinner in the Chinese style, during which a toast was made to the special relationship between China and Japan.\n\nDue to the outbreak of war, the Prince has decided to cut his visit short, and will depart for [GetDalianName] tomorrow morning."
 fengtian.143.a:0 "대단한 영광이오."
 fengtian.143.b:0 "안전을 위해 방문을 취소해야 한다."
+fengtian.143.c:0 "Goodbye to Prince Kan'in!"
 
 fengtian.144.t:0 "남부 전선 시찰"
 fengtian.144.d:0 "[QIE.GetAdjective]와 봉천 국경을 구분하는 얇은 비무장지대에 대한 총체적인 시찰의 일환으로 간인노미야 친왕은 1929년 징펑선을 따라 운행하는 기갑 열차를 지원하기 위해 지어진 완자전 요새에서 꼼꼼한 훈련을 참관했습니다. 불행하게도 오랜 시간동안 계속된 열악한 유지보수로 인해 문제가 생기고 말았습니다. 고토히토는 훈련에서 아무런 감명을 받지 못했으며, 자신의 드넓은 군사적 경험에 기반해 아군의 열악한 방위 태세를 비판했습니다.\n\n친왕은 추가적인 시찰 대신에 최근 진저우에 완공된 야마토 호텔에 머물다가 하얼빈으로 북상할 예정입니다."
@@ -1500,6 +1505,11 @@ fengtian.149.a:0 "어찌 이런일이?"
 fengtian.150.t:0 "간인노미야 친왕이 탄 열차가 폭발하다!"
 fengtian.150.d:0 "선양 황구툰역을 출발한지 불과 몇 분 지나지 않아 친왕이 탄 기차는 거대한 폭발에 휘말렸고 열차 후미는 흔적도 없이 사라져 버렸습니다. 다행히도 마지막 순간에 조치한 변화 사항으로 인해 그의 객실이 열차 앞 부분으로 이동했기 때문에 가벼운 부상만 입은 채로 탈출할 수 있었습니다. 이번 사태는 안보 책임을 다하지 못했다는 사실과 깊은 국가적 당혹감과 일본 황실에 대한 모욕을 나타냅니다.\n\n수사 작업이 현재까지 진행중인 상황으로 볼 때, 통신 파벌 하위 일원의 소행일 가능성이 있으며, 일본의 대응은 혹독할 지도 모릅니다."
 fengtian.150.a:0 "어찌 이런일이?"
+
+fengtian.1500.t:0 "The Prince's Visit is Cut Short"
+fengtian.1500.d_1:0 "Due to the outbreak of war, the Prince has decided to end his visit early, and will depart for [GetDalianName] tomorrow morning."
+fengtian.1500.d_2:0 "Due to the outbreak of war, Prince Kan'in Kotohito has decided to cancel his visit to the Northeast. An unfortunate turn of events, but naturally the war must take the highest priority."
+fengtian.1500.a:0 "Oh well."
 
 fengtian.151.t:0 "북방의 요새"
 fengtian.151.d:0 "1936년은 밝아오고, 봉천정부는 중국의 민국화라는 꿈의 최후의 보루로서 동북 지역에 존재하고 있습니다. 하지만 중국의 여러 다른 비밀들처럼, 이 꿈 역시 불편한 진실을 숨기고 있습니다. 중화민국의 봉천정부는 [QIE.GetAdjective]의 정통성에 이의를 제기하면서도, 정작 자신의 민주주의도 겉치레이며, 과거부터 그랬고 아마 앞으로도 그럴지도 모를 권위주의적 독재국가입니다.\n\n선양에 있는 의회는 부패했고, 권력은 독재적인 장군들, 부도덕한 철도 귀족들, 그리고 범 아시아 이념을 주창하지만, 실제 속내는 검은 세력들로 나뉘어져 있습니다. 이 가운데에 대원수 장쭤린이 있는데, 그의 야망은 크지만 [QIE.GetAdjective]의 힘과 일본의 영향력이 이를 막고 있으며; 지금은 이 둘 사이에서 정치적인 외줄타기를 강요받고 있습니다, 또한 그의 분열된 정부 안에서 벌어지는 각종 권모술수 역시 방해요소입니다. 이 상황이 영원히 지속되진 않겠지만, 적당한 때가 왔을때 기회를 잡지 못한다면, 다신 이루지 못할겁니다.\n\n남쪽과의 전쟁, 그리고 경제적 교류의 단절로 만들어진 막대한 비용으로 봉천은 휘청였고, 지난 몇년간을 재건을 위해 보냈지만, 아직도 재건하지 못한 것이 많습니다. 마찬가지로, 군대 역시 예산부족으로 등한시되어 빈약하며, 개편 돼야 합니다. 한편 날이 갈수록 영향력이 커져가는 일본은 우리에게 큰 위협임과 동시에 기회이기도 합니다. 우리 앞의 해로는 험하며, 국가라는 배를 생존으로 이끔은 물론 중국 전체를 재수복하기 위해선, 훌룡한 조타수가 필요합니다.\n\n봉천의 특수항 사항들, 일본과의 관계, 그리고 내부 정치에 관한 설명들을 들을 수 있습니다."

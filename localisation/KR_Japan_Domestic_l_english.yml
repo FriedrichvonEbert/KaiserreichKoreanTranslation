@@ -158,6 +158,7 @@ mil_choose_neither:0 "§G두 장군 모두 필요 없습니다. 우리는 그들
 mil_choose_neither_warning:0 "§G이런 방식의 전면 동원은 부정적인 결과를 가져올 수도 있습니다...§!\n"
 mil_choose_Nagata:0 "§G우리는 나가타를 지지하고 그의 지도 하에 전진할 것입니다.§!\n"
 mil_choose_Obata:0 "§G우리는 오바타를 지지하고 그의 지도 하에 전진할 것입니다.§!\n"
+JAP_col_warning:0 "§RWhile what we are doing is clearly different to the 'colonialism' of the western powers, other nations in Asia may not see it that way. Taking this path will make diplomacy with Asian nations more difficult as a result.§!"
 integrate_korea:0 "우리는 한국의 경제를 현대화하기 시작할 겁니다. 이 과정엔 §Y150 일§!이 소요되며, 다른 이벤트가 이 기간에 영향을 줄 수 있습니다."
 colonise_korea:0 "우리는 한반도를 제국에 통합하는 작업을 시작할 겁니다. 이 과정엔 §Y250 일§!이 소요되며, 다른 이벤트가 이 기간에 영향을 줄 수 있습니다."
 colonise_taiwan:0 "우리는 대만을 제국에 통합하는 작업을 시작할 겁니다. 이 과정엔 §Y150 일§!이 소요되며, 다른 이벤트가 이 기간에 영향을 줄 수 있습니다."

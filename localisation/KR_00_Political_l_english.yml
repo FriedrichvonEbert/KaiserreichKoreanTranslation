@@ -7,9 +7,15 @@ SYNDIE_SOC_DEM_NOTICE:0 "(생디칼리스트 지지)"
 war_propaganda_against_warmonger_desc:0 "국가에서 남녀노소 가리지 않고 [From.GetNameDef](와)과 싸움에 이바지해줄 것을 요청하고 있습니다!"
 
 ### Opening Event ###
-kr.political.1.t:0 "카이저라이히 베타 0.13.2"
-kr.political.1.d:0 "카이저라이히 팀에서 자랑스럽게 하츠 오브 아이언 4의 카이저라이히 베타 0.13.2 버전을 소개해드립니다.\n\n저희 개발진은 여러분에게 새로운 버전을 제공해드리기 위해 세계 각지에서 열심히 개발해왔으며, 여러분이 플레이하시는 것이 영광스러울뿐입니다.\n\n안내사항:\n본 모드는 플레이어가 평화회담에서 최대한 모든 지역을 합병하는 것을 전제로 하고 있으니 꼭 이행해주시길 바랍니다.\n'결정' 창의 상단부에 있는 아이콘을 토글하여 뉴스 이벤트의 빈도를 변경할 수 있습니다\n지명표기방식은 기존의 우측상단에 있는 업적버튼 자리에 있는 아이콘을 누르셔서 변경하실 수 있습니다\n이 모드는 아직 베타버전이며, 따라서 많은 버그와 충돌 그리고 골치 아픈 문제가 생길 수 있습니다\n만약 버그를 발견하셨다면, GitHub 이슈트래커에 제보해주시는 것으로 저희가 신속히 수정할 수 있게 도움을 주실 수 있습니다\n\n저희가 열심히 개발한만큼 재밌게 즐기시길 바랍니다!"
+kr.political.1.t:0 "카이저라이히 베타 0.14 - '공작과 헤르초흐'"
+kr.political.1.d:0 "카이저라이히 팀에서 자랑스럽게 하츠 오브 아이언 4의 카이저라이히 베타 0.14 - '공작과 헤르초흐'를 소개해드립니다.\n\n저희 개발진은 여러분에게 새로운 버전을 제공해드리기 위해 세계 각지에서 열심히 개발해왔으며, 여러분이 플레이하시는 것이 영광스러울뿐입니다.\n\n안내사항:\n본 모드는 플레이어가 평화회담에서 최대한 모든 지역을 합병하는 것을 전제로 하고 있으니 꼭 이행해주시길 바랍니다.\n'결정' 창의 상단부에 있는 아이콘을 토글하여 뉴스 이벤트의 빈도를 변경할 수 있습니다\n지명표기방식은 기존의 우측상단에 있는 업적버튼 자리에 있는 아이콘을 누르셔서 변경하실 수 있습니다\n이 모드는 아직 베타버전이며, 따라서 많은 버그와 충돌 그리고 골치 아픈 문제가 생길 수 있습니다\n만약 버그를 발견하셨다면, GitHub 이슈트래커에 제보해주시는 것으로 저희가 신속히 수정할 수 있게 도움을 주실 수 있습니다\n\n저희가 열심히 개발한만큼 재밌게 즐기시길 바랍니다!"
 kr.political.1.a:0 "물론이죠!"
+
+### Generic Triggered Events ####
+kr.political.30.t:0 "Prepare for War!"
+kr.political.30.d:0 "We have received numerous reports that [From.GetAdjective] troops are currently massing, and that a great deal of reconnaissance is taking place across the [Root.GetAdjective] border. Military officials say it is clear [From.GetNameDef] is planning an invasion of [Root.GetNameDef], one that could begin anytime within the next several weeks."
+kr.political.30.a:0 "We must get ready!"
+kr.political.31.d:0 "We have received alarming word from [From.GetNameDef] that [From.From.GetAdjective] troops are currently massing, and that a great deal of reconnaissance is taking place across the [From.GetAdjective] border. Military officials say it is clear [From.From.GetNameDef] is planning an invasion of [From.GetNameDef], one that could begin anytime within the next several weeks."
 
 ### Returning Cores ###
 return_cores_to_ally:0 "[From.GetAdjective] 영토 반환"
@@ -20,11 +26,11 @@ return_cores_to_subject_desc:0 "[Root.GetAdjective] 정부가 우리가 정당�
 kr.political.75.t:0 "[From.From.GetAdjective] 영토"
 kr.political.75.d:0 "[Root.GetAdjective] 정부가 우리가 정당한 명분없이 소유 중인 [From.GetAdjective]의 영토에 대한 문제를 논의하였습니다. 우리의 동맹국인 [From.GetAdjective]에게 영토를 반환해주어야할까요?"
 kr.political.75.a:0 "그래, 모든 영토를 반환해주어라"
-KR_will_return_all:0 "[return_to.GetAdjective]의 핵심 주 혹은 영유권 주장을 한 지역에 인접한 영토가 §Y[return_to.GetNameDef]§!에게 반환될 것입니다.\n\n알림: 이것은 [Root.GetAdjective](이)가 §Y영유권을 주장§! 하거나 §Y핵심 주§!인 지역을 포함하지 §R않을 것§!입니다."
+KR_will_return_all:0 "[return_to.GetAdjective]의 핵심 주 혹은 영유권 주장을 한 지역의 연안 또는 인접한 영토가 §Y[return_to.GetNameDef]§!에게 반환될 것입니다.\n\n알림: 이것은 [Root.GetAdjective](이)가 §Y영유권을 주장§! 하거나 §Y핵심 주§!인 지역을 포함하지 §R않을 것§!입니다."
 kr.political.75.b:0 "그래, 영토를 반환해주어라... 하지만 요충지는 갖고 있을 것이다."
-KR_will_return_rest:0 "[return_to.GetAdjective]의 핵심 주 혹은 영유권 주장을 한 지역에 인접한 영토가 §Y[return_to.GetNameDef]§!에게 반환될 것입니다.\n\n알림: 이것은 [Root.GetAdjective](이)가 §Y영유권을 주장§! 하거나 §Y핵심 주§!인 지역이나 운하 같은 §Y요충지§!는 포함하지 §R않을 것§!입니다."
+KR_will_return_rest:0 "[return_to.GetAdjective]의 핵심 주 혹은 영유권 주장을 한 지역의 연안 또는 인접한 영토가 §Y[return_to.GetNameDef]§!에게 반환될 것입니다.\n\n알림: 이것은 [Root.GetAdjective](이)가 §Y영유권을 주장§! 하거나 §Y핵심 주§!인 지역이나 운하 같은 §Y요충지§!는 포함하지 §R않을 것§!입니다."
 kr.political.75.c:0 "핵심 지역만 반환해주어라"
-KR_will_return_cores:0 "[return_to.GetAdjective]의 핵심 주에 인접한 지역이 §Y[return_to.GetNameDef]§!에게 반환될 것입니다.\n\n알림: 이것은 이것은 [Root.GetAdjective](이)가 §Y영유권을 주장§! 하거나 §Y핵심 주§!인 지역이나 운하 같은 §Y요충지§!는 포함하지 §R않을 것§!입니다. [return_to.GetAdjective](이)가 §Y영유권을 주장한§! 모든 지역도 그대로 가지고 있을 것입니다."
+KR_will_return_cores:0 "[return_to.GetAdjective]의 핵심 주에 연안 또는 인접한 영토가 §Y[return_to.GetNameDef]§!에게 반환될 것입니다.\n\n알림: 이것은 이것은 [Root.GetAdjective](이)가 §Y영유권을 주장§! 하거나 §Y핵심 주§!인 지역이나 운하 같은 §Y요충지§!는 포함하지 §R않을 것§!입니다. [return_to.GetAdjective](이)가 §Y영유권을 주장한§! 모든 지역도 그대로 가지고 있을 것입니다."
 kr.political.75.e:0 "모두 가지고 있을 것이다!"
 KR_will_not_return:0 "우리는 어떤 영토도 저들에게 반환하지 §R않을 것§!이고 다시 반환 요구를 받지도 않을 것입니다."
 
@@ -32,8 +38,11 @@ kr.political.76.t:0 "[From.GetNameDefCap](이)가 [Root.GetAdjective] 영토를 
 kr.political.76.d:0 "우리의 동맹인 [From.GetNameDefCap](이)가 우리가 과거에 소유하던 영토 중 일부를 반환해주었습니다!"
 kr.political.76.a:0 "좋았어!"
 
+KR_different_ideology_close:0 "다른 이념"
 KR_different_ideology:0 "다른 이념"
+KR_similar_ideology_close:0 "비슷한 이념"
 KR_similar_ideology:0 "비슷한 이념"
+KR_similar_ideology_distant:0 "비슷한 이념"
 KR_same_ideology:0 "같은 이념"
 KR_ideology_allowed:0 "장관이 해당국가의 이념을 허락함"
 KR_factional_rivalry:0 "당파 경쟁"
@@ -78,8 +87,9 @@ unit_limit_desc_above_limit:0 "\n\n--------------\n\n§RWe have currently exceed
 
 unit_limit_major_power_desc:0 "\n   - Major Power/Head of Faction: §G+15%§!"
 unit_limit_world_tension_desc:0 "\n   - World Tension 70% or higher: §G+5%§!"
-unit_limit_was_capped_desc:0 "\n   - Uncapped Total: §W[?net_max_divisions]§!\n   - Division Limit Cap (from [unit_limit_economy_law]): §W[?upper_limit]§!"
-unit_limit_manpower_used_desc:0 "\n\n   Because the total provided by factories was lower than that provided by Total Manpower (§W[?lower_limit_from_manpower]§!}, that was used instead."
+unit_limit_was_capped_desc:0 "\n   - Uncapped Total: §W[?net_max_divisions]§!"
+unit_limit_cap_used_desc:0 "\n\n   The maximum supported divisions cannot be higher than §W[?upper_limit]§! (from [unit_limit_economy_law])."
+unit_limit_manpower_used_desc:0 "\n\n   Because the total provided by factories was lower than that provided by Total Manpower (§W[?lower_limit_from_manpower]§!), that was used instead."
 unit_limit_num_states_used_desc:0 "\n\n   Because the total provided by factories was lower than the number of owned states (§W[?lower_limit_from_states]§!), that was used instead."
 unit_limit_default_used_desc:0 "\n\n   Because the total provided by factories was less than the default (§W5§!), that was used instead."
 unit_limit_bonus_used_desc:0 "\n\n   - Additional Modifiers: §G+[?upper_limit_unit_bonus]§! to cap"
@@ -101,6 +111,7 @@ KR_improving_popularity:0 "이미 정당 인기도를 향상시키고 있습니�
 KR_party_pop_less_than_50:0 "정당 인기도가 §Y50%§! 보다 낮음"
 KR_party_pop_more_than_75:0 "정당 인기도가 §Y75%§! 보다 많음"
 DIPLOMACY_DOCKING_RIGHTS:0 "정박권"
+is_ally_of_ROOT:0 "Is an ally of [ROOT.GetNameDef]"
 
 ### Decisions ###
 #political_actions:0 "정치적 행동" duplicate

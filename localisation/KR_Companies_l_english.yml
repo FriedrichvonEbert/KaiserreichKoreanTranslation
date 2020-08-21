@@ -762,7 +762,7 @@ raffineria_livorno:0 "Raffineria di Livorno"
 universita_torino:0 "토리노 대학교"
 
 ### Somalia ###
-korna_isletmeleri:0 "코르나 이슐레트멜레리"
+korna_isletmeleri:0 "Boynuz 이슐레트멜레리"
 mogadishu_university:0 "모가디슈 대학"
 warsangali_arsenal:0 "와르상갈리 황립 조병창"
 majeerteen_armory:0 "마제르틴 조병창"
@@ -781,6 +781,11 @@ marmon_herrington_south_africa:0 "마몬-해링턴 남아프리카"
 south_african_railways:0 "남아프리카 철도"
 de_havilland_south_africa:0 "드 하빌랜드 남아프리카"
 south_african_vickers:0 "빅커스-암스트롱 남아프리카"
+elgin_brown_and_hamer:0 "Elgin, Brown & Hamer"
+retief_de_ville_co:0 "Retief, De Ville & Co."
+anglo_american:0 "Anglo American Corporation"
+engen_petroleum:0 "Engen Petroleum"
+directorate_of_supplies:0 "Directorate of Supplies"
 
 ### Spain ###
 altos_hornos:0 "알토즈 호르노즈 드 비즈카야"
@@ -918,7 +923,6 @@ arsenal_tallinn:0 "아스널 탈린"
 vairogs:0 "바이록스"
 rigas_autobusu_fabrika:0 "Rīgas Autobusu Fabrika"
 sef:0 "SEF"
-vef:0 "VEF"
 liepajas_kara:0 "Liepājas Kara Ostas Darbnīcas"
 riga_shipyard:0 "Rīgas Kuģu Būvētava"
 
@@ -939,9 +943,9 @@ acr:0 "ACR"
 armo:0 "ARMO"
 ganz_albania:0 "Ganz Albania"
 hekurudha_shqiptare:0 "Hekurudha Shqiptare"
-pasha_liman_kantjerin:0 "Pasha Liman Kantjerin"
-albatros_albania:0 "알바트로스 "
-arsenal_ushtria_tirane:0 "Arsenal Ushtria Tiranë"
+pasha_liman_kantjerin:0 "Kanteri i Pashë Alimanit"
+albatros_albania:0 "Albatros Albanien"
+arsenal_ushtria_tirane:0 "Arsenali i Ushtrisë, Tiranë"
 
 ### Germany ###
 krupp:0 "크루프"
@@ -1159,6 +1163,22 @@ WLL_Andre_Becquet_mil_th:0 "André Becquet"
 ### Nejd ###
 mitteleuropa_weaponry:0 "중앙유럽 무기"
 
+### Natal ###
+nat_south_african_steel_and_iron:0 "South African Iron and Steel Industrial Corp."
+nat_university_of_cape_town:0 "University of Cape Town"
+nat_african_explosives:0 "African Explosives and Industries"
+nat_pretoria_mint:0 "Pretoria National Mint"
+nat_dorman_long:0 "Dorman Long"
+nat_marmon_herrington_south_africa:0 "Marmon-Herrington South Africa"
+nat_south_african_railways:0 "South African Railways"
+nat_de_havilland_south_africa:0 "de Havilland South Africa"
+nat_south_african_vickers:0 "Vickers-Armstrong South Africa"
+nat_elgin_brown_and_hamer:0 "Elgin, Brown & Hamer"
+nat_retief_de_ville_co:0 "Retief, De Ville & Co."
+nat_anglo_american:0 "Anglo American Corporation"
+nat_engen_petroleum:0 "Engen Petroleum"
+nat_directorate_of_supplies:0 "Directorate of Supplies"
+
 ### Venezuela ###
 VEN_sivensa:0 "Siderúrgica Venezolana S.A."
 VEN_cvp:0 "Corporación Venezolana del Petróleo"
@@ -1167,3 +1187,8 @@ VEN_dmm:0 "División Metal-mecánica de la CAVIM"
 VEN_iafe:0 "Instituto Autónomo Ferrocarriles del Estado"
 VEN_eam:0 "Escuela de Aviación Militar"
 VEN_env:0 "Escuela Naval de Venezuela"
+
+### West Indies ###
+royal_jamaican_armory:0 "Royal Jamaican Armory"
+kingston_dockyards:0 "Kingston Dockyards"
+de_havilland_wif:0 "de Havilland Guyana"

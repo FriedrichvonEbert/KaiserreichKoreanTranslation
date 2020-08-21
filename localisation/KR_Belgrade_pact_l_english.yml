@@ -306,55 +306,7 @@ pact.80.a:0 "우리는 이 일을 절대 잊지 않을 것이다!"
 
 pact.81.t:0 "종전"
 pact.81.d:0 "세르비아와의 전쟁은 끝났고, 드디어 우리의 국경은 정상적으로 되돌아가고 있습니다."
-pact.81.a:0 "드디어 끝난군"
-
-pact.100.t:0 "협약의 참전"
-pact.100.d:0 "이제 우리는 전쟁에 돌입했으며, 우리는 [SER.GetNameDef](와)과 어깨를 나란히 해야 할 필요가 있습니다!"
-pact.100.a:0 "빠른 항복은 없다, 절대로!"
-
-pact.101.t:0 "종전"
-pact.101.d:0 "전쟁이 마침내 끝났으며, 협약은 전반적으로 버텨냈습니다."
-pact.101.a:0 "정말 다행이군!"
-
-pact.102.t:0 "오스트리아는 우리의 목표다"
-pact.102.d:0 "기회가 생겼을 때 최대한 빨리 공격해야 합니다!"
-pact.102.a:0 "드디어!"
-
-pact.103.t:0 "오스트리아는 더 이상 우리의 목표가 아니다"
-pact.103.d:0 "물러나야할 때입니다!"
-pact.103.a:0 "흠, 좋다."
-
-pact.104.t:0 "오스트리아는 우리의 목표다"
-pact.104.d:0 "기회가 생겼을 때 최대한 빨리 공격해야 합니다!"
-pact.104.a:0 "드디어!"
-
-pact.105.t:0 "오스트리아는 더 이상 우리의 목표가 아니다"
-pact.105.d:0 "물러나야할 때입니다!"
-pact.105.a:0 "흠, 좋다."
-
-pact.106.t:0 "오스트리아는 우리의 목표다"
-pact.106.d:0 "기회가 생겼을 때 최대한 빨리 공격해야 합니다!"
-pact.106.a:0 "드디어!"
-
-pact.107.t:0 "오스트리아는 더 이상 우리의 목표가 아니다"
-pact.107.d:0 "물러나야 할 때입니다!"
-pact.107.a:0 "흠, 좋다."
-
-pact.108.t:0 "오스트리아는 우리의 목표입니다"
-pact.108.d:0 "기회가 생겼을 때 최대한 빨리 공격해야 합니다!"
-pact.108.a:0 "드디어!"
-
-pact.109.t:0 "오스트리아는 더 이상 우리의 목표가 아닙니다"
-pact.109.d:0 "물러나야 할 때입니다!"
-pact.109.a:0 "흠, 좋다."
-
-annexation_DOBROGEA_CONQ:0 "도브루자의 상황"
-annexation_DOBROGEA_CONQ_desc:0 "우리는 도브루자 지역을 점령했으며, 이제 영유권을 주장하는 동맹국에게 할양해야 합니다."
-pact.111.a:0 "[ROM.GetNameDef]에게 주어라."
-pact.111.b:0 "[BUL.GetNameDef]에게 주어라."
-pact.111.f:0 "[SER.GetNameDef]에게 주어라."
-pact.111.c:0 "영토를 분할하라."
-pact.111.e:0 "그대로 갖고 있자."
+pact.81.a:0 "드디어 끝났군."
 
 annexation_SALONICA_CONQ:0 "The Status of Salonica"
 annexation_SALONICA_CONQ_desc:0 "We have taken control of the region of Salonica and must now decide what to do with it."
@@ -376,20 +328,19 @@ pact.201.d:0 "Today we received a message from the Serbian Embassy, inviting us 
 pact.201.a:0 "Very well, we shall attend."
 
 pact.202.t:0 "Possible New Allies"
-pact.202.d.ITA:0 ""
-pact.202.d.POL:0 ""
-pact.202.d.ITA_POL:0 ""
-pact.202.d:0 ""
+pact.202.d.ITA:0 "The Balkan states are not the only ones which have territorial grievances against the Habsburg Empire. Even if you do not count the competing ethnicities making it up within, the countries surrounding it all have brethren to free from this 'prison of nations'. As Austria is far more powerful than the Balkan states combined, we need to consider these possible new allies.\n\nDuring the Italian civil war, the Austrians ripped off a piece of Italy and established a vassal republic in Milan. They could not suppress it for long, however, and now an extreme revanchist government is in control of [ITA.Capital.GetName], led by [ITA.GetLeader], which seeks to reclaim all Italian lands - including those held by Austria.\n\nPerhaps they can be persuaded to join our cause?"
+pact.202.d.POL:0 "The Balkan states are not the only ones which have territorial grievances against the Habsburg Empire. Even if you do not count the competing ethnicities making it up within, the countries surrounding it all have brethren to free from this 'prison of nations'. As Austria is far more powerful than the Balkan states combined, we need to consider these possible new allies.\n\nFor decades, Poland had been in a political deadlock, but it has been broken, and a revanchist government led by [POL.GetLeader] is now in charge. Galicia, inhabited by Poles, is one of its territorial claims, which puts them on the path of war with Austria.\n\nPerhaps they can be persuaded to join our cause?"
+pact.202.d.ITA_POL:0 "The Balkan states are not the only ones which have territorial grievances against the Habsburg Empire. Even if you do not count the competing ethnicities making it up within, the countries surrounding it all have brethren to free from this 'prison of nations'. As Austria is far more powerful than the Balkan states combined, we need to consider these possible new allies.\n\nDuring the Italian civil war, the Austrians ripped off a piece of Italy and established a vassal republic in Milan. They could not suppress it for long, however, and now an extreme revanchist government is in control of [ITA.Capital.GetName], led by [ITA.GetLeader], which seeks to reclaim all Italian lands - including those held by Austria.\n\nFor decades, Poland had been in a political deadlock, but it has been broken, and a revanchist government led by [POL.GetLeader] is now in charge. Galicia, inhabited by Poles, is one of its territorial claims, which puts them on the path of war with Austria.\n\nPerhaps they can be persuaded to join our cause?"
 pact.202.a:0 "All help is welcome."
 pact.202.b:0 "Don't bother."
 
 pact.203.t:0 "An invitation to Belgrade"
-pact.203.d:0 ""
+pact.203.d:0 "The Balkan states, having jointly defeated Bulgaria and now led by Serbia, now turn their sights north, towards the Austro-Hungarian Empire - and as their interests align with ours, the Serbian government has reached out to us with a proposal - an invitation to Belgrade to attend in the Second Congress, where the delegates will decide on joint action against Austria. What should be our response?"
 pact.203.a:0 "Very well, we shall attend."
 pact.203.b:0 "This is a waste of time."
 
 pact.204.t:0 "[FROM.GetNameDefCap] Agrees to Attend"
-pact.204.d:0 ""
+pact.204.d:0 "The foreign ministry of [FROM.GetNameDef] has written back to us, informing us that they agree to join our common cause against Austria."
 pact.204.a:0 "Excellent."
 
 pact.205.t:0 "The Delegates Arrive" #use GetCongressMembers for the list

@@ -93,6 +93,7 @@ ANQ_no_reconstruction_aid:0 "봉천정부는 우리를 원조하지 않기로 �
 
 ## Tooltips ##
 anq_25_army_xp_tt:0 "§Y25§! £army_experience"
+anq_25_army_xp_tt_blocked:0 "§R25§! £army_experience"
 
 anq_gains_national_spirit:0 "국민정신 획득"
 
