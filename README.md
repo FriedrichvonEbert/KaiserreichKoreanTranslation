@@ -3,8 +3,8 @@
 ## [Kaiserreich 한국어 번역](https://steamcommunity.com/sharedfiles/filedetails/?id=2098453801)은 공개 번역으로 진행됩니다.
 - 따라서 누구든지 Github 가입 후 자유롭게 참여하실 수 있습니다! 
 - 번역팀 디스코드 주소 : https://discord.gg/fGPdPFP
-### [0.13.2 패치노트](https://www.reddit.com/r/Kaiserreich/comments/i1gkn5/hotfix_0132_is_out/)
-- 20.08.01. 기준 한국어 번역 0.13.2 호환 작업이 완료되었습니다.
+### [0.14 패치노트](https://www.reddit.com/r/Kaiserreich/comments/idpmze/kaiserreich_beta_014_a_duke_and_his_hertzog/)
+- 20.08.22. 기준 한국어 번역의 0.14 호환 작업이 완료되었습니다.
 ***
 
 ## 번역 방법 [(이 곳을 눌러 이동)](https://github.com/skullbe/Kaiserreich-Korean-Translation/wiki/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%A0%80%EC%9E%A5%EB%B2%95)
