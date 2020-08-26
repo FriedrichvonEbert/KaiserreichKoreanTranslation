@@ -224,16 +224,16 @@ SER_The_Republican_Proclamation:0 "공화국의 선포"
 SER_The_Republican_Proclamation_desc:0 "이제 섭정 따위는 없습니다! 임시 대통령 슬로보단 요바노비치는 폭정과 압제로부터 자유로운 민주주의 국가의 이상을 토대로 세르비아 공화국을 선포했습니다. 인민들이 우리 편이므로, 잃어버린 영토를 수복하는 것 역시 시간문제에 불과합니다."
 
 SER_Draft_A_Constitution:0 "헌법 초안 작성"
-SER_Draft_A_Constitution_desc:0 "The current constitution is clearly inadequate for our fledgling new republic. With the aim of building a stable and prosperous democracy for all Serbs, we will have to draft a new one that truly represent republican Serbia's values."
+SER_Draft_A_Constitution_desc:0 "현행 헌법은 우리의 신생 공화국에는 분명히 맞지 않습니다. 모든 세르비아인들을 위하여 안정되고 발전된 민주주의의 토대를 닦는 것에 집중하고, 세르비아 공화국의 가치를 진실하게 나타내낼 수 있는 새로운 헌법의 초안을 작성해야 합니다."
 
 SER_Free_The_Vojvodas_Prisoners:0 "보이보다 정치범 석방"
-SER_Free_The_Vojvodas_Prisoners_desc:0 "The Vojvoda had no qualms with imprisoning political opponents and dissidents and a number of democrats remain in jail under flimsy pretexts. Liberating political prisoners is an action that will speak louder than words and clearly show our commitment to pluralism and democracy."
+SER_Free_The_Vojvodas_Prisoners_desc:0 "보이보다는 얄팍한 핑계로 정치적 반대파와 반체제 인사, 그리고 많은 민주주의자들을 수감하는 것에 아무런 거리낌도 없었습니다. 정치범들을 풀어주는 것은 다원주의와 민주주의에 대한 우리의 약속을 명확하게 보여주는 행동입니다."
 
 SER_A_Nascent_Balkan_Democracy:0 "발칸 민주주의의 태동"
-SER_A_Nascent_Balkan_Democracy_desc:0 "To some, a free and liberal democracy in the middle of a region as unstable as the Balkans seems impossible, but President Jovanovic has built one against the odds. With the constitution proglamated and civilian rule restored, it is time for the provisional President to resign his post and welcome in a new age."
+SER_A_Nascent_Balkan_Democracy_desc:0 "어떤 이들은 발칸반도처럼 불안정한 지역의 한가운데에서는 자유 민주주의가 불가능하다고 말합니다. 그러나 요바노비치 대통령은 모든 역경을 딛고서 자유 민주주의를 세웠습니다. 헌법이 적용되고 민정이 회복되었으니 임시 대통령이 사임하고 새로운 시대를 맞이할 때입니다."
 
 SER_Restore_Local_Governance:0 "지역자치 복권"
-SER_Restore_Local_Governance_desc:0 "Successive Serbian governments have followed a policy of centralization. While this has had benefits for sure, it also hurt grassroot movements and local democratic processes. Restoring local governments will help rebuild democratic values at a regional and municipal level."
+SER_Restore_Local_Governance_desc:0 "이전의 세르비아 정부에서는 중앙집권화 정책을 추진했습니다. 이러한 정책은 확실히 유용했지만 풀뿌리 지방정부와 지역 민주주의 의사결정 과정에 피해를 주었습니다. 지방 정부의 회복은 지방에서의 민주적 가치들을 재건하는 데에 도움을 줄 것입니다."
 
 SER_Implement_The_Pasic_Manifesto:0 "파시치의 유지를 잇다"
 SER_Implement_The_Pasic_Manifesto_desc:0 "Nikola Pasic was possibly the greatest statesman in Serbian history. A leading light for over 30 years, Pasic’s political programme was one of wide-reaching reforms; in the press, the judiciary and the schools. The Regency undid much of his hard work, and it is our duty to honour his legacy."
@@ -241,55 +241,55 @@ SER_Implement_The_Pasic_Manifesto_desc:0 "Nikola Pasic was possibly the greatest
 SER_Open_The_Serbian_Economy:0 "세르비아 경제 개방"
 SER_Open_The_Serbian_Economy_desc:0 "For too long, the Serbian economy has been weak and isolated from the great powers. Now, with the freedom to chart our own path, we have an opportunity to reverse this isolation. Establishing new international trade deals and projects with our neighbours and beyond can only be a boon to the economy."
 
-SER_Farming_Subsidies:0 "Farming Subsidies"
+SER_Farming_Subsidies:0 "농업 보조금"
 SER_Farming_Subsidies_desc:0 "The Austrians took a lot from us, and this included swathes of livestock from our farmers. This government initiative seeks to further subsidise our farmers, to allow our agriculture sector to return to pre-Weltkrieg levels of production."
 
-SER_Continue_The_Mechanisation_Efforts:0 "Continue the Mechanisation Efforts"
+SER_Continue_The_Mechanisation_Efforts:0 "기계화 노력 지속"
 SER_Continue_The_Mechanisation_Efforts_desc:0 "A modern economy requires modern tools and know-how. Mechanisation will undoubtably increase the productivity of a largely-agrarian people, even if it is a long and expensive process."
 
-SER_Invest_In_Zadrugar:0 "Invest in Zadrugar"
+SER_Invest_In_Zadrugar:0 "Zadrugar에 투자"
 SER_Invest_In_Zadrugar_desc:0 "As part of our agricultural mechanisation process, we need the industry to support it as demand for tractors, spare parts, and maintenance sharply rise. Thankfully, the Serbian company Zadrugar specializes in this industrial sector. With extra help from the state, they will be able to meet these growing demands with more ease."
 
-SER_Rural_Credit_Banks:0 "Rural Credit Banks"
+SER_Rural_Credit_Banks:0 "농촌 신용 은행"
 SER_Rural_Credit_Banks_desc:0 "Simply put, credit is lacking in rural areas, often concentrated in urban areas instead. Rural credit banks are a growing presence in agrarian countries and Serbia is no exception. These banking systems, creating to give poor peasants access to much-needed financial support and credit, require increased government support to help grow rural economies."
 
-SER_Emergency_Economic_Relief:0 "Emergency Economic Relief"
+SER_Emergency_Economic_Relief:0 "비상 경제 구제"
 SER_Emergency_Economic_Relief_desc:0 "Black Monday has hit the entirety of Europe severely and Serbia has, sadly, been no exception. Emergency measures must be enacted quickly to help those poor Serbs that have fallen to hard times to no fault of their own. Until the economy gets back on track, we must ensure that as few Serbs as possible are out starving in the streets."
 
-SER_Modernise_Belgrade:0 "Modernise Belgrade"
+SER_Modernise_Belgrade:0 "베오그라드 현대화"
 SER_Modernise_Belgrade_desc:0 "While the capital has recovered from the destruction of the Weltkrieg, Belgrade remains relatively underdeveloped compared to other European capitals. More effort and investment are required to bring the great city into the modern world."
 
-SER_Resume_Cash_Crop_Exportation:0 "Resume Cash Crop Exportation"
+SER_Resume_Cash_Crop_Exportation:0 "환금 작물 수출"
 SER_Resume_Cash_Crop_Exportation_desc:0 "Serbia retains a very agrarian economy, but its isolation and the recent economic troubles did severe damage to its major imports. With the economy market prices largely stabilized, we can resume agricultural exports and invest these profits."
 
-SER_Form_The_State_Railway_Directorate:0 "Form the State Railway Directorate"
+SER_Form_The_State_Railway_Directorate:0 "주 철도청 설치"
 SER_Form_The_State_Railway_Directorate_desc:0 "Currently, our various railways are controlled by three different, competing organisations, which makes investment and expansion an ardious process. To streamline this, we will centralise the directorates into the Serbian State Railway Directorate."
 
-SER_Overhaul_Narrow_Gauge_Railways:0 "Overhaul Narrow Gauge Railways"
+SER_Overhaul_Narrow_Gauge_Railways:0 "협궤 철도 점검"
 SER_Overhaul_Narrow_Gauge_Railways_desc:0 "Because of Serbia's geography, the nation has many lines using a narrow-gauge to limit expenses and traverse rough terrain with more ease. However, these lines have seen better days and were often built under lower standards and could use a general overhaul to improve their capacity and quality."
 
-SER_Expand_The_Bor_Mines:0 "Expand the Bor Mines"
+SER_Expand_The_Bor_Mines:0 "Bor 광산 확장"
 SER_Expand_The_Bor_Mines_desc:0 "Serbia has a significant mining industry and the mines in Bor could be expanded further with some increased government support. This will help us extract more resources in Eastern Serbia and increase our economic independence."
 
-SER_Expand_The_Radinac_Steel_Mill:0 "Expand the Radinac Steel Mill"
+SER_Expand_The_Radinac_Steel_Mill:0 "라디나츠 제철소 확대"
 SER_Expand_The_Radinac_Steel_Mill_desc:0 "The steel mill in Radinac is one of Serbia's few and most important steel producers. Expanding it will reduce our reliance on imports, as steel is the base of most heavy industries."
 
-SER_Found_FOMU:0 "Found FOMU"
+SER_Found_FOMU:0 "FOMU 설립"
 SER_Found_FOMU_desc:0 "The Weapons and Munitions Factory in Uzice, or FOMU, is one of Serbia's most important producers of military equipment and, of course, munitions. All will be needed in the future as a storm brews over the Balkan region."
 
-SER_Form_The_Military_Council:0 "Form the Military Council"
+SER_Form_The_Military_Council:0 "군사 위원회"
 SER_Form_The_Military_Council_desc:0 "Proposed by General Milan Nedic in years gone by, a Reform Council would go a long way to expand and modernise our fledgling Army. With the Austrians off our back, its time to follow up on Nedic's proposal and commence his reforms."
 
-SER_Organise_The_Chetniks:0 "Organise the Chetniks"
+SER_Organise_The_Chetniks:0 "체트니크 조직화"
 SER_Organise_The_Chetniks_desc:0 "Ever since the end of the Weltkrieg, the Serbian Chetniks that fought so bravely through an ultimately doomed war have been divided and aimless. By bringing their commanders together, we can foster a unified 'Association of Chetniks' that can effectively fight for Serbian interests."
 
-SER_Modernise_The_Engineering_Battalions:0 "Modernise the Engineering Battalions"
+SER_Modernise_The_Engineering_Battalions:0 "공병대 현대화"
 SER_Modernise_The_Engineering_Battalions_desc:0 "An unexpected result of our rapid re-armament following the Occupation has come to the surface. Though our frontline troops are effective, our support units have been figuratively left behind. The Reform Council has plans for their modernisation, and thus they've been put into effect."
 
-SER_Support_Zastava:0 "Support Zastava"
+SER_Support_Zastava:0 "자스타바 지원"
 SER_Support_Zastava_desc:0 "Zastava is one of Serbia's oldest company and its main producer of firearms and artillery pieces. Supporting them will inevitably be beneficial as we continue to rearm and re-equip our military."
 
-SER_Training_The_New_Guard:0 "Training the New Guard"
+SER_Training_The_New_Guard:0 "새로운 군인 훈련"
 SER_Training_The_New_Guard_desc:0 "The Weltkrieg ended many years ago, and much of the Old Guard has either died or moved on. It's high time to train a new class of officers to lead our troops, armed with the vital knowledge of their predecessors."
 
 SER_Modern_Howitzers:0 "Modern Howitzers"
@@ -301,13 +301,13 @@ SER_New_Army_Tactics_desc:0 "War has changed. What worked two decades ago will n
 SER_Begin_Mechanisation:0 "Begin Mechanisation"
 SER_Begin_Mechanisation_desc:0 "Until today, the Serbian Army has been built upon the strength of the soldier. However, with the never-ending march of technology, motor vehicles have become a key asset to increasing the soliders effectiveness. From now on, we will motorise our forces, making them both faster and more well rested."
 
-SER_Import_Entente_Armour_Designs:0 "Import Entente Armour Designs"
+SER_Import_Entente_Armour_Designs:0 "협상국 장갑 설계 수입"
 SER_Import_Entente_Armour_Designs_desc:0 "In the modern world, the premier Armoured technology is split between the Syndicalists, the Germans and our old allies across the Atlantic. It is time to pay our friends in Ottawa a visit, to hopefully secure a regiment of tanks for the army to utilise in the future."
 
-SER_Lessons_Of_The_War:0 "Lessons of the War"
+SER_Lessons_Of_The_War:0 "전쟁의 수업"
 SER_Lessons_Of_The_War_desc:0 "As glorious as our victory over Bulgaria was, it wasn't a flawless one. Armed with vital experience from the frontlines, the Reform Council has already drawn up plans to overcome the mistakes we made, and its time to put them into action."
 
-SER_Serbian_Mountain_Corps:0 "Serbian Mountain Corps"
+SER_Serbian_Mountain_Corps:0 "세르비아 산악병"
 SER_Serbian_Mountain_Corps_desc:0 "Terrain in the Balkans is very mountainous, especially in the lands we with to reclaim. To assist in the wars to come, the Reform council is planning the raising of a new, dedicated Mountain Corps. Equipped with the best weaponry and led by the best generals, they'll be our most elite forces."
 
 SER_Mihailovics_Redoubt:0 "Mihailovic's Redoubt"
