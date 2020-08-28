@@ -92,14 +92,15 @@ ANQ_feng_aid_undecided:0 "봉천정부의 재건 원조는 결정되지 않았�
 ANQ_no_reconstruction_aid:0 "봉천정부는 우리를 원조하지 않기로 하였다"
 
 ## Tooltips ##
-anq_25_army_xp_tt:0 "§Y25§! £army_experience"
-anq_25_army_xp_tt_blocked:0 "§R25§! £army_experience"
+anq_25_army_xp_doctrine_tt:0 "§Y25§! £army_experience"
+anq_25_army_xp_doctrine_tt_blocked:0 "§R25§! £army_experience"
 
 anq_gains_national_spirit:0 "국민정신 획득"
 
 cred_check:0 "§Y80 £anq_credibility §!보다 높음"
 
 anq_decrease_cred_1:0 "§R-1§!에 £anq_credibility §Y신뢰성§!을 더합니다\n"
+anq_decrease_cred_2:0 "§R-2§!에 £anq_credibility §Y신뢰성§!을 더합니다\n"
 anq_decrease_cred_5:0 "§R-5§!에 £anq_credibility §Y신뢰성§!을 더합니다\n"
 anq_decrease_cred_10:0 "§R-10§!에 £anq_credibility §Y신뢰성§!을 더합니다\n"
 anq_decrease_cred_20:0 "§R-20§!에 £anq_credibility §Y신뢰성§!을 더합니다\n"
@@ -184,6 +185,9 @@ anq_mineral_prospecting_with_qing_tt:0 "자원을 채굴할 선택지들이 해�
 anq_unlocks_future_canal_qing_authority_tt:0 "청과 함께 운하와 제방을 건설할 선택지들이 해금되었습니다.\n"
 anq_no_future_improvements_army_coop_tt:0 "§이에 R거부한다면 더 이상 혜택을 얻지 못할 것입니다!§!\n"
 anq_find_steel_resources_tt:0 "§Y강철 자원§!을 개발할 £decision_icon_small §H결정§!이 해금되었습니다.\n"
+
+anq_anger_mt_5_tt:0 "§YQing Anger§! must be 5 or higher.\n"
+anq_high_anger_risk_tt:0 "§RDue to high §YQing Influence§!, §YQing Anger§! will rise more rapidly and lead to greater consequences. Be careful refusing them!§!"
 
 anq_two_divisions_qing_land:0 "§Y[QIE.GetNameWithFlag]§!(와)과의 전쟁으로 훈련이 완료되고, 1936년의 보병 장비를 지닌 £nato_unit_infantry_icon_small §Y보병 사단§! 2개를 얻게됩니다.\n"
 
@@ -434,7 +438,7 @@ ANQ_purged_military_desc:0 "난징에 탄탄한 정부를 수립하기 위해 �
 ANQ_purged_bureaucracy:0 "관료 숙청"
 ANQ_purged_bureaucracy_desc:0 "쑨촨팡에 의해 뭉친 난징의 관료들은 계속 우리에게 저항하여 난징에 통치를 확립하기 힘들게 하고 있습니다. 그들은 이제 숙청되어야 합니다."
 ANQ_purged_both:0 "난징 숙청"
-ANQ_purged_both_desc:0 "난징에 더욱 확고한 통제를 수립하고 우리가 진정 과거의 부패한 지도자들을 제거하려함을 인민들에게 보여주기 위하여, 최근 치셰위안이나 쑨촨팡과 깊은 연결을 가지던 요인들에 대해 §Y군대 숙청§!과 §Y관료 숙청§!을 지시했습니다."
+ANQ_purged_both_desc:0 "난징에 더욱 확고한 통제를 수립하고 우리가 진정 과거의 부패한 지도자들을 제거하려함을 인민들에게 보여주기 위하여, 최근 쑨촨팡이나 치셰위안과 깊은 연결을 가지던 요인들에 대해 §Y군대 숙청§!과 §Y관료 숙청§!을 지시했습니다."
 
 ANQ_japanese_troop_training:0 "일본인 주도의 군대 훈련"
 ANQ_japanese_troop_training_desc:0 "많은 수의 봉천 및 일본 훈련 교관이 소속된 군사 임무는 연합과의 전쟁을 더욱 빨리 치를 수 있도록 돕고 있습니다."

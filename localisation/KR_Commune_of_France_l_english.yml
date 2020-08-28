@@ -206,7 +206,7 @@ phalanstere_research_name:0 "팔랑스테르 인터내셔널"
 phalanstere_research_desc:0 "케임브리지 대학의 회의에서 생디칼리슴 국가들의 기술 발전을 결합하기 위한 전세계적인 계획의 수립이 결정되었습니다. 이 계획은 이후 세계의 생디칼리슴 정권을 돕는 것을 목표로 한 더 야심찬 계획인 팔랑스테르 인터내셔널(Phalanstère International)로 진화했습니다."
 
 FRA_tech_marine_bonus:0 "넵튠 부대"
-tech_marine_bonus_effect:0 "해금 §H넵튠 부대\n해병§!\n      대 보병 공격: §G+5%§!\n      대 기갑 공격: §G+5%§!\n"
+FRA_tech_marine_bonus_effect:0 "해금 §H넵튠 부대\n해병§!\n      대 보병 공격: §G+5%§!\n      대 기갑 공격: §G+5%§!\n"
 
 ### Focuses ###
 commune_of_france_focus:0 "프랑스 코뮌 중점계통도"
@@ -947,12 +947,13 @@ comfrance.169.d:0 "이제 이탈리아의 '균형'에 대한 모든 논의가 �
 comfrance.169.a:0 "드디어!"
 comfrance.169.b:0 "1초만 더 생각해보자..."
 
-#French News#
-frenchnews.1000.t:0 "가믈랭의 파리 행진"
-frenchnews.1000.d:0 "A few days ago, General Maurice Gamelin, launched a successful coup against the Jacobin regime of Marcel Déat. While this seems like a staunch attack on the commune’s democratic system, many argue that the Jacobins would have destroyed the democratic system if not for Gamelin’s intervention. Gamelin has promised to restore France to traditional syndicalism, and the process of De-Jacobinisation is already taking place. It is still unknown how his plans will turn out. We can only wait..."
-frenchnews.1000.a:0 "거짓없이, 정말로 놀랍군."
+comfrance.1000.t:0 "가믈랭의 파리 행진"
+comfrance.1000.d:0 "A few days ago, General Maurice Gamelin, launched a successful coup against the Jacobin regime of Marcel Déat. While this seems like a staunch attack on the commune’s democratic system, many argue that the Jacobins would have destroyed the democratic system if not for Gamelin’s intervention. Gamelin has promised to restore France to traditional syndicalism, and the process of De-Jacobinisation is already taking place. It is still unknown how his plans will turn out. We can only wait..."
+comfrance.1000.a:0 "거짓없이, 정말로 놀랍군."
 
 ### Decisions ###
+FRA_integration_decisions:0 "Territorial Integration"
+FRA_integrate_state:0 "Integrate [From.GetName]"
 
 FRA_liberate_europe_category:0 "유럽 해방"
 FRA_liberate_europe_category_desc:0 "유럽에서의 승리는 우리의 것입니다! 부르주아의 운명은 우리의 자비에 달려 있습니다. 이 기회에 혁명을 부채질하여 유럽 대륙을 사회주의의 요새로 만들 것입니다."

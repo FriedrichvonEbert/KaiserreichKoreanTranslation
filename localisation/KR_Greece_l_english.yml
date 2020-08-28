@@ -170,6 +170,7 @@ GRE_germany_not_still_upset:0 "[GER.GetNameDefCap] 는 §Y산업의 국유화§!
 GRE_lands_to_claim:0 "§Y[GRE.GetNameDef]§!가 영유권 주장을 하고  주입니다. "
 GRE_allies_capitulated:0 "그리스가 영유권을 주장하고 있는 땅을 소유하고 있는 모든 동맹국들은 항복했습니다."
 GRE_balkan_war_loss:0 "Greece participated in and lost the Balkan War\n"
+GRE_unlock_megali_war:0 "Unlocks Decision: £decision_icon_small §HReclaim Greek Lands§!"
 
 ### Focuses ###
 GRE_black_monday_focus:0 "검은 월요일"
@@ -728,8 +729,8 @@ gre.159.a:0 "오늘은 슬픈 날이구나."
 gre.160.t:0 "우리는 살아남았다"
 gre.160.d:0 "[GRE.GetNameDefCap]는 더 이상 없습니다. 그리고 우리는 살아남았습니다. 우리가 이겼습니다." 
 gre.160.a:0 "우리는 살아남았다."
-gre.161.t:0 "[GRE.GetNameDef] 를 공격하자"
-gre.161.d:0 "준비는 끝났습니다. 이제[GRE.GetNameDef] 로 진격할 때입니다!"
+gre.161.t:0 "[GRR.GetNameDefCap]"
+gre.161.d:0 "준비는 끝났습니다. 이제 [GRE.GetNameDef]로 진격할 때입니다!"
 gre.161.a:0 "진격하자!"
 gre.200.t:0 "[GRE.GetNameDef]로 부터의 외교적 접근 "
 gre.200.d:0 "19세기 투르크 통치에 반발해 일어난 반란 이후 우리와 그리스인들의 사이는 냉랭했지만 오늘날 우리는 [GRE.GetNameDef] 로부터 양국간 새로운 평화의 시대를 열 외교사절을 받았습니다. 그들은 전쟁 없이, 영토와 인구 교환이 이루어짐으로써 평화를 이룩할 수 있다고 말하고 있습니다."
