@@ -156,14 +156,14 @@ SER_Local_Designs_tooltip:0 "항공기 설계사 해금: §H아에로푸트§!, 
 SER_The_Serbian_Airforce_tooltip_RUS:0 "§H러시아 조언가§!와 §H국산 설계§!를 §H세르비아 공군 교리§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
 SER_The_Serbian_Airforce_tooltip_NFA:0 "§H프랑스 조언가§!와 §H국산 설계§!를 §H세르비아 공군 교리§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
 
-SER_the_dream_of_yugoslavia_tooltip:0 "Gains National Spirit §HThe Dream of Yugoslavia§!, which grants\nDaily Political Power Cost: [?0.25|-=]\n§H[AUS.GetNameDefCap]§!:\n     Attack bonus against country: [?0.1|+=%1]\n     Defence bonus against country: [?0.1|+=%1]\n§H[CRO.GetNameDefCap]§!:\n     Attack bonus against country: [?0.1|+=%1]\n     Defence bonus against country: [?0.1|+=%1]\n§H[HUN.GetNameDefCap]§!:\n     Attack bonus against country: [?0.1|+=%1]\n     Defence bonus against country: [?0.1|+=%1]"
-SER_The_Dream_Fulfilled_tooltip:0 "Modify §HThe Dream of Yugoslavia§! by\nDaily Political Power Gain: [?0.35|+=]\nDivision Recovery Rate: [?0.05|+=%1]\nStability: [?0.05|+=%]"
+SER_the_dream_of_yugoslavia_tooltip:0 "다음의 효과를 가지는 §H유고슬라비아의 꿈§! 국민 정신을 획득합니다\n매일 정치력 획득: [?0.25|-=]\n§H[AUS.GetNameDefCap]§!:\n     해당 국가에 대한 공격력 보너스: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]\n§H[CRO.GetNameDefCap]§!:\n     Attack bonus against country: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]\n§H[HUN.GetNameDefCap]§!:\n     해당 국가에 대한 공격력 보너스: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]"
+SER_The_Dream_Fulfilled_tooltip:0 "§H유고슬라비아의 꿈§! 변동치\n매일 정치력 획득: [?0.35|+=]\n사단 회복률: [?0.05|+=%1]\n안정도: [?0.05|+=%]"
 
 SER_has_black_monday:0 "§H검은 월요일§! 국민정신을 가짐"
 SER_has_black_monday_NOT:0 "§H검은 월요일§! 국민정신을 가지지 않음"
 
 SER_accepted_bulgaria_union:0 "유고슬라비아 연방 수립을 위해 불가리아의 승인을 얻었습니다"
-SER_if_ENT_agrees:0 "If §H[ENT.GetFlag] [ENT.GetNameDef]§! agrees:"
+SER_if_ENT_agrees:0 "만약 §H[ENT.GetFlag] [ENT.GetNameDef]§! (이)가 승인할 시:"
 
 ### Focuses ###
 SER_Return_Of_The_Crown_Prince:0 "왕세자의 귀환"
@@ -247,7 +247,7 @@ SER_Farming_Subsidies_desc:0 "The Austrians took a lot from us, and this include
 SER_Continue_The_Mechanisation_Efforts:0 "기계화 노력 지속"
 SER_Continue_The_Mechanisation_Efforts_desc:0 "A modern economy requires modern tools and know-how. Mechanisation will undoubtably increase the productivity of a largely-agrarian people, even if it is a long and expensive process."
 
-SER_Invest_In_Zadrugar:0 "Zadrugar에 투자"
+SER_Invest_In_Zadrugar:0 "자드루가르에 투자"
 SER_Invest_In_Zadrugar_desc:0 "As part of our agricultural mechanisation process, we need the industry to support it as demand for tractors, spare parts, and maintenance sharply rise. Thankfully, the Serbian company Zadrugar specializes in this industrial sector. With extra help from the state, they will be able to meet these growing demands with more ease."
 
 SER_Rural_Credit_Banks:0 "농촌 신용 은행"
@@ -268,7 +268,7 @@ SER_Form_The_State_Railway_Directorate_desc:0 "Currently, our various railways a
 SER_Overhaul_Narrow_Gauge_Railways:0 "협궤 철도 점검"
 SER_Overhaul_Narrow_Gauge_Railways_desc:0 "Because of Serbia's geography, the nation has many lines using a narrow-gauge to limit expenses and traverse rough terrain with more ease. However, these lines have seen better days and were often built under lower standards and could use a general overhaul to improve their capacity and quality."
 
-SER_Expand_The_Bor_Mines:0 "Bor 광산 확장"
+SER_Expand_The_Bor_Mines:0 "보르 광산 확장"
 SER_Expand_The_Bor_Mines_desc:0 "Serbia has a significant mining industry and the mines in Bor could be expanded further with some increased government support. This will help us extract more resources in Eastern Serbia and increase our economic independence."
 
 SER_Expand_The_Radinac_Steel_Mill:0 "라디나츠 제철소 확대"
@@ -292,13 +292,13 @@ SER_Support_Zastava_desc:0 "Zastava is one of Serbia's oldest company and its ma
 SER_Training_The_New_Guard:0 "새로운 군인 훈련"
 SER_Training_The_New_Guard_desc:0 "The Weltkrieg ended many years ago, and much of the Old Guard has either died or moved on. It's high time to train a new class of officers to lead our troops, armed with the vital knowledge of their predecessors."
 
-SER_Modern_Howitzers:0 "Modern Howitzers"
+SER_Modern_Howitzers:0 "현대 곡사포"
 SER_Modern_Howitzers_desc:0 "General Nedic has always supported the doctrine of 'Overwhelming Firepower', and powerful artillery provides a strong backbone to his plans. Serbia's Howtizers used to be feared, and they will be feared again!"
 
-SER_New_Army_Tactics:0 "New Army Tactics"
+SER_New_Army_Tactics:0 "신식 육군 전술"
 SER_New_Army_Tactics_desc:0 "War has changed. What worked two decades ago will not work today, especially with the advent of the Airforce and the Tank. The Reform Council has resolved to train our soldiers and officers alike in the art of modern warfare."
 
-SER_Begin_Mechanisation:0 "Begin Mechanisation"
+SER_Begin_Mechanisation:0 "기계화 시작"
 SER_Begin_Mechanisation_desc:0 "Until today, the Serbian Army has been built upon the strength of the soldier. However, with the never-ending march of technology, motor vehicles have become a key asset to increasing the soliders effectiveness. From now on, we will motorise our forces, making them both faster and more well rested."
 
 SER_Import_Entente_Armour_Designs:0 "협상국 장갑 설계 수입"
@@ -313,7 +313,7 @@ SER_Serbian_Mountain_Corps_desc:0 "Terrain in the Balkans is very mountainous, e
 SER_Mihailovics_Redoubt:0 "Mihailovic's Redoubt"
 SER_Mihailovics_Redoubt_desc:0 "Colonel Draza Mihailovic is, no doubt, a controversial officer. However, he is also a visionary, with superb plans for ensuring Serbia’s defences are up to scratch in the case that our conquests backfire. Lets divert some funding and men to Mihailovic so he can create his ‘redoubt’, and hopefully he’ll stop interfering with the Council"
 
-SER_Expand_The_Serbian_Aviation_Command:0 "Expand the Serbian Aviation Command"
+SER_Expand_The_Serbian_Aviation_Command:0 "세르비아 공군 사령부 확장"
 SER_Expand_The_Serbian_Aviation_Command_desc:0 "The Serbian "Airforce" for a lack of a better term had no real chance against the Austrian/Hungarian Luftfahrtruppen. Now with those bastards reeling back, the Serbian High command has deemed it fit to expand it's air wing... now to find pilots to fly the damn things."
 
 SER_Seek_New_Expertise:0 "Seek New Aerial Expertise"
@@ -322,10 +322,10 @@ SER_Seek_New_Expertise_desc:0 "Serbia has but a handful of experienced pilots, a
 SER_Local_Munition_Efforts:0 "Local Munition Efforts"
 SER_Local_Munition_Efforts_desc:0 "Serbia, desiring to become more self-reliant, has began offering incentives to local artisans to produce munitions and arms. If this endeavour is to bear fruit, standardizarion will be needed, but the benefits will be tremenduous in the long run"
 
-SER_Doctrinal_Studies:0 "Doctrinal Studies"
+SER_Doctrinal_Studies:0 "교리 연구"
 SER_Doctrinal_Studies_desc:0 "Further studies are to be conducted if Serbia is to master the skies. Never again shall the enemy completely dominate our airspace."
 
-SER_The_Serbian_Airforce:0 "A True Serbian Airforce"
+SER_The_Serbian_Airforce:0 "진정한 세르비아 공군"
 SER_The_Serbian_Airforce_desc:0 "Serbia with the aid of foreign advisors and local talent, has now adopted a true "Serbian" air doctrine. S Bogom, za veru i otečestvo!!"
 
 SER_Fighter_Bomber_Acquisition:0 "Fighter-Bomber or Bomber Acquisition"
@@ -334,10 +334,10 @@ SER_Fighter_Bomber_Acquisition_desc:0 "With our selection made, we must now purc
 SER_Replace_Weltkrieg_Era_Planes:0 "Replace Weltkrieg-Era Planes"
 SER_Replace_Weltkrieg_Era_Planes_desc:0 "The Serbian Airfleet consist of several old airframes from the Weltkrieg, which the Austrians so "generously" allowed us to have. We must seek new designs to ensure we rule the Serbian skies."
 
-SER_Modernise_Airports:0 "Modernise Airports"
+SER_Modernise_Airports:0 "공항 현대화"
 SER_Modernise_Airports_desc:0 "The Airport in Belgrade has seen better days. Now with the Austrians gone, we can finally modernise this sorry excuse for an Airport and maybe remove a pot hole or three..."
 
-SER_Local_Designs:0 "Local Designs"
+SER_Local_Designs:0 "국산 설계"
 SER_Local_Designs_desc:0 "With our Engineers now having more access to foreign aeroplane designs, they have been able to draw up their own designs, allowing Serbia to further further self-reliant."
 
 SER_Crna_Gora_I_Srbija:0 "몬테네그로-세르비아"
@@ -352,25 +352,25 @@ SER_Prospecting_In_Niksic_desc:0 "The irresponsible Croat government in Zagreb n
 SER_Integrate_The_Montenegrin_Economy:0 "몬테네그로 경제 통합"
 SER_Integrate_The_Montenegrin_Economy_desc:0 "If we're to take full advantage of the booming economy in Podgorica, then large steps will need to be taken to centralise the union's economic structure. Integration of their banks and factories will be slow, but it'll be lucrative once finally finished."
 
-SER_Connect_The_Railways:0 "Connect the Railways"
+SER_Connect_The_Railways:0 "철로 연결"
 SER_Connect_The_Railways_desc:0 "Owing to the mutual hatred of Vienna and us, gaps in our railways exist along the former Montenegrin border. Lets bridge the gap and bring our country together."
 
-SER_Revive_The_Serbian_Navy:0 "Founding the Serbian Navy"
-SER_Revive_The_Serbian_Navy_desc:0 "The modern Serbian state has never had a navy, having been landlocked until now. It will be a long road to build a navy to protect our new coastline and we will need help from our newly acquired territories and our existing riverine fleet to set the foundations."
+SER_Revive_The_Serbian_Navy:0 "세르비아 해군 창설"
+SER_Revive_The_Serbian_Navy_desc:0 "여태까지 육지에 둘러싸여 있던 현대 세르비아 국가는 해군을 한번도 가져본 적이 없습니다. 새 해안선을 지키기 위한 해군을 건설하는 작업은 오랜 작업이 될 것입니다. 그러므로 해군의 기초를 세우기 위해 새로 획득한 영토와 기존에 운영하던 하천 해군에게 도움을 받아야 합니다."
 
-SER_Dockyard_Construction:0 "Dockyard Construction"
-SER_Dockyard_Construction_desc:0 "Our coastline has limited naval construction capabilities. It will take serious investment from the government to jumpstart a naval industry capable of fulfilling our shipbuilding needs."
+SER_Dockyard_Construction:0 "조선소 건설"
+SER_Dockyard_Construction_desc:0 "우리 해안선은 군용 함선 건조 능력이 부족합니다. 조선 수요를 충족시킬 수 있도록 해군 산업을 활성화하기 위해서는 정부에서 진지하게 투자에 참여해야 합니다."
 
-SER_Form_A_Merchant_Navy:0 "Form a Merchant Navy"
+SER_Form_A_Merchant_Navy:0 "상선단 구성"
 SER_Form_A_Merchant_Navy_desc:0 "No nation has found prosperity without a proper trading fleet. Now that we are no longer dependent on foreign shipping, we can build our own merchant navy to carry goods in and out of Serbia."
 
-SER_Focus_On_Light_Ships:0 "Focus on Light Ships"
+SER_Focus_On_Light_Ships:0 "경함선에 집중"
 SER_Focus_On_Light_Ships_desc:0 "We would be deluded to think that we can afford, let alone build, a massive fleet. Small ships like destroyers and submarines will be more than enough to protect our coast and keep merchant ships safe from our enemies."
 
-SER_Shipbuilding_Investments:0 "Shipbuilding Investments"
+SER_Shipbuilding_Investments:0 "건함 투자"
 SER_Shipbuilding_Investments_desc:0 "Our shipbuilders are inexperienced and lacking funds; they will need further help from the government to rectify these issues. We will need to order more ships from them and expand our naval budget to accomodate the project's difficulties in acquiring tools, experienced specialists, missing components, and so on."
 
-SER_First_Naval_Exercises:0 "First Naval Exercises"
+SER_First_Naval_Exercises:0 "첫번째 해군 훈련"
 SER_First_Naval_Exercises_desc:0 "The Serbian flag will be, for the first time in history, seen floating on ships out at sea. It will not be easy to create traditions for our new navy and we have relatively few experienced seamen in Serbia, but this is the first step, and the Serbian people will show that it is capable of overcoming any challenge."
 
 ### Events ###
@@ -418,18 +418,18 @@ serbia.9.t:0 "수많은 음모"
 serbia.9.d:0 "지난 십년간 세르비아 정치는 보이보다 정권 하에서 비교적 안정을 구가하고 있었습니다. 패배한 인민급진당의 유고슬라비아주의와 왕정주의 이념은 오스트리아측에 너무 위험한 존재로 받아들여졌기 때문에 보요비치는 군부와 수많은 우익 반체제 집단의 지지를 등에 업고 새로운 보수주의와 중앙집권주의를 지지하는 정당인 세르비아 국민당을 중심으로 정부를 구성했습니다. 과거 10년간 계속된 정치적 억압과 민주주의의 제한은 진보당을 통합하고 뒤이어 보요비치의 통제력을 강화하는 역할을 수행했습니다. 하지만 이렇게 조심스럽게 지어진 체제 위에 느리지만 서서히 가해지는 위협이 점차 다가오고 있었습니다. 바로 검은 월요일입니다.\n\n우리가 회복을 향해 가고는 있지만, 수많은 사람들은 국민당에 대한 믿음을 완전히 잃었고, 전직 시장이었던 새로 등극한 젊은 지도자 니스 드라기샤 치베트코비치조차도 신뢰를 되찾는데 실패했습니다. 다른 쪽에서는 민주주의자들과 급진주의자들이 점령 말기에 잃어버렸던 지지층 일부를 되찾는데 성공했고, 이제는 보조비치에 더욱 단합된 반대 의견을 제시하고 있습니다. 한편, 주로 왕정주의를 지지하는 수많은 비밀 결사들이 보이보다의 군부에 대한 통제권에 심대한 문제를 끼치고 있습니다. 베오그라드에서 뜬소문이 돌고는 있지만, 페타르 보요비치의 국가 장악력이 결코 약해지지 않으리라는 점은 분명합니다."
 serbia.9.a:0 "눈을 떼지 마라."
 
-serbia.10.t:0 "Founding of the SKK"
+serbia.10.t:0 "세르비아 문화협회 설립"
 serbia.10.d:0 "Leading Intellectuals in Serbia are typically liberals, subscribing to either the Radicals or the Democrats. As such, they’re one of the biggest and most consistent forms of opposition to the National Party, and being some of the most influential men in the country their voices carry weight. With the short and increasingly tepid Prime Ministerial tenure of the inexperienced Dragisa Cvetkovic impacting the Regents authority within the National Assembly, these powerplayers have more power over Serbia than ever.\n\nToday, a group of seventy intellectuals met in Belgrade, founding the ‘Nacionalni kulturni klub’ (Serbian Culture Club). Among the men were professors Slobodan Jovanović and Pavle Popović, leading Democratic Party politician Milan Grol, and a slew of other lawyers, writers and academics. The group’s motto, ‘A strong Serbian identity, a strong Serbian nation’ summaries their nationalist views, but belies their committment to liberalism, which inform their negative opinions on the current rather authoritarian constitution. The most important aspect to come out from the meeting is their explicit leaning to republicanism, if from a pragmatic viewpoint than an ideological one; they believe that Serbia cannot remain a regency forever, and if it is to thrive then a free, liberal and democratic republic must replace it."
-serbia.10.a:0 "A sign of incoming change?"
+serbia.10.a:0 "변화가 닥치라라는 전조인가?"
 
-serbia.11.t:0 "Živković Requests the Crown Prince's Return"
+serbia.11.t:0 "지브코비치가 왕세자의 귀환을 요청하다"
 serbia.11.d:0 "General Petar Živković is one of Serbia’s most prominent Karađorđević loyalists, a political position that’s seen him repeatedly sidelined by Petar Bojovic. Suspected to be the leader of the shadowy, royalist ‘White Hand’ secret society, it wasn't a surprise when Živković approached the Vojvoda requesting that Crown Prince Alexander, son of Petar I and heir to the Serbian throne, be allowed to return from his prolonged exile in Switzerland. If Alexander were to return, it’d no doubt result in an almost immediate restoration; the war hero Crown Prince is still a popular figure across the country, despite the concerted Austrian effort to scrub the nation clean of the Karađorđević legacy during the occupation.\n\nThis isn’t the first time Živković has requested Alexander’s return. In 1931, during the Creditanstalt crisis in Austria, Živković made a similar request hoping to capitalise on the Habsburg’s distraction and formally restore the monarchy. Though Bojovic denied the request back then, Serbia finds itself in a much more independent position following Black Monday. A Karađorđević restoration would no doubt draw the ire of Austria, but they won't be in a position to intervene and it’d be a nationally popular move. That being said, the Regency has been a stable time for Serbian politics, and restoring Alexander would likely be a destabilising move, compounded by his own fondness for autocracy which would no doubt result in a total political overhaul. In addition, Alexander has a marked fondness for Yugoslavism, another thing that could endanger the Serbian people. The Regent has an important choice to make. Should Alexander be allowed to return after 20 years of exile, or will the Regency continue?"
-serbia.11.a:0 "Very well, make the preparations."
-serbia.11.b:0 "We cannot provoke Austria."
+serbia.11.a:0 "좋아, 제안을 준비해라."
+serbia.11.b:0 "오스트리아의 성질을 건드릴 수는 없다."
 
-serbia.12.t:0 "The Crowning of Alexander"
+serbia.12.t:0 "알렉산다르의 대관식"
 serbia.12.d:0 "When Crown Prince Alexander returned to Serbia a couple days ago, it was cause for national celebration. The streets were lined by thousands all hailing the return of the Crown Prince, flags flying in the air and patriotic songs being sung by the crowds. The people of Belgrade have certainly not forgotten their loyalty to the House of Karađorđević. After such a prominent national celebration, Petar Bojovic only had one option open to him. With elaborate plans already drafted up by the now Prime Minister Živković, today they were put into action. After a ceremony that lasted several hours, Alexander was formally crowned as the new King of Serbia, finally sitting in the throne that had remained empty for over a decade. Bojovic formally enshrined the new king with the temporal power he had wielded as Regent, and the aging Vojvoda then announced his retirement from both political and military affairs.\n\nInternationally the response was mixed. As expected, we’ve received nothing but outrage from the Austrian Embassy for the last few days, though it would appear the Habsburgs aren't going to try and mobilise against us for the restoration. In more positive news, we’ve received large congratulations from King Carol II of Romania, a friend of the new king, which will no doubt help promote Balkan Unity in the years to come."
-serbia.12.a:0 "Welcome back, your Majesty."
+serbia.12.a:0 "폐하, 돌아오신걸 환영합니다."
 
 serbia.13.t:0 "Rumours in the Military"
 serbia.13.d:0 "With a history of backstabs and conspiracies, most notably the brutal May Coup of 1903, the Serbian Army has never been known for its trustworthiness. Be it the widespread presence of secret societies like the ‘White Hand’, or just the usual opportunism of the General Staff, Bojovic is more than aware of the enemies he has within the Army.\n\nBut now, with his rejection of General Živković's proposal of a Karađorđević restoration, rumours are afoot. According to a group of minor officers who reported to the Vojvoda yesterday, a group of officers and soldiers alike are organising a royalist putsch against Bojovic, with the clear intent of overthrowing the Regent and restoring Crown Prince Alexander to the Serbian throne. Bojovic has kept quiet on the information, hoping to draw his enemies out into the open where they can hopefully be dealt with in due course. That is, if these rumours are true in the first place, as the Vojvoda has heard many similar claims in the over the years..."
@@ -440,9 +440,9 @@ serbia.14.d:0 "It appears that not only were the rumours of General Petar Živko
 serbia.14.a:0 "양보해야만 한다."
 serbia.14.b:0 "반역자들과 타협은 없다!"
 
-serbia.15.t:0 "Collapse of the Živković Putsch"
+serbia.15.t:0 "지브코비치 쿠데타 붕괴"
 serbia.15.d:0 "Bojovic’s resistance wasn’t in vain. After a 16 hour siege, an army led by General Milutin Nedic entered Belgrade to deal with the putsch. Outnumbered 6 to 1, Živković’s coup attempt quickly collapsed, and after a night of sporadic fighting, the sun rose to Petar Bojovic once again controlling the capital, with the traitors crushed and his authority bolstered. The traitorous ‘White Hand’ organisation, including Zivković who has been confirmed as the society's leader, have all been arrested and are awaiting trial, while Milutin Nedic is likely to receive the highest honours for his efforts in stemming the coup.\n\nThe political uncertainty gripping Serbia might not be over, but the royalist ideal has failed. The Vojvoda may have once been a staunch royalist, but the events of the last few weeks have decisively turned him against a restoration of the Karađorđević’s. "
-serbia.15.a:0 "Thus unto all traitors."
+serbia.15.a:0 "모든 반역자는 이렇게 될 것이다."
 
 serbia.16.t:0 "요바노비치가 섭정을 만나다"
 serbia.16.d:0 "With Serbia still reeling from the Živković Putsch, it would only be a matter of time before other groups attempted to capitalise on the instability. Today, Slobodan Jovanovic, an esteemed intellectual & professor for over 30 years, as well as the leader of the liberal SKK society, had a lengthy meeting with Petar Bojovic over his proposals for the future of Serbia.\n\nJovanovic’s proposal is one of radical reform, chiefly turning Serbia into a liberal republic with the veteran professor as its provisional president until elections can be held. Following the defeat of the royalist forces, there is an opening for a republican proclamation to actually succeed, however the Vojvoda is torn. After all, liberalising Serbia could leave it open to the syndicalist forces that Bojovic’s National Party has tried to protect against. Then again, the political hole left in the National Party following the putsch has nearly collapsed its authority. A fresh start could be just what Serbia needs. After discussing with his aides over lunch, the Vojvoda met with Jovanovic to give his verdict on the republican proposal."
@@ -453,10 +453,10 @@ serbia.17.t:0 "세르비아 공화국의 탄생"
 serbia.17.d:0 "Today, Vojvoda and Regent of the kingdom of Serbia Petar Bojovic gave an important speech in front of the National Assembly over the future of the nation. Waxing lyrical over the betrayal of the royalist forces a fortnight ago, he proclaimed that if Serbia were to be strong enough to reclaim her lost territories, then change would be needed. It was then when he passed over to Professor Slobodan Jovanovic.\n\nJovanovic announced he would be taking the helm as President of the new Serbian Republic, a fresh start for the unstable nation. A new constitution would be written, politically repressive laws would be overturned, and free elections would be held as soon as possible. In the meantime, a provisional, bi-partisan government under Jovanovic’s Nacionalni vijeće za demokratiju (National Council for Democracy) would oversee the transition to democracy. The new President did show respect for the Bojovic regime, claiming that without the Vojvoda’s careful, pragmatic leadership in those early days of independence, Serbia could have easily been swallowed up by the Austrian menace. However, he claimed the time has come for the people to decide Serbia's path going forward.\n\nWith Bojovic retiring from political and military life, the reins have been passed over to the optimistic Jovanovic. Whether he can bring peace and stability to his new republic remains to be seen."
 serbia.17.a:0 "눈부신 새 출발이군."
 
-serbia.18.t:0 "Industrialists Cut Support"
+serbia.18.t:0 "산업계에서 지원을 끊다"
 serbia.18.d:0 "Turning down the Republican proposition may have been a mistake. With the National Party’s authority nearly bottomed out, a group of wealthy industrialists have taken the radical step to cut their support from the Bojovic regime. In a short statement, the consortium of businessmen and corporation owners have claimed that recent crises have left the Serbian government powerless, and until a strong government is restored they’ll refuse to deal with the Regent’s government.\n\nThe royalist putsch might have been a serious threat, but this could end up being even more damaging. Prime Minister Dragisa Cvetkovic is on the verge of resignation, which could collapse the entire government. Some of Bojovic’s aides have noted that following up on Jovanovic’s proposal would probably help remedy the situation, though others have told the Vojvoda to stand up to the industrialists, hoping the nation falls in line behind him."
-serbia.18.a:0 "Back down, we need their support against Bulgaria."
-serbia.18.b:0 "Stand firm."
+serbia.18.a:0 "물러서라. 불가리아에 대항하기 위해서는 그들이 필요하다"
+serbia.18.b:0 "현행 방침을 유지해라."
 
 serbia.19.t:0 "Stojadinovic Declares Support for the Regency"
 serbia.19.d:0 "Milan Stojadinovic has been loyal to the Vojvoda ever since the beginning of the Regency, and since his appointment to Finance Minister in 1934, Stojadinovic has slowly been building up his own political base. Having stayed out of the ongoing crisis, owing to his deep involvement in dealing with the fallout of Black Monday, Stojadinovic has publicly thrown his full support behind Petar Bojovic, calling him ‘the strong leader Serbia needs in times like these’.\n\nBehind the scenes, there has been frantic discussion. Milan Stojadinovic has visionary ideas on reforming the ailing National Party to reassume control over the National Assembly. His plan is to reorganise the government into a mass-mobilised movement, the Radical Union coalition. Hopefully by appointing Stojadinovic as Prime Minister, the industrialists will return to supporting the strongman’s government."
