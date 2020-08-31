@@ -209,7 +209,7 @@ SER_Together_Against_Austria:0 "다함께 오스트리아에 저항하자"
 SER_Together_Against_Austria_desc:0 "불가리아의 위협이 사라졌으니, 지금이야 말로 우리의 관심을 다음이자 가장 거대한 적에게로 돌려야 할 때입니다. 오스트리아는 수백년동안 동포 세르비아 민족들을 억압해왔고, 여태까지 우리가 시도했던 모든 노력들은 실패로 끝났습니다. 이런 역사적 부정을 바로 잡을 기회가 왔습니다. 합스부르크 가문은 고립되어 있습니다. 죽어가는 껍데기밖에 남지 않은 저 국가를 한번 때려 눕힐 때가 되었습니다!"
 
 SER_The_Dream_Fulfilled:0 "꿈의 실현"
-SER_The_Dream_Fulfilled_desc:0 "세르비아 민족이 우리의 기치 아래에서 단결한 가운데, 이제 국가 전체의 미래를 구축해야 하며 이를 위해 즉각 투자를 개시해야 합니다. Let us prepare the next generation of Serbs that will take over after us, so that they will lead Serbia to even greater glories."
+SER_The_Dream_Fulfilled_desc:0 "세르비아 민족이 우리의 기치 아래에서 단결한 가운데, 이제 국가 전체의 미래를 구축해야 하며 이를 위해 즉각 투자를 개시해야 합니다. 세르비아를 더욱 큰 영광으로 이끌어 가기 위해서 우리 뒤를 이어받을 다음 세대의 세르비아 청년들을 준비시켜야 합니다."
 
 SER_The_Belgrade_Salonica_Railway:0 "베오그라드-테살로니키 철도"
 SER_The_Belgrade_Salonica_Railway_desc:0 "우리는 이웃이자 친구인 그리스와 새롭고 안전한 무역로와 보급로를 가지고 있습니다. 하지만 이 지역의 기반시설은 부족한 상태이며 수십년간 불가리아의 잘못된 통치 아래에서 아무런 도움을 받지 못했습니다. 아테네의 도움이 약간만 주어진다면 이런 상황을 바로잡고 세계로 나갈 관문과 그리스와의 관계까지 개선할 수 있습니다."
@@ -236,16 +236,16 @@ SER_Restore_Local_Governance:0 "지역자치 복권"
 SER_Restore_Local_Governance_desc:0 "이전의 세르비아 정부에서는 중앙집권화 정책을 추진했습니다. 이러한 정책은 확실히 유용했지만 풀뿌리 지방정부와 지역 민주주의 의사결정 과정에 피해를 주었습니다. 지방 정부의 회복은 지방에서의 민주적 가치들을 재건하는 데에 도움을 줄 것입니다."
 
 SER_Implement_The_Pasic_Manifesto:0 "파시치의 유지를 잇다"
-SER_Implement_The_Pasic_Manifesto_desc:0 "Nikola Pasic was possibly the greatest statesman in Serbian history. A leading light for over 30 years, Pasic’s political programme was one of wide-reaching reforms; in the press, the judiciary and the schools. The Regency undid much of his hard work, and it is our duty to honour his legacy."
+SER_Implement_The_Pasic_Manifesto_desc:0 "니콜라 파시치는 세르비아 역사상 가장 위대한 정치가일지도 모르는 인물입니다. 30년이 넘는 기간동안 사람들을 이끄는 등불로서 역할을 했던 파시치의 정치 프로그램은 언론, 사법 그리고 교육을 포괄하는 광범위한 개혁의 일환이었습니다. 섭정 정권은 파시치의 엄청난 업적들을 무위로 돌렸습니다. 그리고 그의 유산을 기리는 것이 우리가 해야할 의무입니다."
 
 SER_Open_The_Serbian_Economy:0 "세르비아 경제 개방"
-SER_Open_The_Serbian_Economy_desc:0 "For too long, the Serbian economy has been weak and isolated from the great powers. Now, with the freedom to chart our own path, we have an opportunity to reverse this isolation. Establishing new international trade deals and projects with our neighbours and beyond can only be a boon to the economy."
+SER_Open_The_Serbian_Economy_desc:0 "세르비아 경제는 너무 오랫동안 약하고 강대국들 사이에서 고립된 상태였습니다. 이제 우리가 나아갈 길을 자유롭게 설계할 수 있게 되었으니, 이런 고립 상태를 되돌릴 기회를 되찾았습니다. 주변국 뿐만 아니라 더 멀리 떨어진 국가들과 새로운 무역로와 프로젝트를 수립한다면 우리 경제에 이익이 될 것입니다."
 
 SER_Farming_Subsidies:0 "농업 보조금"
-SER_Farming_Subsidies_desc:0 "The Austrians took a lot from us, and this included swathes of livestock from our farmers. This government initiative seeks to further subsidise our farmers, to allow our agriculture sector to return to pre-Weltkrieg levels of production."
+SER_Farming_Subsidies_desc:0 "오스트리아는 우리에게서 너무도 많이 빼앗아갔고, 여기에는 농부들에게서 수탈해간 가축들도 포함됩니다. 정부는 농업 부문을 세계대전 이전 수준으로 되돌리기 위해서 농민들에게 더 많은 보조금을 지급하는 정책을 실시하려 합니다."
 
 SER_Continue_The_Mechanisation_Efforts:0 "기계화 노력 지속"
-SER_Continue_The_Mechanisation_Efforts_desc:0 "A modern economy requires modern tools and know-how. Mechanisation will undoubtably increase the productivity of a largely-agrarian people, even if it is a long and expensive process."
+SER_Continue_The_Mechanisation_Efforts_desc:0 "현대 경제에는 현대적인 장비와 실질적인 지식과 경험이 필요합니다. 기계화 작업이 굉장히 길고 비용도 많이 드는 과정이라 할지라도, 성공하기만 한다면 의심의 여지 없이 수많은 농업 종사자들의 생산성을 증대시킬 것입니다."
 
 SER_Invest_In_Zadrugar:0 "자드루가르에 투자"
 SER_Invest_In_Zadrugar_desc:0 "As part of our agricultural mechanisation process, we need the industry to support it as demand for tractors, spare parts, and maintenance sharply rise. Thankfully, the Serbian company Zadrugar specializes in this industrial sector. With extra help from the state, they will be able to meet these growing demands with more ease."
@@ -310,16 +310,16 @@ SER_Lessons_Of_The_War_desc:0 "As glorious as our victory over Bulgaria was, it 
 SER_Serbian_Mountain_Corps:0 "세르비아 산악병"
 SER_Serbian_Mountain_Corps_desc:0 "Terrain in the Balkans is very mountainous, especially in the lands we with to reclaim. To assist in the wars to come, the Reform council is planning the raising of a new, dedicated Mountain Corps. Equipped with the best weaponry and led by the best generals, they'll be our most elite forces."
 
-SER_Mihailovics_Redoubt:0 "Mihailovic's Redoubt"
+SER_Mihailovics_Redoubt:0 "미하일로비치의 보루"
 SER_Mihailovics_Redoubt_desc:0 "Colonel Draza Mihailovic is, no doubt, a controversial officer. However, he is also a visionary, with superb plans for ensuring Serbia’s defences are up to scratch in the case that our conquests backfire. Lets divert some funding and men to Mihailovic so he can create his ‘redoubt’, and hopefully he’ll stop interfering with the Council"
 
 SER_Expand_The_Serbian_Aviation_Command:0 "세르비아 공군 사령부 확장"
 SER_Expand_The_Serbian_Aviation_Command_desc:0 "The Serbian "Airforce" for a lack of a better term had no real chance against the Austrian/Hungarian Luftfahrtruppen. Now with those bastards reeling back, the Serbian High command has deemed it fit to expand it's air wing... now to find pilots to fly the damn things."
 
-SER_Seek_New_Expertise:0 "Seek New Aerial Expertise"
+SER_Seek_New_Expertise:0 "신식 항공 기술 탐색"
 SER_Seek_New_Expertise_desc:0 "Serbia has but a handful of experienced pilots, and must seek foreign expertise... the real question is who..?"
 
-SER_Local_Munition_Efforts:0 "Local Munition Efforts"
+SER_Local_Munition_Efforts:0 "장비 국산화 시도"
 SER_Local_Munition_Efforts_desc:0 "Serbia, desiring to become more self-reliant, has began offering incentives to local artisans to produce munitions and arms. If this endeavour is to bear fruit, standardizarion will be needed, but the benefits will be tremenduous in the long run"
 
 SER_Doctrinal_Studies:0 "교리 연구"
@@ -328,10 +328,10 @@ SER_Doctrinal_Studies_desc:0 "Further studies are to be conducted if Serbia is t
 SER_The_Serbian_Airforce:0 "진정한 세르비아 공군"
 SER_The_Serbian_Airforce_desc:0 "Serbia with the aid of foreign advisors and local talent, has now adopted a true "Serbian" air doctrine. S Bogom, za veru i otečestvo!!"
 
-SER_Fighter_Bomber_Acquisition:0 "Fighter-Bomber or Bomber Acquisition"
+SER_Fighter_Bomber_Acquisition:0 "전폭기 혹은 폭격기 획득"
 SER_Fighter_Bomber_Acquisition_desc:0 "With our selection made, we must now purchase new airframes that reflect our Aviation experts doctrines."
 
-SER_Replace_Weltkrieg_Era_Planes:0 "Replace Weltkrieg-Era Planes"
+SER_Replace_Weltkrieg_Era_Planes:0 "세계대전기 항공기 교체"
 SER_Replace_Weltkrieg_Era_Planes_desc:0 "The Serbian Airfleet consist of several old airframes from the Weltkrieg, which the Austrians so "generously" allowed us to have. We must seek new designs to ensure we rule the Serbian skies."
 
 SER_Modernise_Airports:0 "공항 현대화"
@@ -346,7 +346,7 @@ SER_Crna_Gora_I_Srbija_desc:0 "너무나 오랜 기다림 끝에, 베오그라�
 SER_Brotherly_Union:0 "동족 연합"
 SER_Brotherly_Union_desc:0 "For the people of the Serbian-Montenegrin union, there is a new sense of unity. Great Powers might have tried to divide us through warfare and conflict, but they have failed. Let this young union stand as an example of brotherly peace in a region full of unruly chaos."
 
-SER_Prospecting_In_Niksic:0 "Prospecting in Niksic"
+SER_Prospecting_In_Niksic:0 "닉시치 지역 탐광"
 SER_Prospecting_In_Niksic_desc:0 "The irresponsible Croat government in Zagreb never took advantage of the vast wealth of the Niksic region. Now, with their new-found freedom, mining companies have begun excavating the region to great effect. We must invest Dinar into their projects, and mine the resources we need for war."
 
 SER_Integrate_The_Montenegrin_Economy:0 "몬테네그로 경제 통합"
