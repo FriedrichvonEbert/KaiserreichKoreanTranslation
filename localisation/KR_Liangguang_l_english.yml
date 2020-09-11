@@ -88,7 +88,8 @@ GXC_KMT_eastern_expedition_tt:0 "Unlocks £decision_icon_small §HDecisions§! t
 GXC_KMT_northern_expedition_tt:0 "Unlocks £decision_icon_small §HDecisions§! to §YLaunch the Second Northern Expedition§!"
 GXC_improved_integration_tt:0 "The decisions to integrate §HChinese provinces§! as core states of §H[GXC.GetNameDef]§! complete §G20§! Days faster.\nThe decisions to integrate §HChinese provinces§! as core states of §H[GXC.GetNameDef]§! costs §G10§! £pol_power Political Power less.\n"
 GXC_RKMT_elections_allowed:0 "리쭝런이 입법원 선거를 허락하다"
-GXC_civil_war_over:0 "제2차 월계전쟁이 발발하다.\n"
+GXC_civil_war_over:0 "제2차 월계전쟁이 발발하다\n"
+GXC_LKMT_WIP:0"§RThis content path (Chen Mingshu's LKMT) is currently under revision and will be remade in the future when it is complete and stable. This decision was made as the current Chen Mingshu LKMT content is buggy and not well balanced. Please bear with us on this whilst we change it.§!"
 
 ### Decisions ###
 

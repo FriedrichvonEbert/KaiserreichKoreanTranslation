@@ -206,7 +206,7 @@ phalanstere_research_name:0 "팔랑스테르 인터내셔널"
 phalanstere_research_desc:0 "케임브리지 대학의 회의에서 생디칼리슴 국가들의 기술 발전을 결합하기 위한 전세계적인 계획의 수립이 결정되었습니다. 이 계획은 이후 세계의 생디칼리슴 정권을 돕는 것을 목표로 한 더 야심찬 계획인 팔랑스테르 인터내셔널(Phalanstère International)로 진화했습니다."
 
 FRA_tech_marine_bonus:0 "넵튠 부대"
-FRA_tech_marine_bonus_effect:0 "해금 §H넵튠 부대\n해병§!\n      대 보병 공격: §G+5%§!\n      대 기갑 공격: §G+5%§!\n"
+FRA_tech_marine_bonus_effect:0 "해금 §H넵튠 부대\n해병§!\n      대 보병 공격: §G+5%§!\n      대 기갑 공격: §G+5%§!\n§HAmtrac Battalion§!\n      Soft Attack: §G+5%§!\n      Hard Attack: §G+5%§!\n§HAmphibious Tank Battalion§!\n      Soft Attack: §G+5%§!\n      Hard Attack: §G+5%§!"
 
 ### Focuses ###
 commune_of_france_focus:0 "프랑스 코뮌 중점계통도"

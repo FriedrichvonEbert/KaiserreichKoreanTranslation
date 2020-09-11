@@ -78,6 +78,8 @@ NOR_united_airforce_idea_4:0 "Luftforsvaret"
 NOR_united_airforce_idea_5:0 "Luftforsvaret"
 NOR_DNL_idea:0 "성공적인 노르웨이 항공 확장"
 NOR_DNL_idea_desc:0 "'Det Norske Luftfartselskap'확장을 성공적으로 끝마쳤습니다. 노르웨이 항공은 우리나라를 하나로 이어줬으며, 경제 순환을 돕고 있습니다."
+NOR_AoR:0 "Age of Radio"
+NOR_AoR_desc:0 "The Norwegian people have been honoured with the latest radio enginerities from Union of Britian, allowing for us the boardcast programmes of a "wholesome" nature." 
 NOR_syndicalist_norway_idea_1:0 "생디칼리슴 헌법"
 NOR_syndicalist_norway_idea_2:0 "생디칼리슴 헌법"
 NOR_syndicalist_norway_idea_3:0 "생디칼리슴 헌법"
@@ -128,6 +130,8 @@ NOR_radicalistpeople:0 "중립 외교정책"
 NOR_syndicalistpeople:0 "생디칼리스트 외교 정책"
 NOR_idea_great_patriotic_war:0 "대조국 전쟁"
 NOR_idea_great_patriotic_war_desc:0 "노르웨이는 이웃국가 스웨덴과 다시 한번 갈등을 겪고 있습니다. 그리고 모든 노르웨이인은 어떤 정치 체제가 들어서던지 1905년에 해산된 연합이 재탄생하는것 보다는 낫다는 사실에 동의합니다."
+NOR_NBC:0 "Norsk Rikskringkasting"
+NOR_NBC_desc:0 "The Norwegian Broadcasting Corporation, akin to their Canadian counterpart, designed to ensure the citizens of our nation are offered wholesome and balanced radio programmes. Though Syndicalism and other subvertive materials are banned.."
 
 ### Focuses ###
 NOR_fund_nth:0 "노르웨이 공과대학 자금 지원"
@@ -283,6 +287,8 @@ NOR_DEM_black_monday_1:0 "노르웨이 은행 구조조정"
 NOR_DEM_black_monday_1_desc:0 "노르웨이 운행은 너무 오랫동안 수동적 기관으로 남아있었습니다. 경제적 자원을 제대로 갖추고 경제활동을 독려할 수 있는 은행이 필요합니다."
 NOR_DEM_public_broadcasting:0 "노르웨이 방송사"
 NOR_DEM_public_broadcasting_desc:0 "라디오는 대중에 다가갈 수 있는 독특한 능력을 가지고 있습니다. 우리는 NRK가 오락 뿐만 아니라 교육도 제공하여 균형 잡힌 방송을 송출하도록 해야 합니다."
+NOR_HC:0 "Norwegian Social Security Act"
+NOR_HC_desc:0 "This act will allow the citizens of Norway a safety net against unemployment, and the financial woes it brings. Though of course such an act doesn't come without it's cost."
 NOR_DEM_socdem_agreement:0 "진보적인 노동협정"
 NOR_DEM_socdem_agreement_desc:0 "노사간 공식적 합의를 할 때가 왔습니다. 노동자를 보호하는 동시에 기업의 안정적이고 예측가능한 조건을 모두 챙기는 진보적 합의가 필요합니다."
 NOR_DEM_mixed_industry:0 "국영기업 설립"
@@ -437,7 +443,7 @@ norway.8.d:0 "지주, 농부, 우익 정치인들의 느슨한 연합체가 오�
 norway.8.a:0 "유감이군."
 
 norway.9.t:0 "크비슬링의 연설"
-norway.9.d:0 "전직 국방부 장관이자 부계 독재 정당인 국민연합의 지도자 비드쿤 크비슬링이 최근 대중 집회를 열었습니다. 크비슬링은 연설중에 정부의 경제 위기와 생디칼리스트에 대처하는 조치가 부족하다고 비난했습니다. 그는 Samfundsvernet과 국민연합이 노르웨이에서 생디칼리슴에 대항하는 마지막 방어선이라고 주장하면서 지지자들에게 보수적 준군사조직 Samfundsvernet에 합류할 것을 독려했습니다."
+norway.9.d:0 "전직 국방부 장관이자 초국가주의적 정당인 국민연합의 지도자 비드쿤 크비슬링이 최근 대중 집회를 열었습니다. 크비슬링은 연설중에 정부의 경제 위기와 생디칼리스트에 대처하는 조치가 부족하다고 비난했습니다. 그는 Samfundsvernet과 국민연합이 노르웨이에서 생디칼리슴에 대항하는 마지막 방어선이라고 주장하면서 지지자들에게 보수적 준군사조직 Samfundsvernet에 합류할 것을 독려했습니다."
 norway.9.a:0 "생디칼리슴에 대항하는 마지막 방어선이라고? 진짜...?"
 
 norway.10.t:0 "Samfundsvernet과 국가"
@@ -450,7 +456,7 @@ norway.11.d:0 "Samfundsvernet를 억압하려는 시도는 실패했습니다. �
 norway.11.a:0 "이들은 위험요소로 남을 것이다..."
 
 norway.12.t:0 "적위대 창설"
-norway.12.d:0 "정보국은 생디칼리슴 정당과 노동조합이 비밀리애 준군사조직 적위대를 조직하고 있다고 보고했습니다. 이것이 Samfundsvernet의 급진화에 대한 대응일 가능성이 높지만, 불안한 변화임은 확실합니다."
+norway.12.d:0 "정보국은 생디칼리슴 정당과 노동조합이 비밀리에 준군사조직 적위대를 조직하고 있다고 보고했습니다. 이것이 Samfundsvernet의 급진화에 대한 대응일 가능성이 높지만, 불안한 변화임은 확실합니다."
 norway.12.a:0 "우리가 뭘 할수 있을까..."
 
 norway.13.t:0 "브리튼 연방의 영향력"
@@ -458,7 +464,7 @@ norway.13.d:0 "브리튼 연방은 우리의 정치 체제에 영향을 끼치�
 norway.13.a:0 "망할 생디칼리스트놈들!"
 
 norway.14.t:0 "1936년 총선"
-norway.14.d:0 "오늘, 노르웨이 사람들은 새로운 국회의원을 선출합니다. 선거는 팽팽히 맞서고 있으며, 가까운 장래에 노르웨이의 진로를 결정할 것입니다. 네 가지 가능한 결과가 있습니다. 우선 급진사회주의 노동당이 사회주의 개혁의 강령을 내걸고 선거운동을 벌이고 있습니다. Samfundsvernet은 그 승리가 무엇을 의미하던지 간에 그들과 함께할 것이라고 선언했습니다. 또 다른 가능성은 자유당과 연립한 사회민주노동당입니다. 게다가 시장자유주의를 지지하는 보수주의자들이 농민당과 연대하여 권력을 얻을 수 있습니다. 누가 이길까요?"
+norway.14.d:0 "오늘, 노르웨이 사람들은 새로운 국회의원을 선출합니다. 선거는 팽팽히 맞서고 있으며, 가까운 장래에 노르웨이의 진로를 결정할 것입니다. 세 가지 가능한 결과가 있습니다. 우선 급진사회주의 노동당이 사회주의 개혁의 강령을 내걸고 선거운동을 벌이고 있습니다. Samfundsvernet은 그 승리가 무엇을 의미하던지 간에 그들과 함께할 것이라고 선언했습니다. 또 다른 가능성은 자유당과 연립한 사회민주노동당입니다. 게다가 시장자유주의를 지지하는 보수주의자들이 농민당과 연대하여 권력을 얻을 수 있습니다. 누가 이길까요?"
 norway.14.a:0 "급진사회주의가 최다득표를 얻을 것이다."
 norway.14.b:0 "자유주의와 사회민주주의가 승리할 것이다."
 norway.14.c:0 "보수주의와 농민당이 연대할 것이다."

@@ -195,7 +195,7 @@ worldnews.60.d:0 "필리핀은 이제 막 미국으로부터 독립을 얻었으
 worldnews.60.a:0 "아시아에서도 자유주의는 안전하지 않군!"
 
 worldnews.61.t:0 "버마에 생디칼리슴 확산"
-worldnews.61.d:0 "버마 정부의 버마 왕립 군대가 학생들과 노동자들에게 발포하라는 명령을 내리는 형편없는 결정을 내림에 따라 전국이 왕가에 대항하기 시작했습니다. 새롭게 설립된 국가 의회는 현재 생디칼리슴 정부를 구성하고 있으며, 이미 생각이 같은, 강한 동맹국을 찾고 있다고 합니다."
+worldnews.61.d:0 "버마 정부의 타트마도가 학생들과 노동자들에게 발포하라는 명령을 내리는 형편없는 결정을 내림에 따라 전국이 왕가에 대항하기 시작했습니다. 새롭게 설립된 국가 의회는 현재 생디칼리슴 정부를 구성하고 있으며, 이미 생각이 같은, 강한 동맹국을 찾고 있다고 합니다."
 worldnews.61.a:0 "국가별로 혁명이 일어나고 있구나."
 
 worldnews.62.t:0 "The Rand Rebellion Succeeds"
@@ -1168,7 +1168,7 @@ worldnews.273.b:0 "마침내 키예프가 우리 것이다!"
 worldnews.273.c:0 "[old_controller.GetAdjective]의 사기가 크게 떨어졌을 것이다"
 
 worldnews.274.t:0 "리우데자네이루 함락"
-worldnews.274.d:0 "[new_controller.GetAdjective] 군대의 끔찍한 공격 이후, 리우데자네이루에서의 전투는 당분간 중지된 것 같습니다. 도시의 엄청난 방어 태세에도 불구하고, [old_controller.GetAdjective] 수비대는 카테테 궁전과 대부분의 도시가 [new_controller.GetAdjective] 손에 들어가는 것을 막을 수 없었습니다. 산과 숲 속에서 전투가 계속되고, [old_controller.GetAdjective] 정규 병력이 철수하면서, 전쟁은 끝났습니다.\n\n리우데자네이루의 상당 부분과 칸델라리아 교회의 돔이 [new_controller.GetAdjective] 포탄으로 파괴되고, 리얼 그란드자 터널이 [new_controller.GetAdjective]의 진격을 저지하기 위해 필사적인 [old_controller.GetAdjective] 군인들에 의해 무너지고 있어 피해를 입었습니다. 거의 모든 거리에 [new_controller.GetAdjective] 병사들이 주둔하고 있고, 도시 중심부로 행진하고 있는 가운데, [new_controller.GetNameDef](이)가 [old_controller.GetNameDef](와)과의 전쟁에서 중요한 진전을 보인 것은 분명합니다."
+worldnews.274.d:0 "[new_controller.GetAdjective] 군대의 끔찍한 공격 이후, 리우데자네이루에서의 전투는 끝이 난 듯 합니다. 도시의 방어 태세에도 불구하고, [old_controller.GetAdjective] 수비대는 카테테 궁전과 대부분의 도시가 [new_controller.GetAdjective] 손에 들어가는 것을 막을 수 없었습니다. 산에서 전투가 계속되고, [old_controller.GetAdjective] 정규 병력이 철수했습니다.\n\nMuch of Rio was damaged by the fighting, with [new_controller.GetAdjective] shells destroying the dome of Candelária Church, and the Real Grandeza Tunnel having been collapsed by desperate [old_controller.GetAdjective] soldiers to halt the enemy advance. With [new_controller.GetAdjective] soldiers garrisoning almost every street and in the city centre, it's clear that [new_controller.GetNameDef] has taken a major step in its war against [old_controller.GetNameDef]."
 worldnews.274.a:0 "안 돼! 어떻게 이럴 수가 있나?!"
 worldnews.274.b:0 "우리 지휘관들이 멋지게 해냈군"
 worldnews.274.c:0 "[old_controller.GetAdjective]의 상황은 심각해 보인다"

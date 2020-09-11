@@ -179,8 +179,12 @@ WHR_national_populist_party:0 "벨라루스 국민생디칼리슴당"
 WHR_national_populist_party_long:0 "벨라루스 국민생디칼리슴당"
 
 ### Tooltips ###
-whr.bmimprove.tt:0 "이것은 검은 월요일 위기의 영향을 줄일 것입니다."
 WHR_can_seek_allies:0 "§CWe can begin to seek participation in an international alliance.§!"
+
+WHR_has_black_monday:0 "Has national spirit §HBlack Monday§!"
+WHR_has_black_monday_NOT:0 "Does not have national spirit §HBlack Monday§!"
+
+Sigismund_von_Hohenzollern_dead:0 "Sigismund has been dealt with"
 
 ### Events ###
 whiteruthenia.1.t:0 "지그문트가 그의 행동을..."

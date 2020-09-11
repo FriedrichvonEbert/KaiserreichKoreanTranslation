@@ -96,6 +96,7 @@ POL_technical_college_idea:0 "New Technical Colleges"
 ### Tooltips ###
 polands_future:0 "섭정 의회는 지난 20년 동안 했던 것처럼, 폴란드의 새로운 왕을 선출하려 할 것입니다."
 POL_must_own_coast:0 "이 중점이 효과를 가지려면 항구가 있어야 합니다."
+POL_elections_suspended:0 "Elections are suspended indefinitely."
 
 ### Focuses ###
 POL_the_great_debate:0 "대논쟁"
@@ -366,6 +367,8 @@ POL_detente_with_germany_desc:0 "Polish history has been marred by Prussian expa
 POL_look_to_russia:0 "Look to Russia"
 POL_look_to_russia_desc:0 "Poland desperately lacks friends and allies on the international stage, and we are out of options. [RUS.GetNameDefCap] to the East is forming a new power bloc in Europe, and it may be to our advantage to seek Russia's protection, no matter how humiliating it might be."
 
+POL_join_the_moscow_accord:0 "Join the [FROM.GetFactionName]"
+
 ### Events ###
 poland.1.t:0 "경제가 무너지다!"
 poland.1.d:0 "독일은 심각한 경제 공황 상태에 있고, 독일에 대한 우리의 경제적 의존으로 인해 우리는 심각한 영향을 받고 있습니다. 농산물 가격의 하락으로 인해 농부의 소득이 폭락했고 회사들은 수천 명의 노동자들을 해고하고 있습니다. 이번 여름은 도시민들과 시골 사람들에게 모두 어려운 시기가 될 것입니다. 벌어질 혼란을 막기 위해, 어떤 대책이 필요할 것입니다."
@@ -510,7 +513,7 @@ poland.43.c:0 "이전 섭정의회 의장이었던 지스와프 루보미르스�
 poland.43.e:0 "브와디스와프 시코르스키 장군."
 
 poland.46.t:0 "[GetYear]년 세임 선거"
-poland.46.d:0 "우리 헌법에 명시된 바와 같이, 세임 선거는 4년마다 치러져야 합니다. 과반수 확보 가능성이 있는 주요 정당만 3곳인데, 어디가 될까요?"
+poland.46.d:0 "우리 헌법에 명시된 바와 같이, 세임 선거는 4년마다 치러져야 합니다. 과반수 확보 가능성이 있는 주요 정당만 4곳인데, 어디가 될까요?"
 poland.46.a:0 "자유 폴란드당."
 poland.46.b:0 "인민연합."
 poland.46.c:0 "민주당."

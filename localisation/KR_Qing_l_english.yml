@@ -1125,6 +1125,7 @@ qielepcollapse.7.t:0 "천댜오위안이 전보를 보내오다"
 qielepcollapse.7.d:0 "'차오쿤 의장님과 제국 수상 우페이푸 님 귀하\n\n본관, 성장 천댜오위안은 두분께 제 병력을 위한 자금 지원을 요청합니다. 우리 위대한 조국의 헌법에 따르면, 중앙 정부는 지방 성장들이 소요사태를 진압하기 위해 필요한 지원을 해야 할 의무가 있습니다. 쑨촨팡 원수의 상황이 불확실함에 따라, 저는 안경성을 도적들과 좌파 공작원들로부터 보호해야 하는 의무를 지게 되었습니다.'\n\n오늘 아침, 안경 성장 천댜오위안이 보낸 이 편지가 우페이푸에게 도착했습니다. 전보의 어조가 대담한 것으로 보아, 첸 성장은 이미 지역을 안정시키는데 성공한 것 같습니다. \n\n우페이푸는 선택의 기로에 섰습니다. 천댜오위안은 강력한 동맹이 돌 수 있을것이지만, 그는 철저한 반외세주의자입니다. 그를 지지하는 것은 피할 수 없을 것쳐럼 보이는 후일 일본과의 전쟁에서 우리를 도울 독일과의 관계를 소원하게 만들 것입니다. 하지만, 그와 동시에 반독 입장을 확고히 하는 것은 국민들이 의심할 여지 없이 우페이푸를 지지하게 할 것입니다."
 qielepcollapse.7.a:0 "금을 보내라. 국경의 안정이 필요한 시기다."
 qielepcollapse.7.b:0 "거절한다. 반란군에게 투자는 없다!"
+qie_anti_concessions_decision_warning:0 "§RChoosing to support Chen-Tiaoyuan will lead Qing on a firmly Anti-Concessionist path, meaning it cannot support the League of Eight Provinces and will take Anqing's side in the conflict. It will also guarantee to alienate Germany. If Anqing loses the conflict, Qing will be very alone.§!\n"
 
 qielepcollapse.8.t:0 "치셰위안 원수의 제안"
 qielepcollapse.8.d:0 "우리가 천 총통의 전보에 거절의 답신을 보내자, 이번엔 새로운 연맹 원수인 치셰위안으로부터 전보가 도착했습니다.\n\n'가장 복된 우 원수에게 - 본관, 치셰위안은 안경의 반란을 진압하는 데 귀관의 조력을 청하오. 귀관이 본관의 휘하 지휘관인 만큼, 위기에 처한 본관을 돕는 것이 마땅하오.'\n\n상식적으로, 독일의 원조를 받는 치셰위안이 남쪽의 안경과 국민당을 압도하는 게 맞지 않습니까? 이렇게 도움을 청하는 어조라니 대단히 의심스럽군요."

@@ -7,8 +7,8 @@ SYNDIE_SOC_DEM_NOTICE:0 "(생디칼리스트 지지)"
 war_propaganda_against_warmonger_desc:0 "국가에서 남녀노소 가리지 않고 [From.GetNameDef](와)과 싸움에 이바지해줄 것을 요청하고 있습니다!"
 
 ### Opening Event ###
-kr.political.1.t:0 "카이저라이히 베타 0.14.1"
-kr.political.1.d:0 "카이저라이히 팀에서 자랑스럽게 하츠 오브 아이언 4의 카이저라이히 베타 0.14.1을 소개해드립니다.\n\n저희 개발진은 여러분에게 새로운 버전을 제공해드리기 위해 세계 각지에서 열심히 개발해왔으며, 여러분이 플레이하시는 것이 영광스러울뿐입니다.\n\n안내사항:\n본 모드는 플레이어가 평화회담에서 최대한 모든 지역을 합병하는 것을 전제로 하고 있으니 꼭 이행해주시길 바랍니다.\n'결정' 창의 상단부에 있는 아이콘을 토글하여 뉴스 이벤트의 빈도를 변경할 수 있습니다\n지명표기방식은 기존의 우측상단에 있는 업적버튼 자리에 있는 아이콘을 누르셔서 변경하실 수 있습니다\n이 모드는 아직 베타버전이며, 따라서 많은 버그와 충돌 그리고 골치 아픈 문제가 생길 수 있습니다\n만약 버그를 발견하셨다면, GitHub 이슈트래커에 제보해주시는 것으로 저희가 신속히 수정할 수 있게 도움을 주실 수 있습니다\n\n저희가 열심히 개발한만큼 재밌게 즐기시길 바랍니다!"
+kr.political.1.t:0 "카이저라이히 베타 0.14.2"
+kr.political.1.d:0 "카이저라이히 팀에서 자랑스럽게 하츠 오브 아이언 4의 카이저라이히 베타 0.14.2을 소개해드립니다.\n\n저희 개발진은 여러분에게 새로운 버전을 제공해드리기 위해 세계 각지에서 열심히 개발해왔으며, 여러분이 플레이하시는 것이 영광스러울뿐입니다.\n\n안내사항:\n본 모드는 플레이어가 평화회담에서 최대한 모든 지역을 합병하는 것을 전제로 하고 있으니 꼭 이행해주시길 바랍니다.\n'결정' 창의 상단부에 있는 아이콘을 토글하여 뉴스 이벤트의 빈도를 변경할 수 있습니다\n지명표기방식은 기존의 우측상단에 있는 업적버튼 자리에 있는 아이콘을 누르셔서 변경하실 수 있습니다\n이 모드는 아직 베타버전이며, 따라서 많은 버그와 충돌 그리고 골치 아픈 문제가 생길 수 있습니다\n만약 버그를 발견하셨다면, GitHub 이슈트래커에 제보해주시는 것으로 저희가 신속히 수정할 수 있게 도움을 주실 수 있습니다\n\n저희가 열심히 개발한만큼 재밌게 즐기시길 바랍니다!"
 kr.political.1.a:0 "물론이죠!"
 
 ### Generic Triggered Events ####
@@ -72,6 +72,11 @@ has_scripted_peace_desc:0 "국가가 전쟁 중이며, 승리를 목표로 하�
 mobilisation_penalty_modifier:0 "사단 한계 도달"
 
 unit_limit_count:0 "[unit_limit_count_loc]/[?max_divisions|H0]"
+
+toggle_news_text_red_fake_intel:0 "[?num_actual_divisions|G0]"
+unit_limit_count_yellow_fake_intel:0 "[?num_actual_divisions|H0]"
+unit_limit_count_green_fake_intel:0 "[?num_actual_divisions|R0]"
+
 unit_limit_count_green:0 "[?num_divisions|G0]"
 unit_limit_count_yellow:0 "[?num_divisions|H0]"
 toggle_news_text_red:0 "[?num_divisions|R0]"
@@ -81,7 +86,9 @@ unit_limit_max:0 "사단 한계값"
 unit_limit_bonus:0 "사단 한계"
 
 unit_limit_label:0 "§HMaximum Supported Divisions§!"
-unit_limit_desc:0 "Every country only has the ability to support a certain number of individual military divisions before their economy and infrastructure struggle to maintain them.§L\n\n   - Net Factories:§! [?net_factory_count]§L[unit_limit_major_power][unit_limit_world_tension]\n   - [unit_limit_economy_law]:§! [upper_limit_perc_figure]§L[unit_limit_was_capped][unit_limit_lower_limit_used][unit_limit_bonus_used]\n\n   FINAL TOTAL: §W[?max_divisions]§! (rounded up)\n\nPlease note that changes to the above take up to one in-game week before they are reflected in the calculation.§![above_unit_limit_desc]"
+unit_limit_desc:0 "Every country only has the ability to support a certain number of individual military divisions before their economy and infrastructure struggle to maintain them. §L\n\n   - Owned Factories:§! [?net_factory_count]§L[unit_limit_major_power][unit_limit_world_tension]\n   - [unit_limit_economy_law]:§! [upper_limit_perc_figure]§L[unit_limit_was_capped][unit_limit_lower_limit_used][unit_limit_upper_limit_used][unit_limit_bonus_used]\n\n   FINAL TOTAL: §W[?max_divisions]§! (rounded up)\n\nPlease note that changes to the above take up to one in-game week before they are reflected in the calculation.§![above_unit_limit_desc]"
+
+unit_limit_desc_fake_intel:0 " (§HFake Intel Divisions§! do not count towards the division limit)"
 
 unit_limit_desc_above_limit:0 "\n\n--------------\n\n§RWe have currently exceeded our capacity, and the only way to alleviate the stress on our country will be to remove some of our divisions.§!\n\nDivision Organisation: [?mobilisation_penalty_var|+=%1]\nConsumer Goods Factories: [?mobilisation_penalty_var_positive|=%H0]\nFactory Output: [?mobilisation_penalty_var|+=%]\nTraining Time: [?mobilisation_penalty_var_positive|-=%]\nReinforce Rate: [?mobilisation_penalty_var|+=%1]"
 
@@ -95,7 +102,7 @@ unit_limit_default_used_desc:0 "\n\n   Because the total provided by factories w
 unit_limit_bonus_used_desc:0 "\n\n   - Additional Modifiers: §G+[?upper_limit_unit_bonus]§! to cap"
 
 upper_limit_perc_figure_pos:0 "§G+[?upper_limit_from_factory_mult]%§!"
-upper_limit_perc_figure_neg:0 "§R-[?upper_limit_from_factory_mult]%§!"
+upper_limit_perc_figure_neg:0 "§R[?upper_limit_from_factory_mult]%§!"
 
 unit_limit_undisturbed_isolation:0 "§Y방해받지 않는 고립주의§!"
 unit_limit_isolation:0 "§Y고립주의§!"
