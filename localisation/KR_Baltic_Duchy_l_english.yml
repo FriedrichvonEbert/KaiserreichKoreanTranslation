@@ -1,10 +1,10 @@
 ﻿l_english:
 
-Baltic_Duchy_focus_SocLib:0 "사회자유주의 발트 공국 중점계통도"
-Baltic_Duchy_focus_PatAut:0 "후견전제주의 발트 공국 중점계통도"
-Baltic_Duchy_focus_NatPop:0 "발트 형제단 중점계통도"
-Baltic_Duchy_focus_Riga:0 "리가 중점계통도"
-Baltic_Union_focus:0 "발트 연방 중점계통도"
+Baltic_Duchy_focus_SocLib:0 "사회자유주의 발트 공국 중점 계통도"
+Baltic_Duchy_focus_PatAut:0 "후견전제주의 발트 공국 중점 계통도"
+Baltic_Duchy_focus_NatPop:0 "발트 형제단 중점 계통도"
+Baltic_Duchy_focus_Riga:0 "리가 중점 계통도"
+Baltic_Union_focus:0 "발트 연방 중점 계통도"
 
 ### Parties ###
 BAT_totalist_party:0 "라트비아 및 에스토니아 혁명동맹"
@@ -57,8 +57,7 @@ BAT_social_liberal_subtype_desc:0 "The Baltic German Democratic Party follows th
 BAT_national_populist_subtype_desc:0 "The Baltic Brotherhood follows its own firebrand ideology, an eclectic mutation of radical Christianity and Baltic German exceptionalism. It is a millenarian religious movement which proclaims a new reading of the Bible and calls for a restoration of Christian morality across all of Europe. In the Baltic German nation, it sees a history of religious warfare and stalwart faith, and so believes that their purpose is to champion this rebirth of Christianity in the face of Eastern and Syndicalist onslaught. Fanatically loyal to pan-Germanism, the Brotherhood believes that Germany's role should be to lead Europe in this crusade, and so its goal is to turn the Baltics into a model province for the 'National Revival', from where the flame can be brought to Germany. In practice, its regime is totalitarian, fanatically dedicated to Christian ideals, and heavily militaristic."
 
 ### Leaders ###
-POLITICS_ADOLF_FRIEDRICH_DESC:0 "Once could hardly find a place in the world which Adolf Friedrich, the first and only Duke of the United Baltic Duchy, has not seen. An erudite, veteran of the Prussian Cuirassiers, a passionate hunter and an avid car racer, he's undertaken personal pilgrimages to the Middle East, East Asia and Africa, travelling thousands of kilometers on foot and horseback, throughout most of his life. Africa and its lush wildlife hold a special place in his heart, however - he's crossed Africa from east to west, left his name upon a volcano in Tanganyika, and ultimately landed a job as the Governor of Togoland before the Weltkrieg. While definitely not a soft administrator, Adolf Friedrich displayed great interest in the lives and culture of the Togolese natives, even taking the time to learn the Ewe language. \n\nAt the end of the Weltkrieg, his experience as a colonial governor and great prestige among the German upper class led to Adolf von Pilchau's Regency Council offering the throne of the United Baltic Duchy to him. Adolf Friedrich agreed and arrived to Riga in spring of 1919, where he announced that he shall safeguard the ancient rights and privileges of the Baltic nobility and do everything in his power to be a good ruler. For the most part, Duke Adolf Friedrich is a passive monarch who dedicates his institution to patronage of the arts, sciences, and sports. He's been recognized as the best racecar driver in the entire Duchy, surpassing all of his fellow fans of the sport. Years of experience have given him plenty of political acumen, however, and, recognizing the weakness of his new realm, he's begun to speak out more often, expressing the need for reform."
-POLITICS_INNER_CIRCLE_DESC:0 ""
+POLITICS_ADOLF_FRIEDRICH_DESC:0 "한때 세계에서 발트 연합 공국의 최초이자 유일한 공작, 아돌프 프리드리히가 가보지 못한 곳은 거의 찾을 수 없었습니다. 프로이센 흉갑기병의 박식한 베테랑이자, 열정적인 사냥꾼이자, 열성적인 카레이서인 그는 인생 대부분 동안 수천 킬로미터를 걷거나 말을 타고 중동, 동아시아 그리고 아프리카로 순례를 갔습니다. 아프리카와 그곳의 멋진 야생동물들은 그의 마음속에 특별한 곳으로 남았지만, 그는 아프리카를 동서로 횡단하고 나서 탕가니카의 화산에 이름을 남겼고, 결국 대전쟁 전에 토골란트 총독직을 맡게 되었습니다. 확실히 너그럽지는 않았지만, 아돌프 프리드리히는 에웨어를 배우는데 시간을 쓰면서 토고 원주민들의 삶과 문화에 큰 관심을 드러냈습니다. \n\n대전쟁 후반에, 식민지 총독으로서의 경험과 독일 상류층 사이에서의 높은 위신이 아돌프 폰 필차우의 섭정 평의회가 그에게 발트 연합 공국의 공작 자리를 바치게 했습니다. 아돌프 프리드리히는 동의하고 1919년 봄에 리가에 도착했는데, 그곳에서 발트 귀족들의 옛 권리와 특권을 보호하고 좋은 통치자가 되기 위해 모든 힘을 기울이겠다고 연설했습니다. 보통, 아돌프 프리드리히 공작은 예술, 과학, 그리고 스포츠를 후원하는 것으로 유명한 소극적인 군주입니다. 그는 공국 전체에서 최고의 카레이서로 인정받고, 스포츠의 모든 동료들을 능가했습니다. 그러나 수년간의 경험은 그에게 많은 정치적 감각을 주었고, 그의 새로운 영역의 약점을 인식하게 하면서, 그는 개혁의 필요성을 표현하면서 더 자주 목소리를 내기 시작했습니다."
 POLITICS_WILHELM_MUNTER_DESC:0 "Gotthard Wilhelm Nikolai Munter was born to a mixed Estonian-Baltic German middle class family in Riga, and grew up during the last days of the Russian Empire. Alongside the rest of the Riga Polytechnic, he was evacuated to Russia, and later recruited into the Imperial Russian Army. Inducted into the Cadet Corps, Munter was among the first to resist the October Revolution in Petrograd, but the sheer numbers of the revolutionaries proved too much to resist. The German soldier was imprisoned, but managed to escape through connections and escape to the Baltics, where he returned to German-occupied Riga. There, having finally found rest, Munter completed his studies in chemistry and applied to join the foreign office of the United Baltic Duchy. Throughout the post-Weltkrieg period, he became increasingly drawn to the Democratic Party and its reformist ideals, and though he never officially became a member, he became regarded as the leader of its liberal coalition in Riga.\n\nPersonality wise, Munter has been almost universally regarded as ambitious, unprincipled, and with an affinity towards intrigue. Lacking social tact and softness, he often considers sentiment to be foreign to him. To Munter, emotional people are weak, insignificant dreamers and everyone he meets can only be classified into two categories - those who are useful and those who are useless. His opponents are numerous, but even those who know him well doubt he has any friends at all."
 POLITICS_SCHEUBNER_RICHTER_DESC:0 "Ludwig Maximilian Erwin Richter was born to a German musician in Riga, and added the second last name "Scheubner" after marrying into a family of Baltic German nobility and getting adopted by one of his wife's relatives, in an old German form of having one's lineage ennobled. Though he first lived in Russia, Scheubner-Richter ended up moving to Munich to complete his chemistry studies, and volunteered for the army of his new homeland when the Weltkrieg began. However, he did not serve on the front lines for long - once his superiors caught note of his Russian fluency, Scheubner-Richter was removed from the front and sent to the Ottoman Empire for a secret mission to infiltrate the Russian oil fields, under the guise of a consulate in Erzurum. Though the infiltration never took off, Scheubner-Richter witnessed the Armenian Genocide instead, and became one of the first to report about the atrocities, which he described as "a policy of annihilation fueled by racial hatred".\n\nScheubner-Richter returned to the Baltics a lieutenant and an officer in the Baltische Landeswehr, and retired from service in 1920 to settle in Riga, where he found work in the city press and maintained contact with his connections to both German and Baltic nationalists. To the dismay of his classmate Otto von Kursell, Scheubner-Richter did not end up involved in the Baltic Brotherhood, but the wartime years had turned him into just as much of a nationalist regardless. A conservative and a monarchist dismissive of democracy and vehemently against socialism, Scheubner-Richter calls in his "Deutschen Manifest" for the birth of a "new nationalism", one which is based upon the interest of the national community and one which will unite all Germans into one pan-Germanic state."
 POLITICS_HELMUTH_STEGMAN_DESC:0 "Born to a former senior surveyor of the city of Riga, firmly in the urban middle class of the Baltic German nation, Helmuth Stegman acquired an education in law during the dying days of the Russian Empire and worked as a civil servant in his home town during the German occupation. The foundation of the United Baltic Duchy did little to affect his career - he acquired the lawyer's license he wanted, worked both as a lawyer and a judge, and advanced to the Riga City Council. A political party gathered itself around him, the Baltic German State Party, a legalistic conservative movement limited to the city of Riga, yet mobilizing a large portion of the upper and middle class electorate there - eventually, it propelled him to the position of Mayor, a position he's held for the past several years.\n\nA legalistic mind, Stegman believed in thorough reform to the Baltic Duchy according to the rule of law - throughout the years, he has submitted several projects for a constitution to the Duchy, and though none of them were approved, Riga would serve as the ground for experimentation. He reformed the horrific landscape of the Rigan legal system, ushered in a sense of stability and brought greater popular representation to the Rigaer Rat, granting him the respect of the people and allowing Riga to course through the collapse of the Duchy in one piece. A besieged, isolated Riga is something he could not predict, however - and as the greatest challenge to the Baltic German nation arises, the Mayor is forced to put on a stern frown and guide its remnant, promising a bright tomorrow despite the fear in his heart."
@@ -78,9 +77,9 @@ POLITICS_PAULS_KALNINS_DESC:0 ""
 
 ### Events ###
 
-KRBAT.1:0 "발트 연합공국"
-KRBAT.1.t:0 "발트 연합공국"
-KRBAT.1.d:0 "발트해 동부 연안에 위치한 발트 연합공국은 1918년 발트의 독일계 주민의 주도로 결성된 유럽에서 가장 동쪽에 위치한 독일계 국가입니다. 초기에는 독일 제국의 새로운 회원국으로 구상되었지만, 이러한 희망은 결국 좌절되었는데, 이는 세계대전 이후 유럽의 지정학적 현실과 압도적으로 다수인 라트비아와 에스토니아 현지인이 이러한 계획을 불가능하게 만들었기 때문이지, 발트의 독일인들 스스로가 그들의 조국으로서의 정체성을 잃고 싶지 않았던 것은 아니었습니다. 에스토니아 독립전쟁을 성공적으로 진압하고 라트비아 민족주의 운동의 내부 분열 덕분에 라트비아에서 이와 유사한 봉기를 막은 뒤, 공국은 그 자리를 굳혔고, 이는 이제 거의 20년의 역사가 되어가고 있습니다.\n\n발트 연합공국은 무엇보다도 전통에 뿌리를 두고 있습니다. 공국은 발트해 지방법, 란트탁(독일식 주의회)을 통한 대표 제도, 그리고 발트 기사단의 제도적인 역할을 리보니아 연방 시절의 것으로부터 계승하고, 이러한 전통은 독일계 발트의 정체성에서 큰 부분을 차지합니다. 발트해에서 가장 가난한 귀족들조차도 모든 지주들의 각각의 불만과 걱정거리에 귀 기울이는 공동체에 사는 것을 자랑스럽게 여기고 있으며, 귀족의 기사다운 전통을 무엇보다 가장 존중합니다. 그러나 실제로 이것은 공국이 비잔틴적 정부 체제로서 거의 기능하지 않는 국가라는 것을 의미하며, 앞으로의 닥쳐올 시련에 대해 전혀 준비가 되어 있지 않다는 것입니다..."
+KRBAT.1:0 "발트 연합 공국"
+KRBAT.1.t:0 "발트 연합 공국"
+KRBAT.1.d:0 "발트해 동부 연안에 위치한 발트 연합 공국은 1918년 발트의 독일계 주민의 주도로 결성된 유럽에서 가장 동쪽에 위치한 독일계 국가입니다. 초기에는 독일 제국의 새로운 회원국으로 구상되었지만, 이러한 희망은 결국 좌절되었는데, 이는 세계대전 이후 유럽의 지정학적 현실과 압도적으로 다수인 라트비아와 에스토니아 현지인이 이러한 계획을 불가능하게 만들었기 때문이지, 발트의 독일인들 스스로가 그들의 조국으로서의 정체성을 잃고 싶지 않았던 것은 아니었습니다. 에스토니아 독립전쟁을 성공적으로 진압하고 라트비아 민족주의 운동의 내부 분열 덕분에 라트비아에서 이와 유사한 봉기를 막은 뒤, 공국은 그 자리를 굳혔고, 이는 이제 거의 20년의 역사가 되어가고 있습니다.\n\n발트 연합공국은 무엇보다도 전통에 뿌리를 두고 있습니다. 공국은 발트해 지방법, 란트탁(독일식 주의회)을 통한 대표 제도, 그리고 발트 기사단의 제도적인 역할을 리보니아 연방 시절의 것으로부터 계승하고, 이러한 전통은 독일계 발트의 정체성에서 큰 부분을 차지합니다. 발트해에서 가장 가난한 귀족들조차도 모든 지주들의 각각의 불만과 걱정거리에 귀 기울이는 공동체에 사는 것을 자랑스럽게 여기고 있으며, 귀족의 기사다운 전통을 무엇보다 가장 존중합니다. 그러나 실제로 이것은 공국이 비잔틴적 정부 체제로서 거의 기능하지 않는 국가라는 것을 의미하며, 앞으로의 닥쳐올 시련에 대해 전혀 준비가 되어 있지 않다는 것입니다..."
 KRBAT.1.a:0 "현재 통치자는 누구인가요?"
 KRBAT.1.b:0 "우리의 정부 체계는 어떻게 되어 있죠?"
 KRBAT.1.c:0 "지금 우리의 정치적 관심은 무엇이죠?"
@@ -642,11 +641,11 @@ KRBAT.119.d:0 "Following the promulgation of the Constitution, new elections are
 KRBAT.119.a:0 "The DbDP acquires a majority!"
 KRBAT.119.b:0 "The DbDP needs to work across the bench..."
 
-worldnews.424.t:0 "Collapse of the United Baltic Duchy"
-worldnews.424.d:0 "The United Baltic Duchy, a Baltic German substate of the German Empire, has finally disintegrated after several months of inner strife and partisan resistance by the Forest Brothers movement. Across the Duchy, any semblance of order has been lost and Baltic Germans flee their lands en masse.\n\nSome have ended up in Germany, whereas others have gathered in the free city of Riga, the last holdout of Baltic German rule. The conflict in the Baltics has been frozen and will surely renew in the future, but for now, Latvia and Estonia have asserted their independence."
-worldnews.424.a:0 "We will never surrender!"
-worldnews.424.b:0 "Huzzah!"
-worldnews.424.c:0 "That's a batch of maps made obsolete..."
+worldnews.424.t:0 "발트 연합 공국의 해체"
+worldnews.424.d:0 "독일 제국의 괴뢰국인 발트 연방 공국이 수개월의 내분과 산림의 친구들 운동에 의한 게릴라 저항으로 해체되었습니다. 공국 건너편에서는 질서의 외형이 모두 사라졌고, 발트 독일인들은 집단으로 그들의 땅을 탈출했습니다.\n\n일부는 결국 독일로 갔고, 다른 일부는 발트 독일인이 통치하는 마지막 보루인 리가 자유시에 모였습니다. 발트 지역의 분쟁은 멈추었고 미래에 분명히 재개될 것이지만, 현재로서는 라트비아와 에스토니아는 독립을 주장해 왔습니다."
+worldnews.424.a:0 "우리는 절대로 항복하지 않을 것이다!"
+worldnews.424.b:0 "만세!"
+worldnews.424.c:0 "쓸모없게 된 지도가 한 묶음이군..."
 
 ### Focuses ###
 
@@ -729,8 +728,8 @@ BAT_suspend_landtag:0 "Dissolve the Landtag"
 BAT_suspend_landtag_desc:0 "The Baltic Duchy prides itself in its complex, traditional, historically famous system of democratic self-rule and decentralized management. All of it is no longer needed. These burdens such as law and constitutional principle stand lesser to a disciplined society and absolute rule from the top."
 BAT_permanent_regency:0 "A Permanent Regency"
 BAT_permanent_regency_desc:0 "Our Duke, Adolf Friedrich I, vanished during the chaos of the Manteuffel Coup, and while we are distraught by his disappearance, we can only put this to good use. The Duke was too passive and liberal for our taste, Graf von der Goltz will rule as regent in his stead - and he will be far less soft."
-BAT_reinforce_government:0 "Wir Glauben, Wir Kämpfen, Wir Siegen"
-BAT_reinforce_government_desc:0 "We believe, we fight, we conquer. The new Baltic sacrificed for a new Germany. These are the mottos of the Baltic Brotherhood, and they shall serve as our guide in our transformation of the Baltic State."
+BAT_reinforce_government:0 "우리는 믿고, 싸우고, 이긴다"
+BAT_reinforce_government_desc:0 "우리는 믿고, 싸우고, 이길 것입니다. 새로운 발트는 새로운 독일을 위해 희생했습니다. 이것은 발트 형제단의 모토이며, 발트 국가의 변화에 있어 우리의 지침이 될 것입니다."
 BAT_army_with_a_state:0 "An Army with a State"
 BAT_army_with_a_state_desc:0 "The goal of the renewed Baltic state is to subjugate itself, in its entirety, to an Eastern crusade. Its economy and society must rid itself of Mammonic capitalism and dedicate everything it can to the Landeswehr. Everything within the state. Nothing outside the state. Nothing against the state."
 BAT_national_population_registry:0 "National Population Registry"
@@ -1085,16 +1084,16 @@ BAT_GER_thousand_years_desc:0 "Liberated and revived, the German Eagle once agai
 ### Ideas ###
 
 BAT_byzantine_government:0 "비잔틴 정치체제"
-BAT_byzantine_government_desc:0 "The political system of the United Baltic Duchy is based upon centuries of tradition, stemming from the Livonian Confederation or, in some cases, even earlier. The system of semi-direct representation through Landtags, an enduring loyalty to Provincial Ostsee Civil Law, and the autonomous nature of the Baltic Knighthoods, are all undoubtedly a part of the Baltic German identity - and yet, it is a system in dire need of reform."
+BAT_byzantine_government_desc:0 "발트 연합 공국의 정치체제는 리보니아 연방에서 또는 어쩌면, 더 일찍부터 유래한 수 세기의 전통에 기초하고 있습니다. 주의회를 통한 반직접 대표제, 주의 오스티(발트해의 독일어명) 민법에 항구적인 충성심, 발트 기사단의 자율성은 모두 의심할 여지없이 발트 독일인 정체성의 일부입니다. 하지만, 그것은 개혁이 절실한 시스템입니다."
 
 BAT_byzantine_government_2:0 "비잔틴 정치체제"
-BAT_byzantine_government_2_desc:0 "The political system of the United Baltic Duchy is based upon centuries of tradition, stemming from the Livonian Confederation or, in some cases, even earlier. The system of semi-direct representation through Landtags, an enduring loyalty to Provincial Ostsee Civil Law, and the autonomous nature of the Baltic Knighthoods, are all undoubtedly a part of the Baltic German identity - and yet, it is a system in dire need of reform."
+BAT_byzantine_government_2_desc:0 "발트 연합 공국의 정치체제는 리보니아 연방에서 또는 어쩌면, 더 일찍부터 유래한 수 세기의 전통에 기초하고 있습니다. 주의회를 통한 반직접 대표제, 주의 오스티(발트해의 독일어명) 민법에 항구적인 충성심, 발트 기사단의 자율성은 모두 의심할 여지없이 발트 독일인 정체성의 일부입니다. 하지만, 그것은 개혁이 절실한 시스템입니다."
 
 BAT_byzantine_government_3:0 "비잔틴 정치체제"
-BAT_byzantine_government_3_desc:0 "The political system of the United Baltic Duchy is based upon centuries of tradition, stemming from the Livonian Confederation or, in some cases, even earlier. The system of semi-direct representation through Landtags, an enduring loyalty to Provincial Ostsee Civil Law, and the autonomous nature of the Baltic Knighthoods, are all undoubtedly a part of the Baltic German identity - and yet, it is a system in dire need of reform."
+BAT_byzantine_government_3_desc:0 "발트 연합 공국의 정치체제는 리보니아 연방에서 또는 어쩌면, 더 일찍부터 유래한 수 세기의 전통에 기초하고 있습니다. 주의회를 통한 반직접 대표제, 주의 오스티(발트해의 독일어명) 민법에 항구적인 충성심, 발트 기사단의 자율성은 모두 의심할 여지없이 발트 독일인 정체성의 일부입니다. 하지만, 그것은 개혁이 절실한 시스템입니다."
 
 BAT_byzantine_government_4:0 "비잔틴 정치체제"
-BAT_byzantine_government_4_desc:0 "The political system of the United Baltic Duchy is based upon centuries of tradition, stemming from the Livonian Confederation or, in some cases, even earlier. The system of semi-direct representation through Landtags, an enduring loyalty to Provincial Ostsee Civil Law, and the autonomous nature of the Baltic Knighthoods, are all undoubtedly a part of the Baltic German identity - and yet, it is a system in dire need of reform."
+BAT_byzantine_government_4_desc:0 "발트 연합 공국의 정치체제는 리보니아 연방에서 또는 어쩌면, 더 일찍부터 유래한 수 세기의 전통에 기초하고 있습니다. 주의회를 통한 반직접 대표제, 주의 오스티(발트해의 독일어명) 민법에 항구적인 충성심, 발트 기사단의 자율성은 모두 의심할 여지없이 발트 독일인 정체성의 일부입니다. 하지만, 그것은 개혁이 절실한 시스템입니다."
 
 BAT_parliamentary_control_idea:0 "Parliamentary Control"
 BAT_parliamentary_control_idea_desc:0 "Decision-making power in the Duchy has been centralized in the Landtag, allowing it to exert control over the Landeswehr and the Convent of Land Administrators, thus eroding the power of the Baltic Knighthoods."
