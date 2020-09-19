@@ -9340,21 +9340,21 @@ SYR_infantry_equipment_0_desc:0 "Mauser G98 was the main service rifle of the Ot
 ###
 
 ### Land ###
-SZC_infantry_equipment_0:0 "SMB M1907 차이니즈 마우저" # Essentially the Gewehr98 with Dadao lol, OTL produced by Gongxian arsernal in Sichuan until 1935
+SZC_infantry_equipment_0:0 "SMB M1907 중국제 마우저" # Essentially the Gewehr98 with Dadao lol, OTL produced by Gongxian arsernal in Sichuan until 1935
 SZC_infantry_equipment_0_short:0 "SMB M1907"
-SZC_infantry_equipment_0_desc:0 "원래 청 제국의 통치 중 특별한 6.8×57mm 카트리지가 있는 독일의 마우저 M1904의 파생형인 광서 33식으로 생산되었으나, 이후 1915년까지 표준 7.92×57mm 마우저로 다시 생산되었습니다. 개량에도 불구하고 총체적으로 신형 소총에 비해 열등하고, 자주 허술하게 유지되나, 이 무기는 단호하고 다루기 어렵다면 믿을 수 있는 것으로 알려져 있습니다.\n\n이 무기는 주로 사천기계국에서 생산되지만, 장비 부족과 개인적 선호로 인해 큰 칼과 같은 비표준 무기와 함께 사용되는 경우가 많이 보입니다."
-SZC_infantry_equipment_1:0 "쓰촨 27식"
-SZC_infantry_equipment_1_short:0 "쓰촨 27식"
-SZC_infantry_equipment_1_desc:0 "원래 '선통 27식'으로 불리던 이 소총은 청의 부활 후 1935년 독일의 원조를 통해 청에 들어왔습니다. 이 무기는 기능상 독일의 마우저 M1924를 거의 모방한 것으로 무게와 반동 면에서 훨씬 오래된 88식에 비해 상당히 개선된 것입니다.\n\n한양 조병창에서 독일의 기계로 처음 만들어진 제조법은 비록 얼마간 이전 것을 완전히 대체하지는 못하겠지만 청두까지 퍼졌습니다."
-SZC_infantry_equipment_2:0 "'탬슨' Model 1921 “Gezaolonglong”" #Intentionally misspelt Thompson
+SZC_infantry_equipment_0_desc:0 "본디 광서 33식은 청 제국 통치기에 특수 6.8x57mm 탄약을 사용하는 독일제 마우저 모델 1094과 유사한 복제품으로 생산되었으나, 1915년의 표준 7.92×57mm 마우저로 뒤늦게 약실재조정이 이루어 졌습니다. 개선이 이루어졌음에도 신형 소총보다 총체적으로 성능이 뒤떨어지면서, 때때로 유지보수도 허술하게 이루어지지만, 어떤 환경에서도 견고하고 신뢰성이 높은 것으로 알려져 있습니다. \n\n이 파생형은 주로 사천기계국에서 생산되긴 하나, 장비 부족과 개인적인 취향으로 큰 칼과 같은 비표준 무기와 같이 사용되는 모습이 자주 보입니다."
+SZC_infantry_equipment_1:0 "사천 27식"
+SZC_infantry_equipment_1_short:0 "사천 27식"
+SZC_infantry_equipment_1_desc:0 "원래 '선통 27식'으로 불리던 이 소총은 청 제국의 부활 후 1935년의 독일 원조를 통해 들어왔습니다. 이 무기는 독일의 마우저 M1924에 근접한 복제품으로, 훨씬 오래된 88식과 비교해 무게와 반동 부분에서 상당히 개선된 모습을 보여줍니다.\n\n첫 생산은 한양조병창에서 독일제 공구를 이용해 생산되었는데, 아마 이를 완벽히 대체하진 못하더라도 생산 방법은 이미 청두까지 널리 퍼졌습니다."
+SZC_infantry_equipment_2:0 "'탬슨' Model 1921 “흘조롱롱”" #Intentionally misspelt Thompson
 SZC_infantry_equipment_2_short:0 "'탬슨' M1921"
-SZC_infantry_equipment_2_desc:0 "미국이 중국으로 군사 무기 수출에 대한 국제적인 금수조치에 앞장섰음에도 불구하고, 많은 M1921 톰슨들이 1920년대에 중국으로 수출되었습니다. 복제본들은 적어도 세 곳의 지방 조병창에서 생산되었습니다. 쓰촨성 복제본에는 원래 글자를 잘못 인식한 '탬슨'이라는 글자가 찍혀 있었습니다."
-SZC_infantry_equipment_3:0 "쓰촨 신하이 33식"
-SZC_infantry_equipment_3_short:0 "쓰촨 33식"
-SZC_infantry_equipment_3_desc:0 "33식은 1914년부터 생산된 류장군 소총을 기반으로 한 반자동소총입니다. 유사하게 보이지만 33식은 더 짧고, 리시버의 후면을 덮고 있으며, 가스트랩식은 단순한 가스 포트로 대체되었습니다. 신형 소총은 더 이상 수동 조치로 전환할 필요가 없고, 체코의 ZH-29 소총과 ZB-26 경기관총의 탄창을 사용합니다."
-SZC_support_weapons:0 "쓰촨 슈바르츠로제 68식 6.8mm 기관총 & 다촨 조병창 82.5mm 박격포"
-SZC_support_weapons2:0 "쓰촨 노이하우젠 KE7 & 쓰촨 선통 23식 82mm 박격포"
-SZC_support_weapons3:0 "선통 27식 중기관총 & 쓰촨 선통 34식 60mm 박격포"
+SZC_infantry_equipment_2_desc:0 "미국이 대중국 군사 무기 수출에 대하여 국제적인 금수조치에 앞장섰음에도 불구하고, 1920년대에 수많은 M1921 톰슨들이 중국으로 수출되었습니다. 복제본들은 적어도 세 곳의 지방 조병창에서 생산되었습니다. 쓰촨성 복제본에는 원래 글자를 잘못 인식한 '탬슨'이라는 글자가 찍혀 있었습니다."
+SZC_infantry_equipment_3:0 "사천 신해 33식"
+SZC_infantry_equipment_3_short:0 "사천 33식"
+SZC_infantry_equipment_3_desc:0 "33식은 1914년부터 생산된 류장군 소총을 기반으로 한 반자동소총입니다. 둘은 유사하게 보이지만 33식은 더 짧고, 리시버의 후면을 덮고 있으며, 가스트랩식은 단순한 가스 포트로 대체되었습니다. 신형 소총은 거기에다 더 이상 급탄방식을 전환할 필요가 없고, 보헤미아의 ZH-29 소총과 ZB-26 경기관총의 탄창을 사용합니다."
+SZC_support_weapons:0 "사천 슈바르츠로제 68식 6.8mm 기관총 & 달현조병창 82.5mm 박격포"
+SZC_support_weapons2:0 "사천 노이하우젠 KE7 & 사천 선통 23식 82mm 박격포"
+SZC_support_weapons3:0 "선통 27식 중기관총 & 사천 선통 34식 60mm 박격포"
 
 ###
 ### Kumul Khanate ###
