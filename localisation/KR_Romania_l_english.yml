@@ -217,15 +217,15 @@ ROM_warrior_cult_desc:0 ""
 
 ### Custom tooltips ###
 
-ROM_king_influence_6:0 "§G완전 전제 군주정§!"
-ROM_king_influence_5:0 "§G강력한 전제 군주정§!"
-ROM_king_influence_4:0 "§G전제 군주정§!"
+ROM_king_influence_6:0 "§G완전한 전제군주정§!"
+ROM_king_influence_5:0 "§G강력한 전제군주정§!"
+ROM_king_influence_4:0 "§G전제군주정§!"
 ROM_king_influence_3:0 "§Y권력 평형§!"
 ROM_king_influence_2:0 "§Y약화된 권력§!"
 ROM_king_influence_1:0 "§R줄어드는 권력§!"
 ROM_king_influence_0:0 "§R미약한 통제§!"
 
-ROM_captain_influence_6:0 "§G완전 통제§!"
+ROM_captain_influence_6:0 "§G완전한 통제§!"
 ROM_captain_influence_5:0 "§G입법부 통제§!"
 ROM_captain_influence_4:0 "§G강력한 권력§!"
 ROM_captain_influence_3:0 "§Y권력 평형§!"
@@ -245,14 +245,14 @@ ROM_1king:0 "국왕의 영향력이 적어도 §R줄어드는 권력§! 이상�
 ROM_5cap:0 "군단의 영향력이 적어도 §Y권력 평형§! 이상이어야 합니다."
 ROM_5king:0 "국왕의 영향력이 적어도 §Y권력 평형§! 이상이어야 합니다."
 ROM_10cap:0 "군단이 영향력이 적어도 §G강력한 권력§! 이상이어야 합니다."
-ROM_10king:0 "국왕의 영향력이 적어도 §G전제 군주정§! 이상이어야 합니다."
+ROM_10king:0 "국왕의 영향력이 적어도 §G전제군주정§! 이상이어야 합니다."
 
-ROM_eco_explainer_king:0 "§C이 중점 계통도의 마지막 국민정신은 플레이어의 선택에 따라 고유의 국민정신을 줄 것입니다. 카롤 왕의 프로그램을 시작함으로써 플레이어의 마지막 중점은 그의 비전인 도시화되고 진보한 루마니아에 더 가까워질 것입니다.§!\n"
-ROM_eco_explainer_cap:0 "§C이 중점 계통도의 마지막 국민정신은 플레이어의 선택에 따라 고유의 국민정신을 줄 것입니다. 코드레아누의 개혁을 시작함으로써 플레이어의 마지막 중점은 그의 비전인 강력한 농업국가인 루마니아에 더 가까워질 것입니다.§!\n"
-ROM_eco_cap:0 "§H코드레아누의 경제 정책§!에 가까워집니다.\n이 중점을 채택하는 것은 §G코드레아누의 정치적 영향력§!을 §R소모§!할 것입니다.\n"
-ROM_eco_captain_strong:0 "§H코드레아누의 경제 정책§!에 훨씬 더 가까워집니다.\n이 중점을 채택하는 것은 §G코드레아누의 정치적 영향력§!을 §R소모§!할 것입니다.\n"
-ROM_eco_king:0 "§H카롤 왕의 경제 정책§!에 가까워집니다.\n이 중점을 채택하는 것은 §G국왕의 정치적 영향력§!을 §R소모§!할 것입니다.\n"
-ROM_eco_king_strong:0 "§H카롤 왕의 경제 정책§!에 훨씬 더 가까워집니다.\n이 중점을 채택하는 것은 §G국왕의 정치적 영향력§!을 §R소모§!할 것입니다.\n"
+ROM_eco_explainer_king:0 "§C이 중점계통도의 마지막 국민정신은 플레이어의 선택에 따라 고유의 국민정신을 줄 것입니다. 카롤 왕의 프로그램을 시작함으로써 플레이어의 마지막 중점은 그의 비전인 도시화되고 진보한 루마니아에 더 가까워질 것입니다.§!\n"
+ROM_eco_explainer_cap:0 "§C이 중점계통도의 마지막 국민정신은 플레이어의 선택에 따라 고유의 국민정신을 줄 것입니다. 코드레아누의 개혁을 시작함으로써 플레이어의 마지막 중점은 그의 비전인 강력한 농업국가인 루마니아에 더 가까워질 것입니다.§!\n"
+ROM_eco_cap:0 "§H코드레아누의 경제정책§!에 가까워집니다.\n이 중점을 채택하는 것은 §G코드레아누의 정치적 영향력§!을 §R소모§!할 것입니다.\n"
+ROM_eco_captain_strong:0 "§H코드레아누의 경제정책§!에 훨씬 더 가까워집니다.\n이 중점을 채택하는 것은 §G코드레아누의 정치적 영향력§!을 §R소모§!할 것입니다.\n"
+ROM_eco_king:0 "§H카롤 왕의 경제정책§!에 가까워집니다.\n이 중점을 채택하는 것은 §G국왕의 정치적 영향력§!을 §R소모§!할 것입니다.\n"
+ROM_eco_king_strong:0 "§H카롤 왕의 경제정책§!에 훨씬 더 가까워집니다.\n이 중점을 채택하는 것은 §G국왕의 정치적 영향력§!을 §R소모§!할 것입니다.\n"
 ROM_eco_finish_explainer:0 "§C이전의 경제 선택에 따라 국민정신을 얻을 것입니다. 코드레아누의 개혁은 강력한 인력 기반과 안정도를 부여할 것이고, 카롤의 비전은 산업과 기술 발전에 초점을 맞출 것입니다.§!\n"
 
 ROM_malaxa_tooltip:0 "산업 업체 §G말락사§!를 해금합니다."
@@ -283,7 +283,7 @@ ROM_leave_belgrade_pact_if_leader:0 "베오그라드 협약 탈퇴"
 ROM_leave_faction:0 "[FROM.GetFactionName] 탈퇴"
 ROM_leave_faction_desc:0 ""
 
-ROM_volunteers_arrive:0 "루마이나 자원병 사단이 도착할 것입니다."
+ROM_volunteers_arrive:0 "루마니아 자원병 사단이 도착할 것입니다."
 ROM_volunteers:0 "루마니아 지원병 사단이 군에 통합될 것입니다."
 
 ROM_pol_king:0 "§g카롤 왕§!의 영향력을 증가시킵니다.\n"
@@ -309,10 +309,10 @@ ROM_legionary_national_populist:0 "루마니아 국민군단국가"
 ROM_legionary_national_populist_DEF:0 "루마니아 국민군단국가"
 ROM_legionary_national_populist_ADJ:0 "루마니아 국민군단국가"
 
-ROM_cantacuzino_is_hog:0 "§H알렉산드루 칸타쿠지노§!가 정부 수반입니다"
-ROM_codreanu_is_hog:0 "§H코르넬리우 코드레아누§!가 정부 수반입니다"
-ROM_sima_is_hog:0 "§H호리아 시마§!가 정부 수반입니다"
-ROM_mota_is_hog:0 "§H이온 모타§!가 정부 수반입니다"
+ROM_cantacuzino_is_hog:0 "§H알렉산드루 칸타쿠지노§!가 정부수반입니다"
+ROM_codreanu_is_hog:0 "§H코르넬리우 코드레아누§!가 정부수반입니다"
+ROM_sima_is_hog:0 "§H호리아 시마§!가 정부수반입니다"
+ROM_mota_is_hog:0 "§H이온 모타§!가 정부수반입니다"
 
 ROM_PNT_madgearu_tt:0 "§HVirgil Madgearu§! and the §Rleft-wing§! will lead the §HNational Peasants' Party§!.\n"
 ROM_PNT_maniu_tt:0 "§HIuliu Maniu§! and the §Hcentre§! will lead the §HNational Peasants' Party§!.\n"
@@ -369,7 +369,7 @@ ROM_will_lead_to_war_with_austria:0 "§RAustria may declare war on us to protect
 ### Decisions ###
 ROM_public_appearances:0 "공개 석상 마련"
 ROM_public_appearances_desc:0 "외모는 시골 사람들에게 전부일 수 있습니다. 그리고 그들에게 국왕의 화려함을 보여준다면 인구수의 중요한 위치를 차지하는 그들 사이에서 우리의 지지를 늘릴 수 있습니다."
-ROM_recruit_conspirators:0 "군주제 지지자 모집"
+ROM_recruit_conspirators:0 "군주주의자 모집"
 ROM_recruit_conspirators_desc:0 "녹색 히드라를 처치하려면 충성스러운 부하가 필요합니다. 적절한 소통 통로를 통해 그들을 찾아내서 우리 편으로 데려올 것입니다."
 ROM_conspirators:0 "선장의 권력을 줄여서 그의 영향력을 감소시킵니다."
 ROM_high_society_contacts:0 "고위 사회 계층에게 접근"
@@ -504,7 +504,7 @@ ROM_negotiate_with_Germany:0 "독일과의 협상"
 
 ### Focuses ###
 
-ROM_focus_tree:0 "루마니아 중점 계통도"
+ROM_focus_tree:0 "루마니아 중점계통도"
 
 ROM_manoeuvres_in_the_carpathians:0 "카르파티아 기동훈련"
 ROM_manoeuvres_in_the_carpathians_desc:0 "카르파티아 산맥은 루마니아인들을 둘로 갈라놓았습니다. 절반은 우리나라에 살고 있고, 나머지 절반은 헝가리의 억압적인 통치의 군홧발 아래서 살고 있습니다. 부쿠레슈티 조약 11조는 오스트리아-헝가리에게 통행권과 주변의 전략적 요충지를 양도하게 만들었지만, 우리는 언젠가 이 땅들을 되찾을 날이 올 것을 알고 있습니다. 국경에서의 대규모 기동훈련은 우리의 이웃 민족에 대한 의지를 보여줄 것입니다."
@@ -843,7 +843,7 @@ romania.0.d:0 "루마니아 왕국은 1916년 헝가리인들로부터 트란실
 romania.0.a:0 "루마니아의 새로운 미래를 위해!"
 #Great Game Mechanics
 romania.1.t:0 "그레이트 게임 메커니즘"
-romania.1.d:0 "코드레아누와 국왕에게는 사용 가능한 추가 자원인 영향력이 있습니다. 새로운 법과 정책은 군단이 관리하는 의회와 국왕의 승인을 필요로 합니다. 이것은 양 측이 각자의 의제를 추진하기 위해 서로 양보할 것을 강요합니다.\n\nEntrench Party Control나 '카마릴라의 씨앗을 뿌리다' 중점을 완료한 이후 코드레아누나 카롤의 관점에서 시스템과 상호 작용하기 위한 일련의 결정들이 해금됩니다. 정치적 결정은 어느 편을 선택할지에 대한 결정이고, 만약 플레이어가 통일 이후 그 편을 집권시킨다면 국가는 그렇지 않을 때보다 더 강해질 것입니다.\n\n결정 외에도 §b영향력§!은 중점 계통도의 정치 중점으로도 얻을 수 있으며 주로 토지개혁 계통도에 소모하기 위해 필요합니다. 하지만 조심해야 합니다. 상대방 또한 자신들만의 영향력을 가지고 있기 때문에 플레이어에게 불리한 많은 사건들을 일으킬 수 도있습니다."
+romania.1.d:0 "코드레아누와 국왕에게는 사용 가능한 추가 자원인 영향력이 있습니다. 새로운 법과 정책은 군단이 관리하는 의회와 국왕의 승인을 필요로 합니다. 이것은 양 측이 각자의 의제를 추진하기 위해 서로 양보할 것을 강요합니다.\n\nEntrench Party Control나 '카마릴라의 씨앗을 뿌리다' 중점을 완료한 이후 코드레아누나 카롤의 관점에서 시스템과 상호 작용하기 위한 일련의 결정들이 해금됩니다. 정치적 결정은 어느 편을 선택할지에 대한 결정이고, 만약 플레이어가 통일 이후 그 편을 집권시킨다면 국가는 그렇지 않을 때보다 더 강해질 것입니다.\n\n결정 외에도 §b영향력§!은 중점계통도의 정치 중점으로도 얻을 수 있으며 주로 토지개혁 계통도에 소모하기 위해 필요합니다. 하지만 조심해야 합니다. 상대방 또한 자신들만의 영향력을 가지고 있기 때문에 플레이어에게 불리한 많은 사건들을 일으킬 수 도있습니다."
 romania.1.a:0 "승리하는 자만이 전리품을 가질 것이다!"
 #Union Day
 romania.7.t:0 "통일 기념일"
