@@ -85,12 +85,12 @@ JAP_sow_chaos_tt:0 "파종 정책은 융통성을 유지함으로서 모든 중�
 JAP_fading_sun:0 "낙일"
 JAP_fading_sun_desc:0 "[JAP_fading_sun_desc_text]"
 JAP_fading_sun_desc.JAP:0 "우리는 대다수 대륙 영토를 통제할 수 없게 되었습니다! 이 전쟁을 얼마간 지속할 수는 있지만, 그리 오래 가진 않을 것입니다. 전쟁에 대한 정치적 지지는 이미 줄어들고 있습니다. 제국이 살아남으려면 우리는 영토를 되찾아야 합니다."
-JAP_fading_sun_desc.other:0 "우리는 일본을 대다수 대륙 지역에서 밀어내는 데 성공했습니니다! 그들이 공격을 시도하고 대항할 것이라는 점은 의심의 여지가 없지만, 이 일은 일본에 큰 타격입니다. 그들이 자신의 땅을 되찾지 못 한다면, 고조되는 정치적 압력으로인해 그들은 협상에 나설 수 밖에 없게 될 것입니다."
+JAP_fading_sun_desc.other:0 "우리는 일본을 대다수 대륙 지역에서 밀어내는 데 성공했습니니다! 그들이 공격을 시도하고 대항할 것이라는 점은 의심의 여지가 없지만, 이 일은 일본에 큰 타격입니다. 그들이 자신의 땅을 되찾지 못 한다면, 고조되는 정치적 압력으로 인해 그들은 협상에 나설 수 밖에 없게 될 것입니다."
 
-is_fully_controlled_by_JAP_or_war_ally_tooltip:0 "(은)는 §Y[JAP.GetNameDef]§!, 혹은 동맹에 의해 완전히 통제되고 있습니다."
-JAP_cannot_call_allies_in_idea:0 "§R우리는 전쟁에서 우세하거나 불리하지 않는 한 동맹국을 부를 수 없습니다.§!"
-JAP_cannot_call_allies_in:0 "§R전쟁을 통한 전리품을 나눌 필요는 없습니다! 전쟁에서 우세하거나 불리하지 않는 한 동맹국을 부를 수 없습니다.§!"
-JAP_wont_let_allies_join:0 "§R일본은 전쟁의 성과를 우리와 나누고 싶어하지 않을 것입니다! 그들이 전쟁에서 우세하거나 불리하지 않는 한, 우리에게 도움을 요청하지 않을 것입니다.§!"
+is_fully_controlled_by_JAP_or_war_ally_tooltip:0 "지역이 §Y[JAP.GetNameDef]§! 혹은 동맹에 의해 완전히 통제되고 있습니다."
+JAP_cannot_call_allies_in_idea:0 "§R우리는 전쟁에서 우세하거나 불리하지 않다면 동맹국을 부를 수 없습니다§!"
+JAP_cannot_call_allies_in:0 "§R전쟁을 통한 전리품을 나눌 필요는 없습니다! 전쟁에서 우세하거나 불리하지 않다면 동맹국을 부를 수 없습니다§!"
+JAP_wont_let_allies_join:0 "§R일본은 전쟁의 성과를 우리와 나누고 싶지 않을 것입니다! 전쟁에서 우세하거나 불리하지 않다면, 우리에게 도움을 요청하지 않을 것입니다§!"
 
 JAP_speed_up_collapse_bad_tooltip:0 "§R적들의 압도적인 특성은 우리의 붕괴까지 처음에 생각했던 것보다 훨씬 더 가까워졌다는 것을 의미합니다.§!"
 JAP_speed_up_collapse_good_tooltip:0 "§G우리가 가진 압도적인 특성은 일본의 붕괴가 생각했던 것보다 훨씬 더 가까워 졌다는 것을 의미합니다.§!"
@@ -288,7 +288,7 @@ JAP_withdraw_from_sphere_desc:0 "우리에게 주어지는 혜택에도 불구�
 JAP_nationalize_japanese_investments:0 "일본 투자 자본 국유화"
 JAP_nationalize_japanese_investments_desc:0 "[Root.GetNameDef]의 대한 일본 투자자가 많아지면서 많은 우려가 제기되고 있습니다. 터무니 없는 비용이 필요하고 또한 일본 경제공영권에서 완전히 탈퇴해야 할 필요가 있지만, 우리는 그들의 투자를 국유화하고 [Root.GetAdjective] 경제가 저들에게 꼭두각시 수준으로 종속되는 것을 막아야만 합니다."
 
-JAP_member_of_co_prosperity_sphere:0 "§H대동아 공영권§!의 일원이 될 것입니다.\n     건설 속도: [?0.2|+=%]\n     자원 획득 효율: [?global.sphere_resources_boost_member|+=%]\n     소비재 공장: [?global.sphere_goods_boost_member|=%0H]"
+JAP_member_of_co_prosperity_sphere:0 "§H공영권§!의 일원이 됨\n     건설 속도: [?0.2|+=%]\n     자원 획득 효율: [?global.sphere_resources_boost_member|+=%]\n     소비재 공장: [?global.sphere_goods_boost_member|=%0H]"
 
 KR_co_prosperity_sphere_tooltip:0 "§H[GetCoProsperitySphereName]§!\n[GetCoProsperitySphereEffects]"
 KR_co_prosperity_sphere_tooltip_desc:0 "§L[GetCoProsperitySphereDesc]§!"
@@ -1097,11 +1097,11 @@ japfor.464.t:0 "우리의 충성에 대한 일본의 보답"
 japfor.464.d:0 "현명하게도 일본 정부는 우리의 충성에 보답하기로 결정했고, 정당한 우리 영토들이 다시 우리 손에 돌아왔습니다. 물론 우리에겐 대단히 고마울 뿐입니다만, 너무 방심하진 마십시오. 이런 움직임으로 인해 협화회의 영향력이 증가했고, 향후 일본의 뜻에 반대하기가 더 어려워 질 수 있습니다."
 japfor.464.a:0 "그 땅은 처음부터 우리 것이었다."
 
-japfor.465.t:0 "압도적인 힘을가진 적"
-japfor.465.d:0 "지금쯤이면 우리의 적들은 우리를 훨씬 능가한다는 것을 모두가 알게되었을 것입니다. 우리 첩보국이 모아온 정보들이 실제로 일어났습니다. 공공의 이익과 도덕성을 유지하기 위해 우리가 할 수 있는 일을 하겠지만, 우리의 가장 열렬한 지지자들조차 이 싸움을 계속할 가치가 있는지 의심하기 시작했습니다. 우리는 그저 피할 수 없는 운명을 뒤로 미루기만 하는 것일까요?"
+japfor.465.t:0 "압도적인 힘을 지닌 적"
+japfor.465.d:0 "지금쯤이면 우리의 적이 우리를 훨씬 능가한다는 것을 모두가 알게되었을 것입니다. 우리 첩보국이 모아온 정보들이 실제로 일어났습니다. 공공의 이익과 도덕성을 유지하기 위해 우리가 할 수 있는 일을 하겠지만, 우리의 가장 열렬한 지지자들조차 이 싸움을 계속할 가치가 있는지 의심하기 시작했습니다. 우리는 그저 피할 수 없는 운명을 뒤로 미루기만 하는 것일까요?"
 japfor.465.a:0 "만회할 수 있는 기회가 올거야..."
 
-japfor.466.t:0 "압도적인 힘을가진 우리"
+japfor.466.t:0 "압도적인 힘을 지닌 우리"
 japfor.466.d:0 "우리와 일본 둘 다 우리 군대의 수가 그들의 수보다 훨씬 많다는 사실을 인정하고 있습니다. 중요한것은 이 소식이 일본 대중에게 전해지면서, 일본 정부에 대한 지지도도 떨어지고 있습니다. 만약 우리가 이러한 장점을 계속 유지한다면 그들은 우리가 기대했던 것보다 더 빨리 항복할 것입니다."
 japfor.466.a:0 "훌륭한 소식이군!"
 
