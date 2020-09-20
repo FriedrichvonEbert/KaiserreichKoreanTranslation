@@ -3259,7 +3259,7 @@ NFA_fighter_equipment_1_short:0 "MB.150"
 NFA_fighter_equipment_2:0 "드와틴 D.520"
 NFA_fighter_equipment_2_short:0 "D.520"
 NFA_fighter_equipment_3:0 "아르세날 들라네 AD.15"
-NFA_fighter_equipment_3_short:0 "AD.15" #Pulqui I
+NFA_fighter_equipment_3_short:0 "AD.15"
 NFA_nav_bomber_equipment_1:0 "라테코르 Late 290"
 NFA_nav_bomber_equipment_1_short:0 "Late 290"
 NFA_nav_bomber_equipment_2:0 "라테코르 Late 298"
@@ -3305,9 +3305,9 @@ NFA_transport_plane_equipment_1:0 "블로흐 MB.220"
 NFA_transport_plane_equipment_1_short:0 "MB.220"
 NFA_scout_plane_equipment_1:0 "Bloch MB.131"
 NFA_scout_plane_equipment_1_short:0 "MB.131"
-
 NFA_scout_plane_equipment_2:0 "Dewoitine D.720"
 NFA_scout_plane_equipment_2_short:0 "D.720"
+
 ###
 ### NGF ###
 ###

@@ -1,4 +1,5 @@
 ﻿l_english:
+
 country_capitulated.0.t:0 "[Root.GetName]의 항복"
 country_capitulated.0.d_positive_both_no_faction:0 "\n비열한 [Root.GetAdjective](은)는 [From.From.GetAdjective]군의 압도적인 전국토 유린에 더 이상 저항할 수 없다고 [From.From.GetLeader](이)가 발표하였습니다. [Root.GetAdjective] 정부는 도망치기로 결정했고 망명에 들어갔습니다. 그들의 주력군은 항복하였으며, [From.From.GetName](은)는 이제 그들의 본토를 통제하고 있습니다. \n다른 곳에서 전쟁은 계속되고 있지만, 이것은 [From.From.GetName]의 위대한 승리입니다."
 country_capitulated.0.d_positive_prev_no_faction:0 "\n비열한 [Root.GetAdjective](은)는 [From.From.GetAdjective]군의 압도적인 전국토 유린에 더 이상 저항할 수 없다고 [From.From.GetLeader](이)가 발표하였습니다. [Root.GetAdjective] 정부는 도망치기로 결정했고 망명에 들어갔습니다. 그들의 주력군은 항복하였으며, [From.From.GetName](은)는 이제 그들의 본토를 통제하고 있습니다.\n다른 곳에서 [Root.GetFactionName] 진영과의 전쟁은 계속되고 있지만, 이것은 [From.From.GetName]의 위대한 승리입니다."

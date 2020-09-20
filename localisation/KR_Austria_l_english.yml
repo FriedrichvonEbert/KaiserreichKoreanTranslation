@@ -33,8 +33,8 @@ AUS_request_forces_puppets:0 "We may now request army divisions from our Cisleit
 AUS_request_forces_hungary:0 "We may now request army divisions from Hungary."
 
 AUS_military_occupation_tooltip:0 "헝가리 영토를 계속 영유하게 될 것이지만, 모든 속국들이 이에 만족하지는 않을 것입니다. \n\n"
-AUS_danubian_federation_tooltip:0 "'도나우-알프스-아드리아 연방'이 수립될 것입니다. \n\n"
-AUS_united_states_tooltip:0 "'대 오스트리아 합중국'이 수립될 것입니다. \n\n"
+AUS_danubian_federation_tooltip:0 ""도나우-알프스-아드리아 연방"이 수립될 것입니다. \n\n"
+AUS_united_states_tooltip:0 ""대 오스트리아 합중국"이 수립될 것입니다. \n\n"
 AUS_dualism_restored_tooltip:0 "헝가리는 통합될 것이고, 오스트리아-헝가리 제국이 재결성될 것입니다. \n\n"
 
 ITA_bruh_why:0 "공화국이 우리의 외교적 접근을 거부함"
@@ -104,9 +104,9 @@ AUS_kaiser_faith:0 "황제에 대한 믿음"
 AUS_kaiser_faith_desc:0 "사람들은 새로운 제국을 신뢰하게 되었습니다. 신께서는 황제 폐하를 수호하소서!"
 
 AUS_k_u_k_armee_bonus:0 "공동 군대 모집"
-AUS_k_u_k_armee_bonus_desc:0 "1867년 3월 15일에 설립된 오스트리아와 헝가리의 공동 군대는 이중 제국 군대의 주요 부분이 되었습니다."
+AUS_k_u_k_armee_bonus_desc:0 "The Gemeinsame Armee, or Common Army, is the main component of the Monarchy's bewaffneten Macht, or \"armed power\". It is the largest and best-equipped part of the army, with its recruits coming from all corners of Austria-Hungary."
 AUS_k_u_k_armee_bonus_2:0 "공동 군대 모집"
-AUS_k_u_k_armee_bonus_2_desc:0 "1867년 3월 15일에 설립된 오스트리아와 헝가리의 공동 군대는 이중 제국 군대의 주요 부분이 되었습니다."
+AUS_k_u_k_armee_bonus_2_desc:0 "The Gemeinsame Armee, or Common Army, is the main component of the Monarchy's bewaffneten Macht, or \"armed power\". It is the largest and best-equipped part of the army, with its recruits coming from all corners of Austria-Hungary."
 
 AUS_DNF_political_instability:0 "정치적 불안정"
 AUS_DNF_political_instability_desc:0 "국가개인자치원칙이 자리를 잡고 있습니다. 오스트리아의 많은 민족들은 현재의 정치적 혼란을 배경으로 민족 정당을 재조직하고 있습니다. 그런 급진적인 변화는 많은 불안정을 가져왔지만 회의론자들조차도 그렇게 나쁘지는 않을 것이라고 예상했습니다."
@@ -446,7 +446,7 @@ AUS_direct_rule_from_Vienna:0 "중앙집권화"
 AUS_direct_rule_from_Vienna_desc:0 "현재 우리의 속국들은 빈에 더 가까워지고 있기 때문에 새로운 속국을 어떻게 재-통합 할 것인가에 대한 계획을 세우고 있습니다."
 
 AUS_kk_Education_Reform:0 "제국 교육개혁"
-AUS_kk_Education_Reform_desc:0 "1920년대 오스트리아 Proper에서 일어난 다양한 교육 제도 개혁을 시스라이타니아(제국 서부)의 다른 주들로 가져옴으로써 우리는 우리 속국들의 학생들을 보다 효율적으로 양성 할 수있게되었고, 통합된 오스트리아에 대한 아이디어에 더욱 개방적으로 다가갈 수 있게 되었습니다.
+AUS_kk_Education_Reform_desc:0 "1920년대 오스트리아 Proper에서 일어난 다양한 교육 제도 개혁을 시스라이타니아(제국 서부)의 다른 주들로 가져옴으로써 우리는 우리 속국들의 학생들을 보다 효율적으로 양성 할 수있게되었고, 통합된 오스트리아에 대한 아이디어에 더욱 개방적으로 다가갈 수 있게 되었습니다."
 
 AUS_the_kk_Identity:0 "제국의 정체성"
 AUS_the_kk_Identity_desc:0 "오스트리아-헝가리 제국은 종종 같은 가문에 의해 통치되는 독립 국가들의 덩어리로 묘사되어 왔습니다. 그들이 제국을 마음껏 조롱하고 있는 지금, 우리는 황제를 믿어야 합니다."
@@ -464,7 +464,7 @@ AUS_ausgleich_1947:0 "1947년 대타협"
 AUS_ausgleich_1947_desc:0 "대타협이 다시 한 번 재협상 될 예정이며, 이번에는 오스트리아 제국의 절반이 지난 협상보다 훨씬 더 우위에 있습니다. 우리는 지금 우리의 의지를 그들에게 강요할 것입니다."
 
 AUS_dualism_restored:0 "복원된 이원론"
-AUS_dualism_restored_desc:0 "마침내, 헝가리는 다시 오스트리아로 환영을 받으며 돌아왔습니다. 그들은 황제에게 복종했고, 제국은 진실로 자신을 '오스트리아-헝가리 제국'이라고 다시 부를 수 있게 되었습니다."
+AUS_dualism_restored_desc:0 "마침내, 헝가리는 다시 오스트리아로 환영을 받으며 돌아왔습니다. 그들은 황제에게 복종했고, 제국은 진실로 자신을 "오스트리아-헝가리 제국"이라고 다시 부를 수 있게 되었습니다."
 
 ### Pluraism branch
 
@@ -588,7 +588,7 @@ austria.3.d:0 "기관지염으로 고통받던 카를 황제가 오늘 승하하
 austria.3.a:0 "오토 황제 만세!"
 
 aus.elections.1.t:0 "1936년 오스트리아 선거"
-aus.elections.1.d:0 "연방 선거가 시작되고 "오스트리아 선거"가 제국의 독일어권 부분으로 축소 되었기 때문에 두 개의 주요 정당이 오스트리아 정치를 지배했습니다 : 기독사회당(CS)과 사회민주노동자당(SDAP)이 그 두 정당입니다. \n\n이번 선거 역시 치열합니다. 사회민주노동자당과 기독사회당은 현재 진행중인 경제 위기를 다루기위한 대책이 매우 다릅니다. 사회민주노동자당의 대책은 실업 수당과 정부 개입에 초점을 맞추어 노동자의 곤경을 완화하는 데 중점을 둡니다. 반면에 기독사회당은 엄격한 긴축에 초점을 맞추었습니다."
+aus.elections.1.d:0 "연방 선거가 시작되고 '오스트리아 선거'가 제국의 독일어권 부분으로 축소 되었기 때문에 두 개의 주요 정당이 오스트리아 정치를 지배했습니다 : 기독사회당(CS)과 사회민주노동자당(SDAP)이 그 두 정당입니다. \n\n이번 선거 역시 치열합니다. 사회민주노동자당과 기독사회당은 현재 진행중인 경제 위기를 다루기위한 대책이 매우 다릅니다. 사회민주노동자당의 대책은 실업 수당과 정부 개입에 초점을 맞추어 노동자의 곤경을 완화하는 데 중점을 둡니다. 반면에 기독사회당은 엄격한 긴축에 초점을 맞추었습니다."
 aus.elections.1.a:0 "국민들이 결정할 것이다."
 
 aus.elections.2.t:0 "학교 설립 & 사회민주노동자당 집회"
@@ -597,7 +597,7 @@ aus.elections.2.a:0 "그들의 노력은 칭찬받을 만하다."
 aus.elections.2.b:0 "만약 그들이 공동 정부의 성공을 자신들의 것으로서 주장하지 않는다면 나는 그것을 지지할 것이다."
 
 aus.elections.3.t:0 "애들러의 사회민주노동자당 비난"
-aus.elections.3.d:0 "사회민주노동자당의 전임 당대표의 아들이자 대타협에 대한 항의 시위로 슈튀르크 백작에게 총격을 가한 것으로 유명한 급진사회주의자의 아들인 프리드리히 애들러는 사회민주노동자당을 '낡은 권력 체제에 의존하는 짝퉁 사회주의'라고 비난했습니다."
+aus.elections.3.d:0 "사회민주노동자당의 전임 당대표의 아들이자 대타협에 대한 항의 시위로 슈튀르크 백작에게 총격을 가한 것으로 유명한 급진사회주의자의 아들인 프리드리히 애들러는 사회민주노동자당을 "낡은 권력 체제에 의존하는 짝퉁 사회주의"라고 비난했습니다."
 aus.elections.3.a:0 "급진파는 더욱 급진적이게 될 것이다."
 
 aus.elections.4.t:0 "오토 황태자를 사냥모임에 초대한 기독사회당"
@@ -737,7 +737,7 @@ ausgleich.new.300.a:0 "멋진 밤이로군."
 ausgleich.new.300.b:0 "헝가리 없이 협상할 것이 있나?"
 
 ausgleich.new.310.t:0 "헝가리 대표단의 연설"
-ausgleich.new.310.d:0 "협상 첫 번째 날, 연설이 있었습니다. 한 헝가리 정치인이 다음과 같이 말했습니다 : \n\n"오스트리아-헝가리 제국을 자랑스럽게 생각하지 않는 것인가? 지금까지 수십 년 동안 빈에서는 이미 완벽한 것을 고치려고 안간힘을 쓰고 있다. 오스트리아-헝가리는 함께 미래의 세계에서 중요한 역할을 할 것이며, 함께 우리를 위대하게 만들 것이다." \n\n카를 황제의 연방화 계획이 실수였다고 암시하는 그의 발언에 나머지 헝가리 대표단이 눈에 띄게 당황했지만, 그는 박수의 부재에도 불구하고 오히려 기뻐 보였습니다."
+ausgleich.new.310.d:0 "협상 첫 번째 날, 연설이 있었습니다. 한 헝가리 정치인이 다음과 같이 말했습니다 : \n\n'오스트리아-헝가리 제국을 자랑스럽게 생각하지 않는 것인가? 지금까지 수십 년 동안 빈에서는 이미 완벽한 것을 고치려고 안간힘을 쓰고 있다. 오스트리아-헝가리는 함께 미래의 세계에서 중요한 역할을 할 것이며, 함께 우리를 위대하게 만들 것이다.' \n\n카를 황제의 연방화 계획이 실수였다고 암시하는 그의 발언에 나머지 헝가리 대표단이 눈에 띄게 당황했지만, 그는 박수의 부재에도 불구하고 오히려 기뻐 보였습니다."
 ausgleich.new.310.a:0 "얼마나 무례한가."
 ausgleich.new.310.b:0 "그를 협상장에서 추방하라."
 ausgleich.new.310.c:0 "그가 옳다, 안그런가?"

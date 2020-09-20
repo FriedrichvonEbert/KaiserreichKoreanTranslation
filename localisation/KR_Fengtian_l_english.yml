@@ -273,7 +273,7 @@ FNG_The_Jinpu_Railway:0 "진푸 철도"
 FNG_The_Yuehan_Railway:0 "웨한 철도"
 
 FNG_Japanese_Interests_in_Manchuria:0 "만주에서의 일본"
-FNG_Japanese_Interests_in_Manchuria_desc:0 "러일전쟁 이래로, 일본은 만주에 꾸준히 영향력을 투사하고 있습니다. 현재 일본은 남만주철도주식회사, 즉 만철을 설립하고 만주의 중공업과 철도 시스템을 독점하고 있습니다. 어떤 이들은 일본을 동맹이라 부르고, 어떤 이들은 일본을 적이라 부르지만, 대부분은 그들을 '이해관계에 따른 동맹'으로 여기고 있습니다. 어쨌든, 그들은 여기에 있고 이해관계라는 단어가 내포한 모든 의미로 다루어져야 합니다."
+FNG_Japanese_Interests_in_Manchuria_desc:0 "러일전쟁 이래로, 일본은 만주에 꾸준히 영향력을 투사하고 있습니다. 현재 일본은 "남만주철도주식회사", 즉 "만철"을 설립하고 만주의 중공업과 철도 시스템을 독점하고 있습니다. 어떤 이들은 일본을 동맹이라 부르고, 어떤 이들은 일본을 적이라 부르지만, 대부분은 그들을 '이해관계에 따른 동맹'으로 여기고 있습니다. 어쨌든, 그들은 여기에 있고 이해관계라는 단어가 내포한 모든 의미로 다루어져야 합니다."
 
 FNG_foreign_policy:0 "재수복으로의 길"
 FNG_foreign_policy_desc:0 "1928년 마지막 직봉 전쟁의 종결은 퍼져나가던 중국의 민국화 열기가 동북지역에 유폐됐음을 알리는 일이었습니다. 그 이후로 우리군은 산해관에서 [QIE.GetAdjective]의 군대와 마주하게 되었고, 독일과 일본은 해안가 도시들에서 은밀한 첩보전을 해왔습니다. 미래의 언젠가는, 중국은 다시 하나가 될 것입니다..."
@@ -661,7 +661,7 @@ FNG_Justify_Mass_Arrests:0 "대규모 체포의 정당화"
 FNG_Justify_Mass_Arrests_desc:0 "지역주의 운동이 평화로운 한, 우리는 이를 짓밟을 법적 명분과 대중적 지지를 얻을 수 없습니다. 시위대로 위장한 '프락치'를 투입하여 운동을 폭력적으로 만들면, 시민들의 등을 돌리고, 대규모 체포를 할 명분이 생길 겁니다."
 #Enrich the Country Branch
 FNG_Enrich_the_Nation:0 "부국"
-FNG_Enrich_the_Nation_desc:0 "일본의 출판물 '끝없는 자원의 보고'에서 언급된 것처럼 만주의 강점은 풍부한 천연자원에 있는데, 석탄과 철같은 전략 자원의 매장량은 그야말로 '세계 최대급'입니다. 일본이 조금만 도와준다면, 우리는 번영하는 미래와 강력한 전쟁 기계 모두를 스스로 만들어 낼 수 있습니다!"
+FNG_Enrich_the_Nation_desc:0 "일본의 출판물 '끝없는 자원의 보고'에서 언급된 것처럼 만주의 강점은 풍부한 천연자원에 있는데, 석탄과 철같은 전략 자원의 매장량은 그야말로 "세계 최대급"입니다. 일본이 조금만 도와준다면, 우리는 번영하는 미래와 강력한 전쟁 기계 모두를 스스로 만들어 낼 수 있습니다!"
 #Mantetsu Collaboration Section
 FNG_Mantetsu_Collaboration:0 "만철과의 협력"
 FNG_Mantetsu_Collaboration_desc:0 "'남만주 철도 회사'로도 알려진 만철은 제분소부터 병원까지 우리의 경제 전체에 크나큰 영향력을 행사하고 있습니다. 불행하게도 우리 경제를 위해선 일본의 전문 기술 원조가 필수적입니다."
@@ -2023,7 +2023,7 @@ fengtian.277.a:0 "Bandits everywhere!"
 
 fengtian.278.t:0 "Order returns to Henan Province"
 fengtian.278.d_bad:0 "After transportation chaos, endemic violence, and a wave of all too familiar banditry, Henan province has settled back into relative normality. Times are still hard for the average peasant, and brigands still roam the hills, but by and large our own troops have burned themselves out and settled down. Henan in particular has seen its fair share of famine, violence, and other tragedy, in which this may be little more than a historical footnote, but for the lives it touched, and certainly the lives it claimed, the events of [GetYear] will never be forgotten."
-fengtian.277.d_good:0 "Our troops recently seized Luoyang alongside most of Henan Province's major cities, but securing the countryside has proven another matter. Banditry has long history in Henan, and despite nearly a decade of Zhili rule this problem never truly went away. The majority were simply incorporated into Wu Peifu's armies. Now they are sweeping across the province's rural regions, and having 'defected' to our side, have begun claiming the spoils of a war they never won.\n\nOur own troops have stepped in to quell the violence, but thoroughly combing Henan's hills and riversides will take time and energy; neither of which our troops would prefer to spend. In all likelyhood bandit activity will resume again some time in the future, and everything already stolen is now in the hands of our own troops."
+fengtian.278.d_good:0 "Our troops recently seized Luoyang alongside most of Henan Province's major cities, but securing the countryside has proven another matter. Banditry has long history in Henan, and despite nearly a decade of Zhili rule this problem never truly went away. The majority were simply incorporated into Wu Peifu's armies. Now they are sweeping across the province's rural regions, and having 'defected' to our side, have begun claiming the spoils of a war they never won.\n\nOur own troops have stepped in to quell the violence, but thoroughly combing Henan's hills and riversides will take time and energy; neither of which our troops would prefer to spend. In all likelyhood bandit activity will resume again some time in the future, and everything already stolen is now in the hands of our own troops."
 fengtian.278.a:0 "At least it's over."
 
 
