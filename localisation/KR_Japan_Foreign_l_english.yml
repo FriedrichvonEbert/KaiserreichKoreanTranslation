@@ -88,12 +88,12 @@ JAP_fading_sun_desc.JAP:0 "우리는 대다수 대륙 영토를 통제할 수 �
 JAP_fading_sun_desc.other:0 "우리는 일본을 대다수 대륙 지역에서 밀어내는 데 성공했습니니다! 그들이 공격을 시도하고 대항할 것이라는 점은 의심의 여지가 없지만, 이 일은 일본에 큰 타격입니다. 그들이 자신의 땅을 되찾지 못 한다면, 고조되는 정치적 압력으로인해 그들은 협상에 나설 수 밖에 없게 될 것입니다."
 
 is_fully_controlled_by_JAP_or_war_ally_tooltip:0 "(은)는 §Y[JAP.GetNameDef]§!, 혹은 동맹에 의해 완전히 통제되고 있습니다."
-JAP_cannot_call_allies_in_idea:0 "§RWe can't call in allies unless we are at war with a major or losing a war§!"
-JAP_cannot_call_allies_in:0 "§RWe don't want to share the fruits of war unless we have to! We can only call in allies if we are at war with a major or losing a war§!"
-JAP_wont_let_allies_join:0 "§RJapan doesn't want to share the fruits of war with us! They won't let us join their war unless they are at war with a major or losing a war§!"
+JAP_cannot_call_allies_in_idea:0 "§R우리는 전쟁에서 우세하거나 불리하지 않는 한 동맹국을 부를 수 없습니다.§!"
+JAP_cannot_call_allies_in:0 "§R전쟁을 통한 전리품을 나눌 필요는 없습니다! 전쟁에서 우세하거나 불리하지 않는 한 동맹국을 부를 수 없습니다.§!"
+JAP_wont_let_allies_join:0 "§R일본은 전쟁의 성과를 우리와 나누고 싶어하지 않을 것입니다! 그들이 전쟁에서 우세하거나 불리하지 않는 한, 우리에게 도움을 요청하지 않을 것입니다.§!"
 
-JAP_speed_up_collapse_bad_tooltip:0 "§RThe overwhelming nature of our enemies forces means our collapse is even closer than we initially thought.§!"
-JAP_speed_up_collapse_good_tooltip:0 "§GThe overwhelming nature of our forces means Japan's collapse is even closer than we initially thought.§!"
+JAP_speed_up_collapse_bad_tooltip:0 "§R적들의 압도적인 특성은 우리의 붕괴까지 처음에 생각했던 것보다 훨씬 더 가까워졌다는 것을 의미합니다.§!"
+JAP_speed_up_collapse_good_tooltip:0 "§G우리가 가진 압도적인 특성은 일본의 붕괴가 생각했던 것보다 훨씬 더 가까워 졌다는 것을 의미합니다.§!"
 
 ### Scripted ###
 JAP_ally1_name:0 "§Y[?global.asian_economic_sphere^0.GetFlag][?global.asian_economic_sphere^0.GetName]§!, "
@@ -127,16 +127,16 @@ JAP_ally13_last:0 "§Y[?global.asian_economic_sphere^12.GetFlag][?global.asian_e
 JAP_ally14_last:0 "§Y[?global.asian_economic_sphere^13.GetFlag][?global.asian_economic_sphere^13.GetName]§!"
 JAP_ally15_last:0 "§Y[?global.asian_economic_sphere^14.GetFlag][?global.asian_economic_sphere^14.GetName]§!"
 JAP_ally_none:0 ""
-JAP_ally_no_sphere:0 "None"
+JAP_ally_no_sphere:0 "없음"
 JAP_not_invest_within_last_year:0 "지난 1년간 투자 대상이 되지 않음"
 
 ### Ideas ###
 JAP_rising_sun_idea_1:0 "제국의 영광"
-JAP_rising_sun_idea_1_desc:0 "Japan has not always received the respect it deserves. While things have changed over the last 30 years, much remains the same. In light of this, we trust that every citizen will do their patriotic duty; none shall stop us.\n\nWe are the most powerful nation in Asia and the fruits of war should be ours and ours alone. To ensure this is the case we can only call in allies if we are at war with a major or losing a war."
+JAP_rising_sun_idea_1_desc:0 "세계무대에서 일본은 항상 존경을 받는 것은 아닙니다. 지난 30년 동안 많은 것이 변했지만, 또한 많은 것들이 그대로 남아 있습니다. 이러한 점에 비추어 볼 때, 우리는 모든 제국 시민들이 그들의 애국적인 의무를 다할 것이라고 믿습니다. \n\n우리는 아시아에서 가장 강력한 국가이며 전쟁을 치룬 후의 결실은 우리만의 것이여야 합니다. 이런 점은 우세한 전쟁을 치루거나 전쟁에서 밀리고있는 경우에만 동맹군에게 도움을 요청할 수 있음을 의미합니다."
 JAP_rising_sun_idea_2:0 "제국의 영광"
-JAP_rising_sun_idea_2_desc:0 "마침내 세계 제국들 사이에 일본이 자리잡을 때가 왔습니다. 우리는 서구 제국주의로부터 아시아를 해방시키고 경쟁자들에게서 전리품을 얻어낼 것입니다. 태양이 떠오른 것입니다!\n\nWe are the most powerful nation in Asia and the fruits of war should be ours and ours alone. To ensure this is the case we can only call in allies if we are at war with a major or losing a war."
+JAP_rising_sun_idea_2_desc:0 "마침내 세계 제국들 사이에 일본이 자리잡을 때가 왔습니다. 우리는 서구 제국주의로부터 아시아를 해방시키고 경쟁자들에게서 전리품을 얻어낼 것입니다. 태양이 떠오른 것입니다!\n\n우리는 아시아에서 가장 강력한 국가이며 전쟁을 치룬 후의 결실은 우리만의 것이여야 합니다. 이런 점은 우세한 전쟁을 치루거나 전쟁에서 밀리고있는 경우에만 동맹군에게 도움을 요청할 수 있음을 의미합니다."
 JAP_rising_sun_idea_3:0 "제국의 영광"
-JAP_rising_sun_idea_3_desc:0 "일본은 논란의 여지없이 수많은 아시아인의 선도자이자 빛나는 상징이 되었으며, 우리의 미래가 곧 그들에게도 영광을 약속합니다. 한때 외국인들에게 박해받고 착취당하던 나라가, 이젠 적수가 없는 동아시아의 지배자가 되었습니다. 천황 폐하 만세!\n\nWe are the most powerful nation in Asia and the fruits of war should be ours and ours alone. To ensure this is the case we can only call in allies if we are at war with a major or losing a war."
+JAP_rising_sun_idea_3_desc:0 "일본은 논란의 여지없이 수많은 아시아인의 선도자이자 빛나는 상징이 되었으며, 우리의 미래가 곧 그들에게도 영광을 약속합니다. 한때 외국인들에게 박해받고 착취당하던 나라가, 이젠 적수가 없는 동아시아의 지배자가 되었습니다. 천황 폐하 만세!\n\n우리는 아시아에서 가장 강력한 국가이며 전쟁을 치룬 후의 결실은 우리만의 것이여야 합니다. 이런 점은 우세한 전쟁을 치루거나 전쟁에서 밀리고있는 경우에만 동맹군에게 도움을 요청할 수 있음을 의미합니다."
 fengtian_exploitation:0 "만철 배당금"
 fengtian_exploitation_desc:0 "봉천 경제에서 가지는 사실상의 독점적인 지위를 통해 만철은 엄청난 수익을 산출해내고 있으며, 정부 소유의 주식 배당금과 직접 얻는 수익금을 각각 할당하는 방식으로 일본에 이윤을 제공합니다."
 GER_KOR_support:0 "독일 군사고문단"
@@ -288,7 +288,7 @@ JAP_withdraw_from_sphere_desc:0 "우리에게 주어지는 혜택에도 불구�
 JAP_nationalize_japanese_investments:0 "일본 투자 자본 국유화"
 JAP_nationalize_japanese_investments_desc:0 "[Root.GetNameDef]의 대한 일본 투자자가 많아지면서 많은 우려가 제기되고 있습니다. 터무니 없는 비용이 필요하고 또한 일본 경제공영권에서 완전히 탈퇴해야 할 필요가 있지만, 우리는 그들의 투자를 국유화하고 [Root.GetAdjective] 경제가 저들에게 꼭두각시 수준으로 종속되는 것을 막아야만 합니다."
 
-JAP_member_of_co_prosperity_sphere:0 "Becomes a Member of the §HEast Asian Co-Prosperity Sphere§!\n     Construction Speed: [?0.2|+=%]\n     Resource Gain Efficiency: [?global.sphere_resources_boost_member|+=%]\n     Consumer Goods Factories: [?global.sphere_goods_boost_member|=%0H]"
+JAP_member_of_co_prosperity_sphere:0 "§H대동아 공영권§!의 일원이 될 것입니다.\n     건설 속도: [?0.2|+=%]\n     자원 획득 효율: [?global.sphere_resources_boost_member|+=%]\n     소비재 공장: [?global.sphere_goods_boost_member|=%0H]"
 
 KR_co_prosperity_sphere_tooltip:0 "§H[GetCoProsperitySphereName]§!\n[GetCoProsperitySphereEffects]"
 KR_co_prosperity_sphere_tooltip_desc:0 "§L[GetCoProsperitySphereDesc]§!"
@@ -308,7 +308,7 @@ JAP_threaten_philippines_desc:0 "미국인들이 사라진 지금, 공영권이 
 JAP_attack_indochina:0 "[From.GetNameDef] 공격"
 JAP_attack_indochina_desc:0 "우리 세력권이 아닌 [From.GetNameDef]의 독립은 용납될 수 없습니다. 즉시 조치를 취해야만 합니다!"
 JAP_attack_siam:0 "[From.GetNameDef] 공격"
-JAP_attack_siam_desc:0 "[From.GetNameDefCap] enjoys a strategic location in the middle of the Indochinese peninsula. We cannot tolerates such entity to simply remain neutral, or worse, on the enemy side."
+JAP_attack_siam_desc:0 "[From.GetNameDefCap](은)는 인도차이나 반도의 중앙에 위치한 전략적 요충지 입니다. 우리는 이 지역이 중립적이거나 적에게 넘어가는등 더 나쁜 상태가 되는것을 용인할 수 없습니다."
 JAP_attack_india:0 "[From.GetNameDef] 공격"
 JAP_attack_india_desc:0 "우리가 인도 아대륙을 지배하려면, 다음 목표는 [From.GetNameDef](이)가 되어야 합니다."
 JAP_attack_australia:0 "[From.GetNameDef] 공격"
@@ -1097,13 +1097,13 @@ japfor.464.t:0 "우리의 충성에 대한 일본의 보답"
 japfor.464.d:0 "현명하게도 일본 정부는 우리의 충성에 보답하기로 결정했고, 정당한 우리 영토들이 다시 우리 손에 돌아왔습니다. 물론 우리에겐 대단히 고마울 뿐입니다만, 너무 방심하진 마십시오. 이런 움직임으로 인해 협화회의 영향력이 증가했고, 향후 일본의 뜻에 반대하기가 더 어려워 질 수 있습니다."
 japfor.464.a:0 "그 땅은 처음부터 우리 것이었다."
 
-japfor.465.t:0 "The Enemy Has Overwhelming Force"
-japfor.465.d:0 "By now it is become common knowledge that our enemies force far outnumber ours. What began as rumours from our intelligence service has now ended up coming true. While we will do what we can to keep public moral up, even our most steadfast supports are starting to question if continuing the fight is worth it; are we just prolonging the inevitable at this point?"
-japfor.465.a:0 "There must be time to turn it around..."
+japfor.465.t:0 "압도적인 힘을가진 적"
+japfor.465.d:0 "지금쯤이면 우리의 적들은 우리를 훨씬 능가한다는 것을 모두가 알게되었을 것입니다. 우리 첩보국이 모아온 정보들이 실제로 일어났습니다. 공공의 이익과 도덕성을 유지하기 위해 우리가 할 수 있는 일을 하겠지만, 우리의 가장 열렬한 지지자들조차 이 싸움을 계속할 가치가 있는지 의심하기 시작했습니다. 우리는 그저 피할 수 없는 운명을 뒤로 미루기만 하는 것일까요?"
+japfor.465.a:0 "만회할 수 있는 기회가 올거야..."
 
-japfor.466.t:0 "We Have Overwhelming Force"
-japfor.466.d:0 "It has become increasingly clear to both us and the Japan that our forces far outnumber theirs. As news of this has trickled down to the Japanese general public there is increasing unrest and support for their government is falling. If we maintain this advantage they will surly capitulate even sooner than we had hoped."
-japfor.466.a:0 "What excellent news!"
+japfor.466.t:0 "압도적인 힘을가진 우리"
+japfor.466.d:0 "우리와 일본 둘 다 우리 군대의 수가 그들의 수보다 훨씬 많다는 사실을 인정하고 있습니다. 중요한것은 이 소식이 일본 대중에게 전해지면서, 일본 정부에 대한 지지도도 떨어지고 있습니다. 만약 우리가 이러한 장점을 계속 유지한다면 그들은 우리가 기대했던 것보다 더 빨리 항복할 것입니다."
+japfor.466.a:0 "훌륭한 소식이군!"
 
 ### Fengtian Events ###
 japfeng.1.t:0 "우리의 만주 영향력"
