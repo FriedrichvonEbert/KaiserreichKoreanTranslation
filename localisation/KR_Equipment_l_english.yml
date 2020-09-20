@@ -191,7 +191,7 @@ REQUESTED_MANPOWER_DETAILS:0 "$NUM|Y$만큼의 인력이 $HR|Y$ 후에 보충될
 NOT_ENOUGH_MANPOWER_TO_REINFORCE:0 "인력이 부족해 충원이 불가능합니다."
 MANPOWER_REINFORCEMENT_NOT_POSSIBLE:0 "§R현재 위치에서는 인력 충원이 불가능합니다.§!"
 ARCHETYPE_DESC_ENTRY:0 "    - $COUNT|0$ $NAME|H$"
-OUTDATED_EQ:1 "§H구식장비§! 표시"
+OUTDATED_EQ:0 "§H구식장비§! 표시"
 NAVAL_WARNING_EQ:0 "§Y경고§!"
 NAVAL_WARNING_1_EQ:0 "See the tooltip for more info     \n\nInformed by vanilla representations of historical ships, we deduced that §YOne gun battery§! can represent up to §Y6 guns§!! Using this conversion, very few real ships when represented in game would have more than two batteries. Please consider this when building massive ships. An in-game ship with 4 gun batteries, for example, in real life would have §R24§! guns! \n\n\t-KR team"
 
@@ -208,7 +208,7 @@ guided_missile_equipment_3_desc:0 "최고의 성능을 갖춘 유도탄입니다
 
 gw_tank_equipment:0 "세계대전기 전차"
 gw_tank_equipment_short:0 "세계대전기 전차"
-gw_tank_equipment_desc:0 "세계대전 당시 영국과 프랑스는 거의 동시에 각각 다른 전차를 개발했는데, 이는 교착상태에 빠진 서부전선의 참호전 양상을 타개하기 위해서였습니다. '탱크'라는 명칭은 개발 초기 무기의 정체를 은폐하려 했던 영국이 붙인 이름입니다. 초기의 전차는 기관총과 소구경 화포로 무장했으며, 속도가 느렸고, 장갑은 소구경 무기를 방어하는 데 그치는 수준이었습니다."
+gw_tank_equipment_desc:0 "Tanks in the Weltkrieg were developed separately and simultaneously by the United Kingdom and France as a means to break the deadlock of trench warfare on the Western Front. The British prefer to call them "tanks", a name adopted during the early stages of their development as a security measure to conceal their purpose, while the German counterpart, "Panzer", stuck in many German-influenced nations. Early tanks were armed with machineguns and small cannons, moved slowly, and were armoured only enough to stop small arms fire."
 
 light_tank_equipment:0 "경전차"
 light_tank_equipment_desc:0 "경전차는 정찰 임무, 그리고 경무장한 적과의 교전에 특화된 작고 민첩한 전차입니다."
