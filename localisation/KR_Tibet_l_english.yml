@@ -135,13 +135,13 @@ TIB_yushu_desertion_desc:0 "The Ma Clique has incited militant activity in musli
 TIB_Ma_diplomatic_interference:0 "Ma Diplomatic Interference"
 TIB_Ma_diplomatic_interference_desc:0 "The Ma Clique has sucessfully discredited our government with most of the warlords of China. It is no secret that most of the warlords of China wish to see our lands subordinated once more, but we had hoped their own desperate situation would cause them to ally with us. This will make it more difficult to asset our soverignity over land outside our control."
 
+TIB_theosophy:0 "Theosophical Society"
+TIB_theosophy_desc:0 "Nicholas Roerich's contribution to the Tibetan political scene is the introduction of the well-connected Theosophical Society from India. Their members arrive to Lhasa to proselytize their belief in the Ascended Masters that originated in Tibet. To the Theosophical Society, Tibetan independence and the progress of Leninism is the herald to the Sacred Union of the East, their long awaited theocratic socialist state promised by Nicholas Roerich."
+
 TIB_pressure_regency:0 "§YThe Young Tibet Party Pressures the Regency§!" 
 TIB_debate_regent:0 "§YThe Young Tibet Party Debates the Tse Laptra§!" 
 TIB_take_tawang:0 "§YWe can now initiate war over Tawang§!\n" 
 TIB_kalmyk_plan:0 "§YEnable Decision to Spread the Revolution to Nepal and Bhutan§!\n" 
-
-TIB_theosophy:0 "Theosophical Society"
-TIB_theosophy_desc:0 "Nicholas Roerich's contribution to the Tibetan political scene is the introduction of the well-connected Theosophical Society from India. Their members arrive to Lhasa to proselytize their belief in the Ascended Masters that originated in Tibet. To the Theosophical Society, Tibetan independence and the progress of Leninism is the herald to the Sacred Union of the East, their long awaited theocratic socialist state promised by Nicholas Roerich."
 
 #Focuses
 TIB_convene_national_assembly:0 "Convene the Kashag"

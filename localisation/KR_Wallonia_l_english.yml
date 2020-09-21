@@ -1,7 +1,7 @@
 ﻿l_english:
 
-WLL_focus:0 "왈로니아 중점계통도"
-WLL_focus_blank:0 "왈로니아 중점계통도"
+WLL_focus:0 "왈로니 중점계통도"
+WLL_focus_blank:0 "왈로니 중점계통도"
 
 ### Parties ###
 WLL_social_conservative_party:0 "기독민주당"
@@ -14,8 +14,8 @@ WLL_social_liberal_party:0 "자유진보당"
 WLL_social_liberal_party_long:0 "자유진보당"
 WLL_syndicalist_party:0 "벨기에 노동당"
 WLL_syndicalist_party_long:0 "벨기에 노동당"
-WLL_totalist_party:0 "왈로니아 전체주의당"
-WLL_totalist_party_long:0 "왈로니아 전체주의당"
+WLL_totalist_party:0 "왈로니 전체주의당"
+WLL_totalist_party_long:0 "왈로니 전체주의당"
 WLL_national_populist_party:0 "렉스"
 WLL_national_populist_party_long:0 "렉스"
 WLL_paternal_autocrat_party:0 "렉스"
@@ -59,7 +59,7 @@ WLL_Republic_Coalition_Socialists:0 "벨기에 노동당-자유당 연합"
 WLL_Republic_Coalition_Catholics:0 "기독민주당-자유당 연합"
 WLL_Republic_Constitution_Socialist:0 "공화주의자 헌법"
 WLL_Republic_Constitution_Catholic:0 "공화주의자 헌법"
-WLL_Republic_Chant_Des_Wallons:0 "왈로니아의 노래"
+WLL_Republic_Chant_Des_Wallons:0 "왈로니의 노래"
 
 WLL_German_Support:0 "독일의 지지를 잃다"
 
@@ -89,7 +89,7 @@ WLL_TOTALIST_ARMY:0 "해체된 군대"
 WLL_TOTALIST_ROYAL_ASSETS:0 "압류된 왕실 자산"
 
 WLL_ECONOMIC_TROUBLE:0 "경제 불황"
-WLL_ECONOMIC_TROUBLE_WAL:0 "왈로니아 산업 확장"
+WLL_ECONOMIC_TROUBLE_WAL:0 "왈로니 산업 확장"
 WLL_ECONOMIC_DIRECTION:0 "경제 방향"
 WLL_ECONOMIC_REVITAL:0 "경제 활성화"
 WLL_SOLVAY_RESEARCH:0 "솔베이 연구소"
@@ -105,14 +105,14 @@ WLL_ARMY_BILINGUAL:0 "이중 언어를 구사하는 참모"
 WLL_ARMY_GERMAN:0 "독일 참모"
 WLL_ARMY_HALF_TRACKS:0 "반궤도 혁신"
 
-WLL_merchant_marine_idea:0 "왈로니아 해양 상인"
+WLL_merchant_marine_idea:0 "왈로니 해양 상인"
 WLL_merchant_marine_idea2:0 "무역 센터 설립"
 
 ### Events ###
 
-wll.1.t:0 "플랜더스-왈로니아의 해체"
-wll.1.d:0 "플랜더스는 우리 왕국에서 분리독립을 선언했습니다. 독일인 시민들과 왕실은 이 지역을 떠나 우리나라에 대한 그들의 지배력을 다시 확립하고 있습니다. 한편 혁명은 여전히 계속되고 있으며 끝이 보이지 않아 이 지역을 불안정하게 만들고 있습니다. 우리나라를 파괴하려는 적의를 피하기 위해서는 신속하고 결정적인 조치가 필요할 것입니다. 왈로니아 자본가와 진보주의자들은 혁명을 두려워하지만, 독일인들의 통치 역시 불만스러운 눈으로 바라보고 있습니다. 지난 10년동안 공화국을 건설하려 했던 그들의 노력은 지금껏 실패해왔지만, 이제는 새로운 기회가 등장했을지도 모릅니다."
-wll.1.a:0 "깃발을 올려라, 왈로니아가 태어났다."
+wll.1.t:0 "플랜더스-왈로니의 해체"
+wll.1.d:0 "플랜더스는 우리 왕국에서 분리독립을 선언했습니다. 독일인 시민들과 왕실은 이 지역을 떠나 우리나라에 대한 그들의 지배력을 다시 확립하고 있습니다. 한편 혁명은 여전히 계속되고 있으며 끝이 보이지 않아 이 지역을 불안정하게 만들고 있습니다. 우리나라를 파괴하려는 적의를 피하기 위해서는 신속하고 결정적인 조치가 필요할 것입니다. 왈로니 자본가와 진보주의자들은 혁명을 두려워하지만, 독일인들의 통치 역시 불만스러운 눈으로 바라보고 있습니다. 지난 10년동안 공화국을 건설하려 했던 그들의 노력은 지금껏 실패해왔지만, 이제는 새로운 기회가 등장했을지도 모릅니다."
+wll.1.a:0 "깃발을 올려라, 왈로니가 태어났다."
 
 wll.2.t:0 "세랭에서의 갈등"
 wll.2.d:0 "실론 산업 전체에 걸쳐 폭동과 시위가 벌어지면서, 생디칼리스트 레지스탕스들은 12명의 행정부 인질을 잡은 채 공장 재개를 허락하지 않으며 세랭 제철소에 숨어 있습니다. 플랜더스에서 철수하는 군인들이 나뮈르 인근에 모여들고 있지만, 이 문제를 해결하기 위해 리에주로 파견될 수도 있습니다. 한편, 이 회사의 주주들은 정부에게 이 시설을 온전하게 놔두라고 필사적으로 촉구하고 있으며 그들의 이익을 보존하기 위해 가능한 한 많은 로비를 하고 있습니다."
@@ -345,15 +345,15 @@ wll.84.a:0 "The military has been dismantled."
 
 #Recreate Flanders-Wallonia
 
-wll.9.t:0 "플랜더스-왈로니아 재건?"
-wll.9.d:0 "마침내 플랜더스 땅이 우리의 통제하에 돌아왔습니다. 그리고 여론은 우리에게 플랜더스-왈로니아를 재건할 것을 요구하고 있습니다. 하지만 또한 우리는 우리의 감시 하에 플랜더스인들이 그들의 나라를 만들게 할 수도 있습니다..."
-wll.9.a:0 "플랜더스-왈로니아를 재건하자!"
+wll.9.t:0 "플랜더스-왈로니 재건?"
+wll.9.d:0 "마침내 플랜더스 땅이 우리의 통제하에 돌아왔습니다. 그리고 여론은 우리에게 플랜더스-왈로니를 재건할 것을 요구하고 있습니다. 하지만 또한 우리는 우리의 감시 하에 플랜더스인들이 그들의 나라를 만들게 할 수도 있습니다..."
+wll.9.a:0 "플랜더스-왈로니를 재건하자!"
 wll.9.b:0 "플랜더스를 독립시키자."
 
 #Territorial Demands
 
-wll.10.t:0 "왈로니아 최후통첩"
-wll.10.d:0 "왈로니아 정부는 우리 측에 즉각적인 통일과 플랜더스-왈로니아의 재건을 요구하는 최후통첩을 보내왔습니다. 군인들이 우리 남쪽 국경을 따라 군사 훈련을 하는 것이 목격되었고 심지어 전 플랜더스-왈로니아 해군의 잔당들까지도 우리 해안에서 날뛰고 있습니다. 우리는 기술적으로 그들에 앞서 있지만, 우리는 우리 자신을 방어할 수 있어야 합니다."
+wll.10.t:0 "왈로니 최후통첩"
+wll.10.d:0 "왈로니 정부는 우리 측에 즉각적인 통일과 플랜더스-왈로니의 재건을 요구하는 최후통첩을 보내왔습니다. 군인들이 우리 남쪽 국경을 따라 군사 훈련을 하는 것이 목격되었고 심지어 전 플랜더스-왈로니 해군의 잔당들까지도 우리 해안에서 날뛰고 있습니다. 우리는 기술적으로 그들에 앞서 있지만, 우리는 우리 자신을 방어할 수 있어야 합니다."
 wll.10.a:0 "양국 모두에 이득을 가져다 줄 것이다."
 wll.10.b:0 "플랜더스는 독립국이다!"
 
@@ -361,13 +361,13 @@ wll.101.t:0 "최후통첩이 무시당했다!"
 wll.101.d:0 "최후통첩이 무시당했고 우리 이웃은 전쟁을 준비하기 위해 무장하고 있습니다."
 wll.101.a:0 "침공을 개시하라."
 
-wll.102.t:0 "왈로니아가 도이치발로니엔을 요구하다"
-wll.102.d:0 "왈로니아 정부가 세계대전 이후 우리가 합병한 왈롱 지역을 반환받기 위해 우리에게 접근해 왔습니다. 그들은 그 땅의 반환으로 지역의 불안을 잠재우고 국경의 안전을 보장할 수 있을 것이라고 주장하고 있습니다. 하지만 우리는 이 땅을 쉽게 포기할 수 없고, 그들에게 그들이 세계대전의 패배자라는 것을 상기시켜줄 필요가 있습니다."
+wll.102.t:0 "왈로니가 도이치발로니엔을 요구하다"
+wll.102.d:0 "왈로니 정부가 세계대전 이후 우리가 합병한 왈롱 지역을 반환받기 위해 우리에게 접근해 왔습니다. 그들은 그 땅의 반환으로 지역의 불안을 잠재우고 국경의 안전을 보장할 수 있을 것이라고 주장하고 있습니다. 하지만 우리는 이 땅을 쉽게 포기할 수 없고, 그들에게 그들이 세계대전의 패배자라는 것을 상기시켜줄 필요가 있습니다."
 wll.102.a:0 "도이치발로니엔을 돌려줘라."
 wll.102.b:0 "그 땅은 승자의 전리품이다."
 
-wll.103.t:0 "왈로니아가 플랜더스를 요구하다"
-wll.103.d:0 "왈로니아는 옛 벨기에의 모든 고토의 영유권을 주장하고 있고, 플랜더스의 소유권을 돌려받기 위해 우리에게 접근해왔습니다."
+wll.103.t:0 "왈로니가 플랜더스를 요구하다"
+wll.103.d:0 "왈로니는 옛 벨기에의 모든 고토의 영유권을 주장하고 있고, 플랜더스의 소유권을 돌려받기 위해 우리에게 접근해왔습니다."
 wll.103.a:0 "그 땅을 돌려줘라."
 wll.103.b:0 "그 땅은 승자의 전리품이다."
 
@@ -377,7 +377,7 @@ wll.104.a:0 "젠장."
 
 #Internationale
 
-wll.11.t:0 "왈로니아가 인터내셔널 가입을 요청하다"
+wll.11.t:0 "왈로니가 인터내셔널 가입을 요청하다"
 wll.11.d:0 "우리의 북쪽 이웃은 성공적으로 쇠사슬을 끊었고 우리의 동맹에 가입하기를 원합니다. 그러나 독일이 그들의 혁명에 간섭할 수 있고 우리는 우리가 이 위험을 감수해야 하는지 고려해 보아야 할 것입니다."
 wll.11.a:0 "들어오라 해라."
 wll.11.b:0 "거절하자."
@@ -386,8 +386,8 @@ wll.111.t:0 "인터내셔널이 제휴를 거절했다"
 wll.111.d:0 "우리는 우리의 사회주의 형제들로부터 버림받았고 독일의 위협에 홀로 맞서게 되었습니다."
 wll.111.a:0 "혁명이 실패하는 건가?"
 
-wll.112.t:0 "왈로니아 생디칼리슴"
-wll.112.d:0 "생디칼리슴이 우리 위성국 왈로니아로 퍼져 아델베르트가 퇴위된 것으로 보입니다. 우리 군대는 이미 공격을 준비하고 있지만, 프랑스 코뮌과의 충돌을 막기 위해 공격을 철회할 수도 있습니다."
+wll.112.t:0 "왈로니 생디칼리슴"
+wll.112.d:0 "생디칼리슴이 우리 위성국 왈로니로 퍼져 아델베르트가 퇴위된 것으로 보입니다. 우리 군대는 이미 공격을 준비하고 있지만, 프랑스 코뮌과의 충돌을 막기 위해 공격을 철회할 수도 있습니다."
 wll.112.a:0 "공격을 준비하라!"
 wll.112.b:0 "신경쓸 거리가 아니다."
 
@@ -506,7 +506,7 @@ WLL_Form_A_Government_desc:0 "The first round of negotiations has proven success
 WLL_Syndicalist_Revolution:0 "생디칼리스트 혁명"
 WLL_Syndicalist_Revolution_desc:0 "The syndicalist revolution has arrived and is sweeping through the industrial centers of the Sillon Industriel. A steady hand will be necessary to avoid bloodshed and violence."
 WLL_Peacefull_Transition:0 "평화로운 전환"
-WLL_Peacefull_Transition_desc:0 "오직 공정하고 민주적인 선거를 통해서만이 노동자 계층의 진정한 지지를 얻을 수 있습니다. 탄탄한 의회의 권력 기반을 통해, 우리는 왈로니아를 개혁하고 우리가 원하는 사회주의 국가로 만들어가기 시작할 것입니다."
+WLL_Peacefull_Transition_desc:0 "오직 공정하고 민주적인 선거를 통해서만이 노동자 계층의 진정한 지지를 얻을 수 있습니다. 탄탄한 의회의 권력 기반을 통해, 우리는 왈로니를 개혁하고 우리가 원하는 사회주의 국가로 만들어가기 시작할 것입니다."
 WLL_A_BWP_President:0 "A POB President"
 WLL_A_BWP_President_desc:0 "Fernand Dehousse has led the party through the elections and should be the undisputed leader of the party. As the first Walloon president, he will guide Wallonia towards the future."
 WLL_A_Syndicalist_Chairman:0 "A Syndicalist Chairman"
@@ -564,7 +564,7 @@ WLL_Military_Propaganda_desc:0 "나약한 군대가 세계대전에서 우리에
 WLL_Demand_Our_Rightfull_Land:0 "우리의 정당한 영토를 주장"
 WLL_Demand_Our_Rightfull_Land_desc:0 "We won't settle for the humiliation imposed on us by the Germans and Flemish. All of Belgium belongs to Degrelle!"
 
-WLL_Walloon_Expansion:0 "왈로니아 확장"
+WLL_Walloon_Expansion:0 "왈로니 확장"
 WLL_Walloon_Expansion_desc:0 "The lands of Wallonia abound with unharnessed potential. Let the land finally be put to work for those who labour on them. We should develop the basis of a new economic plan under which our economy can stand upon its own two feet."
 WLL_The_Sillon_Industriel:0 "The Sillon Industriel"
 WLL_The_Sillon_Industriel_desc:0 "The Sillon Industriel is the industrial heartland of Wallonia, it's output unparalleled. However, the region saw a number of strikes under the Flandro-Walloon administration which disrupted production and destabilized the nation. It is pertinant therefore that we placate the people and industrial centers of the region with even more pronounced state support."
@@ -592,7 +592,7 @@ WLL_German_Investements:0 "독일의 지원"
 WLL_German_Investements_desc:0 "Our nation's connection to Germany has not only survived but continues to strengthen. Surely German investment is key to ensuring not only the end of our economic woes, but sustained growth into the distant future."
 WLL_Increase_German_Export:0 "독일로의 수출 증가"
 WLL_Increase_German_Export_desc:0 "Given our present political situation, German markets are more important to our national economy than ever. we should work with the Germans to decrease mutual barriers to trade and subsidise businesses which primarily export to Germany."
-WLL_Krupp_Wallonia:0 "크루프 왈로니아"
+WLL_Krupp_Wallonia:0 "크루프 왈로니"
 WLL_Krupp_Wallonia_desc:0 "The Krupp company's expertise in steel production has already a boon. With state support, Krupp can surely lead our steel industry into a golden age of productivity."
 WLL_Encourage_Frontaliers:0 "Encourage Frontaliers"
 WLL_Encourage_Frontaliers_desc:0 "Many of our people work abroad in the nations of Mitteleuropa and send remitances home. This represents a sizable portion of our national economy, and while it hurts our industrial centers to some extent by shrinking the labor market, the increased disposable income this reality brings is surely economically beneficial. We should further encourage the practice and negotiate with Germany to reduce restrictions on individual Frontaliers."

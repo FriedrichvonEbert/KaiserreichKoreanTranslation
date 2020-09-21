@@ -237,11 +237,11 @@ libya.20.a:0 "The Porte knows best!"
 libya.21.t:0 "Republican Uprising Crushed!"
 libya.21.d:0 "Sadly, not all understand the gravity of our situation or the hard choices we have to make. A band of republicans attempted to launch a coup in Tripoli today, however they were shot down and killed in the dozens. This is a severe blow to republicanism as a whole, but the shock of our brothers fighting each other will linger as a dark cloud, and forever tainting today as a day of Infamy."
 libya.21.a:0 "How many times must these foolish children fail before they recognise their folly?"
-libya.22.t:0 "Libya Requests Kufrah Border Revision"
+libya.22.t:0 "Libya Requests Kufrah Border Revision" # NOT IN USE
 libya.22.d:0 "The region of Kufrah only began to be settled on the late 19th century, and its borders were assigned to Egypt by imperialist forces decades ago. Now our friends in Tripoli request that this border issue finally be settled, by fixing the border in the region - unsurprisingly, in their favour."
 libya.22.a:0 "Hmm, the maps will look much better."
 libya.22.b:0 "Not one grain of sand in Kufrah will be given away."
-libya.23.t:0 "Egypt Refuses!"
+libya.23.t:0 "Egypt Refuses!" # NOT IN USE
 libya.23.d:0 "Egypt has refused to give up on the lands in Kufrah despite our gentle request, to the horror of cartographers worldwide."
 libya.23.a:0 "A shame."
 libya.24.t:0 "Ifriqya's Capital"
@@ -268,7 +268,7 @@ libya.29.a:0 "OK."
 libya.30.t:0 "A United Libya!"
 libya.30.d:0 "This event turns Tripolitania into Libya if not under Ottoman rule"
 libya.30.a:0 "Huzzah!"
-libya.31.t:0 "Egypt Accepts!"
+libya.31.t:0 "Egypt Accepts!" # NOT IN USE
 libya.31.d:0 "It appears that the Egyptians wisely chose to amend the atrociously ugly border at Kufrah in our favour, forever promising to make our nation both larger and more aesthetically pleasing."
 libya.31.a:0 "Thank goodness!"
 

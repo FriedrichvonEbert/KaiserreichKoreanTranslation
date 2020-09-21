@@ -104,7 +104,7 @@ VEN_US_treaty:0 "미국-베네수엘라 친선관계"
 
 ### Flags and Tooltips
 VEN_no_coup:0 "쿠데타를 회피하다"
-VEN_coup:0 "검은 월요일 이후 쿠데타가 일어나다"	
+VEN_coup:0 "검은 월요일 이후 쿠데타가 일어나다"
 VEN_colombianexiles_tt:0 "망명한 2개의 콜롬비아 민병대 사단이 증원됩니다."
 
 VEN_election_desc:0 "이 중점은 선거가 끝나면 건너뛰게 됩니다."
@@ -188,7 +188,7 @@ VEN_join_USA_desc:0 "Now that our government has been saved from the syndicalist
 VEN_social_democrat_party:0 "민주운동당"
 VEN_social_democrat_party_long:0 "민주운동당"
 VEN_social_conservative_party:0 "독립선거관리위원회"
-VEN_social_conservative_party_long:0 "독립선거관리위원회" 
+VEN_social_conservative_party_long:0 "독립선거관리위원회"
 VEN_authoritarian_democrat_party:0 "임시정부"
 VEN_authoritarian_democrat_party_long:0 "임시정부"
 VEN_paternal_autocrat_party:0 "베네수엘라 국가회의"
@@ -440,8 +440,8 @@ ven.4.b:0 "그건 우리의 자원을 낭비할 뿐이다."
 ven.5.t:0 "마르코스 페레스 히메네스가 권력을 장악하다!"
 ven.5.d:0 "사회주의 정부에는 내부의 적뿐 아니라 외부의 적도 있었던 것으로 보입니다. 페레스 히메네스 장군은 많은 장교들과 군대의 지원을 받아 베네수엘라 사회당의 혁명 정책을 저지하기 위해 유혈 쿠데타로 정권을 장악했습니다. 베네수엘라 사회당에 충성하는 급하게 조직된 민병대와 잠시 대치한 후, 군대는 다수의 베네수엘라 사회당 정치인들을 체포하고 의회의사당의 접근을 차단했습니다. 페레즈 지메네즈의 지지자들은 이 나라를 지켰고 베네수엘라 사회당 지도자들은 도망치거나 숨었습니다. 이 배후에는 미국이 있는 것으로 보입니다."
 ven.5.a:0 "군부가 생디칼리슴으로부터 우리를 구해줄 것이다."
-ven.6.t:0 "소총 수입"
 
+ven.6.t:0 "소총 수입"
 ven.6.d.a:0 "우리의 국내 무기 산업의 한계로 인하여, 우리는 여전히 외국 생산자들에게 의존하고 있습니다. 우리에게는 두 개의 주요 공급업체가 있습니다: 에르스탈 국립공장(Fabrique Nationale)의 [BEL.GetName]와(과) 외스터라이히 바펜파브릭게젤샤프트 슈타이어(Österreichische Waffenfabriksgesellschaft Steyr)의 [AUS.GetNameDef]이 있습니다. 우리는 어느 회사든 우리의 확장된 군대를 위한 또 다른 소총 계약을 맺게 되어 기뻐할 것이라고 확신합니다."
 ven.6.d.b:0 "우리의 첫 번째 선택지는 우리가 요청한 만큼의 총기의 양을 공급할 수 없는 것으로 보입니다. 고맙게도, 우리에게 필요한 소총을 베네수엘라 군대에 판매하는 두 번째 선택지가 있습니다."
 ven.6.d.c:0 "확실한 건, 외국 기업들은 우리가 우려했던 것처럼 신뢰받을 수 없습니다. 우리는 현지에서의 무기 생산으로 보급하거나 다른 방법으로 무기들을 획득해야 할 것입니다."

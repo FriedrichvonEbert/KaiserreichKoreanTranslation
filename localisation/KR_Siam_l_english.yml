@@ -665,7 +665,7 @@ SIA_progressivemeasures_desc:0 "The progressives have enacted measures which giv
 SIA_modernsiamesenation:0 "현대 [SIA.GetAdjective] 국가"
 SIA_modernsiamesenation_desc:0 "Our nation has progressed rather far from what it once was. We are no longer a nineteenth century backwater but are, in fact, a modernised nation at the forefront of progress. This does not mean we shall stop here, we will continually strive to better ourselves and the nation. Long live [SIA.GetName]!"
 SIA_khana_ratsadon:0 "인민당의 쿠데타"
-SIA_khana_ratsadon_desc:0 "”...The King governs without principle. The country is left to the mercy of fate, as demonstrated by the current depression and hardship... The People's Party has no wish to snatch the throne, hence it invites the King to retain the position. But he must adopt a constitution to legitimately govern the country...”\n- excerpt from the Khana Ratsadon Manifesto"
+SIA_khana_ratsadon_desc:0 ""...The King governs without principle. The country is left to the mercy of fate, as demonstrated by the current depression and hardship... The People's Party has no wish to snatch the throne, hence it invites the King to retain the position. But he must adopt a constitution to legitimately govern the country..."\n- excerpt from the Khana Ratsadon Manifesto"
 SIA_iron_marshal:0 "철의 장군"
 SIA_iron_marshal_desc:0 "Luang Phibunsongkhram, who gained fame during the [SIA.GetAdjective] intervention in Burma, now faces the monumental task of keeping the nation together and safe from the dissident threat."
 SIA_yuwachontaharn:0 "청년의용군 설립"

@@ -111,8 +111,8 @@ WAR_NAME_BOL_CHL:0 "제2차 태평양 전쟁"
 WAR_NAME_CHL_BOL:0 "제2차 태평양 전쟁"
 
 ### Ethiopian Wars ###
-WAR_NAME_ETH_ERT:0 "에리트리아 반란"
-WAR_NAME_ERT_ETH:0 "에리트리아 독립전쟁"
+WAR_NAME_ETH_ERI:0 "에리트리아 반란"
+WAR_NAME_ERI_ETH:0 "에리트리아 독립전쟁"
 WAR_NAME_ETH_SOM:0 "오가덴 전쟁"
 WAR_NAME_SOM_ETH:0 "오가덴 전쟁"
 
@@ -212,8 +212,8 @@ WAR_NAME_PRC_GXC:0 "양광 내전"
 # Northwestern Revolts
 WAR_NAME_SIK_ETS:0 "동튀르케스탄 봉기"
 WAR_NAME_ETS_SIK:0 "동튀르케스탄 봉기"
-WAR_NAME_SIK_TUV:0 "쿠물 반군"
-WAR_NAME_TUV_SIK:0 "쿠물 반군"
+WAR_NAME_SIK_TAN:0 "쿠물 반군"
+WAR_NAME_TAN_SIK:0 "쿠물 반군"
 
 # League of Eight / Five Provinces Collapse
 WAR_NAME_LEP_ANQ:0 "오성전쟁"

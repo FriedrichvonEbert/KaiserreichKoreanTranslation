@@ -134,10 +134,10 @@ SIK_killing_mongol_decision_category:0 "몽골의 노략질"
 SIK_killing_mongol_decision_category_desc:0 "북쪽의 몽골 정부가 서부의 도적들과 마찰이 생기면서 이 문제는 우리 신강지역까지 확산되고 있다. 이지역이 신강의 핵심은 아니지만, 이 상황이 오래 지속되면 우리의 통치력을 의심 받을 것이다."
 
 SIK_mobilize_shuren_division:0 "진슈렌의 부대를 증원"
-SIK_mobilize_shuren_division_desc:0 "진 슈렌이 꾸린 부대는 더 많은 병력과 무기 같은 사소한 필요 외에 우리의 땅이 무방비가 되기전에 북쪽 몽골도적을 쉽게 처리할 수 있도록 능 준비하던 것이였다.
+SIK_mobilize_shuren_division_desc:0 "The regiment Jin Shuren was preparing before the governorship crisis is readily open for us to crush the Mongolian bandits in the north, besides some minor needs for more men and guns."
 
 SIK_march_dzungaria:0 "진슈렌의 부대를 동원"
-SIK_march_dzungaria_desc:0 "연대가 환비 되었다는 것은 모든 문제를 야기한 몽골진영을 습격할 준비가 충분히 되었다는 것이다. 작전이 잘 진행되기를 바랄 뿐이다."
+SIK_march_dzungaria_desc:0 "With the regiment properly supplied, we should be plenty ready to raid the Mongolian camps causing all of these problems. We can only hope the operation goes well."
 
 SIK_setup_policing_dzungaria:0 "치안유지정책"
 SIK_setup_policing_dzungaria_desc:0 "도적들이 캠프를 철수시킴으로서 습격빈도는 줄어들고 있지만, 항상 농촌을 배회하며 노략질하는 몇몇 도적들이 있을 것이다. 외진 지역에 경미한 치안을 유지하는 것이 이 문제를 끝내는 것에 도움이 될것이다."
@@ -642,5 +642,5 @@ SIK_navigating_desert_desc:0 "The Taklamakan basin is a death trap for travelers
 SIK_open_mineral_mining:0 "광산 개업"
 SIK_open_mineral_mining_desc:0 "The mines of Khotan that were closed during the strike are finally reopened. Miners are easily found to replace the rebels in the numerous immigrants to Xinjiang."
 
-SIK_xinjiang_railways:0 "신강에 닿다"
+SIK_xinjiang_railways:0 "Connecting Xinjiang"
 SIK_xinjiang_railways_desc:0 "The greatest goal of any modern Xinjiang governor is to have a railway. Thought impossible due to the extreme temperature, benditry, and costs, it may be time to revive the dream."
