@@ -317,8 +317,8 @@ CAL_new_liberalism_desc:0 "공화당이 집권한 이후 미국의 경제가 정
 ### Social Liberals ###
 CAL_progressive_taxation:0 "자유 조세"
 CAL_progressive_taxation_desc:0 "Ideally, taxation should strike a balance between allowing people to still have enough money to spend on consumer and luxury goods, and supporting government programs. The Progressive Party's tax plan ensures this will be the case."
-CAL_securities_act:0 "증권법"
 CAL_securities_act_desc:0 "많은 사람들은 내전 동안 미노조연맹과 미연합국이 수행한 대규모 재산 몰수를 두려워하고 있습니다. 우리는 국민들의 사유재산을 인정해주는 법률을 제정하여 그들을 안심시켜야 합니다."
+CAL_securities_act:0 "증권법"
 CAL_gospel_of_wealth:0 "배금주의 풍토"
 CAL_gospel_of_wealth_desc:0 "경제가 번창하면 모든 사람의 배를 들어올릴 수 있습니다. 우리는 세제 개혁과 같은 개혁들을 통해 최고경영자와 가난한 농부들 모두 번창하도록 보장해야 합니다."
 CAL_trust_busting:0 "트러스트 해소"

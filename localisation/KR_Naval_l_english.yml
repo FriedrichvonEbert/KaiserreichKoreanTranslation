@@ -47,14 +47,14 @@ dreadnought_desc:0 "예산이 허락하는 한 가장 큰 함포와 가장 두�
 convoy:0 "수송선"
 convoy_desc:0 "수송선은 국제 무역과 자원 수입에 쓰입니다. 또한 군대의 수송과 해군의 상륙 작전에도 사용됩니다."
 
-#MTG tech tree only 
+### MTG Tech Tree Only ###
 cruisers_desc:0 "경순양함 - 가벼운 보조함으로 주력함을 적 소형함으로부터 보호하는 역할을 맡습니다. 또한, 대형함에게 한방 먹일 수 있는 강력한 어뢰를 발사할 수 있습니다.\n\n순양함 - 다재다능한 대형 순양함입니다. 주력함을 건조할 능력이 없는 영세국가에 안성맞춤입니다."
 heavy_hull_desc:0 "장갑순양함 - 장갑함은 중구경 함포를 장착한 중형 함선입니다. 소형함 킬러 역할에 최적이나, 값싼 유사 주력함 역할도 할 수 있습니다.\n\n전함 - 전함은 적절한 크기의 다재다능한 주력함입니다. 공,수,주 능력이 적절하게 분배되어 있지만, 반대로 말하면 어느 면에서도 우세를 점하지 못합니다.\n\n드레드노트 - 예산이 허락하는 한 가장 큰 함포와 가장 두꺼운 장갑을 두른 거대한 주력함입니다. 엄청나게 비싸기 때문에 보조함의 호위를 받을 가치가 충분히 있습니다."
 
 ship_hull_heavy:0 "주력함"
 ship_hull_heavy_desc:0 "장갑순양함, 전함 혹은 드레도노트와 같은 큰 함선에 사용되는 선체 범주입니다."
 
-###modules 
+### Modules ###
 SHIP_DESIGNER_MODULE_SELECTION:0 "모듈 선택"
 weltkrieg_naval_gunnery:0 "세계대전기 함포"
 weltkrieg_naval_gunnery_desc:0 "해군함포의 개발과 메커니즘 향상을 위한 기본적인 설계입니다."
@@ -85,7 +85,7 @@ snorkel_one_desc:1 "엔진실에서 제어탑까지 이어지는 단순한 공�
 snorkel_two:0 "개선된 스노클"
 snorkel_two_desc:1 "개선된 스노클은 엔진으로 물이 역류해 들어가는 것을 방지하고 스노클 헤드의 레이더 반향을 줄여줍니다.\n\n본 모듈을 §Y잠수함§!에 장착하면, §Y가시성§!이 줄어들어, 탐지하기가 더 어려워집니다."
 
-### Multyhull techs
+### Multi-hull Techs ###
 carrier_conversion:0 "개장 항공모함 선체"
 carrier_conversion_desc:0 "수상비행기 보조함을 사용한 경험을 통해 해군은 바다에서 항공기를 운반할 수 있는 차세대 선박에 대한 개발 작업에 착수했습니다. 이전의 단순한 수송선들과는 달리, 이 항공모함은 항공기가 항모로부터 날아가고 그리고 다시 돌아와 착륙할 수 있는 비행 갑판으로 설계되었습니다. 민간 선박과 수상기 보조함에서 개조된 이 배들은 비교적 비좁은 비행 갑판과 격납고를 가지고 있어서 다소 제한적이긴 하지만, 항모들이 바다에서 공중의 요소들을 효과적으로 이용할 수 있다는 것을 증명했습니다."
 weltkrieg_heavy_ship_hull:0 "세계대전기 중함체"
@@ -93,7 +93,7 @@ weltkrieg_heavy_ship_hull_desc:0 "세계대전이 발발하기 직전에 설계�
 weltkrieg_cruiser_hull:0 "세계대전기 순양함 선체"
 weltkrieg_cruiser_hull_desc:0 "더 나은 품질의 장갑과 증기 터빈 엔진의 개발로 가벼운 장갑을 가진 순양함이 등장했습니다. 19세기에 개발한 방호순양함보다 더 빠르고 안전한 이 순양함 디자인은 1910년대에 방호순양함을 대체했습니다."
 
-###micelangelous
+### Miscellaneous ###
 fire_fighting_drills:0 "화재 진압 훈련"
 fire_fighting_drills_desc:0 "수병 위로 함장 아래로 모두 집합해 화재를 진압하고 예방하는 임무를 맡을 수 있도록 훈련시킵니다."
 separate_fire_mains:0 "소화 주관 분리"
@@ -107,7 +107,7 @@ ladder_shooting_desc:0 "솔직히 협차 사격은 지루하고 적함에게 먹
 shell_dyes:0 "포탄 염색"
 shell_dyes_desc:0 "염료를 담은 주머니를 포탄에 달아 착탄시 울긋불긋한 연기가 솟아오르도록 합니다. 어느 함선의 포탄이 저곳에 떨어졌는지를 구분할 수 있게 해 여러 함선이 한 표적을 공격할 때에도 조준을 수월하게 수정할 수 있도록 돕습니다."
 
-##mines
+### Mines ###
 contact_mine:0 "접촉 기뢰"
 contact_mine_desc:0 "해저 표면에 매여 있는 폭탄 덩어리입니다. 함선이 이 폭탄 덩어리에 닿으면 두동강이 날 것입니다."
 magnetic_mine:0 "자기 기뢰"
@@ -158,7 +158,7 @@ ship_hull_cruiser_coastal_defense_ship:0 "해안방어선 선체"
 ship_hull_cruiser_coastal_defense_ship_desc:0 "해안방어선은 순양함 크기의 작은 군함으로, 장갑과 무장을 위해 속도와 사거리를 희생했습니다. 해안방어선은 보통 일반적인 크기의 전함을 상대할 수 없거나 자국 해안에 근처에서 연안 작전이 가능하도록 특수하게 설계된 얕은 기선으로 만족할 수 있는 나라들에게 매력적이었습니다."
 ship_hull_cruiser_panzerschiff:0 "개장 장갑순양함 선체"
 ship_hull_cruiser_panzerschiff_desc:0 "프랑스 혁명의 여파로 공화정 정부는 코뮌의 조선역량에 깊은 우려를 품게 되었습니다. 실제 조선소 시설이 부족하고 예산도 한정적이던 그들은 한가했던 양시칠리아의 조선소에 국제적으로 생산 주문을 해야 했습니다. 그들의 설계는 중형급으로 의도된 것이었는데, 막상 결과물은 더 가벼운 순양함을 함포와 사정거리의 우수함으로 쫓아내고, 더 현대적인 전함과의 전투는 회피할 수 있는 속도를 가진 물건이었습니다. 우크라이나, 오스트리아, 그리고 양시칠리아와 같은 빠른 나라들은 이러한 종류의 선박을 더 많이 수주했습니다. 조선 시설을 이용하지도 않고도 이러한 나라들이 해보지 못 한 경험을 했습니다. 그리고 이 새로운 설계의 탄생에 따른 폭발적인 건조량의 증가를 목격했습니다."
-ship_hull_torpedo_cruiser:0 "어뢰 순양함 선체" 
+ship_hull_torpedo_cruiser:0 "어뢰 순양함 선체"
 ship_hull_torpedo_cruiser_desc:0 "이 순양함들은 어뢰로 무장한 소형 군함이 훨씬 더 큰 전함을 저렴한 가격으로 효과적으로 격파할 수 있다는 청년학파의 교리를 바탕으로 주로 어뢰를 무장하고 있습니다."
 #Heavy Hulls
 ship_hull_heavy_1:0 "세계대전기 중함체"
@@ -182,7 +182,7 @@ ship_hull_carrier_conversion_bb:0 "개장 전함 항공모함 선체" #실험적
 ship_hull_carrier_conversion_bb_desc:0 "최초의 대형 항모라고 불리는 이 함체들은 원래 주력함을 제작하기 위한 것이었지만, 여러 가지 이유로, 용도가 전환되어 항공모함으로 완성되었습니다. 몇몇의 해군들만이 이러한 배들을 만들었고, 설계는 매우 다양했습니다. 항공기 수용량은 60대에서 100대 이상까지 다양했습니다. 하지만 과도하게 무거운 장갑과 거대한 함포 소지와 같은 옥 티가 있었습니다. 실험적이고 하면서 상상하지도 못했던, 이 함체들은 여전히 믿을 수 없을 만큼 어마어마한 무기이며, 다음 세대의 함공모함들을 위한 기초를 닦았습니다."
 ship_hull_carrier_conversion_dng:0 "개장 초드레드노트 항공모함 선체" #실험적
 ship_hull_carrier_conversion_dng_desc:0 "최초의 대형 항모라고 불리는 이 함체들은 원래 주력함을 제작하기 위한 것이었지만, 여러 가지 이유로, 용도가 전환되어 항공모함으로 완성되었습니다. 몇몇의 해군들만이 이러한 배들을 만들었고, 설계는 매우 다양했습니다. 항공기 수용량은 60대에서 100대 이상까지 다양했습니다. 하지만 과도하게 무거운 장갑과 거대한 함포 소지와 같은 옥에 티가 있었습니다. 실험적이고 하면서 상상하지도 못했던, 이 함체들은 여전히 믿을 수 없을 만큼 어마어마한 무기이며, 다음 세대의 함공모함들을 위한 기초를 닦았습니다."
-ship_hull_carrier_1:0 "개선된 항공모함 선체" 
+ship_hull_carrier_1:0 "개선된 항공모함 선체"
 ship_hull_carrier_1_desc:0 "30년대 후반에 개발된 이 함체들은 주로 더 '전통적인' 함대에 초점을 맞추어서 공중 정찰과 경비행기를 보급하기 위해 고안되었습니다. 이 함체들의 작전거리는 상당히 증가했고, 공해상에서 최대 속도로 이동하는 함대를 따라갈 수 있을 만큼 충분히 빠르게 만들고자 노력했습니다."
 ship_hull_carrier_2:0 "진보된 항공모함 선체"
 ship_hull_carrier_2_desc:0 "바다에서 펼쳐지는 주요 작전들이 해상 전투에 큰 영향을 미치는 항공기의 힘을 보여주면서, 많은 강대국들은 자신들이 항공모함 전력의 개발에서 뒤쳐져 있다는 것을 알게 되었습니다. 배수량이 큰 함공모함이 가장 강력한 것으로 보여졌지만, 그것들은 건설하는데 오랜 시간과 많은 양의 자원을 필요로 하는 거대한 배였습니다. 공군력을 바다에 투사하는 능력을 증가시키기 위해, 몇몇 강대국들은 이런 거대한 디자인보다 더 가벼운 항공모함을 증강해서 해군의 항공 능력을 빠르게 강화하기 위해 노력했습니다."
@@ -219,7 +219,6 @@ ship_light_battery_4_desc:0 "장갑화된 포좌에 장착된 쌍열포입니다
 dp_light_battery:0 "127mm(5인치) 공지양용 포"
 dp_light_battery_short:0 "공지양용 경함포 I"
 dp_light_battery_desc:0 "특수 포좌에 장착된 함포는 수상 표적을 공격하듯이 항공기를 공격할 수 있습니다."
-
 ship_heavy_battery_1:0 "280mm 함포"
 ship_heavy_battery_1_short:0 "중함포 I"
 ship_heavy_battery_1_desc:0 "세계대전 이전에 제조된 구식 중함포입니다."
@@ -235,11 +234,10 @@ ship_heavy_battery_4_desc:0 "화력덕후로의 궁극적 진화를 이뤄낸 �
 ship_super_heavy_battery_1:0 "457mm(18인치) 함포" #변경됨
 ship_super_heavy_battery_1_short:0 "초중함포 I"
 ship_super_heavy_battery_1_desc:0 "함선에 장착된 함포 중 가장 거대합니다. 모든 방패를 뚫을 수 있는 창입니다."
-
 ship_light_medium_battery_1:0 "145mm 함포" #변경됨
 ship_light_medium_battery_1_short:0 "호위 순양함포 I"
 ship_light_medium_battery_1_desc:0 "이 함포는 화력과 포탄 중량을 타협해 만들어졌습니다. 호위 순양함에게 소형함선에 대적할 적절한 화력을 제공해줍니다."
-ship_light_medium_battery_2:0 "150mm "함포"  #변경됨
+ship_light_medium_battery_2:0 "150mm 함포"  #변경됨
 ship_light_medium_battery_2_short:0 "호위 순양함포 II"
 ship_light_medium_battery_2_desc:0 "이 함포 설계는 구식 함포로부터 합리적으로 진화한 것입니다. 호위 순양함이 옛 방호순양함과 구축함에 대응할 수 있는 적절한 화력을 지녔습니다."
 ship_light_medium_battery_3:0 "155mm 함포"  #변경됨
@@ -248,7 +246,6 @@ ship_light_medium_battery_3_desc:0 "많은 신기술을 접목해서 구축함�
 ship_light_medium_battery_4:0 "155mm 자동장전 함포"  #변경됨
 ship_light_medium_battery_4_short:0 "호위 순양함포 IV"
 ship_light_medium_battery_4_desc:0 "속사 능력을 통해 적 함선을 갈아버릴 목적으로 설계되었습니다. 엄청난 고폭탄 세례로 적함을 녹여버리고자 한다면 좋은 선택이 될 것입니다."
-
 ship_medium_battery_1:0 "170mm 함포" #변경됨
 ship_medium_battery_1_short:0 "순양함포 I"
 ship_medium_battery_1_desc:0 "전함을 공격하기엔 너무나도 약한 함포지만, 순양함이나 구축함을 쫓는 데엔 강력한 함포입니다."
@@ -261,7 +258,6 @@ ship_medium_battery_3_desc:0 "8인치 구경의 함포는 그렇게 강하지 �
 ship_medium_battery_4:0 "203mm(8인치) 자동장전 함포" #변경됨
 ship_medium_battery_4_short:0 "순양함포 IV"
 ship_medium_battery_4_desc:0 "더 큰 구경의 함포를 장착하고 싶어도 8인치 포탄의 재고와 생산라인이 너무 많으며, 옛 함선의 8인치에 맞게 설계된 포탑 바벳과의 호환성을 생각해서 8인치 구경의 함포를 지속해서 순양함에 달기로 했습니다. 새로 개발된 순양함포에는 요즘 순양함들이 즐겨쓰는 자동장전 기능이 탑재되어서, 순양함이라면 화력이 세야지 라는 세간의 요구 또한 충족시킬 수 있습니다."
-
 ship_secondaries_1:0 "75mm 속사포"
 ship_secondaries_1_short:0 "부포 I"
 ship_secondaries_1_desc:0 "이 부포는 함선 측면의 포곽에 설치되어 있습니다. 대형 함선이 소형 함선에 대응할 수단을 제공합니다."
@@ -271,7 +267,6 @@ ship_secondaries_2_desc:0 "속사포 전용 부포탑에 설치되어 있습니�
 dp_ship_secondaries:0 "127mm(5인치) 공지양용 속사포"
 dp_ship_secondaries_short:0 "공지양용 부포 I"
 dp_ship_secondaries_desc:0 "부포와 중구경 대공포를 섞어 만들었습니다. 장착시 대공화력을 크게 증가시키며, 동시에 소형 함선에 대한 방어책도 제공합니다."
-
 ship_fire_control_system_0:0 "중앙 거리 측정기"
 ship_fire_control_system_0_short:0 "사격 통제 0"
 ship_fire_control_system_0_desc:0 "마스트 꼭대기에 있는 사격 통제반은 목표와 함선 사이의 거리를 각 포대에 전송합니다."
@@ -284,7 +279,6 @@ ship_fire_control_system_2_desc:0 "기계식 탄도 계산기는 거리 측정�
 ship_fire_control_system_3:0 "탄도 컴퓨터"
 ship_fire_control_system_3_short:0 "사격 통제 III"
 ship_fire_control_system_3_desc:0 "더 복잡해진 탄도 컴퓨터는 적함과의 거리 뿐만 아니라 다른 간섭 요인을 고려해 적함을 향해 발사될 포탄의 탄도를 계산해냅니다."
-
 ship_torpedo_1:0 "3연장 450mm 어뢰 발사관"
 ship_torpedo_1_short:0 "어뢰 발사관 I"
 ship_torpedo_1_desc:0 "수상함에 장착 가능한 경어뢰 발사관입니다."
@@ -297,7 +291,6 @@ ship_torpedo_3_desc:0 "중어뢰엔 더 큰 탄두를 장착할 수 있습니다
 ship_torpedo_4:0 "4연장 533mm 어뢰 발사관"
 ship_torpedo_4_short:0 "어뢰 발사관 IV"
 ship_torpedo_4_desc:0 "수상함에서 중어뢰를 쏠 때 발생하는 기계적 문제를 해결했습니다. 따라서 전작보다 어뢰 재장전 속도가 향상됐습니다."
-
 ship_torpedo_sub_1:0 "4연장 450mm 어뢰 발사관"
 ship_torpedo_sub_1_short:0 "어뢰 발사관 I"
 ship_torpedo_sub_1_desc:0 "잠수함 어뢰실 내에서 재장전이 가능한 단순한 어뢰 발사관입니다."
@@ -310,7 +303,6 @@ ship_torpedo_sub_3_desc:0 "중어뢰를 발사할 수 있는 대형 어뢰 발�
 ship_torpedo_sub_4:0 "6연장 533mm 어뢰 발사관"
 ship_torpedo_sub_4_short:0 "어뢰 발사관 IV"
 ship_torpedo_sub_4_desc:0 "전동 어뢰 재장전 장치를 도입해서, 중어뢰를 몇 분이면 재장전할 수 있습니다."
-
 ship_anti_air_1:0 ".50 구경 기관총"
 ship_anti_air_1_short:0 "대공 I"
 ship_anti_air_1_desc:0 "중기관총 몇 정을 엮은 대공 수단입니다. 설치하게 된다면 적 항공기가 근거리로 접근했을 때 우리 수병들이 손가락만 빨고 있지는 않을 겁니다."
@@ -323,14 +315,12 @@ ship_anti_air_3_desc:0 "이전 세대 대공 무장들은 유효 사거리가 �
 ship_anti_air_4:0 "40mm 4연장 대공 기관포"
 ship_anti_air_4_short:0 "대공 IV"
 ship_anti_air_4_desc:0 "가장 최신형 대공포 모델로, 전동 포대 위에 장착돼 매우 빠르게 날아다니는 비행기를 지속적으로 조준할 수 있습니다. 여러 대공포를 하나의 표적에 집중할 수 있는 진보된 사격 통제 장치도 달려 있습니다."
-
 ship_mine_layer_1:0 "기뢰 부설 레일"
 ship_mine_layer_1_desc:0 "수상함이 기뢰를 수송하고 부설할 수 있도록 개조하는 장치입니다."
 ship_mine_sweeper_1:0 "기뢰 소해 장비"
 ship_mine_sweeper_1_desc:0 "다양한 기뢰 소해 장비를 전개시킬 수 있는 기어 장치입니다."
 ship_mine_layer_sub:0 "기뢰 부설관"
 ship_mine_layer_sub_desc:0 "잠수함이 많은 기뢰를 부설할 수 있도록 선체를 개조합니다."
-
 ship_depth_charge_1:0 "폭뢰 투하 레일"
 ship_depth_charge_1_short:0 "폭뢰 I"
 ship_depth_charge_1_desc:0 "폭뢰 투하 레일은 폭뢰를 투하할 수 있는 단순한 장비입니다. 대개 선미에 설치되며, 함선이 잠수함의 머리 위를 지나칠 때 폭뢰를 굴러 떨어트립니다."
@@ -343,26 +333,22 @@ ship_depth_charge_3_desc:0 "일정 심도에 도달하면 무식하게 폭발했
 ship_depth_charge_4:0 "진보된 대잠 박격포"
 ship_depth_charge_4_short:0 "폭뢰 IV"
 ship_depth_charge_4_desc:0 "이전 세대 박격포를 개량한 것으로 장거리에도 폭뢰를 마음껏 투사할 수 있습니다."
-
 ship_sub_snorkel_1:0 "기초 스노클"
 ship_sub_snorkel_1_desc:0 "수중에서도 디젤엔진을 구동시키고 배터리를 충전할 수 있도록 하는 장비로, 배터리를 충전하기 위해 수상으로 부상했을 때 적에게 공격당하는 상황 자체를 없앱니다."
 ship_sub_snorkel_2:0 "개선된 스노클"
 ship_sub_snorkel_2_desc:0 "개선된 설계를 적용해 거친 바다에서 스노클에 해수가 유입되는 상황을 없애고, 수상함의 탐지 레이다에 발각당할 확률을 줄였습니다."
-
 ship_airplane_launcher_1:0 "수상기 발사대"
 ship_airplane_launcher_1_desc:0 "정찰기를 공중으로 띄우는 캐터펄트 장비입니다."
 ship_airplane_launcher_2:0 "개선된 수상기 발사대"
 ship_airplane_launcher_2_desc:0 "개선된 발사 메커니즘을 적용한 수상기 캐터펄트를 장착하면 더 무거운 항공기를 더 빠른 속도로 발사할 수 있습니다."
 ship_deck_space:0 "격납고"
 ship_deck_space_desc:0 "바퀴달린 항공기를 보관, 정비 및 무장시킬 수 있는 넓은 공간입니다. 격납고를 함선에 추가로 설치하면 건조비가 껑충 뛸 것입니다."
-
 ship_sonar_1:0 "수중 청음기"
 ship_sonar_1_short:0 "소나 I"
 ship_sonar_1_desc:0 "잠수한 표적이 내는 소음을 추적하는 청음기입니다."
 ship_sonar_2:0 "능동 소나"
 ship_sonar_2_short:0 "소나 II"
-ship_sonar_2_desc:0 "물속으로 "쨍" 소리를 질러대서, 잠수함 선체에 반사돼 메아리로 들려오는 소리를 바탕으로 잠수함을 추적하는 능동 소나입니다."
-
+ship_sonar_2_desc:0 "물속으로 '쨍' 소리를 질러대서, 잠수함 선체에 반사돼 메아리로 들려오는 소리를 바탕으로 잠수함을 추적하는 능동 소나입니다."
 ship_radar_1:0 "데시미터파 수상 탐지 레이다"
 ship_radar_1_short:0 "레이다 I"
 ship_radar_1_desc:0 "50 cm 파장으로 작동하는 레이다는 굳은 날씨 속에서도 10 km 밖의 적함을 탐지해냅니다."
@@ -375,10 +361,8 @@ ship_radar_3_desc:0 "비싼 공동 자전관을 때려박은 포격 레이다는
 ship_radar_4:0 "통합 사격 통제 레이다"
 ship_radar_4_short:0 "레이다 IV"
 ship_radar_4_desc:0 "센티미터 파장으로 작동하는 사통 레이다는 함포와 완전하게 통합되어 있습니다. 굳은 날씨에서도 정확한 명중률을 보장합니다."
-
 ship_extra_fuel_tank:0 "추가 연료 탱크"
 ship_extra_fuel_tank_desc:0 "연료 탱크를 확장해 더 큰 작전반경을 갖습니다."
-
 light_ship_engine_1:0 "35,000 축마력 엔진"
 light_ship_engine_1_short:0 "소형함 엔진 I"
 light_ship_engine_1_desc:0 "소형 증기터빈 엔진은 소형함을 아주 빠르게 이동시키거나 대형함을 느린 속도로 끌고 갑니다."
@@ -442,7 +426,6 @@ carrier_ship_engine_3_desc:0 "더 큰 항공모함을 더 빠른 속도로 움�
 carrier_ship_engine_4:0 "210,000 축마력 엔진"
 carrier_ship_engine_4_short:0 "항공모함 엔진 IV"
 carrier_ship_engine_4_desc:0 "항모전단의 중추 역할을 맡을 현대의 고속 항공모함에 탑재하기 위해 설계된 항공모함 엔진입니다."
-
 ship_armor_bb_1:0 "200mm 수선장갑/40 mm 갑판장갑"
 ship_armor_bb_1_short:0 "전함 장갑 I"
 ship_armor_bb_1_desc:0 "자함에 탑재된 주포탄을 방어할 수 있게 설계된 이 장갑대 설계는 함선의 모든 부분을 골고루 보호해줍니다."
@@ -462,7 +445,7 @@ ship_armor_bc_3:0 "330mm 수선장갑/130 mm 갑판장갑"
 ship_armor_bc_3_short:0 "장갑순양함 장갑 III" #변경됨
 ship_armor_bc_3_desc:0 "배수량 제한을 무시한 이 장갑대 설계는 전함의 급소 부분을 틈새 없이 보호해 줍니다. 다만, 전함의 강력한 포화에 지속적으로 노출되면 장갑대가 걸레짝이 될 것입니다."
 ship_armor_shbb:0 "450mm 수선장갑/210 mm 갑판장갑"
-ship_armor_shbb_short:0 "초드레드노트 장갑 I" #변경됨
+ship_armor_shbb_short:0 "초중 장갑 I" #변경됨
 ship_armor_shbb_desc:0 "장갑대 설계의 끝판왕, 초중장갑 설계안은 초드레드노트 전함이 건조되었을 당시 개발되었던 어떠한 포탄 앞에서도 끄떡없는 방어를 제공합니다."
 ship_armor_cruiser_1:0 "50mm 수선장갑/40 mm 갑판장갑"
 ship_armor_cruiser_1_short:0 "순양함 장갑 I"
@@ -491,7 +474,6 @@ dp_ship_light_medium_battery_desc:0 "자동장전 메커니즘과 고각 사격 
 dp_ship_secondaries_2:0 "자동장전 127mm(5인치) 공지양용 부포"
 dp_ship_secondaries_2_short:0 "공지양용 부포 II"
 dp_ship_secondaries_2_desc:0 "완전 자동화된 이 무시무시한 부포는 주력함 이외의 모든 것들을 잿더미로 만들어 버립니다."
-
 ship_super_heavy_battery_2:0 "508mm(20인치) 함포"
 ship_super_heavy_battery_2_short:0 "초중함포 II"
 ship_super_heavy_battery_2_desc:0 "18인치 함포를 깎던 기기공들은 자신들이 만들던 함포가 지구가 멸망할 때까지 가장 거대한 함포가 될 것이라고 생각했습니다. 안타깝게도 지구가 멸망하기 전에, 심지어 기기공 본인들이 은퇴하기도 전에 20인치 함포는 도입되고야 말았습니다."
@@ -500,7 +482,7 @@ ship_heavy_medium_battery_short:0 "순양함포 V"
 ship_heavy_medium_battery_desc:0 "전쟁 말기의 신소재 공학 진보는 중형 함포의 화력 증강을 촉진했습니다. 일부 설계사들이 전통적인 8인치 함포의 구경을 좀 더 키우면서도 무게는 그대로 유지해 몇십년 전 전함에 달리던 함포를 순양함에 달 수 있는 혁신을 달성했습니다."
 ship_armor_shbb_2:0 "534mm 수선장갑/254mm 갑판장갑"
 ship_armor_shbb_2_short:0 "초드레드노트 장갑 II"
-ship_armor_shbb_2_desc:0 "무적의 전함을 바라던 거함거포주의자들에게 안타까운 소식이 전해졌습니다. 우리 초드레드노트의 떡장갑을 뚫어버릴 수 있는 20인치 함포가 새로 도입되었다는 소식입니다. 이제 우리는 더 두꺼운 장갑판을 초드레드노트에 달아야 합니다..." 
+ship_armor_shbb_2_desc:0 "당신이 최종해결책을 들고있어도, 만일 거기에 더욱 큰 문제가 될 가능성이 있다면 말하지 않는 것이 좋은데, 가령 누군가 20인치 함포가 도입되었으니 모든 \"결정판\" 장갑 계획이 한물갔다고 말했던 일처럼 말입니다."
 
 ### Non-MTG Hulls ### 
 

@@ -483,7 +483,7 @@ newengland.31.b:0 "축하합니다, 대통령 각하!"
 
 newengland.32.t:0 "[GetYear] 대통령 선거"
 newengland.32.d:0 "[GetYear] 대통령 선거가 끝났습니다. 득표율을 계산한 결과 승리자는..."
-newengland.32.a:0 "자유당
+newengland.32.a:0 "자유당"
 newengland.32.b:0 "공화당"
 newengland.32.c:0 "민주당"
 

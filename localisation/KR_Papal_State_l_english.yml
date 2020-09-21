@@ -73,7 +73,7 @@ PAP_faithful_units:0 "§Y3§! units of partisans will be raised in Central Italy
 
 ### Decisions ###
 PAP_attack_sri:0 "Declare Crusade Against Syndicalism"
-AP_attack_sri_desc:0 "While we would prefer peace, against the great evil of syndicalism there can be no compromise. We have put off the inevitable for far too long. Our military is ready and prepared to defend the catholic faith and liberate the land from the godless syndicalists that have desecrated the north."
+PAP_attack_sri_desc:0 "While we would prefer peace, against the great evil of syndicalism there can be no compromise. We have put off the inevitable for far too long. Our military is ready and prepared to defend the catholic faith and liberate the land from the godless syndicalists that have desecrated the north."
 PAP_declare_independence_from_SIC:0 "Declare the Papacy's Independence"
 PAP_declare_independence_from_SIC_desc:0 "While we are grateful to the Sicilians for protecting the Holy See, it does not do to have the Papacy under another nation's control. The Pope shall issue a declaration of independence, and we shall see our own destiny."
 PAP_claim_donation_of_pepin:0 "Claim the Donation of Pepin"
@@ -213,9 +213,9 @@ PAP_anti_air_desc:0 "우리가 국경을 강화하고 바다에서 생디칼리�
 PAP_reformed_power:0 "개혁된 세속적 권력"
 PAP_reformed_power_desc:0 "교황은 교황청과 그 영토가 피핀의 기부 와 1830년에 피에몬테에 의해 빼앗김으로써 우리에게 제공 한 그의 영토권이 계속될 것임을 입증했습니다. 초자연적인 집단은 교황의 시간적 힘을 신이 자신이 계시 한 교리로 정립할 것을 제안했습니다."
 PAP_faithful_arms:0 "신도 징집"
-PAP_faithful_arms_desc:0 "교황은 외국 병사들을 방어하기 위해 외국 병사를 사용하는 역사를 가지고 있으며, 생디칼리스트 통치하에 있는 프랑스와 북부 이태리"의 가톨릭 국가들과 함께, 우리의 원인으로 모여 우리를 도울 공동체에 대항하는 많은 신앙심 깊은 가톨릭 신자들과 전쟁 참전 용사들이 있습니다. 다가오는 싸움을 위해 우리 군대를 강화해야 합니다."
+PAP_faithful_arms_desc:0 "교황은 외국 병사들을 방어하기 위해 외국 병사를 사용하는 역사를 가지고 있으며, 생디칼리스트 통치하에 있는 프랑스와 북부 이태리의 가톨릭 국가들과 함께, 우리의 원인으로 모여 우리를 도울 공동체에 대항하는 많은 신앙심 깊은 가톨릭 신자들과 전쟁 참전 용사들이 있습니다. 다가오는 싸움을 위해 우리 군대를 강화해야 합니다."
 PAP_palatine_guard:0 "팔라티온 근위대 확장"
-PAP_palatine_guard_DESC:0 "현재 팔라티온 근위대는 스위스 근위대의 설립으로 이탈리아가 무너진 이후 수 년 동안 확장되었지만 성장하는 생디칼리스트들에 대한 우리의 보호를 위한 군대는 여전히 너무 작습니다. 우리는 원수를 상대로 적절한 군대를 배치할 수 있게 하려면 팔라티온 근위대를 다시 태어난 주아브로 확장해야 합니다."
+PAP_palatine_guard_desc:0 "현재 팔라티온 근위대는 스위스 근위대의 설립으로 이탈리아가 무너진 이후 수 년 동안 확장되었지만 성장하는 생디칼리스트들에 대한 우리의 보호를 위한 군대는 여전히 너무 작습니다. 우리는 원수를 상대로 적절한 군대를 배치할 수 있게 하려면 팔라티온 근위대를 다시 태어난 주아브로 확장해야 합니다."
 PAP_zouave_officers:0 "주아브 장교"
 PAP_zouave_officers_desc:0 "우리가 우리 군대에 합류하고자 하는 많은 가톨릭 자원봉사자들을 받았지만, 대다수는 이탈리아 북부와 프랑스 코뮌에서 생디칼리스트 통치를 피하는 미숙한 망명자들입니다. 우리는 개혁된 주아브를 성공적으로 훈련시키고 이끌기 위해 경험 있는 가톨릭 공무원을 모집해야 할 것입니다."
 PAP_zouave_mobilisation:0 "주아브 동원"
