@@ -330,7 +330,7 @@ POL_experiment_with_radar:0 "레이더 실험"
 POL_experiment_with_radar_desc:0 "레이더는 전쟁 분야에서 새로운 기술로, 우리가 경험이 없는 기술입니다. 만약 우리가 이 기술을 이용할 수 있다면, 우리의 비행장은 하늘에서 더 경쟁력을 가질 것입니다."
 POL_empower_gminy:0 "우제도프스트와에게 권한 부여"
 POL_empower_gminy_desc:0 "우리는 권력을 사람들에게 돌려주고, 그들 스스로가 그들의 방어를 책임지도록 해야 합니다. 우리는 모든 우제도프스트바(Województwa)가 그들 자신의 작은 지역 민병대를 유지하고 통제할 수 있도록 허용할 것입니다. 그래서 그들은 그들의 영토와 이익을 더 잘 방어할 것입니다."
-
+ 
 ### Decisions ###
 POL_integration_decisions:0 "Territorial Integration"
 POL_integrate_state:0 "Integrate [From.GetName]"

@@ -20,7 +20,7 @@ LIB_paternal_autocrat_party_long:0 "군사 정권"
 LIB_national_populist_party:0 "라이베리아 프리메이슨 그랜드 롯지"
 LIB_national_populist_party_long:0 "라이베리아 프리메이슨 그랜드 롯지"
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 LIB_AUTHDEM_subject:0 "라이베리아 자치령"
 LIB_AUTHDEM_subject_ADJ:0 "라이베리아"
 LIB_AUTHDEM_subject_DEF:0 "라이베리아 자치령"

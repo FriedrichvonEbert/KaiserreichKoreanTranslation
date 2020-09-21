@@ -4,15 +4,6 @@
 POLITICS_TRIBHUVANA_DESC:0 "트리부반 왕은 불과 5살 때 네팔의 왕위에 올랐습니다. 그러나 트리부반은 명목상의 왕일 뿐, 그는 실권을 쥐고 있는 라나 가문의 꼭두각시에 지나지 않았습니다. 그가 성인으로 성장함에 따라, 국왕과 라나 가문 사이의 갈등이 커지고 있고, 시간이 지나면 이러한 정치적, 경제적 분쟁의 승자가 나올 것입니다."
 
 ### Events ###
-
-nepal.1.t:0 "인도가 네팔을 점령하다."
-nepal.1.d:0 "우리의 명예로운 군대가 네팔을 점령했습니다. 그들의 땅을 어떻게 하면 좋을까요?"
-nepal.1.a:0 "네팔을 통합하라. 힌두교 신자는 더 많을수록 좋다!"
-nepal.1.b:0 "네팔을 입헌군주제로 복고하라!"
-nepal.1.c:0 "네팔은 판차야트 계층제에 따라 통제되어야 한다!"
-nepal.1.e:0 "네팔을 입헌군주제로 복고하라!"
-nepal.1.f:0 "네팔은 판차야트 계층제에 따라 통제되어야 한다!"
-nepal.1.g:0 "네팔은 새로운 사회주의 형제 공화국으로 선언하자!"
 nepal.2.t:0 "카트만두의 괴뢰정부"
 nepal.2.d:0 "패배하고 무너진 괴뢰 정부가 강요되어 세워졌습니다."
 nepal.2.a:0 "오 인류여!"
@@ -25,6 +16,13 @@ nepal.4.a:0 "오 인류여!"
 nepal.5.t:0 "트리부반 샤의 타계"
 nepal.5.d:0 "네팔의 왕 트리부반이 오늘 아침에 병으로 세상을 떠났습니다. 그의 뒤를 이어 아들 마헨드라가 왕위에 올랐습니다."
 nepal.5.a:0 "평안 속에 잠들기를 바란다."
+nepal.10.t:0 "Victory at Hand"
+nepal.10.d:0 "The fools in [DEH.GetNameDef] thought they could order us about! They thought they could take what was rightfully ours? Now Delhi is in our control, and they have no choice but to give in."
+nepal.10.a:0 "Yes, let's end this now"
+nepal.10.b:0 "No, we won't stop until we have everything!"
+nepal.11.t:0 "Delhi Taken"
+nepal.11.d:0 "Amazingly, the Nepalese army has outmaneuvered us and taken Delhi. We have no choice but to give in to their demands and call for peace."
+nepal.11.a:0 "Outrageous!"
 
 ### Tooltips ###
 NEP_puppetdiv_tt:0 "새로운 2개의 보병 사단이 증원될 것입니다."

@@ -30,7 +30,7 @@ PER_bad_military_french_help_tooltip:0 "Modify §HDisorganised Military§! by\nL
 
 ### Focuses ###
 PER_shah_is_dead_press_f:0 "샤의 승하!"
-PER_shah_is_dead_press_f_desc:0 "오늘 아침 6시 30분에 [PER.GetNameDef]의 샤 아흐마드 카자르께서 마지막 숨을 몰아쉬었습니다.샤의 건강상 합병증과 암살 시도로 인한 상처때문에 샤의 죽음은 어느 누구에게도 놀라운 일이 아니지만,샤의 죽음은 [PER.GetNameDef] 곳곳에서 수많은 정치적 혼란를 가져올 것이기 때문에 [PER.GetNameDef]들은 동요하고있습니다.샤의 죽음에 이은 사건들은 이미 움직이고 있습니다.
+PER_shah_is_dead_press_f_desc:0 "오늘 아침 6시 30분에 [PER.GetNameDef]의 샤 아흐마드 카자르께서 마지막 숨을 몰아쉬었습니다. 샤의 건강상 합병증과 암살 시도로 인한 상처때문에 샤의 죽음은 어느 누구에게도 놀라운 일이 아니지만,샤의 죽음은 [PER.GetNameDef] 곳곳에서 수많은 정치적 혼란를 가져올 것이기 때문에 [PER.GetNameDef]들은 동요하고있습니다. 샤의 죽음에 이은 사건들은 이미 움직이고 있습니다."
 PER_long_live:0 "샤여 영원하라!"
 PER_long_live_desc:0 "왕위 계승 위기가 끝나자 이제 왕세자에게 왕관을 씌우고  [PER.GetNameDef]의 새로운 샤한샤를 선언 할 것입니다."
 PER_reinforced_consti:0 "보강된 헌법"
@@ -738,7 +738,7 @@ PER_ottos_are_weak_decision_category:0 "서부 확장"
 PER_ottos_are_weak_decision_decfision:0 "오스만은 약하다!"
 PER_ottos_are_weak_decision_decfision_desc:0 "최근 이집트는 오스만 제국에 전쟁을 선포했습니다. 오스만은 수 세기 동안 중동을 지배해 왔으며, 이제 우리는 그들에게 복수해야 합니다. 그들은 1차 세계대전 이전부터 약소국으로 전락하였고, 이제 유럽의 병자를 끝장내야 합니다."
 PER_country_namechange_decision:0 "국명을 이란으로 변경"
-PER_country_namechange_decision_desc:0 "현대화에 대한 국내에서의 압력이 국제사회에서 우리나라를 칭할 때 구식 용어인 '페르시아' 대신, 우리가 우리나라를 부를 때의 명칭인 '이란'을 쓰자고 요구하고 있습니다. 왜 이게 논쟁의 주제가 되었는지 잘 모르겠습니다."
+PER_country_namechange_decision_desc:0 "현대화에 대한 국내에서의 압력이 국제사회에서 우리나라를 칭할 때 구식 용어인 "페르시아" 대신, 우리가 우리나라를 부를 때의 명칭인 "이란"을 쓰자고 요구하고 있습니다. 왜 이게 논쟁의 주제가 되었는지 잘 모르겠습니다."
 PER_IRAN:0 "새로운 국명은 이란이다"
 
 ### Cosmetic Tags ###
