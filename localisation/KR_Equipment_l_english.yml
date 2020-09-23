@@ -8833,21 +8833,21 @@ SPR_light_tank_equipment_3_desc:0 "The Type 1941 was the most successful design 
 ###
 
 ### Land ###
-SQI_infantry_equipment_0:0 "Mauser C96 “Boke Qiang”"
-SQI_infantry_equipment_0_short:0 "Boke Qiang"
-SQI_infantry_equipment_0_desc:0 "The Mauser C96 (Construktion 96) is a semi-automatic pistol that was originally produced by German arms manufacturer Mauser from 1896 to 1937. Unlicensed copies of the gun were also manufactured in Spain and China in the first half of the 20th century. The gun itself was known as 'Boke Qiang'(scorpion gun) as it saw widespread usage during the warlord era, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Dadao."
-SQI_infantry_equipment_1:0 "Jinan Type 26"
-SQI_infantry_equipment_1_short:0 "Jinan Type 26"
-SQI_infantry_equipment_1_desc:0 "Originally called the 'Xuantong Type 27', this rifle was put into Qing service in 1935 through German assistance after the Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nFirst produced at the Hanyang arsenal with German tools, manufacturing methods have already spread to Jinan, though it may not fully replace its predecessors for some time."
-SQI_infantry_equipment_2:0 "Taiyuan Arsenal Xuantong Type 20 “Zilaide”" #OTL Chinese copy of Astra Model 900
-SQI_infantry_equipment_2_short:0 "Zilaide"
+SQI_infantry_equipment_0:0 "마우저 C96 '박각창'"
+SQI_infantry_equipment_0_short:0 "박각창"
+SQI_infantry_equipment_0_desc:0 "마우저 C96 (Construktion 96)은 원래 독일의 무기 제조사 마우저에서 1896년부터 1937년까지 생산한 반자동권총입니다. 라이센스를 받지 않은 복제품들이 20세기 초반의 스페인과 중국에서 생산되었습니다. 군벌 시대 때 널리 사용되며 총 자체는 '박각창'으로 알려져 있긴 하나, 장비 부족과 개인적인 취향 때문에 큰 칼과 같은 비표준 무기와 같이 사용되는 모습이 자주 보입니다."
+SQI_infantry_equipment_1:0 "제남 26식"
+SQI_infantry_equipment_1_short:0 "제남 26식"
+SQI_infantry_equipment_1_desc:0 "원래 '선통 27식'으로 불리던 이 소총은 청 제국의 부활 후 1935년의 독일 원조를 통해 들어왔습니다. 이 무기는 독일의 마우저 M1924에 근접한 복제품으로, 훨씬 오래된 88식과 비교해 무게와 반동 부분에서 상당히 개선된 모습을 보여줍니다.\n\n첫 생산은 한양 조병창에서 독일제 공구를 이용해 생산되었는데, 아마 이를 완벽히 대체하진 못하더라도 생산 방법은 이미 지난까지 널리 퍼졌습니다."
+SQI_infantry_equipment_2:0 "태원조병창 선통 20식 “자래득”" #OTL Chinese copy of Astra Model 900
+SQI_infantry_equipment_2_short:0 " 자래득"
 SQI_infantry_equipment_2_desc:2 "An improvement to the original Mauser C96 Design, the M1932 Schnellfeuer (Rapid Fire), or as known as 'Zilaide' in Chinese was a very successful design with detachable magazine-fed and select-fire capability.\n\nFurther improvement in the later versions included a detachable barrel, improved front and rear sights, more durable parts to prevent breakage under sustained fire and lowered position of the shoulder stock to avoid 'hammer bite'."
-SQI_infantry_equipment_3:0 "Hanyang Xuantong Type 35"
-SQI_infantry_equipment_3_short:0 "Hanyang Type 35"
-SQI_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 35 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
-SQI_support_weapons:0 "'Huaning' 7.92mm heavy machine gun & Hanyang-made Stokes mortar"
-SQI_support_weapons2:0 "Hanyang 30 festival 7.9mm machine gun 'Old yellow ox' & Jinan Xuantong Type 23 82mm mortar"
-SQI_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Jinan Xuantong Type 34 60mm mortar"
+SQI_infantry_equipment_3:0 "한양 선통 35식"
+SQI_infantry_equipment_3_short:0 "한양 35식"
+SQI_infantry_equipment_3_desc:0 "35식은 1914년부터 생산된 류장군 소총을 기반으로 한 반자동소총입니다. 둘은 유사하게 보이지만 33식은 더 짧고, 리시버의 후면을 덮고 있으며, 가스트랩식은 단순한 가스 포트로 대체되었습니다. 또한 신형 소총은 더 이상 수동 급탄으로 전환하지 못하며, 보헤미아의 ZH-29 소총과 ZB-26 경기관총의 탄창을 사용합니다."
+SQI_support_weapons:0 "'화녕' 7.92mm 중기관총 & 한양제 스토크스 박격포"
+SQI_support_weapons2:0 "한양 30 7.9mm 기관총 '노황우' & 제남 선통 23식 82mm 박격포"
+SQI_support_weapons3:0 "선통 27식 중기관총 & 제남 선통 34식 60mm 박격포"
 
 ###
 ### Sardinia ###
