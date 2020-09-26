@@ -248,37 +248,37 @@ SER_Continue_The_Mechanisation_Efforts:0 "기계화 노력 지속"
 SER_Continue_The_Mechanisation_Efforts_desc:0 "현대 경제에는 현대적인 장비와 실질적인 지식과 경험이 필요합니다. 기계화 작업이 굉장히 길고 비용도 많이 드는 과정이라 할지라도, 성공하기만 한다면 의심의 여지 없이 수많은 농업 종사자들의 생산성을 증대시킬 것입니다."
 
 SER_Invest_In_Zadrugar:0 "자드루가르에 투자"
-SER_Invest_In_Zadrugar_desc:0 "농업 기계화 과정의 일환으로 트랙터, 예비 부품, 정비에 대한 수요가 급격히 증가함에 따라 산업계가 이를 지원할 필요가 있습니다. 고맙게도 세르비아의 자두르가르 회사는 이 산업 분야를 전문으로 합니다. 국가의 추가 지원으로, 그들은 증가하는 요구를 더 쉽게 충족시킬 수 있을 것입니다."
+SER_Invest_In_Zadrugar_desc:0 "농업기계화 과정의 일환으로 트랙터, 예비 부품, 정비에 대한 수요가 급격히 증가하며 산업이 이를 지원할 필요가 있습니다. 다행히도 세르비아의 자두르가르가 이 산업 분야를 전문적으로 다룹니다. 국가의 추가적인 지원을 통해, 증가중인 수요를 더욱 쉽게 충족할 수 있을 것입니다."
 
-SER_Rural_Credit_Banks:0 "농촌 신용 은행"
-SER_Rural_Credit_Banks_desc:0 "간단히 말해서, 신용은 시골 지역에서 부족하고 종종 도시 지역에 집중됩니다. 농촌 신용 은행은 농업 국가들에서 점점 더 많은 존재이며 세르비아도 예외는 아니다. 가난한 농민들에게 절실히 필요한 재정적 지원과 신용을 제공하기 위해 만들어진 이러한 은행 시스템은 농촌 경제를 성장시키기 위해 정부의 지원을 늘려야 합니다."
+SER_Rural_Credit_Banks:0 "지방신용은행"
+SER_Rural_Credit_Banks_desc:0 "각설해서, 시골지역의 신용은 부족한 대신, 도심지에 흔히 집중됩니다. 지방신용은행은 농업국가에서 성장하며 그 존재감을 드러냈는데, 세르비아 또한 예외는 아닙니다. 이런 은행 시스템은 가난한 농민들에게 절실히 필요한 금융지원과 신용을 제공하기 위해 만들어졌으며, 이러한 은행 시스템은 시골경제의 성장을 돕기 위해 증가된 정부 지원을 필요로 합니다."
 
 SER_Emergency_Economic_Relief:0 "비상 경제 구제"
-SER_Emergency_Economic_Relief_desc:0 "검은 월요일은 유럽 전역을 강타했고 세르비아도 슬프게도 예외는 아니었습니다. 곤경에 빠진 불쌍한 세르비아인들로 하여금 그들 자신의 잘못이 없도록 돕기 위해 긴급 조치들이 신속히 제정되어야 합니다. 세르비아 경제가 회복될 때까지, 우리는 거리에서 일자리를 잃고 굶고있는 사람들을 최소한 줄여야합니다."
+SER_Emergency_Economic_Relief_desc:0 "검은 월요일은 유럽 전역을 강타했으며 세르비아 또한, 슬프게도, 예외는 아니었습니다. 어떤 잘못도 저지르지 않았는데 힘든 시기에 굴러떨어진 불쌍한 세르비아 사람들을 돕기위한 긴급조치가 신속히 제정되어야 합니다. 경제가 회복될 때까지, 우리는 반드시 최대한 많은 사람이 길거리에서 굶주려 죽는 일이 없게 해야만 합니다."
 
 SER_Modernise_Belgrade:0 "베오그라드 현대화"
-SER_Modernise_Belgrade_desc:0 "우리의 수도는 대전쟁의 파괴로부터 회복되었지만, 베오그라드는 다른 유럽 국가들의 수도들에 비해 상대적으로 낙후된 상태입니다. 이 위대한 도시를 현대 세계로 끌어들이기 위해서는 더 많은 노력과 투자가 필요합니다."
+SER_Modernise_Belgrade_desc:0 "수도가 대전쟁으로 인한 파괴에서 회복되었으나, 베오그라드는 유럽의 다른 수도와 비교해 계속 낙후된 상태입니다. 위대한 도시를 현대세계로 이끌어오려면 더 많은 노력과 투자가 요구됩니다."
 
 SER_Resume_Cash_Crop_Exportation:0 "환금 작물 수출"
-SER_Resume_Cash_Crop_Exportation_desc:0 "세르비아는 매우 농업적인 경제를 유지하고 있지만, 그것의 고립과 최근의 경제 문제는 그것의 주요 수입품에 심각한 손상을 입혔습니다. 경제 시장 가격이 크게 안정되어 있기 때문에 우리는 농업 수출을 재개할 수 있고 이러한 이익을 투자할 수 있습니다."
+SER_Resume_Cash_Crop_Exportation_desc:0 "세르비아는 매우 농업적인 경제를 유지하나, 고립과 최근의 경제문제는 주요 수입에 극심한 손해를 입혔습니다. 경제시장의 가격이 크게 안정되면, 농산품 수출과 이 수익을 투자할 수 있습니다."
 
 SER_Form_The_State_Railway_Directorate:0 "주 철도청 설치"
-SER_Form_The_State_Railway_Directorate_desc:0 "현재, 우리의 다양한 철도는 세 개의 서로 다른 경쟁 기관들에 의해 통제되고 있으며, 이것은 투자와 확장을 경건한 과정으로 만듭니다. 이를 능률화하기 위해 우리는 국장들을 세르비아 국영 철도국장으로 집중시킬 것입니다."
+SER_Form_The_State_Railway_Directorate_desc:0 "현재, 우리의 다양한 철도는 세 개의 서로 다른, 경쟁기관이 관리하며, 이는 투자 및 확장을 힘든 과정으로 만듭니다. 이를 간소화 하기 위해, 부서들을 세르비아 국영 철도청으로 중앙통합할 것입니다."
 
 SER_Overhaul_Narrow_Gauge_Railways:0 "협궤 철도 점검"
-SER_Overhaul_Narrow_Gauge_Railways_desc:0 "세르비아의 지형 때문에, 이 나라는 경비를 제한하고 험한 지형을 더 쉽게 횡단하기 위해 좁은 지형을 사용하는 많은 선을 가지고 있습니다. 그러나 이러한 라인은 더 나은 시절을 보냈으며 종종 더 낮은 기준에 따라 구축되었으며 용량과 품질을 개선하기 위해 일반적인 개편을 사용할 수 있습니다."
+SER_Overhaul_Narrow_Gauge_Railways_desc:0 "세르비아의 지형 때문에, 국가적으로 많은 노선이 제한된 비용 및 거친 지형을 더욱 쉽게 횡단하려 협궤를 사용합니다. 그러나, 이런 노선들은 상태가 좋지 않으며 종종 낮은 기준으로 건설되어 이런 철도 수용량과 품질을 향상시키기 위한 전반적인 점검을 필요로 합니다."
 
 SER_Expand_The_Bor_Mines:0 "보르 광산 확장"
-SER_Expand_The_Bor_Mines_desc:0 "세르비아는 상당한 광산 산업을 가지고 있으며, 보르의 광산은 정부의 지원 강화로 더욱 확장될 수 있을 것입니다. 이것은 우리가 세르비아 동부에서 더 많은 자원을 추출하고 우리의 경제적 독립을 증가시키는 데 도움이 될 것입니다."
+SER_Expand_The_Bor_Mines_desc:0 "세르비아는 상당한 광업을 가지고 있으며, 보르의 광산은 조금 증가된 정부의 지원으로 더욱 확대될 수 있습니다. 이는 동부 세르비아에서 더 많은 자원을 채광하고 경제적인 독립을 높이는데 도움이 될 것입니다."
 
 SER_Expand_The_Radinac_Steel_Mill:0 "라디나츠 제철소 확대"
-SER_Expand_The_Radinac_Steel_Mill_desc:0 "라디낙의 제철소는 세르비아의 몇 안 되는 가장 중요한 철강 공업지대 중 하나입니다. 철강이 대부분의 중공업의 기반이기 때문에 이를 확대하면 수입에 대한 의존도가 줄어들 것입니다."
+SER_Expand_The_Radinac_Steel_Mill_desc:0 "라디나츠 제철소는 세르비아의 몇 안되는 가장 중요한 철강업체입니다. 강철은 대다수 중공업의 밥과 같기에, 제철소를 확장하면 우리의 수입의존도를 줄일 것입니다."
 
 SER_Found_FOMU:0 "FOMU 설립"
-SER_Found_FOMU_desc:0 "우지체에 있는 무기 및 군수품 공장(FOMU)은 세르비아의 가장 중요한 군사 장비 및 군수품 생산지대 중 하나입니다. 발칸 지역에 폭풍이 불어옴에 따라 앞으로 모든 것이 필요할 것입니다."
+SER_Found_FOMU_desc:0 "Fabrika Oružja i Municije Užice(우지체 무기 및 군수품 공장), FOMU는 세르비아의 가장 중요한 군 장비는 물론이거니와 군수품 생산업체 중 하나입니다. 미래에 폭풍이 발칸 지역에 불어닥치면 앞으로 모든 것이 필요할 것입니다."
 
 SER_Form_The_Military_Council:0 "군사 위원회"
-SER_Form_The_Military_Council_desc:0 "밀라노 네딕 장군이 지난 몇 년 동안 제안한 개혁 위원회는 신생 군을 확장하고 현대화하기 위해 많은 노력을 기울일 것입니다. 이젠 오스트리아인들을 따돌리고, 이제 네드릭의 제안을 따르고 그의 개혁에 착수할 때입니다."
+SER_Form_The_Military_Council_desc:0 "밀란 네디치 장군이 지난 몇 년간 제안했던 개혁위는 우리의 새싹같은 군대를 확장하고 현대화하는데 오랜 기간을 쓸 것입니다. 오스트리아의 손아귀에서 빠져나온 동안, 네디치의 제안을 받아들이고 그의 개혁을 시작할 시간이 되었습니다."
 
 SER_Organise_The_Chetniks:0 "체트니크 조직화"
 SER_Organise_The_Chetniks_desc:0 "Ever since the end of the Weltkrieg, the Serbian Chetniks that fought so bravely through an ultimately doomed war have been divided and aimless. By bringing their commanders together, we can foster a unified 'Association of Chetniks' that can effectively fight for Serbian interests."
@@ -299,10 +299,10 @@ SER_New_Army_Tactics:0 "신식 육군 전술"
 SER_New_Army_Tactics_desc:0 "War has changed. What worked two decades ago will not work today, especially with the advent of the Airforce and the Tank. The Reform Council has resolved to train our soldiers and officers alike in the art of modern warfare."
 
 SER_Begin_Mechanisation:0 "기계화 시작"
-SER_Begin_Mechanisation_desc:0 "오늘날까지 세르비아 군은 보병의 힘으로 구축되어 왔습니다. 하지만, 끊임없는 기술의 발전으로, 자동차는 거의 대부분의 국가에서 기동의 주력이 되었습니다. 이제부터, 우리는 우리의 군대를 더 빠른군으로 만들 것입니다."
+SER_Begin_Mechanisation_desc:0 "오늘날까지, 세르비아군은 병사의 힘으로만 구축되었습니다. 그러나, 끝없는 기술의 진보를 통해, 차량은 보병의 효과을 증가시키는 핵심적인 요소가 되었습니다. 이제부터, 우리 부대를 기계화하여 더욱 빠르고 잘 쉬게 할 것입니다."
 
 SER_Import_Entente_Armour_Designs:0 "협상국 장갑 설계 수입"
-SER_Import_Entente_Armour_Designs_desc:0 "현대 세계에서, 기갑 기술은 생디칼리스트, 라이히 스팍 그리고 대서양을 가로지르는 우리의 오랜 동맹국들 사이에서 분열되어 있습니다. 오타와에 있는 우리 친구들에게 방문해서, 군대가 미래에 사용할 수 있는 탱크의 연대를 확보하기를 바랄 때입니다."
+SER_Import_Entente_Armour_Designs_desc:0 "현대 세상에서, 최고의 장갑기술이란 생디칼리스트와 독일, 그리고 대서양 너머에 있는 우리의 오랜 동맹들로 나뉩니다. 오타와에 있는 우리 친구에게 방문해, 바라건대 미래에 군에서 사용할 연대를 이룰 만큼의 전차를 확보하고 비용을 치를 때입니다."
 
 SER_Lessons_Of_The_War:0 "전쟁의 수업"
 SER_Lessons_Of_The_War_desc:0 "As glorious as our victory over Bulgaria was, it wasn't a flawless one. Armed with vital experience from the frontlines, the Reform Council has already drawn up plans to overcome the mistakes we made, and its time to put them into action."
@@ -317,34 +317,34 @@ SER_Expand_The_Serbian_Aviation_Command:0 "세르비아 공군 사령부 확장"
 SER_Expand_The_Serbian_Aviation_Command_desc:0 "The Serbian "Airforce" for a lack of a better term had no real chance against the Austrian/Hungarian Luftfahrtruppen. Now with those bastards reeling back, the Serbian High command has deemed it fit to expand it's air wing... now to find pilots to fly the damn things."
 
 SER_Seek_New_Expertise:0 "신식 항공 기술 탐색"
-SER_Seek_New_Expertise_desc:0 "세르비아 공군에는 숙련된 조종사 몇 명만이 있고, 외국의 전문지식을 구해야 합니다... 다만 문제는 누가 그 기술을 가지고 있을까요?"
+SER_Seek_New_Expertise_desc:0 "세르비아에게는 숙련된 조종사가 있으나, 외국의 전문가들을 구해야만 합니다만... 진짜 문제는 누구를 불러올지...?"
 
 SER_Local_Munition_Efforts:0 "장비 국산화 시도"
-SER_Local_Munition_Efforts_desc:0 "세르비아는 보다 자립적이 되고자 하는 마음에 지역 장인들에게 군수품과 무기를 생산할수 있는 특권을 제공하기 시작했습니다. 이러한 노력이 결실을 맺기 위해서는 표준화가 필요하겠지만 장기적으로 그 혜택은 엄청날 것입니다."
+SER_Local_Munition_Efforts_desc:0 "세르비아는 보다 자립하고자 지역의 장인들에게 군수품과 무기 생산에 인센티브를 준다는 제안을 시작했습니다. 이 노력이 결실을 맺으려면 규격화가 필요하겠지만, 장기적으는 엄청난 이익이 될 것입니다."
 
 SER_Doctrinal_Studies:0 "교리 연구"
 SER_Doctrinal_Studies_desc:0 "Further studies are to be conducted if Serbia is to master the skies. Never again shall the enemy completely dominate our airspace."
 
 SER_The_Serbian_Airforce:0 "진정한 세르비아 공군"
-SER_The_Serbian_Airforce_desc:0 "세르비아는 외국 고문과 현지 인재의 도움으로 진정한 '세르비아' 항공 교리를 채택했습니다. 하나님과 같이, 믿음과 조국을 위하여(S Bogom, za veru i otečestvo)!!"
+SER_The_Serbian_Airforce_desc:0 "세르비아는 외국 고문과 현지 인재들의 도움으로, 참된"세르비아"공군교리를 채택했습니다. 하나님과 함께, 믿음과 조국을 위하여(S Bogom, za veru i otečestvo)!!"
 
 SER_Fighter_Bomber_Acquisition:0 "전폭기 혹은 폭격기 획득"
-SER_Fighter_Bomber_Acquisition_desc:0 "우리의 선택으로, 우리는 이제 항공 전문가 교리를 반영한 새로운 항공기를 구입해야 합니다."
+SER_Fighter_Bomber_Acquisition_desc:0 "우리의 선택에 따라, 이제 우리 항공전문가의 교리를 반영한 새로운 기체를 구매해야만 합니다."
 
 SER_Replace_Weltkrieg_Era_Planes:0 "세계대전기 항공기 교체"
-SER_Replace_Weltkrieg_Era_Planes_desc:0 "세르비아의 공군은 오스트리아인들이 "대체로" 우리가 가질 수 있도록 허락한 세계 대전에서 나온 몇 개의 구형 비행기들로 이루어져 있습니다. 세르비아 하늘을 지배할 수 있도록 새로운 디자인을 모색해야 합니다."
+SER_Replace_Weltkrieg_Era_Planes_desc:0 "세르비아 공군은 대전쟁 당시의 낡은 기체들로 각각 이루어져 있는데, 오스트리아에서 너무나 "관대하게도" 우리가 가져도 된다고 허락한 것입니다. 세르비아의 창공을 지배할 수 있게 우리는 새로운 설계를 찾아야 합니다."
 
 SER_Modernise_Airports:0 "공항 현대화"
 SER_Modernise_Airports_desc:0 "The Airport in Belgrade has seen better days. Now with the Austrians gone, we can finally modernise this sorry excuse for an Airport and maybe remove a pot hole or three..."
 
 SER_Local_Designs:0 "국산 설계"
-SER_Local_Designs_desc:0 "이제 우리의 기술자들이 외국 항공기 설계에 더 많이 접근할 수 있게 됨에 따라 세르비아는 더욱 자립할 수 있게 되었습니다."
+SER_Local_Designs_desc:0 "우리의 기술자들이 이제 외국 기체설계에 더욱 많이 접근하면서, 자신만의 설계를 그릴 수 있게 되었고, 이에 따라 세르비아는 더욱 자립할 수 있게 되었습니다."
 
 SER_Crna_Gora_I_Srbija:0 "몬테네그로-세르비아"
 SER_Crna_Gora_I_Srbija_desc:0 "너무나 오랜 기다림 끝에, 베오그라드와 프드고리차의 세르비아인 동포들이 다시 한 번 단결했습니다. 이 새로운 남슬라브 연합을 공식화하고, 더더욱 웅대한 연방을 위한 첫 단계를 자축하며 잔을 들어올립시다..."
 
 SER_Brotherly_Union:0 "동족 연합"
-SER_Brotherly_Union_desc:0 "세르비아-몬테네그로 연합의 사람들에게는 새로운 통합의식이 있습니다. 강대국들은 전쟁과 분쟁을 통해 우리를 분열시키려 했지만 실패했습니다. 우리들의 연합을 통제할 수 없는 혼란으로 가득 찬 발칸에서 형제처럼 평화로운 평화의 본보기로 삼읍시다."
+SER_Brotherly_Union_desc:0 "For the people of the Serbian-Montenegrin union, there is a new sense of unity. Great Powers might have tried to divide us through warfare and conflict, but they have failed. Let this young union stand as an example of brotherly peace in a region full of unruly chaos."
 
 SER_Prospecting_In_Niksic:0 "닉시치 지역 탐광"
 SER_Prospecting_In_Niksic_desc:0 "The irresponsible Croat government in Zagreb never took advantage of the vast wealth of the Niksic region. Now, with their new-found freedom, mining companies have begun excavating the region to great effect. We must invest Dinar into their projects, and mine the resources we need for war."
@@ -353,25 +353,25 @@ SER_Integrate_The_Montenegrin_Economy:0 "몬테네그로 경제 통합"
 SER_Integrate_The_Montenegrin_Economy_desc:0 "If we're to take full advantage of the booming economy in Podgorica, then large steps will need to be taken to centralise the union's economic structure. Integration of their banks and factories will be slow, but it'll be lucrative once finally finished."
 
 SER_Connect_The_Railways:0 "철로 연결"
-SER_Connect_The_Railways_desc:0 "비엔나와 우리의 안좋은 감정 때문에, 옛 몬테네그로의 국경을 따라 철도의 공백이 존재합니다. 이제 두 국가는 하나가 되었으니, 공백 지역에 철도를 깝시다."
+SER_Connect_The_Railways_desc:0 "Owing to the mutual hatred of Vienna and us, gaps in our railways exist along the former Montenegrin border. Lets bridge the gap and bring our country together."
 
 SER_Revive_The_Serbian_Navy:0 "세르비아 해군 창설"
-SER_Revive_The_Serbian_Navy_desc:0 "여태까지 육지에 둘러싸여 있던 현대 세르비아는 해군을 한번도 가져본 적이 없습니다. 새 해안선을 지키기 위한 해군을 건설하는 작업은 오랜 작업이 될 것입니다. 그러므로 해군의 기초를 세우기 위해 새로 획득한 영토와 기존에 운영하던 하천 해군에게 도움을 받아야 합니다."
+SER_Revive_The_Serbian_Navy_desc:0 "여태까지 육지에 둘러싸여 있던 현대 세르비아 국가는 해군을 한번도 가져본 적이 없습니다. 새 해안선을 지키기 위한 해군을 건설하는 작업은 오랜 작업이 될 것입니다. 그러므로 해군의 기초를 세우기 위해 새로 획득한 영토와 기존에 운영하던 하천 해군에게 도움을 받아야 합니다."
 
 SER_Dockyard_Construction:0 "조선소 건설"
-SER_Dockyard_Construction_desc:0 "우리 해안선은 군함 건조 능력이 타국과는 비교도 안될만큼 떨어집니다. 조선 수요를 충족시킬 수 있도록 해군 산업을 활성화하기 위해서는 정부에서 진지하게 투자에 참여해야 합니다."
+SER_Dockyard_Construction_desc:0 "우리 해안선은 군용 함선 건조 능력이 부족합니다. 조선 수요를 충족시킬 수 있도록 해군 산업을 활성화하기 위해서는 정부에서 진지하게 투자에 참여해야 합니다."
 
 SER_Form_A_Merchant_Navy:0 "상선단 구성"
-SER_Form_A_Merchant_Navy_desc:0 "제대로 된 무역 함대 없이 번영을 찾은 국가는 없습니다. 이제 우리는 더 이상 외국 선박에 의존하지 않기 때문에 세르비아를 드나들 수 있는 우리만의 상선 해군을 건설할 수 있습니다."
+SER_Form_A_Merchant_Navy_desc:0 "No nation has found prosperity without a proper trading fleet. Now that we are no longer dependent on foreign shipping, we can build our own merchant navy to carry goods in and out of Serbia."
 
 SER_Focus_On_Light_Ships:0 "경함선에 집중"
-SER_Focus_On_Light_Ships_desc:0 "우리는 거대한 함대를 만들기는커녕 감당할 수 있다고 생각하면 착각할 것입니다. 구축함이나 잠수함 같은 작은 배는 우리 해안을 보호하고 적들로부터 상선을 안전하게 지키기에 충분할 것입니다."
+SER_Focus_On_Light_Ships_desc:0 "We would be deluded to think that we can afford, let alone build, a massive fleet. Small ships like destroyers and submarines will be more than enough to protect our coast and keep merchant ships safe from our enemies."
 
 SER_Shipbuilding_Investments:0 "건함 투자"
-SER_Shipbuilding_Investments_desc:0 "우리의 새로운 조선소들은 새 함선을 건조하기 위한 경험이 부족하고 예산이 부족합니다. 이러한 문제를 해결하기 위해서는 정부의 도움이 더 필요할 것입니다. 우리는 그들에게 더 많은 선박을 주문하고 해군 예산을 확충하여 도구, 숙련된 전문가, 부품 등을 확보하는 프로젝트의 어려움을 수용할 필요가 있을 것입니다."
+SER_Shipbuilding_Investments_desc:0 "Our shipbuilders are inexperienced and lacking funds; they will need further help from the government to rectify these issues. We will need to order more ships from them and expand our naval budget to accomodate the project's difficulties in acquiring tools, experienced specialists, missing components, and so on."
 
 SER_First_Naval_Exercises:0 "첫번째 해군 훈련"
-SER_First_Naval_Exercises_desc:0 "세르비아 국기는 역사상 처음으로 바다에 떠 있는 함선에 게양 되어있는 모습을 보게 될 것입니다. 우리의 새로운 해군의 전통을 만드는 것은 쉽지 않을 것이고 세르비아에는 경험이 많은 해병이 상대적으로 적지만, 이것이 첫 단계이며, 세르비아 사람들은 그것이 어떤 도전도 극복할 수 있다는 것을 보여줄 것이다."
+SER_First_Naval_Exercises_desc:0 "The Serbian flag will be, for the first time in history, seen floating on ships out at sea. It will not be easy to create traditions for our new navy and we have relatively few experienced seamen in Serbia, but this is the first step, and the Serbian people will show that it is capable of overcoming any challenge."
 
 ### Events ###
 serbia.0.t:0 "세르비아 왕국"
@@ -428,12 +428,12 @@ serbia.11.a:0 "좋아, 제안을 준비해라."
 serbia.11.b:0 "오스트리아의 성질을 건드릴 수는 없다."
 
 serbia.12.t:0 "알렉산다르의 대관식"
-serbia.12.d:0 "며칠 전 알렉산다르 왕세자가 세르비아로 돌아왔을 때, 그것은 국가적인 축하를 위한 명분이 되었습니다. 거리는 수천 명의 사람들이 왕세자의 귀환과 깃발들이 공중에 펄럭이고 군중들에 의해 애국적인 노래들을 부르며 줄을 섰습니다. 베오그라드 사람들은 카라조르제비치 가문에 대한 충성심을 잊지 않았습니다. 페타르 보조비치 주지사는 이런 중요한 국가적 기념행사 후에 오직 한 가지 선택지를 그에게 열어주었습니다. 이미 치프코비치 현 총리가 마련한 정교한 계획들로, 오늘 이 계획들은 실행에 옮겨졌습니다. 몇 시간 동안 지속된 의식 후에, 알렉산더는 세르비아의 새로운 왕으로 공식 즉위했고, 마침내 10년 넘게 비어 있던 왕좌에 앉았습니다. 조비치는 그가 섭정이라고 휘두른 시간적 권능으로 정식으로 새 왕을 모셨고, 늙은 보즈보다는 이후 정사와 군사 모두에서 은퇴를 선언하였습니다.\nl\nternational적으로 반응이 엇갈렸습니다. 예상했던 대로, 우리는 지난 며칠 동안 오스트리아 대사관으로부터 분노만 받았습니다. 비록 합스부르크가 복구를 위해 우리에게 대항하려고 하지 않을 것 같지만요. 더 긍정적인 소식으로, 우리는 새로운 왕의 친구인 루마니아의 카롤 2세로부터 큰 축하를 받았습니다. 이것은 분명 앞으로 몇 년 안에 발칸 연합을 장려하는데 도움이 될 것입니다."
-serbia.12.a:0 "폐하, 돌아오신걸 진심으로 환영합니다."
+serbia.12.d:0 "When Crown Prince Alexander returned to Serbia a couple days ago, it was cause for national celebration. The streets were lined by thousands all hailing the return of the Crown Prince, flags flying in the air and patriotic songs being sung by the crowds. The people of Belgrade have certainly not forgotten their loyalty to the House of Karađorđević. After such a prominent national celebration, Petar Bojovic only had one option open to him. With elaborate plans already drafted up by the now Prime Minister Živković, today they were put into action. After a ceremony that lasted several hours, Alexander was formally crowned as the new King of Serbia, finally sitting in the throne that had remained empty for over a decade. Bojovic formally enshrined the new king with the temporal power he had wielded as Regent, and the aging Vojvoda then announced his retirement from both political and military affairs.\n\nInternationally the response was mixed. As expected, we’ve received nothing but outrage from the Austrian Embassy for the last few days, though it would appear the Habsburgs aren't going to try and mobilise against us for the restoration. In more positive news, we’ve received large congratulations from King Carol II of Romania, a friend of the new king, which will no doubt help promote Balkan Unity in the years to come."
+serbia.12.a:0 "폐하, 돌아오신걸 환영합니다."
 
-serbia.13.t:0 "군에서 나도는 불길한 소문"
+serbia.13.t:0 "군 내의 소문"
 serbia.13.d:0 "With a history of backstabs and conspiracies, most notably the brutal May Coup of 1903, the Serbian Army has never been known for its trustworthiness. Be it the widespread presence of secret societies like the ‘White Hand’, or just the usual opportunism of the General Staff, Bojovic is more than aware of the enemies he has within the Army.\n\nBut now, with his rejection of General Živković's proposal of a Karađorđević restoration, rumours are afoot. According to a group of minor officers who reported to the Vojvoda yesterday, a group of officers and soldiers alike are organising a royalist putsch against Bojovic, with the clear intent of overthrowing the Regent and restoring Crown Prince Alexander to the Serbian throne. Bojovic has kept quiet on the information, hoping to draw his enemies out into the open where they can hopefully be dealt with in due course. That is, if these rumours are true in the first place, as the Vojvoda has heard many similar claims in the over the years..."
-serbia.13.a:0 "불가리아가 여전히 위협적인 상황에서 그놈들은 음모를 꾸미지 않는 것이 좋을 것이다!"
+serbia.13.a:0 "불가리아가 여전히 위협적인 판국에 음모는 꾸미지 않는게 좋을거다!"
 
 serbia.14.t:0 "베오그라드 행진"
 serbia.14.d:0 "It appears that not only were the rumours of General Petar Živković organising a putsch against Vojvoda Petar Bojovic true, but actually grossly underestimated the situation. Today, Belgrade awoke to the sound of gunfire as a brigade led by Živković marched in, locking down the city and surrounding the National Assembly, taking Bojovic and the members of the National Assembly hostage.\n\nPetar Živković gave his two demands; ending the exile of the House of Karađorđević and the appointment of him as Prime Minister. Technically, Živković isn't demanding Bojovic’s resignation, but logically he’d strong-arm the restoration of Alexander within days, unceremoniously ousting the Regent. Bojovic was able to put out a telegram request for military assistance before the phone-lines were cut, but it's unknown whether it was actually received.\n\nWith time ticking on the traitorous Živković’s ultimatum, Bojovic needs to act. If he holds out, there’s a chance the royalists could storm the National Assembly, endangering the lives of hundreds of politicians and civilians. Kneeling to a traitor like Živković would be a disaster, but with no sign of help coming from units loyal to the Vojvoda it could be the only option."
@@ -501,11 +501,11 @@ serbia.29.t:0 "Government Officials Assassinated"
 serbia.29.d:0 "There is blood on the streets of Belgrade today, as a pair of civil servants were shot dead in the street by an unknown VMRO assassin, who then disappeared into the shocked crowd. The reason for their killing is unknown, the two men weren’t involved in Serbification policies in Macedonia, nor were they particularly politically partisan. What this does show is the VMRO are continuing to escalate; until now all of their actions had taken place within the recently recaptured region of Macedonia. Now, Aleksandrov’s thugs are operating across the country, shooting officials in broad daylight and getting away with it thanks to our own botched response. Only god knows what they’ll do next."
 serbia.29.a:0 "Hunt down those criminals!"
 
-serbia.30.t:0 "알렉산다르 1세의 암살"
+serbia.30.t:0 "King Alexander Shot Dead!"
 serbia.30.d:0 "While being driven through a throng of supporters in Belgrade, the king was shot twice by a Mauser C96 pistol, wielded by VMRO assassin Vlado Chernozemski. He died almost instantly, while Chernozemski was beaten to death by the police and bystanders for his horrific actions. The entire situation was caught by news cameras, with many believing it to be the second filmed assassination ever, after Kerensky back in 1936.\n\nOur glorious king’s staunch view on Serbification policies in Macedonia was famously incendiary; in one particular incident he publically slapped a schoolchild who identified as 'Bulgarian'. Needless to say, the king being a target for the VMRO is no surprise. From what little evidence the police have been able to gather, Alexander’s assasination has been one planned for a long time, having been attempted and called off several times. The fact that police didn’t cotton onto Chernozemski’s actions beforehand is scandalous, but in the midst of the other VMRO chaos it was hard to see such a brazen act coming. Nevertheless, the king is now dead. On this dark day, his eldest son Peter will succeed him as king. Lets hope Peter’s reign is long and fruitful."
-serbia.30.a:0 "국왕폐하께서 서거하셨다..."
+serbia.30.a:0 "The king is Dead..."
 
-serbia.31.t:0 "페타르 왕세자의 대관식"
+serbia.31.t:0 "Peter's Coronation"
 serbia.31.d:0 "Today, the young Crown Prince Peter underwent his coronation, being crowned as King Peter II of Serbia. Being anointed in the halls of St. Michael's Cathedral, in a ceremony eerily similar to the late king, Prime Minister Zikovic gave a short rousing speech to try and bring some levity to the sombre event, before passing on to the new king.\n\nSpeaking a few words of his own, Peter hoped that the nation could recover from the shocking assasination of his father, and pledged to ensure that all people within the Serbian nation would be welcome within his realm. Despite this apparent support for constitutionalism, the juvenile king will almost certainly remain controlled by Zikovic’s government both before and after he comes of age.\n\nThe mood may be muted, however today's ceremony is an important one for Serbia’s continued existence as a stable nation. With the kingdom secured, we can go back to finally rooting out the VMRO menace once and for all."
 serbia.31.a:0 "A bittersweet celebration."
 
