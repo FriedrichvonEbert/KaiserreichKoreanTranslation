@@ -315,7 +315,7 @@ FIN_university_of_helsinki_desc:0 "핀란드 최고의 두뇌들이 모여 국�
 FIN_financial_strength:0 "부국강병"
 FIN_financial_strength_desc:0 "핀란드는 마침내 정당한 지위를 차지했습니다. 검은 월요일의 잿더미에서 벗어나, 우리는 이제 많은 사람들이 갖지 못한 것을 가진 위치에서, 즉 재정적 우위에 서서 전 세계를 바라볼 수 있습니다."
 
-FIN_foreign_policy:0 "대외 정책"
+FIN_foreign_policy:0 "대외정책"
 FIN_foreign_policy_desc:0 "우리는 대외적으로, 보다 넓은 세계를 향해 관심을 돌려야 합니다. 외교 정책 목표를 달성하는 데 있어 어떤 입장을 취할 것인지, 그리고 다른 나라들을 어떻게 대할 것인지를 결정해야 합니다."
 FIN_diplomacy:0 "외교"
 FIN_diplomacy_desc:0 "핀란드가 평화를 지향하여 이득을 얻기 위해서는 외교가 중요합니다. 전쟁에 휘말리지 않으려면 이웃들의 지지와 우정을 얻어야 할 것입니다."
@@ -386,11 +386,11 @@ finland.10.d:0 "검은 월요일의 영향 때문에, [Root.GetAdjective] 노동
 finland.10.a:0 "요구를 들어줄 수밖에 없군."
 finland.10.b:0 "굴복은 없다!"
 
-finland.11.t:0 "라푸아 운동의 음모가 어그러지다!"
-finland.11.d:0 "국가경찰을 보내 [Root.GetNameDef]을 향한 음모를 색출하게 한 국왕 [Root.GetLeader]의 결정은 많은 온건 보수주의자들과 사회민주주의자들의 반발에 부딪혔지만, 매우 성공적으로 진행되고 있습니다. [Root.GetNameDef]을 불안정하게 하여 정권을 장악하고 독립 [Root.GetAdjective] 국가를 선언한다는 라푸아 운동의 음모는 경찰에 의해 최근 발각되었습니다. \n\n 라푸아 운동의 지도자 쿠르트 마르티 발레니우스가 체포되었고 라푸아 운동도 해산되었습니다. 그리고 응징을 피한 많은 저명인사들 중 한명인 빌호 아날라는, 라푸아 운동의 후신 격 정당인 '애국인민운동'을 창당했습니다."
+finland.11.t:0 "어그러진 라푸아 운동의 음모!"
+finland.11.d:0 "국가경찰을 보내 [Root.GetNameDef](을)를 향한 음모를 색출하게 한 국왕 [Root.GetLeader]의 결정은 많은 온건 보수주의자들과 사회민주주의자들의 반발에 부딪혔지만, 매우 성공적으로 진행되고 있습니다. [Root.GetNameDef](을)를 불안정하게 하여 정권을 장악하고 독립 [Root.GetAdjective] 국가를 선언한다는 라푸아 운동의 음모는 경찰에 의해 최근 발각되었습니다. \n\n 라푸아 운동의 지도자 쿠르트 마르티 발레니우스가 체포되었고 라푸아 운동도 해산되었습니다. 그리고 응징을 피한 많은 저명인사들 중 한명인 빌호 아날라는, 라푸아 운동의 후신 격 정당인 '애국인민운동'을 창당했습니다."
 finland.11.a:0 "그 전염병 같은 것이 드디어 없어졌군!"
 
-finland.12.t:0 "사회주의자들이 지하로 숨어들어가다"
+finland.12.t:0 "지하로 숨어들어간 사회주의자들"
 finland.12.d:0 "극우 초국가주의자 단체인 라푸아 운동을 표적으로 하는 집중 탄압에 뒤이어, 국가경찰은 적위대와 [Root.GetAdjective] 인민대표단의 활동을 탄압하기 시작했습니다. 하지만 적위대 지도자 Otto Wille Kuusinen은 비밀경찰의 포위망에서 빠져나오는데 성공했고, 적위대 자체는 해산되었지만 단체의 많은 회원들은 지하로 숨어들어갔습니다. 또한 [Root.GetNameDef](을)를 오랫동안 괴롭혀온 [Root.GetAdjective] 인민대표단의 저명한 사회주의 인사들 또한 체포되었습니다. 하지만 이들은 사회주의라는 뱀의 머리에 불과할 뿐입니다."
 finland.12.a:0 "멋진 소식이군!"
 
@@ -400,31 +400,31 @@ finland.13.a:0 "라푸아 운동이 정권을 잡았다!"
 finland.13.b:0 "적위대가 도착해서 라푸아 운동과 교전한다!"
 finland.13.c:0 "엽병대가 백위대를 밀어냈다!"
 
-finland.14.t:0 "라푸아 운동이 사회주의자와 군주주의자를 숙청하다"
+finland.14.t:0 "사회주의자와 군주주의자를 숙청한 라푸아 운동"
 finland.14.d:0 "라푸아 운동의 승리와 국민연합당의 패배에 뒤이어, 라푸아 운동 측은 군주주의자, 엽병부대, 적위대와 [Root.GetAdjective] 인민대표단 단원들을 투옥하고 있습니다.\n\n 이미 새 정권은 많은 국민들의 지지를 받고 있고, 새로운 정권의 의중에 반하는 행동을 하는 모든 사람들은 투옥될 것입니다. 다음에는 어떤 일이 또 일어날까요. [Root.GetName]의 미래는 불투명합니다..."
 finland.14.a:0 "[Root.GetName](을)를 다시 위대하게!"
 
-finland.15.t:0 "라푸아 운동과 적위대가 충돌하다!"
+finland.15.t:0 "라푸아 운동과 적위대의 충돌!"
 finland.15.d:0 "적위대가 도착하고 라푸아 운동 측과의 충돌이 벌어졌고, 싸움이 끝날 기미가 안 보이고 있습니다. 백위대는 엽병부대와 싸우고 싶어했지만, 대신 그들은 사회주의 핀란드를 만드는 사명을 지닌 적위대와 맞닥뜨렸습니다.\n\n더 나아가, 육군 원수 카를 구스타프 만네르헤임은 더 온건하고 안정된 민주주의 핀란드를 만들기 위해 백위대로 하여금 라푸아 운동과 연을 끊도록 사주하기도 했습니다.\n\n많은 [Root.GetAdjective] 국민들은 사회주의자들이 정권을 잡을 것인지, 백위대가 만네르헤임을 지지하는 쪽으로 방향을 틀 것인지 걱정스럽게 지켜보고 있습니다..."
 finland.15.a:0 "인민대표단이 정권을 잡았다!"
 finland.15.b:0 "라푸아 운동이 정권을 잡았다!"
 finland.15.c:0 "만네르헤임이 백위대를 사열했다!"
 finland.15.e:0 "만네르헤임이 백위대 사열에 실패했다!"
 
-finland.16.t:0 "국왕 [Root.GetLeader](이)가 사회주의자와 국민주의자를 숙청하다"
+finland.16.t:0 "사회주의자와 국민주의자를 숙청한 국왕 [Root.GetLeader]"
 finland.16.d:0 "국가연합이 라푸아 운동을 패배시키고 권력을 잡으면서, 국가연합당은 민족주의자들과 적위대 단원과 [Root.GetAdjective] 인민대표단 단원들을 투옥하기 시작했습니다.\n\n 국민들의 전폭적인 지지에 힘입어, 국왕이 권력을 되찾았고, 새로운 [Root.GetNameDef] 국가의 목표에 반대하는 자들은 반역자로 취급되어 투옥되고 있습니다. 다음엔 무슨 일이 또 일어날까요. [Root.GetNameDef]의 미래는 불투명합니다..."
 finland.16.a:0 "[Root.GetName](을)를 다시 위대하게!"
 
-finland.17.t:0 "적위대가 국민주의자와 군주주의자를 숙청하다"
+finland.17.t:0 "국민주의자와 군주주의자를 숙청한 적위대"
 finland.17.d:0 "[Root.GetAdjective] 인민대표단이 국가연합당과 라푸아 운동을 패배시키고 권력을 잡으면서, [Root.GetAdjective] 인민대표단은 라푸아 운동 대원들과 엽병부대원들, 군주주의자들을 투옥하기 시작했습니다.\n\n 국민들의 전폭적인 지지에 힘입어, 새로운 정권이 권력을 획득했고, 새로운 [Root.GetNameDef] 국가의 목표에 반대하는 자들은 반역자로 취급되어 투옥되고 있습니다. 다음엔 무슨 일이 또 일어날까요. [Root.GetNameDef]의 미래는 불투명합니다..."
 finland.17.a:0 "[Root.GetName](을)를 다시 위대하게!"
 
-finland.18.t:0 "만네르헤임이 백위대를 사열하다!"
+finland.18.t:0 "만네르헤임의 백위대 사열!"
 finland.18.d:0 "백위대를 향한 만네르헤임의 간청이 먹혀들어갔고, 그는 백위대 사열에 성공했습니다.\n\n쿠르트 마르티 발레니우스를 포함한 라푸아 운동의 고위 간부들과 백위대 내부의 반역자들이 숙청되면서 드디어 만네르헤임은 그의 관심을 적위대에 돌렸습니다.\n\n적위대와 백위대 양측의 싸움이 임박했고, [Root.GetAdjective] 국민들이 할 수 있는 건 단지 숨을 죽이고 이 충돌의 승리자를 기다리는 것 뿐입니다..."
 finland.18.a:0 "인민대표단이 정권을 잡았다!"
 finland.18.b:0 "만네르헤임의 백위대가 승리했다!"
 
-finland.19.t:0 "적위대가 백위대와 군주주의자를 숙청하다"
+finland.19.t:0 "백위대와 군주주의자를 숙청한 적위대"
 finland.19.d:0 "라푸아 운동과 국민연합당이 패배하고 [Root.GetAdjective] 인민대표단이 승리하여 정권을 장악하면서, [Root.GetAdjective] 인민대표단은 군주주의자와 엽병부대, 그리고 백위대 단원을 투옥하기 시작했습니다.\n\n새 정권은 국민 대다수의 지지에 힘입어 권력을 휘두르기 시작했고, 새 [Root.GetName] 정권에 반하는 모든 이들은 경고를 받고 있고, 반역자들로 간주된 자들과 저항하는 자들은 투옥되고 있습니다. 다음엔 또 무슨 일이 일어날까요. [Root.GetName]의 미래는 불투명합니다..."
 finland.19.a:0 "[Root.GetName](을)를 다시 위대하게!"
 
@@ -484,14 +484,14 @@ finland.31.a:0 "[Root.GetName]에 새로운 시대가 도래했다!"
 
 finland.32.t:0 "[Root.GetNameDef] 내의 [SWE.GetAdjective]계의 권리"
 finland.32.d:0 "[Root.GetAdjective] 국민들과 농업동맹 정치인들의 주된 관심사 중 하나는 국가 내의 [SWE.GetAdjective]계 주민들의 권리가 어느 정도까지 허용되어야 할지에 대한 것입니다. [SWE.GetAdjective]어는 올란드 제도와 남동부 해안지역에서 주로 쓰이고 있습니다. \n\n농업동맹이 직면한 문제는 [Root.GetName] 내의 [SWE.GetAdjective]계의 권리를 제한할 것인가, 그대로 유지시킬 것인가의 문제입니다."
-finland.32.a:0 "스웨덴계놈들이 감히 핀인들을 위협하는군."
+finland.32.a:0 "스웨덴계놈들이 감히 핀란드인들을 위협하는군."
 finland.32.b:0 "우리 인구의 적지 않은 비율을 차지하는 집단이다. 권리를 존중하라."
 
 finland.33.t:0 "쿨레르보 만네르의 석방"
 finland.33.d:0 "[Root.GetAdjective] 인민대표단의 승리와 뒤이은 반동주의자 숙청으로 쿨레르보 만네르가 수오멘린나 요새에서의 약 20년간의 감옥 생활에서 풀려났습니다. \n\n페리를 타고 헬싱키에 도착한 그는 그의 얼굴을 보러 온 수천 명의 청중 앞에서 열정적인 연설을 했습니다. 오직 [Root.GetAdjective] 인민대표단과 그들의 동맹 적위대만이 핀란드의 미래를 결정할 것입니다..."
 finland.33.a:0 "정말 좋은 소식이군!"
 
-finland.34.t:0 "군주제를 부정하다"
+finland.34.t:0 "군주제 부정"
 finland.34.d:0 "[Root.GetName](은)는 오랫동안 [GER.GetAdjective] 지배하의 애완견이었고 군주주의라는 억압적인 이념이 [Root.GetAdjective] 국민들을 괴롭게 했습니다. \n\n우리는 다시금 우리 국가에서 군주주의의 잔재를 제거해야 할 것입니다. 비록 이것이 우리 농촌의 보수적이고 군주주의적인 시민들을 화나게 할지라도요."
 finland.34.a:0 "그들도 곧 생각을 바꿀 것이다."
 
@@ -568,12 +568,12 @@ finland.51.t:0 "의회 폐지"
 finland.51.d:0 "[Root.GetAdjective](을)를 위대하게 만들기 위해서는 의회보다도 국가와 국민들을 위해 일할 강력한 지도자가 필요합니다. 의회의 정당들과 의원들은 자기 잇속만 챙기고 있고, [Root.GetAdjective] 내전과 같은 절망적인 상황에서 [Root.GetAdjective](을)를 지켜낼 수 없습니다. 우리는 하루빨리 의회를 폐지하여야 합니다."
 finland.51.a:0 "뿌리까지 썩은 이런 제도 따위..."
 
-finland.52.t:0 "핀란드가 올란드를 재무장하다!"
+finland.52.t:0 "핀란드의 올란드 재무장!"
 finland.52.d:0 "[FIN.GetAdjective] 민족주의자들이 우리가 우려했던 일을 저질렀습니다 : 그들이 올란드 제도를 재무장화했습니다. The former government had, with the mediation of [GER.GetNameDef], agreed to respect the rights of the [Root.GetName] citizens in the area. Unfortunately, the Lapua Movement have reneged on that promise, remilitarising the island and silencing any dissent.\n\nWhile many of our more nationalist citizens are clamouring for us to declare war on [FIN.GetName] and take by the islands by military force, moderate politicians argue that we should use diplomacy to take back the islands. What should we do?"
 finland.52.a:0 "선전포고다!"
 finland.52.b:0 "외교적 압력이면 족하다."
 
-finland.53.t:0 "스웨덴이 아베난마를 요구해오다"
+finland.53.t:0 "스웨덴의 아베난마 요구"
 finland.53.d:0 "[SWE.GetAdjective] 정부에서 우리의 올란드 제도 재무장화에 반발하였고, 그 땅에 스웨덴계가 많다는 점을 근거로 들어 섬의 반환을 요구했습니다."
 finland.53.a:0 "웃기지도 않는군."
 
@@ -618,11 +618,11 @@ finland.63.d:0 "독립에 대한 국제사회의 지지를 얻기 위해서, [FI
 finland.63.a:0 "[FIN.GetAdjective] 국가를 승인하자."
 finland.63.b:0 "[FIN.GetAdjective] 국가를 승인하지 않겠다."
 
-finland.64.t:0 "[FROM.GetNameDefCap](이)가 동의했다!"
+finland.64.t:0 "[FROM.GetNameDefCap]의 동의!"
 finland.64.d:0 "고맙게도 [FROM.GetNameDef](은)는 우리나라를 승인했고, 양국 간의 공식적인 외교채널이 가동되기 시작했습니다."
 finland.64.a:0 "그렇지!"
 
-finland.65.t:0 "[FROM.GetNameDefCap] 가 거부했다!"
+finland.65.t:0 "[FROM.GetNameDefCap]의 거부!"
 finland.65.d:0 "[FROM.GetNameDef](은)는 양국 간의 우호관계를 맺기를 거부했고, [Root.GetAdjective]의 승인을 거부했습니다. 이는 모욕입니다."
 finland.65.a:0 "망할 놈들!"
 
@@ -666,7 +666,7 @@ finland.74.d:0 "[GER.GetAdjective](은)는 해군 청사진이 적의 손에 넘
 finland.74.a:0 "웃기지도 않는군..."
 
 finland.75.t:0 "내전기 함정 복원"
-finland.75.d:0 "AG-16, Jääkarhu, Wäinämöinen 와 같은 내전기 함선들의 복원를 위한 정부,노동자,기업의 노력 끝에 결국 그 결실을 보게 되었습니다. 현대화된 이 세 함선들은 핀란드 해군력 강화에 기여할 것입니다."
+finland.75.d:0 "AG-16, Jääkarhu, Wäinämöinen 와 같은 내전기 함선들의 복원를 위한 정부, 노동자, 기업의 노력 끝에 결국 그 결실을 보게 되었습니다. 현대화된 이 세 함선들은 핀란드 해군력 강화에 기여할 것입니다."
 finland.75.a:0 "그렇지!"
 
 finland.76.t:0 "핀란드가 항공기 구매 의사를 밝혀오다"
@@ -716,7 +716,7 @@ finland.86.t:0 "[UKR.GetNameDef]산 곡물 조달"
 finland.86.d:0 "[UKR.GetNameDef](이)가 갑자기 곡물 수출을 중단해 온 까닭에, [Root.GetAdjective] 국민들은 약간의 굶주림에 시달렸고, 국민들 사이에 불만이 쌓여갔습니다. 우리는 곡물을 쌓아두고 있는 우리의 옛 파트너에게 다시한번 접근해 곡물 수입을 요청해야 합니다."
 finland.86.a:0 "최선의 결과를 위하여."
 
-finland.87.t:0 "[FIN.GetName]에서 곡물을 요청해오다"
+finland.87.t:0 "[FIN.GetName]에서의 곡물 요청"
 finland.87.d:0 "[FIN.GetNameDefCap](이)가 곡물 수입을 위해 우리나라에 접근해왔습니다. 원래 우리는 검은 월요일로 인한 경제 타격 때문에 [FIN.GetAdjective]로의 곡물 수출을 잠정 중단해온 상태이지만, 이제 위기가 끝났고 우리는 곡물 수출을 재개할 수 있습니다. 하지만 다가올 또다른 위기에 대비하여 [Root.GetAdjective](을)를 위해 곡물을 저장해 두는 것도 하나의 선택지입니다. 어떻게 할까요?"
 finland.87.a:0 "까짓거 곡식 좀 판다고 무슨 문제 있겠어?"
 finland.87.b:0 "비용이 편익을 능가하니 거부해야 한다."
@@ -751,7 +751,7 @@ finland.94.d:0 "[Root.GetNameDef](와)과 [UKR.GetNameDef](은)는 검은 월요
 finland.94.a:0 "멋진 소식이야!"
 
 finland.95.t:0 "[FIN.GetNameDefCap]에서 관계 개선을 희망하다"
-finland.95.d:0 "놀랍게도, [FIN.GetNameDef](은)는 우리에게 스칸디나비아의 평화를 위해 양국간의 관계를 개선시키자는 제안을 해왔습니다. 그들의 노력에 화답하는 것은 잠재적인 전선을 하나 없앨수 있을 것이나, 우리가 [FIN.GetAdjective]보다 강력하고 필요할 때 그들을 패배시킬 수 있다는 것도 분명합니다. 우리는 가능한 빨리 답장을 보내야 합니다. 어떻게 할까요?"
+finland.95.d:0 "놀랍게도, [FIN.GetNameDef](은)는 우리에게 스칸디나비아의 평화를 위해 양국간의 관계를 개선시키자는 제안을 해왔습니다. 그들의 노력에 화답하는 것은 잠재적인 전선을 하나 없앨수 있을 것이나, 우리가 [FIN.GetAdjective] 보다 강력하고 필요할 때 그들을 패배시킬 수 있다는 것도 분명합니다. 우리는 가능한 빨리 답장을 보내야 합니다. 어떻게 할까요?"
 finland.95.a:0 "받아들이자!"
 finland.95.b:0 "받아들이자!"
 finland.95.c:0 "받아들이지 말자."
@@ -819,7 +819,7 @@ finland.109.a:0 "그래. 우린 더 이상 싸울 수 없다."
 finland.109.b:0 "아니, 우린 절대 항복하지 않는다!"
 
 finland.110.t:0 "결사항전 의사를 밝힌 [From.GetNameDefCap]"
-finland.110.d:0 "멍청하게도, [From.GetAdjective] 는 끝까지 싸우겠다는 그들의 의지를 드러냈습니다."
+finland.110.d:0 "멍청하게도, [From.GetAdjective](은)는 끝까지 싸우겠다는 그들의 의지를 드러냈습니다."
 finland.110.a:0 "그러라지."
 
 finland.111.t:0 "그만 싸울까?"
@@ -833,7 +833,7 @@ finland.112.a:0 "좋아. 우리도 더이상 싸우기 힘들다."
 finland.112.b:0 "안돼. 전면적 승리를 선언할 때까지 계속 싸워야 한다."
 
 finland.113.t:0 "결사항전 의사를 밝힌 [From.GetNameDefCap]"
-finland.113.d:0 "멍청하게도, [From.GetAdjective] 는 끝까지 싸우겠다는 그들의 의지를 드러냈습니다."
+finland.113.d:0 "멍청하게도, [From.GetAdjective](은)는 끝까지 싸우겠다는 그들의 의지를 드러냈습니다."
 finland.113.a:0 "그러라지."
 
 finland.114.t:0 "그만 싸울까?"
@@ -847,16 +847,16 @@ finland.115.a:0 "그래. 우린 더 이상 싸울 수 없다."
 finland.115.b:0 "아니, 완전한 승리를 선언할 때까지 밀어붙여야 한다!"
 
 finland.116.t:0 "결사항전 의사를 밝힌 [From.GetNameDefCap]"
-finland.116.d:0 "멍청하게도, [From.GetAdjective] 는 끝까지 싸우겠다는 그들의 의지를 드러냈습니다."
+finland.116.d:0 "멍청하게도, [From.GetAdjective](은)는 끝까지 싸우겠다는 그들의 의지를 드러냈습니다."
 finland.116.a:0 "그러라지."
 
-finland.117.t:0 "핀란드의 스칸디나비아 방위연맹 가맹 요청"
-finland.117.d:0 "핀란드는 스칸디나비아 방위동맹의 결성을 지켜봐왔으며 지역 공동방어를 위한 동맹에 가입하고 우리의 가치에 반하는 국가들에 같이 대항하고 싶어합니다."
+finland.117.t:0 "핀란드의 스칸디나비아 방위연합 가맹 요청"
+finland.117.d:0 "핀란드는 스칸디나비아 방위연합의 결성을 지켜봐왔으며 지역 공동방어를 위한 동맹에 가입하고 우리의 가치에 반하는 국가들에 같이 대항하고 싶어합니다."
 finland.117.a:0 "또다른 북유럽 국가가 참여하는군!"
 finland.117.b:0 "그들은 단지 짐이 될 뿐이다."
 
 finland.118.t:0 "우리의 요청을 수락한 [From.GetNameDefCap]"
-finland.118.d:0 "우리는 우리 대사관에서 [From.GetAdjective] 정부가 스칸디나비아 방위동맹에 참여하고 싶다는 우리 요청을 받아들였다는 소식을 전해왔습니다."
+finland.118.d:0 "우리는 우리 대사관에서 [From.GetAdjective] 정부가 스칸디나비아 방위연합에 참여하고 싶다는 우리 요청을 받아들였다는 소식을 전해왔습니다."
 finland.118.a:0 "우리는 폭군에 함께 맞서 싸울 것이다!"
 
 finland.119.t:0 "[From.GetNameDefCap]의 거절"
@@ -1085,8 +1085,8 @@ FIN_did_not_recognise_our_independence:0 "우리의 독립을 인정하지 않�
 FIN_economic_ties_reichspakt:0 "경제 유대"
 
 ### Decisions ###
-fin_join_sdu:0 "스칸디나비아 방위연맹 가맹 신청"
-fin_join_sdu_desc:0 "스칸디나비아 방위연맹은 덴마크, 노르웨이, 스웨덴 등의 민주주의 국가들이 스칸디나비아 지역으로의 외세 침입을 막기 위해 설립되었습니다. 스칸디나비아 지역 밖에 있는 러시아 같은 열강들에 대한 경계심을 공유하고 있는 만큼, 방위연맹 가입 신청을 해야할까요?"
+fin_join_sdu:0 "스칸디나비아 방위연합 가맹 신청"
+fin_join_sdu_desc:0 "스칸디나비아 방위연합은 덴마크, 노르웨이, 스웨덴 등의 민주주의 국가들이 스칸디나비아 지역으로의 외세 침입을 막기 위해 설립되었습니다. 스칸디나비아 지역 밖에 있는 러시아 같은 열강들에 대한 경계심을 공유하고 있는 만큼, 방위연맹 가입 신청을 해야할까요?"
 fin_join_nordic_federation:0 "노르딕 연방 가맹 신청"
 fin_join_nordic_federation_desc:0 "우리의 덴마크, 노르웨이, 스웨덴 동지들은 서로 하나가 된 연방으로 가입했습니다. 북유럽 국가들의 동료로서, 우리는 언제든지 연방 가맹을 신청할 수 있지만, 우리 주권의 일부를 포기하게 될 것입니다."
 FIN_join_reichspakt:0 "라이히스팍트 가맹 신청"
