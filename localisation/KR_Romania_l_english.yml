@@ -1405,7 +1405,7 @@ romania.113.d:0 "Having achieved their irredentist goals, Romania has decided to
 romania.113.a:0 "Too bad."
 
 #Romanians ask a trade deal
-romania.114.t.RUS:0 "Food Exports from Romania"
+romania.114.t.RUS:0 "루마니아로부터의 식품 수출"
 romania.114.d.RUS:0 "Romania, like most of Europe outside of the Syndicalist nations, has been significantly hit by the economic crisis caused by Black Monday. In order to alleviate the situation, the Romanian representative in Russia has approached us to negotiate a new trade treaty. This would mean giving them preferential tariffs for their agricultural goods and oil, and vice-versa for our finished industrial goods."
 
 romania.114.t.NFA:0 "Oil from Romania"
@@ -1414,19 +1414,19 @@ romania.114.d.NFA:0 "Romania, like most of Europe outside of the Syndicalist nat
 romania.114.t.GRE:0 "Expanded Trade with Romania"
 romania.114.d.GRE:0 "Romania has always been a significant trade partner to our country and the economic crisis has affected both countries sharply. The Romanian representative in Athens approached us with a new trade deal that would ensure low tariffs between our nations. This gathered mixed responses, for some experts believe that trade must be maintained at all costs for our economy to recover, and low tariffs would ensure this, while others worry that our weakened economy will be unable to compete with cheap imports from Romania."
 
-romania.114.t.SER:0 "Expanded Trade with Romania"
-romania.114.d.SER:0 "Romania is one of our principal trading partners and the recent economic turmoil has hit them significantly. Not only that, but their resistance to German economic hegemony has led to sanctions from the latter, which has only harmed them further. As such, the Romanian government has offered to deepen trade ties in order to further distance itself from the German juggernaut. As natural allies against the hegemony of the former Central Powers, there are very few reasons to refuse the offer as we both stand to benefit from increased trade, although there is concern from our agricultural sector about increased competition and cheap imports."
+romania.114.t.SER:0 "확대된 루마니아와의 교역"
+romania.114.d.SER:0 "루마니아는 우리의 주요 교역국 중 하나이며, 최근의 경제 혼란은 그들에게 큰 타격을 주었습니다. 그뿐만 아니라, 독일의 경제 패권주의에 대한 그들의 저항은 독일의 제재로 이어져 더 큰 피해를 보았습니다. 그렇게 루마니아 정부는 독일과 더 멀어지기 위해 무역 관계를 늘리자고 제의해 왔습니다. 과거 동맹국의 패권에 대항하는 자연적인 동맹으로서, 비록 우리 농업 부문에 대해 경쟁 심화와 값싼 수입에 대한 우려가 있지만, 우리 둘 다 확대된 무역으로부터 이익을 얻으려 하므로 그 제안을 거절할 이유는 없습니다."
 
-romania.114.a:0 "More trade is always good."
+romania.114.a:0 "더 많은 무역은 언제나 좋다."
 romania.114.b:0 "[ROM_demand_better_terms_option]"
-romania.114.c:0 "The last thing we need now are cheap foreign imports."
+romania.114.c:0 "지금 우리에게 필요한 것은 값싼 외국 수입품이다."
 
 ROM_demand_better_terms_option_RUS:0 "We are a great power and we require better terms."
 ROM_demand_better_terms_option_NFA:0 "As a bigger partner, we should get more favourable terms." 
-ROM_demand_better_terms_option_other:0 "Clearly, they can offer a better deal than that." #GRE, SER
+ROM_demand_better_terms_option_other:0 "확실히, 그들은 그것보다 더 좋은 거래를 제안할 수 있다." #GRE, SER
 
 #FROM agrees
-romania.115.t:0 "Tariff Agreement with [FROM.GetNameDef]"
+romania.115.t:0 "[FROM.GetNameDef]와의 관세 협정"
 romania.115.d.RUS:0 "[FROM.GetNameDefCap] has agreed to a trade agreement with us. This will ensure that our agricultural exports have a market to reach, alleviating fears among Romanian farmers."
 romania.115.d.NFA:0 "The true French government in Algiers was pleased with our offer and accepted. Our countries will now lower tariffs with each other, giving the French a nice bargain for future oil contracts."
 romania.115.d.GRE:0 "The Greek government was pleased by our mutually-beneficial trade agreement and have accepted our offer. Low tariffs will ensure that we maintain a healthy trade relationship through this crisis."
@@ -1435,7 +1435,7 @@ romania.115.a:0 "Good that they saw reason."
 
 #FROM walks out
 romania.116.t.NFA:0 "Algiers Walks Out"
-romania.116.t.other:0 "The [From.GetAdjective]s Walk Out"
+romania.116.t.other:0 "[From.GetAdjective]의 퇴장"
 romania.116.d.RUS:0 "Annoyingly, but unsurprisingly, the Russians have refused our offer for a preferential tariff agreement. It appears that we will need to look elsewhere for our agricultural exports."
 romania.116.d.NFA:0 "The French government-in-exile proved unwilling to listen to our trade agreement offer, seemingly having stuck their heads deep in the sand. We will have to look elsewhere for our exports."
 romania.116.d.GRE:0 "The Greeks have proven to be completely unreasonable, refusing our offer for a new trade agreement outright. We will have to look elsewhere for trade partners."
@@ -1457,7 +1457,7 @@ romania.117.d.NFA:0 "The French government in Algiers made a counter-offer to ou
 romania.117.t.GRE:0 "Greek Demands"
 romania.117.d.GRE:0 "Athens was seemingly unimpressed by our offer for a renewed trade deal. Their counter-offer includes more concessions on our end, giving an unfair advantage for Greek goods."
 
-romania.117.t.SER:0 "Serbian Demands"
+romania.117.t.SER:0 "세르비아의 요구들"
 romania.117.d.SER:0 "The Serbian government seemed unimpressed by our offer, implying that we could offer better, citing the dangers of increased competition on their fragile economy. This would put us at a disadvantage against Serbian competition, though the tariffs would indeed be lowered."
 
 romania.117.a:0 "We won't be bullied!"
@@ -1470,11 +1470,11 @@ romania.118.d.other:0 "Unwilling to gamble on their economy, the Romanians accep
 romania.118.a:0 "And they thought they could cheat on us."
 
 #FROM walks out
-romania.119.t:0 "The Romanians Walk Out"
+romania.119.t:0 "루마니아의 퇴장"
 romania.119.d.RUS:0 "The Romanians refused our counter-offer and the deal fell through completely. This is no real loss to us, of course, but it will sour relations with Romania as they struggle to get their economy back on track."
 romania.119.d.NFA:0 "The Romanians refused our counter-offer and the deal fell through completely. Of course, it is their own fault for disrespecting us, but it will sour relations with Romania as they struggle to get their economy back on track."
-romania.119.d.other:0 "The Romanians refused our counter-offer and the deal fell through completely. This will sour relations between our two nations for the foreseeable future."
-romania.119.a:0 "It's their loss."
+romania.119.d.other:0 "루마니아인들은 우리의 대안을 거부했고 그 거래는 완전히 무산되었습니다. 이는 가까운 미래에 두 나라 사이의 관계를 악화시킬 것입니다."
+romania.119.a:0 "그들의 손실이다."
 
 #Mitteleuropa embargoes us
 romania.120.t:0 "무역 제재를 선포한 독일"
