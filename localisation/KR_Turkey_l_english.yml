@@ -3,7 +3,7 @@
 ### Opinion Modifiers ###
 tur_syndie:0 "생디칼리슴 외교"
 tur_irredentism:0 "터키의 투쟁"
-tur_peaceful:0 "세계 평화"
+tur_peaceful:0 "세계평화"
 
 ### Parties ###
 TUR_totalist_party:0 "인민혁명당"
@@ -24,22 +24,22 @@ TUR_authoritarian_democrat_party:0 "공화인민당"
 TUR_authoritarian_democrat_party_long:0 "공화인민당"
 TUR_paternal_autocrat_party:0 "국가니잠당"
 TUR_paternal_autocrat_party_long:0 "국가니잠당"
-TUR_national_populist_party:0 "회색 늑대"
-TUR_national_populist_party_long:0 "회색 늑대 무리"
+TUR_national_populist_party:0 "회색늑대"
+TUR_national_populist_party_long:0 "회색늑대 무리"
 
 ### Events ###
 
-turkey.1.t:0 "Armed Putsch"
+turkey.1.t:0 "무장 세력의 정부 전복 시도"
 turkey.1.d:0 "The latest disasters suffered by our country have proved that our tyrannical leadership is completely incompetent and unfit to rule. A group of officers with the silent support of the General Staff have launched a putsch aimed at deposing the sultan."
 turkey.1.a:0 "Putsch overthrows the sultan! A republic is declared!"
 
-turkey.2.t:0 "Future of Turkey"
+turkey.2.t:0 "터키의 미래"
 turkey.2.d:0 "After the catastrophes of the last years there's no doubt that Ottoman Empire cannot exist much longer. A group of radical officers announced the creation of a new country - the Republic of Turkey, but the future of this country is still unknown. Various cliques within the armed forces are locked in a struggle to gain control of the situation..."
 turkey.2.a:0 "Nihal Atsız will lead the broken nation to revenge!"
 turkey.2.b:0 "Şefik Hüsnü will introduce syndicalism!"
 turkey.2.c:0 "Turkey needs unity and stability."
 
-turkey.3.t:0 "Foreign policy"
+turkey.3.t:0 "외교정책"
 turkey.3.d:0 "With the Turkish people finally free from the oppressive rule of the Sultans we can now freely decide our stance towards the international community. While many are arguing for an immediate alliance with other syndicalist nations, it might be wise enough to remain neutral to rebuild our country."
 turkey.3.a:0 "We must join arms with France"
 turkey.3.b:0 "Isolationism, we must organise our country"
