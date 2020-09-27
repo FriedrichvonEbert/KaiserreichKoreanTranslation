@@ -1303,7 +1303,7 @@ BOL_infantry_equipment_1_desc:0 "With unrest increasingly threatening the stabil
 ###
 
 ### Land ###
-BOR_infantry_equipment_0:0 "만리허 Geweer M.95"
+BOR_infantry_equipment_0:0 "만리허 헤베이르 M.95"
 BOR_infantry_equipment_0_short:0 "만리허 M95"
 BOR_infantry_equipment_1:0 "Karabijn No.5 M.95"
 BOR_infantry_equipment_1_short:0 "Karabijn M95"
@@ -1315,10 +1315,10 @@ BOR_infantry_equipment_2_short:0 "Johnson M1941"
 ###
 
 ### Land ###
-BOS_infantry_equipment_0:0 "만리허 Karabin M.95"
+BOS_infantry_equipment_0:0 "만리허 카라빈 M.95"
 BOS_infantry_equipment_0_short:0 "만리허 M.95"
 BOS_infantry_equipment_0_desc:0 "The Mannlicher M1895 (German: Infanterie Repetier-Gewehr M.95) was the service rifle of the Austro-Hungarian armed forces during the Weltkrieg. Designed by Ferdinand von Mannlicher, it used a straight-pull bolt-action for increased rate-of-fire compared to its contemporaries, giving it the nickname Ruck-Zuck (German slang for "back and forth") by Austrian troops and "Ta-Pum" by the Italians on the receiving end. The Italian song "Ta pum!" from the Weltkrieg refers to this rifle. Later in the war, most rifles were converted into the short "Stutzen" ("cut-down") configuration."
-BOS_infantry_equipment_1:0 "만리허-FÉG Karabiner M.24"
+BOS_infantry_equipment_1:0 "만리허-FÉG 카라비너 M.24"
 BOS_infantry_equipment_1_short:0 "Karabin M.24"
 BOS_infantry_equipment_1_desc:0 "The Weltkrieg made the M.95's deficiencies all-too obvious, especially its relatively underpowered round-nose cartridge and the required maintenance for the straight-pull action. Steyr developed the 8x56mm "Spitzer" cartridge that would serve as the basis to a new generation of weapons and push the M.95 to its full potential. In the 1924 Rifle Trial, the Hungarian FÉG design based on the Mannlicher-Schönauer's excellent turn-bolt-action won out and was adopted."
 BOS_infantry_equipment_2:0 "ZB samopuneći karabin M.42"
@@ -2165,10 +2165,10 @@ COS_infantry_equipment_3_short:0 "FN-43"
 ###
 
 ### Land ###
-CRO_infantry_equipment_0:0 "만리허 Karabin M.95"
+CRO_infantry_equipment_0:0 "만리허 카라빈 M.95"
 CRO_infantry_equipment_0_short:0 "만리허 M.95"
 CRO_infantry_equipment_0_desc:0 "The Mannlicher M1895 (German: Infanterie Repetier-Gewehr M.95) was the service rifle of the Austro-Hungarian armed forces during the Weltkrieg. Designed by Ferdinand von Mannlicher, it used a straight-pull bolt-action for increased rate-of-fire compared to its contemporaries, giving it the nickname Ruck-Zuck (German slang for "back and forth") by Austrian troops and "Ta-Pum" by the Italians on the receiving end. The Italian song "Ta pum!" from the Weltkrieg refers to this rifle. Later in the war, most rifles were converted into the short "Stutzen" ("cut-down") configuration."
-CRO_infantry_equipment_1:0 "만리허-FÉG Karabiner M.24"
+CRO_infantry_equipment_1:0 "만리허-FÉG 카라비너 M.24"
 CRO_infantry_equipment_1_short:0 "Karabin M.24"
 CRO_infantry_equipment_1_desc:0 "The Weltkrieg made the M.95's deficiencies all-too obvious, especially its relatively underpowered round-nose cartridge and the required maintenance for the straight-pull action. Steyr developed the 8x56mm "Spitzer" cartridge that would serve as the basis to a new generation of weapons and push the M.95 to its full potential. In the 1924 Rifle Trial, the Hungarian FÉG design based on the Mannlicher-Schönauer's excellent turn-bolt-action won out and was adopted."
 CRO_infantry_equipment_2:0 "ZB samopuneći karabin M.42"
@@ -2779,7 +2779,7 @@ DEH_modern_tank_equipment_1_short:0 "A44 '브록'"
 ###
 
 ### Land ###
-DEI_infantry_equipment_0:0 "만리허 Geweer M.95"
+DEI_infantry_equipment_0:0 "만리허 헤베이르 M.95"
 DEI_infantry_equipment_0_short:0 "만리허 M95"
 DEI_infantry_equipment_1:0 "Karabijn No.5 M.95"
 DEI_infantry_equipment_1_short:0 "Karabijn M95"
@@ -5262,7 +5262,7 @@ HNN_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Zhuzhou Xuantong Ty
 ###
 
 ### Land ###
-HOL_infantry_equipment_0:0 "만리허 Geweer M.95"
+HOL_infantry_equipment_0:0 "만리허 헤베이르 M.95"
 HOL_infantry_equipment_0_short:0 "만리허 M95"
 HOL_infantry_equipment_1:0 "Karabijn No.5 M.95"
 HOL_infantry_equipment_1_short:0 "Karabijn M95"
@@ -8523,10 +8523,10 @@ SIK_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on 
 ###
 
 ### Land ###
-SLV_infantry_equipment_0:0 "만리허 Karabin M.95"
+SLV_infantry_equipment_0:0 "만리허 카라빈 M.95"
 SLV_infantry_equipment_0_short:0 "만리허 M.95"
 SLV_infantry_equipment_0_desc:0 "The Mannlicher M1895 (German: Infanterie Repetier-Gewehr M.95) was the service rifle of the Austro-Hungarian armed forces during the Weltkrieg. Designed by Ferdinand von Mannlicher, it used a straight-pull bolt-action for increased rate-of-fire compared to its contemporaries, giving it the nickname Ruck-Zuck (German slang for "back and forth") by Austrian troops and "Ta-Pum" by the Italians on the receiving end. The Italian song "Ta pum!" from the Weltkrieg refers to this rifle. Later in the war, most rifles were converted into the short "Stutzen" ("cut-down") configuration."
-SLV_infantry_equipment_1:0 "만리허-FÉG Karabiner M.24"
+SLV_infantry_equipment_1:0 "만리허-FÉG 카라비너 M.24"
 SLV_infantry_equipment_1_short:0 "Karabin M.24"
 SLV_infantry_equipment_1_desc:0 "The Weltkrieg made the M.95's deficiencies all-too obvious, especially its relatively underpowered round-nose cartridge and the required maintenance for the straight-pull action. Steyr developed the 8x56mm "Spitzer" cartridge that would serve as the basis to a new generation of weapons and push the M.95 to its full potential. In the 1924 Rifle Trial, the Hungarian FÉG design based on the Mannlicher-Schönauer's excellent turn-bolt-action won out and was adopted."
 SLV_infantry_equipment_2:0 "ZB samopuneći karabin M.42"
@@ -8998,7 +8998,7 @@ SUD_infantry_equipment_1_short:0 "카라비너 98k"
 ###
 
 ### Land ###
-SUR_infantry_equipment_0:0 "만리허 Geweer M.95"
+SUR_infantry_equipment_0:0 "만리허 헤베이르 M.95"
 SUR_infantry_equipment_0_short:0 "만리허 M95"
 SUR_infantry_equipment_1:0 "Karabijn No.5 M.95"
 SUR_infantry_equipment_1_short:0 "Karabijn M95"
@@ -9729,7 +9729,7 @@ TRM_gw_tank_equipment_short:0 "FT"
 TRS_infantry_equipment_0:0 "Repetier-Stutzen M.95"
 TRS_infantry_equipment_0_short:0 "만리허 M.95"
 TRS_infantry_equipment_0_desc:0 "The Mannlicher M1895 (German: Infanterie Repetier-Gewehr M.95) was the service rifle of the Austro-Hungarian armed forces during the Weltkrieg. Designed by Ferdinand von Mannlicher, it used a straight-pull bolt-action for increased rate-of-fire compared to its contemporaries, giving it the nickname Ruck-Zuck (German slang for "back and forth") by Austrian troops and "Ta-Pum" by the Italians on the receiving end. The Italian song "Ta pum!" from the Weltkrieg refers to this rifle. Later in the war, most rifles were converted into the short "Stutzen" ("cut-down") configuration."
-TRS_infantry_equipment_1:0 "만리허-FÉG Karabiner M.24"
+TRS_infantry_equipment_1:0 "만리허-FÉG 카라비너 M.24"
 TRS_infantry_equipment_1_short:0 "Kar M.24"
 TRS_infantry_equipment_1_desc:0 "The Weltkrieg made the M.95's deficiencies all-too obvious, especially its relatively underpowered round-nose cartridge and the required maintenance for the straight-pull action. Steyr developed the 8x56mm "Spitzer" cartridge that would serve as the basis to a new generation of weapons and push the M.95 to its full potential. In the 1924 Rifle Trial, the Hungarian FÉG design based on the Mannlicher-Schönauer's excellent turn-bolt-action won out and was adopted."
 TRS_infantry_equipment_2:0 "ZB Selbstladekarabiner M.42"
