@@ -526,10 +526,10 @@ armored_car_at_equipment_desc:0 "우리의 경무장된 기계화부대는 언�
 ###
 
 ### Land ###
-ADA_infantry_equipment_0:0 "Gewehr 98"
-ADA_infantry_equipment_0_short:0 "Gewehr 98"
-ADA_infantry_equipment_1:0 "Karabiner 98t"
-ADA_infantry_equipment_1_short:0 "Karabiner 98t"
+ADA_infantry_equipment_0:0 "게베어 98"
+ADA_infantry_equipment_0_short:0 "게베어 98"
+ADA_infantry_equipment_1:0 "카라비너 98t"
+ADA_infantry_equipment_1_short:0 "카라비너 98t"
 ADA_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 ADA_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -548,10 +548,10 @@ AFG_infantry_equipment_0_short:0 "No.1 Mk.III"
 ###
 
 ### Land ###
-ALB_infantry_equipment_0:0 "Mannlicher M03"
-ALB_infantry_equipment_0_short:0 "Mannlicher M03"
-ALB_infantry_equipment_1:0 "Karabiner 98k"
-ALB_infantry_equipment_1_short:0 "Karabiner 98k"
+ALB_infantry_equipment_0:0 "만리허 M03"
+ALB_infantry_equipment_0_short:0 "만리허 M03"
+ALB_infantry_equipment_1:0 "카라비너 98k"
+ALB_infantry_equipment_1_short:0 "카라비너 98k"
 ALB_infantry_equipment_2:0 "Erma Maschinenpistole Model 1935"
 ALB_infantry_equipment_2_short:0 "EMP Model 1935"
 ALB_infantry_equipment_3:0 "ZB Maschinenkarabiner M.44"
@@ -600,7 +600,7 @@ ALG_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 ALG_infantry_equipment_0_short:0 "Lebel Mle M93"
 ALG_support_weapons:0 "Darne M1919 & Stokes mortar"
 
-ALG_gw_tank_equipment:0 "Renault FT"
+ALG_gw_tank_equipment:0 "르노 FT"
 ALG_gw_tank_equipment_short:0 "FT"
 
 ###
@@ -666,7 +666,7 @@ ARG_gw_armored_car_equipment:0 "Bash Armoured Car"
 ARG_gw_armored_car_equipment_short:0 "Bash Armoured Car"
 
 #Tanks
-ARG_gw_tank_equipment:0 "Renault FT"
+ARG_gw_tank_equipment:0 "르노 FT"
 ARG_gw_tank_equipment_short:0 "FT"
 
 ARG_light_tank_equipment_1:0 "Vickers A4 'Reliant'"
@@ -689,13 +689,13 @@ ANQ_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self 
 ANQ_infantry_equipment_1:0 "한양 27식"
 ANQ_infantry_equipment_1_short:0 "한양 27식"
 ANQ_infantry_equipment_1_desc:0 "Officially called the 'Xuantong Type 27', this rifle was put into service in 1935 thanks to German assistance after the Qing Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nThis variety is mainly produced at the Hanyang Arsenal with German tools, though it may not fully replace its predecessors for some time."
-ANQ_infantry_equipment_2:0 "칭타오 MP18"
-ANQ_infantry_equipment_2_short:0 "칭타오 MP18"
+ANQ_infantry_equipment_2:0 "청도 MP18"
+ANQ_infantry_equipment_2_short:0 "청도 MP18"
 ANQ_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into the world market in the early 1920s, the MP18 saw action in China some time before a modified version began production in Tsingtao.\n\nWith changes to the magazine and stock, this particular product of Sino-German cooperation has been copied and sold throughout Northern and Southern China, though primarily to the Qing Government and warlords in coastal areas."
 ANQ_infantry_equipment_3:0 "한양 선통제 35식"
 ANQ_infantry_equipment_3_short:0 "한양 35식"
 ANQ_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 35 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
-ANQ_support_weapons:0 "'Huaning' 7.92mm heavy machine gun & Hanyang-made Stokes mortar"
+ANQ_support_weapons:0 "'화녕' 7.92mm 중기관총 & 한양제 스토크스 박격포"
 ANQ_support_weapons2:0 "Shanghai 30 festival 7.9mm machine gun 'Old yellow ox' & Jingling Xuantong Type 23 82mm mortar"
 ANQ_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Jingling Xuantong Type 34 60mm mortar"
 
@@ -971,18 +971,18 @@ AUS_armored_car_at_equipment_desc:0 "As the army's light mechanized units were c
 ###
 
 ### Land ###
-AZR_infantry_equipment_0:0 "Mosin-Nagant 1891 Versiyası"
-AZR_infantry_equipment_0_short:0 "Mosin 1891"
+AZR_infantry_equipment_0:0 "모신-나강 1891년형"
+AZR_infantry_equipment_0_short:0 "모신 소총 1891년형"
 
 ###
 ### Teke ###
 ###
 
 ### Land ###
-TKE_infantry_equipment_0:0 "Gewehr 98"
-TKE_infantry_equipment_0_short:0 "Gewehr 98"
-TKE_infantry_equipment_1:0 "Karabiner 98t"
-TKE_infantry_equipment_1_short:0 "Karabiner 98t"
+TKE_infantry_equipment_0:0 "게베어 98"
+TKE_infantry_equipment_0_short:0 "게베어 98"
+TKE_infantry_equipment_1:0 "카라비너 98t"
+TKE_infantry_equipment_1_short:0 "카라비너 98t"
 TKE_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 TKE_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -1009,11 +1009,11 @@ BAH_support_weapons:0 "Hotchkiss M1914 MG & Stokes mortar"
 ###
 
 ### Land ###
-BAS_infantry_equipment_0:0 "Oviedo Mauser M1893"
-BAS_infantry_equipment_0_short:0 "Mauser M1893"
-BAS_infantry_equipment_1:0 "Oviedo Mauser M1916"
-BAS_infantry_equipment_1_short:0 "Mauser M1916"
-BAS_infantry_equipment_2:0 "Labora-Fontbernat M1938"
+BAS_infantry_equipment_0:0 "오비에도 마우저 M1893"
+BAS_infantry_equipment_0_short:0 "마우저 M1893"
+BAS_infantry_equipment_1:0 "오비에도 마우저 M1916"
+BAS_infantry_equipment_1_short:0 "마우저 M1916"
+BAS_infantry_equipment_2:0 "라보라-폰트베르나트 M1938"
 BAS_infantry_equipment_2_short:0 "LF M1938"
 
 ###
@@ -1021,8 +1021,8 @@ BAS_infantry_equipment_2_short:0 "LF M1938"
 ###
 
 ### Land ###
-BAT_infantry_equipment_0:0 "모신나강 모델 1891"
-BAT_infantry_equipment_0_short:0 "모신 1891"
+BAT_infantry_equipment_0:0 "모신-나강 모델 1891"
+BAT_infantry_equipment_0_short:0 "모신 소총 1891년형"
 BAT_infantry_equipment_1:0 "카라비너 98k"
 BAT_infantry_equipment_1_short:0 "카라비너 98k"
 BAT_infantry_equipment_2:0 "마쉬넨피스톨레 28"
@@ -1279,8 +1279,8 @@ BHU_infantry_equipment_0_desc:0 "With the collapse of the British Raj, the stead
 ### Land ###
 KBR_infantry_equipment_0:0 "Short Model Lee–Enfield MK. I"
 KBR_infantry_equipment_0_short:0 "SMLE MK. 1"
-KBR_infantry_equipment_1:0 "Karabiner 98t"
-KBR_infantry_equipment_1_short:0 "Karabiner 98t"
+KBR_infantry_equipment_1:0 "카라비너 98t"
+KBR_infantry_equipment_1_short:0 "카라비너 98t"
 KBR_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 KBR_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -1303,8 +1303,8 @@ BOL_infantry_equipment_1_desc:0 "With unrest increasingly threatening the stabil
 ###
 
 ### Land ###
-BOR_infantry_equipment_0:0 "Mannlicher Geweer M.95"
-BOR_infantry_equipment_0_short:0 "Mannlicher M95"
+BOR_infantry_equipment_0:0 "만리허 헤베이르 M.95"
+BOR_infantry_equipment_0_short:0 "만리허 M95"
 BOR_infantry_equipment_1:0 "Karabijn No.5 M.95"
 BOR_infantry_equipment_1_short:0 "Karabijn M95"
 BOR_infantry_equipment_2:0 "Johnson Automatisch Geweer M1941"
@@ -1315,10 +1315,10 @@ BOR_infantry_equipment_2_short:0 "Johnson M1941"
 ###
 
 ### Land ###
-BOS_infantry_equipment_0:0 "Mannlicher Karabin M.95"
-BOS_infantry_equipment_0_short:0 "Mannlicher M.95"
+BOS_infantry_equipment_0:0 "만리허 카라빈 M.95"
+BOS_infantry_equipment_0_short:0 "만리허 M.95"
 BOS_infantry_equipment_0_desc:0 "The Mannlicher M1895 (German: Infanterie Repetier-Gewehr M.95) was the service rifle of the Austro-Hungarian armed forces during the Weltkrieg. Designed by Ferdinand von Mannlicher, it used a straight-pull bolt-action for increased rate-of-fire compared to its contemporaries, giving it the nickname Ruck-Zuck (German slang for "back and forth") by Austrian troops and "Ta-Pum" by the Italians on the receiving end. The Italian song "Ta pum!" from the Weltkrieg refers to this rifle. Later in the war, most rifles were converted into the short "Stutzen" ("cut-down") configuration."
-BOS_infantry_equipment_1:0 "Mannlicher-FÉG Karabiner M.24"
+BOS_infantry_equipment_1:0 "만리허-FÉG 카라비너 M.24"
 BOS_infantry_equipment_1_short:0 "Karabin M.24"
 BOS_infantry_equipment_1_desc:0 "The Weltkrieg made the M.95's deficiencies all-too obvious, especially its relatively underpowered round-nose cartridge and the required maintenance for the straight-pull action. Steyr developed the 8x56mm "Spitzer" cartridge that would serve as the basis to a new generation of weapons and push the M.95 to its full potential. In the 1924 Rifle Trial, the Hungarian FÉG design based on the Mannlicher-Schönauer's excellent turn-bolt-action won out and was adopted."
 BOS_infantry_equipment_2:0 "ZB samopuneći karabin M.42"
@@ -1470,10 +1470,10 @@ BRA_gw_tank_equipment_desc:0 "Without any tanks by the time of France's capitula
 ###
 
 ### Land ###
-BRD_infantry_equipment_0:0 "Gewehr 98"
-BRD_infantry_equipment_0_short:0 "Gewehr 98"
-BRD_infantry_equipment_1:0 "Karabiner 98t"
-BRD_infantry_equipment_1_short:0 "Karabiner 98t"
+BRD_infantry_equipment_0:0 "게베어 98"
+BRD_infantry_equipment_0_short:0 "게베어 98"
+BRD_infantry_equipment_1:0 "카라비너 98t"
+BRD_infantry_equipment_1_short:0 "카라비너 98t"
 BRD_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 BRD_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -1521,8 +1521,8 @@ BRI_infantry_at:0 "Boys Anti-Tank Rifle"
 ### Land ###
 BRT_infantry_equipment_0:0 "Short Model Lee–Enfield MK. I"
 BRT_infantry_equipment_0_short:0 "SMLE MK. 1"
-BRT_infantry_equipment_1:0 "Karabiner 98k"
-BRT_infantry_equipment_1_short:0 "Karabiner 98k"
+BRT_infantry_equipment_1:0 "카라비너 98k"
+BRT_infantry_equipment_1_short:0 "카라비너 98k"
 BRT_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 BRT_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -1533,8 +1533,8 @@ BRT_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
 ###
 
 ### Land ###
-BUL_infantry_equipment_0:0 "Mannlicher M95"
-BUL_infantry_equipment_0_short:0 "Mannlicher M95"
+BUL_infantry_equipment_0:0 "만리허 M95"
+BUL_infantry_equipment_0_short:0 "만리허 M95"
 BUL_infantry_equipment_1:0 "Steyr Stutzen M95/30"
 BUL_infantry_equipment_1_short:0 "Steyr Stutzen M95/30"
 BUL_infantry_equipment_2:0 "Zbrojovka Brno ZK-383"
@@ -1546,7 +1546,7 @@ BUL_motorized_equipment_1:0 "Ursus A"
 BUL_gw_armored_car_equipment:0 "Sonderkraftfahrzeug 222"
 BUL_gw_armored_car_equipment_short:0 "Sdkfz 222"
 
-BUL_gw_tank_equipment:0 "Renault FT"
+BUL_gw_tank_equipment:0 "르노 FT"
 BUL_gw_tank_equipment_short:0 "FT"
 BUL_gw_tank_equipment_desc:0 "Bulgaria captured several Renault FT tanks during the great war and soon after the war began domestic production of unliscenced copies of the FT."
 BUL_light_tank_equipment_1:0 "Škoda Kavalleriepanzer M.35"
@@ -1568,8 +1568,8 @@ BUL_anti_air_equipment_3:0 "8.8 cm Flak 41"
 ### Land ###
 BRM_infantry_equipment_0:0 "Rifle No.1 Mk.III"
 BRM_infantry_equipment_0_short:0 "No.1 Mk.III"
-BRM_infantry_equipment_1:0 "Karabiner 98k"
-BRM_infantry_equipment_1_short:0 "Karabiner 98k"
+BRM_infantry_equipment_1:0 "카라비너 98k"
+BRM_infantry_equipment_1_short:0 "카라비너 98k"
 
 ###
 ### West Indies Federation ###
@@ -1917,16 +1917,16 @@ CAN_modern_tank_equipment_1_short:0 "A44 '브록'"
 ###
 
 ### Land ###
-CAR_infantry_equipment_0:0 "Oviedo Mauser M1893"
-CAR_infantry_equipment_0_short:0 "Mauser M1893"
-CAR_infantry_equipment_1:0 "Oviedo Mauser M1916"
-CAR_infantry_equipment_1_short:0 "Mauser M1916"
-CAR_infantry_equipment_2:0 "Labora-Fontbernat M1938"
+CAR_infantry_equipment_0:0 "오비에도 마우저 M1893"
+CAR_infantry_equipment_0_short:0 "마우저 M1893"
+CAR_infantry_equipment_1:0 "오비에도 마우저 M1916"
+CAR_infantry_equipment_1_short:0 "마우저 M1916"
+CAR_infantry_equipment_2:0 "라보라-폰트베르나트 M1938"
 CAR_infantry_equipment_2_short:0 "LF M1938"
 CAR_infantry_equipment_3:0 "Fabrique Nationale Model 1943"
 CAR_infantry_equipment_3_short:0 "FN-43"
 
-CAR_gw_tank_equipment:0 "Renault FT"
+CAR_gw_tank_equipment:0 "르노 FT"
 CAR_gw_tank_equipment_short:0 "FT"
 CAR_light_tank_equipment_1:0 "Tipo 1933"
 CAR_light_tank_equipment_1_short:0 "T-33"
@@ -1943,11 +1943,11 @@ CAR_light_tank_equipment_3_desc:0 "The Type 1941 was the most successful design 
 ###
 
 ### Land ###
-CAT_infantry_equipment_0:0 "Oviedo Mauser M1893"
-CAT_infantry_equipment_0_short:0 "Mauser M1893"
-CAT_infantry_equipment_1:0 "Oviedo Mauser M1916"
-CAT_infantry_equipment_1_short:0 "Mauser M1916"
-CAT_infantry_equipment_2:0 "Labora-Fontbernat M1938"
+CAT_infantry_equipment_0:0 "오비에도 마우저 M1893"
+CAT_infantry_equipment_0_short:0 "마우저 M1893"
+CAT_infantry_equipment_1:0 "오비에도 마우저 M1916"
+CAT_infantry_equipment_1_short:0 "마우저 M1916"
+CAT_infantry_equipment_2:0 "라보라-폰트베르나트 M1938"
 CAT_infantry_equipment_2_short:0 "LF M1938"
 
 ###
@@ -1957,8 +1957,8 @@ CAT_infantry_equipment_2_short:0 "LF M1938"
 ### Land ###
 CEA_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 CEA_infantry_equipment_0_short:0 "Lebel Mle M93"
-CEA_infantry_equipment_1:0 "Karabiner 98t"
-CEA_infantry_equipment_1_short:0 "Karabiner 98t"
+CEA_infantry_equipment_1:0 "카라비너 98t"
+CEA_infantry_equipment_1_short:0 "카라비너 98t"
 CEA_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 CEA_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -2014,14 +2014,14 @@ CHI_EQUIPMENT_VERSION_15:0 "O"
 CHI_EQUIPMENT_VERSION_16:0 "P"
 
 ### Land ###
-CHI_infantry_equipment_0:0 "광둥 88식"
-CHI_infantry_equipment_0_short:0 "광둥 88식"
+CHI_infantry_equipment_0:0 "광동 88식"
+CHI_infantry_equipment_0_short:0 "광동 88식"
 CHI_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a close copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unwieldy.\n\nThis variety is mainly produced at the Guangdong Arsenal, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Dadao."
-CHI_infantry_equipment_1:0 "광둥 27식"
-CHI_infantry_equipment_1_short:0 "광둥 27식"
+CHI_infantry_equipment_1:0 "광동 27식"
+CHI_infantry_equipment_1_short:0 "광동 27식"
 CHI_infantry_equipment_1_desc:0 "Originally called the 'Xuantong Type 27', this rifle was put into Qing service in 1935 through German assistance after the Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nFirst produced at the Hanyang arsenal with German tools, manufacturing methods have already spread to Guangdong, though it may not fully replace its predecessors for some time."
-CHI_infantry_equipment_2:0 "칭타오 MP18"
-CHI_infantry_equipment_2_short:0 "칭타오 MP18"
+CHI_infantry_equipment_2:0 "청도 MP18"
+CHI_infantry_equipment_2_short:0 "청도 MP18"
 CHI_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into the world market in the early 1920s, the MP18 saw action in China some time before a modified version began production in Tsingtao.\n\nWith changes to the magazine and stock, this particular product of Sino-German cooperation has been copied and sold throughout Northern and Southern China, though primarily to the Qing Government."
 CHI_infantry_equipment_3:0 "Guangdong Xinhai Type 33"
 CHI_infantry_equipment_3_short:0 "Guangdong Type 33"
@@ -2069,8 +2069,8 @@ CHI_modern_tank_equipment_1_short:0 "Type 59"
 ### Land ###
 IVO_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 IVO_infantry_equipment_0_short:0 "Lebel Mle M93"
-IVO_infantry_equipment_1:0 "Karabiner 98t"
-IVO_infantry_equipment_1_short:0 "Karabiner 98t"
+IVO_infantry_equipment_1:0 "카라비너 98t"
+IVO_infantry_equipment_1_short:0 "카라비너 98t"
 IVO_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 IVO_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -2081,16 +2081,16 @@ IVO_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
 ###
 
 ### Land ###
-CNT_infantry_equipment_0:0 "Oviedo Mauser M1893"
-CNT_infantry_equipment_0_short:0 "Mauser M1893"
-CNT_infantry_equipment_1:0 "Oviedo Mauser M1916"
-CNT_infantry_equipment_1_short:0 "Mauser M1916"
-CNT_infantry_equipment_2:0 "Labora-Fontbernat M1938"
+CNT_infantry_equipment_0:0 "오비에도 마우저 M1893"
+CNT_infantry_equipment_0_short:0 "마우저 M1893"
+CNT_infantry_equipment_1:0 "오비에도 마우저 M1916"
+CNT_infantry_equipment_1_short:0 "마우저 M1916"
+CNT_infantry_equipment_2:0 "라보라-폰트베르나트 M1938"
 CNT_infantry_equipment_2_short:0 "LF M1938"
 CNT_infantry_equipment_3:0 "MAS Modèle 1940/42"
 CNT_infantry_equipment_3_short:0 "MAS-40/42"
 
-CNT_gw_tank_equipment:0 "Renault FT"
+CNT_gw_tank_equipment:0 "르노 FT"
 CNT_gw_tank_equipment_short:0 "FT"
 CNT_light_tank_equipment_1:0 "Tipo 1933"
 CNT_light_tank_equipment_1_short:0 "T-33"
@@ -2104,7 +2104,7 @@ CNT_medium_tank_equipment_1:0 "Lorraine AMC 35"
 CNT_medium_tank_equipment_1_short:0 "AMC 35"
 CNT_medium_tank_equipment_2:0 "SOMUA S35"
 CNT_medium_tank_equipment_2_short:0 "S35"
-CNT_medium_tank_equipment_3:0 "Renault G2"
+CNT_medium_tank_equipment_3:0 "르노 G2"
 CNT_medium_tank_equipment_3_short:0 "G2"
 
 CNT_heavy_tank_equipment_1:0 "Lorraine B1"
@@ -2127,8 +2127,8 @@ CNT_modern_tank_equipment_1_short:0 "Universal Mk.I"
 ### Land ###
 COG_infantry_equipment_0:0 "Fabrique Nationale Mauser Modèle 1889"
 COG_infantry_equipment_0_short:0 "Mauser M89"
-COG_infantry_equipment_1:0 "Karabiner 98t"
-COG_infantry_equipment_1_short:0 "Karabiner 98t"
+COG_infantry_equipment_1:0 "카라비너 98t"
+COG_infantry_equipment_1_short:0 "카라비너 98t"
 COG_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 COG_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -2165,10 +2165,10 @@ COS_infantry_equipment_3_short:0 "FN-43"
 ###
 
 ### Land ###
-CRO_infantry_equipment_0:0 "Mannlicher Karabin M.95"
-CRO_infantry_equipment_0_short:0 "Mannlicher M.95"
+CRO_infantry_equipment_0:0 "만리허 카라빈 M.95"
+CRO_infantry_equipment_0_short:0 "만리허 M.95"
 CRO_infantry_equipment_0_desc:0 "The Mannlicher M1895 (German: Infanterie Repetier-Gewehr M.95) was the service rifle of the Austro-Hungarian armed forces during the Weltkrieg. Designed by Ferdinand von Mannlicher, it used a straight-pull bolt-action for increased rate-of-fire compared to its contemporaries, giving it the nickname Ruck-Zuck (German slang for "back and forth") by Austrian troops and "Ta-Pum" by the Italians on the receiving end. The Italian song "Ta pum!" from the Weltkrieg refers to this rifle. Later in the war, most rifles were converted into the short "Stutzen" ("cut-down") configuration."
-CRO_infantry_equipment_1:0 "Mannlicher-FÉG Karabiner M.24"
+CRO_infantry_equipment_1:0 "만리허-FÉG 카라비너 M.24"
 CRO_infantry_equipment_1_short:0 "Karabin M.24"
 CRO_infantry_equipment_1_desc:0 "The Weltkrieg made the M.95's deficiencies all-too obvious, especially its relatively underpowered round-nose cartridge and the required maintenance for the straight-pull action. Steyr developed the 8x56mm "Spitzer" cartridge that would serve as the basis to a new generation of weapons and push the M.95 to its full potential. In the 1924 Rifle Trial, the Hungarian FÉG design based on the Mannlicher-Schönauer's excellent turn-bolt-action won out and was adopted."
 CRO_infantry_equipment_2:0 "ZB samopuneći karabin M.42"
@@ -2652,8 +2652,8 @@ CZE_amphibious_tank_equipment_2_short:0 "Leták"
 ### Land ###
 DAH_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 DAH_infantry_equipment_0_short:0 "Lebel Mle M93"
-DAH_infantry_equipment_1:0 "Karabiner 98t"
-DAH_infantry_equipment_1_short:0 "Karabiner 98t"
+DAH_infantry_equipment_1:0 "카라비너 98t"
+DAH_infantry_equipment_1_short:0 "카라비너 98t"
 DAH_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 DAH_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -2779,8 +2779,8 @@ DEH_modern_tank_equipment_1_short:0 "A44 '브록'"
 ###
 
 ### Land ###
-DEI_infantry_equipment_0:0 "Mannlicher Geweer M.95"
-DEI_infantry_equipment_0_short:0 "Mannlicher M95"
+DEI_infantry_equipment_0:0 "만리허 헤베이르 M.95"
+DEI_infantry_equipment_0_short:0 "만리허 M95"
 DEI_infantry_equipment_1:0 "Karabijn No.5 M.95"
 DEI_infantry_equipment_1_short:0 "Karabijn M95"
 DEI_infantry_equipment_2:0 "Johnson Automatisch Geweer M1941"
@@ -2926,14 +2926,14 @@ EGY_EQUIPMENT_VERSION_13:0 "Mk. XIII"
 
 EGY_infantry_equipment_0:0 "Short Model Lee–Enfield MK. I"
 EGY_infantry_equipment_0_short:0 "SMLE MK. 1"
-EGY_infantry_equipment_1:0 "Karabiner 98k"
-EGY_infantry_equipment_1_short:0 "Karabiner 98k"
+EGY_infantry_equipment_1:0 "카라비너 98k"
+EGY_infantry_equipment_1_short:0 "카라비너 98k"
 EGY_infantry_equipment_2:0 "Selbstladegewehr 40"
 EGY_infantry_equipment_2_short:0 "Selbstlader 40"
 EGY_infantry_equipment_2_desc:0 "Designed by the Mauser company in response to a German Army desire for a self-loading rifle with a backup bolt action, the Selbstladegewehr 40 was a massive leap forward in German small arms design. While initial prototypes were highly inaccurate, heavy, and prone to jamming, the German army eventually dropped some its other specific requirements for the rifle, and the end result, the predecessor the rifle that would ultimately be adopted, proved effective."
 EGY_infantry_equipment_3:0 "Fabrique Nationale Model 1943"
 EGY_infantry_equipment_3_short:0 "FN-43"
-EGY_infantry_at:0 "Panzerfaust 30"
+EGY_infantry_at:0 "판처파우스트 30"
 EGY_infantry_at2:0 "Raketenpanzerbüchse"
 EGY_support_weapons:0 "Vickers MG & Stokes mortar"
 EGY_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
@@ -3124,14 +3124,14 @@ ERI_support_weapons2:0 "KE-7 & 5 cm Granatwerfer 36"
 ### Land ###
 EST_infantry_equipment_0:0 "Mossin-Nagant Mudel 1891"
 EST_infantry_equipment_0_short:0 "Mossin 1891"
-EST_infantry_equipment_1:0 "Karabiner 98k"
-EST_infantry_equipment_1_short:0 "Karabiner 98k"
+EST_infantry_equipment_1:0 "카라비너 98k"
+EST_infantry_equipment_1_short:0 "카라비너 98k"
 EST_infantry_equipment_2:0 "Maschinenpistole 28"
 EST_infantry_equipment_2_short:0 "MP-28"
 EST_infantry_equipment_3:0 "Maschinenkarabiner 42"
 EST_infantry_equipment_3_short:0 "MKb 42"
 EST_infantry_equipment_3_desc:0 "The MKb 42 is a revolutionary design chambered for a new intermediate cartridge, developed by famous German arms designer Hugo Schmeisser in conjunction with the Haenel company. While the first prototype of the rifle was prone to jamming, both the military and even the Kaiser himself were extremely enthusiastic about the project and immense resources were concentrated on improving the design, with the rifle deemed ready for adoption in 1942."
-EST_infantry_at:0 "Panzerfaust 30"
+EST_infantry_at:0 "판처파우스트 30"
 EST_infantry_at2:0 "Raketenpanzerbüchse"
 EST_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
 EST_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
@@ -3174,7 +3174,7 @@ ETS_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on 
 ###
 
 ### Land ###
-FIN_infantry_equipment_0:0 "Mosin-Nagant 1891-Mallin"
+FIN_infantry_equipment_0:0 "모신-나강 1891-Mallin"
 FIN_infantry_equipment_0_short:0 "M/91"
 FIN_infantry_equipment_1:0 "Mosin-Nagant 1930-Mallin"
 FIN_infantry_equipment_1_short:0 "M/28-30"
@@ -3225,7 +3225,7 @@ FIN_anti_air_equipment_1_short:0 "2 cm FlaK 30"
 FIN_anti_tank_equipment_1:0 "37 PstK/36"
 FIN_anti_tank_equipment_1_short:0 "37 PstK/36"
 
-FIN_gw_tank_equipment:0 "Renault FT"
+FIN_gw_tank_equipment:0 "르노 FT"
 FIN_gw_tank_equipment_short:0 "FT"
 FIN_light_tank_equipment_1:0 "Vickers Mark E Type B"
 FIN_light_tank_equipment_1_short:0 "Mk.E Type B"
@@ -3358,7 +3358,7 @@ FNG_rocket_artillery_equipment_2:0 "Type 4 40 cm Rocket Mortar"
 
 #Tanks
 
-FNG_gw_tank_equipment:0 "Renault FT"
+FNG_gw_tank_equipment:0 "르노 FT"
 FNG_gw_tank_equipment_short:0 "FT"
 FNG_light_tank_equipment_1:0 "Type 94 Tankette"
 FNG_light_tank_equipment_1_short:0 "Type 94"
@@ -3425,7 +3425,7 @@ FOP_infantry_equipment_1:0 "Carabina Steyr Modelo 1912/35"
 FOP_infantry_equipment_1_short:0 "Modelo 1912/35"
 FOP_infantry_equipment_1_desc:0 "Shortly before the Weltkrieg, Chile contracted the Austrian arms manufacturer Steyr for a new Carbine variant of the German Mauser 1898 chambered in 7x57mm like older Chilean rifles. Many of these carbines eventually fell into the hands of the Chilean Carabinieros, who found the rifle unsatisfactory and lobbied for its replacement. In 1935, a new pattern with improved ergonomics and a new larger magazine with more robust feed lips and loader was approved and entered into production shortly thereafter. A few months after its initial production, the rifles began to trickle into Patagonia."
 
-FOP_gw_tank_equipment:0 "Renault FT"
+FOP_gw_tank_equipment:0 "르노 FT"
 FOP_gw_tank_equipment_short:0 "FT"
 
 ###
@@ -3647,7 +3647,7 @@ FRP_anti_air_equipment_3:0 "Canon de 75 CA modèle 1940"
 
 #Tanks
 
-FRP_gw_tank_equipment:0 "Renault FT"
+FRP_gw_tank_equipment:0 "르노 FT"
 FRP_gw_tank_equipment_short:0 "FT"
 FRP_light_tank_equipment_1:0 "Brandt H35"
 FRP_light_tank_equipment_1_short:0 "H35"
@@ -3714,8 +3714,8 @@ FRP_amphibious_tank_equipment_2_short:0 "DP 3"
 ### Land ###
 GAB_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 GAB_infantry_equipment_0_short:0 "Lebel Mle M93"
-GAB_infantry_equipment_1:0 "Karabiner 98t"
-GAB_infantry_equipment_1_short:0 "Karabiner 98t"
+GAB_infantry_equipment_1:0 "카라비너 98t"
+GAB_infantry_equipment_1_short:0 "카라비너 98t"
 GAB_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 GAB_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -3727,9 +3727,9 @@ GAB_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
 
 ### Land ###
 GAL_infantry_equipment_0:0 "Stutze wzór 95"
-GAL_infantry_equipment_0_short:0 "Mannlicher wz. 95"
+GAL_infantry_equipment_0_short:0 "만리허 wz. 95"
 GAL_infantry_equipment_0_desc:0 "The Mannlicher M1895 (German: Infanterie Repetier-Gewehr M.95) is a bolt-action rifle, designed by Ferdinand Ritter von Mannlicher, that used a refined version of his revolutionary straight-pull action bolt, much like the Mannlicher M1890 carbine. It was nicknamed the Ruck-Zu(rü)ck (German slang for "back and forth") by Austrian troops and "Ta-Pum" by Italian troops who even wrote a song about it during The Weltkrieg."
-GAL_infantry_equipment_1:0 "Mannlicher-FÉG Karabinek wzór 24"
+GAL_infantry_equipment_1:0 "만리허-FÉG Karabinek wzór 24"
 GAL_infantry_equipment_1_short:0 "Karabinek wz. 24"
 GAL_infantry_equipment_1_desc:0 "The Mannlicher M95/30 is the equivalent to the German Karabiner 98 Rifle. Designed in cooperation with German engineers, it has a number of improvements over its predecessor. It was named Mannlicher to honour Ferdinand Ritter von Mannlicher and his achievements in Austrian weapon design."
 GAL_infantry_equipment_2:0 "ZB Karabinek Samopowtarzalny wzór 42"
@@ -4083,10 +4083,10 @@ GEA_EQUIPMENT_VERSION_16:0 "P"
 
 #Infantry Equip
 
-GEA_infantry_equipment_0:0 "Gewehr 98"
-GEA_infantry_equipment_0_short:0 "Gewehr 98"
-GEA_infantry_equipment_1:0 "Karabiner 98t"
-GEA_infantry_equipment_1_short:0 "Karabiner 98t"
+GEA_infantry_equipment_0:0 "게베어 98"
+GEA_infantry_equipment_0_short:0 "게베어 98"
+GEA_infantry_equipment_1:0 "카라비너 98t"
+GEA_infantry_equipment_1_short:0 "카라비너 98t"
 GEA_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 GEA_infantry_equipment_2:0 "Maschinenpistole 40/I"
 GEA_infantry_equipment_2_short:0 "MP 40/I"
@@ -4094,7 +4094,7 @@ GEA_infantry_equipment_2_desc:0 "Learning from the Indochinese conflict, the MP 
 GEA_infantry_equipment_3:0 "Maschinenkarabiner 42k"
 GEA_infantry_equipment_3_short:0 "MKb 42k"
 GEA_infantry_equipment_3_desc:0 "Unlike the MKb 42, the MKb 42k \"Kolonial\" variant of the rifle is developed in parallel by the Walther company. The specification called for a new weapon which was larger than a submachine gun, more accurate, longer ranged and more maneuverable than a full sized rifle in order to replace both the existing MP 40/I and Karabiner 98t role at the same time. The rifle fire from a closed bolt, trading higher rate of fire of 600 rpm with effective range which goes down by 50 meter when compared to the main service rifle adopted in Europe. These characteristics which filled a very niche role make it well-loved by its user."
-GEA_infantry_at:0 "Panzerfaust 30"
+GEA_infantry_at:0 "판처파우스트 30"
 GEA_infantry_at2:0 "Raketenpanzerbüchse"
 GEA_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
 GEA_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
@@ -4529,17 +4529,17 @@ GEX_EQUIPMENT_VERSION_16:0 "P"
 
 #Infantry Equip
 
-GEX_infantry_equipment_0:0 "Gewehr 98"
-GEX_infantry_equipment_0_short:0 "Gewehr 98"
-GEX_infantry_equipment_1:0 "Karabiner 98k"
-GEX_infantry_equipment_1_short:0 "Karabiner 98k"
+GEX_infantry_equipment_0:0 "게베어 98"
+GEX_infantry_equipment_0_short:0 "게베어 98"
+GEX_infantry_equipment_1:0 "카라비너 98k"
+GEX_infantry_equipment_1_short:0 "카라비너 98k"
 GEX_infantry_equipment_2:0 "Selbstladegewehr 40"
 GEX_infantry_equipment_2_short:0 "Selbstlader 40"
 GEX_infantry_equipment_2_desc:0 "Designed by the Mauser company in response to a German Army desire for a self-loading rifle with a backup bolt action, the Selbstladegewehr 40 was a massive leap forward in German small arms design. While initial prototypes were highly inaccurate, heavy, and prone to jamming, the German army eventually dropped some its other specific requirements for the rifle, and the end result, the predecessor the rifle that would ultimately be adopted, proved effective."
 GEX_infantry_equipment_3:0 "Maschinenkarabiner 42"
 GEX_infantry_equipment_3_short:0 "MKb 42"
 GEX_infantry_equipment_3_desc:0 "The MKb 42 is a revolutionary design chambered for a new intermediate cartridge, developed by famous German arms designer Hugo Schmeisser in conjunction with the Haenel company. While the first prototype of the rifle was prone to jamming, both the military and even the Kaiser himself were extremely enthusiastic about the project and immense resources were concentrated on improving the design, with the rifle deemed ready for adoption in 1942."
-GEX_infantry_at:0 "Panzerfaust 30"
+GEX_infantry_at:0 "판처파우스트 30"
 GEX_infantry_at2:0 "Raketenpanzerbüchse"
 GEX_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
 GEX_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
@@ -4720,8 +4720,8 @@ GEX_modern_tank_destroyer_equipment_1_desc:0 "An updated version of the JadgPanz
 ### Land ###
 GHA_infantry_equipment_0:0 "Short Model Lee–Enfield MK. I"
 GHA_infantry_equipment_0_short:0 "SMLE MK. 1"
-GHA_infantry_equipment_1:0 "Karabiner 98t"
-GHA_infantry_equipment_1_short:0 "Karabiner 98t"
+GHA_infantry_equipment_1:0 "카라비너 98t"
+GHA_infantry_equipment_1_short:0 "카라비너 98t"
 GHA_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 GHA_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -4736,7 +4736,7 @@ GNA_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 GNA_infantry_equipment_0_short:0 "Lebel Mle M93"
 GNA_support_weapons:0 "Darne M1919 & Stokes mortar"
 
-GNA_gw_tank_equipment:0 "Renault FT"
+GNA_gw_tank_equipment:0 "르노 FT"
 GNA_gw_tank_equipment_short:0 "FT"
 
 ###
@@ -4744,13 +4744,13 @@ GNA_gw_tank_equipment_short:0 "FT"
 ###
 
 ### Land ###
-GRE_infantry_equipment_0:0 "Mannlicher M03"
-GRE_infantry_equipment_0_short:0 "Mannlicher M03"
-GRE_infantry_equipment_1:0 "Puška M24"
-GRE_infantry_equipment_1_short:0 "Puška M24"
+GRE_infantry_equipment_0:0 "만리허 M03"
+GRE_infantry_equipment_0_short:0 "만리허 M03"
+GRE_infantry_equipment_1:0 "푸슈카 M24"
+GRE_infantry_equipment_1_short:0 "푸슈카 M24"
 GRE_infantry_equipment_2:0 "Orita Model 1941"
 GRE_infantry_equipment_2_short:0 "Orita M1941"
-GRE_infantry_equipment_3:0 "Pistolet-Pulemyet Shpagina mod.2"
+GRE_infantry_equipment_3:0 "피스톨레트-풀레묘트 시파기나 mod.2"
 GRE_infantry_equipment_3_short:0 "PPSh-2"
 
 ###
@@ -4774,13 +4774,13 @@ GRP_support_weapons:0 "Hotchkiss M1914 MG & Stokes mortar"
 ###
 
 ### Land ###
-GRR_infantry_equipment_0:0 "Mannlicher M03"
-GRR_infantry_equipment_0_short:0 "Mannlicher M03"
-GRR_infantry_equipment_1:0 "Puška M24"
-GRR_infantry_equipment_1_short:0 "Puška M24"
+GRR_infantry_equipment_0:0 "만리허 M03"
+GRR_infantry_equipment_0_short:0 "만리허 M03"
+GRR_infantry_equipment_1:0 "푸슈카 M24"
+GRR_infantry_equipment_1_short:0 "푸슈카 M24"
 GRR_infantry_equipment_2:0 "Orita Model 1941"
 GRR_infantry_equipment_2_short:0 "Orita M1941"
-GRR_infantry_equipment_3:0 "Pistolet-Pulemyet Shpagina mod.2"
+GRR_infantry_equipment_3:0 "피스톨레트-풀레묘트 시파기나 mod.2"
 GRR_infantry_equipment_3_short:0 "PPSh-2"
 
 ###
@@ -4808,17 +4808,17 @@ GRU_EQUIPMENT_VERSION_16:0 "P"
 
 #Infantry Equip
 
-GRU_infantry_equipment_0:0 "Gewehr 98"
-GRU_infantry_equipment_0_short:0 "Gewehr 98"
-GRU_infantry_equipment_1:0 "Karabiner 98k"
-GRU_infantry_equipment_1_short:0 "Karabiner 98k"
+GRU_infantry_equipment_0:0 "게베어 98"
+GRU_infantry_equipment_0_short:0 "게베어 98"
+GRU_infantry_equipment_1:0 "카라비너 98k"
+GRU_infantry_equipment_1_short:0 "카라비너 98k"
 GRU_infantry_equipment_2:0 "Selbstladegewehr 40"
 GRU_infantry_equipment_2_short:0 "Selbstlader 40"
 GRU_infantry_equipment_2_desc:0 "Designed by the Mauser company in response to a German Army desire for a self-loading rifle with a backup bolt action, the Selbstladegewehr 40 was a massive leap forward in German small arms design. While initial prototypes were highly inaccurate, heavy, and prone to jamming, the German army eventually dropped some its other specific requirements for the rifle, and the end result, the predecessor the rifle that would ultimately be adopted, proved effective."
 GRU_infantry_equipment_3:0 "Maschinenkarabiner 42"
 GRU_infantry_equipment_3_short:0 "MKb 42"
 GRU_infantry_equipment_3_desc:0 "The MKb 42 is a revolutionary design chambered for a new intermediate cartridge, developed by famous German arms designer Hugo Schmeisser in conjunction with the Haenel company. While the first prototype of the rifle was prone to jamming, both the military and even the Kaiser himself were extremely enthusiastic about the project and immense resources were concentrated on improving the design, with the rifle deemed ready for adoption in 1942."
-GRU_infantry_at:0 "Panzerfaust 30"
+GRU_infantry_at:0 "판처파우스트 30"
 GRU_infantry_at2:0 "Raketenpanzerbüchse"
 GRU_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
 GRU_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
@@ -5175,8 +5175,8 @@ HAI_infantry_equipment_3_short:0 "FN-43"
 ### Land ###
 HAU_infantry_equipment_0:0 "Short Model Lee–Enfield MK. I"
 HAU_infantry_equipment_0_short:0 "SMLE MK. 1"
-HAU_infantry_equipment_1:0 "Karabiner 98t"
-HAU_infantry_equipment_1_short:0 "Karabiner 98t"
+HAU_infantry_equipment_1:0 "카라비너 98t"
+HAU_infantry_equipment_1_short:0 "카라비너 98t"
 HAU_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 HAU_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -5253,7 +5253,7 @@ HNN_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into t
 HNN_infantry_equipment_3:0 "Guangdong Xinhai Type 33"
 HNN_infantry_equipment_3_short:0 "Guangdong Type 33"
 HNN_infantry_equipment_3_desc:0 "The Type 33 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 33 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
-HNN_support_weapons:0 "'Huaning' 7.92mm heavy machine gun & Hanyang-made Stokes mortar"
+HNN_support_weapons:0 "'화녕' 7.92mm 중기관총 & 한양제 스토크스 박격포"
 HNN_support_weapons2:0 "Hanyang 30 festival 7.9mm machine gun 'Old yellow ox' & Jingling Xuantong Type 23 82mm mortar"
 HNN_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Zhuzhou Xuantong Type 34 60mm mortar"
 
@@ -5262,8 +5262,8 @@ HNN_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Zhuzhou Xuantong Ty
 ###
 
 ### Land ###
-HOL_infantry_equipment_0:0 "Mannlicher Geweer M.95"
-HOL_infantry_equipment_0_short:0 "Mannlicher M95"
+HOL_infantry_equipment_0:0 "만리허 헤베이르 M.95"
+HOL_infantry_equipment_0_short:0 "만리허 M95"
 HOL_infantry_equipment_1:0 "Karabijn No.5 M.95"
 HOL_infantry_equipment_1_short:0 "Karabijn M95"
 HOL_infantry_equipment_2:0 "Johnson Automatisch Geweer M1941"
@@ -5605,7 +5605,7 @@ INC_anti_air_equipment_3:0 "Canon de 75 CA modèle 1940"
 
 #Tanks
 
-INC_gw_tank_equipment:0 "Renault FT"
+INC_gw_tank_equipment:0 "르노 FT"
 INC_gw_tank_equipment_short:0 "FT"
 INC_light_tank_equipment_1:0 "Hotchkiss H35"
 INC_light_tank_equipment_1_short:0 "H35"
@@ -5616,7 +5616,7 @@ INC_light_tank_equipment_3_short:0 "AMX 12t"
 INC_light_tank_artillery_equipment_3:0 "Canon de 155 mm Mle F3 Automoteur"
 INC_light_tank_artillery_equipment_3_short:0 "F3 155 mm"
 
-INC_medium_tank_equipment_1:1 "Renault AMC 35"
+INC_medium_tank_equipment_1:1 "르노 AMC 35"
 INC_medium_tank_equipment_1_short:1 "AMC 35"
 INC_medium_tank_artillery_equipment_1:0 "ARL V39"
 INC_medium_tank_artillery_equipment_1_short:0 "ARL V39"
@@ -5625,7 +5625,7 @@ INC_medium_tank_equipment_2_short:1 "S35"
 INC_medium_tank_equipment_3:1 "SARL 42"
 INC_medium_tank_equipment_3_short:1 "SARL 42"
 
-INC_heavy_tank_equipment_1:0 "Renault B1"
+INC_heavy_tank_equipment_1:0 "르노 B1"
 INC_heavy_tank_equipment_1_short:0 "B1"
 INC_heavy_tank_artillery_equipment_1:0 "Canon de 194 mle GPF"
 INC_heavy_tank_artillery_equipment_1_short:0 "Canon de 194"
@@ -5644,8 +5644,8 @@ INC_modern_tank_equipment_1_short:0 "AMX 50t"
 ###
 
 ### Land ###
-INS_infantry_equipment_0:0 "Mannlicher M95"
-INS_infantry_equipment_0_short:0 "Mannlicher M95"
+INS_infantry_equipment_0:0 "만리허 M95"
+INS_infantry_equipment_0_short:0 "만리허 M95"
 INS_infantry_equipment_1:0 "Karabijn M95"
 INS_infantry_equipment_1_short:0 "Karabijn M95"
 INS_infantry_equipment_2:0 "Machinepistool MP28"
@@ -5672,8 +5672,8 @@ IRQ_infantry_equipment_0_desc:0 "Mauser G98 was the main service rifle of the Ot
 
 IRE_infantry_equipment_0:0 "Rifle No.1 Mk.III"
 IRE_infantry_equipment_0_short:0 "No.1 Mk.III"
-IRE_infantry_equipment_1:0 "Karabiner 98k"
-IRE_infantry_equipment_1_short:0 "Karabiner 98k"
+IRE_infantry_equipment_1:0 "카라비너 98k"
+IRE_infantry_equipment_1_short:0 "카라비너 98k"
 IRE_infantry_equipment_2:0 "Johnson Model 1941"
 IRE_infantry_equipment_2_short:0 "Johnson M1941"
 IRE_infantry_equipment_3:0 "Fabrique Nationale Model 1943"
@@ -5746,7 +5746,7 @@ ITA_infantry_equipment_0:0 "Carcano Modello 1891"
 ITA_infantry_equipment_0_short:0 "Carcano M91"
 ITA_infantry_equipment_1:0 "Carcano M38"
 ITA_infantry_equipment_1_short:0 "Carcano M38"
-ITA_infantry_equipment_2:0 "Moschetto Automatico Beretta 1938"
+ITA_infantry_equipment_2:0 "모스케토 아우토마티코 베레타 1938"
 ITA_infantry_equipment_2_short:0 "MAB-38"
 ITA_infantry_equipment_3:0 "Pavesi FNAB-42"
 ITA_infantry_equipment_3_short:0 "FNAB-42"
@@ -6123,18 +6123,18 @@ JOR_infantry_equipment_0_desc:0 "Mauser G98 was the main service rifle of the Ot
 ### Land ###
 KAC_infantry_equipment_0:0 "Rifle No.1 Mk.III"
 KAC_infantry_equipment_0_short:0 "No.1 Mk.III"
-KAC_infantry_equipment_1:0 "Karabiner 98k"
-KAC_infantry_equipment_1_short:0 "Karabiner 98k"
+KAC_infantry_equipment_1:0 "카라비너 98k"
+KAC_infantry_equipment_1_short:0 "카라비너 98k"
 
 ###
 ### Kamerun ###
 ###
 
 ### Land ###
-CMR_infantry_equipment_0:0 "Gewehr 98"
-CMR_infantry_equipment_0_short:0 "Gewehr 98"
-CMR_infantry_equipment_1:0 "Karabiner 98t"
-CMR_infantry_equipment_1_short:0 "Karabiner 98t"
+CMR_infantry_equipment_0:0 "게베어 98"
+CMR_infantry_equipment_0_short:0 "게베어 98"
+CMR_infantry_equipment_1:0 "카라비너 98t"
+CMR_infantry_equipment_1_short:0 "카라비너 98t"
 CMR_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 CMR_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -6147,8 +6147,8 @@ CMR_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
 ### Land ###
 KEN_infantry_equipment_0:0 "Short Model Lee–Enfield MK. I"
 KEN_infantry_equipment_0_short:0 "SMLE MK. 1"
-KEN_infantry_equipment_1:0 "Karabiner 98t"
-KEN_infantry_equipment_1_short:0 "Karabiner 98t"
+KEN_infantry_equipment_1:0 "카라비너 98t"
+KEN_infantry_equipment_1_short:0 "카라비너 98t"
 KEN_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 KEN_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -6161,8 +6161,8 @@ KEN_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
 ### Land ###
 KIV_infantry_equipment_0:0 "Fabrique Nationale Mauser Modèle 1889"
 KIV_infantry_equipment_0_short:0 "Mauser M89"
-KIV_infantry_equipment_1:0 "Karabiner 98t"
-KIV_infantry_equipment_1_short:0 "Karabiner 98t"
+KIV_infantry_equipment_1:0 "카라비너 98t"
+KIV_infantry_equipment_1_short:0 "카라비너 98t"
 KIV_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 KIV_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -6183,8 +6183,8 @@ KOR_infantry_equipment_0_short:0 "Type 38"
 ### Land ###
 KTG_infantry_equipment_0:0 "Fabrique Nationale Mauser Modèle 1889"
 KTG_infantry_equipment_0_short:0 "Mauser M89"
-KTG_infantry_equipment_1:0 "Karabiner 98t"
-KTG_infantry_equipment_1_short:0 "Karabiner 98t"
+KTG_infantry_equipment_1:0 "카라비너 98t"
+KTG_infantry_equipment_1_short:0 "카라비너 98t"
 KTG_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 ###
@@ -6204,8 +6204,8 @@ KUR_infantry_equipment_0_desc:0 "Mauser G98 was the main service rifle of the Ot
 LAO_infantry_equipment_0:0 "Le fusil Mle 1902 Indochinois"
 LAO_infantry_equipment_0_short:0 "Mle 1902 Indochinois"
 LAO_infantry_equipment_0_desc:0 "Lighter and easier to handle and load than the Mle 1886/M93 Lebel rifle, the Berthier fusil Mle 1902 'Indochinois' rifles proved more suitable for offhand shooting and easier to maintain in tropical environments, and saw its use in Indochina."
-LAO_infantry_equipment_1:0 "Karabiner 98t"
-LAO_infantry_equipment_1_short:0 "Karabiner 98t"
+LAO_infantry_equipment_1:0 "카라비너 98t"
+LAO_infantry_equipment_1_short:0 "카라비너 98t"
 LAO_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 ###
@@ -6215,14 +6215,14 @@ LAO_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified 
 ### Land ###
 LAT_infantry_equipment_0:0 "Mosino-Nagant Modelis 1891"
 LAT_infantry_equipment_0_short:0 "Mosino 1891"
-LAT_infantry_equipment_1:0 "Karabiner 98k"
-LAT_infantry_equipment_1_short:0 "Karabiner 98k"
+LAT_infantry_equipment_1:0 "카라비너 98k"
+LAT_infantry_equipment_1_short:0 "카라비너 98k"
 LAT_infantry_equipment_2:0 "Maschinenpistole 28"
 LAT_infantry_equipment_2_short:0 "MP-28"
 LAT_infantry_equipment_3:0 "Maschinenkarabiner 42"
 LAT_infantry_equipment_3_short:0 "MKb 42"
 LAT_infantry_equipment_3_desc:0 "The MKb 42 is a revolutionary design chambered for a new intermediate cartridge, developed by famous German arms designer Hugo Schmeisser in conjunction with the Haenel company. While the first prototype of the rifle was prone to jamming, both the military and even the Kaiser himself were extremely enthusiastic about the project and immense resources were concentrated on improving the design, with the rifle deemed ready for adoption in 1942."
-LAT_infantry_at:0 "Panzerfaust 30"
+LAT_infantry_at:0 "판처파우스트 30"
 LAT_infantry_at2:0 "Raketenpanzerbüchse"
 LAT_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
 LAT_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
@@ -6238,15 +6238,15 @@ LAT_night_vision:0 "ZG 1229 Vampire"
 
 LEC_infantry_equipment_0:0 "Rifle No.1 Mk.III"
 LEC_infantry_equipment_0_short:0 "No.1 Mk.III"
-LEC_infantry_equipment_1:0 "Karabiner 98k"
-LEC_infantry_equipment_1_short:0 "Karabiner 98k"
+LEC_infantry_equipment_1:0 "카라비너 98k"
+LEC_infantry_equipment_1_short:0 "카라비너 98k"
 LEC_infantry_equipment_2:0 "Selbstladegewehr 40"
 LEC_infantry_equipment_2_short:0 "Selbstlader 40"
 LEC_infantry_equipment_2_desc:0 "Designed by the Mauser company in response to a German Army desire for a self-loading rifle with a backup bolt action, the Selbstladegewehr 40 was a massive leap forward in German small arms design. While initial prototypes were highly inaccurate, heavy, and prone to jamming, the German army eventually dropped some its other specific requirements for the rifle, and the end result, the predecessor the rifle that would ultimately be adopted, proved effective."
 LEC_infantry_equipment_3:0 "Maschinenkarabiner 42"
 LEC_infantry_equipment_3_short:0 "MKb 42"
 LEC_infantry_equipment_3_desc:0 "The MKb 42 is a revolutionary design chambered for a new intermediate cartridge, developed by famous German arms designer Hugo Schmeisser in conjunction with the Haenel company. While the first prototype of the rifle was prone to jamming, both the military and even the Kaiser himself were extremely enthusiastic about the project and immense resources were concentrated on improving the design, with the rifle deemed ready for adoption in 1942."
-LEC_infantry_at:0 "Panzerfaust 30"
+LEC_infantry_at:0 "판처파우스트 30"
 LEC_infantry_at2:0 "Raketenpanzerbüchse"
 LEC_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
 LEC_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
@@ -6303,15 +6303,15 @@ LIB_infantry_equipment_1_short:0 "FN-24"
 
 ### Land ###
 LIT_infantry_equipment_0:0 "Mosin-Nagant Modell 1891"
-LIT_infantry_equipment_0_short:0 "Mosin 1891"
-LIT_infantry_equipment_1:0 "Karabiner 98k"
-LIT_infantry_equipment_1_short:0 "Karabiner 98k"
+LIT_infantry_equipment_0_short:0 "1891년형 모신 소총"
+LIT_infantry_equipment_1:0 "카라비너 98k"
+LIT_infantry_equipment_1_short:0 "카라비너 98k"
 LIT_infantry_equipment_2:0 "Maschinenpistole 28"
 LIT_infantry_equipment_2_short:0 "MP-28"
 LIT_infantry_equipment_3:0 "Maschinenkarabiner 42"
 LIT_infantry_equipment_3_short:0 "MKb 42"
 LIT_infantry_equipment_3_desc:0 "The MKb 42 is a revolutionary design chambered for a new intermediate cartridge, developed by famous German arms designer Hugo Schmeisser in conjunction with the Haenel company. While the first prototype of the rifle was prone to jamming, both the military and even the Kaiser himself were extremely enthusiastic about the project and immense resources were concentrated on improving the design, with the rifle deemed ready for adoption in 1942."
-LIT_infantry_at:0 "Panzerfaust 30"
+LIT_infantry_at:0 "판처파우스트 30"
 LIT_infantry_at2:0 "Raketenpanzerbüchse"
 LIT_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
 LIT_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
@@ -6381,8 +6381,8 @@ LBA_infantry_equipment_1_desc:0 "Ankara ATF M38 was the name given to the Ottoma
 ### Land ###
 MDR_infantry_equipment_0:0 "Rifle No.1 Mk.III"
 MDR_infantry_equipment_0_short:0 "No.1 Mk.III"
-MDR_infantry_equipment_1:0 "Karabiner 98k"
-MDR_infantry_equipment_1_short:0 "Karabiner 98k"
+MDR_infantry_equipment_1:0 "카라비너 98k"
+MDR_infantry_equipment_1_short:0 "카라비너 98k"
 
 ###
 ### Mittelafrika ###
@@ -6409,10 +6409,10 @@ MAF_EQUIPMENT_VERSION_16:0 "P"
 
 #Infantry Equip
 
-MAF_infantry_equipment_0:0 "Gewehr 98"
-MAF_infantry_equipment_0_short:0 "Gewehr 98"
-MAF_infantry_equipment_1:0 "Karabiner 98t"
-MAF_infantry_equipment_1_short:0 "Karabiner 98t"
+MAF_infantry_equipment_0:0 "게베어 98"
+MAF_infantry_equipment_0_short:0 "게베어 98"
+MAF_infantry_equipment_1:0 "카라비너 98t"
+MAF_infantry_equipment_1_short:0 "카라비너 98t"
 MAF_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 MAF_infantry_equipment_2:0 "Maschinenpistole 40/I"
 MAF_infantry_equipment_2_short:0 "MP 40/I"
@@ -6420,7 +6420,7 @@ MAF_infantry_equipment_2_desc:0 "Learning from the Indochinese conflict, the MP 
 MAF_infantry_equipment_3:0 "Maschinenkarabiner 42k"
 MAF_infantry_equipment_3_short:0 "MKb 42k"
 MAF_infantry_equipment_3_desc:0 "Unlike the MKb 42, the MKb 42k \"Kolonial\" variant of the rifle is developed in parallel by the Walther company. The specification called for a new weapon which was larger than a submachine gun, more accurate, longer ranged and more maneuverable than a full sized rifle in order to replace both the existing MP 40/I and Karabiner 98t role at the same time. The rifle fire from a closed bolt, trading higher rate of fire of 600 rpm with effective range which goes down by 50 meter when compared to the main service rifle adopted in Europe. These characteristics which filled a very niche role make it well-loved by its user."
-MAF_infantry_at:0 "Panzerfaust 30"
+MAF_infantry_at:0 "판처파우스트 30"
 MAF_infantry_at2:0 "Raketenpanzerbüchse"
 MAF_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
 MAF_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
@@ -6611,8 +6611,8 @@ MAF_modern_tank_destroyer_equipment_1_desc:0 "An updated version of the JadgPanz
 ### Land ###
 MAD_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 MAD_infantry_equipment_0_short:0 "Lebel Mle M93"
-MAD_infantry_equipment_1:0 "Karabiner 98t"
-MAD_infantry_equipment_1_short:0 "Karabiner 98t"
+MAD_infantry_equipment_1:0 "카라비너 98t"
+MAD_infantry_equipment_1_short:0 "카라비너 98t"
 MAD_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 MAD_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -6627,7 +6627,7 @@ MLI_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 MLI_infantry_equipment_0_short:0 "Lebel Mle M93"
 MLI_support_weapons:0 "Darne M1919 & Stokes mortar"
 
-MLI_gw_tank_equipment:0 "Renault FT"
+MLI_gw_tank_equipment:0 "르노 FT"
 MLI_gw_tank_equipment_short:0 "FT"
 
 ###
@@ -6650,7 +6650,7 @@ MEX_support_weapons:0 "Madsen MG & Stokes mortar"
 MEX_support_weapons2:0 "Mendoza C-1934 & Brandt Mle Mle 27/31"
 MEX_support_weapons3:0 "Hotchkiss 26/37 & M1 mortar"
 
-MEX_gw_tank_equipment:0 "Renault FT"
+MEX_gw_tank_equipment:0 "르노 FT"
 MEX_gw_tank_equipment_short:0 "FT"
 
 ###
@@ -6660,8 +6660,8 @@ MEX_gw_tank_equipment_short:0 "FT"
 ### Land ###
 MLW_infantry_equipment_0:0 "Short Model Lee–Enfield MK. I"
 MLW_infantry_equipment_0_short:0 "SMLE MK. 1"
-MLW_infantry_equipment_1:0 "Karabiner 98t"
-MLW_infantry_equipment_1_short:0 "Karabiner 98t"
+MLW_infantry_equipment_1:0 "카라비너 98t"
+MLW_infantry_equipment_1_short:0 "카라비너 98t"
 MLW_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 MLW_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -6674,8 +6674,8 @@ MLW_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
 ### Land ###
 MAL_infantry_equipment_0:0 "Short Model Lee–Enfield MK. III"
 MAL_infantry_equipment_0_short:0 "SMLE MK.3"
-MAL_infantry_equipment_1:0 "Karabiner 98t"
-MAL_infantry_equipment_1_short:0 "Karabiner 98t"
+MAL_infantry_equipment_1:0 "카라비너 98t"
+MAL_infantry_equipment_1_short:0 "카라비너 98t"
 MAL_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 MAL_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -6692,13 +6692,13 @@ LEP_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self 
 LEP_infantry_equipment_1:0 "한양 27식"
 LEP_infantry_equipment_1_short:0 "한양 27식"
 LEP_infantry_equipment_1_desc:0 "Officially called the 'Xuantong Type 27', this rifle was put into service in 1935 thanks to German assistance after the Qing Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nThis variety is mainly produced at the Hanyang Arsenal with German tools, though it may not fully replace its predecessors for some time."
-LEP_infantry_equipment_2:0 "칭타오 MP18"
-LEP_infantry_equipment_2_short:0 "칭타오 MP18"
+LEP_infantry_equipment_2:0 "청도 MP18"
+LEP_infantry_equipment_2_short:0 "청도 MP18"
 LEP_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into the world market in the early 1920s, the MP18 saw action in China some time before a modified version began production in Tsingtao.\n\nWith changes to the magazine and stock, this particular product of Sino-German cooperation has been copied and sold throughout Northern and Southern China, though primarily to the Qing Government and warlords in coastal areas."
 LEP_infantry_equipment_3:0 "한양 선통제 35식"
 LEP_infantry_equipment_3_short:0 "한양 선통제 35식"
 LEP_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 35 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
-LEP_support_weapons:0 "'Huaning' 7.92mm heavy machine gun & Hanyang-made Stokes mortar"
+LEP_support_weapons:0 "'화녕' 7.92mm 중기관총 & 한양제 스토크스 박격포"
 LEP_support_weapons2:0 "Shanghai 30 festival 7.9mm machine gun 'Old yellow ox' & Jingling Xuantong Type 23 82mm mortar"
 LEP_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Jingling Xuantong Type 34 60mm mortar"
 
@@ -6713,7 +6713,7 @@ MON_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
 MON_infantry_equipment_1_short:0 "Mosina 1891/1930"
 MON_infantry_equipment_2:0 "PPSh-41"
 MON_infantry_equipment_2_short:0 "PPSh-41"
-MON_infantry_equipment_3:0 "Pistolet-Pulemyet Shpagina mod.2"
+MON_infantry_equipment_3:0 "피스톨레트-풀레묘트 시파기나 mod.2"
 MON_infantry_equipment_3_short:0 "PPSh-2"
 
 ###
@@ -6723,8 +6723,8 @@ MON_infantry_equipment_3_short:0 "PPSh-2"
 ### Land ###
 MOR_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 MOR_infantry_equipment_0_short:0 "Lebel Mle M93"
-MOR_infantry_equipment_1:0 "Karabiner 98k"
-MOR_infantry_equipment_1_short:0 "Karabiner 98k"
+MOR_infantry_equipment_1:0 "카라비너 98k"
+MOR_infantry_equipment_1_short:0 "카라비너 98k"
 MOR_infantry_equipment_2:0 "Maschinenpistole 28"
 MOR_infantry_equipment_2_short:0 "MP-28"
 
@@ -6737,7 +6737,7 @@ MRT_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 MRT_infantry_equipment_0_short:0 "Lebel Mle M93"
 MRT_support_weapons:0 "Darne M1919 & Stokes mortar"
 
-MRT_gw_tank_equipment:0 "Renault FT"
+MRT_gw_tank_equipment:0 "르노 FT"
 MRT_gw_tank_equipment_short:0 "FT"
 
 ###
@@ -6747,8 +6747,8 @@ MRT_gw_tank_equipment_short:0 "FT"
 ### Land ###
 MYS_infantry_equipment_0:0 "Rifle No.1 Mk.III"
 MYS_infantry_equipment_0_short:0 "No.1 Mk.III"
-MYS_infantry_equipment_1:0 "Karabiner 98k"
-MYS_infantry_equipment_1_short:0 "Karabiner 98k"
+MYS_infantry_equipment_1:0 "카라비너 98k"
+MYS_infantry_equipment_1_short:0 "카라비너 98k"
 
 ###
 ### Mozambique ###
@@ -6763,10 +6763,10 @@ MZB_infantry_equipment_0_short:0 "Espingarda m/04"
 ###
 
 ### Land ###
-NMB_infantry_equipment_0:0 "Gewehr 98"
-NMB_infantry_equipment_0_short:0 "Gewehr 98"
-NMB_infantry_equipment_1:0 "Karabiner 98t"
-NMB_infantry_equipment_1_short:0 "Karabiner 98t"
+NMB_infantry_equipment_0:0 "게베어 98"
+NMB_infantry_equipment_0_short:0 "게베어 98"
+NMB_infantry_equipment_1:0 "카라비너 98t"
+NMB_infantry_equipment_1_short:0 "카라비너 98t"
 NMB_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 NMB_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -6901,7 +6901,7 @@ NGR_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 NGR_infantry_equipment_0_short:0 "Lebel Mle M93"
 NGR_support_weapons:0 "Darne M1919 & Stokes mortar"
 
-NGR_gw_tank_equipment:0 "Renault FT"
+NGR_gw_tank_equipment:0 "르노 FT"
 NGR_gw_tank_equipment_short:0 "FT"
 
 ###
@@ -6975,7 +6975,7 @@ NFA_armored_car_equipment_2_short:0 "AMC-60-H20"
 
 #Tanks
 
-NFA_gw_tank_equipment:0 "Renault FT-17"
+NFA_gw_tank_equipment:0 "르노 FT-17"
 NFA_gw_tank_equipment_short:0 "FT-17"
 
 NEE_light_tank_equipment_1:0 "Char de Manœuvre Renault modèle 1928"
@@ -7018,8 +7018,8 @@ NFA_modern_tank_equipment_1_short:0 "CdC G3"
 ### Land ###
 NGA_infantry_equipment_0:0 "Short Model Lee–Enfield MK. I"
 NGA_infantry_equipment_0_short:0 "SMLE MK. 1"
-NGA_infantry_equipment_1:0 "Karabiner 98t"
-NGA_infantry_equipment_1_short:0 "Karabiner 98t"
+NGA_infantry_equipment_1:0 "카라비너 98t"
+NGA_infantry_equipment_1_short:0 "카라비너 98t"
 NGA_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 NGA_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -7043,7 +7043,7 @@ NIC_infantry_equipment_3:0 "MAS Modèle 1940/42"
 NIC_infantry_equipment_3_short:0 "MAS-40/42"
 NIC_infantry_equipment_3_desc:0 "The MAS-40/42 is the latest in a series of Communard semi-automatic rifles. Unlike its predecessors, however, the MAS-40/42 was found to be exceptionally reliable in French military testing. The original five round internal magazine, however, was deemed insufficient and a new variant of the MAS-40/42, the 40/42, was developed featuring a detachable ten round box magazine. A small number of MAS-40/42 rifles were smuggled into Nicaragua along with production tooling specifications."
 
-NIC_gw_tank_equipment:0 "Renault FT"
+NIC_gw_tank_equipment:0 "르노 FT"
 NIC_gw_tank_equipment_short:0 "FT"
 
 ###
@@ -7263,8 +7263,8 @@ OCC_infantry_at:0 "Boys Anti-Tank Rifle"
 ### Land ###
 OMA_infantry_equipment_0:0 "Rifle No.1 Mk.III"
 OMA_infantry_equipment_0_short:0 "No.1 Mk.III"
-OMA_infantry_equipment_1:0 "Karabiner 98k"
-OMA_infantry_equipment_1_short:0 "Karabiner 98k"
+OMA_infantry_equipment_1:0 "카라비너 98k"
+OMA_infantry_equipment_1_short:0 "카라비너 98k"
 
 ###
 ### Ottoman Empire ###
@@ -7477,8 +7477,8 @@ OTT_modern_tank_aa_equipment_1_short:0 "Altınok"
 ### Land ###
 ZZB_infantry_equipment_0:0 "Short Model Lee–Enfield MK. I"
 ZZB_infantry_equipment_0_short:0 "SMLE MK. 1"
-ZZB_infantry_equipment_1:0 "Karabiner 98t"
-ZZB_infantry_equipment_1_short:0 "Karabiner 98t"
+ZZB_infantry_equipment_1:0 "카라비너 98t"
+ZZB_infantry_equipment_1_short:0 "카라비너 98t"
 ZZB_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 ZZB_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -7515,8 +7515,8 @@ PAN_infantry_equipment_3_short:0 "FN-43"
 ### Land ###
 PAP_infantry_equipment_0:0 "Carcano Modello 1891"
 PAP_infantry_equipment_0_short:0 "Carcano M91"
-PAP_infantry_equipment_1:0 "Karabiner 98k"
-PAP_infantry_equipment_1_short:0 "Karabiner 98k"
+PAP_infantry_equipment_1:0 "카라비너 98k"
+PAP_infantry_equipment_1_short:0 "카라비너 98k"
 PAP_infantry_equipment_2:0 "SME M38"
 PAP_infantry_equipment_2_short:0 "SME M38"
 PAP_infantry_equipment_2_desc:0 "Following the rejection of its 1938 pattern semi-automatic rifle, the CZ company attempted to market the design to a variety of foreign nations. The Two Sicilies tested the rifle and like the Austrians, found the rifle unreliable in harsh conditions and difficult to disassemble, but sought to redesgin the gun to fix its shortcomings. The SME state run electrical compay, which had begun to produce and design small arms only a few years prior, was set to the task. The end result, designated the SME M38 upon adoption, while improved over its Czech predecessor, still bears many of the latter's design quirks."
@@ -7529,7 +7529,7 @@ PAP_infantry_equipment_2_desc:0 "Following the rejection of its 1938 pattern sem
 PAR_infantry_equipment_0:0 "Mauser Modelo 1907"
 PAR_infantry_equipment_0_short:0 "Modelo 1907"
 PAR_infantry_equipment_0_desc:0 "As tensions mounted in the Gran Chaco in the beginning of the 20th century, Bolivia and Paraguay each commenced audacious rearmament campaigns to counter the other. During this period, Paraguay adopted a slightly shortened derivative of the Mauser 1898. This rifle, chambered in 7.65×53mm Mauser, became the backbone of the Paraguayan military until conflict again flared two decades later."
-PAR_infantry_equipment_1:0 "Oviedo Mauser Modelo 1927"
+PAR_infantry_equipment_1:0 "오비에도 마우저 Modelo 1927"
 PAR_infantry_equipment_1_short:0 "Modelo 1927"
 PAR_infantry_equipment_1_desc:0 "In 1927, the Spanish Oviedo company won a contract with the Paraguayan government to produce an updated variant of the Argentinean 1909 Mauser. While the rifle itself is top-of-the-line for its time, providing sufficient ammo to supply the rifles has proven suprisingly difficult for Paraguay."
 
@@ -7630,8 +7630,8 @@ POL_anti_tank_equipment_3:0 "Armata ppanc. 76mm wz. 43"
 
 #Tank
 
-POL_gw_tank_equipment:0 "Renault FT"
-POL_gw_tank_equipment_short:0 "Renault FT"
+POL_gw_tank_equipment:0 "르노 FT"
+POL_gw_tank_equipment_short:0 "르노 FT"
 POL_light_tank_equipment_1:0 "TKS"
 POL_light_tank_equipment_1_short:0 "TKS"
 POL_light_tank_destroyer_equipment_1:0 "TKS-NKM/20 mm"
@@ -7709,8 +7709,8 @@ PRU_infantry_equipment_1_desc:0 "The Fabrique Nationale Model 1935 is a slightly
 
 ### Land ###
 
-QIE_infantry_equipment_0:0 "Hanyang Type 88"
-QIE_infantry_equipment_0_short:0 "Hanyang Type 88"
+QIE_infantry_equipment_0:0 "한양 88식"
+QIE_infantry_equipment_0_short:0 "한양 88식"
 QIE_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unweildy.\n\nThis variety is mainly produced at the Hanyang Arsenal, the model's place of design, though equipment shortages often see it used alongside non-standard weapons."
 QIE_infantry_equipment_1:0 "Hanyang Type 27"
 QIE_infantry_equipment_1_short:0 "Hanyang Type 27"
@@ -7718,10 +7718,10 @@ QIE_infantry_equipment_1_desc:0 "Officially called the 'Xuantong Type 27', this 
 QIE_infantry_equipment_2:0 "Tsingtao MP18"
 QIE_infantry_equipment_2_short:0 "Tsingtao MP18"
 QIE_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into the world market in the early 1920s, the MP18 saw action in China some time before a modified version began production in Tsingtao.\n\nWith changes to the magazine and stock, this particular product of Sino-German cooperation has been copied and sold throughout Northern and Southern China, though primarily to the Qing Government and warlords in coastal areas."
-QIE_infantry_equipment_3:0 "Hanyang Xuantong Type 35"
-QIE_infantry_equipment_3_short:0 "Hanyang Type 35"
+QIE_infantry_equipment_3:0 "한양 선통 35식"
+QIE_infantry_equipment_3_short:0 "한양 35식"
 QIE_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 35 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
-QIE_support_weapons:0 "'Huaning' 7.92mm heavy machine gun & Hanyang-made Stokes mortar"
+QIE_support_weapons:0 "'화녕' 7.92mm 중기관총 & 한양제 스토크스 박격포"
 QIE_support_weapons2:0 "Hanyang 30 festival 7.9mm machine gun & Jingling Xuantong Type 23 82mm mortar"
 QIE_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Jingling Xuantong Type 34 60mm mortar"
 
@@ -7776,10 +7776,10 @@ ROM_EQUIPMENT_VERSION_15:0 "O"
 ROM_EQUIPMENT_VERSION_16:0 "P"
 
 ### Land ###
-ROM_infantry_equipment_0:0 "Mannlicher Model 1895"
-ROM_infantry_equipment_0_short:0 "Mannlicher M1895"
-ROM_infantry_equipment_1:0 "Puška Model 1924"
-ROM_infantry_equipment_1_short:0 "Puška M1924"
+ROM_infantry_equipment_0:0 "만리허 Model 1895"
+ROM_infantry_equipment_0_short:0 "만리허 M1895"
+ROM_infantry_equipment_1:0 "푸슈카 Model 1924"
+ROM_infantry_equipment_1_short:0 "푸슈카 M1924"
 ROM_infantry_equipment_2:0 "Orita Model 1941"
 ROM_infantry_equipment_2_short:0 "Orita M1941"
 ROM_infantry_equipment_3:0 "Orita Carbine"
@@ -7807,7 +7807,7 @@ ROM_mechanized_equipment_2_short:0 "TB Md.1942"
 ROM_mechanized_equipment_3:0 "Transportoare Blindate Md.1944 Malaxa"
 ROM_mechanized_equipment_3_short:0 "TB Md.1944"
 
-ROM_gw_tank_equipment:0 "Renault FT"
+ROM_gw_tank_equipment:0 "르노 FT"
 ROM_gw_tank_equipment_short:0 "FT"
 ROM_light_tank_equipment_1:0 "R-1"
 ROM_light_tank_equipment_1_short:0 "R-1"
@@ -7883,7 +7883,7 @@ RUS_infantry_equipment_1:0 "Avtomaticheskaya Vintovka Simonova obr.1936"
 RUS_infantry_equipment_1_short:0 "AVS-36"
 RUS_infantry_equipment_2:0 "Samozaryadnaya Vintovka Tokareva obr.1938"
 RUS_infantry_equipment_2_short:0 "SVT-38"
-RUS_infantry_equipment_3:0 "Pistolet-Pulemyet Shpagina mod.2"
+RUS_infantry_equipment_3:0 "피스톨레트-풀레묘트 시파기나 mod.2"
 RUS_infantry_equipment_3_short:0 "PPSh-2"
 RUS_infantry_at:0 "PTRS-41"
 RUS_infantry_at2:0 "RPG-42"
@@ -7909,9 +7909,9 @@ RUS_mechanized_equipment_2_short:0 "BA-33"
 RUS_mechanized_equipment_3:0 "Bronevoy Avtomobil AMO-42M"
 RUS_mechanized_equipment_3_short:0 "BA-42M"
 
-RUS_amphibious_mechanized_equipment_1:0 "Plavayushchiy Broneavtomobil mod.5M Transportny" 
+RUS_amphibious_mechanized_equipment_1:0 "플라바유시 브로네압토모빌 mod.5M Transportny" 
 RUS_amphibious_mechanized_equipment_1_short:0 "PB-5MT"
-RUS_amphibious_mechanized_equipment_2:0 "Plavayushchiy Broneavtomobil mod.7 Transportny" 
+RUS_amphibious_mechanized_equipment_2:0 "플라바유시 브로네압토모빌 mod.7 Transportny" 
 RUS_amphibious_mechanized_equipment_2_short:0 "PB-7T"
 
 #Amphibious
@@ -7993,10 +7993,10 @@ RUS_super_heavy_tank_equipment_1_short:0 "T-107"
 ###
 
 ### Land ###
-RWA_infantry_equipment_0:0 "Gewehr 98"
-RWA_infantry_equipment_0_short:0 "Gewehr 98"
-RWA_infantry_equipment_1:0 "Karabiner 98t"
-RWA_infantry_equipment_1_short:0 "Karabiner 98t"
+RWA_infantry_equipment_0:0 "게베어 98"
+RWA_infantry_equipment_0_short:0 "게베어 98"
+RWA_infantry_equipment_1:0 "카라비너 98t"
+RWA_infantry_equipment_1_short:0 "카라비너 98t"
 RWA_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 RWA_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -8041,8 +8041,8 @@ SAF_anti_air_equipment_1:0 "QF 3-inch 20 cwt"
 ### Land ###
 SAR_infantry_equipment_0:0 "Short Model Lee–Enfield MK. III"
 SAR_infantry_equipment_0_short:0 "SMLE MK.3"
-SAR_infantry_equipment_1:0 "Karabiner 98t"
-SAR_infantry_equipment_1_short:0 "Karabiner 98t"
+SAR_infantry_equipment_1:0 "카라비너 98t"
+SAR_infantry_equipment_1_short:0 "카라비너 98t"
 SAR_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 SAR_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -8168,7 +8168,7 @@ SEN_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 SEN_infantry_equipment_0_short:0 "Lebel Mle M93"
 SEN_support_weapons:0 "Darne M1919 & Stokes mortar"
 
-SEN_gw_tank_equipment:0 "Renault FT"
+SEN_gw_tank_equipment:0 "르노 FT"
 SEN_gw_tank_equipment_short:0 "FT"
 
 ###
@@ -8177,26 +8177,26 @@ SEN_gw_tank_equipment_short:0 "FT"
 
 ### Land ###
 
-SER_infantry_equipment_0:0 "Mannlicher 1895"
-SER_infantry_equipment_0_short:0 "Mannlicher 1895"
-SER_infantry_equipment_1:0 "Puška M24"
-SER_infantry_equipment_1_short:0 "Puška M24"
-SER_infantry_equipment_2:0 "Moschetto Automatico Beretta 1938"
+SER_infantry_equipment_0:0 "만리허 1895"
+SER_infantry_equipment_0_short:0 "만리허 1895"
+SER_infantry_equipment_1:0 "푸슈카 M24"
+SER_infantry_equipment_1_short:0 "푸슈카 M24"
+SER_infantry_equipment_2:0 "모스케토 아우토마티코 베레타 1938"
 SER_infantry_equipment_2_short:0 "MAB-38"
-SER_infantry_equipment_3:0 "Pistolet-Pulemyet Shpagina mod.2"
+SER_infantry_equipment_3:0 "피스톨레트-풀레묘트 시파기나 mod.2"
 SER_infantry_equipment_3_short:0 "PPSh-2"
 
 SER_motorized_equipment_1:0 "VTZ YS-4403"
-SER_mechanized_equipment_1:0 "Oklopni Transporter M.38"
+SER_mechanized_equipment_1:0 "병력수송장갑차 M.38"
 SER_mechanized_equipment_1_short:0 "OT M.38"
 SER_mechanized_equipment_2:0 "BTR-42"
 SER_mechanized_equipment_2_short:0 "BTR-42"
 SER_mechanized_equipment_3:0 "BTR-42MT"
 SER_mechanized_equipment_3_short:0 "BTR-42MT"
 
-SER_amphibious_mechanized_equipment_1:0 "Plavayushchiy Broneavtomobil-5M T." 
+SER_amphibious_mechanized_equipment_1:0 "플라바유시 브로네압토모빌-5M T." 
 SER_amphibious_mechanized_equipment_1_short:0 "PB-5MT"
-SER_amphibious_mechanized_equipment_2:0 "Plavayushchiy Broneavtomobil-7 T." 
+SER_amphibious_mechanized_equipment_2:0 "플라바유시 브로네압토모빌-7 T." 
 SER_amphibious_mechanized_equipment_2_short:0 "PB-7T"
 
 #Amphibious
@@ -8204,9 +8204,9 @@ SER_amphibious_tank_equipment_1:0 "T-40"
 SER_amphibious_tank_equipment_2:0 "PT-43"
 
 #Armored Car
-SER_gw_armored_car_equipment:0 "Izhorskiye BA-27"
+SER_gw_armored_car_equipment:0 "이조르스키예 BA-27"
 SER_gw_armored_car_equipment_short:0 "BA-27"
-SER_armored_car_equipment_1:0 "Izhorskiye BA-10"
+SER_armored_car_equipment_1:0 "이조르스키예 BA-10"
 SER_armored_car_equipment_1_short:0 "BA-10"
 SER_armored_car_equipment_2:0 "NAZ BA-64"
 SER_armored_car_equipment_2_short:0 "BA-64"
@@ -8214,11 +8214,11 @@ SER_armored_car_at_equipment:0 "KSP-76"
 SER_armored_car_at_equipment_short:0 "KSP-76"
 
 #Tanks
-SER_gw_tank_equipment:0 "Renault M27"
+SER_gw_tank_equipment:0 "르노 M27"
 SER_gw_tank_equipment_short:0 "M27"
 
-SER_medium_tank_equipment_2:0 "Vozilo A"
-SER_medium_tank_equipment_2_short:0 "Vozilo A"
+SER_medium_tank_equipment_2:0 "보질로 A"
+SER_medium_tank_equipment_2_short:0 "보질로 A"
 SER_medium_tank_equipment_3:0 "M320"
 SER_medium_tank_equipment_3_short:0 "M320"
 
@@ -8263,8 +8263,8 @@ SFR_anti_air_equipment_1:0 "QF 3-inch 20 cwt"
 ### Land ###
 SHA_infantry_equipment_0:0 "Rifle No.1 Mk.III"
 SHA_infantry_equipment_0_short:0 "No.1 Mk.III"
-SHA_infantry_equipment_1:0 "Karabiner 98k"
-SHA_infantry_equipment_1_short:0 "Karabiner 98k"
+SHA_infantry_equipment_1:0 "카라비너 98k"
+SHA_infantry_equipment_1_short:0 "카라비너 98k"
 
 ###
 ### Shanxi ###
@@ -8484,8 +8484,8 @@ SIB_infantry_equipment_1_short:0 "Mosina 1891/1930"
 ### Land ###
 SIC_infantry_equipment_0:0 "Carcano Modello 1891"
 SIC_infantry_equipment_0_short:0 "Carcano M91"
-SIC_infantry_equipment_1:0 "Karabiner 98k"
-SIC_infantry_equipment_1_short:0 "Karabiner 98k"
+SIC_infantry_equipment_1:0 "카라비너 98k"
+SIC_infantry_equipment_1_short:0 "카라비너 98k"
 SIC_infantry_equipment_2:0 "SME M38"
 SIC_infantry_equipment_2_short:0 "SME M38"
 SIC_infantry_equipment_2_desc:0 "Following the rejection of its 1938 pattern semi-automatic rifle, the CZ company attempted to market the design to a variety of foreign nations. The Two Sicilies tested the rifle and like the Austrians, found the rifle unreliable in harsh conditions and difficult to disassemble, but sought to redesgin the gun to fix its shortcomings. The SME state run electrical compay, which had begun to produce and design small arms only a few years prior, was set to the task. The end result, designated the SME M38 upon adoption, while improved over its Czech predecessor, still bears many of the latter's design quirks."
@@ -8499,7 +8499,7 @@ SIE_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 SIE_infantry_equipment_0_short:0 "Lebel Mle M93"
 SIE_support_weapons:0 "Darne M1919 & Stokes mortar"
 
-SIE_gw_tank_equipment:0 "Renault FT"
+SIE_gw_tank_equipment:0 "르노 FT"
 SIE_gw_tank_equipment_short:0 "FT"
 
 ###
@@ -8507,15 +8507,15 @@ SIE_gw_tank_equipment_short:0 "FT"
 ###
 
 ### Land ###
-SIK_infantry_equipment_0:0 "Hanyang Type 88"
-SIK_infantry_equipment_0_short:0 "Hanyang Type 88"
+SIK_infantry_equipment_0:0 "한양 88식"
+SIK_infantry_equipment_0_short:0 "한양 88식"
 SIK_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a close copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unweildy.\n\nThis variety is mainly produced at the Xining Arsenal in Qinghai, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Dadao."
 SIK_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
 SIK_infantry_equipment_1_short:0 "Mosina 1891/1930"
 SIK_infantry_equipment_2:0 "PPSh-41"
 SIK_infantry_equipment_2_short:0 "PPSh-41"
-SIK_infantry_equipment_3:0 "Hanyang Xuantong Type 35"
-SIK_infantry_equipment_3_short:0 "Hanyang Type 35"
+SIK_infantry_equipment_3:0 "한양 선통 35식"
+SIK_infantry_equipment_3_short:0 "한양 35식"
 SIK_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 35 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
 
 ###
@@ -8523,10 +8523,10 @@ SIK_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on 
 ###
 
 ### Land ###
-SLV_infantry_equipment_0:0 "Mannlicher Karabin M.95"
-SLV_infantry_equipment_0_short:0 "Mannlicher M.95"
+SLV_infantry_equipment_0:0 "만리허 카라빈 M.95"
+SLV_infantry_equipment_0_short:0 "만리허 M.95"
 SLV_infantry_equipment_0_desc:0 "The Mannlicher M1895 (German: Infanterie Repetier-Gewehr M.95) was the service rifle of the Austro-Hungarian armed forces during the Weltkrieg. Designed by Ferdinand von Mannlicher, it used a straight-pull bolt-action for increased rate-of-fire compared to its contemporaries, giving it the nickname Ruck-Zuck (German slang for "back and forth") by Austrian troops and "Ta-Pum" by the Italians on the receiving end. The Italian song "Ta pum!" from the Weltkrieg refers to this rifle. Later in the war, most rifles were converted into the short "Stutzen" ("cut-down") configuration."
-SLV_infantry_equipment_1:0 "Mannlicher-FÉG Karabiner M.24"
+SLV_infantry_equipment_1:0 "만리허-FÉG 카라비너 M.24"
 SLV_infantry_equipment_1_short:0 "Karabin M.24"
 SLV_infantry_equipment_1_desc:0 "The Weltkrieg made the M.95's deficiencies all-too obvious, especially its relatively underpowered round-nose cartridge and the required maintenance for the straight-pull action. Steyr developed the 8x56mm "Spitzer" cartridge that would serve as the basis to a new generation of weapons and push the M.95 to its full potential. In the 1924 Rifle Trial, the Hungarian FÉG design based on the Mannlicher-Schönauer's excellent turn-bolt-action won out and was adopted."
 SLV_infantry_equipment_2:0 "ZB samopuneći karabin M.42"
@@ -8682,7 +8682,7 @@ SOV_infantry_equipment_1:0 "Avtomaticheskaya Vintovka Simonova obr.1936"
 SOV_infantry_equipment_1_short:0 "AVS-36"
 SOV_infantry_equipment_2:0 "Samozaryadnaya Vintovka Tokareva obr.1938"
 SOV_infantry_equipment_2_short:0 "SVT-38"
-SOV_infantry_equipment_3:0 "Pistolet-Pulemyet Shpagina mod.2"
+SOV_infantry_equipment_3:0 "피스톨레트-풀레묘트 시파기나 mod.2"
 SOV_infantry_equipment_3_short:0 "PPSh-2"
 SOV_infantry_at:0 "PTRS-41"
 SOV_infantry_at2:0 "RPG-42"
@@ -8714,9 +8714,9 @@ SOV_amphibious_mechanized_equipment_2:0 "MT-LB"
 SOV_amphibious_mechanized_equipment_2_short:0 "MT-LB"
 
 #Armored Car
-SOV_gw_armored_car_equipment:0 "Izhorskiye BA-27"
+SOV_gw_armored_car_equipment:0 "이조르스키예 BA-27"
 SOV_gw_armored_car_equipment_short:0 "BA-27"
-SOV_armored_car_equipment_1:0 "Izhorskiye BA-10"
+SOV_armored_car_equipment_1:0 "이조르스키예 BA-10"
 SOV_armored_car_equipment_1_short:0 "BA-10"
 SOV_armored_car_equipment_2:0 "NAZ BA-64"
 SOV_armored_car_equipment_2_short:0 "BA-64"
@@ -8807,16 +8807,16 @@ SPO_support_weapons:0 "Hotchkiss M1914 MG & Stokes mortar"
 ###
 
 ### Land ###
-SPR_infantry_equipment_0:0 "Oviedo Mauser M1893"
-SPR_infantry_equipment_0_short:0 "Mauser M1893"
-SPR_infantry_equipment_1:0 "Oviedo Mauser M1916"
-SPR_infantry_equipment_1_short:0 "Mauser M1916"
-SPR_infantry_equipment_2:0 "Labora-Fontbernat M1938"
+SPR_infantry_equipment_0:0 "오비에도 마우저 M1893"
+SPR_infantry_equipment_0_short:0 "마우저 M1893"
+SPR_infantry_equipment_1:0 "오비에도 마우저 M1916"
+SPR_infantry_equipment_1_short:0 "마우저 M1916"
+SPR_infantry_equipment_2:0 "라보라-폰트베르나트 M1938"
 SPR_infantry_equipment_2_short:0 "LF M1938"
 SPR_infantry_equipment_3:0 "Fabrique Nationale Modelo 1943"
 SPR_infantry_equipment_3_short:0 "FN-43"
 
-SPR_gw_tank_equipment:0 "Renault FT"
+SPR_gw_tank_equipment:0 "르노 FT"
 SPR_gw_tank_equipment_short:0 "FT"
 SPR_light_tank_equipment_1:0 "Tipo 1933"
 SPR_light_tank_equipment_1_short:0 "T-33"
@@ -8840,7 +8840,7 @@ SQI_infantry_equipment_1:0 "제남 26식"
 SQI_infantry_equipment_1_short:0 "제남 26식"
 SQI_infantry_equipment_1_desc:0 "원래 '선통 27식'으로 불리던 이 소총은 청 제국의 부활 후 1935년의 독일 원조를 통해 들어왔습니다. 이 무기는 독일의 마우저 M1924에 근접한 복제품으로, 훨씬 오래된 88식과 비교해 무게와 반동 부분에서 상당히 개선된 모습을 보여줍니다.\n\n첫 생산은 한양 조병창에서 독일제 공구를 이용해 생산되었는데, 아마 이를 완벽히 대체하진 못하더라도 생산 방법은 이미 지난까지 널리 퍼졌습니다."
 SQI_infantry_equipment_2:0 "태원조병창 선통 20식 “자래득”" #OTL Chinese copy of Astra Model 900
-SQI_infantry_equipment_2_short:0 " 자래득"
+SQI_infantry_equipment_2_short:0 "자래득"
 SQI_infantry_equipment_2_desc:2 "An improvement to the original Mauser C96 Design, the M1932 Schnellfeuer (Rapid Fire), or as known as 'Zilaide' in Chinese was a very successful design with detachable magazine-fed and select-fire capability.\n\nFurther improvement in the later versions included a detachable barrel, improved front and rear sights, more durable parts to prevent breakage under sustained fire and lowered position of the shoulder stock to avoid 'hammer bite'."
 SQI_infantry_equipment_3:0 "한양 선통 35식"
 SQI_infantry_equipment_3_short:0 "한양 35식"
@@ -8870,7 +8870,7 @@ SRD_mechanized_equipment_1_short:0 "Citroen P107"
 SRD_gw_armored_car_equipment:0 "Laffly S15"
 SRD_gw_armored_car_equipment_short:0 "S15"
 
-SRD_gw_tank_equipment:0 "Renault FT"
+SRD_gw_tank_equipment:0 "르노 FT"
 SRD_gw_tank_equipment_short:0 "FT"
 
 ###
@@ -8990,16 +8990,16 @@ SRI_modern_tank_equipment_1_short:0 "M31/45"
 ### Land ###
 SUD_infantry_equipment_0:0 "Short Model Lee–Enfield MK. I"
 SUD_infantry_equipment_0_short:0 "SMLE MK. 1"
-SUD_infantry_equipment_1:0 "Karabiner 98k"
-SUD_infantry_equipment_1_short:0 "Karabiner 98k"
+SUD_infantry_equipment_1:0 "카라비너 98k"
+SUD_infantry_equipment_1_short:0 "카라비너 98k"
 
 ###
 ### Suriname ###
 ###
 
 ### Land ###
-SUR_infantry_equipment_0:0 "Mannlicher Geweer M.95"
-SUR_infantry_equipment_0_short:0 "Mannlicher M95"
+SUR_infantry_equipment_0:0 "만리허 헤베이르 M.95"
+SUR_infantry_equipment_0_short:0 "만리허 M95"
 SUR_infantry_equipment_1:0 "Karabijn No.5 M.95"
 SUR_infantry_equipment_1_short:0 "Karabijn M95"
 SUR_infantry_equipment_2:0 "Johnson Automatisch Geweer M1941"
@@ -9068,10 +9068,10 @@ SUR_light_tank_aa_equipment_3_desc:0 "An anti-air cannon mounted on the chassis 
 
 ### Land ###
 
-SLO_infantry_equipment_0:0 "Puška uříznutá vzor 95"
-SLO_infantry_equipment_0_short:0 "Mannlicher vz. 95"
+SLO_infantry_equipment_0:0 "푸슈카 uříznutá vzor 95"
+SLO_infantry_equipment_0_short:0 "만리허 vz. 95"
 SLO_infantry_equipment_0_desc:0 "The Mannlicher M1895 (German: Infanterie Repetier-Gewehr M.95) was the service rifle of the Austro-Hungarian armed forces during the Weltkrieg. Designed by Ferdinand von Mannlicher, it used a straight-pull bolt-action for increased rate-of-fire compared to its contemporaries, giving it the nickname Ruck-Zuck (German slang for "back and forth") by Austrian troops and "Ta-Pum" by the Italians on the receiving end. The Italian song "Ta pum!" from the Weltkrieg refers to this rifle. Later in the war, most rifles were converted into the short "Stutzen" ("cut-down") configuration."
-SLO_infantry_equipment_1:0 "Mannlicher-FÉG Karabina vzor 24"
+SLO_infantry_equipment_1:0 "만리허-FÉG Karabina vzor 24"
 SLO_infantry_equipment_1_short:0 "Karabina vz. 24"
 SLO_infantry_equipment_1_desc:0 "The Weltkrieg made the M.95's deficiencies all-too obvious, especially its relatively underpowered round-nose cartridge and the required maintenance for the straight-pull action. Steyr developed the 8x56mm "Spitzer" cartridge that would serve as the basis to a new generation of weapons and push the M.95 to its full potential. In the 1924 Rifle Trial, the Hungarian FÉG design based on the Mannlicher-Schönauer's excellent turn-bolt-action won out and was adopted."
 SLO_infantry_equipment_2:0 "ZB Samonabíjecí Karabina vzor 42"
@@ -9361,15 +9361,15 @@ SZC_support_weapons3:0 "선통 27식 중기관총 & 사천 선통 34식 60mm 박
 ###
 
 ### Land ###
-TAN_infantry_equipment_0:0 "Hanyang Type 88"
-TAN_infantry_equipment_0_short:0 "Hanyang Type 88"
+TAN_infantry_equipment_0:0 "한양 88식"
+TAN_infantry_equipment_0_short:0 "한양 88식"
 TAN_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a close copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unweildy.\n\nThis variety is mainly produced at the Xining Arsenal in Qinghai, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Dadao."
 TAN_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
 TAN_infantry_equipment_1_short:0 "Mosina 1891/1930"
 TAN_infantry_equipment_2:0 "PPSh-41"
 TAN_infantry_equipment_2_short:0 "PPSh-41"
-TAN_infantry_equipment_3:0 "Hanyang Xuantong Type 35"
-TAN_infantry_equipment_3_short:0 "Hanyang Type 35"
+TAN_infantry_equipment_3:0 "한양 선통 35식"
+TAN_infantry_equipment_3_short:0 "한양 35식"
 TAN_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 35 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
 
 ###
@@ -9565,10 +9565,10 @@ TIB_infantry_equipment_1_desc:0 "In response to several commercially successful 
 ###
 
 ### Land ###
-TZN_infantry_equipment_0:0 "Gewehr 98"
-TZN_infantry_equipment_0_short:0 "Gewehr 98"
-TZN_infantry_equipment_1:0 "Karabiner 98t"
-TZN_infantry_equipment_1_short:0 "Karabiner 98t"
+TZN_infantry_equipment_0:0 "게베어 98"
+TZN_infantry_equipment_0_short:0 "게베어 98"
+TZN_infantry_equipment_1:0 "카라비너 98t"
+TZN_infantry_equipment_1_short:0 "카라비너 98t"
 TZN_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 TZN_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -9579,10 +9579,10 @@ TZN_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
 ###
 
 ### Land ###
-TOG_infantry_equipment_0:0 "Gewehr 98"
-TOG_infantry_equipment_0_short:0 "Gewehr 98"
-TOG_infantry_equipment_1:0 "Karabiner 98t"
-TOG_infantry_equipment_1_short:0 "Karabiner 98t"
+TOG_infantry_equipment_0:0 "게베어 98"
+TOG_infantry_equipment_0_short:0 "게베어 98"
+TOG_infantry_equipment_1:0 "카라비너 98t"
+TOG_infantry_equipment_1_short:0 "카라비너 98t"
 TOG_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 TOG_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -9715,7 +9715,7 @@ TRM_infantry_equipment_0_short:0 "Mosina 1891"
 TRM_infantry_equipment_1:0 "Arisaka Type 99"
 TRM_infantry_equipment_1_short:0 "Type 99"
 
-TRM_gw_tank_equipment:0 "Renault FT"
+TRM_gw_tank_equipment:0 "르노 FT"
 TRM_gw_tank_equipment_short:0 "FT"
 
 ###
@@ -9727,9 +9727,9 @@ TRM_gw_tank_equipment_short:0 "FT"
 #Infantry Equip
 
 TRS_infantry_equipment_0:0 "Repetier-Stutzen M.95"
-TRS_infantry_equipment_0_short:0 "Mannlicher M.95"
+TRS_infantry_equipment_0_short:0 "만리허 M.95"
 TRS_infantry_equipment_0_desc:0 "The Mannlicher M1895 (German: Infanterie Repetier-Gewehr M.95) was the service rifle of the Austro-Hungarian armed forces during the Weltkrieg. Designed by Ferdinand von Mannlicher, it used a straight-pull bolt-action for increased rate-of-fire compared to its contemporaries, giving it the nickname Ruck-Zuck (German slang for "back and forth") by Austrian troops and "Ta-Pum" by the Italians on the receiving end. The Italian song "Ta pum!" from the Weltkrieg refers to this rifle. Later in the war, most rifles were converted into the short "Stutzen" ("cut-down") configuration."
-TRS_infantry_equipment_1:0 "Mannlicher-FÉG Karabiner M.24"
+TRS_infantry_equipment_1:0 "만리허-FÉG 카라비너 M.24"
 TRS_infantry_equipment_1_short:0 "Kar M.24"
 TRS_infantry_equipment_1_desc:0 "The Weltkrieg made the M.95's deficiencies all-too obvious, especially its relatively underpowered round-nose cartridge and the required maintenance for the straight-pull action. Steyr developed the 8x56mm "Spitzer" cartridge that would serve as the basis to a new generation of weapons and push the M.95 to its full potential. In the 1924 Rifle Trial, the Hungarian FÉG design based on the Mannlicher-Schönauer's excellent turn-bolt-action won out and was adopted."
 TRS_infantry_equipment_2:0 "ZB Selbstladekarabiner M.42"
@@ -9857,8 +9857,8 @@ TRS_amphibious_tank_equipment_2_short:0 "Leták"
 ### Land ###
 TRV_infantry_equipment_0:0 "Rifle No.1 Mk.III"
 TRV_infantry_equipment_0_short:0 "No.1 Mk.III"
-TRV_infantry_equipment_1:0 "Karabiner 98k"
-TRV_infantry_equipment_1_short:0 "Karabiner 98k"
+TRV_infantry_equipment_1:0 "카라비너 98k"
+TRV_infantry_equipment_1_short:0 "카라비너 98k"
 
 ###
 ### Tuareg Confederation ###
@@ -9869,7 +9869,7 @@ TUA_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 TUA_infantry_equipment_0_short:0 "Lebel Mle M93"
 TUA_support_weapons:0 "Darne M1919 & Stokes mortar"
 
-TUA_gw_tank_equipment:0 "Renault FT"
+TUA_gw_tank_equipment:0 "르노 FT"
 TUA_gw_tank_equipment_short:0 "FT"
 
 ###
@@ -9881,7 +9881,7 @@ TUN_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 TUN_infantry_equipment_0_short:0 "Lebel Mle M93"
 TUN_support_weapons:0 "Darne M1919 & Stokes mortar"
 
-TUN_gw_tank_equipment:0 "Renault FT"
+TUN_gw_tank_equipment:0 "르노 FT"
 TUN_gw_tank_equipment_short:0 "FT"
 
 ###
@@ -9917,8 +9917,8 @@ TUR_infantry_equipment_3_short:0 "YDR-64"
 ### Land ###
 UGA_infantry_equipment_0:0 "Short Model Lee–Enfield MK. I"
 UGA_infantry_equipment_0_short:0 "SMLE MK. 1"
-UGA_infantry_equipment_1:0 "Karabiner 98t"
-UGA_infantry_equipment_1_short:0 "Karabiner 98t"
+UGA_infantry_equipment_1:0 "카라비너 98t"
+UGA_infantry_equipment_1_short:0 "카라비너 98t"
 UGA_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 UGA_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -9931,15 +9931,15 @@ UGA_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
 ### Land ###
 UKR_infantry_equipment_0:0 "Vintovka Mosina obr.1891"
 UKR_infantry_equipment_0_short:0 "Mosina 1891"
-UKR_infantry_equipment_1:0 "Karabiner 98k"
-UKR_infantry_equipment_1_short:0 "Karabiner 98k"
+UKR_infantry_equipment_1:0 "카라비너 98k"
+UKR_infantry_equipment_1_short:0 "카라비너 98k"
 UKR_infantry_equipment_2:0 "Selbstladegewehr 40"
 UKR_infantry_equipment_2_short:0 "Selbstlader 40"
 UKR_infantry_equipment_2_desc:0 "Designed by the Mauser company in response to a German Army desire for a self-loading rifle with a backup bolt action, the Selbstladegewehr 40 was a massive leap forward in German small arms design. While initial prototypes were highly inaccurate, heavy, and prone to jamming, the German army eventually dropped some its other specific requirements for the rifle, and the end result, the predecessor the rifle that would ultimately be adopted, proved effective."
 UKR_infantry_equipment_3:0 "Maschinenkarabiner 42"
 UKR_infantry_equipment_3_short:0 "MKb 42"
 UKR_infantry_equipment_3_desc:0 "The MKb 42 is a revolutionary design chambered for a new intermediate cartridge, developed by famous German arms designer Hugo Schmeisser in conjunction with the Haenel company. While the first prototype of the rifle was prone to jamming, both the military and even the Kaiser himself were extremely enthusiastic about the project and immense resources were concentrated on improving the design, with the rifle deemed ready for adoption in 1942."
-UKR_infantry_at:0 "Panzerfaust 30"
+UKR_infantry_at:0 "판처파우스트 30"
 UKR_infantry_at2:0 "Raketenpanzerbüchse"
 UKR_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
 UKR_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
@@ -10005,8 +10005,8 @@ UKR_modern_tank_equipment_1_short:0 "MP-I Horlytsia"
 ### Land ###
 ULS_infantry_equipment_0:0 "Rifle No.1 Mk.III"
 ULS_infantry_equipment_0_short:0 "No.1 Mk.III"
-ULS_infantry_equipment_1:0 "Karabiner 98k"
-ULS_infantry_equipment_1_short:0 "Karabiner 98k"
+ULS_infantry_equipment_1:0 "카라비너 98k"
+ULS_infantry_equipment_1_short:0 "카라비너 98k"
 
 ULS_artillery_equipment_1:0 "QF 18-pounder"
 ULS_artillery_equipment_1_short:0 "QF 18-pounder"
@@ -10205,18 +10205,18 @@ USA_modern_tank_equipment_1_desc:0 "M26 '퍼싱' 전차의 소형 파생형인 M
 VIN_infantry_equipment_0:0 "Le fusil Mle 1902 Indochinois"
 VIN_infantry_equipment_0_short:0 "Mle 1902 Indochinois"
 VIN_infantry_equipment_0_desc:0 "Lighter and easier to handle and load than the Mle 1886/M93 Lebel rifle, the Berthier fusil Mle 1902 'Indochinois' rifles proved more suitable for offhand shooting and easier to maintain in tropical environments, and saw its use in Indochina."
-VIN_infantry_equipment_1:0 "Karabiner 98t"
-VIN_infantry_equipment_1_short:0 "Karabiner 98t"
+VIN_infantry_equipment_1:0 "카라비너 98t"
+VIN_infantry_equipment_1_short:0 "카라비너 98t"
 
 ###
 ### Namibland ###
 ###
 
 ### Land ###
-NBL_infantry_equipment_0:0 "Gewehr 98"
-NBL_infantry_equipment_0_short:0 "Gewehr 98"
-NBL_infantry_equipment_1:0 "Karabiner 98t"
-NBL_infantry_equipment_1_short:0 "Karabiner 98t"
+NBL_infantry_equipment_0:0 "게베어 98"
+NBL_infantry_equipment_0_short:0 "게베어 98"
+NBL_infantry_equipment_1:0 "카라비너 98t"
+NBL_infantry_equipment_1_short:0 "카라비너 98t"
 NBL_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 NBL_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
@@ -10254,7 +10254,7 @@ WAD_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 WAD_infantry_equipment_0_short:0 "Lebel Mle M93"
 WAD_support_weapons:0 "Darne M1919 & Stokes mortar"
 
-WAD_gw_tank_equipment:0 "Renault FT"
+WAD_gw_tank_equipment:0 "르노 FT"
 WAD_gw_tank_equipment_short:0 "FT"
 
 ###
@@ -10372,15 +10372,15 @@ WLS_modern_tank_equipment_1_short:0 "Universal Mk.I"
 ### Land ###
 WHR_infantry_equipment_0:0 "Vintovka Mosina obr.1891"
 WHR_infantry_equipment_0_short:0 "Mosina 1891"
-WHR_infantry_equipment_1:0 "Karabiner 98k"
-WHR_infantry_equipment_1_short:0 "Karabiner 98k"
+WHR_infantry_equipment_1:0 "카라비너 98k"
+WHR_infantry_equipment_1_short:0 "카라비너 98k"
 WHR_infantry_equipment_2:0 "Selbstladegewehr 40"
 WHR_infantry_equipment_2_short:0 "Selbstlader 40"
 WHR_infantry_equipment_2_desc:0 "Designed by the Mauser company in response to a German Army desire for a self-loading rifle with a backup bolt action, the Selbstladegewehr 40 was a massive leap forward in German small arms design. While initial prototypes were highly inaccurate, heavy, and prone to jamming, the German army eventually dropped some its other specific requirements for the rifle, and the end result, the predecessor the rifle that would ultimately be adopted, proved effective."
 WHR_infantry_equipment_3:0 "Maschinenkarabiner 42"
 WHR_infantry_equipment_3_short:0 "MKb 42"
 WHR_infantry_equipment_3_desc:0 "The MKb 42 is a revolutionary design chambered for a new intermediate cartridge, developed by famous German arms designer Hugo Schmeisser in conjunction with the Haenel company. While the first prototype of the rifle was prone to jamming, both the military and even the Kaiser himself were extremely enthusiastic about the project and immense resources were concentrated on improving the design, with the rifle deemed ready for adoption in 1942."
-WHR_infantry_at:0 "Panzerfaust 30"
+WHR_infantry_at:0 "판처파우스트 30"
 WHR_infantry_at2:0 "Raketenpanzerbüchse"
 WHR_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
 WHR_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
@@ -10584,10 +10584,10 @@ XSM_infantry_equipment_1_desc:0 "Originally called the 'Xuantong Type 27', this 
 XSM_infantry_equipment_2:0 "Tsingtao MP18"
 XSM_infantry_equipment_2_short:0 "Tsingtao MP18"
 XSM_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into the world market in the early 1920s, the MP18 saw action in China some time before a modified version began production in Tsingtao.\n\nWith changes to the magazine and stock, this particular product of Sino-German cooperation has been copied and sold throughout Northern and Southern China, though primarily to the Qing Government."
-XSM_infantry_equipment_3:0 "Hanyang Xuantong Type 35"
-XSM_infantry_equipment_3_short:0 "Hanyang Type 35"
+XSM_infantry_equipment_3:0 "한양 선통 35식"
+XSM_infantry_equipment_3_short:0 "한양 35식"
 XSM_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 35 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
-XSM_support_weapons:0 "'Huaning' 7.92mm heavy machine gun & Hanyang-made Stokes mortar"
+XSM_support_weapons:0 "'화녕' 7.92mm 중기관총 & 한양제 스토크스 박격포"
 XSM_support_weapons2:0 "Hanyang 30 festival 7.9mm machine gun 'Old yellow ox' & Jingling Xuantong Type 23 82mm mortar"
 XSM_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Jingling Xuantong Type 34 60mm mortar"
 
@@ -10639,8 +10639,8 @@ YUN_infantry_equipment_3_desc:0 "The Type 33 is a semi-automatic rifle based on 
 ### Land ###
 ZAM_infantry_equipment_0:0 "Short Model Lee–Enfield MK. I"
 ZAM_infantry_equipment_0_short:0 "SMLE MK. 1"
-ZAM_infantry_equipment_1:0 "Karabiner 98t"
-ZAM_infantry_equipment_1_short:0 "Karabiner 98t"
+ZAM_infantry_equipment_1:0 "카라비너 98t"
+ZAM_infantry_equipment_1_short:0 "카라비너 98t"
 ZAM_infantry_equipment_1_desc:0 "Rather than adopting a new rifle, the modified version of the existing Karabiner 98AZ from the Weltkrieg is adopted in order to save money by the colonial government. The \"t\" stands for \"tropen\", meaning \"tropics\". The rifle's total length is shortened to 1000mm, its weight reduced to 3.2kg, and equipped with a shorter sight (100 to 1000m rather than 2000m) to be more suitable for jungle warfare in general which fights at a closer distance."
 
 ZAM_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
