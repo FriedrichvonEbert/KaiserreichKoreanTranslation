@@ -38,8 +38,8 @@ AUS_united_states_tooltip:0 ""대 오스트리아 합중국"이 수립될 것입
 AUS_dualism_restored_tooltip:0 "헝가리는 통합될 것이고, 오스트리아-헝가리 제국이 재결성될 것입니다. \n\n"
 
 ITA_bruh_why:0 "공화국이 우리의 외교적 접근을 거부함"
-sicilian_reengage:0 "이탈리아의 연방주의자들을 지지했습니다"
-sicilian_disengage:0 "이탈리아의 공화주의자들을 지지했습니다"
+sicilian_reengage:0 "이탈리아의 연방주의자들을 지지함"
+sicilian_disengage:0 "이탈리아의 공화주의자들을 지지함"
 
 AUS_treaty_of_budapest:0 "Austria has been defeated by the Belgrade Pact"
 
@@ -293,7 +293,7 @@ AUS_auftragstaktik_desc:0 "임무 형태의 전술(Auftragstaktik)은 세계대�
 AUS_aviation_effort:0 "K.u.K. 루프트바펜"
 AUS_aviation_effort_desc:0 "이전에 K.U.k. 루프트바펜(Luftfahrtruppen)으로 알려진, 플리거크룹(Fliegerkorps)은 오스트리아-헝가리의 공군입니다. 이는 세계대전 기간 동안 얇게 뻗어있었으며 제한된 수의 항공기를 가지고 있었습니다. 전쟁이 끝난 후, 자금이 부족해짐에 따라, 이것을 바로잡기 위해 행해진 것은 거의 없었습니다. 군대가 다시 한번 상당한 자금을 지원받음으로써, 마침내 플리거크룹의 현대화와 확장이 가능하게 되었습니다."
 
-AUS_uzelac-plan:0 "우즈락의 지상 지원 계획"
+AUS_uzelac-plan:0 "우즈락의 지상지원 계획"
 AUS_uzelac-plan_desc:0 "밀란 에밀 우즈락은 루프트바펜(Luftfahrtruppen)의 초대 사령관이며, 총 참모진과 플리거크룹(Fliegerkorps) 내에서도 여전히 영향력이 있습니다. 그는 플리거크룹이 주로 군대의 작전 지원을 위해 존재한다고 믿고 있습니다. 그러므로, 공군은 공군 우위 유지를 위해 전투기들과 전방의 적진을 공격하기 위한 경량 폭격기에 초점을 맞추어야 합니다."
 
 AUS_loehr-plan:0 "뢰어의 공격적인 공중 계획"
@@ -800,7 +800,7 @@ ausgleich.new.321.d:0 "우리 대표단은 비엔나와 우리의 간격을 좁�
 ausgleich.new.321.a:0 "좋아."
 
 #WIP
-ausgleich.new.322.t:0 "오스트리아가 보상에 동의하다"
+ausgleich.new.322.t:0 "오스트리아의 보상 동의"
 ausgleich.new.322.d:0 "우리는 우리의 일리리아 상실에 대한 배상 지급 협상을 성공적으로 마쳤습니다."
 ausgleich.new.322.a:0 "요구를 보내자."
 
@@ -810,19 +810,19 @@ ausgleich.new.323.d:0 "헝가리가 우리의 배상 제안을 받아들였습�
 ausgleich.new.323.a:0 "그것이 필요한 거라면."
 
 #WIP
-ausgleich.new.324.t:0 "[From.GetName]가 배상 지불에 동의했다"
-ausgleich.new.324.d:0 "[From.GetName]가 배상 지불에 동의했다"
+ausgleich.new.324.t:0 "[From.GetName]의 배상 지불 동의"
+ausgleich.new.324.d:0 "[From.GetName]의 배상 지불 동의"
 ausgleich.new.324.a:0 "좋군."
 
 #WIP
-ausgleich.new.325.t:0 "헝가리가 보상을 요구하다"
-ausgleich.new.325.d:0 "헝가리가 보상을 요구하다"
+ausgleich.new.325.t:0 "헝가리의 보상 요구"
+ausgleich.new.325.d:0 "헝가리의 보상 요구"
 ausgleich.new.325.a:0 "잠깐, 뭐라고?"
 ausgleich.new.325.b:0 "그렇게 결정되었다면..."
 
 #WIP
-ausgleich.new.326.t:0 "일리리아가 보상을 거절하다"
-ausgleich.new.326.d:0 "일리리아가 보상을 거절하다"
+ausgleich.new.326.t:0 "일리리아의 보상 거절"
+ausgleich.new.326.d:0 "일리리아의 보상 거절"
 ausgleich.new.326.a:0 "좋아, 발칸에서 전쟁을 시작해 보자고. 뭐 잘못되겠어?"
 ausgleich.new.326.b:0 "아직 시기상조다."
 
@@ -850,17 +850,17 @@ ausgleich.new.330.b:0 "크로아티아와 슬라보니아를 헝가리에 주고
 ausgleich.new.330.c:0 "점령 상태를 유지하자."
 
 
-annexation_CRO_AUS_CONQ:0 "오스트리아와 헝가리가 옛 일리리아를 분할하다"
+annexation_CRO_AUS_CONQ:0 "오스트리아와 헝가리의 옛 일리리아 분할"
 annexation_CRO_AUS_CONQ_desc:0 "점령한 일리리아 땅을 어찌 할지 결정해야만 합니다."
 
 #WIP
-ausgleich.new.331.t:0 "오스트리아가 일리리아 전역을 점령하다"
+ausgleich.new.331.t:0 "오스트리아의 일리리아 전역 점령"
 ausgleich.new.331.d:0 "오스트리아가 그들의 약속을 깨뜨렸습니다. 어떻게 해야 할까요?"
 ausgleich.new.331.a:0 "그들은 대가를 치를 것이다."
 ausgleich.new.331.b:0 "우리가 할수 있는건 없다."
 
 #WIP
-ausgleich.new.332.t:0 "대타협 대표단이 돌아오다"
+ausgleich.new.332.t:0 "돌아온 대타협 대표단"
 ausgleich.new.332.d_no_claims:0 "대타협 재협상의 우리 대표단이 오늘 프라하로 돌아왔습니다. 큰 외교적 진전은 이뤄지지 않았지만, 적어도 우리는 비엔나와 한발 가까워졌습니다."
 ausgleich.new.332.d_claims:0 ""
 ausgleich.new.332.a:0 "그들에게 귀중한 교훈을 주었을 것이다."
@@ -887,8 +887,8 @@ ausgleich.new.341.a:0 "동의한다. 헝가리는 분쟁 지역에서 군을 철
 ausgleich.new.341.b:0 "헝가리 문제에 개입할 수는 없다."
 
 #WIP
-ausgleich.new.342.t:0 "오스트리아가 [AUS_ausgleich_demonstrations_cities]에서의 철수를 요구하다"
-ausgleich.new.342.d:0 "오스트리아는 우리 행정기관과 무장병력이 [AUS_ausgleich_demonstrations_cities]를 철수할 것을 요구했습니다."
+ausgleich.new.342.t:0 "[AUS_ausgleich_demonstrations_cities]에서의 철수를 요구한 오스트리아"
+ausgleich.new.342.d:0 "오스트리아는 우리 행정기관과 무장병력이 [AUS_ausgleich_demonstrations_cities]에서 철수할 것을 요구했습니다."
 ausgleich.new.342.a:0 "시키는 대로 하자."
 ausgleich.new.342.b:0 "안돼!"
 
@@ -950,11 +950,11 @@ ausgleich.new.700.a:0 "빈에 대항해 우리가 할 수 있는 게 뭐지?"
 ausgleich.new.700.b:0 "싫은데."
 ausgleich.new.700.c:0 "우리가 반기를 들었던 자들이 아닌가?"
 
-ausgleich.new.701.t:0 "[From.GetNameDefCap](이)가 재통합에 동의하다"
+ausgleich.new.701.t:0 "[From.GetNameDefCap]의 재통합 동의"
 ausgleich.new.701.d:0 "[From.GetAdjective] 정부는 보다 중앙집권적인 국가의 성립에 동의했습니다."
 ausgleich.new.701.a:0 "좋아."
 
-ausgleich.new.702.t:0 "[From.GetNameDefCap](이)가 헝가리를 침공하다!"
+ausgleich.new.702.t:0 "[From.GetNameDefCap]의 헝가리 침공!"
 ausgleich.new.702.d:0 "[FROM.GetNameDef]의, 남의 불행을 이용해 먹는 자들은 헝가리 왕국을 침공함으로써 내부 문제를 해결하기로 결정했습니다. 비록 그들은 현재 반란을 겪고 있지만, 헝가리는 합스부르크 제국의 핵심 지역 중 하나입니다. 그들은 피에 굶주린 주변의 이웃들로부터 보호받아야 합니다. 우리는 이미 마자르 반란을 진압하는데 급급해 있지만, 이웃들의 침략은 군주제 자체에 대한 공격임이 분명합니다."
 ausgleich.new.702.a:0 "우리 영토의 통합은 반드시 수호되어야 한다!"
 ausgleich.new.702.b:0 "우리는 아무것도 할 수 없다..."
@@ -996,7 +996,7 @@ ausgleich.new.803.d.germany.poland:0 "Delegates from [Root.GetNameDef] met with 
 ausgleich.new.803.a:0 "위대한 승리다!"
 ausgleich.new.803.b:0 "One last step towards victory."
 
-ausgleich.new.804.t:0 "[FROM.GetNameDefCap](이)가 평화를 거절하다"
+ausgleich.new.804.t:0 "[FROM.GetNameDefCap]의 평화 거절"
 ausgleich.new.804.d:0 "우리가 [FROM.GetNameDef]에게 한 평화 제안이 거부되었습니다. 전쟁은 한쪽이 무조건 항복할 때까지 계속될 것입니다. 이 무자비한 전쟁을 끝내려면 더 많은 피가 흘러야 할 것입니다."
 ausgleich.new.804.a:0 "그럼 끝까지 싸우도록 하지."
 
