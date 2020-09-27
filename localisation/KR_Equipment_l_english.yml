@@ -8177,26 +8177,26 @@ SEN_gw_tank_equipment_short:0 "FT"
 
 ### Land ###
 
-SER_infantry_equipment_0:0 "Mannlicher 1895"
-SER_infantry_equipment_0_short:0 "Mannlicher 1895"
-SER_infantry_equipment_1:0 "Puška M24"
-SER_infantry_equipment_1_short:0 "Puška M24"
-SER_infantry_equipment_2:0 "Moschetto Automatico Beretta 1938"
+SER_infantry_equipment_0:0 "만리허 1895"
+SER_infantry_equipment_0_short:0 "만리허 1895"
+SER_infantry_equipment_1:0 "푸슈카 M24"
+SER_infantry_equipment_1_short:0 "푸슈카 M24"
+SER_infantry_equipment_2:0 "모스케토 아우토마티코 베레타 1938"
 SER_infantry_equipment_2_short:0 "MAB-38"
-SER_infantry_equipment_3:0 "Pistolet-Pulemyet Shpagina mod.2"
+SER_infantry_equipment_3:0 "피스톨렛-풀레몌트 슈파기나 mod.2"
 SER_infantry_equipment_3_short:0 "PPSh-2"
 
 SER_motorized_equipment_1:0 "VTZ YS-4403"
-SER_mechanized_equipment_1:0 "Oklopni Transporter M.38"
+SER_mechanized_equipment_1:0 "병력수송장갑차 M.38"
 SER_mechanized_equipment_1_short:0 "OT M.38"
 SER_mechanized_equipment_2:0 "BTR-42"
 SER_mechanized_equipment_2_short:0 "BTR-42"
 SER_mechanized_equipment_3:0 "BTR-42MT"
 SER_mechanized_equipment_3_short:0 "BTR-42MT"
 
-SER_amphibious_mechanized_equipment_1:0 "Plavayushchiy Broneavtomobil-5M T." 
+SER_amphibious_mechanized_equipment_1:0 "수륙양용장갑차-5M T." 
 SER_amphibious_mechanized_equipment_1_short:0 "PB-5MT"
-SER_amphibious_mechanized_equipment_2:0 "Plavayushchiy Broneavtomobil-7 T." 
+SER_amphibious_mechanized_equipment_2:0 "수륙양용장갑차-7 T." 
 SER_amphibious_mechanized_equipment_2_short:0 "PB-7T"
 
 #Amphibious
@@ -8204,9 +8204,9 @@ SER_amphibious_tank_equipment_1:0 "T-40"
 SER_amphibious_tank_equipment_2:0 "PT-43"
 
 #Armored Car
-SER_gw_armored_car_equipment:0 "Izhorskiye BA-27"
+SER_gw_armored_car_equipment:0 "이조르스키예 BA-27"
 SER_gw_armored_car_equipment_short:0 "BA-27"
-SER_armored_car_equipment_1:0 "Izhorskiye BA-10"
+SER_armored_car_equipment_1:0 "이조르스키예 BA-10"
 SER_armored_car_equipment_1_short:0 "BA-10"
 SER_armored_car_equipment_2:0 "NAZ BA-64"
 SER_armored_car_equipment_2_short:0 "BA-64"
@@ -8214,11 +8214,11 @@ SER_armored_car_at_equipment:0 "KSP-76"
 SER_armored_car_at_equipment_short:0 "KSP-76"
 
 #Tanks
-SER_gw_tank_equipment:0 "Renault M27"
+SER_gw_tank_equipment:0 "르노 M27"
 SER_gw_tank_equipment_short:0 "M27"
 
-SER_medium_tank_equipment_2:0 "Vozilo A"
-SER_medium_tank_equipment_2_short:0 "Vozilo A"
+SER_medium_tank_equipment_2:0 "보질로 A"
+SER_medium_tank_equipment_2_short:0 "보질로 A"
 SER_medium_tank_equipment_3:0 "M320"
 SER_medium_tank_equipment_3_short:0 "M320"
 
