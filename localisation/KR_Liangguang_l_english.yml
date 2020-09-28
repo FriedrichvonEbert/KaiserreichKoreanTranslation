@@ -75,8 +75,8 @@ GXC_JAP_alliance:0 "우리는 일본과 제휴함"
 NGxC_returns_tt:0 "Generals §HLi Zongren§!, §HBai Chongxi§!, and §HYu Zuobai§! rejoin the National Revolutionary Army!"
 Federalists_arrive_SZC_tt:0 "Generals §HLin Hu§!, §HHong Zhaolin§!, §HYe Ju§!, as well as §HChen Jiongming§! himself, will join the Sichuanese Army!"
 GXC_tang_betrays_federalism_tt:0 "This will fracture the Federalist movement beyond repair!"
-UPC_tang_is_a_traitor_tt:0 "탕지야오가 연성자치운동을 배반하다"
-UPC_tang_still_federalist_tt:0 "탕지야오가 연성주의자들에게 충직한 채로 남다"
+UPC_tang_is_a_traitor_tt:0 "탕지야오가 연성자치운동을 배반함"
+UPC_tang_still_federalist_tt:0 "탕지야오가 연성주의자들에게 충직한 채로 남음"
 UPC_focus_invites_federalists:0 "§HFederalist-aligned governors§! will be invited to §Hattend the conference§!, while interested major players will be invited to observe.\n"
 GXC_form_china_tt:0 "Proclaims a new §HRepublic of China§!"
 GXC_merchants_oob_tt:0 "1 £nato_unit_infantry_icon_small §YExperienced Infantry Division§! will be mobilized.\n"
@@ -87,8 +87,8 @@ GXC_KMT_western_expedition_tt:0 "Unlocks £decision_icon_small §HDecisions§! t
 GXC_KMT_eastern_expedition_tt:0 "Unlocks £decision_icon_small §HDecisions§! to §YSecure Eastern China§!"
 GXC_KMT_northern_expedition_tt:0 "Unlocks £decision_icon_small §HDecisions§! to §YLaunch the Second Northern Expedition§!"
 GXC_improved_integration_tt:0 "The decisions to integrate §HChinese provinces§! as core states of §H[GXC.GetNameDef]§! complete §G20§! Days faster.\nThe decisions to integrate §HChinese provinces§! as core states of §H[GXC.GetNameDef]§! costs §G10§! £pol_power Political Power less.\n"
-GXC_RKMT_elections_allowed:0 "리쭝런이 입법원 선거를 허락하다"
-GXC_civil_war_over:0 "제2차 월계전쟁이 발발하다\n"
+GXC_RKMT_elections_allowed:0 "리쭝런이 입법원 선거를 허락함"
+GXC_civil_war_over:0 "제2차 월계전쟁 발발\n"
 GXC_LKMT_WIP:0"§RThis content path (Chen Mingshu's LKMT) is currently under revision and will be remade in the future when it is complete and stable. This decision was made as the current Chen Mingshu LKMT content is buggy and not well balanced. Please bear with us on this whilst we change it.§!"
 
 ### Decisions ###
@@ -236,8 +236,8 @@ GXC_roar_of_wolftroops_desc:0 "The 낭병, or Wolf Troops, were a special milita
 GXC_mountaineers:0 "산악병 훈련"
 GXC_mountaineers_desc:0 "The people of southern China are familiar with its mountains. Naturally, this means that many of our soldiers are already used to the intricacies and dangers of mountain warfare, making us able to create a strong force of mountaineers to defend our homeland."
 
-GXC_factionalism:0 "증대된 파벌주의"
-GXC_factionalism_desc:0 "The collapse of the League of Eight Provinces has created a power vacuum in the region. While Liangguang is being mostly spared from the armed conflict to succeed the League, many factions within the region have taken this as a signal to push their agenda while ambitious men look for any potential openings towards power."
+GXC_factionalism:0 "증대된 당파주의"
+GXC_factionalism_desc:0 "팔성연합의 붕괴로 인해 이 지역에는 힘의 공백이 생겨났습니다. 양광은 팔성연합의 자리를 승계하기 위한 무력 충돌에서 대부분 빗겨나갔지만 지역 내의 많은 당파들은 이를 자신들의 의제를 밀어붙이기 위한 신호탄으로 받아들이고 있으며, 야심찬 자들은 권력을 추구하기 위해 어떠한 잠재적인 발단이든지 생겨나기만을 기다리는 중입니다."
 
 GXC_divided_military:0 "분열된 군대"
 GXC_divided_military_desc:0 "The provincial armies of Guangdong and Guangxi have been independent of each other since the Xinhai Revolution with few exceptions until the Kuomintang's failed revolt. The two armies have yet to form a single unified command structure and this will greatly affect their general performance until this is rectified."
