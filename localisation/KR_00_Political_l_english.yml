@@ -86,7 +86,7 @@ unit_limit_max:0 "사단 한계값"
 unit_limit_bonus:0 "사단 한계"
 
 unit_limit_label:0 "§H최대 지원 사단§!"
-unit_limit_desc:0 "모든 국가는 오로지 자국의 경제 및 사회기반시설이 국가를 유지하는데 있어 한계에 도달하기까지, 일정 수만큼의 개별 군 부대를 지원할 수 있을 능력만 보유합니다. §L\n\n   - 소유한 공장:§! [?net_factory_count]§L[unit_limit_major_power][unit_limit_world_tension]\n   - [unit_limit_economy_law]:§! [upper_limit_perc_figure]§L[unit_limit_was_capped][unit_limit_lower_limit_used][unit_limit_upper_limit_used][unit_limit_bonus_used]\n\n   총 합계: §W[?max_divisions]§! (반올림됨)\n\n이 같은 변경 사항이 계산에 반영되기까지 최대 1주일의 게임 내 시간이 소요되는 점에 유의바랍니다.§![above_unit_limit_desc]"
+unit_limit_desc:0 "모든 국가는 자국의 경제 및 사회기반시설이 군을 유지하는데 있어 난관을 겪지 않을 정도로만 특정 수의 개별 군 사단들을 지원할 수 있는 능력만 보유합니다. §L\n\n   - 소유한 공장:§! [?net_factory_count]§L[unit_limit_major_power][unit_limit_world_tension]\n   - [unit_limit_economy_law]:§! [upper_limit_perc_figure]§L[unit_limit_was_capped][unit_limit_lower_limit_used][unit_limit_upper_limit_used][unit_limit_bonus_used]\n\n   총 합계: §W[?max_divisions]§! (반올림됨)\n\n이 같은 변경 사항이 계산에 반영되기까지 최대 1주일의 게임 내 시간이 소요되는 점에 유의바랍니다.§![above_unit_limit_desc]"
 
 unit_limit_desc_fake_intel:0 " (§H허위 사단 정보§!는 사단 한계값에 반영되지 않음)"
 
