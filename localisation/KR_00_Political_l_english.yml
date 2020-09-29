@@ -12,9 +12,9 @@ kr.political.1.d:0 "카이저라이히 팀에서 자랑스럽게 하츠 오브 �
 kr.political.1.a:0 "물론이죠!"
 
 ### Generic Triggered Events ####
-kr.political.30.t:0 "Prepare for War!"
+kr.political.30.t:0 "전쟁 준비!"
 kr.political.30.d:0 "We have received numerous reports that [From.GetAdjective] troops are currently massing, and that a great deal of reconnaissance is taking place across the [Root.GetAdjective] border. Military officials say it is clear [From.GetNameDef] is planning an invasion of [Root.GetNameDef], one that could begin anytime within the next several weeks."
-kr.political.30.a:0 "We must get ready!"
+kr.political.30.a:0 "대비하라!"
 kr.political.31.d:0 "We have received alarming word from [From.GetNameDef] that [From.From.GetAdjective] troops are currently massing, and that a great deal of reconnaissance is taking place across the [From.GetAdjective] border. Military officials say it is clear [From.From.GetNameDef] is planning an invasion of [From.GetNameDef], one that could begin anytime within the next several weeks."
 
 ### Returning Cores ###
@@ -34,8 +34,8 @@ KR_will_return_cores:0 "[return_to.GetAdjective]의 핵심 주에 연안 또는 
 kr.political.75.e:0 "모두 가지고 있을 것이다!"
 KR_will_not_return:0 "우리는 어떤 영토도 저들에게 반환하지 §R않을 것§!이고 다시 반환 요구를 받지도 않을 것입니다."
 
-kr.political.76.t:0 "[From.GetNameDefCap](이)가 [Root.GetAdjective] 영토를 반환하다"
-kr.political.76.d:0 "우리의 동맹인 [From.GetNameDefCap](이)가 우리가 과거에 소유하던 영토 중 일부를 반환해주었습니다!"
+kr.political.76.t:0 "[From.GetNameDefCap]에서 [Root.GetAdjective]의 영토를 반환하다"
+kr.political.76.d:0 "우리의 동맹인 [From.GetNameDefCap]에서 우리가 과거에 소유하던 영토 중 일부를 반환해주었습니다!"
 kr.political.76.a:0 "좋았어!"
 
 KR_different_ideology_close:0 "다른 이념"
@@ -85,21 +85,21 @@ unit_limit_factory_bonus:0 "사단 한계에 의한 공장 보너스"
 unit_limit_max:0 "사단 한계값"
 unit_limit_bonus:0 "사단 한계"
 
-unit_limit_label:0 "§HMaximum Supported Divisions§!"
-unit_limit_desc:0 "Every country only has the ability to support a certain number of individual military divisions before their economy and infrastructure struggle to maintain them. §L\n\n   - Owned Factories:§! [?net_factory_count]§L[unit_limit_major_power][unit_limit_world_tension]\n   - [unit_limit_economy_law]:§! [upper_limit_perc_figure]§L[unit_limit_was_capped][unit_limit_lower_limit_used][unit_limit_upper_limit_used][unit_limit_bonus_used]\n\n   FINAL TOTAL: §W[?max_divisions]§! (rounded up)\n\nPlease note that changes to the above take up to one in-game week before they are reflected in the calculation.§![above_unit_limit_desc]"
+unit_limit_label:0 "§H최대 지원 사단§!"
+unit_limit_desc:0 "모든 국가는 오로지 자국의 경제 및 사회기반시설이 국가를 유지하는데 있어 한계에 도달하기까지, 일정 수만큼의 개별 군 부대를 지원할 수 있을 능력만 보유합니다. §L\n\n   - 소유한 공장:§! [?net_factory_count]§L[unit_limit_major_power][unit_limit_world_tension]\n   - [unit_limit_economy_law]:§! [upper_limit_perc_figure]§L[unit_limit_was_capped][unit_limit_lower_limit_used][unit_limit_upper_limit_used][unit_limit_bonus_used]\n\n   총 합계: §W[?max_divisions]§! (반올림됨)\n\n이 같은 변경 사항이 계산에 반영되기까지 최대 1주일의 게임 내 시간이 소요되는 점에 유의바랍니다.§![above_unit_limit_desc]"
 
-unit_limit_desc_fake_intel:0 " (§HFake Intel Divisions§! do not count towards the division limit)"
+unit_limit_desc_fake_intel:0 " (§H허위 사단 정보§!는 사단 한계값에 반영되지 않음)"
 
-unit_limit_desc_above_limit:0 "\n\n--------------\n\n§RWe have currently exceeded our capacity, and the only way to alleviate the stress on our country will be to remove some of our divisions.§!\n\nDivision Organisation: [?mobilisation_penalty_var|+=%1]\nConsumer Goods Factories: [?mobilisation_penalty_var_positive|=%H0]\nFactory Output: [?mobilisation_penalty_var|+=%]\nTraining Time: [?mobilisation_penalty_var_positive|-=%]\nReinforce Rate: [?mobilisation_penalty_var|+=%1]"
+unit_limit_desc_above_limit:0 "\n\n--------------\n\n§R우리는 현재 한계값을 초과했으며, 국가에 걸린 압박을 완화할 수 있는 유일한 방법은 우리 군의 일부 사단을 제거하는 것입니다.§!\n\n사단 조직력: [?mobilisation_penalty_var|+=%1]\n소비재 공장: [?mobilisation_penalty_var_positive|=%H0]\n공장 생산량: [?mobilisation_penalty_var|+=%]\n훈련 시간: [?mobilisation_penalty_var_positive|-=%]\n충원율: [?mobilisation_penalty_var|+=%1]"
 
-unit_limit_major_power_desc:0 "\n   - Major Power/Head of Faction: §G+15%§!"
-unit_limit_world_tension_desc:0 "\n   - World Tension 70% or higher: §G+5%§!"
-unit_limit_was_capped_desc:0 "\n   - Uncapped Total: §W[?net_max_divisions]§!"
-unit_limit_cap_used_desc:0 "\n\n   The maximum supported divisions cannot be higher than §W[?upper_limit]§! (from [unit_limit_economy_law])."
-unit_limit_manpower_used_desc:0 "\n\n   Because the total provided by factories was lower than that provided by Total Manpower (§W[?lower_limit_from_manpower]§!), that was used instead."
-unit_limit_num_states_used_desc:0 "\n\n   Because the total provided by factories was lower than the number of owned states (§W[?lower_limit_from_states]§!), that was used instead."
-unit_limit_default_used_desc:0 "\n\n   Because the total provided by factories was less than the default (§W5§!), that was used instead."
-unit_limit_bonus_used_desc:0 "\n\n   - Additional Modifiers: §G+[?upper_limit_unit_bonus]§! to cap"
+unit_limit_major_power_desc:0 "\n   - 강대국/세력의 수장: §G+15%§!"
+unit_limit_world_tension_desc:0 "\n   - 세계긴장도가 70%이상: §G+5%§!"
+unit_limit_was_capped_desc:0 "\n   - 무제한된 총합: §W[?net_max_divisions]§!"
+unit_limit_cap_used_desc:0 "\n\n   지원되는 최대 사단이 §W[?upper_limit]§!보다 클 수 없습니다([unit_limit_economy_law]에게서 부터)."
+unit_limit_manpower_used_desc:0 "\n\n   공장에서 제공한 총합이 전체 인력이 제공한 값보다 낮아(§W[?lower_limit_from_manpower]§!), 이를 대신하여 사용되었습니다."
+unit_limit_num_states_used_desc:0 "\n\n   공장에서 제공한 총합이 국가가 소유한 값보다 낮아(§W[?lower_limit_from_states]§!), 이를 대신하여 사용되었습니다."
+unit_limit_default_used_desc:0 "\n\n   공장에서 제공한 총합이 기본값보다 낮아(§W5§!), 이를 대신하여 사용되었습니다."
+unit_limit_bonus_used_desc:0 "\n\n   - 추가된 모디파이어: 한계값에 §G+[?upper_limit_unit_bonus]§!"
 
 upper_limit_perc_figure_pos:0 "§G+[?upper_limit_from_factory_mult]%§!"
 upper_limit_perc_figure_neg:0 "§R[?upper_limit_from_factory_mult]%§!"
@@ -118,7 +118,7 @@ KR_improving_popularity:0 "이미 정당 인기도를 향상시키고 있습니�
 KR_party_pop_less_than_50:0 "정당 인기도가 §Y50%§! 보다 낮음"
 KR_party_pop_more_than_75:0 "정당 인기도가 §Y75%§! 보다 많음"
 DIPLOMACY_DOCKING_RIGHTS:0 "정박권"
-is_ally_of_ROOT:0 "Is an ally of [ROOT.GetNameDef]"
+is_ally_of_ROOT:0 "[ROOT.GetNameDef]의 동맹임"
 
 ### Decisions ###
 #political_actions:0 "정치적 행동" duplicate
