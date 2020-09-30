@@ -362,7 +362,7 @@ wll.101.d:0 "최후통첩이 무시당했고 우리 이웃은 전쟁을 준비�
 wll.101.a:0 "침공을 개시하라."
 
 wll.102.t:0 "왈로니가 도이치발로니엔을 요구하다"
-wll.102.d:0 "왈로니 정부가 세계대전 이후 우리가 합병한 왈롱 지역을 반환받기 위해 우리에게 접근해 왔습니다. 그들은 그 땅의 반환으로 지역의 불안을 잠재우고 국경의 안전을 보장할 수 있을 것이라고 주장하고 있습니다. 하지만 우리는 이 땅을 쉽게 포기할 수 없고, 그들에게 그들이 세계대전의 패배자라는 것을 상기시켜줄 필요가 있습니다."
+wll.102.d:0 "왈로니 정부가 세계대전 이후 우리가 합병한 왈로니 지역을 반환받기 위해 우리에게 접근해 왔습니다. 그들은 그 땅의 반환으로 지역의 불안을 잠재우고 국경의 안전을 보장할 수 있을 것이라고 주장하고 있습니다. 하지만 우리는 이 땅을 쉽게 포기할 수 없고, 그들에게 그들이 세계대전의 패배자라는 것을 상기시켜줄 필요가 있습니다."
 wll.102.a:0 "도이치발로니엔을 돌려줘라."
 wll.102.b:0 "그 땅은 승자의 전리품이다."
 
@@ -481,7 +481,7 @@ WLL_Give_Up_Our_Belgian_Claims:0 "Give Up Our Belgian Claims"
 WLL_Give_Up_Our_Belgian_Claims_desc:0 "We should no longer strive for the conquest of Flanders. We are stronger on our own and can better focus on the needs of the Walloon people without them."
 WLL_Liberals_Strenghten_Control:0 "Liberals Strengthen Control"
 WLL_Liberals_Strenghten_Control_desc:0 "After their victory in the election and the use of their coalition to maneuvre them into an ideal position, they can finally focus on strengthening their own control over the total picture."
-WLL_Le_Chant_Des_Wallons:0 "왈롱의 노래"
+WLL_Le_Chant_Des_Wallons:0 "왈로니의 노래"
 WLL_Le_Chant_Des_Wallons_desc:0 "민족주의가 고조되고 있으며, 국력이 신장되고 있고 새로운 기회가 떠오르고 있습니다. 우리는 국가를 부르며 수평선을 향해 행진할 것입니다!"
 WLL_Reaffirm_Belgian_Claims:0 "벨기에 영유권 재확인"
 WLL_Reaffirm_Belgian_Claims_desc:0 "The Flemish may have gotten the best of us during their revolution but the lion has been licking its wounds under the guise of a rooster. Soon we shall strike and take back our rightful land."
