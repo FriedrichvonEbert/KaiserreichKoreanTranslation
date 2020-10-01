@@ -213,7 +213,7 @@ GXC_backwards_guangxi:0 "광시의 침체된 경제"
 GXC_backwards_guangxi_desc:0 "대부분의 자금이 성 군사력에 흘러들어감에 따라, 광시성의 경제는 통치중인 군벌의 중대한 군국화에 모조리 흡수되고 있습니다. 군비 지출 비율은 전적으로 지속 불가능한 수준이고, 그 결과 경제는 어려움을 겪고 있습니다. 상황을 완화하기 위해선 추가적인 재원이나 진지한 경제 개혁이 필요할 것입니다."
 
 GXC_AOG_leftovers:0 "반외세 정서"
-GXC_AOG_leftovers_desc:0 "With Black Monday and the collapse of the League of Eight Provinces, the hated AOG, the association of German merchants in China, is in freefall. The German imperialists, seemingly unable to recoup their losses and left in hostile territory, are trying to flee and anti-concessionists in Guangzhou are taking full advantage of it. Rioting may break out soon, which could cause a diplomatic incident if the German presence in the city is attacked. For the time being, Chinese businessmen are happily buying our failed or failing German assets in Southern China, increasing their own influence and power in the region."
+GXC_AOG_leftovers_desc:0 "검은 월요일과 팔성연합의 붕괴와 함께, 중국 내 독일계 상인들의 협회인 AOG가 급락하고 있습니다. 독일의 제국주의자들은 자신들의 손실을 만회하지 못하고 적대적인 영토에 남겨진 채 피난을 시도하고 있으며, 광저우의 반조계주의자들은 이를 십분 활용하고 있습니다. 어쩌면 폭동이 곧 일어날지도 모르는데, 만약 이 도시의 독일 주둔군이 공격당한다면 외교적인 사건이 발생할 수도 있습니다. 당분간 중국의 기업인들은 남중국에 존재하는 망했거나 망해가고 있는 독일계 자산을 기꺼이 사들여, 이 지역에서 자신들의 영향력과 힘을 키우려 들 것입니다."
 
 GXC_bailing_out_peasants:0 "농민에 대한 경제적 지원"
 GXC_bailing_out_peasants_desc:0 "성정부는 교외의 농민들이 현재 진행 중인 경제위기에 대처할 수 있도록 지원책을 강구했습니다."
@@ -225,7 +225,7 @@ GXC_guangxi_militarism:0 "광시 군국주의"
 GXC_guangxi_militarism_desc:0 "군국주의는 수 세기간 광시에서 두드러졌고, 그 주민들의 군사적 기량은 중국 전역에 이름을 떨쳤습니다. 우리가 야망을 진전시키기 위해 이 강력한 군사적 상황을 활용하는 것은 지극히 당연한 일입니다."
 
 GXC_militia_corps:0 "민병대"
-GXC_militia_corps_desc:0 "The term Militia Corps refers to units of militia levied from small towns and villages to serve as anti-bandit forces or, sometimes, as a reserve force. These are typically led and equiped by the local gentry and notable. This means that many people in rural areas have some kind of military experience, expanding our pool of potential recruits."
+GXC_militia_corps_desc:0 "민병대란 작은 도회지와 마을에서 징집된 의용군 부대를 가리키며, 약탈 대응 부대나 때로는 예비군 역할을 하기도 합니다. 이들은 일반적으로 지역 신사층이나 유명인이 지휘하고 장비시키며, 농촌의 많은 사람들이 일종의 복무 경험을 가지고 있다는 것을 의미하기 때문에 예비 신병 풀을 넓혀줍니다."
 
 GXC_militarised_guangxi:0 "군국주의화된 광시"
 GXC_militarised_guangxi_desc:0 "Guangxi Province has been thoroughly militarized in order to serve the ambitions of the ruling clique. The province only exists to support the provincial forces, as if the army was the state itself."
