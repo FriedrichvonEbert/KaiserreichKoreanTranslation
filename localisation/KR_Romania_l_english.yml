@@ -1464,10 +1464,10 @@ romania.117.a:0 "We won't be bullied!"
 romania.117.b:0 "Alright, perhaps we can give them some concessions."
 
 #FROM accepted
-romania.118.t:0 "Romanians Accepted Our Proposition"
-romania.118.d.NFA:0 "Unwilling to gamble on their economy, the Romanians accepted our counter-offer, giving our goods an edge over the competition in their country and a much more favourable price tag for oil."
-romania.118.d.other:0 "Unwilling to gamble on their economy, the Romanians accepted our counter-offer, giving our goods an edge over the competition in their country."
-romania.118.a:0 "And they thought they could cheat on us."
+romania.118.t:0 "루마니아인들이 우리의 제의를 승낙하다"
+romania.118.d.NFA:0 "자신들의 경제를 가지고 도박을 하긴 싫었는지, 루마니아인들은 우리의 대안을 받아들였고, 우리 상품들이 자국에서 우위에 설 수 있게 해주며 석유에 더 후한 가격을 매겼습니다."
+romania.118.d.other:0 "자신들의 경제를 가지고 도박을 하긴 싫었는지, 루마니아인들은 우리의 대안을 받아들였고, 우리 상품들이 자국에서 우위에 설 수 있게 해주었습니다."
+romania.118.a:0 "그리고 놈들은 우리를 속일 수 있다고 생각했겠지."
 
 #FROM walks out
 romania.119.t:0 "루마니아의 퇴장"
