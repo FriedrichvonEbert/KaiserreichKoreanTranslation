@@ -41,7 +41,7 @@ ITA_bruh_why:0 "공화국이 우리의 외교적 접근을 거부함"
 sicilian_reengage:0 "이탈리아의 연방주의자들을 지지함"
 sicilian_disengage:0 "이탈리아의 공화주의자들을 지지함"
 
-AUS_treaty_of_budapest:0 "Austria has been defeated by the Belgrade Pact"
+AUS_treaty_of_budapest:0 "오스트리아는 베오그라드협약에 의해 패배했습니다"
 
 AUS_HUN_Civil_war:0 "§Y헝가리§W와 오스트리아가 내전을 시작합니다. \n\n"
 greater_austrian_empire:0 "대타협 기간 동안 오스트리아의 주도 하에 이중 제국을 재결속하기로 결정했고, 헝가리는 결국 굴복했습니다. \n\n OR \n\n오스트리아는 헝가리를 합병하고 중앙집권 체제를 건설하기로 결정했습니다."
@@ -123,9 +123,9 @@ AUS_SLVintegration_desc:0 "많은 슬로베니아인들은 독일 민족이고 �
 ### Decisions ###
 AUS_syndie_threat:0 "생디칼리스트의 위협"
 AUS_syndie_threat_desc:0 "잊어버리기 힘든 사실이 있다면, 우리의 이웃이자 과거의 동맹이 프랑스와 전쟁을 치루고 있습니다. 독일군은 몇 주 안에 전쟁이 끝날 거라 생각했지만, 전쟁은 다시 세계대전이 되었습니다. 만약 빨갱이들이 이 전쟁에서 승리한다면, 이탈리아에서 우리의 이권이 침해될 뿐 아니라, 우리 제국의 통합성이 흔들릴 수 있습니다. 독일과의 이견은 덮어놓고 다시 한번 그들과 함께 나란히 싸우는 것이 최선일지 모릅니다."
-AUS_russian_threat:0 "The Russian Menace"
-AUS_russian_threat_desc:0 "The Great Russian Bear has reared its head in the east again, and threatens to not only retake all the land it lost during the Weltkrieg, but also to march into Germany itself. There is little doubt that, should Russia succeed in its aims, there will eventually turn their attention to us as well. It appears we must wade into the Eastern front once more, whether we like it or not."
-AUS_reform_faction:0 "Reform the Donau-Adriabund"
+AUS_russian_threat:0 "러시아의 위협"
+AUS_russian_threat_desc:0 "거대한 러시아의 곰이 다시한번 동쪽에서 고개를 들며 세계대전 도중 잃은 영토를 되찾을 뿐만 아니라 독일로 진군하겠다 위협하고 있습니다. 러시아가 그들의 목표를 이룬다면 결국에는 우리에게로 시선을 돌린다는 데에 의심의 여지가 없을겁니다. 우리는 다시한번 동부전선에 발을 들여놓아야 할것 같군요, 좋든 싫든 말이죠..."
+AUS_reform_faction:0 "도나우-아드리아 연맹의 개혁"
 AUS_reform_faction_desc:0 "Now that the war is over, the time has come to resume leadership on our own terms: as the head of the Donau-Adriabund alliance."
 AUS_germany_on_the_ropes:0 "[FRA.GetNameDef](이)가 남독일 깊숙히 침투해 들어왔습니다"
 AUS_syndicalism_winning_Italy:0 "동맹국 프랑스가 이탈리아 대부분을 통제하에 두고 있습니다"
@@ -994,7 +994,7 @@ ausgleich.new.803.d.germany.italy:0 "Delegates from [Root.GetNameDef] met with t
 ausgleich.new.803.d.poland:0 "Delegates from [Root.GetNameDef] met with their Habsburg counterparts in Budapest to hammer out the peace terms. In the ensueing treaty, the Austrians have ceded all our claims in exchange for peace. This is a glorious day indeed, for our Polish brethren have finally been reunited with their mighty motherland!"
 ausgleich.new.803.d.germany.poland:0 "Delegates from [Root.GetNameDef] met with their German and Habsburg counterparts in Budapest to hammer out the peace terms. In the ensueing treaty, the Austrians have ceded all our claims - except for those in what they consider core Austrian lands - in exchange for peace. This is a glorious day indeed, for our Polish brethren have finally been reunited with their mighty motherland!"
 ausgleich.new.803.a:0 "위대한 승리다!"
-ausgleich.new.803.b:0 "One last step towards victory."
+ausgleich.new.803.b:0 "승리를 향한 마지막 한 걸음."
 
 ausgleich.new.804.t:0 "[FROM.GetNameDefCap]의 평화 거절"
 ausgleich.new.804.d:0 "우리가 [FROM.GetNameDef]에게 한 평화 제안이 거부되었습니다. 전쟁은 한쪽이 무조건 항복할 때까지 계속될 것입니다. 이 무자비한 전쟁을 끝내려면 더 많은 피가 흘러야 할 것입니다."
@@ -1048,14 +1048,14 @@ ausgleich.new.825.a:0 "So be it!"
 ### TREE EVENTS
 #########################################################################################################################
 
-aus.tree.4011.t:0 "Austrian Intervention"
+aus.tree.4011.t:0 "오스트리아가 개입하다."
 aus.tree.4011.d:0 "Today, the ambassador from Vienna stated that our southern neighbours are keen on 'helping out' with the ongoing war against [threat_country.GetNameDef], joining our alliance at least for the duration of this conflict. While the Austrian army is no longer the trainwreck it was during the Weltkrieg, and thus might prove of more help, it's possible their participation could open a southern front should they prove unable to stand firm."
 aus.tree.4011.a:0 "Brothers-in-arms once more!"
 aus.tree.4011.b:0 "We are doing well enough on our own"
 
-aus.tree.4012.t:0 "Germany Declines Our Offer"
+aus.tree.4012.t:0 "독일은 우리의 요청을 거부했습니다."
 aus.tree.4012.d:0 "Berlin has responded to our offer, stating our help was neither needed nor wanted, and that we should look to managing our internal affairs."
-aus.tree.4012.a:0 "How rude!"
+aus.tree.4012.a:0 "이 무례한!!.."
 
 aus.tree.4013.t:0 "Germany Accepts Our Support"
 aus.tree.4013.d:0 "Berlin welcomes the help we have offered in combating the [threat_country.GetAdjective] menace. The [Root.GetFactionName] will merge with the [From.GetFactionName], at least for the duration of this conflict."
