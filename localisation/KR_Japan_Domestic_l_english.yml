@@ -1,6 +1,6 @@
 ﻿l_english:
 
-japan_focus:0 "일본 내정 중점계통도"
+japan_focus:0 "일본 내정 중점 계통도"
 
 ### Opinion Modifiers ###
 JAP_motor_1:0 "자동차 산업의 일본화"
@@ -47,7 +47,7 @@ POLITICS_KANSON_ARAHATA_DESC:0 "일본의 정치 체제는 격변했고, 아라�
 
 ### Ideas ###
 JAP_narrow_rail:0 "협궤철도"
-JAP_narrow_rail_desc:0 "일본의 철도는 메이지 시대 동안 대영 제국으로부터 전승된 이례적으로 좁은 궤간을 사용하여 건설되었습니다. 일본의 산악 지역에서의 건설은 쉬웠지만 그 속도 제한은 우리 산업에 부정적인 영향을 미쳤습니다. 전문가들은 이를 교체하는 데에 정부의 시간을 할애할 가치가 있는지에 대해 논하고 있습니다."
+JAP_narrow_rail_desc:0 "일본의 철도는 메이지 시대 동안 대영제국으로부터 물려받은 이례적으로 좁은 궤간을 사용하여 건설되었습니다. 일본의 산악 지역에서의 건설은 쉬웠지만 그 속도 제한은 우리 산업에 부정적인 영향을 미쳤습니다. 전문가들은 이를 교체하는 데에 정부의 시간을 할애할 가치가 있는지에 대해 논하고 있습니다."
 japan_NSA_act:0 "국가보안법"
 JAP_great_drought:0 "The Great Drought"
 JAP_great_drought_worse:0 "The Great Drought"
@@ -102,7 +102,7 @@ JAP_jap_fighter_idea:0 "가벼운 전투기 설계"
 JAP_jap_pilot_idea:0 "엄격한 비행 조종사 훈련"
 JAP_Fading_Sun:0 "일본은 더 이상 열강으로 간주되지 않습니다"
 JAP_no_army_focus:0 "분열된 군대"
-JAP_no_army_focus_desc:0 "일본군은 방향성이 부족하고, 최고 사령부는 내분이 일어나고 있으며, 단일화된 군사 교리도 없습니다. 이러한 문제들은 해결할 때까지 어떠한 전쟁 수행이든지 방해할 것입니다."
+JAP_no_army_focus_desc:0 "일본군은 방향성이 부족하고, 최고사령부에서는 내분이 일어나고 있으며, 단일화된 군사 교리도 없습니다. 이러한 문제들은 해결할 때까지 어떠한 전쟁 수행이든지 방해할 것입니다."
 JAP_bad_land:0 "열악한 토지이용"
 JAP_bad_land_desc:0 "일본의 토지이용은 매우 비효율적입니다. 과잉규제와 과소규제의 환장의 조합으로 기존 농지의 소작료는 지나치게 높고, 새로운 농지를 개간하는 데는 장애물이 너무 많습니다."
 JAP_BUR:0 "Bureaucratic Economy"
@@ -186,7 +186,7 @@ JAP_finish_land_reform_desc:0 "토지개혁을 종료하고 그 결과를 확인
 JAP_NSA_focus:0 "국가보안법"
 JAP_NSA_focus_desc:0 "지난 몇 주 동안 국회에서 국가보안법에 관한 논쟁이 격렬히 벌어졌고, 이제는 우리가 어떤 선택을 할지를 결정할 때입니다. 일부 보수파 의원들은 이 법안이 통과되지 못하면 사회의 과격파들이 권력을 장악하려고 할 것이라고 우려하고 있습니다. 일본의 미래는 우리 손에 달려 있습니다."
 JAP_democratic_path:0 "민주주의를 사수하라!"
-JAP_democratic_path_desc:0 "특정 육군 장교들의 제안을 받은 하야시 센주로 장군은 현 정권에 대한 자신의 의무를 이유로 쿠데타 시도를 거부했습니다. With the trial of the May 15th incident behind us, it is now time to secure democracy in the eyes of the people."
+JAP_democratic_path_desc:0 "음모를 꾸미는 육군 장교들의 제안을 받은 하야시 센주로 장군은 현 정권에 대한 자신의 의무를 이유로 쿠데타 시도를 거부했습니다. 5.15 사건의 재판을 뒤로하고, 지금은 국민들을 눈뜨게 할 민주주의를 확보할 때입니다."
 JAP_imperialist_path:0 "가장 긴 하루"
 JAP_imperialist_path_desc:0 "하야시 센주로 장군은 쿠데타 시도에 대한 육군 장교들의 계획을 지원하기로 동의했습니다. 육군 수장의 지원이 생겼으니, 이들의 시도가 성공할 가능성이 상당히 높아졌습니다..."
 
