@@ -208,7 +208,7 @@ guided_missile_equipment_3_desc:0 "최고의 성능을 갖춘 유도탄입니다
 
 gw_tank_equipment:0 "세계대전기 전차"
 gw_tank_equipment_short:0 "세계대전기 전차"
-gw_tank_equipment_desc:0 "Tanks in the Weltkrieg were developed separately and simultaneously by the United Kingdom and France as a means to break the deadlock of trench warfare on the Western Front. The British prefer to call them "tanks", a name adopted during the early stages of their development as a security measure to conceal their purpose, while the German counterpart, "Panzer", stuck in many German-influenced nations. Early tanks were armed with machineguns and small cannons, moved slowly, and were armoured only enough to stop small arms fire."
+gw_tank_equipment_desc:0 "세계대전에서 전차는 서부전선의 참호전으로 교착된 상태를 타개할 수단으로 영국과 프랑스가 동시에지만 서로 따로따로 개발했습니다. 영국은 개발 초기 중 개발 목적을 숨기기 위해 보안 조치로 채택된 이름인 '탱크'라고 부르길 선호했지만, 독일과 독일의 영향을 받는 국가에서는 '판저'라 불렀습니다. 초기 전차들은 기관총과 작은 포로 무장하고, 느리게 움직이고, 소화기를 막을 정도의 장갑만 갖추어져 있었습니다. "
 
 light_tank_equipment:0 "경전차"
 light_tank_equipment_desc:0 "경전차는 정찰 임무, 그리고 경무장한 적과의 교전에 특화된 작고 민첩한 전차입니다."
