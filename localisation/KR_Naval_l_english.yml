@@ -526,52 +526,52 @@ armored_cruiser_3:0 "진보된 장갑순양함"
 armored_cruiser_3_desc:0 "장갑 순양함 설계의 진전은 장갑 순양함의 역할이 재평가되면서, 이전의 설계를 조정하면서 이루어졌습니다. 이전 설계의 무장을 유지했지만, 일반적인 화력 증가 방식의 개념을 바꾸어, 함포가 더 빠르게 회전할수 있도록 함포의 직경을 줄여나갔습니다. 대부분 연장 또는 삼연장으로 된 6개의 주함포로 무장되어 있었고, 구경은 11-12인치, 혹은 그와 비슷한 수준이었습니다."
 
 armored_cruiser_4:0 "현대 장갑순양함"
-armored_cruiser_4_desc:0 "The evolution of the armoured cruiser, by the mid-1940s, had reached its apex: ships with the speed to hunt cruisers but the firepower to threaten true capital warships enough to keep them on their toes. While the firepower of the ships was less useful with the rise of the Carrier, they found great use in shore bombardment and carrier escort duties. Functionally greatly enlarged cruisers with much heavier armour and guns, most of these ships were armed with six to nine main guns of 11-12 inch or equivalent size; these were extremely high velocity gun designs, allowing for the armour penetration and range to engage battleships respectably while also functioning as an effective lone convoy raider more than capable of dealing with escorting destroyers and lighter cruisers."
+armored_cruiser_4_desc:0 "장갑 순양함은 1940년대 중반, 기술적 정점에 이르렀습니다. 순양함을 추적할 정도로 빠른 속도를 가지면서, 주력함을 위협할 수 있는 화력도 가지고 있습니다. 항공모함의 등장으로 주포의 화력은 크게 유용하지는 않았지만, 해안 폭격과 항모 호위 임무를 수행하는데 도움이 되었습니다. 기능적으로 훨씬 더 강력한 무기와 함포로 강화된 장갑 순양함들은 대부분 11-12인치 혹은 비슷한 크기의 6개에서 9개의 함포로 무장해 관통력과 사거리를 어느정도 확보하면서, 적의 수송 선단을 구축함이나 경순양함 보다 훌륭하게 공격할 수 있습니다."
 
 ### Battleships ###
 
 battleship_1:0 "세계대전기 전함"
-battleship_1_desc:0 "Designed shortly before the Weltkrieg began, and completed while it raged, these classes represented the highest level of naval development prior to the start of that conflict. They were the fleet-leading warships of the war, and would remain highly potent long after it ended. While they were notably faster than the Dreadnoughts before them their most notable differentiating feature was their escalated armament- they carried eight to ten main guns, of 14 to 15 inch or equivalent, most in twin turrets but a few in new triple turrets. Their devastating firepower and heavy armour guaranteed that they would be at the heart of their battle fleets, but those continued advances came at quickly escalating prices. Even more so than the warships before them these classes demanded huge investments, though they were only shadow of what was to come."
+battleship_1_desc:0 "세계대전이 시작되기 직전, 전함이 해전에서 위용을 뽐낼때의 설계안입니다. 전함은 국가간 직접적인 충돌 이전에 나라의 해군력을 가늠하는 척도이기도 했습니다. 전함은 해전을 이끄는 주역이었고, 전쟁이 끝난 후에도 여전히 강력한 지위를 유지했습니다. 이전의 드레드노트보다 눈에 띄게 빨른 속도도 있지만, 전함의 가장 두드러진 특징은 확장된 무장이었습니다. 주로 8~10개의 연장포를 사용했고, 3연장 포탑을 사용하는 해군도 있었습니다. 파괴적인 화력과 강력한 무기덕분에 전함은 전투 함대의 핵심이 되었지만, 이런 지속적인 발전은 건조 단가를 하늘로 치솟게 만들었습니다. 이 설계안은 앞으로 개발될 설계의 그림자에 불과했지만, 이 함급은 막대한 투자를 요구했습니다."
 
 battleship_2:0 "개선된 전함"
-battleship_2_desc:0 "The end of the Dreadnought Race, with the start of the British Revolution, led to large scale naval construction largely ceasing, and naval funding, which had grown to enormous levels in the period up to 1925, finally collapsing. The 'Great Powers' spent the next decade slowly finishing ships already under construction, while focusing development on smaller ships that were easier to slip through the naval budgets. It wasn't until the early 30s that the Great Powers began to experiment with fast battleship designs. These battleship designs were far more modern, with improved rangefinders, powerful oil fired engines, and 16 to 18 inch guns, but were generally iterative, focusing more on delivering a powerful ship at the best price rather than being a drastic improvement over their predecessors."
+battleship_2_desc:0 "영국 열도에서 혁명이 시작되면서, 드레드노트 경쟁은 막을 내렸고, 해군 건조 사업이 대규모로 중단되면서 1925년까지 국가 재정의 대부분을 차지했던 군함 건조 지원금도 중단됐습니다. '강대국'들은 앞으로 10년간은 건조 중인 선박만 천천히 마무리하는 방향으로 선회했고, 예산을 타오기 어렵지 않은 소형 선박에 주력했습니다. 이후, 강대국들이 고속 전함을 실험하기 시작한건 30년대 초반부터입니다. 고속 전함은 개량된 거리계, 석탄대신 석유를 사용하는 엔진, 16-18인치 구경포를 장착하는등 훨씬 현대적이지만 크게 바뀌지는 않았습니다. 대대적인 개장, 개선보다는 저렴한 가격으로 강력한 배를 제작하는 데 초점을 맞췄기 때문입니다."
 
 battleship_3:0 "진보된 전함"
-battleship_3_desc:0 "With the Second Weltkrieg on the horizon and international tensions higher than ever, designers were looking to construct a new generation of ships to fight in the upcoming war. While some nations had transitioned their naval hopes to carriers, others still insisted that the carrier could only provide a supplementary role, rather than replacing the primary anti-capital ship role of the battleship. These nations, typified by Germany, instead retooled their newer designs, focusing on improved armour layouts and more effective guns and turrets, as well as improved speeds."
+battleship_3_desc:0 "제2차 세계대전의 위기가 정점에 달하고, 국제적 긴장이 어느 때보다 고조되고 있는 가운데, 군함 설계가들은 다가오는 전쟁에서 싸울 새로운 선박을 건조하려고 하고 있습니다. 일부 국가들은 해군의 주력을 항공모함으로 전환했지만, 주요 국가들은 항공모함이 전함의 주력함 역할을 대신하는것 보다 보조 전력의 역할만을 할 수 있다고 생각했습니다. 독일을 비롯한 나라들은 새로운 전함 설계를 만들어 개선된 장갑 배치와 보다 효과적인 함포와 포탑, 그리고 속도 향상에 초점을 맞췄습니다."
 
 battleship_4:0 "현대 전함"
-battleship_4_desc:0 "At the close of the Second Weltkrieg, the Great Powers were faced with an indisputable fact: naval air power had proved victorious over all gun capital ships. However, several nations persisted with the development of Battleships, as shore bombardment platforms, prestige projects and support for carriers within the fleet. Designers loaded their battleships with anti-aircraft batteries, as well as the latest anti-aircraft rocket technology. These designs would prove less than successful over the years; while many of these battleships would continue to be operated well into the 70s, they were widely viewed as obsolete, and mostly functioned to ferry Heads of State on national voyages and to occasionally provide shore bombardment support during regional conflicts."
+battleship_4_desc:0 "제2차 세계대전의 말미에, 강대국들은 함재기가 일반적인 주력함들에게서 승리를 이끌어내기 유용하다는 명백한 사실에 직면했습니다. 그럼에도 불구하고, 몇몇 국가들은 해안 폭격, 국가적 명성, 수송선 호송등을 위해 전함의 개발을 고수했습니다. 설계가들은 전함에 대공포와 최신 기술인 대공로켓도 탑재했습니다. 이러한 전함들이 70년대까지 계속 운영되었지만, 대체로 구식이라 여겨졌고 몇 년 동안 실패한 것으로 여겨졌습니다. 전함은 국가적 항해에서 원수들을 호송하는 역할을 했고, 분쟁 지역에서 때때로 해안 폭격을 제공했습니다." 
 
 ### Dreadnoughts ###
 
 dreadnought_1:0 "드레드노트"
-dreadnought_1_desc:0 "드레드노트 건조 경쟁이 절정에 달했을 때, 이 진정한 괴물들이 착안되었습니다. 이전보다 훨씬 더 큰 크기와 화력을 제공했지만, 그 대가로 건조 비용과 운용 비용은 엄청났고, 따라서 몇몇 국가들만이 이 군함의 건조을 고려할 수 있었습니다. 그럼에도 불구하고, 이 함체들은 정말로 강력한 해군에서의 패권을 가지고 있었습니다. 그들 이전 세대의 것보다 훨씬 더, 그 것들의 건조 조건에 구속되었습니다. 설계 작업이 급격하게 진행되었고, 시공 중에 즉각적으로 재설계되었으며, 필요한 막대한 자원의 부족, 신속한 건설에 대한 엄청난 압박, 그리고 거대한 메커니즘과 엄청난 크기와 복잡성 등등, 이 모든 것들이 거대한 장갑 속에서 설계 결함과 취약성을 야기했습니다."
+dreadnought_1_desc:0 "드레드노트 경쟁이 절정에 달했을 때, 이 진정한 괴물들이 착안되었습니다. 이전보다 훨씬 더 큰 크기와 화력을 제공했지만, 그 대가로 건조 비용과 운용 비용은 엄청났고, 따라서 몇몇 국가들만이 이 군함의 건조을 고려할 수 있었습니다. 그럼에도 불구하고, 이 함체들은 해군에서의 강력한 패권을 가지고 있었습니다. 이전의 설계보다 훨씬 더, 드레드노트 건조 조건에 구속되었습니다. 설계 작업이 급격하게 진행되었고, 시공 중에 즉각적으로 재설계되었으며, 막대한 필요 자원의 부족, 신속한 건설에 대한 엄청난 압박, 그리고 거대한 메커니즘과 엄청난 크기와 복잡성 등등, 이 모든 것들이 거대한 장갑 속에서 설계 결함과 취약성을 야기했습니다."
+
 dreadnought_2:0 "개선된 드레드노트"
+dreadnought_2_desc:0 "드레드노트 경쟁의 여운이 사라지자 해군 설계자들은 미래의 계획에서 드레드노트의 지위에 주목했습니다. 신세대의 소위 '고속전함'이 그 임무를 맡게 될 것이라는 이해와 함께 속도를 주요 목표에서 포기하는 대신에 극단적이고 전례 없는 보호 장갑에 초점을 맞추었습니다. 진보된 16인치 포는 18인치 포와 장갑 관통력은 비슷하면서 가격은 더 낮습니다. 엄중한 명령을 골자로 하는 해군에서의 교훈으로 이러한 설계의 대부분은 보통 진보된 16인치 또는 그에 상응하는 포로 배열된 3연장포으로 배열된 5개로 무장되었습니다."
 
-dreadnought_2_desc:0 "위대한 드레드노트 경쟁의 여운이 사라지자 해군 설계자들은 미래의 계획에서 드레드노트의 지위에 주목했습니다. 신세대의 소위 '고속전함'이 그 임무를 맡게 될 것이라는 이해와 함께 속도를 주요 목표에서 포기하는 대신에 극단적이고 전례 없는 보호 장갑에 초점을 맞추었습니다. 진보된 16인치 포는 18인치 포와 장갑 관통 능력이 비슷할 수 있지만 가격은 더 낮습니다. 엄중한 명령을 골자로 하는 해군에서의 교훈으로 이러한 설계의 대부분은 보통 진보된 16인치 또는 그에 상응하는 포로 배열된 3연장포으로 배열된 5개로 무장되었습니다."
 dreadnought_3:0 "진보된 드레드노트"
-
-dreadnought_3_desc:0 "각기 다른 대부분의 해군들이 전통적인 군함보다 항공모함의 우위를 인정할 수밖에 없었음에도 불구하고, 일부 해군 설계자들은 여전히 '최대의 전함'을 창설하는 것을 꿈꿨습니다. 거의 뚫을 수 없는 장갑에 대공포로 무장하고, 16인치 3연장포 6개 또는 그에 상응하는 극한 무장으로 무장된 이 설계는 중함 설계의 정점을 상징했습니다. 떠오르는 공군력 지지자들은 함포 군함 시대의 황혼기에 고안된 이러한 설계를 초안이 완성되기도 전에 구식으로 여겼습니다."
+dreadnought_3_desc:0 "각기 다른 대부분의 해군들이 전통적인 군함보다 항공모함의 우위를 인정할 수밖에 없었음에도 불구하고, 일부 해군 설계자들은 여전히 '최대의 전함'을 창설하는 것을 꿈꿨습니다. 거의 뚫을 수 없는 장갑에 대공포로 무장하고, 16인치 3연장포 6개 또는 그에 상응하는 극한 무장으로 무장된 이 설계는 중함선 설계의 정점을 상징했습니다. 떠오르는 공군 지지자들은 함포 군함 시대의 황혼기에 고안된 이러한 설계를 초안이 완성되기도 전에 구식으로 여겼습니다."
 
 ### Carriers ###
 
 carrier_1:0 "실험적인 항공모함"
-carrier_1_desc:0 "Having learned from the experience of using seaplane tenders, those navies with the resources to do so began work on the next generation of ships that could carry aircraft at sea. Unlike their predecessors, these carriers were designed with flight decks to allow for aircraft to both fly off of them and to then return and land on them. Converted from civilian ships and seaplane tenders, most of these ships were limited by having relatively cramped flight decks and hangars, but they definitely demonstrated that ships were capable of effectively operating air complements at sea."
+carrier_1_desc:0 "항공기 수송선을 사용한 경험이 있었던 해군들은 해상에서도 항공기를 운반할 수 있는 차세대 선박에 대한 설계 작업에 착수했습니다. 이전의 항공기 수송선들과는 달리, 이 수송선들은 갑판이 일종의 활주로로 설계되어 항공기가 수송선으로부터 이륙할 수 있게 했고, 반대로 수송선으로 돌아와 착륙도 할 수 있었습니다. 민간 선박과 항공기 수송선에서 개조된 이 설계의 대부분은 상대적으로 비좁은 비행 갑판과 격납고 등으로 그 능력이 제한돼 있었지만, 바다에서도 효과적으로 항공기를 운용할 수 있다는 것을 확실히 보여주었습니다."
 
 carrier_2:0 "개선된 항공모함"
-carrier_2_desc:0 "Developed in the late 30s, these ships were designed to provide aerial reconnaissance and light fighter coverage for fleets primarily focused on more 'conventional' warship forces. Their range was significantly increased, and efforts were made to make them fast enough to keep up with fleets operating at full speed in open oceans."
+carrier_2_desc:0 "30년대 후반에 개발된 이 설계는 주로 '전통적인' 군함에 초점을 맞춰 공중 정찰과 적 항공기 견제를 위해 설계되었습니다. 항공모함의 작전 범위는 상당히 증가했고, 공해에서 전속력으로 전진하는 함대에 뒤쳐지지 않을 만큼 빠르게 만들기 위한 노력이 이루어졌습니다."
 
 carrier_3:0 "진보된 항공모함"
-carrier_3_desc:0 "As major naval combat operations in the naval aviation age demonstrated the power of aircraft to seriously affect battles at sea, many powers found themselves having fallen behind in the development of their carrier forces. While fleet carriers were quickly shown to be the most potent of their kin, they were also massive ships that required a long time and large amount of resources to construct. In the rush to increase their ability to project air power into the oceans, several powers turned to designs like these, enlarged versions of the existing lighter carriers, to try to quickly bolster their naval aviation capacity."
+carrier_3_desc:0 "주요 해전에서 항공기가 해상에서의 전투에 미치는 큰 영향을 보여주면서, 많은 강대국들은 항모전력 발전에 많이 뒤처져 있다고 깨닫게 되었습니다. 항공모함이 함선들중 가장 강력한 것으로 밝혀졌지만, 마찬가지로 오랜 시간과 많은 양의 자원을 필요로 하는 거대한 배이기도 했습니다. 대양에 공군력을 투사하는 능력을 향상시키기 위해 서두르던 중, 몇몇 국가들은 해군의 항공 능력을 빠르게 증강시키기 위해 기존보다 더 작고 가벼운 항모를 설계하는 것으로 눈을 돌렸습니다."
 
 carrier_4:0 "현대 경항공모함"
-carrier_4_desc:0 "Even once the dominance of fleet carriers had become indisputable, there were many powers that could not afford such ships, and even major naval powers that needed secondary carriers to cover less important naval regions. These ships were the designs that were created to fill those needs. Much smaller than the fleet carriers, they nonetheless incorporated design innovations developed from them, to produce effective smaller carriers that had respectable aircraft capacity, fast speeds, and reasonable anti-aircraft defence batteries."
+carrier_4_desc:0 "함대의 주력함이 무엇인지 논쟁의 여지가 없게 된 이후에도, 그러한 함선들의 비용을 감당할 수 없는 많은 국가들이 있었고, 상대적으로 우선도가 낮은 지역을 지키기 위해 2차적인 항모가 필요한 해군 강국들도 있었습니다. 이러한 많은 수요를 충족시키기 위해 이 설계안이 만들어졌습니다. 훌륭한 항공기 용량, 빠른 속도, 합리적인 대공포를 가진 효과적인 경항모를 생산하기 위해 지금껏 개발된 설계 혁신을 집약했습니다."
 
 heavy_carrier_1:0 "실험적인 중형 항공모함"
-heavy_carrier_1_desc:0 "The first fleet carriers designed entirely to be such, most of these ships were significantly smaller than their converted dreadnought predecessors, but, due to being intentionally centred on the requirements of naval aviation, were also far more reliable in that role. With better anti-aircraft defenses and properly designed runways, they generally carried around sixty aircraft."
+heavy_carrier_1_desc:0 "기존에 드레드노트로 설계되어 있는 함선을 개조한 이 설계안은 의도적으로 해군 항공력 증강에 초점을 맞추었기 때문에 일반적인 항모보다는 작았지만, 역할 수행에 있어서는 훨씬 더 신뢰할 수 있었습니다. 더 나은 대공 방어능력과 적절하게 설계된 활주로로 무장한 이 함선들은 일반적으로 약 60대의 항공기를 운반했습니다."
 
 heavy_carrier_2:0 "현대 중형 항공모함"
-heavy_carrier_2_desc:0 "Continued development of fleet carrier design led to much larger models, these ships approached the size of the first fleet carriers, while incorporating all of the design improvements made in the intervening years. Most had significant armour protection and withering AA firepower, while also being highly mechanically reliable. However, they had given up their large calibre secondary armament in exchange for dual purpose 100-127mm guns. Their general aircraft capacity was, on average, around eighty."
+heavy_carrier_2_desc:0 "지속적인 항공모함 설계의 개발로 인해 훨씬 더 큰 모델들이 생겨났고, 이 군함들은 초기의 항공모함 크기에 근접했으며, 그 사이에 이루어진 모든 설계 개선 사항들을 적용했습니다. 대부분의 항공모함은 상당한 장갑 방호 능력, 적 항공기를 무참히 파괴하는 대공 화력, 기계적으로 높은 신뢰도를 자랑했습니다. 100-127mm의 양용포를 장착하면서 대구경 부포도 제거했습니다. 이 설계안은 일반적으로 80대 정도의 항공기를 보유했습니다."
 
 ### Submarines ###
 
