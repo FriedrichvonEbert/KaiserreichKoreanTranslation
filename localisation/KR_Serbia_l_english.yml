@@ -151,7 +151,7 @@ SER_will_declare_war_tooltip:0 "§R이 달 내로 베오그라드 조약의 모�
 SER_will_declare_war_allies_tooltip:0 "§R세르비아는 2주 내로 오스트리아에 전쟁을 선포할 것이며, 우리도 그렇게 하도록 유도할 것입니다.§!"
 
 SER_Encourage_Yugoslavism_tooltip:0 "§H통합§! 선택 비용 감소"
-SER_Serbian_Mountain_Corps_tooltip:0 "4개 £nato_unit_mountaineers_icon_small  §H산악병§! 배치할 것입니다."
+SER_Serbian_Mountain_Corps_tooltip:0 "£nato_unit_mountaineers_icon_small  §H산악병§! 부대 4개 배치할 것입니다."
 SER_Local_Designs_tooltip:0 "항공기 설계사 해금: §H아에로푸트§!, §H로고자르스키§! 그리고 §HUTVA§!."
 SER_The_Serbian_Airforce_tooltip_RUS:0 "§H러시아 조언가§!와 §H국산 설계§!를 §H세르비아 공군 교리§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
 SER_The_Serbian_Airforce_tooltip_NFA:0 "§H프랑스 조언가§!와 §H국산 설계§!를 §H세르비아 공군 교리§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
@@ -251,7 +251,7 @@ SER_Invest_In_Zadrugar:0 "자드루가르에 투자"
 SER_Invest_In_Zadrugar_desc:0 "농업기계화 과정의 일환으로 트랙터, 예비 부품, 정비에 대한 수요가 급격히 증가하며 산업이 이를 지원할 필요가 있습니다. 다행히도 세르비아의 자드루가르가 이 산업 분야를 전문적으로 다룹니다. 국가의 추가적인 지원을 통해, 증가 중인 수요를 더욱 쉽게 충족할 수 있을 것입니다."
 
 SER_Rural_Credit_Banks:0 "지방신용은행"
-SER_Rural_Credit_Banks_desc:0 "각설해서, 시골지역의 신용은 부족한 대신, 도심지에 흔히 집중됩니다. 지방신용은행은 농업국가에서 성장하며 그 존재감을 드러냈는데, 세르비아 또한 예외는 아닙니다. 이런 은행 시스템은 가난한 농민들에게 절실히 필요한 금융지원과 신용을 제공하기 위해 만들어졌으며, 이러한 은행 시스템은 시골 경제의 성장을 돕기 위해 증가된 정부 지원을 필요로 합니다."
+SER_Rural_Credit_Banks_desc:0 "각설해서, 시골지역의 신용은 부족한 대신, 도심지에 흔히 집중됩니다. 지방신용은행은 농업국가에서 성장하며 그 존재감을 드러냈는데, 세르비아 또한 예외는 아닙니다. 이런 은행 시스템은 가난한 농민들에게 절실히 필요한 금융지원과 신용을 제공하기 위해 만들어졌으며, 이러한 은행 시스템은 시골 경제의 성장을 돕기 위해 늘어난 정부지원을 필요로 합니다."
 
 SER_Emergency_Economic_Relief:0 "비상 경제 구제"
 SER_Emergency_Economic_Relief_desc:0 "검은 월요일은 유럽 전역을 강타했으며 세르비아 또한, 슬프게도, 예외는 아니었습니다. 어떤 잘못도 저지르지 않았는데 힘든 시기에 굴러떨어진 불쌍한 세르비아 사람들을 돕기 위한 긴급조치가 신속히 제정되어야 합니다. 경제가 회복될 때까지, 우리는 반드시 최대한 많은 사람이 길거리에서 굶주려 죽는 일이 없게 해야만 합니다."
@@ -260,7 +260,7 @@ SER_Modernise_Belgrade:0 "베오그라드 현대화"
 SER_Modernise_Belgrade_desc:0 "수도가 대전쟁으로 인한 파괴에서 회복되었으나, 베오그라드는 유럽의 다른 수도와 비교해 계속 낙후된 상태입니다. 위대한 도시를 현대세계로 이끌어오려면 더 많은 노력과 투자가 요구됩니다."
 
 SER_Resume_Cash_Crop_Exportation:0 "환금 작물 수출"
-SER_Resume_Cash_Crop_Exportation_desc:0 "세르비아는 매우 농업적인 경제를 유지하나, 고립과 최근의 경제문제는 주요 수입에 극심한 손해를 입혔습니다. 경제시장의 가격이 크게 안정되면, 농산품 수출과 이 수익을 투자할 수 있습니다."
+SER_Resume_Cash_Crop_Exportation_desc:0 "세르비아는 매우 농업적인 경제를 유지하나, 고립과 최근의 경제문제는 주요 수입에 극심한 손해를 입혔습니다. 경제시장의 가격이 크게 안정되면, 농산품 수출과 그로 인한 수익을 투자할 수 있습니다."
 
 SER_Form_The_State_Railway_Directorate:0 "주 철도청 설치"
 SER_Form_The_State_Railway_Directorate_desc:0 "현재, 우리의 다양한 철도는 세 개의 서로 다른, 경쟁기관이 관리하며, 이는 투자 및 확장을 힘든 과정으로 만듭니다. 이를 간소화하기 위해, 부서들을 세르비아 국영 철도청으로 중앙통합할 것입니다."
@@ -277,11 +277,11 @@ SER_Expand_The_Radinac_Steel_Mill_desc:0 "라디나츠 제철소는 세르비아
 SER_Found_FOMU:0 "FOMU 설립"
 SER_Found_FOMU_desc:0 "Fabrika Oružja i Municije Užice(우지체 무기 및 군수품 공장), FOMU는 세르비아의 가장 중요한 군 장비는 물론이거니와 군수품 생산업체 중 하나입니다. 미래에 폭풍이 발칸 지역에 불어닥치면 앞으로 모든 것이 필요할 것입니다."
 
-SER_Form_The_Military_Council:0 "군사위원회"
-SER_Form_The_Military_Council_desc:0 "밀란 네디치 장군이 지난 몇 년간 제안했던 개혁위는 우리의 새싹 같은 군대를 확장하고 현대화하는데 오랜 기간을 쓸 것입니다. 오스트리아의 손아귀에서 빠져나온 동안, 네디치의 제안을 받아들이고 그의 개혁을 시작할 시간이 되었습니다."
+SER_Form_The_Military_Council:0 "군사위원회 출범"
+SER_Form_The_Military_Council_desc:0 "밀란 네디치 장군이 지난 몇 년간 제안했던 개혁위는 우리의 새싹 같은 군대를 확장하고 현대화하는데 오래 걸릴 것입니다. 오스트리아의 손아귀에서 빠져나온 동안, 네디치의 제안을 받아들이고 그의 개혁을 시작할 시간이 되었습니다."
 
 SER_Organise_The_Chetniks:0 "체트니크 조직화"
-SER_Organise_The_Chetniks_desc:0 "Ever since the end of the Weltkrieg, the Serbian Chetniks that fought so bravely through an ultimately doomed war have been divided and aimless. By bringing their commanders together, we can foster a unified 'Association of Chetniks' that can effectively fight for Serbian interests."
+SER_Organise_The_Chetniks_desc:0 "대전쟁 종전 이래로, 궁극적으로 불운한 전쟁에서 용감하게 싸운 세르비아의 체트니크는 분열되고 방향을 잃었습니다. 그곳의 지휘관들을 데려옴으로써 우리는 세르비아의 이익을 위해 효과적으로 싸울 수 있는 통일된 '체트니크 협회'를 육성시킬 수 있습니다."
 
 SER_Modernise_The_Engineering_Battalions:0 "공병대 현대화"
 SER_Modernise_The_Engineering_Battalions_desc:0 "An unexpected result of our rapid re-armament following the Occupation has come to the surface. Though our frontline troops are effective, our support units have been figuratively left behind. The Reform Council has plans for their modernisation, and thus they've been put into effect."
@@ -308,7 +308,7 @@ SER_Lessons_Of_The_War:0 "전쟁의 수업"
 SER_Lessons_Of_The_War_desc:0 "As glorious as our victory over Bulgaria was, it wasn't a flawless one. Armed with vital experience from the frontlines, the Reform Council has already drawn up plans to overcome the mistakes we made, and its time to put them into action."
 
 SER_Serbian_Mountain_Corps:0 "세르비아 산악부대"
-SER_Serbian_Mountain_Corps_desc:0 "발칸반도, 특히 우리가 되찾아야 할 지역은 산이 매우 많습니다. 다가올 전쟁을 돕기 위해, 개혁 위원회는 새롭고 헌신적인 산악부대의 창설을 계획하고 있습니다. 최고의 장비로 무장하고 최고의 장군들이 지휘하는 그들은 우리의 가장 정예한 부대가 될 것입니다."
+SER_Serbian_Mountain_Corps_desc:0 "발칸반도, 특히 우리가 되찾아야 할 지역은 산이 매우 많습니다. 다가올 전쟁을 대비하기 위해, 개혁 위원회는 새롭고 헌신적인 산악부대의 창설을 계획하고 있습니다. 최고의 장비로 무장하고 최고의 장군들이 지휘하는 그들은 우리의 가장 정예한 부대가 될 것입니다."
 
 SER_Mihailovics_Redoubt:0 "미하일로비치의 보루"
 SER_Mihailovics_Redoubt_desc:0 "Colonel Draza Mihailovic is, no doubt, a controversial officer. However, he is also a visionary, with superb plans for ensuring Serbia’s defences are up to scratch in the case that our conquests backfire. Lets divert some funding and men to Mihailovic so he can create his ‘redoubt’, and hopefully he’ll stop interfering with the Council"
@@ -415,7 +415,7 @@ serbia.8.d:0 "지난 며칠간 보이보다 보요비치는 걱정스러운 듯�
 serbia.8.a:0 "소리 지르게 놔둬라."
 
 serbia.9.t:0 "수많은 음모"
-serbia.9.d:0 "지난 10년간 세르비아 정치는 보이보다 정권 하에서 비교적 안정을 구가하고 있었습니다. 패배한 인민급진당의 유고슬라비아주의와 왕정주의 이념은 오스트리아 측에 너무 위험한 존재로 받아들여졌기 때문에 보요비치는 군부와 수많은 우익 반체제 집단의 지지를 등에 업고 새로운 보수주의와 중앙집권주의를 지지하는 정당인 세르비아 국민당을 중심으로 정부를 구성했습니다. 과거 10년간 계속된 정치적 억압과 민주주의의 제한은 진보당을 통합하고 뒤이어 보요비치의 통제력을 강화하는 역할을 수행했습니다. 하지만 이렇게 조심스럽게 지어진 체제 위에 느리지만 서서히 가해지는 위협이 점차 다가오고 있었습니다. 바로 검은 월요일입니다.\n\n우리가 회복을 향해 가고는 있지만, 수많은 사람들은 국민당에 대한 믿음을 완전히 잃었고, 전직 시장이었던 새로 등극한 젊은 지도자 니스 드라기샤 치베트코비치조차도 신뢰를 되찾는데 실패했습니다. 다른 쪽에서는 민주주의자들과 급진주의자들이 점령 말기에 잃어버렸던 지지층 일부를 되찾는데 성공했고, 이제는 보요비치에 더욱 단합된 반대 의견을 제시하고 있습니다. 한편, 주로 왕정주의를 지지하는 수많은 비밀 결사들이 보이보다의 군부에 대한 통제권에 심대한 문제를 끼치고 있습니다. 베오그라드에서 뜬소문이 돌고는 있지만, 페타르 보요비치의 국가 장악력이 결코 약해지지 않으리라는 점은 분명합니다."
+serbia.9.d:0 "지난 10년간 세르비아 정치는 보이보다 정권 하에서 비교적 안정을 구가하고 있었습니다. 패배한 인민급진당의 유고슬라비아주의와 왕정주의 이념은 오스트리아 측에 너무 위험한 존재로 받아들여졌기 때문에 보요비치는 군부와 수많은 우익 반체제 집단의 지지를 등에 업고 새로운 보수주의와 중앙집권주의를 지지하는 정당인 세르비아 진보당을 중심으로 정부를 구성했습니다. 과거 10년간 계속된 정치적 억압과 민주주의의 제한은 진보당을 통합하고 뒤이어 보요비치의 통제력을 강화하는 역할을 수행했습니다. 하지만 이렇게 조심스럽게 지어진 체제 위에 느리지만 서서히 가해지는 위협이 점차 다가오고 있었습니다. 바로 검은 월요일입니다.\n\n우리가 회복을 향해 가고는 있지만, 수많은 사람들은 국민당에 대한 믿음을 완전히 잃었고, 전직 시장이었던 새로 등극한 젊은 지도자 니스 드라기샤 치베트코비치조차도 신뢰를 되찾는데 실패했습니다. 다른 쪽에서는 민주주의자들과 급진주의자들이 점령 말기에 잃어버렸던 지지층 일부를 되찾는데 성공했고, 이제는 보요비치에 더욱 단합된 반대 의견을 제시하고 있습니다. 한편, 주로 왕정주의를 지지하는 수많은 비밀 결사들이 보이보다의 군부에 대한 통제권에 심대한 문제를 끼치고 있습니다. 베오그라드에서 뜬소문이 돌고는 있지만, 페타르 보요비치의 국가 장악력이 결코 약해지지 않으리라는 점은 분명합니다."
 serbia.9.a:0 "눈을 떼지 마라."
 
 serbia.10.t:0 "세르비아 문화협회 설립"
