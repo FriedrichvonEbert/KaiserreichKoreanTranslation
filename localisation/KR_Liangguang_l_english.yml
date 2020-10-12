@@ -913,13 +913,13 @@ GXC_People_Production_Party_Plan:0 "생산인민당 계획"
 GXC_People_Production_Party_Plan_desc:0 "생산인민당의 의제는 국민당의 의제와 크게 다르지 않으며, 쑨원의 비전에도 반대하지 않습니다. 천밍수는 당이 진정으로 자유로운 국가를 만들기 위해 토지 개혁을 더욱 강력하게 추진하는 것과 함께 중국 내에서의 민주적 제도를 개발하는 데 주력해야 한다고 믿고 있습니다."
 
 GXC_local_democracy:0 "지방자치 홍보"
-GXC_local_democracy_desc:0 "Ensuring that local democracy can flourish will ensure that, when the time comes, the people will have ample experience and understanding of democratic institutions once they are created on a national level. Only through experience and education can China become a democratic republic as Sun Yat-sen wanted."
+GXC_local_democracy_desc:0 "지역 민주주의가 번성하도록 보장하는 것은, 때가 되면 국가 차원에서 창설된 민주적 제도에 대해 인민이 충분한 경험과 이해를 할 수 있도록 해줄 것입니다. 중국은 오직 경험과 교육을 통해서만 쑨원 선생이 바랬던 민주공화국이 될 수 있습니다."
 
 GXC_kmt_land_reform:0 "국민당의 토지개혁"
 GXC_kmt_land_reform_desc:0 "선대 광둥성장은 적절한 토지 개혁 계획을 향해 의미 있는 진전을 이루었지만, 이는 충분하지 않았습니다. 중국의 농민들이 부패한 지주들로부터 토지를 임대하는 것이 아니라 소유하게 되기 전까진, 이들은 결코 자유로워질 수 없습니다."
 
 GXC_route_army:0 "노군 창설"
-GXC_route_army_desc:0 "Route Armies are, in terms of size, similar to a Western field army. Reorganizing the NRA in Liangguang is paramount to the region's defence of the National Revolution and the Route Armies will form the basis of our large units as we move increasingly towards modernization."
+GXC_route_army_desc:0 "노군은 규모 면에서 서방의 야전군과 비슷합니다. 양광에서 국부군을 재편성하는 것은 이 지역에서의 국민혁명을 방위하는 데 가장 중요하며, 우리가 점점 현대화를 얗애 나아감에 따라 노군은 우리의 대규모 편제의 기초를 형성할 것입니다."
 
 GXC_minquan_focus:0 "민권 중점"
 GXC_minquan_focus_desc:0 "민권, 또는 민주주의는 쑨원의 삼민주의의 요소 중 하나입니다. 민주적 제도를 창조하고 이를 정착시키기 위해 중국인들을 준비시키는 것은 국민혁명의 가장 중요한 목표이며, 장기적으로는 이 당이 중국에게 있어서 가장 적합한 선택이라는 것을 증명할 것입니다."
@@ -928,13 +928,13 @@ GXC_consolidate:0 "국민당 지배 확고화"
 GXC_consolidate_desc:0 "국민당과 생산인민당은 이전까지 천중밍의 기만적인 연성주의자들이 확보했던 양광에서 상대적으로 존재감이 약합니다. 국민혁명군과 당내 기관들의 도움으로, 우리는 쑨원의 국민혁명을 이어나가기에 앞서 우리의 세력을 공고히 할 것입니다."
 
 GXC_tridemism:0 "삼민주의"
-GXC_tridemism_desc:0 "The Three Principles of the People, or Sanmin Doctrine, is the basis of Sun Yat-sen's political philosophy and the Kuomintang. The Principles guide our government in its policies and decisions, and their importance must be understood by the people in the coming fight."
+GXC_tridemism_desc:0 "삼민주의(Sanmin Doctrine)는 쑨원의 정치철학과 국민당의 기초가 됩니다. 이 원칙들은 우리 정부의 정책과 결정을 인도하며, 다가오는 투쟁 속에서 인민들이 그 중요성을 체감해야 합니다."
 
 GXC_renovate_whampoa:0 "황포군관학교 재건"
-GXC_renovate_whampoa_desc:0 "The Kuomintang Military Academy was first founded by Sun Yat-sen in 1924 in Whampoa (Huangpu) near Guangzhou. Officers trained there created a cadre of politically-conscious officers that would lead the NRA in the Revolution. With the Academy back in our hands, it is time to reinstitute it and resume training capable officers for the renewed Revolution."
+GXC_renovate_whampoa_desc:0 "국민당 육군군관학교는 쑨원에 의해 1924년 광저우 인근에 위치한 왐포아(황푸)에서 개교했습니다. 그곳에서 훈련받은 군관들은 혁명에서 국부군을 이끌, 정치적으로 깨어있는 핵심 간부단을 형성했습니다. 군관학교가 다시 한 번 우리 손아귀에 들어온 지금이야말로, 학교를 재설립하고 그와 동시에 재개될 혁명을 위한 유능한 군관들의 육성을 다시 시작해야 합니다."
 
 GXC_join_KMT:0 "국민당 중앙정부에 참여"
-GXC_join_KMT_desc:0 "We found ourselves agreeable with the Kuomintang Central Committee in Fujian once more. With out differences settled and goals united, it is time we rejoined them for the good of the National Revolution."
+GXC_join_KMT_desc:0 "우리는 푸젠성에 위치한 국민당중앙위원회를 다시 한번 선뜻 받아들였습니다. 이견들이 해소되고 목표가 하나로 통합된 상황에서, 우리가 국민혁명의 이익을 위해 그들에게 재합류할 때가 찾아왔습니다."
 
 GXC_contest_wang:0 "좌파 지배에 반대"
 GXC_contest_wang_desc:0 "푸젠의 좌파들은 생디칼리슴 등 중국과 맞지않는 제국주의적 사상으로 쑨원의 가르침을 더럽히고 있습니다. 그들은 반드시 소멸되고 숙청되어야 합니다. 당을 위해서, 그리고 더 중요하게도, 중국의 민중들을 위해서 말이죠."
@@ -1033,7 +1033,7 @@ lng.2.d:0 "As [GXC.GetLeader] secures Liangguang, it has become apparent that he
 lng.2.a:0 "수락한다."
 lng.2.b:0 "거절한다."
 
-lng.3.t:0 "윈난이 허락하다"
+lng.3.t:0 "윈난이 승낙하다"
 lng.3.d:0 "Good news! [YUN.GetLeader] has accepted our proposal. We shouldn't expect any trouble from Yunnan in the near future."
 lng.3.a:0 "훌륭해!"
 
@@ -1042,55 +1042,55 @@ lng.4.d:0 "Bad news. [YUN.GetLeader] has refused our proposal of rapprochement. 
 lng.4.a:0 "개자식이!"
 
 lng.5.t:0 "후난과의 불가침조약"
-lng.5.d:0 "With the collapse of the League of Eight Provinces, the united provinces of Liangguang and the province of Hunan have naturally drifted together in the face of potential retribution from Nanjing. Chen Jiongming and Zhao Hengti are both federalists, believing in provincial and national constitutionalism and the importance of rule of law in these chaotic time. As such, the two have been cooperating since the dawn of the League in the first place, working together to secure the region's autonomy from Nanjing and, consequently, Beijing.\n\nThe two governors have thus agreed to stay neutral in the conflict in the former League and focus inward instead."
+lng.5.d:0 "팔성연합이 붕괴하면서, 난징의 잠재적인 보복 가능성에 직면함에 따라 양광과 후난은 어쩌다보니 자연스레 함께하게 되었습니다. 천중밍과 자오헝티는 양쪽 모두 연성주의자로, 이 혼란한 시기에 성과 국가 차원에서 입헌주의와 법치의 중요성을 신봉합니다. 그런 만큼 두 사람은 애초에 팔성연합이 여명을 맞이할 때부터 협력하면서, 난징과 그 배후의 베이징으로부터 이 지역의 자치를 지켜내기 위해 함께 일하고 있었습니다.\n\n따라서 두 성장은 구 연합의 분쟁에서 중립을 지키고, 대신 내부에 집중하기로 합의했습니다."
 lng.5.a:0 "훌륭하군."
 
 lng.6.t:0 "양광과의 불가침조약"
-lng.6.d:0 "With the collapse of the League of Eight Provinces, the united provinces of Liangguang and the province of Hunan have naturally drifted together in the face of potential retribution from Nanjing. Chen Jiongming and Zhao Hengti are both federalists, believing in provincial and national constitutionalism and the importance of rule of law in these chaotic time. As such, the two have been cooperating since the dawn of the League in the first place, working together to secure the region's autonomy from Nanjing and, consequently, Beijing.\n\nThe two governors have thus agreed to stay neutral in the conflict in the former League and focus inward instead."
+lng.6.d:0 "팔성연합이 붕괴하면서, 난징의 잠재적인 보복 가능성에 직면함에 따라 양광과 후난은 어쩌다보니 자연스레 함께하게 되었습니다. 천중밍과 자오헝티는 양쪽 모두 연성주의자로, 이 혼란한 시기에 성과 국가 차원에서 입헌주의와 법치의 중요성을 신봉합니다. 그런 만큼 두 사람은 애초에 팔성연합이 여명을 맞이할 때부터 협력하면서, 난징과 그 배후의 베이징으로부터 이 지역의 자치를 지켜내기 위해 함께 일하고 있었습니다.\n\n따라서 두 성장은 구 연합의 분쟁에서 중립을 지키고, 대신 내부에 집중하기로 합의했습니다."
 lng.6.a:0 "훌륭하군."
 
-lng.7.t:0 "[GXC.GetNameDef] Seeks our Protection"
-lng.7.d:0 "Ma Ji, the governor of Guangxi and Guangdong provinces, is an old acquaintance of Marshall Wu. During the Kuomintang's failed war of conquest, he had fled his native province to fight under the Marshall, distinguishing himself as a very able general capable of defeating rebels in the south. Now that he has secured Southern China, he wishes to bring Liangguang back into the fold, which would give us a strong ally in a notoriously rebellious region of the country. Of course, that means he would have significant autonomy from Beijing and we will have to ensure he is protected from rivals in the region."
-lng.7.a:0 "Of course! Welcome back, friend!"
-lng.7.b:0 "It would be unwise to overstretch ourselves."
+lng.7.t:0 "[GXC.GetNameDef](이)가 우리의 보호를 구하다"
+lng.7.d:0 "광시성과 광둥성의 성장인 마지는 우페이푸 원수의 오랜 지인입니다. 그는 고향 성을 떠나 원수의 휘하에서 싸웠으며, 스스로가 남방의 역도들을 물리칠 수 있는 매우 유능한 장군이라는 것을 입증했습니다. 이제 그는 남중국을 확보했고 양광을 다시금 옛 보금자리로 되돌리기를 원하고 있으며, 이는 악명높은 반역향에서 우리의 든든한 동맹을 만들어줄 것입니다. 물론, 이는 그가 베이징으로부터 상당한 자치를 얻게 된다는 것을 의미하며, 우리는 그를 이 지역의 경쟁자들로부터 보호해줘야 할 것입니다."
+lng.7.a:0 "물론이지! 돌아온 것을 환영하네, 친구여!"
+lng.7.b:0 "우리 자신을 과신하는 것은 현명하지 못할 것이야."
 
-lng.8.t:0 "[GXC.GetNameDef] Seeks our Protection"
-lng.8.d:0 "Chen Lianbo, the governor of Guangdong and Guangxi provinces, is a rich and powerful politician in Southern China. Seeing the Kuomintang and other warlord states as a threat to China's stability and economic development, he has been highly receptive of the Panasian idea and seeks protection. Of course, we must remember that Chen has ties with the wealthy merchants of China; he will certainly expect some concessions for his loyalty, but his support could be a significant boon to our relations with the Chinese economic elite."
-lng.8.a:0 "Our influence grows in China."
-lng.8.b:0 "We hardly need him."
+lng.8.t:0 "[GXC.GetNameDef](이)가 우리의 보호를 구하다"
+lng.8.d:0 "광둥성과 광시성의 성장인 천롄보는 남중국의 부유하고 강력한 정치인입니다. 그는 국민당을 비롯한 군벌국가들을 중국의 안정과 경제 발전에 대한 위협으로 보고, 범아시아주의 사상을 적극 수용하며 보호자를 물색해왔습니다. 물론, 우리는 천롄보가 중국의 부유한 상인들과 연줄이 있다는 것을 기억해야 하고, 그 또한 분명 그러한 충성심의 대가로 약간의 양보를 기대하겠지만, 그의 지지는 중국의 경제적 엘리트들과의 관계에 큰 도움이 될 수 있습니다."
+lng.8.a:0 "우리의 영향력이 중국 내에서 더욱 커지겠군."
+lng.8.b:0 "우리는 그가 그다지 필요하지 않아."
 
 lng.9.t:0 "[FROM.GetNameDefCap](이)가 수락하다!"
-lng.9.d:0 "Good news! The leaders of [From.GetNameDef] have accepted our offer. We are now aligned with them: They will support us and we will support their claim as the true Central Government of China."
+lng.9.d:0 "좋은 소식입니다! [From.GetNameDef]의 지도자가 우리의 제의를 수락했습니다. 이제 우리는 그들과 협력합니다: 그들은 우리를 지지해줄 것이고, 우리는 중국의 진정한 중앙정부에 대한 그들의 권리주장을 지지할 것입니다."
 lng.9.a:0 "중국 만세!"
 
 lng.10.t:0 "[FROM.GetNameDefCap](이)가 거절하다"
-lng.10.d:0 "Our offer to support [From.GetNameDef] has been refused. While this is insulting, we may now be isolated diplomatically."
+lng.10.d:0 "[From.GetNameDef](을)를 지지하겠다는 우리의 제의가 거절당했습니다. 이는 모욕적인 일이긴 하지만, 우리는 앞으로 외교적으로 고립될 수도 있습니다."
 lng.10.a:0 "배은망덕한 얼간이들 같으니! 수치스럽군!"
 
 lng.11.t:0 "천중밍 성장이 성의회에서 연설하다"
-lng.11.d:0 "With war and chaos raging from Shandong to Fujian due to the collapse of the League of Eight Provinces, Governor-General of Liangguang, Chen Jiongming, made a speech at the Guangdong Provincial Assembly today addressing a number of issues facing the province.\n\nChen assured the Assembly that neutrality in the conflict to the northeast was the only logical way forward: The stable and prosperous province of Guangdong needed to look inward and focus on improving the province and its inhabitants' livelihoods. The people needed to show the rest of China that their provincial democracy and civilian government was a model to follow, forming a believable alternative to the monarchists in the north, the warlords throughout China and the false revolutionaries of the Kuomintang. This was, Chen believes, the only way to bring peace and unite China in the long-term and rid it of tyrants once and for all."
+lng.11.d:0 "팔성연합의 붕괴로 산둥에서 푸젠에 이르기까지 전쟁과 혼란이 격화되는 가운데, 양광총독 천중밍은 오늘 광둥성의회에서 성이 직면한 여러 현안들에 대해 연설했습니다.\n\n천중밍은 의회에서 북동쪽에서 일어나는 분쟁에 대해 중립을 지키는 것만이 유일하게 타당한 방식이라고 확언했습니다: 안정되고 번영하는 광둥은 그 내면을 알아보고 성과 주민들의 삶을 개선하는 데 초점을 맞출 필요가 있었습니다. 인민은 그들의 성내 민주주의와 민간 정부가 중국의 나머지 지역이 마땅히 따라야 할 모범이라는 것을 보여주면서, 북방의 왕당파, 중국 전역의 군벌들, 그리고 국민당의 거짓 혁명가들에 맞서 신뢰할 만한 대안을 만들어낼 것을 필요로 했습니다. 천중밍은 이것이 장기적으로 중국을 통합하고 평화를 가져오면서 독재자들을 완전히 뿌리뽑기 위한 유일한 방법이라고 믿고 있습니다."
 lng.11.a:0 "자유 중국을 향하여!"
 
 lng.12.t:0 "천중밍이 의회에서 비판받다"
-lng.12.d:0 "Chen Jiongming is a staunch believer in democracy and the Guangdong Provincial Assembly is one of the few truly democratic legislatures in Asia, let alone China. Of course, this means that the Assembly is not only a place to represent the people, debate and enact policy, but also criticise the government.\n\nWith recent decisions made by Chen Jiongming's government to seek support from the gentry to the detriment of his promised land reform, a socialist member of the Assembly was quick criticise the Governor's decision, calling him out on this contradictory decision. This has hurt the Governor's credibility in the eyes of the people and strengthened the radicals' popularity."
+lng.12.d:0 "천중밍은 민주주의의 확고한 신봉자이며, 광둥성의회는 중국은 말할 것도 없고 아시아 전체에서도 몇 안되는 진정한 민주적 입법부 중 하나입니다. 물론, 이는 의회가 인민을 대표하고 정책을 논의하며 제정하는 장소일 뿐만 아니라, 정부를 비판하는 장소라는 의미도 가집니다.\n\n천중밍 정권이 그가 약속했던 토지 개혁으로 인한 손해에 대해 신사층으로부터 지지를 구하기로 한 최근의 결정들 때문에, 의회의 사회주의자 의원들은 성장이 내린 모순된 결정을 비판하고 그의 이름을 연호했습니다. 이는 인민의 관점에서 성장에 대한 신뢰를 해쳤고, 급진주의자들의 인기를 강화시켰습니다."
 lng.12.a:0 "그런 게 바로 민주주의다."
 
 lng.13.t:0 "농민들이 재정지원을 요청하다"
-lng.13.d:0 "The province of Guangdong has not been spared from the consequences of Black Monday, regardless of how unwanted German influence is. The peasants have been hit particularly hard as they struggle with the decline of price for rice and grain. Elected representatives from the rural districts arrived at the Provincial Assembly to make their case, requesting financial aid to weather the storm.\n\nChen Jiongming, receiving considerable support from the peasants and rural landowners through his government policies, certainly wants to accept, but the financial situation of the province may make such a program impossible to implement and finance."
+lng.13.d:0 "광둥성은 독일의 원치 않는 영향력이 얼마나 되는지에 상관없이, 검은 월요일의 결과물로부터 벗어나지 못하고 있습니다. 특히 농민들은 쌀값과 곡물값의 하락에 몸부림치면서 큰 타격을 받았으며, 교외 선거구에서 선출된 의원들이 성의회에 도착해 이들이 폭풍을 헤쳐나가기 위한 재정요원을 요청했습니다.\n\n천중밍은 그의 정부 정책을 통해 농민들과 교외 지주들로부터 상당한 지지를 받고 있다는 점 때문에 이를 분명 수락하고 싶어하지만, 성의 재정상황 때문에 이러한 계획을 시행하고 그에 필요한 재정을 조달하는 것이 불가능할 수도 있습니다."
 lng.13.a:0 "물론, 그들을 돕는다."
 lng.13.b:0 "불행하게도 불가능하다."
 
 lng.14.t:0 "상인 구제?"
-lng.14.d:0 "Similarly to the peasants' crisis last month, a number of wealthy merchants have hit serious financial difficulties caused by the global economic crisis. A number of members of the Provincial Assembly with ties to the merchant class of the cities and towns have made the case that the provincial government should intervene and keep these merchants from economic ruin. The influence of the merchants in Guangdong is significant and their continued political support is essential, but such a bailout would, of course, be costly."
+lng.14.d:0 "지난달의 농민 위기와 유사하게, 많은 부유한 상인들이 세계 경제위기로 인한 심각한 재정난을 겪고 있습니다. 도시와 도회지의 상인 계층과 연줄이 있는 다수의 성의회 의원들이 성정부가 개입해 이들 상인을 경제적 파산에서 막아야 한다는 주장을 펴고 있습니다. 광둥에서의 상인의 영향력은 상당하고 그들의 지속적인 정치적 지지 또한 필수적이지만, 이러한 구제금융은 당연하게도 많은 비용을 치러야 할 것입니다."
 lng.14.a:0 "그들을 구제한다."
 lng.14.b:0 "그들 스스로 넘길수있는 일이다."
 
 lng.15.t:0 "합동군사훈련"
-lng.15.d:0 "The armies of Guangxi and Guangdong were, until recently, under separate commands. To further improve cohesion between units and officers of the two provincial armies, military exercises have been held fairly regularly. While this had significant benefits for both armies, these exercises have made it more and more obvious of how superior in quality the Guangxi Army is over its Guangdong counterpart. Even if the former is essentially subsidised by the latter's government, the manoeuvres have been, so far, excellent opportunities for the Governor of Guangxi to show off his province's military prowess."
+lng.15.d:0 "광동군과 광서군은 최근까지 별개의 명령을 받고 있었습니다. 양 성군의 부대와 군관들 간의 결속력을 더욱 강화시키기 위해, 상당히 정기적으로 군사훈련이 실시되어 왔습니다. 이것이 양군 모두에게 상당한 이익을 가져다 주었지만, 이러한 훈련들은 광서군이 광동군보다 얼마나 더 질적으로 우수한지를 점점 더 분명히 해주었습니다. 본질적으로 전자가 후자의 정부로부터 보조금을 받는다고는 해도, 이러한 군사훈련은 지금까지 광시성장이 자기 성의 군사적 기량을 과시할 수 있는 훌륭한 기회였습니다."
 lng.15.a:0 "광둥이 물주가 되고, 광시가 싸운다."
 
 lng.16.t:0 "불법도박 탄압"
-lng.16.d:0 "Even since entering politics in the years before the Xinhai Revolution, Chen Jiongming has been fighting an arduous battle against gambling in the province, a problem plaguing the province along with opium addiction. In the 1920s, he managed to have it completely banned. Just as banning the trade and consumption of opium, however, enforcing this ban has been a difficult task and removed an important source of revenue for the government. The Provincial Assembly recently began debating its effectiveness, with a faction pushing for loosening anti-gambling laws.\n\nThe Governor is adamant that this would lead to a return to moral degeneracy in Guangdong along with increased corruption without truly decreasing crime, while his opponents in the Assembly claim that the laws are wasteful and impossible to enforce, instead pushing for its re-legalisation and re-establishment of gambling taxes.\n\nGuangdong is, of course, a democracy, and the Provincial Assembly will vote on the matter."
+lng.16.d:0 "신해혁명이 일어나기 몇 년 전에 정계에 입문한 이래로, 천중밍은 아편 중독과 함께 이 성을 괴롭히는 문제인 도박 행위와의 고된 싸움을 벌이고 있습니다. 1920년대에 그는 이를 완전히 금지시킬 수 있었지만, 아편 무역과 소비를 금지하는 것처럼 도박에 대한 금지를 시행하는 것은 어려운 일이었으며 그와 동시에 정부의 중요한 수입원 중 하나를 제거했습니다. 성의회에선 최근 한 정파가 도박금지법의 완화를 추진하는 등 이에 대한 실효성을 논의하기 시작했습니다.\n\n성장은 이러한 논의가 진정으로 범죄율을 줄이지 못하고 오히려 부패를 증가시킴과 함께 광둥을 도덕적 퇴폐 상태로 되돌려놓을 것이라고 단호하게 주장하는 반면, 의회 내의 반대자들은 이러한 법이 헛되고 시행 또한 불가능하며, 대신 도박의 재합법화와 도박세의 복구가 추진되어야 한다고 주장합니다.\n\n물론 광둥은 민주적이기 때문에, 성의회가 이 문제를 투표를 통해 해결할 것입니다."
 lng.16.a:0 "도박 금지가 유지된다."
 lng.16.b:0 "도박 금지가 완화되다."
 
@@ -1385,12 +1385,12 @@ fedsturkwp.1.d:0 "After the devious Governor of Xinjiang had convinced the atten
 fedsturkwp.1.a:0 "현명한 선택이군."
 fedsturkwp.1.b:0 "우린 두려울 게 없다!"
 
-fedsturkwp.2.t:0 "Federalists Recongizes Western Neutrality"
-fedsturkwp.2.d:0 "The Federalists have officially recognized the folly of the Governor of Xinjiang, and has denouced his act of aggression against us. This pronouncement is followed by an order to cease military action against our land. Our has shown his appreciation for this peace, and the people of the Western Gate has a repsite from our armies."
-fedsturkwp.2.a:0 "We are glad for this understanding"
+fedsturkwp.2.t:0 "연성주의자들이 서방의 중립을 인정하다"
+fedsturkwp.2.d:0 "연성주의자들은 신장성장의 어리석은 행동을 공식적으로 인정했고, 우리를 향한 그의 공격 행위를 비난했습니다. 이러한 선언에 이어, 우리 영토에 대한 군사 행동을 중지하라는 명령이 내려졌습니다. 우리는 그의 평화에 대한 고마움을 보여주었고, 하서회랑의 주민들은 아군으로부터 잠시 한숨을 돌리게 되었습니다."
+fedsturkwp.2.a:0 "이러한 양해가 참 기쁘군."
 
 fedsturkwp.3.t:0 "연성주의자들이 평화 제안을 거절하다"
-fedsturkwp.3.d:0 "The Federalists have denounced our government as an insurgent force trying to overthrow Chinese soverignity in Xinjiang. The Federal President has even promised his people a return to the legitimate Chinese governorship of Xinjiang, and the end to obviously alien influence in the Province. This pronouncement is followed by a reiteration of military action against us. Our leader has, in turn, denounced the manipulative Federalist movement, which acts no different than any other Southern Chinese upstart."
+fedsturkwp.3.d:0 "연성주의자들은 우리 정부를 신장에서의 중국의 통치권을 전복하려는 반란 세력이라고 비난했습니다. 심지어 합중국 대총통은 국민들에게 신장에 중국의 적법한 성장직이 되돌아올 것을 약속했고, 이 성에서 외지인의 영향력이 분명히 끝맺을 것임을 약속했습니다. 이 선언에 이어 우리에 대한 반복적인 군사 행동이 이어졌으며, 우리의 지도자는 결국 다른 모든 남중국의 애송이들과 다를 바 없는 교활한 연성자치운동을 고발했습니다."
 fedsturkwp.3.a:0 "농담하는 거지?"
 
 lngkmt.1.t:0 "국민당이 우리의 복속을 요구하다"
