@@ -1,17 +1,17 @@
 ﻿l_english:
 
-Morocco_Focus:0 "모로코 중점계통도"
+Morocco_Focus:0 "모로코 중점 계통도"
 
-MOR_social_democrat_party:0 "IILS"
-MOR_social_democrat_party_long:0 "Al-Ittihad Al-Ishtirakiy Lilqawat Al-Sha'abiyah"
-MOR_social_conservative_party:0 "Hizb Al-Istiqlal"
-MOR_social_conservative_party_long:0 "Hizb Al-Istiqlal"
+MOR_social_democrat_party:0 "인민사회주의연합"
+MOR_social_democrat_party_long:0 "인민사회주의연합"
+MOR_social_conservative_party:0 "독립당"
+MOR_social_conservative_party_long:0 "독립당"
 MOR_authoritarian_democrat_party:0 "Sulalat al-'Alawiyyin al-Filaliyn"
 MOR_authoritarian_democrat_party_long:0 "Sulalat al-'Alawiyyin al-Filaliyn"
 MOR_paternal_autocrat_party:0 "Sulalat al-'Alawiyyin al-Filaliyn"
 MOR_paternal_autocrat_party_long:0 "Sulalat al-'Alawiyyin al-Filaliyn"
-MOR_national_populist_party:0 "IMA"
-MOR_national_populist_party_long:0 "Ittihad al-Maghrib al-'Arabi"
+MOR_national_populist_party:0 "아랍 마그레브 연합"
+MOR_national_populist_party_long:0 "아랍 마그레브 연합"
 MOR_social_liberal_party:0 "Jabhat Lildifae ean Al-Muasasat Al-Dusturia"
 MOR_social_liberal_party_long:0 "Jabhat Lildifae ean Al-Muasasat Al-Dusturia"
 MOR_market_liberal_party:0 "Alhizb Almaghribiu Alliybiraliu"
@@ -24,13 +24,13 @@ MOR_totalist_party:0 "Alhizb Alshuyueiu Almaghribiu"
 MOR_totalist_party_long:0 "Alhizb Alshuyueiu Almaghribiu"
 
 ### Leaders ###
-POLITICS_MOHAMMED_ALAOUITE_DESC:0 "Crowned with the backing of the Central Powers following his father's forced abdication, King Mohammed styles himself as a western monarch would. He has skilfully manoeuvred his nation's relationship with the wider world and secured the broad support for his at times heavy-handed statesmanship."
+POLITICS_MOHAMMED_ALAOUITE_DESC:0 "아버지가 강요받아 퇴위한 후 동맹국의 지지로 왕관을 쓴 모하메드 국왕은 서양의 군주를 자칭합니다. 그는 넓은 세계에 있는 국가와의 관계에 능숙하게 묘책을 부려왔고 때로는 가혹한 정치적 수완에 대해 광범위한 지지를 확보해왔습니다."
 
 ### Focus Tree ####
 
 ### Politics ###
 MOR_a_time_of_troubles:0 "고난의 시간"
-MOR_a_time_of_troubles_desc:0 "Recent years have not been kind to Morocco. Facing poverty and underdevelopment, our people have withstood, but suffered. We are strong as a nation and people, but we can no longer ignore the issues. From now on, we are committed to solving the troubles of our nation."
+MOR_a_time_of_troubles_desc:0 "최근 몇 해는 모로코에 친절하지 않았습니다. 가난과 저개발에 직면한 우리 국민은 견뎌냈지만 고통받았습니다. 우리는 국가와 국민으로서 강하지만 이러한 문제들을 더는 무시할 수 없습니다. 이제부터 우리는 우리나라의 문제를 해결하는 데 헌신적이어야 합니다."
 MOR_national_infrastructure_plan:0 "국가 기반시설 계획"
 MOR_national_infrastructure_plan_desc:0 "The NIP seeks to rejuvenate our failing infrastructure within our national cities. From here we can continue with other projects to improve the living standards of our people."
 MOR_royal_morrocan_railways:0 "모로코 철도"
@@ -215,9 +215,9 @@ MOR_germanmission_idea:0 "German Military Mission"
 MOR_germanmission_idea_desc:0 ""
 
 ###Events###
-mor.1.t:0 "History of Morocco"
-mor.1.d:0 "In 1904, France and Spain carved out zones of influence in Morocco. Recognition by the United Kingdom of France's sphere of influence provoked a strong reaction from the German Empire, and a crisis loomed in 1905. The matter was resolved at the Algeciras Conference in 1906. The Agadir Crisis of 1911 increased tensions between European powers. The 1912 Treaty of Fez made Morocco a protectorate of France, and triggered massive riots. By the same treaty, Spain assumed the role of protecting power over the northern and southern Saharan zones. During the Weltkrieg, the Zaian Confederation of Berbers rebelled against France and received ample Central Power support, but failed to achieve any major victories until after the fall of France. While various pretenders attempted to negotiate with the German Empire, they were inconclusive, and in the end, Mohammed V was placed on the throne after his father abdicated. The new Sultan signed a new treaty with the Germans, one whose influence on internal Moroccan affairs was greatly diminished compared to the French Protectorate. The treaty is carefully worded as to render it as amicable as possible. However, tensions still flare up on occasion, sometimes requiring the German-backed Royal Guard to intervene. As the 30s roared in, Morocco recovered from the Protectorate era, yet relations with Algiers remain quite cool, event to the point that some nationalists advocate strengthening the alliance with the German Empire to secure Moroccan independence. The Sultan must safeguard Morocco against not only the revanchist French elites in Algeria, but also the savage revolutionaries in Paris who see Morocco as a gateway for the revolution into Africa and the Islamic World."
-mor.1.a:0 "We stand tall."
+mor.1.t:0 "모로코의 역사"
+mor.1.d:0 "1904년, 프랑스와 스페인은 모로코로 세력을 뻗쳤습니다. 프랑스의 동맹인 영국의 인정은 독일 제국의 거센 반발을 불러왔고, 1905년에 위기가 닥쳐왔습니다. 이 문제는 1906년 알헤시라스 회의에서 해결되었습니다. 1911년 아가디르 위기는 유럽 강대국들 사이의 긴장을 고조시켰습니다. 1912년 페스 조약은 모로코를 프랑스의 보호국으로 만들고, 대폭동을 유발했습니다. 같은 조약으로 스페인은 북쪽과 남쪽 사하라 지역에서 이익대표국의 역할을 맡았습니다. 대전쟁 때 베르베르족의 자이안 연합이 프랑스에 대한 반란을 일으켜 충분한 동맹국의 지원을 받았지만 프랑스가 정복될 때까지 이렇다 할 승리를 거두지 못했습니다. 왕위를 주장하는 여러 사람이 독일 제국과 협상을 시도하는 동안 그들은 결론을 내리지 못했고, 마침내 모하메드 5세가 아버지가 퇴위한 후 왕위에 올랐습니다. 새로운 술탄은 프랑스의 보호국 시절보다 매우 줄어든 영향력을 끼치는 독일과 새로운 조약을 맺었습니다. 그 조약은 가능한 한 우호적이기 위해 신중히 작성되었습니다. 그러나 가끔 긴장이 고조되어 독일의 지원을 받은 왕실 근위대가 개입해야 할 때가 있습니다. 30년대가 으르렁거리며 모로코는 보호국 시대에서 벗어났지만, 일부 민족주의자들이 모로코 독립을 위해 독일 제국과의 동맹 강화를 지지할 정도로 알제와의 관계는 매우 냉랭합니다. 술탄은 보복주의적인 알제리의 프랑스 엘리트들뿐만 아니라 모로코를 아프리카와 이슬람 세계로의 혁명의 관문으로 보는 파리의 야만적인 혁명가들로부터 모로코를 보호해야 합니다."
+mor.1.a:0 "우리는 우뚝 서있다."
 
 mor.2.t:0 "Berber Issue"
 mor.2.d:0 "We need to decide what we are to do with the Berbers in our nation."
