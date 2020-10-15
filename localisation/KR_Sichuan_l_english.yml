@@ -2061,9 +2061,9 @@ sichuan.506.t:0 "성공적인 군제 개혁"
 sichuan.506.d:0 "The armies in Sichuan have been bloated during the Warlord Era, fighting among each other, murdering and looting indiscriminately. Reforms have been a necessity for many years, but none of the warring cliques in the province were willing to open themselves to attacks. With the power struggle over, the provincial army has been transferred back under the government's control and measures were taken to avoid the buildup of paramilitaries. With bloat reduced, funds can be put elsewhere while the remaining military budget can be used to modernize our forces and focus on combating banditry."
 sichuan.506.a:0 "새로운 지역을 위한 새로운 군대로군."
 
-sichuan.507.t:0 "The End of Banditry"
+sichuan.507.t:0 "도적질의 종말"
 sichuan.507.d:0 "Banditry is inevitable when governments collapse and it has been endemic for years in Sichuan as the warlords struggled for control. Things became worse when rival cliques were defeated as those soldiers not integrated fled to the countryside and became bandits themselves. With reforms well-underway in the army and administration, the Provincial Army has been able to focus on rooting out the remaining bandit strongholds in the province and the latest campaign has been a major success. It won't be long before rule of law is restored across the entire province."
-sichuan.507.a:0 "A warzone no more."
+sichuan.507.a:0 "교전은 더이상 그만."
 
 sichuan.508.t:0 "정당 창당을 시작하다"
 sichuan.508.d:0 "With the growing strength of the Provincial Assembly came the emergence of political parties to organize representatives along clear sets of policies. While the Officers remain relatively united, two major parties naturally formed around the main factions of the Department, the Federalists and the Nationalists.\n\nThe Self-Government Party is aligned with Chen Jiongming's Public Interest Party, or Zhigongdang (CZGP) and have largely adopted their platform, focusing on provincial and county-level democratization and autonomy. Xiong Kewu is their chairman.\n\nThe pro-Kuomintang faction organized itself as the Three-Principles Party, or Sanmin Party, clearly united in their goal of implementing Sun Yat-sen's political theories. Lu Chao leads them as de facto head of Sichuan's Kuomintang.\n\nOutside of the question of provincial autonomy and their allegiance to different national parties, the two overlap significantly in terms of policy and a consensus government is likely."
@@ -2075,7 +2075,7 @@ sichuan.509.a:0 "국민당이 의회를 장악했다."
 sichuan.509.b:0 "연성주의자가 의회를 장악했다."
 
 sichuan.510.t:0 "[GetYear]년 지방선거"
-sichuan.510.d:0 "The people of Sichuan are about to exercise their civic duty once more as new provincial elections have been called. The Federalists and Nationalists remain the two major parties with a chance of winning.\n\nThe Federalists are running as the Self-Government Party and are aligned with Chen Jiongming's Public Interest Party (Zhigongdang, CZGP). They wish to implement Chen's Reconstruction Plan and join in his effort to turn China into a federal republic.\n\nThe Nationalists of the Kuomintang are under the Three-Principles Party and wish to implement a program based on Sun Yat-sen's political theories. They are aligned with Song Qingling's faction within the Nationalist Party and want to support their efforts in unifying the country."
+sichuan.510.d:0 "새 지방선거가 실시되면서 쓰촨의 인민들은 다시 한 번 민주시민으로서의 의무를 다하려 하고, 연성주의자들과 국민당이 승산이 있는 양대 정당으로 존재하는 상태입니다.\n\n연성주의자들은 자치당으로 출마했고, 천중밍의 치공당(Zhigongdang)과 제휴하고 있습니다. 그들은 천중밍의 재건 계획을 이행하고 중국을 연방공화국으로 바꿔놓기 위한 그의 노력에 동참하기를 희망합니다.\n\n반면 국민당(Kuomintang) 출신자들은 삼민당 소속으로 쑨원의 정치이론에 입각한 계획을 시행하려 합니다. 이들은 국민당 당내에 존재하는 쑹칭링 계파와 제휴하고 있으며, 국가를 통합하고자 하는 이들의 노력을 지지하길 원합니다."
 sichuan.510.a:0 "연성주의자가 의회를 장악했다."
 sichuan.510.b:0 "국민당이 의회를 장악했다."
 
