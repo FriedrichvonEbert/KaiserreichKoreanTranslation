@@ -51,8 +51,7 @@ FOP_fund_south_patagonia:0 "산타크루즈에 자금 투입"
 FOP_fund_south_patagonia_desc:0 "파타고니아 남부 지역인 산타크루즈는 아르헨티나의 낙후 지역중 하나였으며, 겨우 몇 개의 어촌과 광산만이 있는 지역입니다. 중앙 건설청은 이곳에 자금을 투입하여 이 지역의 개발진척도가 추부트를 따라잡도록 함으로써, 재정적 부담을 줄여주고, 우리가 하려는 사업들을 지원을 할 수 있게 되기를 바라고 있습니다."
 
 FOP_factory1:0 "파타고니아 산업 혁명"
-FOP_factory1_desc:0 "노동자들의 위대한 노력으로 파타고니아를 완전히 현대화된 산업화된 국가로 만들겠다는 목표를 이루었습니다. 이제 머지않아 우리는 아르헨티나에서 가장 가난한 지역이라는 족쇄를 부수고 우리만의 산업혁명을 가진 노동자들의 낙원으로 변해 것입니다!
-"
+FOP_factory1_desc:0 "노동자들의 위대한 노력으로 파타고니아를 완전히 현대화된 산업화된 국가로 만들겠다는 목표를 이루었습니다. 이제 머지않아 우리는 아르헨티나에서 가장 가난한 지역이라는 족쇄를 부수고 우리만의 산업혁명을 가진 노동자들의 낙원으로 변해 것입니다!"
 
 FOP_military1:0 "군사적 자립"
 FOP_military1_desc:0 "동지들의 도움에만 의존하던 시절은 지나갔습니다. 노동자들의 노력과 헌신을 통해 우리는 자급자족 할 수 있는 정도에 가까워지고 있습니다. 전쟁을 하고자하는 파타고니아의 노력은 총들을 끊임없이 생산하고 있습니다. 현재 우리는 그 어느 때보다도 우리 스스로를 방어할 준비가 되어있을 것입니다.
@@ -97,81 +96,90 @@ FOP_imports_from_chile:0 "칠레의 군사적 원조"
 FOP_imports_from_chile_desc:0 "우리가 벼랑끝에 서 있을 때, 안데스 반대편에 있는 우리의 동지들은 군사 원조를 강화할 준비가 되어 있다고 알려주었습니다. 이것은 신생 혁명군에게 적절한 총을 지급하는 데 큰 도움이 될 것입니다."
 
 FOP_internationale_guns:0 "인터내셔널의 총기"
-FOP_internationale_guns_desc:0 "Our comrades in Chile can only provide us with so much. In order to make sure every soldier has a rifle and enough ammunition to make up for the superior numbers of the counter-revolutionaries, we'll need to look abroad for help. Thankfully, our comrades in Paris and London will be able to provide us with what we need in the spirit of red solidarity."
+FOP_internationale_guns_desc:0 "칠레의 동지들은 우리에게 필요한 최소한의 물자만을 제공해 줄 수 있습니다. 모든 군인들이 반혁명분자들과 맞설수 있는 충분한 양의 소총과 탄약을 확보하기 위해서, 우리는 해외에 도움을 요청할 필요가 있습니다. 파리와 런던의 동지들은 붉은 연대의 정신으로 우리에게 필요한 것을 제공해 줄 것입니다."
 
 FOP_indiscriminate_conscription:0 "무차별적인 징병"
-FOP_indiscriminate_conscription_desc:0 "In order to solve our manpower shortages we may be forced to expand the size and scope of our conscription efforts. Every man and woman need to do their duty for the revolution. Even if the quality of our army will suffer until we win the war due to the influx of unfit soldiers into the ranks, an unfit soldier is better than no soldier at all."
+FOP_indiscriminate_conscription_desc:0 "인력난을 해결하기 위해 징병 활동의 규모와 범위를 확대해야 합니다. 남녀노소 모두는 혁명을 위해 국방의 의무를 다해야 합니다. 전투를 치루기 어려운 병사들이 전선에 합류해서 군대의 수준이 나빠지더라도 아예 병사가 없는 것보다 낫습니다."
 
 FOP_call_on_chilean_manpower:0 "칠레 의용병 요청"
-FOP_call_on_chilean_manpower_desc:0 "Many of our comrades across the Andes are eager to spread the revolution and fight for their country, but are unable to enlist and fight in the Chilean army. We need to get the message to as many of them as possible that there's a ration, rifle and an opportunity to spread the revolution on our side of the border."
+FOP_call_on_chilean_manpower_desc:0 "안데스 산맥의 동지들은 혁명을 위해, 조국을 위해 싸우기를 열망하고 있지만 칠레가 직접 개입할 수는 없습니다. 대신 우리는 이들에게 보급품과 소총, 그리고 혁명을 우리에게 전달할 기회가 있다는 메시지를 전해야 합니다."
 
 FOP_call_on_european_help:0 "유럽 인력 요청"
-FOP_call_on_european_help_desc:0 "Even if we gave a rifle to every man and woman in Patagonia we'd still be outnumbered. To match our enemies, we must call on our comrades in Europe to help bolster our ranks. Luckily for us, the cradle of the world revolution is full to the brim with revolutionaries that are eager to help the socialist cause. All we need to do is to put out the word and help them reach our shores."
+FOP_call_on_european_help_desc:0 "파타고니아에 있는 모든 남녀에게 소총을 쥐여 주더라도 수적인 불균형은 여전할 것입니다. 적들과 대등해지기 위해서, 우리는 유럽에 있는 동지들을 불러 우리의 전선을 강화하도록 해야 합니다. 다행히도, 세계 혁명의 요람은 사회주의 대의를 돕기 위해 열심인 혁명가들로 가득 차 있습니다. 우리는 그들이 우리 해안에 도착할 수 있게 해야합니다."
 
 FOP_international_army:0 "인터내셔널의 힘"
-FOP_international_army_desc:0 "There are untold thousands of aspiring and veteran revolutionaries across the world that are ready, willing and able to enlist with us. We only need to spread the message and aid as many of them as possible to join us. While this will lead to some coordination issues between our soldiers, it'll make sure our ranks are full."
+FOP_international_army_desc:0 "전 세계에는 우리와 함께 혁명을 전파하고, 기꺼이 군에 입대할 수 있는 수천 명의 야심차고 훌륭한 혁명가들이 있습니다. 우리는 이들이 우리와 함께 할 수 있도록 원조만 하면 됩니다. 병사들 간의 의사소통이나 작전 수행간에 문제가 생길 수는 있겠지만, 전선은 동지들로 꽉 차게 될 것입니다."
 
 FOP_international_officers:0 "인터내셔널 항공 의용병"
-FOP_international_officers_desc:0 "While the idea of a Patagonian air force is presently unrealistic, our increased contacts with foreign revolutionaries has allowed us to reach out to experienced pilots around the world ready to turn the skies red. While these daredevils can only provide their own planes, having them on our side will deny the capitalists the uncontested skies they're expecting!"
+FOP_international_officers_desc:0 ""파타고니아 공군"이라는 말은 조금 낯설게 느껴지기도 하지만, 외국의 혁명가들 덕분에 우리는 하늘을 붉게 물들일 전 세계의 숙련된 조종사들과 만날 수 있게 되었습니다. 이 대담무쌍한 사람들은 비록 자신들의 항공기만을 제공할 뿐이지만, 자신들이 제공권을 통제하고 있다고 믿는 자본주의자들의 환상을 산산조각낼 것입니다. "
 
-FOP_manpower_issue_solved:0 "인력난의 종료"
-FOP_manpower_issue_solved_desc:0 "Desperate times have indeed called for desperate measures but thanks to our efforts we now boast a force that can stand up to the oppressors in the north. When the foe comes to try and take our freedom away we're finally ready to fight them with a fully manned revolutionary army!"
+FOP_manpower_issue_solved:0 "인력난 해결"
+FOP_manpower_issue_solved_desc:0 "절망적인 시기에 우리는 가혹하다고 할 수도 있을 조치를 취했지만, 노동자들의 노력 덕분에 우리는 북부의 압제자들과 동등하게 맞설 수 있는 힘을 자랑하고 있습니다. 적들이 노동자의 자유를 종속시키려 할 때, 우리는 완전히 무장된 혁명 군대로 그들과 싸울 준비가 되어 있습니다!"
 
 FOP_man_the_border:0 "국경 요새화"
-FOP_man_the_border_desc:0 "With the enemy's superiority in numbers and equipment a defensive stance is not out of the question. By dotting our front line with fortifications and trenches we'll make sure that our former oppressors will pay a heavy price for every inch of Patagonian soil they try to steal from our liberated workers!"
+FOP_man_the_border_desc:0 "적이 숫자와 장비에서 우위에 있기때문에, 방어적인 자세는 문제되지 않습니다. 요새와 참호를 우리의 전선에 산개함으로써 이전의 압제자들이 해방된 우리의 노동자들의 땅을 가져가려 할 때마다 엄청난 대가를 치르게 할 것입니다!"
 
 FOP_new_infantry_equ:0 "북쪽으로의 침투"
-FOP_new_infantry_equ_desc:0 "Fighting the enemy on their terms will be the death of us. Instead, we'll destroy our foe by fighting unconventionally and forcing them to meet us on our terms, not theirs."
+FOP_new_infantry_equ_desc:0 "적들의 의도에 따라 싸우는 것은 죽음을 의미합니다. 그 대신 우리는 유격전을 수행하고 우리가 의도하는대로 전투가 흘러가도록 강요함으로써 적들을 파멸시킬 수 있을 것입니다."
 
-FOP_organise_the_troops:0 "유럽의 전쟁방식"
-FOP_organise_the_troops_desc:0 "Most of our fighters are militiamen and guerrillas without any formal military backgrounds. While more than capable of defending our country, some of our European comrades are offering to help us organize our divisions according to a more regular model. Integrating more of these veterans to train our militias will also help us improve their overall efficiency as well."
+FOP_organise_the_troops:0 "유럽의 전투방식"
+FOP_organise_the_troops_desc:0 "우리 병사들의 대부분은 공식적인 군 경력이 없는 민병대와 게릴라들입니다. 단순히 나라를 지키는 것 그 이상을 위해, 유럽의 동지들 중 몇몇은 더욱 정규화된 모양으로 우리 사단을 조직할 수 있도록 도와주겠다고 합니다. 이러한 정예병사들과 통합하여 민병대를 양성하는 것도 군의 전체적인 효율성을 향상시키는 데 도움이 될 것입니다."
 
 FOP_mountain_professionals:0 "철도 파괴"
-FOP_mountain_professionals_desc:0 "Argentina is a vast land of mountains and rivers. This forces the enemy to rely heavily on railroads to move their forces through the country. If we could prepare a series of railroad sabotages, we should be able to temporarily cripple their mobility in the first crucial weeks of the war."
+FOP_mountain_professionals_desc:0 "아르헨티나는 산과 강이 있는 광활한 땅입니다. 이로 인해 적군은 병력을 배치할 때 철도에 크게 의존할 수 밖에 없습니다. 만약 우리가 철도를 파괴하고자 한다면, 우리는 전쟁에서 중요한 처음 1주에 일시적으로 그들의 기동성을 무력화시킬 수 있을 것입니다."
 
 FOP_infiltration_time:0 "세포같은 침투"
-FOP_infiltration_time_desc:0 "Argentina is a vast land of mountains and rivers. This forces the enemy to spread their forces throughout the country. If we could infiltrate and sow the seeds of rebellion, we should be able to temporarily tie up their resources in the first crucial weeks of the war."
+FOP_infiltration_time_desc:0 "아르헨티나는 산과 강이 있는 광활한 땅입니다. 이로 인해 적은 군대를 넓게 분산시킬 수 밖에 없습니다. 만약 우리가 내부로 침투하여 반란의 씨앗을 뿌릴수만 있다면, 우리는 전쟁에서 중요한 처음 1주에 일시적으로 그들의 자원을 묶을 수 있을 것입니다."
 
-FOP_armored_mechanized_research:0 "인터내셔널 갑옷 전문가"
-FOP_armored_mechanized_research_desc:0 "The Weltkrieg proved the effectiveness of tanks in modern breakthrough operations. For our revolutionary armed forces to fully transition into a modern army, it's necessary for us to develop a mechanized branch. By soliciting help from British and French engineers, we should be able to speed up this process significantly."
+FOP_armored_mechanized_research:0 "인터내셔널 기갑 전문가"
+FOP_armored_mechanized_research_desc:0 "세계대전은 현대전에서의 전차의 효과를 증명했습니다. 우리의 혁명 군대가 현대적인 군대로 완전히 탈바꿈하기 위해서는 기계화 분과를 창설하는 것이 필요합니다. 런던과 파리의 기술자들에게 도움을 청함으로써, 우리는 이 과정을 상당히 빠르게 준비할 수 있을 것입니다."
 
-FOP_military_research:0 "우리의 전략 표준화"
-FOP_military_research_desc:0 "The very decentralized nature of our forces has led to a situation where each squad has its own tactics and methods, and sometimes they aren't even that organized. While unpredictability has its advantages, we should at least standardize our army tactics to the point where our officers can at least predict what moves their comrades can be expected to make."
+FOP_military_research:0 "전략 표준화"
+FOP_military_research_desc:0 "우리 군대는 매우 분권화된 성격으로 인해 각각의 분대만의 전술과 방법이 있는데, 이는 우리 군대의 조직력을 상당히 약화시키고 있습니다. 실제 전장에서의 장점도 있겠지만, 적어도 장교진들은 전우들이 어떤 움직임을 보여줄지 예측할 정도로는 군 전술을 표준화해야 합니다."
 
-FOP_army_drills:0 "베테랑 강사"
-FOP_army_drills_desc:0 "Since our revolutionary army mostly consists of volunteer militias drawn from local population, their quality is severely inconsistent from regiment to regiment. By carefully picking out and embedding some of our more more capable and experienced experienced veterans with our fresh  recruits we'll be able to even out their performance and better preserve the army's institutional knowledge."
+FOP_army_drills:0 "정예 교관"
+FOP_army_drills_desc:0 "혁명군은 대부분 각각의 지역에서 뽑은 민병대이기 때문에 부대별로 숙련도의 차이가 큽니다. 보다 능력 있고 경험이 풍부한 정예 병사를 신중히 선발하여 신병들에게 붙여줌으로써, 우리는 그들의 능력을 향상시키고 군의 제도적인 지식을 계속해서 유지할 수 있을 것입니다."
 
 FOP_new_training_methods:0 "색다른 공급 네트워크"
-FOP_new_training_methods_desc:0 "The way we fight means that our revolutionary soldiers often find themselves outside of anything resembling a conventional supply chain. By setting up forward supply caches ahead of advances and training our fighters to better forage for supplies behind enemy lines, we'll vastly improve our overall supply situation."
+FOP_new_training_methods_desc:0 " 혁명군이 현재 싸우는 방식을 고수하려면 전통적인 보급망으로는 불가능합니다. 보급품을 숨길 은닉처를 설치하고 적진의 후방에서 숨겨진 물자를 더 잘 찾아낼 수 있도록 전사들을 훈련시킴으로써 우리는 전체적인 보급 상황을 크게 개선할 수 있을 것입니다."
 
 FOP_military_research2:0 "외교 정책 지원"
-FOP_military_research2_desc:0 "As our army gains experience, our tactics are also improving. However, now that we're starting to move away from the basics, we need to start defining what shape our grand strategy should take, and we should look to the Internationale for help in this matter."
+FOP_military_research2_desc:0 "혁명군이 경험을 쌓으면서 전술도 발전하고 있습니다. 하지만, 이제 막 기본에서 벗어나기 시작했을 뿐입니다. 앞으로 우리군의 위대한 전략이 어떤 형태를 취해야 하는지를 정해야 합니다. 또한 우리는 인터내셔널에도 도움을 요청해야 합니다."
 
 FOP_organised_force:0 "의무적인 민병대 훈련"
-FOP_organised_force_desc:0 "The constant threat from counter-revolutionaries in Buenos Aires and beyond is forcing us to mandate that our citizens undergo a basic militia training regimen. By preparing our people both physically and mentally for future conflicts, they can be turned into combat-worthy soldiers far more efficiently once their service to the revolution is needed the most."
+FOP_organised_force_desc:0 "부에노스아이레스와 그 너머의 반혁명분자들의 끊임없는 위협에 대비하기 위해, 우리는 시민들에게 기본적인 민병대 훈련과정을 거치도록 의무화하고 있습니다. 우리 민족이 미래의 갈등에 대해 육체적, 정신적으로 모두 대비함으로써, 혁명에 대한 그들의 헌신이 필요하게 되면 그들은 지금보다 훨씬 더 전투에 적합한 군인으로 변모할 것입니다."
 
 FOP_national_defence:0 "군사화된 사회"
-FOP_national_defence_desc:0 "There can be no permanent peace with the counter-revolutionaries and to safeguard our revolution we'll need to militarize our society for the inevitably conflicts that lie ahead. With a citizenry that's prepared and ready for war, anyone foolish enough to wage war against our lands will be met with fierce resistance from every layer of society."
+FOP_national_defence_desc:0 "반혁명분자들과의 평화는 있을 수 없으며, 우리의 혁명을 수호하기 위해서는 앞으로 닥쳐올 필연적인 분쟁에 대비하여 우리 사회를 무장시킬 필요가 있을 것입니다. 전쟁 준비가 되어 있는 노동자들과 함께, 우리와 전쟁을 할 만큼 어리석은 자들은 파타고니아의 모든 계층으로부터 격렬한 저항에 직면하게 될 것입니다."
 
 ### Political Tree ###
 FOP_The_revolution_succesful:0 "혁명의 성공"
-FOP_The_revolution_succesful_desc:0 "그 모든 역경에도 불구하고, 우리는 위풍당당하게 서 있습니다. 조국은 폐허가 되었으며, 우리 인민들은 당분간 이런 상황에 적응해야 할지도 모릅니다. 그러나 이 나라를 일으켜 세운 것은 우리 노동자들이라는 것을 잊어선 안 됩니다. 그리고 우리는 다시 한 번 일으켜 세울 준비가 되었습니다!"
+FOP_The_revolution_succesful_desc:0 "그 모든 역경에도 불구하고, 우리는 위풍당당하게 서 있습니다. 조국은 폐허가 되었으며, 우리 인민들은 당분간 이런 상황에 적응해야 할지도 모릅니다. 그러나 이 나라를 일으켜 세운 것은 우리 노동자들이라는 것을 잊어선 안 됩니다. 그리고 우리는 아르헨티나를 다시 한 번 일으켜 세울 준비가 되었습니다!"
+
 FOP_first_national_TUC:0 "제1차 전국노동조합총회"
-FOP_first_national_TUC_desc:0 "Coming from a tradition of Republican democracy, Argentina had never had a Trade Union Congress up to this point, and while many are anxious to see this historical events, many are wary of it being simply a masquerade for a dictatorial regime. As the gates to the old Congress open to the Union delegates, the fate of the nation hangs in the balance..."
-FOP_the_anarchist_radicals:0 "아나키스트 급진파"
-FOP_the_anarchist_radicals_desc:0 "With Severino di Giovanni now serving as the acting chairman, the Anarchist Radicals of the USA have come out on top of the other factions decisively. With a very harsh stance on religion, inequality and nationalism, the Anarchists will attempt to sweep whatever remained from the old Argentina away, and make the Argentinean territory a nation for all workers of the world."
+FOP_first_national_TUC_desc:0 "민주 공화정 정치 체제를 이어온 아르헨티나는 지금까지 단 한 번도 노동조합 총회를 개최한 적이 없었습니다. 어떤 사람들은 이 역사적인 사건을 간절히 바라고 있지만, 또 어떤 사람들은 단순한 독재 정권의 탄생이라고 생각하며 경계하고 있습니다. 노동조합 대표단에게 옛 의회의 관문이 열렸지만, 국가의 운명은 극히 불안정합니다."
+
+FOP_the_anarchist_radicals:0 "무정부주의 급진파"
+FOP_the_anarchist_radicals_desc:0 "세베리노 디 지오반니가 현재 의장 직무대행을 맡고 있는 가운데, 미국의 무정부주의 급진파가 다른 파벌의 꼭대기에 올랐습니다. 종교, 불평등, 그리고 민족주의에 대한 매우 단호한 입장을 가지고, 무정부주의자들은 옛 아르헨티나로부터 남아 있는 모든 것을 쓸어버리고, 아르헨티나의 영토를 세계의 모든 노동자들을 위한 국가로 만들려고 노력할 것입니다."
+
 FOP_Equal_Roles_for_Men_and_Women:0 "여성의 권리 논쟁"
-FOP_Equal_Roles_for_Men_and_Women_desc:0 "With the conservative regimes trying to keep women as separate from men for a long time, the coming of more liberal regimes over the years changed the outlook for many of them, leading to the creation of many feminist organizations and the inclusion of women in many areas like cinema with equal status. However, Giovanni wish to take this a step further, and such matter will need to be discussed in the congress..."
+FOP_Equal_Roles_for_Men_and_Women_desc:0 "보수적인 정권들이 오랫동안 여성들을 남성과 분리시키려 노력했습니다. 이후 수년 동안 많은 자유주의 정권들이 등장함에 따라 많은 여성 인권 조직들이 생겨나거나 영화와 같은 많은 분야에 여성들이 포함되게 되었습니다. 하지만 세베리노는 이 문제를 한 단계 더 진전시키고자 하며, 이 문제는 의회에서 논의될 필요가 있을 것입니다..."
+
 FOP_Seize_Church_Property:0 "교회와의 전쟁"
 FOP_Seize_Church_Property_desc:0 "아르헨티나는 교회가 정치계의 주요 권력 브로커 역할을 하는 등, 사실상 세속 국가였던 적이 한 번도 없습니다. 그러나 혁명 정권이 들어선 지금, 이런 사태는 반드시 종식될 것입니다. 세베리노의 부하들이 아르헨티나의 모든 성직자들을 기소할 준비를 하고 있으며, 그들이 원하는 것은 교회를 국가에서 완전히 제거하는 것뿐입니다..."
+
 FOP_Build_a_New_Society:0 "새로운 사회 건설"
-FOP_Build_a_New_Society_desc:0 "Now that the Congress' tasks have been completed, Severino has offered to pass a bill severely weakening the Congress, in exchange transferring most of its duties to a Federal council elected by regional councils. While that may reduce our control over the farthest regions of our nation, it will allow the more industrialized sectors to run more smoothly."
-FOP_the_anarchist_moderates:0 "아나키스트 온건파"
-FOP_the_anarchist_moderates_desc:0 "With Soto remaining in his post of chairman, the USA remains on top of the other Trade Unions, and is now preparing to carry out sweeping changes to the nation. While ideologically driven, Soto is by far a pragmatist within the revolutionary movement, and he'll seek to compromise the anarchist ideals with the society he now has the duty to rebuild. Only time will tell whether this will be successful..."
+FOP_Build_a_New_Society_desc:0 "세베리노는 의회의 과업이 완료됨에 따라 의회의 권한을 약화시키는 법안을 통과시키겠다고 제안했으며, 그 대신 지방의회가 선출한 연방의회에 기존 의회의 업무 대부분을 이양했습니다. 이로인해 우리나라의 외곽지역에 대한 우리의 통제가 줄어들 수 있겠지만, 그것은 선진화된 정치체제가 더 원활하게 운영될 수 있도록 해줄 것입니다."
+
+FOP_the_anarchist_moderates:0 "무정부주의 온건파"
+FOP_the_anarchist_moderates_desc:0 "소토가 의장직을 유지한 가운데, 미국은 다른 노동조합들 위에 남아 있고, 현재 국가에 대한 전면적인 변화를 수행할 준비를 하고 있습니다. 여러 이념가들 중에, 소토는 혁명 운동 내에서 단연 실용주의자이며, 무정부주의 이상을 재건할 의무가 있는 사회와 타협하려고 할 것입니다. 물론 이것이 성공할지는 시간만이 말해줄 것입니다..."
+
 FOP_moderate_decentralization:0 "온건한 지방분권"
-FOP_moderate_decentralization_desc:0 "While a compromising man, Soto is still an anarchist, and has therefore ordered for some of the responsibilities of the Congress to be delegated to local and regional councils, only keeping largely essential tasks for the central government. While the balance of power hasn't shifted as dramatically as originally envisioned, it still marks a change from the centralized nature of the Argentinean system."
+FOP_moderate_decentralization_desc:0 "타협적인 사람이기는 하지만 소토는 무정부주의자이며, 따라서 의회의 권한 중 일부를 지방의회에 위임하도록 명령했고, 중앙정부에 대해서는 대체로 필수적인 업무만 남겨두었습니다. 힘의 균형이 원래 계획했던 것만큼 극적으로 바뀌지는 않았지만, 기존의 아르헨티나의 중앙집권적 성격에서 변화해 나가고는 있습니다."
+
 FOP_War_Anarchism:0 "전쟁 준비 서류"
 FOP_War_Anarchism_desc:0 "While it would be the wish of many anarchists to completely abolish the Congress, the truth is that there are many reactionary regimes glancing at our nation, waiting for a time of weakness to strike. As such, Chairman Giovanni has proposed a War Preparations Bill for the congress, extending his rule and the existence of the Congress indefinitely until 'The times of reactionary aggression are at an end'."
+
 FOP_Root_out_Reactionaries:0 "대응 방안 찾기"
 FOP_Root_out_Reactionaries_desc:0 "Our nation cannot be safe from foreign reactionaries if local reactionaries aid them in snuffing out our revolution. We can give these traitors no quarter, and as such, we shall stage a national effort to capture any and all who may threaten our revolution."
 
@@ -187,56 +195,82 @@ FOP_revolutionary_outpost_desc:0 "The revolutionary war taught us to rapidly pre
 
 FOP_the_workers_militia:0 "연방 민병대 모집계획 지속"
 FOP_the_workers_militia_desc:0 "While every region is free to have their own militia, we still require a federal army to fight against the reactionaries. The proposed solution to this by the regional councils is to 'draft' a percentage of their regional militias that will instead fight for us for a period of time agreed on with each council. While it may not provide for the best trained forces, it will certainly give us ideologically driven soldiers."
+
 FOP_Reconciliate_with_the_church:0 "교회와의 화해"
 FOP_Reconciliate_with_the_church_desc:0 "With the Argentinean Catholic church having stood as a major power broker for decades, if not centuries dating back to the colonial era, it may be wise to re-approach them in order to secure our regime..."
+
 FOP_pass_revolutionary_laws:0 "혁명적 법안 통과"
 FOP_pass_revolutionary_laws_desc:0 "With the coming of a revolutionary government, it is time for the congress to give the workers what they want. With the passing of worker friendly laws, like paid vacations, the creation of democratized workplaces, authorizing handouts for the unemployed and disabled, we are sure to gain the support of the industrial workers of the nation!"
+
 FOP_Cooperate_with_the_UC:0 "Cooperate with the UC"
 FOP_Cooperate_with_the_UC_desc:0 "The Union Civica, the coalition representing the Union Civica Radical and the Union Civica Radical Antipersonalista, have openly supported us, with many of their members joining the FORA to give our trade union extra weight in the Congress. As well, we had already been supportive of each other's policies over the years, and it is only right that now that we stand on top we give them a place in our government."
+
 FOP_the_moderates:0 "사회주의당 온건화"
 FOP_the_moderates_desc:0 "After decades of struggle, the Socialist party has finally managed to become the dominant force in Argentinean politics. Unsurprisingly, it has been fairly well received by the public, as the Socialist party already had a history of sensible compromises and welfare bills, and it is expected that their rule, while not as radical as the other unions, will still try to reform our nation in favour of the workers."
+
 FOP_reinstate_municipal_elections:0 "지방선거 복구"
 FOP_reinstate_municipal_elections_desc:0 "The Socialists were never in favour of reforming Argentina around the Trade Unions, and as such, have proposed a bill in the Congress to allow for the Municipalities to elect their officials once more unrestricted. While receiving harsh protests from the opposition, the majority of the socialist party ensures that the bill will not have any severe complications."
+
 FOP_Hold_Provincial_Elections:0 "주 선거 개최"
 FOP_Hold_Provincial_Elections_desc:0 "As part of their efforts to restore the Argentinean Republic back, the Socialists have proposed a bill that will allow the individual provinces that make up Argentina to vote for their governors once more. While they have had interim governors since the end of the civil war, it is now time for the people to give the role to someone of their choosing."
+
 FOP_restore_the_suspended_constitution:0 "정지된 헌법 복구"
 FOP_restore_the_suspended_constitution_desc:0 "The final step to fully bring back the Argentinean Republic is to restore the constitution of 1898. While some revolutionaries may loathe its existence, our founder Juan B. Justo was a staunch defender of constitutionalism, and while the option to reform it to adapt it to our rule will remain on the table, we must first fully reintroduce it."
+
 FOP_expand_the_Hogar_Obrero:0 "Expand the Hogar Obrero"
 FOP_expand_the_Hogar_Obrero_desc:0 "The Hogar Obrero, a construction cooperative created by the founders of the PS back in 1905, has long since been the preferred housing company for the Socialists. With our government in power, we should expand their operations, and include them in public works programmes so that we can end homelessness in Argentina once and for all."
+
 FOP_Steer_the_Market:0 "자유시장 설립"
 FOP_Steer_the_Market_desc:0 "The founder of the Partido Socialista, Juan B. Justo, was a loyal follower of the ideas of free trade and the wealth it brought. However, he was also mindful of how workers could be exploited out of their earnings. As their successors, we shall seek to establish a competitive internal free market, ensuring that only cooperatives or other forms of worker-favourable organizations can truly compete in it."
+
 FOP_maintain_revolutionary_democracy:0 "혁명적 민주주의 유지"
 FOP_maintain_revolutionary_democracy_desc:0 "Despite the pleas to return to the old constitution, the truth is that the revolution has changed Argentina forever. It'd be a mistake to return to the old system, and instead we should seek to consolidate the Socialists' power on the Trade Union Congress, as opposed to bringing back the old congress, regardless of how much that may insult other parties..."
+
 FOP_the_Baldomeristas:0 "The Baldomeristas"
 FOP_the_Baldomeristas_desc:0 "The Baldomeristas, rising from a small club to a sizable faction of the Socialists with the victory of the revolution, they seek a new approach to Socialism, one that merges the ideas of Argentinean nationalism, American Anti Imperialism and other concepts like Agrarianism and Economic Democracy. Only time will tell whether this mix will work out for or against the new Chairman."
+
 FOP_Economic_Democracy:0 "노동자가 운영하는 기업 소개"
 FOP_Economic_Democracy_desc:0 "With the Chairman secure in power, he has decided to pass a bill on the Congress, asking to nationalize a series of key companies in Argentina. However, he has stated he does not wish to add them to the state machinery, but instead allow the workers to manage the company from now on."
+
 FOP_Encourage_Workers_Cooperatives:0 "노동자 협력 장려"
 FOP_Encourage_Workers_Cooperatives_desc:0 "In order to promote a smoother transition to a socialist economy, the chairman has proposed to hand out loans to entrepreneurial enterprises so long as they are managed by the workers. While the loans may not come cheap initially the rewards we will reap in the long term may be worth our investment."
+
 FOP_Collaborate_with_the_CGT:0 "Collaborate with the CGT"
 FOP_Collaborate_with_the_CGT_desc:0 "The Central General del Trabajo, nearly destroyed by the other unions for having collaborated with the older Argentinean regimes, is fully loyal to Baldomero's cause. As such, we should seek to reward their loyalty by giving attention to their requests, and granting some of their members access to our funds for some of their projects..."
+
 FOP_Socialist_Patriotism:0 "애국심 장려"
 FOP_Socialist_Patriotism_desc:0 "While a Socialist nation, Baldomero sustains that our fight against imperialism and capitalism didn't start in 1921, but in 1810 when our forefathers seceded from Spain. As such, the very image of Argentina stands as a testament to anti Imperialism. In order to further cement this idea to the public, he has launched an education and propaganda campaign so that every Argentinean can be a patriot without shame!"
+
 FOP_pan_american_alliance:0 "통합된 남아메리카 주"
 FOP_pan_american_alliance_desc:0 "While we respect the Internationale's intentions towards world revolution, it is hard to trust our defense to nations that are so far away and that have had their cultures and histories tainted with so many acts of savage imperialism against our continent and many others. As such, we will look towards ourselves for protection, and start a new faction that will look after the South American nations."
+
 FOP_Breadbasket_of_the_Revolution:0 "혁명의 곡창지대"
 FOP_Breadbasket_of_the_Revolution_desc:0 "Argentina has been known for a long time now as the 'Granary of the world'. With the syndicalists in Europe in a warpath against the reactionaries, we need to utilize this strength of our nation to our allies advantage, and provide them with some much needed supplies."
+
 FOP_the_jacobin_supremacy:0 "공산주의 패권"
 FOP_the_jacobin_supremacy_desc:0 "Despite having suffered a major setback when the October Revolution failed in Russia, the Argentinean Communist party has managed to reach power regardless, and now holds the majority of the seats in the Congress. While their shared dream with the Bolsheviks of a new world order under a Communist banner may still be far away, this victory has certainly brought them one step closer."
+
 FOP_Economic_Aid_for_the_Third_Internationale:0 "인터내셔널 지원"
 FOP_Economic_Aid_for_the_Third_Internationale_desc:0 "As Argentina recovers from the blows suffered in the last two decades, first with the British collapse and then with Black Monday, on top of the civil war between the FOP and Argentina, our allies in Europe find themselves with their budgets tight as war approaches their borders. It is our duty to the world revolution to aid them, and so, as our industry roars once more, we should focus on giving them our aid."
+
 FOP_Join_the_Third_Internationale:0 "제3 인터내셔널 가입"
 FOP_Join_the_Third_Internationale_desc:0 "With our cities and industry rebuilt and the workers safe from Capitalist predation, we can once more turn our gaze towards the international revolutionary struggle. The hammer of Marx and the sickle of Lenin shall rise over the world as we bring the might of the Proletariat down upon the Capitalists."
+
 FOP_Footsoldiers_of_the_Revolution:0 "영구적 징집 여단"
 FOP_Footsoldiers_of_the_Revolution_desc:0 "Conscription Brigades were adopted by Communist militias while we waited to attack the reactionaries. While some level of success was achieved, the revolutionary plans of the Communists require a larger military force, and so they have chosen to implement conscription brigades permanently, so our forces will have enough manpower to continue helping the World Revolution."
+
 FOP_Begin_Primitive_Socialist_Accumulation:0 "원시 사회주의자 모집 시작"
 FOP_Begin_Primitive_Socialist_Accumulation_desc:0 "With the writings of Yevgeni Preobrazhensky as background for our ideas, it is now time for our nation to jump from a strictly agrarian exporter to a major industrial hub. To do this, the state will appropriate the rural peasantry's surplus product in order to accumulate capital to promote industrialization by monopolizing the export of these products."
+
 FOP_Militarization_of_Labour:0 "노동자의 군사화"
 FOP_Militarization_of_Labour_desc:0 "Following Leon Trotsky's theory of militarization of labour, we shall begin drafting our citizens for auxiliary duties. While not everyone may be happy with this measure, it is their responsibility as a liberated working class from the yoke of the bourgeoisie to aid their fellow workers, and the state that protects them, to face off against the foes that may threaten it."
+
 FOP_Submit_Unions_to_State_Machinery:0 "국가 기구로의 통합 제출"
 FOP_Submit_Unions_to_State_Machinery_desc:0 "While worker unions are important, proven by the fact that a group of revolutionary unions were able to overthrow the Argentinean regime, there's no denying that a time of crisis, sacrifices have to be made. Our nation needs to increase its production levels if it wishes to keep the foreign reactionaries away, and as such, the nation's unions should put their petty squabbles to rest and submit to the party."
+
 FOP_Breakneck_Industrialization:0 "5개년 계획"
 FOP_Breakneck_Industrialization_desc:0 "With the first stepping stone towards industrialization having been started, we still have a long way to go. In order to accelerate this process, we shall enforce a Five-year plan, with a series of goals to meet and investments to make."
+
 FOP_Help_the_Revolution:0 "Aid the World Revolution"
 FOP_Help_the_Revolution_desc:0 "As our commune slowly but surely stands up again with its own two feet, our comrades in Europe are now struggling for all the workers in the world, and as committed internationalists, it is our duty to aid them in their struggle so we may free all the workers of the world from the oppression of Capital."
 
