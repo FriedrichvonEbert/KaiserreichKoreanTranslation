@@ -3,7 +3,7 @@
 ## [Kaiserreich 한국어 번역](https://steamcommunity.com/sharedfiles/filedetails/?id=2098453801)은 공개 번역으로 진행됩니다.
 - 따라서 누구든지 Github 가입 후 자유롭게 참여하실 수 있습니다! 
 - 번역팀 디스코드 주소 : https://discord.gg/fGPdPFP
-### [0.14.2 패치노트](https://www.reddit.com/r/Kaiserreich/comments/jdt1l9/kaiserreich_beta_0142a_is_out/)
+### [0.14.2a 패치노트](https://www.reddit.com/r/Kaiserreich/comments/jdt1l9/kaiserreich_beta_0142a_is_out/)
 - 20.10.19. 기준 한국어 번역의 0.14.2a 호환 작업이 완료되었습니다.
 ***
 
