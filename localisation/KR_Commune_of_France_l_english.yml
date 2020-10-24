@@ -948,8 +948,8 @@ comfrance.169.a:0 "드디어!"
 comfrance.169.b:0 "1초만 더 생각해보자..."
 
 comfrance.1000.t:0 "가믈랭의 파리 행진"
-comfrance.1000.d:0 "A few days ago, General Maurice Gamelin, launched a successful coup against the Jacobin regime of Marcel Déat. While this seems like a staunch attack on the commune’s democratic system, many argue that the Jacobins would have destroyed the democratic system if not for Gamelin’s intervention. Gamelin has promised to restore France to traditional syndicalism, and the process of De-Jacobinisation is already taking place. It is still unknown how his plans will turn out. We can only wait..."
-comfrance.1000.a:0 "거짓없이, 정말로 놀랍군."
+comfrance.1000.d:0 "며칠 전, 모리스 가믈랭 장군이 마르셀 데아의 자코뱅 정권에 반대하는 쿠데타를 성공시켰습니다. 이는 코뮌의 민주주의 체제에 대한 단호한 공격처럼 보이지만, 대다수는 가믈랭의 개입이 없었다면 자코뱅파가 민주주의 체제를 파괴했을 거라고 주장합니다. 가믈랭은 프랑스를 전통적인 생디칼리슴으로 되돌릴 것을 약속했고, 이미 탈자코뱅 과정이 진행되고 있습니다. 그의 계획이 어떻게 될지는 아무도 모릅니다. 그저 기다리는 수밖에 없습니다..."
+comfrance.1000.a:0 "거짓 없이, 정말로 놀랍군."
 
 ### Decisions ###
 FRA_integration_decisions:0 "Territorial Integration"
