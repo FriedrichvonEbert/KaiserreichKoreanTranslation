@@ -290,130 +290,131 @@ FOP_create_the_CSE_desc:0 "현재 우리나라가 직면하고 있는 주요 위
 FOP_Education_Reform:0 "교육 개혁"
 FOP_Education_Reform_desc:0 "아르헨티나의 교육 개혁은 아주 오래 전에 이루어졌고, 오늘날 어린아이들의 책들을 더럽히고 있는 반동적인 거짓말들 때문에, 우리는 현재의 교육 과정을 개정할 필요가 있습니다. 만약 개혁에 성공한다면, 아르헨티나의 후손들이 우리 체제를 적대시하지 않도록 보장할 수 있습니다."
 FOP_Social_Revolution:0 "사회 혁명 지속"
-FOP_Social_Revolution_desc:0 "Argentineans have long had a fascination with old European aristocracy. This is what catalyzed much of Buenos Aires to be remade in the image of Paris. However, this way of thinking paid no mind to workers, and as such, we should cultivate a new image for these structures, one of contemporary France and Britain. We are sure to slowly but steadily ingrain worker solidarity into Argentinean culture!
+FOP_Social_Revolution_desc:0 "아르헨티나 사람들은 오래 전부터 유럽의 귀족계층에 매료되어 있었습니다. 이러한 현상은 부에노스아이레스의 많은 부분들이 파리의 이미지로 변해가도록 촉진시켰습니다. 하지만, 이는 노동자들에게 아무런 좋은 영향을 주지 않았고, 따라서 프랑스와 영국의 이러한 구조물에 대한 새로운 이미지를 키워야 합니다. 우리는 아르헨티나 문화에 대한 노동자들의 연대를 느리지만 꾸준하게 스며들도록 해야 합니다."
 FOP_rural_development:0 "농촌 개발"
 FOP_rural_development_desc:0 "우리나라는 오랫동안 농업이 주요 산업이었지만, 이전 정권들은 개발과 투자를 위해 부에노스아이레스나 코르도바 같은 특정 지역에만 집중하면서 자유 시장의 변덕아래에 이 지역들을 내팽개쳤습니다. 우리는 이러한 주요 도시 이외의 다른 지역에 투자함으로써 실수를 바로잡아 우리 나라의 구석구석에 있는 노동자들에게 우리의 선의를 증명할 수 있도록 해야합니다."
 FOP_urban_development:0 "도시 개발"
 FOP_urban_development_desc:0 "이전 정권은 부에노스아이레스나 코르도바 같은 지역의 산업을 발전시키기 위한 조치를 취했지만, 그것만으로는 충분하지 않았습니다. 과도한 발전은 자유 시장과 자본주의적 착취의 변덕에 의해 제멋대로 시행될 뿐이었습니다. 이전 정권이 축출된 지금, 우리는 인민에게 걸맞은 적절하고 혁명적인 산업화를 시작할 수 있습니다."
 FOP_moderate_anarchist_development_scheme:0 "온건 무정부주의의 개발 계획"
-FOP_moderate_anarchist_development_scheme_desc:0 "The old capitalistic system of industrialization was haphazard and only benefitted the Bourgeois class' interests. Instead, we should hand the power and means of production to the workers themselves through a system of local councils who will democratically decide how to better develop their local economies."
+FOP_moderate_anarchist_development_scheme_desc:0 "산업화가 진행될때 낡은 자본주의 체제는 별다른 효과는 없었고, 오히려 부르주아 계급의 이익만 늘어갔습니다. 이제 우리는 지역의 경제를 발전시킬 방안을 민주적으로 결정하는 지방의회 제도를 통해 노동자들 스스로가 생산 수단을 소유하도록 해야 합니다."
 FOP_radical_anarchist_development_scheme:0 "급진 무정부주의의 개발 계획"
-FOP_radical_anarchist_development_scheme_desc:0 "The capitalistic system of industrialization was criminal in both its neglect of the worker, and its inability to satiate the demands of the people, but we shall change that. Not only will we develop an industry to serve Argentina, but also the workers of the world by promoting the most devoted to the world revolution to lead the workers councils that will freely and democratically guide Argentina towards its destiny."
+FOP_radical_anarchist_development_scheme_desc:0 "산업화가 진행될때, 자본주의 체제는 노동자들의 권리를 무시하고 국민의 요구를 만족시키지 못 했습니다. 이러한 상황을 타개하기 위해, 아르헨티나의 산업은 물론이요 노동자들을 한단계 더 도약시킬 세계혁명에 헌신하는 산업을 육성해야만 합니다."
 FOP_socialist_development_scheme:0 "사회주의자의 개발 계획"
-FOP_socialist_development_scheme_desc:0 "The capitalist system of economics is inherently predatory, but we can tame its excesses through the democratization of the workplace through unionization and workers cooperatives. A more mutualistic system will allow entrepreneurs to still innovate and develop, while giving the workers the ability to create an economy that serves the workers, rather than the greedy capitalists."
+FOP_socialist_development_scheme_desc:0 "자본주의는 본질적으로 모든것을 집어삼키는 포식적인 체제이지만, 노조와 연대를 통해 일터의 민주화를 이루어 자본주의를 길들일 수 있습니다. 어러한 상호공존 체제는 기업가들의 혁신적이고 기발한 생각들을 존중하면서, 탐욕스러운 자본가들 보다는 노동자들에게 봉사하는 경제를 만들어 줄 것입니다.
+"
 FOP_communist_development_scheme:0 "공산주의자의 개발 계획"
-FOP_communist_development_scheme_desc:0 "Learning from the experiences of Vladimir Lenin, we shall implement a policy of Central Planning. We cannot allow the haphazard development of any part of our economy and instead shall utilize a series of 5 year plans to achieve rapid growth and development."
+FOP_communist_development_scheme_desc:0 "블라디미르 레닌의 가르침을 통해 우리는 계획 경제 정책을 실행할 것입니다. 중앙정부는 우리 경제의 어떤 부분에 대해서도 무모한 개발을 허용할 수 없으며, 5개년 계획을 통한 빠르고 체계적인 성장과 발전을 이루도록 해야합니다."
 FOP_resource_exploitation_scheme:0 "천연 자원 위원회"
 FOP_resource_exploitation_scheme_desc:0 "아르헨티나의 산업이 서서히 회복되고 있는 가운데, 산업의 수준이 혁명 이전을 넘어서면서 원자재 부족에 빠르게 부딪히고 있습니다. 일단은 해외에서 수입하고 있지만, 아르헨티나의 많은 지역에는 미개발된 자원이 매장되어 있으며, 해당 자원들을 추출하기 위해서 천연 자원 위원회가 만들어졌습니다."
 
 ### Army Tree ###
 
 FOP_modernise_the_army:0 "혁명군"
-FOP_modernise_the_army_desc:0 "Our army has gone from their humble beginnings as a struggling militia to the heroic vanguard that liberated Buenos Aires. Their respite will be short, however, as the reactionaries surrounding us want nothing more than to take our hard-fought freedom away from us. We must prepare for the conflicts that lie ahead by properly organizing this fighting force."
+FOP_modernise_the_army_desc:0 "우리 군대는 민병대로서 초라하게 시작되었지만,지금은 부에노스아이레스를 해방시킨 영웅으로 탈바꿈하였습니다. 그러나 우리를 둘러싸고있는 반동분자들은 어렵게 되찾은 자유를 빼앗고자 하기 때문에 영웅들에게 주어진 휴식은 적을 것입니다. 우리는 이들의 전력을 적절히 조직함으로써 앞으로 다가올 갈등에 대비해야 합니다."
 
-FOP_focus_on_decentralization:0 "Focus on Decentralization"
-FOP_focus_on_decentralization_desc:0 "Instead of relying on a rigid top-down command structure, ours is an army of the people that can act on their own initiative. By giving them the freedom they need to strike while the iron is hot instead of dealing with military bureaucracy we'll further bolster the potential of our militias."
+FOP_focus_on_decentralization:0 "지휘권 분산"
+FOP_focus_on_decentralization_desc:0 "융통성 없는 하향식 지휘구조에 의존하지 않는 우리 군대는 주도적으로 행동할 수 있는 인민의 군대입니다. 군의 지휘체계를 고집하는 대신 적기에 재량에따라 공격할 수 있는 권한을 줌으로써 우리는 민병대가 가진 잠재력을 더욱 강화할 수 있을 것입니다."
 
 FOP_keep_the_militias:0 "민병대 유지"
-FOP_keep_the_militias_desc:0 "The red militias and guerrillas won the last war and they'll win the next one as well. Instead of adopting the failed doctrines of our vanquished oppressors, we'll use the resources of our new state to strengthen the force that won us our freedom in the first place."
+FOP_keep_the_militias_desc:0 "적위대와 유격대 덕분에 이전의 전쟁에서 승리할 수 있었고 다음 전쟁에서도 마찬가지일 것입니다. 패망한 압제자들의 실패한 교리를 채택하는 대신, 우리는 국가의 새로운 자원을 이용하여 우리의 자유를 쟁취한 교리를 강화시킬 것입니다."
 
-FOP_command_structure_reorganization:0 "An Army of the People"
-FOP_command_structure_reorganization_desc:0 "After removing the restrictive nature of a conventional military hierarchy, ours is an army of the people that fights for the the people. It's an army of revolutionary workers that fight for a just cause rather than lofty ambitions and an army of peasants that know how to be self-sufficient without relying on barked orders."
+FOP_command_structure_reorganization:0 "인민의 군대"
+FOP_command_structure_reorganization_desc:0 "군의 위계질서적인 성격을 없앤 우리는 인민을 위해 싸우는 군대입니다. 거만한 야망보다는 정당한 대의명분을 위해 싸우고, 부당한 명령에 의존하지 않고 스스로 통제할 줄 아는 우리는 인민의 군대입니다."
 
-FOP_a_rifle_for_every_man:0 "A Rifle for Every Man"
-FOP_a_rifle_for_every_man_desc:0 "The eagerness that our people have shown to join the ranks of our militia means that our enlistment offices often have more volunteers than we have guns in our armories. To rectify this problem, we must fine-tune our production of rifles so that we can arm every single aspiring revolutionary in Argentina!"
+FOP_a_rifle_for_every_man:0 "만인을 위한 소총"
+FOP_a_rifle_for_every_man_desc:0 "우리 국민들이 우리 민병대의 대열에 합류하기 위해 보여준 열정에 비해 우리 군대의 병영에는 총기가 매우 부족합니다. 이 문제를 해결하기 위해, 우리는 아르헨티나의 예비 혁명가들을 무장시킬 수 있도록 소총의 생산량을 조정해야 합니다!"
 
 FOP_a_red_army:0 "붉은 군대"
-FOP_a_red_army_desc:0 "The militias may have won the day thanks to our resolve and cunning. Going forward, however, we ought to convert this underdog guerrilla force into a professional standing army able to take the fight to the enemy."
+FOP_a_red_army_desc:0 "우리는 민병대의 결의와 교활함 덕분에 승리했을지도 모릅니다. 그러나 앞으로 다가올 위협에 맞서기 위해서는 군대를 유격전이 아닌 적과의 전면적인 전투를 수행할 수 있는 상비군으로 전환해야 합니다."
 
-FOP_the_status_of_fma:0 "Socialist Military Industry"
-FOP_the_status_of_fma_desc:0 "Our revolutionary army began as we made our own weapons in our homes and workshops to guard against the oppressors. With the full resources of the state behind it, we're now able to build a fully-fledged military industry to support the expansion of our revolutionary army."
+FOP_the_status_of_fma:0 "사회주의 군수산업"
+FOP_the_status_of_fma_desc:0 "처음에 우리의 혁명군은 압제자들에게 맞서기 위해 우리의 집과 작업장에서 무기를 만들었습니다. 이제 국가의 가진 자원을 바탕으로, 혁명군을 확장할 수 있는 본격적인 군수 산업을 구축할 수 있게 되었습니다."
 
-FOP_Artillery_competition:0 "An Army of Professionals"
-FOP_Artillery_competition_desc:0 "Continuing with our reforms, we'll gradually turn our hardened militias into a disciplined army, combining the best qualities of the old and new system. When we're finished, our army will be one made out of professional, well-drilled soldiers led by the finest officers that emerged from the revolutionary war."
+FOP_Artillery_competition:0 "전문적인 군대"
+FOP_Artillery_competition_desc:0 "개혁을 지속하면서, 우리는 오래된 민병대를 점차 구 제도와 신 제도의 자질을 결합시킨 군대로 만들 것입니다. 개혁이 끝나면, 우리 군대는 혁명전쟁에서 나온 최고의 장교들이 훈련시키고 지휘하는 전문적이고 우수한 군대가 될 것입니다."
 
-FOP_tank_research:0 "No Quarter for Counter-Revolutionaries"
-FOP_tank_research_desc:0 "Our army's unique background as an guerrilla army means that most of our officers have a great deal of experience as insurgents. Since they know every trick in the book, that means that they also know how to break any kind of counter-revolutionary insurgency should they form in lands that we've liberated."
+FOP_tank_research:0 "반동분자 색출"
+FOP_tank_research_desc:0 "유격대라는 우리 군의 독특한 배경은 대부분의 장교들이 반란군으로서 많은 경험을 가지고 있다는 것을 의미합니다. 그들은 교본에 나오는 모든 계략들을 알고 있습니다. 이는 그들이 우리가 해방시킨 땅에서 반란이나 폭동을 일으키는 방법을 알고 있다는 것을 의미합니다..."
 
-FOP_set_up_a_new_hierarchy:0 "Establish a New Hierarchy"
-FOP_set_up_a_new_hierarchy_desc:0 "A decentralized force can win battles on a tactical level, but on a strategic level it's often no better than an angry mob. As we have no shortage of experienced leaders, we should be able to create a new command structure with officers hand-picked out from the most experienced units to lead our new army."
+FOP_set_up_a_new_hierarchy:0 "새로운 지휘체계"
+FOP_set_up_a_new_hierarchy_desc:0 "분권화된 군대는 전술적인 승리를 거둘 수는 있지만, 전략적인 차원에서는 성난 군중이나 다름없습니다. 경험 많은 지도자들이 부족한 것은 아니므로, 우리는 새로운 군대를 이끌어갈 경험 많은 장교들로 새로운 지휘체계를 만들어야 합니다."
 
-FOP_militarization_of_electronics:0 "Militarization of Electronics"
-FOP_militarization_of_electronics_desc:0 "While it's been a historically underdeveloped sector of Argentine industry, our military has made it clear that it wishes to modernize the electronics that we produce so that they may be used to enhance the efficiency of our armed forces and our R&D departments. Perhaps we should allocate some funds towards these endeavors?"
+FOP_militarization_of_electronics:0 "군용 전자기기"
+FOP_militarization_of_electronics_desc:0 "아르헨티나의 산업은 역사적으로 낙후된 산업이지만, 우리 군대는 전자기기를 현대화 함으로써 군사력과 연구개발의 효율성을 높일 수 있다는 점을 분명히 했습니다. 이러한 노력을 위해 자금을 할당해야 합니까?"
 
-FOP_revive_military_academies:0 "Colegio Militar de la Revolución"
-FOP_revive_military_academies_desc:0 "Because of its foundation as an insurrectionist army, our forces have primarily evolved through trials by fire. With the Buenos Aires military college under our control, however, it's time that we started to use its facilities to train the next generation of our revolutionary vanguard."
+FOP_revive_military_academies:0 "혁명 군사 학교" 
+FOP_revive_military_academies_desc:0 "반란군으로서의 토대 때문에, 우리 군대는 주로 실전을 거치면서 성장해왔습니다. 그러나 부에노스아이레스 군사 학교가 우리의 통제하에 있기 때문에, 이제 우리는 차세대 혁명 선봉장을 양성하기 위해사관 학교 시설을 사용할 수있습니다."
 
-FOP_copy_foreign_models:0 "Copy Foreign Models"
-FOP_copy_foreign_models_desc:0 "Our war for liberation led to countless thousands of guns and other pieces of equipment flooding into our country from the the European powers. Studying these weapons and using that as a blueprint for future arms production would allow us to more rapidly catch up with the foreign arms industries."
+FOP_copy_foreign_models:0 "외국의 무기 분석"
+FOP_copy_foreign_models_desc:0 "이전의 혁명전쟁에서 우리는 유럽 열강들로부터 수 천 개의 총과 장비들을 지원받았습니다. 이러한 무기들을 연구하고 미래의 무기 생산의 청사진으로 활용한다면, 우리는 외국 무기 산업을 더욱 빨리 따라잡을 수 있을 것입니다."
 
-FOP_reduce_forts:0 "요새를 남겨두지 마라"
-FOP_reduce_forts_desc:0 "Since the inception of our army we've had a difficult time overcoming enemy field fortifications. By modernizing both our field artillery pieces and the equipment used by our engineers our army will be far more potent on the offensive."
+FOP_reduce_forts:0 "요새를 쓸어버려라"
+FOP_reduce_forts_desc:0 "우리 군대는 창설 이래 적의 야전 요새를 극복하는 데 어려움을 겪어 왔습니다. 우리의 야포와 공병들이 사용하는 장비를 현대화함으로써 우리 군대의 공격력이 훨씬 더 강력해질 것입니다."
 
-FOP_army_training:0 "Expand the Vanguard"
-FOP_army_training_desc:0 "The many types of extreme battlefield conditions that we face necessitates that we allow for an expansion of our special forces branch. They will continue to serve as the vanguard for our revolutionary struggle and their skills will continue to save the lives of our regular infantrymen."
+FOP_army_training:0 "특수부대 확장"
+FOP_army_training_desc:0 "우리는 다양한 자연 환경을 전장으로 두고 있습니다. 이를 극복하기 위해 특수부대의 증설을 허락할 필요가 있습니다. 특수부대는 우리의 혁명 투쟁의 선봉장 역할을 할 것이며 그들의 전문성은 정규 보병들의 목숨을 여러번 구할 것입니다."
 
-FOP_protecting_the_andes:0 "Protecting the Andes"
-FOP_protecting_the_andes_desc:0 "Because of the vast amounts of mountains that surround us, deploying specialist forces trained to overcome these harsh geographic conditions and armed with modern equipment would give us an edge in future conflicts in such terrain."
+FOP_protecting_the_andes:0 "안데스 사수"
+FOP_protecting_the_andes_desc:0 "우리 나라를 둘러싸고 있는 방대한 산맥 때문에, 험한 지리적 조건을 극복하기 위해 훈련되고 현대적인 장비로 무장한 전문 부대를 배치하는 것은 향후 산악 지형에서의 분쟁에서 우리가 우위를 가져올 수있게 할 것입니다."
 
 FOP_instituto_balseiro:0 "CITERA"
-FOP_instituto_balseiro_desc:0 "The ever increasing needs of our army to improve its equipment has necessitated the establishment of a research institute devoted solely for the technological advancements of the armed revolutionary struggle."
+FOP_instituto_balseiro_desc:0 "장비 개선에 대한 아군의 요구가 날로 증가함에 따라, 무장 혁명 투쟁의 기술 발전을 위해 전담 연구소를 설립할 필요가 있습니다."
 
-FOP_crossing_the_rivers:0 "Crossing the Rivers"
-FOP_crossing_the_rivers_desc:0 "From the many wide rivers in Argentina all the way up to the Amazon rain forests, there are many inhospitable and dangerous potential battlefields for our army to surmount. Rather than frivolously wasting the lives of our soldiers, we'll leave these jobs to our army's most elite forces."
+FOP_crossing_the_rivers:0 "강을 건너서"
+FOP_crossing_the_rivers_desc:0 "아르헨티나의 많고 넓은 강에서부터 아마존 열대 우림까지, 우리 군대가 극복하기에 어렵고 위험한 전장이 많이 있습니다. 우리 군인들의 목숨을 가볍게 낭비하기보다는 이런 일을 우리 군대의 가장 정예부대에 맡기는게 좋을 것입니다."
 
-FOP_rebuild_the_naval_academy:0 "Rapid Coast Guard Expansion"
-FOP_rebuild_the_naval_academy_desc:0 "We must restore our coast guard with all haste. Traditionally it's acted to help us protect our fishing industry, but going forward the threat of war means that we need to make sure our long coastline is protected from hostile ships and submarines."
+FOP_rebuild_the_naval_academy:0 "해안 경비대 복구"
+FOP_rebuild_the_naval_academy_desc:0 "우리는 서둘러서 해안 경비대를 복구해야 합니다. 원래는 우리 어업을 보호하기 위해 만들어졌지만, 전쟁의 위협에 맞서 앞으로 나아가기 위해서는 우리의 긴 해안선을 적들의 배와 잠수함으로부터 보호해야 한다는 것을 의미합니다."
 
-FOP_revive_ASTARSA:0 "The Second Dreadnaught Race"
-FOP_revive_ASTARSA_desc:0 "The Argentine navy used to be the mightiest in South America. If we are to reclaim the Atlantic from the capitalists we must reclaim this role and build a mighty fleet of capital ships once again. Our shipyards will have to toil day and night if we are to win the second South American dreadnought race!"
+FOP_revive_ASTARSA:0 "제2차 드레드노트 경쟁"
+FOP_revive_ASTARSA_desc:0 "아르헨티나 해군은 남미에서 강한 축에 속합니다. 만약 우리가 자본주의자들로부터 대서양을 되찾으려면 다시 한 번 강력한 함대를 일구어 이 위상을 되찾아야 합니다. 제2차 남미 드레드노트 경쟁에서 이기려면 우리 조선소들은 밤낮으로 고생좀 해야 할 것입니다!"
 
-FOP_army_branch:0 "An Army Extension"
-FOP_army_branch_desc:0 "The primary function of the air force should be to support our army as it carries the torch of the revolution forward. As such, we'll focus on close support planes that will devastate the opposition on land."
+FOP_army_branch:0 "군대 확장"
+FOP_army_branch_desc:0 "공군의 1차적 기능은 혁명의 횃불을 들고 전진하면서 아군을 지원하는 것입니다. 그런 만큼 육상의 적군을 초토화할 수 있는 근접지원기에 집중적으로 투자해야 합니다."
 
-FOP_an_independent_force:0 "An Independent Air Force"
-FOP_an_independent_force_desc:0 "Rather than being there to supplement an existing branch, we'll let our air force focus on its natural strengths. As such, the air force will be its independent branch of our military, focusing on aerial supremacy and the destruction of our enemy's strategic targets."
+FOP_an_independent_force:0 "독립된 공군"
+FOP_an_independent_force_desc:0 "육군을 보조한다는 기존의 위치를 지키기보다는 공군이 가진 자연적인 강점에 집중할 수 있도록 할 것입니다. 공군은 제공권 장악과 적의 전략 목표물 파괴에 주력하는 독자적인 군대가 될 것입니다."
 
 FOP_naval_necessity:0 "아르마다 데 로스 푸에블로스"
 FOP_naval_necessity_desc:0 "아르헨티나 땅을 모두 수복한 후에, 우리는 바다도 수복할 것입니다. 공식적으로 '인민해군'을 창설하고 관련 기관을 설립하는 것으로 그 첫 삽을 뜰 것입니다."
 
-FOP_foreign_naval_research:0 "Escuela Naval Militar"
-FOP_foreign_naval_research_desc:0 "Towards the end of the war the institutional knowledge of the old regime vanished along with it. If we want our navy to be able to challenge the reactionaries in the Atlantic ocean in the future we must restore the old naval college under a loyal administration so that we can teach the next generation of naval officers."
+FOP_foreign_naval_research:0 "해군 사관 학교"
+FOP_foreign_naval_research_desc:0 "전쟁이 끝날 무렵, 구정권이 가지고 있건 지식도 함께 사라졌습니다. 앞으로 우리 해군이 대서양에서 반동분자들에게 대항할 수 있기를 바란다면, 옛 해군 사관 학교를 복원하여 다음 세대의 해군 장교들을 육성할 수 있도록 해야 합니다."
 
-FOP_argi_navy_is_stronk:0 "Rebuilding the Old Navy"
-FOP_argi_navy_is_stronk_desc:0 "At the end of the war, the old regime fled with its fleet to Uruguay as we marched towards victory. While their ships are out of our reach for now, thanks to the speed of our advance some schematics are in a good enough condition for us to build several vessels with relative ease."
+FOP_argi_navy_is_stronk:0 "옛 해군 복구"
+FOP_argi_navy_is_stronk_desc:0 "전쟁이 끝날 무렵, 우리가 승리를 향해 행진할 때 구 정권은 함대를 이끌고 우루과이로 도망쳤습니다. 그 배들은 현재 우리가 어떻게 할 수는 없지만, 우리의 발전 속도 덕분에 일부 설계도를 이용하여 비교적 쉽게 여러 척의 선박을 건조할 수 있을 만큼 충분한 조건을 갖추고 있습니다."
 
-FOP_french_naval_assistance:0 "Revive ASTARSA"
-FOP_french_naval_assistance_desc:0 "Argentina's history as a naval power came to an abrupt end when the old regime scuttled its fleet at the end of the revolutionary war. Bringing back their old shipbuilding facilities and using them to serve the revolution should be our top priority if we are to contest the Atlantic once more."
+FOP_french_naval_assistance:0 "ASTARSA 재건"
+FOP_french_naval_assistance_desc:0 "아르헨티나 해군의 역사는 혁명의 전쟁 말기에 옛 정권이 함대를 자침시키면서 갑작스럽게 막을 내렸습니다. 대서양에서 다시 한번 이름을 날리기 위해서는 낡은 조선 시설을 혁명을 위해 사용하여 함대를 재건하는 것이 우리의 최우선 과제가 되어야 합니다."
 
-FOP_british_naval_assistance:0 "British Naval Assistance"
-FOP_british_naval_assistance_desc:0 "The Union of Britain boasts the greatest revolutionary navy in the world and the richest naval traditions in the Internationale. Thanks to the ties developed with our revolutionary comrades, they're ready to send a handful of engineers our way to oversee our naval modernization program."
+FOP_british_naval_assistance:0 "영국의 해군 고문"
+FOP_british_naval_assistance_desc:0 "브리튼 연방은 세계에서 가장 위대한 해군과 인터내셔널에서 가장 풍부한 해군 전통을 자랑합니다. 혁명 동지들과 발전된 유대 덕분에, 그들은 우리의 해군 현대화 계획을 감독하기 위해 소수의 기술자들을 보낼 준비가 되어 있습니다."
 
-FOP_subs:0 "Cut the Arteries of Capitalism"
-FOP_subs_desc:0 "Our navy won't be able to match those of the capitalists fast enough to make a difference in the conflicts in our near future. Fighting with limited means and striking our enemies from the shadows suits us just fine, however. We did it in the forests and mountains, and we'll do it at sea as well!"
+FOP_subs:0 "자본주의의 생명선을 잘라라"
+FOP_subs_desc:0 "우리 해군이 머지 않아 다가올 분쟁에서 변수를 만들 정도의 수준이 되기까지는 많은 시간이 필요할 것입니다. 하지만 한정된 자원으로 어둠 속에서 적들을 공격하는 것은 우리에게 잘 맞습니다. 우리는 숲과 산에서 했던 일을 바다에서도 할 뿐입니다."
 
-FOP_airforce:0 "Fuerza Aérea de la Comuna Argentina"
-FOP_airforce_desc:0 "As of now, our air force program is in its initial phases. Our first goal should be to formally found the air force of the [FOP.GetNameDef] and set up the institutions necessary for us to start painting the skies red!"
+FOP_airforce:0 "아르헨티나 코뮌 공군"
+FOP_airforce_desc:0 "현재, 우리의 공군 계획은 초기 단계에 있습니다. 첫 번째 목표는 [FOP.GetNameDef]의 공군을 정식으로 복구하고 우리가 하늘을 붉게 물들이기 시작하는 데 필요한 기관을 설립하는 것입니다!"
 
-FOP_fighter_research:0 "Lessons from the War"
+FOP_fighter_research:0 "전쟁의 교훈"
 FOP_fighter_research_desc:0 "Leading up to our liberation we were often forced to utilize makeshift air strips in supplies and manpower from abroad. While not fit for military use, the lessons learned in quickly clearing terrain and preparing an area to handle air planes can prove useful in speeding up our air base construction if we properly instruct our engineers."
 
-FOP_air_support:0 "Secure the Skies"
+FOP_air_support:0 "공중 사수"
 FOP_air_support_desc:0 "We have a lot of catching up to do before we can liberate the skies from the capitalists. By diverting extra funds to the development of more advanced fighter models the days of hiding in forests whenever an enemy plane appears will soon be over."
 
-FOP_bomber_research:0 "Bomb the Bourgeoisie"
+FOP_bomber_research:0 "부르주아 폭격"
 FOP_bomber_research_desc:0 "In the past, our enemies grew accustomed to bomb us with impunity. We were weaker back then, and now that we've grown stronger it's time that we returned the favor by developing our own bomber craft to support our war effort."
 
-FOP_naval_bombers:0 "Expand the Academy"
+FOP_naval_bombers:0 "사관학교 확장"
 FOP_naval_bombers_desc:0 "Our army has held a role of primacy as far as our military education goes. As such, we've been able to produce a far smaller amount of quality air officers than most of our peers. If we don't want to be outdone by the imperialists, we must devote more resources to improve their training."
 
-FOP_airports:0 "Sink their Ships"
+FOP_airports:0 "배를 가라앉혀라"
 FOP_airports_desc:0 "As a good portion of the Argentine navy was sunk or scuttled during our revolution, our enemies have both a numerical and technological advantage over our navy. Our air marshals believe that this shortcoming can be rectified by using torpedo bombers to interdict the enemy's fleets."
 
-FOP_radio_research:0 "Monitor their Movements"
+FOP_radio_research:0 "동향 주시"
 FOP_radio_research_desc:0 "Needless to say, by only detecting the enemy's planes when they're above us means that we've caught them too late. By researching and developing radar technology we'll be able to receive early warnings of any incoming enemy forces well ahead of time."
 
-FOP_air_doctrine_focus:0 "Shatter their Movements"
+FOP_air_doctrine_focus:0 "움직임을 분쇄하라"
 FOP_air_doctrine_focus_desc:0 "Heavy bombers will lay waste to the imperialists. They will have no forts to protect them, no factories to produce their weapons of oppression, no railroads to ferry their troops across. By paralyzing their war effort we'll make victory all but certain."
 
 ### Araucania ###
