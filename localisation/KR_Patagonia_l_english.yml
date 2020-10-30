@@ -476,7 +476,7 @@ FOP_legacy_of_Toki_Leftraru:0 "Legacy of Toki Leftraru"
 FOP_legacy_of_Toki_Leftraru_desc:0 "Every nation has a hero, a founding figure of chivalry, honour and ideals that stands the test of time. The greatest of all Toquis, the man known to the Europeans as Lautaro, fought the greatest and most powerful empire in human history and won, while leading the Mapuche people to victory on key engagements, not simply mere ambushes. His work uniting the tribes, and laying the foundations upon which our monarchs later would build upon, cannot, and should never be, forgotten by those who now reap the fruits of his labour"
 FOP_status_of_kindred_natives:0 "가족단위 부족의 지위"
 FOP_status_of_kindred_natives_desc:0 "While considered the main native group of Patagonia, the Mapuche are not the only natives of Patagonia. The Chewel Che, who lived here in the far south even before the Mapuche, are a broad group of locals which inhabit western Patagonia, and they have suffered even more than the Mapuche themselves during the occupation. However, their very name is an exonym, a Mapuche word for 'hardy people', and they will endure, but now, they have their native kin to help defend and guard their rightful lands"
-FOP_diplomatic_connections:0 "외교 "
+FOP_diplomatic_connections:0 "외교 관계"
 FOP_diplomatic_connections_desc:0 "Our King, while in his lifelong exile, spent much of his time making friends in high and low places across the courts and palaces in both sides of the Atlantic. Even more important, news of our people's plight, which only grew under the rule of the bandits of the Worker's Front, has garnered great amounts of good will among foreigners, and such, our struggle to rebuild the nation will find many ready allies across the world."
 
 ### Tooltips ###
@@ -485,7 +485,7 @@ FOP_army_modernisation:0 "§H이는 우리군대를 현대화시키고 새로운
 
 FOP_getting_help_to_get_subs:0 "우리는 동맹국들로부터 구식 잠수함을 받을 것입니다."
 
-FOP_request_syndie_countries_design:0 "우리는 해외 동맹국들로부터 여분의 선박 설계도를 받을 것입니다"
+FOP_request_syndie_countries_design:0 "우리는 해외 동맹국들로부터 여분의 선박 설계도를 받을 것입니다."
 
 TT_FOP_SOCIALIST_ELECTIONS:0 "§H이 중점이 완료된 후, 사회당은 60일 후에 당내 경선을 치를 것입니다!§!"
 
@@ -493,9 +493,9 @@ FOP_de_progreso_tooltip:0 "§C향후 계획을 위한 산업 개선 및 공간 �
 
 FOP_faction_decisions_tooltip:0 "§C남미의 생디칼리슴 국가들을 우리 파벌에 초대할 수 있게 될 것입니다.§!"
 
-FOP_bolshevik_central_committee:0 "§G프롤레타리아 독재 정권을 구현하기 위해서 우리는 권력을 확보하고 국가가 안정적인 상황에서 위대한 블라디미르 레닌과 함께 활동했던 중앙 위원회를 초대할 필요가 있습니다. 비록 그의 혁명은 실패했지만, 우리는 그의 투쟁에서 배울 것이 있습니다.§!"
+FOP_bolshevik_central_committee:0 "§G프롤레타리아 독재 정권을 구현하기 위해서 우리는 권력을 확보하고 국가가 안정적인 상황에서 위대한 블라디미르 레닌과 함께 활동했던 중앙 위원회를 초대할 필요가 있습니다. 비록 그의 혁명은 실패했지만, 우리는 그의 투쟁에서 배울 것이 있습니다!§!"
 
-FOP_first_tuc:0 "§C이제 우리는 국가가 나아갈 첫 방향과 혁명의 의의를 결정할 것입니다.§!" 
+FOP_first_tuc:0 "§C이제 우리는 국가가 나아갈 첫 방향과 혁명의 의의를 결정할 것입니다.§!"
 
 FOP_suspended_constitution_tooltip:0 "§C우리는 헌법을 복원하고 아르헨티나 공화국을 선언할 것입니다.§!"
 
@@ -503,25 +503,25 @@ FOP_revolutionary_democracy_tooltip:0 "§R혁명은 계속될 것이고 옛 체�
 
 FOP_expand_northern_government_tooltip:0 "§C우리는 북부의 동지들을 통합하기 위해서 사회주의 체제를 북부로 확장해야 할 것입니다.§!"
 
-FOP_integrate_old_bureaucracy_tooltip:0 "§C한때 아르헨티나의 농부들과 노동자들을 억압하는 불공정한 시스템이라 생각했던 옛 관료제를 아르헨티나를 통합하기 위한 도구로 사용할 수 있습니다.§!"
+FOP_integrate_old_bureaucracy_tooltip:0 "§C한때 아르헨티나의 농부들과 노동자들을 억압하는 불공정한 시스템이라 생각했던 옛 관료제를 아르헨티나를 통합하기 위한 도구로 사용할 수 있습니다!§!"
 
-FOP_choo_choo_tooltip:0 "이를 통해 §G기반시설§!을 확장하고 국가에 대한 §R통제력§!을 확대하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다."
+FOP_choo_choo_tooltip:0 "이를 통해 §G기반시설§!을 확장하고 국가에 대한 §R통제력§!을 확대하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다"
 
-FOP_factories_tooltip:0 "이를 통해 §R앞으로의 산업화§!를 기준으로 새로운 §G공장§!을 건설하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다."
+FOP_factories_tooltip:0 "이를 통해 §R앞으로의 산업화§!를 기준으로 새로운 §G공장§!을 건설하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다"
 
-FOP_resources_tooltip:0 "이를 통해 새로운 §G자원§!을 이용하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다."
+FOP_resources_tooltip:0 "이를 통해 새로운 §G자원§!을 이용하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다"
 
-FOP_ModAnfactories_tooltip:0 "이를 통해 §R온건무정부주의 계획§!의 일환으로 새로운 §G공장§!을 건설하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다."
+FOP_ModAnfactories_tooltip:0 "이를 통해 §R온건무정부주의 계획§!의 일환으로 새로운 §G공장§!을 건설하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다"
 
-FOP_RadAnfactories_tooltip:0 "이를 통해 §R급진무정부주의 계획§!의 일환으로 새로운 §G공장§!을 건설하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다."
+FOP_RadAnfactories_tooltip:0 "이를 통해 §R급진무정부주의 계획§!의 일환으로 새로운 §G공장§!을 건설하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다"
 
-FOP_Socfactories_tooltip:0 "이를 통해 §R사회주의 계획§!의 일환으로 새로운 §G공장§!을 건설하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다."
+FOP_Socfactories_tooltip:0 "이를 통해 §R사회주의 계획§!의 일환으로 새로운 §G공장§!을 건설하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다"
 
-FOP_Comfactories_tooltip:0 "이를 통해 §R공산주의 계획§!의 일환으로 새로운 §G공장§!을 건설하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다."
+FOP_Comfactories_tooltip:0 "이를 통해 §R공산주의 계획§!의 일환으로 새로운 §G공장§!을 건설하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다"
 
-FOP_weltkrieg_is_over:0 "§O제2차 세계대전이 종식되어야 함.§!"
+FOP_weltkrieg_is_over:0 "§O제2차 세계대전이 종식되어야 함§!"
 
-FOP_sabotage_trains_tooltip:0 "이를 통해 전쟁 개시 전에 §R북부의 기반시설§!을 파괴하고 §G전략적 재배치§!를 방해하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다."
+FOP_sabotage_trains_tooltip:0 "이를 통해 전쟁 개시 전에 §R북부의 기반시설§!을 파괴하고 §G전략적 재배치§!를 방해하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다"
 
 FOP_infiltrator_cells_tooltip:0 "This will allow us to take £decision_icon_small §HDecisions§! to cause §RResistance§! in §GArgentina§!"
 
