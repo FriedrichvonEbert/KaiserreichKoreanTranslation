@@ -523,26 +523,26 @@ FOP_weltkrieg_is_over:0 "§O제2차 세계대전이 종식되어야 함§!"
 
 FOP_sabotage_trains_tooltip:0 "이를 통해 전쟁 개시 전에 §R북부의 기반시설§!을 파괴하고 §G전략적 재배치§!를 방해하기 위한 £decision_icon_small §H결정§!을 내릴 수 있습니다"
 
-FOP_infiltrator_cells_tooltip:0 "이를 통해 §G아르헨티나§!에 §R소요§!를 일으키는 £decision_icon_small §H결정§!을 내릴 수 있을 것이다."
+FOP_infiltrator_cells_tooltip:0 "이를 통해 §G아르헨티나§!에 §R소요§!를 일으키는 £decision_icon_small §H결정§!을 내릴 수 있게 합니다"
 
-FOP_new_destroyers_tooltip:0 "우리는 구축함 2척을 받을 것입니다."
+FOP_new_destroyers_tooltip:0 "우리는 구축함 2척을 받을 것입니다"
 
-FOP_naval_revival_tooltip:0 "우리는 §H구축함 4척§!, §H전투순양함 1척§!, §H잠수함 2척§!을 받을 것입니다."
+FOP_naval_revival_tooltip:0 "우리는 §H구축함 4척§!, §H전투순양함 1척§!, §H잠수함 2척§!을 받을 것입니다"
 
-FOP_Encourage_Workers_Cooperatives_tooltip:0 "§H오가르 오브레로 확장§! 혹은 §H경제 민주화§!의 효과 변경. \n 소비재 공장: [?-0.05|=%0H] \n 지역내 최대 공장수: [?0.1|=%0+] \n 건설 속도: [?0.1|=%+]"
+FOP_Encourage_Workers_Cooperatives_tooltip:0 "§H오가르 오브레로 확장§! 혹은 §H경제 민주화§!의 효과 변경 \n 소비재 공장: [?-0.05|=%0H] \n 지역내 최대 공장수: [?0.1|=%0+] \n 건설 속도: [?0.1|=%+]"
 
 FOP_chilean_volunteers:0 "칠레의 의용군들이 도착하여 전투를 지원할 것입니다."
 FOP_no_guns:0 "우리는 [FOP.GetNameDef](을)를 위한 여유분이 없습니다."
 FOP_immigation_tooltip:0 "§H[FROM.GetNameDef]§!(으)로부터의 이민을 증가시킬 것입니다."
 
-FOP_has_administrative_chaos:0 "국민정신 §H불안정한 행정부§!를 소유하고 있습니다."
-FOP_has_administrative_chaos_NOT:0 "국민정신 §H불안정한 행정부§!를 소유하고 있지 않습니다."
+FOP_has_administrative_chaos:0 "국민정신 §H불안정한 행정부§!를 소유하고 있음"
+FOP_has_administrative_chaos_NOT:0 "국민정신 §H불안정한 행정부§!를 소유하지 않음"
 
-FOP_has_resistance_to_socialism:0 "국민정신 §H사회주의 저항§!을 소유하고 있습니다."
-FOP_has_resistance_to_socialism_NOT:0 "국민정신 §H사회주의 저항§!을 소유하고 있지 않습니다."
+FOP_has_resistance_to_socialism:0 "국민정신 §H사회주의 저항§!을 소유하고 있음"
+FOP_has_resistance_to_socialism_NOT:0 "국민정신 §H사회주의 저항§!을 소유하지 않음"
 
-FOP_has_economic_fallout:0 "국민정신 §H혁명의 경제적 폐혜§!를 소유하고 있습니다."
-FOP_has_economic_fallout_NOT:0 "국민정신 §H혁명의 경제적 폐혜§!를 소유하고 있지 않습니다."
+FOP_has_economic_fallout:0 "국민정신 §H혁명의 경제적 폐혜§!를 소유하고 있음"
+FOP_has_economic_fallout_NOT:0 "국민정신 §H혁명의 경제적 폐혜§!를 소유하지 않음"
 
 FOP_anti_syndie_rebellion_cost:0 "£manpower_texticon §H10000§! £war_support_texticon §H5%§!"
 FOP_anti_syndie_rebellion_cost_blocked:0 "£manpower_texticon §R10000§! £war_support_texticon §R5%§!"
@@ -556,33 +556,33 @@ FOP_economic_crisis_cost_text_blocked:0 "£civ_factory  §R5§!"
 FOP_develop_rails_cost:0 "  £manpower_texticon §H1000§!"
 FOP_develop_rails_cost_blocked:0 "  £manpower_texticon §R1000§!"
 
-FOP_developed_rails_buenos_aires:0 "£decision_icon_small §H[278.GetName]의 기반시설 개발§!을 완료했습니다."
-FOP_developed_rails_la_pampa:0 "£decision_icon_small §H[449.GetName]의 철도§!를 완료했습니다."
-FOP_developed_rails_cordoba:0 "£decision_icon_small §H[902.GetName]의 철도§!를 완료했습니다."
-FOP_developed_rails_santiago_del_estero:0 "£decision_icon_small §H[509.GetName]의 철도§!를 완료했습니다."
-FOP_developed_rails_entre_rios:0 "£decision_icon_small §H[510.GetName]의 철도§!를 완료했습니다."
-FOP_developed_rails_chubut:0 "£decision_icon_small §H[512.GetName]의 철도§!를 완료했습니다."
+FOP_developed_rails_buenos_aires:0 "£decision_icon_small §H[278.GetName]의 기반시설 개발§! 결정이 완료됨"
+FOP_developed_rails_la_pampa:0 "£decision_icon_small §H[449.GetName]의 철도§! 결정이 완료됨"
+FOP_developed_rails_cordoba:0 "£decision_icon_small §H[902.GetName]의 철도§! 결정이 완료됨"
+FOP_developed_rails_santiago_del_estero:0 "£decision_icon_small §H[509.GetName]의 철도§! 결정이 완료됨"
+FOP_developed_rails_entre_rios:0 "£decision_icon_small §H[510.GetName]의 철도§! 결정이 완료됨"
+FOP_developed_rails_chubut:0 "£decision_icon_small §H[512.GetName]의 철도§! 결정이 완료됨"
 
 FOP_sabotage_success_tooltip:0 "[ARG.GetAdjective] 지역의 §H파괴공작이 성공§!했습니다."
 FOP_resistance_success_tooltip:0 "[ARG.GetAdjective] 지역에서 §H저항세력이 활동§!하고 있습니다."
 
 #Custom Tech Tooltips
-FOP_ship_tooltip1:0 "§H잠수함§! 건조시 §G생산 보너스§!를 받을것입니다."
-FOP_ship_tooltip2:0 "§H전함§! 과 §H드레드노트§! 건조시 §G생산 보너스§!를 받을것입니다."
+FOP_ship_tooltip1:0 "§H잠수함§!을 건조 시 §G생산 보너스§!를 받을 것입니다"
+FOP_ship_tooltip2:0 "§H전함§!과 §H드레드노트§! 건조 시 §G생산 보너스§!를 받을 것입니다"
 
 ### Flags ###
-FOP_PROGRESO_NORTH_ONE_COMPLETED:0 "북부 개발이 시작되었습니다."
-FOP_PROGRESO_SOUTH_ONE_COMPLETED:0 "남부 개발이 시작되었습니다."
-FOP_PROGRESO_NORTH_TWO_COMPLETED:0 "북부 개발이 진행 중입니다."
-FOP_PROGRESO_SOUTH_TWO_COMPLETED:0 "남부 개발이 진행 중입니다."
-FOP_steel_extraction_1_completed:0 "강철 정제 작업이 시작되었습니다"
-FOP_steel_extraction_2_completed:0 "강철 정제 작업이 진행 중입니다."
-FOP_oil_extraction_1_completed:0 "석유 추출 작업이 시작되었습니다."
-FOP_oil_extraction_2_completed:0 "석유 추출 작업이 진행 중입니다."
-FOP_combined_resource_exploitation_completed:0 "파타고니아 자원 개발이 완료되었습니다."
+FOP_PROGRESO_NORTH_ONE_COMPLETED:0 "북부 개발이 시작됨"
+FOP_PROGRESO_SOUTH_ONE_COMPLETED:0 "남부 개발이 시작됨"
+FOP_PROGRESO_NORTH_TWO_COMPLETED:0 "북부 개발이 진행 중임"
+FOP_PROGRESO_SOUTH_TWO_COMPLETED:0 "남부 개발이 진행 중임"
+FOP_steel_extraction_1_completed:0 "강철 정제 작업이 시작됨"
+FOP_steel_extraction_2_completed:0 "강철 정제 작업이 진행 중임"
+FOP_oil_extraction_1_completed:0 "석유 추출 작업이 시작됨"
+FOP_oil_extraction_2_completed:0 "석유 추출 작업이 진행 중임"
+FOP_combined_resource_exploitation_completed:0 "파타고니아 자원 개발이 완료됨"
 FOP_union_civica_cooperation:0 "시민연합과의 협력"
-FOP_sabotage_ongoing:0 "파괴공장 임무 수행중입니다"
-FOP_resistance_ongoing:0 "저항공작 임무 수행중입니다."
+FOP_sabotage_ongoing:0 "파괴공장 임무 수행 중"
+FOP_resistance_ongoing:0 "저항공작 임무 수행 중"
 
 ### Ideas ###
 FOP_air_construction_idea:0 "공군기지 건설"
@@ -763,7 +763,7 @@ fop.17.a:0 "코뮌 동지들에게 경의를!"
 
 fop.18.t:0 "브리튼 연합의 소총 지원"
 fop.18.d:0 "브리튼 연합은 부에노스아이레스 정권에 대항하는 우리의 투쟁을 돕기 위해 그들의 국가 비축물에서 §GRifle No.4 Mk.I§! §G1000§!개를 지원해주었습니다."
-fop.18.a:0 "영국 통지들에게 경의를!"
+fop.18.a:0 "브리튼 통지들에게 경의를!"
 
 fop.22.t:0 "[FOP.GetNameDefCap] asks us to join their faction."
 fop.22.d:0 "[FOP.GetNameDefCap] have requested that we unite our revolutionary forces under the alliance of the South American States. What shall we do?"
