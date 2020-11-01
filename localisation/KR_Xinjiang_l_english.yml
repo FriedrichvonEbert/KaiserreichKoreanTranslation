@@ -1,11 +1,11 @@
 ﻿l_english:
 
-Xinjiang_Clique:0 "신강군벌 중점계통도"
+Xinjiang_Clique:0 "신강군벌 중점 계통도"
 
 #### Parties ###
-SIK_totalist_party:0 "청년 투르케스탄당"
-SIK_totalist_party_long:0 "청년 투르케스탄당"
-SIK_syndicalist_party:0 "청년 투르케스탄당"
+SIK_totalist_party:0 "청년 투르키스탄당"
+SIK_totalist_party_long:0 "청년 투르키스탄당"
+SIK_syndicalist_party:0 "청년 투르키스탄당"
 SIK_syndicalist_party_long:0 "청년 투르케스탄당"
 SIK_radical_socialist_party:0 "국민당"
 SIK_radical_socialist_party_long:0 "국민당"
@@ -79,7 +79,7 @@ SIK_pushing_edge:0 "구석으로 밀어넣기"
 SIK_pushing_edge_desc:0 "양젠신은 위구루족에대한 경험이 풍부하며 위구르를 가장 고도화된 수준으로 밀어내는 법을 잘알고 있습니다. 양씨 정권은 이들을 최대한 극한의 사지로 몰아넣을 것이고, 그 이상으로 밀어 넣거나 무슨 일이 일어난다면 당장 폭발할 것입니다."
 
 SIK_over_edge:0 "선을 넘어서다"
-SIK_over_edge_desc:0 "양쩡신이 조심조심하며 위구루 인구들을 밀어내던 수법은 진슈렌에 의해 완전히 내동댕이쳐져 버렸습니다. 진슈렌의 위구르인 토지 소유자의 세금을 두배로 인상하는 의견으로 사람들은 크게 동요하고 있습니다."
+SIK_over_edge_desc:0 "양쩡신이 조심조심하며 위구르 주민들을 밀어내던 정책은 진수런에 의해 완전히 내동댕이쳐져 버렸습니다. 진수런의 위구르인 토지 소유자의 세금을 두 배로 인상하는 의견으로 사람들은 크게 동요하고 있습니다."
 
 SIK_enemies_all_sides:0 "다방면의 적"
 SIK_enemies_all_sides_desc:0 "동쪽으로는 퉁간인들이 남쪽으로는 위구르족에게 둘러쌓여, 신강군벌은 위험에 빠져있으며, 여기서 지면 누구도 살아남지 못할 것입니다. 우리의 최후의 저항거점인 §YAksu§!와 §YDihua§!가 함락된다면 신강은 끝장입니다."
@@ -133,10 +133,10 @@ SIK_tradeing_allies_desc:0 "다양한 제국들의 졸개가 되는 것을 피�
 SIK_killing_mongol_decision_category:0 "몽골의 노략질"
 SIK_killing_mongol_decision_category_desc:0 "북쪽의 몽골 정부가 서부의 도적들과 마찰이 생기면서 이 문제는 우리 신강지역까지 확산되고 있다. 이지역이 신강의 핵심은 아니지만, 이 상황이 오래 지속되면 우리의 통치력을 의심 받을 것이다."
 
-SIK_mobilize_shuren_division:0 "진슈렌의 부대를 증원"
+SIK_mobilize_shuren_division:0 "진수런의 부대를 증원"
 SIK_mobilize_shuren_division_desc:0 "The regiment Jin Shuren was preparing before the governorship crisis is readily open for us to crush the Mongolian bandits in the north, besides some minor needs for more men and guns."
 
-SIK_march_dzungaria:0 "진슈렌의 부대를 동원"
+SIK_march_dzungaria:0 "진수런의 부대를 동원"
 SIK_march_dzungaria_desc:0 "With the regiment properly supplied, we should be plenty ready to raid the Mongolian camps causing all of these problems. We can only hope the operation goes well."
 
 SIK_setup_policing_dzungaria:0 "치안유지정책"
@@ -185,7 +185,7 @@ SIK_assassinate_sabit_damulla_decision:0 "계획"
 
 ### Events ###
 xin.0.t:0 "신강군벌 소개"
-xin.0.desc:0 "중국의 신강성은 오늘날까지 끊임없이 불안의 속삭임에 고통받고 있기때문에 서북부의 많은 지역들과 마찬가지로 파괴적인 역사를 가지고 있습니다. 신해혁명의 여파는 위구르 인들에 의해 반생하고 있던 혼란보다 중앙아시아에 거주하고 있던 중국인들에 의해 발생한 것이 더 많습니다. 최근의 도지사인 완두화는 이 사태를 전혀 수습하지 못했고, 그의 지역을 떠나 그의 신임 고문인 양쩡신에게 위임한뒤 떠났습니다.\n\n 신강은 약싹바른 거래와 폭압적인 정책을 통해 20년간 통지를 유지해 왔습니다. 양씨 자신은 매우 편집증적인 사람으로 신강에 거주하는 위구르 인들은 한계까지 억압하여 봉기를 예방하기 위한 모든 조치들을 취하고 있습니다. 1936년까지, 그는 그의 저택에만 머무르며 그의 몇명의 신하중 한명이 시도 했던 암살에대한 두려움 때문에 좀처럼 나오지 않는 외딴 영혼입니다. 대부분의 임무는 그의 강력한 조언가인 진슈렌, 마샤오우, 판 야오난의 사이에서 처리됩니다. 세사람의 의견이 합치하여 일상 업무를 처리하면서 가끔 양지사의 지시를 받습니다. 현재로선 신강내의 현상유지는 되지만 양씨의 운둔이 갈수록 심해지면서 무슨일이 일어날 수도 있습니다."
+xin.0.desc:0 "중국의 신강성은 오늘날까지 끊임없이 불안의 속삭임에 고통받고 있기때문에 서북부의 많은 지역들과 마찬가지로 파괴적인 역사를 가지고 있습니다. 신해혁명의 여파는 위구르 인들에 의해 반생하고 있던 혼란보다 중앙아시아에 거주하고 있던 중국인들에 의해 발생한 것이 더 많습니다. 최근의 도지사인 완두화는 이 사태를 전혀 수습하지 못했고, 그의 지역을 떠나 그의 신임 고문인 양쩡신에게 위임한뒤 떠났습니다.\n\n 신강은 약싹바른 거래와 폭압적인 정책을 통해 20년간 통지를 유지해 왔습니다. 양씨 자신은 매우 편집증적인 사람으로 신강에 거주하는 위구르 인들은 한계까지 억압하여 봉기를 예방하기 위한 모든 조치들을 취하고 있습니다. 1936년까지, 그는 그의 저택에만 머무르며 그의 몇명의 신하중 한명이 시도 했던 암살에대한 두려움 때문에 좀처럼 나오지 않는 외딴 영혼입니다. 대부분의 임무는 그의 강력한 조언가인 진수런, 마샤오우, 판 야오난의 사이에서 처리됩니다. 세사람의 의견이 합치하여 일상 업무를 처리하면서 가끔 양지사의 지시를 받습니다. 현재로선 신강내의 현상유지는 되지만 양씨의 운둔이 갈수록 심해지면서 무슨일이 일어날 수도 있습니다."
 xin.0.a:0 "양쩡신이시여 장수하고 번창하시길"
 xin.0.b:0 "쿠물 칸국이 뭔데?"
 xin.0.c:0 "위구르인들?"
@@ -314,7 +314,7 @@ xin.30.a:0 "우리는 경계해야해."
 
 xin.31.t:0 "우리의 동맹 마샤오우가 북쪽으로 진격하다"
 xin.31.desc:0 "Shaowu is marching north! Unexpectedly prompt from the southern government, Ma Shaowu has begun to march north to assist in the suppression of the Kumul Uprising, citing it as "the source of all his problems". Leaving only minor garrisons in Kashgar and Hotan while distributing troops to other minor towns, he's taken the majority of his forces on a march to Aksu to assist in our efforts against Kumul. Whether he was right to make this decisions can't be predicted, but with the unrest only growing in thee south, many are citing him as an absolute fool for compromising our situation even more."
-xin.31.a:0 "바보 멍청이아니야, 이거"
+xin.31.a:0 "바보 멍청이 아니야, 이거"
 
 xin.32.t:0 "케리야에서 일어난 작은 봉기"
 xin.32.desc:0 "As expected, the worst has begun. The south has begun to explode, with the uprising being in neither Kashgar nor Hotan but in the minor mining town of Keriya. Miners fed up with the lack of pay and ludicrous taxation have overthrown the administrators of the region, with many citing the wealthy Bughra Family being the ones funding their efforts. Now with a small amount of rifles, they have begun to march to Aksu in the name of Uyghur independence."
@@ -348,7 +348,7 @@ xin.38.b:0 "인내는 미덕이다"
 
 xin.39.t:0 "투루판 수비대가 고용되다"
 xin.39.desc:0 "It seems Jin's idea was the a good choice after all. Sending a small regiment to kill Fuming in his sleep, proper leadership has been re-established over the garrison despite some initial chaos. The new command has deployed the garrison and is ready to be commanded. Many are impressed by Jin's handling of the situation here, allowing us to keep possible rebellion within our ranks silent for now."
-xin.39.a:0 "진슈렌은 진실로 위대하다."
+xin.39.a:0 "진수런은 진실로 위대하다."
 
 xin.40.t:0 "투루판 수비대가 동원된건가?"
 xin.40.desc:0 "After many more hours of what many would consider infuriating negotiations with the insufferable Ma Fuming, Jin finally reached a boiling point, completely cutting off all messages to the garrison. The latest news we've heard is of the garrison being deployed, but considering the lack of message towards us about mobilization, we are better off believing that it is not deployed in our favor. Many are call Jin Shuren a fool for such blunder, as the Kumuliks only grow stronger from our own incompetence."
@@ -438,7 +438,7 @@ xinfd.15.t:0 "카슈가르의 지배자 타격"
 xinfd.15.d:0 "The loose rebels of East Turkestan are unified by one figure: Sabit Damulla. The Bughra brothers of Hotan and the merchant noble Timur Beg are only unified by Sabit Damulla. If you remove Sabit, you remove their unity, and their coalition is likely to collapse. After finding out the location of Sabit Damulla from an interrogation, our military staff has decided that now is the time to act. The person most prepared to run this mission is our general Burhan Shahidi. He hates the Uygher rebels more than most, and has in the past shown decent success at missions like this. We could send him into rebel land with a small group of professional troops, and attack Damulla's house while he sleeps. Hopefully, Shahidi will succeed."
 xinfd.15.a:0 "샤히디에게 행운이 있기를."
 
-xinfd.16.t:0 "사빗 다물라에대한 암살기도!"
+xinfd.16.t:0 "사빗 다물라에 대한 암살기도!"
 xinfd.16.d:0 "A tragic event has occured today. While Sabit Damulla slept in his house, his guards waited lazily outside, not focusing on the mountains around them. As one of the guards sat on a step, taking apart his gun, his skull was suddenly filled with lead. The gunshot rang through the valley, as the rest of the guards sprang into action. A firefight broke out as, from the peak of a nearby hill, a band of soliders, around 18 strong, charged down the hill, led by Xinjiang Clique general Burhan Shahidi. The group were able to kill the 7 guards outside the house, but lost 3 themselves. As they approached the house, they lost 2 more to guards shooting out from the window. Shahidi himself kicked through the door and shot another guard through the head with his pistol. The group travelled through the house and killed another 3 guards, losing none themselves. Now, the only one left was Sabit Damulla. As the approached Sabit's bedroom, Shahidi reloaded his pistol, smiling at his success. However, when he bashed through the door, all he found was an empty bed and an open window. Shahidi realised his mistake of not leaving more soldiers outside to guard the perimeter, as Sabit Damulla slipped through his grasp. Within the hour hundreds of Sabits troops got to the house, but by then Shahidi and his men had gone.\n\nThough the assassination was a failure, it will still have dire consequences. Sabit Damulla, paranoid for his life, has gone into hiding, leaving it very difficult to communicate with him. Divisions are left disorganised and are even sometimes turing against eachother."
 xinfd.16.a:0 "망할놈들!"
 
@@ -494,7 +494,7 @@ SIK_colonize_kumul_desc:0 "The people of Hami suffered under the ill rule of the
 SIK_sharing_the_love:0 "보상 나눔"
 SIK_sharing_the_love_desc:0 "There was a great bounty of gold confiscated from the Uyghurs in the Tarim Basin, which has finally arrived in Dihua. After Governor Jin sufficiently compensated himself for his thankless work, he has magnanimously given the reamining gold to the families who fought alongside him, and landlords who gave their grain to feed the army."
 
-SIK_statewide_projects:0 "전지역에대한 계획"
+SIK_statewide_projects:0 "전지역에 대한 계획"
 SIK_statewide_projects_desc:0 "Jin Shuren has authorized a series of needed repairs to cover the significant vulnerabilities in our military. These projects will hopefully enable us to better utilize our hard-to-reach natural resources."
 
 SIK_trade_dealing:0 "무역 거래"
