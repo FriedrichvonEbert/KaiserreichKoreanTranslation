@@ -567,7 +567,7 @@ FOP_sabotage_success_tooltip:0 "[ARG.GetAdjective] 지역의 §H파괴공작이 
 FOP_resistance_success_tooltip:0 "[ARG.GetAdjective] 지역에서 §H저항세력이 활동§!하고 있습니다."
 
 #Custom Tech Tooltips
-FOP_ship_tooltip1:0 "§H잠수함§!을 건조 시 §G생산 보너스§!를 받을 것입니다"
+FOP_ship_tooltip1:0 "§H잠수함§! 건조 시 §G생산 보너스§!를 받을 것입니다"
 FOP_ship_tooltip2:0 "§H전함§!과 §H드레드노트§! 건조 시 §G생산 보너스§!를 받을 것입니다"
 
 ### Flags ###
@@ -581,7 +581,7 @@ FOP_oil_extraction_1_completed:0 "석유 추출 작업이 시작됨"
 FOP_oil_extraction_2_completed:0 "석유 추출 작업이 진행 중임"
 FOP_combined_resource_exploitation_completed:0 "파타고니아 자원 개발이 완료됨"
 FOP_union_civica_cooperation:0 "시민연합과의 협력"
-FOP_sabotage_ongoing:0 "파괴공장 임무 수행 중"
+FOP_sabotage_ongoing:0 "파괴공작 임무 수행 중"
 FOP_resistance_ongoing:0 "저항공작 임무 수행 중"
 
 ### Ideas ###
@@ -765,24 +765,24 @@ fop.18.t:0 "브리튼 연합의 소총 지원"
 fop.18.d:0 "브리튼 연합은 부에노스아이레스 정권에 대항하는 우리의 투쟁을 돕기 위해 그들의 국가 비축물에서 §GRifle No.4 Mk.I§! §G1000§!개를 지원해주었습니다."
 fop.18.a:0 "브리튼 통지들에게 경의를!"
 
-fop.22.t:0 "[FOP.GetNameDefCap] asks us to join their faction."
-fop.22.d:0 "[FOP.GetNameDefCap] have requested that we unite our revolutionary forces under the alliance of the South American States. What shall we do?"
-fop.22.a:0 "Workers of the World, Unite!"
-fop.22.b:0 "We can survive by ourselves"
+fop.22.t:0 "[FOP.GetNameDefCap]의 세력 초청"
+fop.22.d:0 "[FOP.GetNameDefCap](은)는 남미의 동지끼리 모여 혁명군을 결집하자고 요청했습니다."
+fop.22.a:0 "만국의 노동자들이여, 단결하라!"
+fop.22.b:0 "우리는 홀로 간다."
 
-fop.24.t:0 "Victory for the Revolution!"
-fop.24.d:0 "Starting as a small insurrection in the south and after years of planning and waiting, we have successfully defeated the reactionary government in Buenos Aires and sent them into exile. With our leaders consolidating the power of the workers in the Capital, they have decided to formally declare the Argentinian Republic fully suspended, and instead have opted to proclaim the new Argentinian Commune. With this victory for the proletariat in one of the most unlikely places, we may act as an inspiration for socialists worldwide and help the Internationale achieve its World Revolution soon enough..."
-fop.24.a:0 "Great! Now, What Is Next on the Revolutionary Agenda..."
+fop.24.t:0 "혁명의 성공"
+fop.24.d:0 "남부의 소규모 파업으로 시작하여 수년간의 계획과 기다림 끝에, 부에노스아이레스의 반동분자들을 성공적으로 격파하고 그들을 숙청했습니다. 우리 지도자들이 수도에서 노동자들의 권리를 공고히 하는 가운데, 아르헨티나 공화국의 종말과 함께 새로운 아르헨티나 코뮌을 선포하기로 결정했습니다. 프롤레타리아를 위한 이 승리는 우리가 전세계의 사회주의자들을 고무시킬 것이고, 인터내셔널이 곧 세계혁명을 이루도록 하는데 도움이 될 것입니다."
+fop.24.a:0 "좋아! 이제, 다음 목표는..."
 
-fop.25.t:0 "[FOP.GetNameDefCap] demands subjugation!"
-fop.25.d:0 "[FOP.GetNameDefCap] has issued an ultimatum to our government: To allow a revolutionary government to wipe the Capitalist system away, or to face the consequences for oppressing the Uruguayan proletariat. This is a blatant threat, and the survival of our nation depends on our choice..."
-fop.25.a:0 "Let Syndicalism Rule!"
-fop.25.b:0 "We can defend!"
+fop.25.t:0 "[FOP.GetNameDefCap]의 최후통첩!"
+fop.25.d:0 "[FOP.GetNameDefCap](은)는 우리 정부에 자본주의 체제를 없애고 혁명 정부를 들이거나 우루과이의 프롤레타리아들를 억압한 대가에 직면하라는 최후통첩을 보냈습니다. 이것은 우리를 향한 노골적인 위협이고, 국가의 운명은 우리의 선택에 달려 있습니다..."
+fop.25.a:0 "생디칼리슴을 받아들이자..."
+fop.25.b:0 "우리는 그들을 막을 수 있다!"
 
-fop.26.t:0 "Uruguay Refuses"
-fop.26.d:0 "The reactionary regime in Uruguay has refused our generous offer to join the revolution, and they are now mobilizing troops to their borders in preparation for war."
-fop.26.a:0 "We Shall Give them What They Want..."
-fop.26.b:0 "We Cannot Afford War, Back Off"
+fop.26.t:0 "우루과이의 거부"
+fop.26.d:0 "우루과이의 반동정권은 혁명에 동참하라는 우리의 너그러운 제의를 거절했고, 그들은 국경으로 군대를 동원하여 전쟁을 대비하고 있습니다."
+fop.26.a:0 "그들이 원한다면야..."
+fop.26.b:0 "전쟁을 치를 수는 없다. 물러나자."
 
 fop.27.t:0 "[FOP.GetNameDefCap] demands their claims"
 fop.27.d:0 "While Argentina was at war with the Syndicalists in Patagonia, we took it as our chance to seize some of our claimed lands that the Argentinians held. However, now that the syndicalists have won and fully consolidated, [FOP.GetNameDef] have demanded that we concede our recently acquired lands back to them."
