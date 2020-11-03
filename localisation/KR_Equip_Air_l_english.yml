@@ -1020,7 +1020,7 @@ CAN_cv_fighter_equipment_3_short:0 "파이어플라이"
 ### Carlist Spain ###
 ###
 
-CAR_CAS_equipment_1:0 "Caproni Ca.307"
+CAR_CAS_equipment_1:0 "카프로니 Ca.307"
 CAR_CAS_equipment_1_short:0 "Ca.307"
 CAR_CAS_equipment_3:0 "Breda Ba.201"
 CAR_CAS_equipment_3_short:0 "Ba.201"
@@ -1035,15 +1035,15 @@ CAR_fighter_equipment_3_short:0 "F.6"
 
 CAR_nav_bomber_equipment_1:0 "Savoia-Marchetti SM.79"
 CAR_nav_bomber_equipment_1_short:0 "SM.79"
-CAR_nav_bomber_equipment_2:0 "Caproni Ca.314"
+CAR_nav_bomber_equipment_2:0 "카프로니 Ca.314"
 CAR_nav_bomber_equipment_2_short:0 "Ca.314"
 
-CAR_tac_bomber_equipment_1:0 "Caproni Ca.135"
+CAR_tac_bomber_equipment_1:0 "카프로니 Ca.135"
 CAR_tac_bomber_equipment_1_short:0 "Ca.135"
 CAR_tac_bomber_equipment_2:0 "Savoia-Marchetti SM.84"
 CAR_tac_bomber_equipment_2_short:0 "SM.84"
 
-CAR_scout_plane_equipment_2:0 "Caproni Ca.311"
+CAR_scout_plane_equipment_2:0 "카프로니 Ca.311"
 CAR_scout_plane_equipment_2_short:0 "Ca.311"
 
 ###
@@ -1138,9 +1138,9 @@ CRO_transport_plane_equipment_1_short:0 "A.204"
 ### Combined Syndicates ###
 ###
 
-CSA_fighter_equipment_0:0 "콘솔리데이티드 P-1 호크"
+CSA_fighter_equipment_0:0 "컨설리데이티드 P-1 호크"
 CSA_fighter_equipment_0_short:0 "P-1 호크"
-CSA_fighter_equipment_0_desc:0 "With the outbreak of the civil war, the Combined Syndicates found itself in posession of nearly all of the nation's recently replaced P-1 Hawk biplanes. Lacking a sufficient alternative, a large number of the craft were sent to be upgraded at the Consolidated Aircraft Syndicate with the goal of attaining parity with the P-26 'Peashooter' monoplane."
+CSA_fighter_equipment_0_desc:0 "내전의 발발과 함께, 노조연맹이 최근 전국적으로 교체된 P-1 호크 복엽기의 거의 모든 수량을 보유했다는 것이 드러났습니다. 충분한 수량의 대체제가 없는 상황에서, P-26 '피슈터' 단엽기와 동등한 수준을 확보하려는 목적으로 다수의 항공기가 업그레이드를 위해 컨설리데이티드 항공기노조로 보내졌습니다."
 CSA_fighter_equipment_1:0 "커티스 P-36 호크"
 CSA_fighter_equipment_1_short:0 "P-36 호크"
 CSA_fighter_equipment_2:0 "커티스 P-40 워호크"
@@ -1179,7 +1179,7 @@ CSA_jet_tac_bomber_equipment_2:0 "마틴 B-51 플래쉬"
 CSA_jet_tac_bomber_equipment_2_short:0 "B-51 플래쉬"
 CSA_nav_bomber_equipment_1:0 "더글라스 TBD-1 데바스테이터"
 CSA_nav_bomber_equipment_1_short:0 "TBD-1 데바스테이터"
-CSA_nav_bomber_equipment_2:1 "콘솔리데이티드 TBY 씨 울프"
+CSA_nav_bomber_equipment_2:1 "컨설리데이티드 TBY 씨 울프"
 CSA_nav_bomber_equipment_2_short:1 "TBY 씨 울프"
 CSA_nav_bomber_equipment_3:1 "브루스터 SB2A-4 버커니어"
 CSA_nav_bomber_equipment_3_short:1 "SB2A-4 버커니어"
@@ -1187,7 +1187,7 @@ CSA_CAS_equipment_1:0 "노스롭 A-17 드리프터"
 CSA_CAS_equipment_1_short:0 "A-17 드리프터"
 CSA_CAS_equipment_2:0 "더글라스 A-24 밴시"
 CSA_CAS_equipment_2_short:0 "A-24 밴시"
-CSA_CAS_equipment_3:0 "콘솔리데이티드 A-33F 스톰"
+CSA_CAS_equipment_3:0 "컨설리데이티드 A-33F 스톰"
 CSA_CAS_equipment_3_short:0 "A-33F 스톰"
 CSA_transport_plane_equipment_1:0 "DC-3"
 
@@ -4235,8 +4235,8 @@ SFR_cv_fighter_equipment_3_short:0 "파이어플라이"
 ###
 
 # Pre-1936 Model
-SIA_fighter_equipment_0:0 "5식 프라자디포크" # Prajadhipok
-SIA_fighter_equipment_0_short:0 "프라자디포크"
+SIA_fighter_equipment_0:0 "5식 프라차티뽁" # Prajadhipok
+SIA_fighter_equipment_0_short:0 "프라차티뽁"
 SIA_fighter_equipment_0_desc:0 "The Prajadhipok, also known as Fighter Type 5, was a single-seat fighter, the second indigenous Siamese aircraft design. In 1929, Lieutenant Colonel Luang Neramit Baijayonta designed the aircraft, which was named Prajadhipok after His Majesty King Prajadhipok (Rama VII). It was the second aircraft designed and built in Siam and the first Siamese designed and built fighter, now called Fighter Type 5."
 SIA_tac_bomber_equipment_0:0 "2식 보리파트라" # Boripatra
 SIA_tac_bomber_equipment_0_short:0 "보리파트라"
@@ -4929,7 +4929,7 @@ SWE_heavy_fighter_equipment_3_desc:0 "Heavier, bigger and stronger, the Saab J 2
 
 SWE_scout_plane_equipment_1:0 "Fieseler S 14"
 SWE_scout_plane_equipment_1_short:0 "S 14"
-SWE_scout_plane_equipment_2:0 "Caproni S 16"
+SWE_scout_plane_equipment_2:0 "카프로니 S 16"
 SWE_scout_plane_equipment_2_short:0 "S 16"
 
 SWE_transport_plane_equipment_1:0 "융커스 Ju-86 Tp 9"
