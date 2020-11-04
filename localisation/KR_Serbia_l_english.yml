@@ -4,16 +4,16 @@ serbia_focus: "세르비아 중점 계통도"
  
 ### Leaders ###
 POLITICS_SLOBODAN_JOVANOVIC_DESC:0 "세르비아의 법학자, 역사학자, 사회학자, 언론인이자 문학 평론가인 슬로보단 요바노비치는 유난히 분명하고 날카롭게 세상을 바라봅니다. 그의 유일한 관심은 세르비아 국민들과 헌법을 권위주의로부터 보호하는 것입니다."
-POLITICS_PETAR_BOJOVIC_DESC:0 "세르비아-오스만 전쟁, 세르비아-불가리아 전쟁, 발칸 전쟁, 그리고 세계대전까지 군 사령관을 맡았던 보요비치는 세계대전 이후 오스트리아로부터 독립한 세르비아의 보이보다이자 통치자입니다."
-POLITICS_ALEXANDER_II_DESC:0 "발칸 전쟁과 세계대전에서 군 사령관을 맡았던 예전의 세르비아 왕세자는 이제 국왕이 되었습니다. 그는 세르비아 카라조르제비치 왕조의 일원으로 그의 아버지에 이은 두 번째 왕입니다."
+POLITICS_PETAR_BOJOVIC_DESC:0 "세르비아-오스만 전쟁, 세르비아-불가리아 전쟁, 발칸전쟁, 그리고 세계대전까지 군 사령관을 맡았던 보요비치는 세계대전 이후 오스트리아로부터 독립한 세르비아의 보이보다이자 통치자입니다."
+POLITICS_ALEXANDER_II_DESC:0 "발칸전쟁과 세계대전에서 군 사령관을 맡았던 예전의 세르비아 왕세자는 이제 국왕이 되었습니다. 그는 세르비아 카라조르제비치 왕조의 일원으로 그의 아버지에 이은 두 번째 왕입니다."
 
 ### Parties ###
 SER_totalist_party:0 "중앙노동조합"
 SER_totalist_party_long:0 "중앙노동조합"
 SER_syndicalist_party:0 "중앙노동조합"
 SER_syndicalist_party_long:0 "중앙노동조합"
-SER_radical_socialist_party:0 "사회노동당"
-SER_radical_socialist_party_long:0 "사회노동당"
+SER_radical_socialist_party:0 "사회주의 노동자당"
+SER_radical_socialist_party_long:0 "사회주의 노동자당"
 SER_social_democrat_party:0 "세르비아 사회당"
 SER_social_democrat_party_long:0 "세르비아 사회당"
 SER_social_liberal_party:0 "민주당"
@@ -22,8 +22,8 @@ SER_market_liberal_party:0 "민주당"
 SER_market_liberal_party_long:0 "민주당"
 SER_social_conservative_party:0 "인민급진당"
 SER_social_conservative_party_long:0 "인민급진당"
-SER_authoritarian_democrat_party:0 "세르비아 진보당"
-SER_authoritarian_democrat_party_long:0 "세르비아 진보당"
+SER_authoritarian_democrat_party:0 "세르비아 국민당"
+SER_authoritarian_democrat_party_long:0 "세르비아 국민당"
 SER_paternal_autocrat_party:0 "하얀 손"
 SER_paternal_autocrat_party_long:0 "하얀 손"
 SER_national_populist_party:0 "세르비아 전사협회"
@@ -57,7 +57,7 @@ SER_austrias_watchful_eye:0 "오스트리아의 감시"
 SER_austrias_watchful_eye_desc:0 "서류상으로 오스트리아는 이미 10년 전에 세르비아에 대한 간섭을 철회했지만, 오스트리아는 널리 사랑받던 프란츠 페르디난트 대공을 살해하고 세계대전을 일으킨 민족을 여전히 감시하고 있습니다. 합스부르크 왕조는 언제라도 다뉴브강을 건너 베오그라드에 군대를 진주시키고 우리의 연약한 독립을 끝장낼 만한 무력을 가지고 있습니다."
 
 SER_political_instability:0 "베오그라드 음모"
-SER_political_instability_desc:0 "세르비아 국경에서 오스트리아군이 철수한 이후로 보이보다의 통치권은 결코 안전한 상태가 아닙니다. 음모가 사방에 널려 있으며 수많은 비밀리에 구성되거나 공개적으로 드러난 수많은 집단들이 보요비치의 자리를 위협하려는 작전을 꾸미고 있습니다. 지식인들과 장교들이 텅 빈 세르비아 왕좌의 주변을 배회하는 현 상황에 섭정이 자신의 자리를 지키고자 한다면 위협을 제거하기 위해 뭔가 해야 할 것입니다."
+SER_political_instability_desc:0 "세르비아 국경에서 오스트리아군이 철수한 이후로 보이보다의 통치권은 결코 안전한 상태가 아닙니다. 음모가 사방에 널려 있으며 비밀리에 구성되거나 공개적으로 드러난 수많은 집단들이 보요비치의 자리를 위협하려는 음모를 꾸미고 있습니다. 지식인들과 장교들이 텅 빈 세르비아 왕좌의 주변을 배회하는 현 상황에 섭정이 자신의 자리를 지키고자 한다면 위협을 제거하기 위해 뭔가 해야 할 것입니다."
 
 SER_alexanders_vision:0 "알렉산다르의 목표"
 SER_alexanders_vision_desc:0 "국왕 폐하께서는 개혁되고 현대화된 세르비아라는 원대한 꿈을 품고 있습니다. 토지개혁과 산업화 계획, 그리고 군국화 정책 등 수많은 급진적이고 강렬한 프로그램을 통해 알렉산다르는 언젠가 과거의 족쇄에서 벗어난 강하고 독립적인 국가를 지배하기를 열망합니다."
@@ -89,8 +89,8 @@ SER_farming_subsidies_desc:0 "세계대전이 세르비아를 황폐화시켰습
 SER_state_railways_directorate:0 "국가 철도청"
 SER_state_railways_directorate_desc:0 "중앙집권화된 집단으로 새로 태어난 세르비아 국가 철도청은 단일 조직으로서 모든 세르비아 철도의 소유권을 보유합니다. 내부 경쟁이 없어짐에 따라 철도청장은 세르비아 구석구석까지 기존 철도를 확장하는 작업에 착수할 수 있게 되었습니다."
 
-SER_military_reform_council:0 "군사개혁회의"
-SER_military_reform_council_desc:0 "비참한 상태의 세르비아군을 현대전에 걸맞는 군대로 끌어올리기 위해 밀란 네디치 장군이 지휘하는 군사개혁회의가 창설되었습니다."
+SER_military_reform_council:0 "군사개혁위원회"
+SER_military_reform_council_desc:0 "비참한 상태의 세르비아군을 현대전에 걸맞는 군대로 끌어올리기 위해 밀란 네디치 장군이 지휘하는 군사개혁위원회가 창설되었습니다."
 
 SER_local_designs_idea:0 "국산 설계"
 SER_local_designs_idea_desc:0 "외국 장비 설계를 활용할 수 있게 되면서 세르비아 현지에서도 재능 있는 이가 직접 국산 설계를 만들 수 있게 되었습니다."
@@ -127,7 +127,7 @@ SER_ready_for_war_tooltip:0 "§R세르비아가 오스트리아를 공격할 태
 
 SER_The_Road_To_Unification_decisions:0 "통일로 가는 길"
 SER_Integrate_State:0 "[FROM.GetName] 통합"
-SER_Ultimatum_To_Bulgaria:0 "[BUL.GetNameDef]에 최후 통첩"
+SER_Ultimatum_To_Bulgaria:0 "[BUL.GetNameDef]에 최후통첩"
 SER_End_The_Occupation_Of_Bulgaria:0 "불가리아 점령 종결"
 SER_Attack_Austria:0 "[AUS.GetNameDef] 공격"
 SER_Form_Yugoslavia:0 "유고슬라비아 형성"
@@ -151,7 +151,7 @@ SER_will_declare_war_tooltip:0 "§R이 달 내로 베오그라드 조약의 모�
 SER_will_declare_war_allies_tooltip:0 "§R세르비아는 2주 내로 오스트리아에 전쟁을 선포할 것이며, 우리도 그렇게 하도록 유도할 것입니다.§!"
 
 SER_Encourage_Yugoslavism_tooltip:0 "§H통합§! 선택 비용 감소"
-SER_Serbian_Mountain_Corps_tooltip:0 "£nato_unit_mountaineers_icon_small  §H산악병§! 부대 4개 배치할 것입니다."
+SER_Serbian_Mountain_Corps_tooltip:0 "£nato_unit_mountaineers_icon_small §H산악병§! 사단 4개 배치할 것입니다."
 SER_Local_Designs_tooltip:0 "항공기 설계사 해금: §H아에로푸트§!, §H로고자르스키§! 그리고 §HUTVA§!."
 SER_The_Serbian_Airforce_tooltip_RUS:0 "§H러시아 조언가§!와 §H국산 설계§!를 §H세르비아 공군 교리§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
 SER_The_Serbian_Airforce_tooltip_NFA:0 "§H프랑스 조언가§!와 §H국산 설계§!를 §H세르비아 공군 교리§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
@@ -277,7 +277,7 @@ SER_Expand_The_Radinac_Steel_Mill_desc:0 "라디나츠 제철소는 세르비아
 SER_Found_FOMU:0 "FOMU 설립"
 SER_Found_FOMU_desc:0 "Fabrika Oružja i Municije Užice(우지체 무기 및 군수품 공장), FOMU는 세르비아의 가장 중요한 군 장비는 물론이거니와 군수품 생산업체 중 하나입니다. 미래에 폭풍이 발칸 지역에 불어닥치면 앞으로 모든 것이 필요할 것입니다."
 
-SER_Form_The_Military_Council:0 "군사위원회 출범"
+SER_Form_The_Military_Council:0 "군사위원회 설립"
 SER_Form_The_Military_Council_desc:0 "밀란 네디치 장군이 지난 몇 년간 제안했던 개혁위는 우리의 새싹 같은 군대를 확장하고 현대화하는데 오래 걸릴 것입니다. 오스트리아의 손아귀에서 빠져나온 동안, 네디치의 제안을 받아들이고 그의 개혁을 시작할 시간이 되었습니다."
 
 SER_Organise_The_Chetniks:0 "체트니크 조직화"
@@ -375,7 +375,7 @@ SER_First_Naval_Exercises_desc:0 "The Serbian flag will be, for the first time i
 
 ### Events ###
 serbia.0.t:0 "세르비아 왕국"
-serbia.0.d:0 "1914년에 일어난 세르비아 민족주의자의 페르디난트 대공 암살은 세계대전의 촉매가 되었습니다. 오스트리아는 손쉽게 이길 것이라고 예상했지만 1915년 말이 되어서야 세르비아를 점령하게 되었고 이를 위해 불가리아를 참전시켰습니다. 전쟁 후 세르비아의 남부 영토는 불가리아에 넘겨졌고 나머지는 1926년까지 오스트리아 점령 하에 있었습니다. 하지만 제국 내 민족적 긴장 때문에 오스트리아는 군대를 철수할 수밖에 없었고, 전쟁 영웅인 페타르 보요비치는 섭정으로 임명되었습니다.\n\n그 이후 세르비아는 어떠한 종류의 군사적 공격에도 당해낼 수 없다는 것을 알고 저자세를 유지하며 살아남기 위해 고군분투했습니다. 시간이 지남에 따라 정부는 점점 더 강경해지고 있으며, 오스트리아를 이길 수 없다는 것을 알고 대신에 남쪽으로 관심을 돌려 마케도니아로 향했습니다. 이 지역에서 불가리아의 패권을 무너뜨릴 목적으로 이미 보복주의적인 루마니아 및 그리스 정부와 여러 차례 외교적 대화가 진행됐으며, 일각에서는 공식적인 동맹 논의가 멀지 않은 것으로 보고 있습니다.\n\n한편 세르비아 왕좌는 텅 비어 있습니다. 오스트리아는 카라조르제비치 왕조를 복고할 시 개입하겠다고 위협했고, 보이보다는 이에 응해 알렉산다르 전 왕세자의 복귀 시도를 차단하고 이 과정에서 왕당파를 소외시켰습니다. 섭정이 서서히 지지를 잃어가고 있는 상황에서 세르비아는 성공적으로 '불가리아 문제'에서 승리할 수 있을까요? 그리고 만일 그렇다면 마침내 오랜 적 오스트리아를 물리치고 범슬라브 연합의 꿈을 실현할 수 있을까요?"
+serbia.0.d:0 "1914년에 일어난 세르비아 민족주의자의 페르디난트 대공 암살은 세계대전의 촉매가 되었습니다. 오스트리아는 손쉽게 이길 것이라고 예상했지만 1915년 말이 되어서야 세르비아를 점령하게 되었고 이를 위해 불가리아를 참전시켰습니다. 전쟁 후 세르비아의 남부 영토는 불가리아에 넘겨졌고 나머지는 1926년까지 오스트리아 점령 하에 있었습니다. 하지만 제국 내 민족적 긴장 때문에 오스트리아는 군대를 철수할 수밖에 없었고, 전쟁 영웅인 페타르 보요비치는 섭정으로 임명되었습니다.\n\n그 이후 세르비아는 어떠한 종류의 군사적 공격에도 당해낼 수 없다는 것을 알고 저자세를 유지하며 살아남기 위해 고군분투했습니다. 시간이 지남에 따라 정부는 점점 더 강경해지고 있으며, 오스트리아를 이길 수 없다는 것을 알고 대신에 관심을 남쪽으로 돌려 마케도니아로 향했습니다. 이 지역에서 불가리아의 패권을 무너뜨릴 목적으로 이미 보복주의적인 루마니아 및 그리스 정부와 여러 차례 외교적 대화가 진행됐으며, 일각에서는 공식적인 동맹 논의가 멀지 않은 것으로 보고 있습니다.\n\n한편 세르비아 왕좌는 텅 비어 있습니다. 오스트리아는 카라조르제비치 왕조를 복고할 시 개입하겠다고 위협했고, 보이보다는 이에 응해 알렉산다르 전 왕세자의 복귀 시도를 차단하고 이 과정에서 왕당파를 소외시켰습니다. 섭정이 서서히 지지를 잃어가고 있는 상황에서 세르비아는 성공적으로 '불가리아 문제'에서 승리할 수 있을까요? 그리고 만일 그렇다면 마침내 오랜 적 오스트리아를 물리치고 범슬라브 연합의 꿈을 실현할 수 있을까요?"
 serbia.0.a:0 "세르비아는 다시 위대해질 것이다!"
 
 serbia.1.t:0 "검은 월요일이 세르비아를 강타하다!"
@@ -415,12 +415,12 @@ serbia.8.d:0 "지난 며칠간 보이보다 보요비치는 걱정스러운 듯�
 serbia.8.a:0 "소리 지르게 놔둬라."
 
 serbia.9.t:0 "수많은 음모"
-serbia.9.d:0 "지난 10년간 세르비아 정치는 보이보다 정권 하에서 비교적 안정을 구가하고 있었습니다. 패배한 인민급진당의 유고슬라비아주의와 왕정주의 이념은 오스트리아 측에 너무 위험한 존재로 받아들여졌기 때문에 보요비치는 군부와 수많은 우익 반체제 집단의 지지를 등에 업고 새로운 보수주의와 중앙집권주의를 지지하는 정당인 세르비아 진보당을 중심으로 정부를 구성했습니다. 과거 10년간 계속된 정치적 억압과 민주주의의 제한은 진보당을 통합하고 뒤이어 보요비치의 통제력을 강화하는 역할을 수행했습니다. 하지만 이렇게 조심스럽게 지어진 체제 위에 느리지만 서서히 가해지는 위협이 점차 다가오고 있었습니다. 바로 검은 월요일입니다.\n\n우리가 회복을 향해 가고는 있지만, 수많은 사람들은 국민당에 대한 믿음을 완전히 잃었고, 전직 시장이었던 새로 등극한 젊은 지도자 니스 드라기샤 치베트코비치조차도 신뢰를 되찾는데 실패했습니다. 다른 쪽에서는 민주주의자들과 급진주의자들이 점령 말기에 잃어버렸던 지지층 일부를 되찾는데 성공했고, 이제는 보요비치에 더욱 단합된 반대 의견을 제시하고 있습니다. 한편, 주로 왕정주의를 지지하는 수많은 비밀 결사들이 보이보다의 군부에 대한 통제권에 심대한 문제를 끼치고 있습니다. 베오그라드에서 뜬소문이 돌고는 있지만, 페타르 보요비치의 국가 장악력이 결코 약해지지 않으리라는 점은 분명합니다."
+serbia.9.d:0 "지난 10년간 세르비아 정치는 보이보다 정권하에서 비교적 안정을 구가하고 있었습니다. 패배한 인민급진당의 유고슬라비아주의와 왕정주의 이념은 오스트리아 측에 너무 위험한 존재로 받아들여졌기 때문에 보요비치는 군부와 수많은 우익 반체제 집단의 지지를 등에 업고 새로운 보수주의와 중앙집권주의를 지지하는 정당인 세르비아 진보당을 중심으로 정부를 구성했습니다. 과거 10년간 계속된 정치적 억압과 민주주의의 제한은 진보당을 통합하고 뒤이어 보요비치의 통제력을 강화하는 역할을 수행했습니다. 하지만 이렇게 조심스럽게 지어진 체제 위에 느리지만 서서히 가해지는 위협이 점차 다가오고 있었습니다. 바로 검은 월요일입니다.\n\n우리가 회복을 향해 가고는 있지만, 수많은 사람은 국민당에 대한 믿음을 완전히 잃었고, 전직 시장이었던 새로 등극한 젊은 지도자 니스 드라기샤 치베트코비치조차도 신뢰를 되찾는 데 실패했습니다. 다른 쪽에서는 민주주의자들과 급진주의자들이 점령 말기에 잃어버렸던 지지층 일부를 되찾는 데 성공했고, 이제는 보요비치에 더욱 단합된 반대 의견을 제시하고 있습니다. 한편, 주로 왕정주의를 지지하는 수많은 비밀 결사들이 보이보다의 군부에 대한 통제권에 심대한 문제를 끼치고 있습니다. 베오그라드에서 뜬소문이 돌고는 있지만, 페타르 보요비치의 국가 장악력이 결코 약해지지 않으리라는 점은 분명합니다."
 serbia.9.a:0 "눈을 떼지 마라."
 
 serbia.10.t:0 "세르비아 문화협회 설립"
-serbia.10.d:0 "Leading Intellectuals in Serbia are typically liberals, subscribing to either the Radicals or the Democrats. As such, they’re one of the biggest and most consistent forms of opposition to the National Party, and being some of the most influential men in the country their voices carry weight. With the short and increasingly tepid Prime Ministerial tenure of the inexperienced Dragisa Cvetkovic impacting the Regents authority within the National Assembly, these powerplayers have more power over Serbia than ever.\n\nToday, a group of seventy intellectuals met in Belgrade, founding the ‘Nacionalni kulturni klub’ (Serbian Culture Club). Among the men were professors Slobodan Jovanović and Pavle Popović, leading Democratic Party politician Milan Grol, and a slew of other lawyers, writers and academics. The group’s motto, ‘A strong Serbian identity, a strong Serbian nation’ summaries their nationalist views, but belies their committment to liberalism, which inform their negative opinions on the current rather authoritarian constitution. The most important aspect to come out from the meeting is their explicit leaning to republicanism, if from a pragmatic viewpoint than an ideological one; they believe that Serbia cannot remain a regency forever, and if it is to thrive then a free, liberal and democratic republic must replace it."
-serbia.10.a:0 "변화가 닥치라라는 전조인가?"
+serbia.10.d:0 "세르비아의 대표적인 지식인들은 보통 자유주의자들이며, 급진주의자들 혹은 민주주의자들 중 한쪽에 동의합니다. 그런 만큼 그들은 가장 크고 한결같이 국민당에 반대하는 유형들 중 하나이며, 이 나라에서 가장 영향력 있는 사람들 중 몇몇이 그들의 목소리에 힘을 실어줍니다. 경험이 부족한 드라기사 츠베코비치의 짧고 점점 미온적인 총리 재임이 국회 내에서 섭정의 권한에 영향을 미치면서 이 파워플레이어들은 어느 때보다 많은 권력을 쥐고 있습니다.\n\n오늘, 70명의 지식인들이 베오그라드에서 만나 '세르비아 문화협회'를 창립했습니다. 사람들 중에서 슬로보단 요바노비치 교수와 파블레 포포비치 교수, 민주당을 이끄는 정치인 밀란 그롤, 그리고 많은 변호사, 작가, 학자들이 있었습니다. 이 단체의 좌우명인 '강한 세르비아 정체성, 강한 세르비아 국가'는 그들의 민족주의적 견해를 요약하지만, 현재 권위주의적인 헌법에 대해 그들의 부정적인 의견을 알리는 자유주의에 대한 그들의 헌신을 착각하게 만듭니다. 이 회의에서 나온 가장 중요한 양상은 이념보다는 실용적인 관점에서 볼 때 공화주의로 노골적으로 기울어진 그들의 성향입니다. 그들은 세르비아가 영원히 섭정 시대로 남을 수 없고, 만약 세르비아가 번영하려면 자유롭고 민주적인 공화국이 대신해야 한다고 믿고 있습니다."
+serbia.10.a:0 "변화가 닥치라는 전조인가?"
 
 serbia.11.t:0 "지브코비치가 왕세자의 귀환을 요청하다"
 serbia.11.d:0 "General Petar Živković is one of Serbia’s most prominent Karađorđević loyalists, a political position that’s seen him repeatedly sidelined by Petar Bojovic. Suspected to be the leader of the shadowy, royalist ‘White Hand’ secret society, it wasn't a surprise when Živković approached the Vojvoda requesting that Crown Prince Alexander, son of Petar I and heir to the Serbian throne, be allowed to return from his prolonged exile in Switzerland. If Alexander were to return, it’d no doubt result in an almost immediate restoration; the war hero Crown Prince is still a popular figure across the country, despite the concerted Austrian effort to scrub the nation clean of the Karađorđević legacy during the occupation.\n\nThis isn’t the first time Živković has requested Alexander’s return. In 1931, during the Creditanstalt crisis in Austria, Živković made a similar request hoping to capitalise on the Habsburg’s distraction and formally restore the monarchy. Though Bojovic denied the request back then, Serbia finds itself in a much more independent position following Black Monday. A Karađorđević restoration would no doubt draw the ire of Austria, but they won't be in a position to intervene and it’d be a nationally popular move. That being said, the Regency has been a stable time for Serbian politics, and restoring Alexander would likely be a destabilising move, compounded by his own fondness for autocracy which would no doubt result in a total political overhaul. In addition, Alexander has a marked fondness for Yugoslavism, another thing that could endanger the Serbian people. The Regent has an important choice to make. Should Alexander be allowed to return after 20 years of exile, or will the Regency continue?"
