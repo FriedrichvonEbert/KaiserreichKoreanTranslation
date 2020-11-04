@@ -1,16 +1,16 @@
 ﻿l_english:
 
-ETS_focus:0 "동튀르케스탄 중점계통도"
+ETS_focus:0 "동튀르키스탄 중점 계통도"
 
 ### Parties ###
-ETS_totalist_party:0 "청년 튀르케스탄당"
-ETS_totalist_party_long:0 "청년 튀르케스탄당"
-ETS_syndicalist_party:0 "청년 튀르케스탄당"
-ETS_syndicalist_party_long:0 "청년 튀르케스탄당"
-ETS_radical_socialist_party:0 "청년 튀르케스탄당"
-ETS_radical_socialist_party_long:0 "청년 튀르케스탄당"
-ETS_social_democrat_party:0 "청년 튀르케스탄당"
-ETS_social_democrat_party_long:0 "청년 튀르케스탄당"
+ETS_totalist_party:0 "청년 튀르키스탄당"
+ETS_totalist_party_long:0 "청년 튀르키스탄당"
+ETS_syndicalist_party:0 "청년 튀르키스탄당"
+ETS_syndicalist_party_long:0 "청년 튀르키스탄당"
+ETS_radical_socialist_party:0 "청년 튀르키스탄당"
+ETS_radical_socialist_party_long:0 "청년 튀르키스탄당"
+ETS_social_democrat_party:0 "청년 튀르키스탄당"
+ETS_social_democrat_party_long:0 "청년 튀르키스탄당"
 ETS_social_liberal_party:0 "민주연맹"
 ETS_social_liberal_party_long:0 "민주연맹"
 ETS_market_liberal_party:0 "악수당"
@@ -26,7 +26,7 @@ ETS_national_populist_party_long:0 "호탄 아미르"
 
 ### Leaders ###
 POLITICS_MUHAMMAD_AMIN_BUGHRA_DESC:0 "The early life of Muhammad Amin Burha is shouded in mystery, with scant clues alluding to him teaching at a Madrassa prior to his military serivce. Amin Burgha's background as a Jadidist and a Turk granted him few luxuries, even under Ma Shaowu's governance in Hotan. Amin Burgha displayed a strong determination to work for 신강's unification, and despised the weak attitude for which Governor Yang kept his garrisons. At the same time, Amin Burgha opposed the Han-centric army reforms being proposed by General Sheng Shicai, which placed the blame for army mismanagement on Islam rather than the opium epidemic."
-POLITICS_SABIT_DAMULLA_ABDULBAKI_DESC:0 "Sabit Damulla Abdulbaki never expected to be the face of the Turkic nationalist movement in 신강. A highly educated academic and journalist, Abdulbaki has corresponded with several of the world's most prominent living Jadidist scholars. Through Jadid circles, he became acquainted with prominent members of the East Turkestan nationalist movement, including the wealthy aristocrat Muhammad Amin Bughra, and through Bughra the wider nationalist movement. Due to his pleasant demeanor, pragamatic viewpoint, and fluency in several languages, the often at-odds nationalist factions agreed on Damulla to for the role of East Turkestan's first head of state and government. Should East Turkestan secure its bid for independence, it is likely however that Damulla will be subsumed by whichever of the nation's factions comes out on top."
+POLITICS_SABIT_DAMULLA_ABDULBAKI_DESC:0 "사비트 다물라 압둘바키는 신강에서 튀르크 민족주의 운동의 대표자가 될 줄은 전혀 예상하지 않았습니다. 고학력자이자 언론인인 압둘바키는 세계에서 가장 유명한 자디드 학자들과 연락을 주고받고 했습니다. 자디드 단체를 통해 부유한 귀족 무함마드 아민 부그라 등 동튀르키스탄 민족주의 운동의 주요 인사들과 알게 되었습니다. 그의 예의 바른 태도, 실용주의적 관점, 그리고 유창한 언어 실력으로 흔히 통합되지 못한 민족주의 파벌들은 다물라가 동튀르키스탄의 첫 번째 국가원수와 정부수반 역할을 하는 것에 동의했습니다. 그러나 동튀르키스탄이 독립을 쟁취할 경우, 다물라는 어느 파벌이든 주도권을 잡은 파벌에 흡수될 가능성이 큽니다. "
 
 #Opinion modifiers
 ETS_friendship_opinion_mod:0 "친선"
