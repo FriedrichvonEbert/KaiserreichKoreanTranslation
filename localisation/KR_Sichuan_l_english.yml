@@ -1732,28 +1732,28 @@ sichuan.211.d.bureau:0 "오늘 밀수꾼들과 거래를 하다 적발된 국가
 sichuan.211.a:0 "이건 정말 말도 안돼!"
 
 sichuan.212.t:0 "정치적 암살"
-sichuan.212.d:0 "As the saying goes, if you're above the target, they'll fire at you. With their market share shrinking thanks to the efforts of our law enforcement, military and administration, a sad reality is that the criminals will retaliate against us. Today two officials that had been stalwart fighters against corruption were assassinated in broad daylight by hired thugs. The criminals soon joined them thanks to our police, but it shows that the smugglers are ready to stop at nothing to win this war."
+sichuan.212.d:0 "옛말이 이르기를, 적을 봐주려고 총구를 돌리면 적이 먼저 쏜다고 했습니다. 새로운 법적 조치와 군사, 행정적 지원에 힘입어 정부의 시장 점유율이 크게 올라가면서 슬프게도 우리에게 저항하는 보복 범행이 증가했습니다. 오늘 부패에 저항하는 완고한 투사였던 두 관료가 대낮에 고용된 폭력배들에게 암살당했습니다. 경찰의 빠른 대응으로 모든 범죄자를 사살하는데 성공하기는 했지만, 이번 사건으로 밀수꾼들이 승리하기 위해서 수단과 방법을 가리지 않으리라는 점이 명확해 졌습니다."
 sichuan.212.a:0 "필사적으로 몸부림치는군!"
 
 sichuan.213.t:0 "아편이 사라지다"
-sichuan.213.d:0 "The efforts to tackle opium have finally yielded significant results. Though the fight has been tough and a lot of hardships have been endured, the role opium is playing in the Sichuanese economy has started to diminish. Addicts in the streets is becoming a scarcer sight and the debauchery associated with the opium dens is now gradually being phased out of society. Slowly but surely, we're winning this fight."
+sichuan.213.d:0 "아편 문제를 해결하려는 노력이 마침내 결실을 맺었습니다. 그동안 거친 투쟁과 많은 고난이 있었지만, 사천 경제에서 아편이 차지하는 부분이 줄어들기 시작했습니다. 거리에서 마약 중독자들이 돌아다니는 광경은 점점 더 낮선 모습이 되어가고 있고, 방탕한 아편굴은 이제 사회에서 점차 사라지는 추세입니다. 천천하지만 확실히 우리가 이 싸움에서 승리를 거두고 있습니다."
 sichuan.213.a:0 "여기서 멈출 수는 없다!"
 
 sichuan.214.t:0 "곡물 생산 증대"
-sichuan.214.d:0 "Opium as a crop is very labor-intensive, requiring huge amounts of work, resources and attention to cultivate. With the amount of opium being produced in Sichuan, a massive portion of our province's arable lands were devoted to opium production. With the growth of opium likely to lead to a jail sentence or worse, however, fewer and fewer farmers are growing it these days. This is a positive development as it has led to a gradual but significant increase in food crops being grown by our farmers. From having endured a famine not long ago, we may not be far from an agricultural boom."
+sichuan.214.d:0 "작물로서 아편은 매우 노동집약적이서 경작 과정에 엄청난 노동력과 자원, 그리고 관심이 필요합니다. 사천에서 아편이 생산되던 시기 우리가 통치하는 경작지 대부분에서 아편이 재배되고 있었습니다. 하지만 아편 재배가 징역형 혹은 더 심한 처벌로 이어질 가능성이 높아지면서 최근 아편을 재배하는 농가가 점점 줄어들고 있습니다. 이로 인해 농민계층의 식량 작물 생산량이 점진적이지만 확실하게 증가하고 있으니, 긍정적인 변화라고 할 수 있겠습니다. 얼마 전에 기근을 견뎌냈으니, 이제 농업의 폭발적인 성장이 다가올지도 모릅니다."
 sichuan.214.a:0 "더 이상 기근이 돌아오지 않을 것이다!"
 
-sichuan.215.t:0 "Tax Evasion Discovered"
-sichuan.215.d:0 "Sichuan has long had a problem with corruption. In large part caused by a dysfunctional government split between various warlords, a relic from those times is that tax collection has been very ineffective. Only 10-20% of what's collected seem to end up in [SZC.Capital.GetName], while the rest is lost to waste and fraud along the way."
-sichuan.215.a:0 "Do we need to do everything ourselves?"
+sichuan.215.t:0 "조세포탈 발견"
+sichuan.215.d:0 "사천은 오랫동안 부패에 시달리고 있었습니다. 수많은 군벌들이 서로 분열하면서 정부가 제대로 기능할 수 없게 되자 세금 징수도 상당히 비효율적이게 되었습니다. 전체 징수액중 [SZC.Capital.GetName]까지 도달하는 액수는 10퍼센트에서 20퍼센트 정도 밖에 되지 않으며, 나머지 액수는 중간에 낭비되거나 어디론가 사라지기 마련입니다."
+sichuan.215.a:0 "우리 스스로 모두 해결해야 하나?"
 
-sichuan.216.t:0 "Tax Evasion Increases Enormously"
-sichuan.216.d:0 "The plans to monopolize and tax opium has proven to not only be wildly unpopular, but it's also facing stiff resistance. Tax evasion, already a big problem before, has exploded since we put our plans into effect. As resistance to taxation comes from every level of society and not just a handful of dejected merchants, this will be a tremendous hurdle to overcome if our monopoly is to gain legitimacy."
-sichuan.216.a:0 "Get rid of those parasites!"
+sichuan.216.t:0 "조세포탈 급증"
+sichuan.216.d:0 "아편을 독점하고 세금을 매기려는 계획은 상당한 불만을 낳을 뿐만 아니라 엄청난 저항 또한 불러일으켰습니다. 이전부터 큰 문제였던 탈세 문제가 계획 실시 이후로 폭발적으로 증가했습니다. 조세 저항은 해당 계획으로 피해를 입은 상인 뿐만 아니라 사회 각계 각층에서 다발적으로 드러납니다. 그러므로 독점 정책이 정당성을 얻기 위해서는 이 장애물을 극복해야만 합니다."
+sichuan.216.a:0 "저 기생충들을 없애버려!"
 
-sichuan.217.t:0 "Merchants Revolt Against Our Policies"
-sichuan.217.d:0 "Many of Sichuan's largest merchant houses and farm owners are beginning to mount stiff resistance against our monopoly. With their combined resources, they hold a very significant power base in the country through their economic influence alone. This has allowed them to actively defy our newly imposed rules and taxes. In hindsight, we should probably have expected them to put up this kind of fight when faced with the prospect of being parted from their ill-gotten gains. We have no choice but to fight fire with fire on this one."
-sichuan.217.a:0 "Together or alone, they'll be crushed all the same."
+sichuan.217.t:0 "정책에 저항하는 상인들"
+sichuan.217.d:0 "수많은 사천 대규모 상인들과 농장주들이 독점 정책에 강력한 저항을 시작했습니다. 자원을 하나로 모은 그들의 경제적 영향력만 따지더라도 국가에 엄청난 영향력을 끼칠 수 있는 중요한 권력 기반입니다. 이로 인해 그들은 새로 제정된 법안과 세금에 적극적으로 저항할 수 있게 되었습니다. 지금 생각해 보니, 저들의 손아귀에서 부당 이익을 빼앗아 갔을 때 저항이 있으리라고 생각했어야 했습니다. 이번에는 저들의 공격에 맞불로 대응할 수 밖에 없습니다."
+sichuan.217.a:0 "한꺼번에 깨버리든 하나하나 격파하든, 모두 박살내버려야 한다."
 
 sichuan.218.t:0 "Smugglers Cut Into Our Profits"
 sichuan.218.d:0 "With new taxes being created and tax collection being streamlined, the smuggling of opium has become an even more lucrative business than ever before. The high taxes and - allegedly - 'draconian' measures by the state has allowed the gangs to undercut what the government is offering through its legal venues. Despite the best efforts of the police and army, they're still able to operate with relative ease."
