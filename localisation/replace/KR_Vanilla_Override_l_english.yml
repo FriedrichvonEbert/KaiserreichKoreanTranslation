@@ -32,7 +32,7 @@ LOAD_EVENTS:0 "이중 제국을 중앙집권화하는 중"
 LOAD_GFX:0 "아시아에서 지상전을 치르는 중"
 LOADING_MAIN_MENU:0 "쓰러져가는 제국을 받치는 중"
 PRECALC_NAVAL_DIST:0 "케렌스키를 암살하는 중"
-EXITING_TO_FRONTEND:0 "나폴레옹을 복권시키는 중"
+EXITING_TO_FRONTEND:0 "군주제를 복원하는 중"
 LOAD_INIT:0 "황제 해군을 배치시키는 중"
 LOAD_FLAGS:0 "미국의 민주주의를 구원하는 중"
 PROC_FLAGS:0 "중화제국을 재건하는 중"
@@ -129,8 +129,8 @@ CAN_JOIN_FACTIONS:0 "세력에 참여할 수 없습니다"
 
 
 ### state_l_english
-twelve:0 "초거대 도시 지역"
-eleven:0 "거대 도시 지역"
+twelve:0 "거대 도시 지역"
+eleven:0 "주요 도시 지역"
 nine:0 "인구밀도가 매우 높은 도시 지역"
 eight:0 "인구밀도가 높은 도시 지역"
 seven:0 "발전하고 있는 도시 지역"
@@ -148,6 +148,8 @@ zero_island:0 "아주 작은 섬"
 ### wtt_decisions_l_english
 improved_worker_conditions:0 "노동 환경 개선"
 improved_worker_conditions_desc:0 "공장일은 힘들고 위험요소가 가득합니다. 공장 노동자들의 환경을 개선한다면, 단기적 측면에선 생산량은 줄어들겠지만, 장기적 측면으론 그만한 가치가 있습니다."
+foreign_politics:0 "Foreign Policy"
+foreign_politics_desc:0 "Good foreign policy is vital to the survival of a nation, no matter its size. While some nations prefer to focus on building alliances, other, more aggressive, powers opt to challenge their opponents head-on in open conflict. Whatever we choose, we must not be foolhardy, for only through tactful foreign policy can we build friendships and destroy our enemies."
 
 ################
 ### Part Two ###
