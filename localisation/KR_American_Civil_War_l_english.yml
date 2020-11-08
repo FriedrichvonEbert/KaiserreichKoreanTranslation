@@ -555,7 +555,7 @@ amcivwar.74.t:0 "공군 참모총장"
 amcivwar.74.d:0 "내전이 가까워지고 있지만 여전히 공석인 공군의 수장 자리는 다양한 정치, 군사 지도자들 사이에서 우려를 불러일으켰습니다. 그래서 이들은 [USA.GETLeader](을)를 접견하여 전쟁의 승리를 위해 공군 수장을 임명할 것을 요청했습니다."
 amcivwar.74.a:0 "칼 앤드류 스파츠"
 amcivwar.74.b:0 "에드워드 버논 리켄배커"
-amcivwar.74.c:0 "제임스 해롤드 둘리틀"
+amcivwar.74.c:0 "네이선 베드퍼드 포러스트 3세"
 
 amcivwar.76.t:0 "워싱턴의 함락"
 amcivwar.76.d:0 "워싱턴은 반역자들과 반란군들에게 넘어갔고, 우리는 도시를 벗어나야 합니다. 군 지도자들은 우리가 이전할 수 있는 몇 개의 도시들을 제안했습니다. 문제는 어느 곳으로 옮길 것인가 하는 것입니다."
@@ -990,6 +990,18 @@ amcivwar.335.t:0 "미닛맨이 버지니아를 장악하다"
 amcivwar.335.d:0 "노스캐롤라이나에서의 승리에 뒤이어 제일당 민병대는 버지니아로 쇄도했고 즉시 주의 서부 지역에서 생디칼리슴 반대 시위자들 사이에서 지지를 받았습니다. 롤리는 조지 C 피어리 주지사가 인질로 잡힘과 거의 동시에 장악되었습니다. 주지사가 연방군이 그를 자유롭게 해주기를 바라며 며칠을 버티는 동안 버지니아 민병대가 참호를 너무 잘 파뒀다는 사실이 분명해졌습니다. 더 이상의 유혈사태를 피하기 위해 리치먼드 주지사는 주 방위군에 물러나고 해군에 노폭기지에서 철수하라고 명령했습니다. 전투는 여전히 진행 중이며, 제일당의 주 장악은 아직 끝나지 않았다고 합니다."
 amcivwar.335.a:0 "환영할 만한 사건"
 amcivwar.335.b:0 "거긴 워싱턴에서 너무 가깝군."
+
+amcivwar.338.t:0 "Texas and Oklahoma Overrun by Federalists"
+amcivwar.338.d:0 "Following the victory of the pro-Federalist militias along the Rio Grande, the militia forces of what the people of San Antonio are now informally calling their state of Jefferson have infiltrated over the chaotic border into northern Texas, heretofore loyal to Huey Long. The besieged Federal troops at Camp Mabry in Austin were happy to give weapons and materiel to their militia liberators, and soon the State Capitol was besieged by the US Army as well as militia. With a loyalist gun to their collective heads, the House of Representatives pledged their allegiance to MacArthur’s regime. Soon after, the wavering peoples’ convention in Oklahoma, determined not to get cut off by Federal troops when open war began, threw in with the US Military as well."
+amcivwar.338.a:0 "A welcome victory"
+amcivwar.338.b:0 "An unfortunate loss"
+amcivwar.338.c:0 "Interesting"
+
+amcivwar.339.t:0 "Federal Militias Driven From North Texas"
+amcivwar.339.d:0 "Following the victory of the pro-Federalist militias along the Rio Grande, the militia forces of what the people of San Antonio are now informally calling their state of Jefferson have infiltrated over the chaotic border into northern Texas, which remained loyal to Huey Long. Although they successfully caused chaos in Houston before withdrawing west, the militias sent to rouse the country around Austin were trapped and forced to surrender by National Guard and militias loyal to President Long near Fredericksburg. The state of Texas seems certain to remain divided for the near future."
+amcivwar.339.a:0 "A welcome victory"
+amcivwar.339.b:0 "An unfortunate loss"
+amcivwar.339.c:0 "Interesting"
 
 
 ### Deal with the Devil ###

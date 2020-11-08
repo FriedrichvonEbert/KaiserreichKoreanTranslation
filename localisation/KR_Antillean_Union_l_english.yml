@@ -8,8 +8,8 @@
 ANT_toughprocess:0 "§R이는 길고 힘든 과정이 될 것입니다.§!"
 ANT_notintegrating_tt:0 "우리는 현재 통합의 다른 영역을 추구하고 있지 않습니다."
 ANT_atleasthigh_tt:0 "이 나라에서 우리의 §B영향력§!은 적어도 §Y높음§! 상태입니다."
-ANT_priexpensepp_05:0 "§Y행정 집중§!을 \n정치력 획득: §G-5%§!로 바꿉니다\n"
-ANT_priexpensepp_07:0 "§Y행정 집중§!을 \n정치력 획득: §G-7%§!로 바꿉니다\n"
+ANT_priexpensepp_05:0 "§Y$ANT_priexpense$§!을 \n정치력 획득: §G-5%§!로 바꿉니다\n"
+ANT_priexpensepp_07:0 "§Y$ANT_priexpense$§!을 \n정치력 획득: §G-7%§!로 바꿉니다\n"
 
 ### Scripted Loc ###
 ANT_cubinfluence_none:0 "없음"

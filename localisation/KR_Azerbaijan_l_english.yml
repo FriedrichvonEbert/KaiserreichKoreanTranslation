@@ -1,6 +1,6 @@
 ﻿l_english:
 
-### Parties ###
+##Parties##
 AZR_totalist_party:0 "볼셰비키"
 AZR_totalist_party_long:0 "볼셰비키당"
 AZR_syndicalist_party:0 "생디칼리스트"
@@ -21,3 +21,6 @@ AZR_paternal_autocrat_party:0 "군사정부"
 AZR_paternal_autocrat_party_long:0 "아제르바이잔 군사정부"
 AZR_national_populist_party:0 "투르크쿠루크"
 AZR_national_populist_party_long:0 "투르크쿠루크당"
+
+AZR_democratic_coalition:0 "민주연합"
+AZR_democratic_coalition_long:0 "민주연합"

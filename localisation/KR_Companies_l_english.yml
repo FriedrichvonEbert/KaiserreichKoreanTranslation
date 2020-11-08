@@ -162,6 +162,13 @@ canadian_vickers:0 "캐나다 빅커스"
 orenda_engines:0 "오렌다 엔진"
 raac_canada:0 "왕립 대서양 항공"
 
+### Colombia ###
+cementos_argos:0 "Cementos Argos"
+empresa_telefonos:0 "Empresa de Teléfonos de Bogotá"
+empresa_colombiana:0 "Empresa Colombiana de Petróleos"
+TNAM:0 "Taller Nacional de Artes Mecánicas"
+auto_tecnica:0 "Auto Tecnica Colombiana"
+
 ### Commune of France ###
 metallurgique_de_normandie:0 "노르망디 금속 회사"
 famh:0 "FAMH"
@@ -465,6 +472,7 @@ deutsche_ost_afrika_linie:0 "독일 동아프리카선"
 kr_schneider:0 "슈나이더"
 machines_bull:0 "불 기계사"
 compagnie_petroles:0 "프랑스 석유"
+brandt_armament:0 "Établissements Brandt"
 darne:0 "다르느"
 manufacture_armes_tunis:0 "튀니스 국병창"
 hotchkiss:0 "호치키스"
@@ -478,6 +486,7 @@ bloch:0 "블로흐"
 amiot:0 "아미오"
 bleriot:0 "블레리오"
 latecoere:0 "라떼꼬에르"
+ateliers_de_la_loire_nfa:0 "Ateliers et Chantiers de la Loire"
 oran_construction_navale:0 "오랑 조선협회"
 chartiers_dakar:0 "다카르 해군 조선소"
 
@@ -946,6 +955,13 @@ hekurudha_shqiptare:0 "Hekurudha Shqiptare"
 pasha_liman_kantjerin:0 "Kanteri i Pashë Alimanit"
 albatros_albania:0 "Albatros Albanien"
 arsenal_ushtria_tirane:0 "Arsenali i Ushtrisë, Tiranë"
+
+### Germany ###
+poti_shipyards:0 "Potis Gemtsashenshi"
+kutaisi_auto:0 "Kutaisis Saavtomobilo Karkhana"
+tbilisi_factory:0 "TSKSA Iaraghis Karkhana"
+tsksa_factory:0 "TSKSA"
+rustavi_factory:0 "Rustavis Poladi"
 
 ### Germany ###
 krupp:0 "크루프"

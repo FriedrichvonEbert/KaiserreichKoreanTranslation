@@ -7,12 +7,16 @@ LOGO_MAIN_MENU_LINK:0 "여기를 눌러서 패치노트를 확인하세요"
 
 ### Diplomacy Tooltips ###
 REQUEST_EXP_FORCE_BLOCKED_TT:0 "§R이 나라는 당신의 군대 요청을 거부합니다.§!"
+RECALL_VOLUNTEERS_TITLE:0 "Recall Volunteers"
+RECALL_VOLUNTEERS_ACTION_DESC:0 "Recall all volunteers sent to this country."
+RECALL_VOLUNTEERS_ACTION_SEND_DESC:0 "Recall all volunteers sent to §Y[FROM.GetNameDef]§!?"
 
 ### Regular Tooltips ###
 general_minister_change_tt:0 "그들의 장관들은 우리의 이념에 따라 교체될 것입니다."
 is_actual_major_tt:0 "세계의 주된 열강으로 여겨짐"
 if_FROM_agrees:0 "If §H[From.GetFlag] [From.GetNameDef]§! agrees:"
 upon_selecting_focus:0 "국가중점 선택 시:"
+tooltip_white_line:0 "   \n"
 
 ### Renaming System ###
 toggle_renaming_button_tooltip:0 "[toggle_renaming_button_tooltip_loc]"
@@ -33,7 +37,7 @@ INTELLIGENCE_AGENCY_BLOCK_TOOLTIP:0 "[!intelligence_agency_blocker_button_click_
 
 ### Splash Screen ###
 KR_SPLASH_TITLE:0 "환영합니다!"
-KR_SPLASH_CREDITS:0 "§Y카라 개발팀 일동:§!\nAlpinia, Arvidus, Augenis, Blackfalcon501, DSFDarker, Carmain, Dr. Njitram, Drozdovite, Edouard Saladier, Éloïse, Eragaxshim, Fbruchmueller, Flamefang, Fort, JazzyHugh, Jeankedezeehond, Jonjon428, Jonny BL, Krco, Liegnitz, Maltesefalcon, Matoro, Nijato, NukeGaming, OperationsManagementDecisions, PPsyrius, Pietrus, Rei VL, Rylock, SPQR, Starguard, Telcontar101, The Alpha Dog, Thomahawk2k, Vidyaország, WordZero, Yard1, Zankoas and Zimbabwe Salt Co."
+KR_SPLASH_CREDITS:0 "§Y카라 개발팀 일동:§!\nAlpinia, Arvidus, Augenis, Blackfalcon501, DSFDarker, Carmain, Dr. Njitram, Drozdovite, Edouard Saladier, Eragaxshim, Flamefang, Fort, JazzyHugh, Jeankedezeehond, Jonjon428, Jonny BL, Krco, Liegnitz, Maltesefalcon, Matoro, Nijato, NukeGaming, OperationsManagementDecisions, PPsyrius, Pietrus, Rei VL, Rylock, SPQR, Starguard, Telcontar101, The Alpha Dog, The Irredentista, Thomahawk2k, Vidyaország, WordZero, Yard1, Zankoas and Zimbabwe Salt Co."
 
 ### Autonomy Levels ###
 kr_integrated_puppet:0 "동화된 괴뢰국"
@@ -46,8 +50,10 @@ kr_special_autonomous_dependency:0 "자치 속국"
 kr_initial_wif_puppet:0 "연합된 식민지"
 kr_soclib_wif_puppet:0 "연합된 자치령"
 kr_ottoman_emirate:0 "오스만 토후국" #Ottoman Emirate
-kr_federated_state:0 "연합된 주(State)"
-kr_crownland:0 "Crownland"
+kr_ottoman_vilayet:0 "오스만 빌라예트"
+kr_ottoman_international_zone:0 "국제위임통치령"
+kr_federated_state:0 "연합주"
+kr_crownland:0 "왕관령"
 
 ### Autonomy Tooltips ###
 can_lower_autonomy_level:0 "자치도를 낮출 수 있습니다\n"
@@ -86,6 +92,7 @@ KR_trade_agreement:0 "무역 협정"
 KR_trade_sanctions:0 "무역 제재"
 
 ### Focus Filters ###
+FOCUS_FILTER_PRODUCTION:0 "생산"
 FOCUS_FILTER_ARMY_BONUS:0 "육군"
 FOCUS_FILTER_NAVY_BONUS:0 "해군"
 FOCUS_FILTER_AIRFORCE_BONUS:0 "공군"
@@ -189,6 +196,7 @@ mtg_exile_leader_added.1.a:1 "당신의 싸움은 아직 끝나지 않았습니�
 
 ### Land Units ###
 militia:0 "민병대"
+category_mounted_inf:0 "기마 보병"
 
 ### Tech ###
 military_police_tech:0 "헌병"
@@ -253,6 +261,7 @@ polukr_faction:0 "생디칼리슴 인테르마리움" #Syndicalist Intermarium
 Qing_faction:0 "대청제국" #Qing Empire
 qing_sphere_faction:0 "대청세력권" #Qing Sphere
 SA_socialist_states:0 "남미 사회주의 국가연맹" #South American Socialist States
+SA_dismantle_patagonia:0 "반-안데시아 동맹" #Coalition to Dismantle Andesia
 Scandinavian_Pact:0 "스칸디나비아 협약" #Scandinavian Pact
 SCA_faction_scandinavian_defense_union:0 "스칸디나비아 방위연합" #Scandinavian Defence Union
 SIA_SEATO_alliance:0 "동남아시아 조약기구" #SEATO
@@ -277,7 +286,7 @@ second_weltkrieg_threat:0 "제2차 세계대전 발발"
 fourth_balkan_war_threat:0 "제4차 발칸전쟁 발발"
 remilitarize_oltenia_threat:0 "카르파티아에서의 책동"
 savoyard_crisis_threat:0 "사보이 위기 발생"
-russian_expansionism_threat:0 "러시아의 팽창주의 노선"
+russian_expansionism_threat:0 "돈에서의 위기"
 kerensky_assassinated_threat:0 "케렌스키가 암살됨"
 japanese_expansionism_threat:0 "일본의 팽창주의 노선"
 mittelafrika_collapse_threat:0 "독일령 중앙아프리카가 붕괴됨"
@@ -294,11 +303,12 @@ lep_collapse_threat:0 "팔성연합 전쟁 발발"
 sino_jap_threat:0 "제2차 중일전쟁"
 entente_collapse_threat:0 "협상국의 붕괴"
 halifax_conference_threat:0 "핼리팩스 회담의 성공"
-treaty_budapest_threat:0 "[AUS_treaty_name] 측과의 조약"
+treaty_budapest_threat:0 "부다페스트 조약"
 indian_wars_threat:0 "인도 재통합 전쟁"
 india_reunited_threat:0 "인도가 재통합됨"
 desert_war_threat:0 "사막에서의 전쟁"
 ottos_lose_threat:0 "오스만 제국이 패배함"
+scandinavia_threat:0 "스칸디나비아의 형성"
 
 ### Other ###
 unlock_focuses:0 "§G이 중점은 자동으로 통과될 것이며 다른 중점을 해금할 것입니다§!\n"
@@ -310,24 +320,27 @@ received_equipment_1000:0 "그 나라에서 §G1000§! 보병 장비를 받을 �
 received_equipment_1500:0 "그 나라에서 §G1500§! 보병 장비를 받을 것입니다\n"
 received_equipment_2000:0 "그 나라에서 §G2000§! 보병 장비를 받을 것입니다\n"
 received_equipment_5000:0 "그 나라에서 §G5000§! 보병 장비를 받을 것입니다\n"
+generic_research_advances:0 "Research Advances"
 generic_head_of_intelligence:0 "정보부장"
 recruit_generic_spymaster:0 "정보부장 고용"
 recruit_generic_spymaster_desc:0 "유능한 국장이 될 법한 사람을 우리 정보기관에 배치해야 할 것입니다."
 
-### Ministers ###
+### Generic Ministers ###
 head_of_government:0 "정부수반"
 foreign_minister:0 "외무장관"
 economy_minister:0 "경제장관"
 security_minister:0 "내무장관"
 head_of_intel:0 "군사정보부장"
-## Country-Specific Ones
-knight_captain_of_liv_ord:0 "기사단 단장"  # BAT
-land_marshal_of_liv_ord:0 "지방사령관"                # BAT
-leader_of_the_british_exiles:0 "영국 총리" # CAN
-underworld_boss:0 "Underworld Boss"                     # LEC
-marshal_of_the_palace:0 "왕실원수"         # ROM
-minister_of_native_affairs:0 "원주민부 장관"   # SAF, SFR
-national_philosopher:0 "National Philosopher"           # NFA
+
+### Country-Specific Ministers ###
+knight_captain_of_liv_ord:0 "기사단 단장"    # BAT
+land_marshal_of_liv_ord:0 "지방사령관"   # BAT
+leader_of_the_british_exiles:0 "영국 총리"  # CAN
+underworld_boss:0 "암흑가 두목" # LEC
+marshal_of_the_palace:0 "왕실원수"  # ROM
+minister_of_native_affairs:0 "원주민부 장관"  # SAF, SFR
+national_philosopher:0 "국가철학자"   # NFA
+faction_minister:0 "내부 파벌"   # JBS
 
 ### Company Traits ###
 
@@ -478,12 +491,14 @@ early_fighter:0 "전간기 전투기"
 interwar_antiair:0 "초기 대공"
 signal_company_tech:0 "통신 중대"
 maintenance_company_tech:0 "정비 중대"
-cat_anti_air:0 "고정 대공포"
+cat_anti_air:0 "대공포"
+cat_line_artillery:0 "전열포병"
 cat_light_armor_research:0 "경기갑 연구 속도"
 cat_light_spg:0 "경자주포"
 cat_medium_spg:0 "중자주포"
 efficiency_tech:0 "생산 효율 기술"
-excavation_tech_research:0 "굴착 기술 연구 속도"
+excavation_tech_research:0 "굴착 연구 속도"
+construction_tech_research:0 "건설 연구 속도"
 concentrated_industry_tech:0 "집중 산업 기술"
 dispersed_industry_tech:0 "분산 산업 기술"
 cat_gunnery:0 "해군 사격"
@@ -494,43 +509,43 @@ cat_torpedo:0 "어뢰 기술"
 
 ### Hidden Techs ###
 camel_corps_tech:0 "낙타 부대"
-camel_corps_tech_effect:0 "§H낙타 부대§! 활성화\n§H기병\n    사막§!\n      공격: §G+15%§!\n      방어: §G+5%§!\n      이동: §G+3%§!\n\n"
+camel_corps_tech_effect:0 "§H$camel_corps_tech$§! 활성화\n§H기병\n    사막§!\n      공격: §G+15%§!\n      방어: §G+5%§!\n      이동: §G+3%§!\n\n"
 
 tech_ski_infantry:0 "스키 보병"
-tech_ski_infantry_effect:0 "§H스키 보병§! 활성화\n§H보병\n    언덕§!\n      공격: §G+5%§!\n      방어: §G+5%§!\n      이동: §G+5%§!\n    §H산악§!\n      공격: §G+5%§!\n      방어: §G+5%§!\n      이동: §G+10%§!\n"
+tech_ski_infantry_effect:0 "§H$tech_ski_infantry$§! 활성화\n§H보병\n    언덕§!\n      공격: §G+5%§!\n      방어: §G+5%§!\n      이동: §G+5%§!\n    §H산악§!\n      공격: §G+5%§!\n      방어: §G+5%§!\n      이동: §G+10%§!\n"
 
 tech_marine_bonus:0 "개선된 해병대"
-tech_marine_bonus_effect:0 "§H개선된 해병대\n해병§! 활성화\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!\n§HAmtrac Battalion§!\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!\n§HAmphibious Tank Battalion§!\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!"
+tech_marine_bonus_effect:0 "§H$tech_marine_bonus$\n해병§! 활성화\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!\n§HAmtrac Battalion§!\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!\n§HAmphibious Tank Battalion§!\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!"
 
 tech_marine_bonus_2:0 "숙련된 해병대"
-tech_marine_bonus_2_effect:0 "§H숙련된 해병대\n해병§! 활성화\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!\n§HAmtrac Battalion§!\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!\n§HAmphibious Tank Battalion§!\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!"
+tech_marine_bonus_2_effect:0 "§H$tech_marine_bonus_2$\n해병§! 활성화\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!\n§HAmtrac Battalion§!\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!\n§HAmphibious Tank Battalion§!\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!"
 
 jungle_warfare:0 "정글 전투 훈련"
-jungle_warfare_effect:0 "§H정글 전투 훈련§! 활성화\n§H일반 보병\n    정글§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!"
+jungle_warfare_effect:0 "§H$jungle_warfare$§! 활성화\n§H일반 보병\n    정글§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!"
 
 improved_field_hospitals:0 "개선된 야전 병원"
-improved_field_hospitals_effect:0 "§H개선된 야전 병원\n야전 병원§! 활성화\n      인력 회수: §G+20%§!\n      경험치 손실: §G-10%§!"
+improved_field_hospitals_effect:0 "§H$improved_field_hospitals$\n야전 병원§! 활성화\n      인력 회수: §G+20%§!\n      경험치 손실: §G-10%§!"
 
 expanded_engineer_corps_tech:0 "확장된 공병 부대"
-expanded_engineer_corps_tech_effect:0 "§H확장된 공병 부대\n공병 중대§! 활성화\n      참호: §G+2§!\n    §H요새§!\n      공격: §G+10%§!\n      방어: §G+10%§!\n"
+expanded_engineer_corps_tech_effect:0 "§H$expanded_engineer_corps_tech$\n공병 중대§! 활성화\n      참호: §G+2§!\n    §H요새§!\n      공격: §G+10%§!\n      방어: §G+10%§!\n"
 
 mountain_training_tech:0 "산악 훈련"
-mountain_training_tech_effect:0 "§H산악 훈련§! 활성화\n§H일반 보병\n    산악§!\n      공격: §G+5%§!\n      방어: §G+5%§!\n      이동: §G+10%§!\n"
+mountain_training_tech_effect:0 "§H$mountain_training_tech$\n일반 보병§! 활성화\n    §H산악§!\n      공격: §G+5%§!\n      방어: §G+5%§!\n      이동: §G+10%§!\n"
 
 improved_recon_units_tech:0 "향상된 정찰 부대"
-improved_recon_units_tech_effect:0 "§H향상된 정찰 부대\n정찰 중대§! 활성화\n      돌파: §G+1§!\n      정찰: §G+1§!\n"
+improved_recon_units_tech_effect:0 "§H$improved_recon_units_tech$\n정찰 중대§! 활성화\n      돌파: §G+1§!\n      정찰: §G+1§!\n"
 
 asymmetrical_warfare:0 "비대칭 전투 훈련"
-asymmetrical_warfare_effect:0 "§H비대칭 전투 훈련§! 활성화\n§H일반 보병\n    도심§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!\n\n"
+asymmetrical_warfare_effect:0 "§H$asymmetrical_warfare\n일반 보병\n    도심§! 활성화\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!\n\n"
 
 desert_warfare:0 "사막 전투 훈련"
-desert_warfare_effect:0 "§H사막 전투 훈련§! 활성화\n§H일반 보병\n    사막§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!\n\n"
+desert_warfare_effect:0 "§H$desert_warfare$§! 활성화\n§H일반 보병\n    사막§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!\n\n"
 
 anti_fortification_artillery:0 "대요새 무기"
-anti_fortification_artillery_effect:0 "§H대요새 무기§! 활성화\n§H포병 지원§!\n    요새: 공격: §G+20%§!\n§H포병§!\n    요새: 공격: §G+20%§!\n§H차량화포병§!\n    요새: 공격: §G+20%§!\n"
+anti_fortification_artillery_effect:0 "§H$anti_fortification_artillery$§! 활성화\n§H포병 지원§!\n    요새: 공격: §G+20%§!\n§H포병§!\n    요새: 공격: §G+20%§!\n§H차량화포병§!\n    요새: 공격: §G+20%§!\n"
 
 tech_integrated_specialists:0 "통합 특수부대"
-tech_integrated_specialists_effect:0 "§H통합 특수부대§! 활성화\n특수부대 허용량: §G+5%§!\n§H특수부대§!\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!"
+tech_integrated_specialists_effect:0 "§H$tech_integrated_specialists$§! 활성화\n특수부대 허용량: §G+5%§!\n§H특수부대§!\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!"
 
 ### Army Command Traits ###
 

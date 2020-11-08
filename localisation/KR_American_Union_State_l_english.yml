@@ -149,8 +149,15 @@ TEX_unlock_strat_bomber:0 "이 중점은 §HB-24 Liberator Strategic Bomber§!�
 TEX_unlock_heavy_fighter_1:0 "이 중점은 §HP-38 Lightning Heavy Fighter§!를 해금합니다"
 TEX_unlock_heavy_fighter_2:0 "이 중점은 §HP-47 Thunderbolt Heavy Fighter§!를 해금합니다"
 TEX_paratroopers_spawn:0 "남부 미시시피에 공수부대 5개 사단이 소집될 것입니다"
-TEX_arsenal_of_democracy_effect_1_tooltip:0 "§WModify §HArsenal of America§! by\n§HEscort efficiency§!: §G+10%§!\n§HDestroyer Sub detection§!: §G+5%§!§W"
-TEX_arsenal_of_democracy_effect_2_tooltip:0 "§WModify §HArsenal of America§! by\n§HTroop convoy requirements§!: §G-10%§!\n§HNaval Invasion Capacity§!: §G+10§!§W"
+
+TEX_Assembly_line_modifications_tooltip:0 "Modify §H$TEX_Devers_plan2$§! by\n§H$artillery_equipment$§!: £production_cost  Production Cost:  [?-0.1|-=%]"
+TEX_focus_on_concentration_tooltip:0 "Modify §H$TEX_Devers_plan2$§! by\nDivision Organisation: [?0.05|+=%1]\nDivision Attack: [?0.05|+=%1]\nDivision Defence: [?0.05|+=%1]\nDivision Attack on core territory: [?-0.05|+=%1]\nDivision Attack on core territory: [?-0.05|+=%1]\nArtillery Attack: [?0.05|+=%1]\nArtillery Defence: [?0.05|+=%1]"
+
+TEX_the_cavalry_of_tomorrow_tooltip:0 "Modify §H$TEX_Devers_plan2$§! by\nArmour Division Attack: [?0.1|+=%1]\nArmour Division Defence: [?0.1|+=%1]"
+
+TEX_arsenal_of_democracy_effect_1_tooltip:0 "Modify §H$TEX_arsenal_of_democracy_idea$§! by\n§HEscort efficiency§!: §G+10%§!\n§HDestroyer Sub detection§!: §G+5%§!"
+TEX_arsenal_of_democracy_effect_1_tooltip:0 "Modify §H$TEX_arsenal_of_democracy_idea$§! by\n§HEscort efficiency§!: §G+10%§!\n§HDestroyer Sub detection§!: §G+5%§!"
+TEX_arsenal_of_democracy_effect_2_tooltip:0 "Modify §H$TEX_arsenal_of_democracy_idea$§! by\n§HTroop convoy requirements§!: §G-10%§!\n§HNaval Invasion Capacity§!: §G+10§!"
 
 ### Decisions ###
 TEX_call_up_silver_legion:0 "은색 군단 호출"
@@ -214,6 +221,7 @@ TEX_fire_with_fire:0 "이열치열"
 TEX_fire_with_fire_desc:0 "미국의 정치적, 사회적 적들에 대한 이념적 투쟁은 지금까지 복지와 보조금이라는 형식으로 이루어졌습니다. 이제 롱 각하께서는 부의 공유에 대한 사회적 저항에 강력한 한 방을 날릴 준비가 되어있습니다. 우리는 국가라는 배가 전복되는 것을 막기 위해 가능한 모든 조치를 취해야 합니다."
 TEX_perfect_democracy:0 "완벽한 민주주의"
 TEX_perfect_democracy_desc:0 "첫 번째 헌법은 미국에 붕당정치를 형성했습니다. 이 붕당정치는 실패했고 미국은 결국 죽었지만, 대통령 각하 덕분에 미국은 다시 부활했습니다. 휴이 롱 각하와 미국인들은 헌법이 이제 더 완벽한 민주주의를 구축하기 위한 문서라는 것에 동의했습니다. 지도자에 의해 행사되는 미국민의 변함없는 의지 말입니다."
+
 ### George Van Horn Moseley Path ###
 TEX_the_business_plot:0 "사업 구상회"
 TEX_the_business_plot_desc:0 "우리는 비상대권위원회가 세간으로부터의 평판을 유지하도록 하기 위해 '공화국의 병기창'이라는 면모를 새로운 미국에 확산시키기로 결정했습니다. 비대위가 지켜낸 미공화국은 헌법제정 당시의 근본적인 가치로 되돌아갈 것이며, 미국은 민주주의가 아닌 공화국이라고 전세계에 분명하게 말할 것입니다."
@@ -246,13 +254,14 @@ TEX_captains_of_industry_desc:0 "산업가들의 숭고한 희생이 없었다�
 TEX_industrial_security_act:0 "산업보장법"
 TEX_industrial_security_act_desc:0 "산업현장의 보안에 대한 목소리는 그 어느 때보다 큽니다. 정상적인 노동자는 빨갱이 밀정, 롱을 지지하는 선동가, 그리고 연방주의자의 불평불만에 둘러싸여 있습니다. 우리는 파업진압원들에게 권한을 부여하고 우리의 충직한 재향군인회를 새로운 주방위군으로 통합해서 산업현장에 대한 사보타지에 신속하게 대응할 필요가 있습니다."
 TEX_pass_nira:0 "노동관계법"
-TEX_pass_nira_desc:0 "국가노동관계국을 설립하라는 모즐리의 행정명령이야말로 노동 위기를 완전히 해결할 방책이 될 것입니다. 국가노동관계국은 노조와 기업가들의 불공정한 노동 관행을 뜯어고칠 것입니다. 노동관계국의 공정한 집행은 제3자들로부터 폭넓은 지지를 받고 있습니다."
+TEX_pass_nira_desc:0 "국가노동관계국을 설립하라는 [GetLeader]의 행정명령이야말로 노동 위기를 완전히 해결할 방책이 될 것입니다. 국가노동관계국은 노조와 기업가들의 불공정한 노동 관행을 뜯어고칠 것입니다. 노동관계국의 공정한 집행은 제3자들로부터 폭넓은 지지를 받고 있습니다."
 TEX_red_scare:0 "붉은 공포"
-TEX_red_scare_desc:0 "FBI는 롱 각하를 수개월 동안 수색한 후, 각하가 더 이상 살아있지 않다고 발표했습니다. 미국에 남아있는 정체불명의 사회주의 단체에 대한 소동은 엄청났습니다. 비대위가 사회주의를 막기 위해 국회에서 통과된 모든 국법을 거의 따라잡을 수 없을 정도입니다. 이제 모즐리에 대한 대중의 지지는 사상 최고입니다."
+TEX_red_scare_desc:0 "FBI는 롱 각하를 수개월 동안 수색한 후, 각하가 더 이상 살아있지 않다고 발표했습니다. 미국에 남아있는 정체불명의 사회주의 단체에 대한 소동은 엄청났습니다. 비대위가 사회주의를 막기 위해 국회에서 통과된 모든 국법을 거의 따라잡을 수 없을 정도입니다. 이제 [GetLeader]에 대한 대중의 지지는 사상 최고입니다."
 TEX_traditional_values:0 "전통적 가치"
-TEX_traditional_values_desc:0 "모즐리 대통령은 연설에서 지난 30년간의 변화는 미국의 근면한 본성을 파괴하려는 외국인들의 음모라고 비난했습니다. 여론은 모즐리를 반유대주의자로 알고 있는 사람들과 미국을 진정으로 믿는 사람들로 나눠집니다. 그럼에도 불구하고 대중들은 모즐리를 좋아합니다."
+TEX_traditional_values_desc:0 "[GetLeader] 대통령은 연설에서 지난 30년간의 변화는 미국의 근면한 본성을 파괴하려는 외국인들의 음모라고 비난했습니다. 여론은 [GetLeader] 대통령을 반유대주의자로 알고 있는 사람들과 미국을 진정으로 믿는 사람들로 나눠집니다. 그럼에도 불구하고 대중들은 [GetLeader] 대통령을 좋아합니다."
 TEX_republic_without_democracy:0 "민주주의 없는 공화국"
 TEX_republic_without_democracy_desc:0 "결국 휴이 롱이 만들려고 했던 국가도 민주주의 없는 공화국이라는 것에 대해 미국민들은 동의합니다. [TEX.GetLeader]의 임기는 미대륙을 위협하는 계속되는 위기로 인해 4년 더 연장되었습니다. 비대위가 의도한 바와 같이 미국주의는 과두정이라는 오명을 벗으면서 성장합니다."
+
 ### Pelley Path ###
 TEX_mine_have_seen_the_glory:0 "영광을 보았노라"
 TEX_mine_have_seen_the_glory_desc:0 "휴이 롱이 그날 밤 생디칼리슴의 나팔수였다는 자백을 듣고 많은 미국민들이 놀랐습니다. 은색 군단이 불안정했다면 초반의 저항은 혁명을 단숨에 끝장낼 수도 있었을 것입니다. 다행히도 재향군인회와 금주주의자들은 롱이 약속을 배신한 후 그와 결별했습니다. 이것은 새로운 미국의 시작입니다."

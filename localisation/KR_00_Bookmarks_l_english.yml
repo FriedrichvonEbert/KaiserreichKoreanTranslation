@@ -19,7 +19,7 @@ KR_SCENARIO_DESC:0 "1936년은 세계사의 전환점이 될 것입니다. 거�
 GER_KR_GATHERING_STORM_DESC:0 "1919년, 5년의 전쟁 끝에 독일군은 프랑스에서 협상국의 방어선을 무너뜨렸습니다. 그리고 1921년, 영국의 항복이 뒤따랐습니다. 세계대전은 독일을 유일무이한 강대국으로 만들어 주었지만, 1930년대 이후로 독일은 내리막길을 걷고 있습니다. 후퇴하는 세계 경제로 인해 독일의 산업력이 약화된 반면 다른 국가들의 제조업은 회복되었고, 독일의 동부 위성국들에서는 민족주의가 퍼져 제국에서 떠나가기를 원하고 있습니다. 1936년, 독일은 갈림길에 서있고, 우리는 과거의 적들이 예전의 힘을 되찾는 동안 강대한 제국이 이미 금이 가고 있는 것을 보았습니다..."
 
 ### Commune of France ###
-FRA_KR_GATHERING_STORM_DESC:0 "제3공화국은 자신이 시작된 것과 같은 방식으로 끝났습니다: 독일군에게 패배했고, 본국에서 혁명을 맞이했습니다. 1919년, CGT에 의해 시작된 총파업은 부르주아 정부의 몰락을 초래했습니다. 15년 동안, 새로운 '프랑스 코뮌'은 공안위원회를 비롯한 생디칼리슴-사회주의 사이의 합의의 발판 위에서 단결할 수 있었습니다. 하지만 1936년, 국가를 재건하고 혁명을 수호해야할 필요성은 많은 비판자들에게 낡아빠진 것으로 여겨지고 있고 보다 급진적인 정책에 대한 요구가 커지고 있습니다. 프랑스는 자신의 사명에 확신을 가지고 있지만, 앞으로 어떤 혁명 분파가 권력을 장악할 지는 불분명합니다..."
+FRA_KR_GATHERING_STORM_DESC:0 "제3공화국은 자신이 시작된 것과 같은 방식으로 고꾸라졌습니다: 독일군에게 패배했고, 본국에서 혁명을 맞이했습니다. 1919년, CGT에 의해 시작된 총파업은 부르주아 정부의 몰락을 초래했습니다. 15년 동안, 새로운 "프랑스 코뮌"은 공안위원회를 비롯한 생디칼리슴-사회주의 사이의 합의의 발판 위에서 단결할 수 있었습니다. 하지만 1936년, 국가를 재건하고 혁명을 수호해야할 필요성은 많은 비판자들에게 낡아빠진 것으로 여겨지고 있고 보다 급진적인 정책에 대한 요구가 커지고 있습니다. 프랑스는 자신의 사명에 확신을 가지고 있지만, 앞으로 어떤 혁명 분파가 권력을 장악할 지는 불분명합니다..."
 
 ### Union of Britain ###
 ENG_KR_GATHERING_STORM_DESC:0 "1921년 '명예로운 평화' 이후 세계대전은 끝났고, 본토에서 대중들의 신뢰와 지지는 사라졌습니다. 1925년, 재앙이 발생했습니다: 소규모 노동 쟁의가 TUC에 의한 총파업으로 빠르게 커졌고, 노동자들의 파업에 이어 군인들이 탈영하기 시작했습니다. 대규모 폭동의 발생 6주 후, 왕실과 대부분의 엘리트들은 캐나다로 도주했고 대신 새로운 노동조합총회가 정권을 장악했습니다. The British people have built up socialism on their island and stood by their gallant allies in Europe but storms brew on the horizon and soon the nascent Union will be put to the ultimate test..."
@@ -41,16 +41,33 @@ OTHER_KR_GATHERING_STORM_DESC:0 "세계의 크고 작은 국가들은 세계에�
 
 ### Featured ###
 
-### United Baltic Duchy ###
-BAT_KR_GATHERING_STORM_DESC:0 "발트의 독일계 귀족들은 세계대전로부터 바라는 것을 얻었습니다 - 그것은 바로 러시아화 정책으로부터 짓밟힌 권리와 특권의 회복, 그리고 그들이 그들 자신의 국가라고 부를 수 있는 국가인 발트 연합공국이었습니다. 여기서 아돌프 프리드리히 공작 치하의 발트 기사단은 귀족 전통을 지키고자 분권형 군주제를 시행했습니다. 그러나 이러한 비잔틴적인 통치체제에 맞선 개혁의 압력이 거세짐에 따라, 공작은 이 변화를 관철하기 위해 자유주의적이고 개혁적인 정부를 추진했습니다. 하지만 모든 일이 이들에게 좋지 않게 돌아갈 때도 발트 독일인들의 꿈은 살아남을 수 있을까요?"
+### National France ###
+NFA_KR_GATHERING_STORM_DESC:0 "Defeated and facing revolution, the French government chose exile, expecting the newly-established “Federation of the Communes of France” to collapse. As months turned into years however, the Republic slipped into parliamentary chaos. The armed forces stepped in, forming a thinly-veiled junta under Philippe Pétain. A decade later the regime has stagnated, held together by the aging Marshal whose reputation is smeared by accusations of despotism and nepotism. With unrest brewing, the French Republic stands at a crossroad but one thing is clear: her sacred duty to free the Métropole. The Exiles prepare for any opportunity to strike..."
 
-### South Africa ###
-SAF_KR_GATHERING_STORM_DESC:0 "어떤 사람들은 아마 세계에서 남아프리카가, 대영제국의 쇠퇴가 그들이 나중에 세계대전에 대한 대가를 치를 폐해를 폭로한 반항적인 보어인들을 진정시킬 문제를 통해 뚜렷해진 곳이라고 말할 것입니다. 영국은 결국 그들을 상대로 승리했고, 그 잿더미로부터 1910년, 영국의 자치령인 남아프리카 연방이 탄생했습니다. 그 이후, 제국은 붕괴되었고, 아프리카 대륙에 대한 영국 영향력의 마지막 선봉자로서 새로운 역할을 다하는 남아프리카는 현재 갈림길에 서 있습니다. 얀 스뮈츠 수상이 주장하는 것처럼 지금의 자치령 지위가 국가에 득이 될까요? 아니면 남아프리카 스스로가 운명을 결정할 때가 온 것일까요?"
+### Jabal Shammar ###
+JBS_KR_GATHERING_STORM_DESC:0 "Once rulers of Arabia, the Rashidi dynasty has come a long way since its peak in the late 19th century. A resurgent Ibn Saud and questionable loyalties amongst their allies have put the Emirate of Ha'il on the backfoot, forced to ever more increase its reliance on the Ottoman Turks. To make matters worse, the dynasty is plagued by scheming and intrigue with various ambitious princes eyeing Saud's throne all for themselves..."
+
+### Ottoman Empire ###
+OTT_KR_GATHERING_STORM_DESC:0 "Although the Ottoman Empire finished the Weltkrieg as a victor, the once unstoppable empire has lost much of its former glory. The ever increasing rate at which it lost its farflung possessions has been decisively halted but at what cost? Even after its beating, the Ottoman Empire still stands however and the reformist spirit, initiated in the 19th century, has only increased in vigour. Still, sharp disagreements rule the Chamber of Deputies as the centralist OHF under powerful orator and war hero Mustafa Kemal Pasha takes up the fight against the liberal coalition in a battle to decide the future of the entire Middle East..."
+
+### Cyrenaica ###
+LBA_KR_GATHERING_STORM_DESC:0 "When Muhammad ibn Ali al-Sanusi founded the Order in 1837, the armies of Christianity were bearing down on the last Muslim states of Africa, Central Asia and the Middle East. In a desperate attempt to turn the tide, our Order embarked on trans-saharan campaigns in the French Sudan and Chad, fighting to preserve the independence of these states and spread the message of our Grandmaster. Pushed back, we saw our territory slink until in 1911 the homeland came under direct attack. Although Italy, after almost a decade of guerilla warfare, was pushed back into the sea, the French colonial empire still stands, still watches, still hungry..."
+
+### Georgia ###
+GEO_KR_GATHERING_STORM_DESC:0 "With the Russian civil war in full swing, the Menshevik stronghold in Georgia was able to slip away, first as part of the Transcaucasian Federation, then as the Democratic Republic of Georgia. Following a string of agreements with Germany and the Ottoman Empire, Georgia was safe, and under the charismatic leadership of Noe Zhordania, decades of peace and relative stability was achieved. However, Zhordania grows old, and is planning on retiring. With tensions rising across the Middle East, the peace he's brought may go with him..."
+
+
 
 
 ####################
 ### Past Nations ###
 ####################
+
+### South Africa ###
+#SAF_KR_GATHERING_STORM_DESC:0 "어떤 사람들은 아마 세계에서 남아프리카가, 대영제국의 쇠퇴가 그들이 나중에 세계대전에 대한 대가를 치를 폐해를 폭로한 반항적인 보어인들을 진정시킬 문제를 통해 뚜렷해진 곳이라고 말할 것입니다. 영국은 결국 그들을 상대로 승리했고, 그 잿더미로부터 1910년, 영국의 자치령인 남아프리카 연방이 탄생했습니다. 그 이후, 제국은 붕괴되었고, 아프리카 대륙에 대한 영국 영향력의 마지막 선봉자로서 새로운 역할을 다하는 남아프리카는 현재 갈림길에 서 있습니다. 얀 스뮈츠 수상이 주장하는 것처럼 지금의 자치령 지위가 국가에 득이 될까요? 아니면 남아프리카 스스로가 운명을 결정할 때가 온 것일까요?"
+
+### United Baltic Duchy ###
+#BAT_KR_GATHERING_STORM_DESC:0 "발트의 독일계 귀족들은 세계대전로부터 바라는 것을 얻었습니다 - 그것은 바로 러시아화 정책으로부터 짓밟힌 권리와 특권의 회복, 그리고 그들이 그들 자신의 국가라고 부를 수 있는 국가인 발트 연합공국이었습니다. 여기서 아돌프 프리드리히 공작 치하의 발트 기사단은 귀족 전통을 지키고자 분권형 군주제를 시행했습니다. 그러나 이러한 비잔틴적인 통치체제에 맞선 개혁의 압력이 거세짐에 따라, 공작은 이 변화를 관철하기 위해 자유주의적이고 개혁적인 정부를 추진했습니다. 하지만 모든 일이 이들에게 좋지 않게 돌아갈 때도 발트 독일인들의 꿈은 살아남을 수 있을까요?"
 
 ### Romania ###
 #ROM_KR_GATHERING_STORM_DESC:0 "부쿠레슈티 조약은 루마니아가 동맹국과 치르던 전쟁을 종식되도록 했습니다. 이것은 관대한 죗값이라 여겨졌지만, 1920년대에 찾아온 몇 차례의 위기 이후로 고꾸라졌던 국가의 정치적 기반 신화를 무너뜨리기엔 충분했습니다. 페르디난드 왕과 그 국가의 저명한 진보 정치인의 죽음은 두 명의 야심가, 카롤 2세와 코르넬리우 젤레아 코드레아누에게 길을 터 줄 것입니다. 두 사람은 루마니아의 민주주의를 전복시키고 루마니아를 통일하기 위한 십자군 원정을 벌이기 위해 힘을 합쳤습니다만, 과연 두 야망이 충돌하기 직전까지 얼마나 합심할 수 있을까요?"

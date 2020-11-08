@@ -160,33 +160,33 @@ CSA_social_revolution:0 "사회혁명"
 ### Tooltips ####
 CSA_anti_fortification_artillery:0 "M1 240mm 곡사포"
 CSA_anti_fortification_artillery_desc:0 "M1 240mm 곡사포는 미국 노조연맹에 의해 개발된 대표입니다. 이것은 워싱턴 dc 인근과 같이 요새화 된 지역을 부수는데 자주 사용되었습니다."
-CSA_anti_fortification_artillery_effect:0 "사용 가능 : §HM1 240mm 곡사포§!\n§H포병 지원§!\n    요새: 공격: §G+20%§!\n§H포병§!\n    요새: 공격: §G+20%§!\n§H차량화 포병§!\n    요새: 공격: §G+20%§!\n"
+CSA_anti_fortification_artillery_effect:0 "사용 가능 : §H$CSA_anti_fortification_artillery$§!\n§H포병 지원§!\n    요새: 공격: §G+20%§!\n§H포병§!\n    요새: 공격: §G+20%§!\n§H차량화 포병§!\n    요새: 공격: §G+20%§!\n"
 
 CSA_has_smedley_butler:0 "Has unit leader §HSmedley Butler§!"
 CSA_has_smedley_butler_NOT:0 "Does not have unit leader §HSmedley Butler§!"
 
-CSA_corruption_in_dockyards:0 "Modify §HRevolutionary Naval Industry§!by\nDaily Political Power Gain: [?-0.1|+=]\nStability: [?-0.05|+=%]"
+CSA_new_american_dockyards_tooltip:0 "Modify §H$CSA_revolutionary_naval_industry$§!by\nDaily Political Power Gain: [?-0.1|+=]\nStability: [?-0.05|+=%]"
 
-CSA_continental_air_command_tooltip: "Modify §HContinental Air Force§! by\nStrategic Bombing: [?0.1|+=%1]\n"
-CSA_state_air_force_tooltip: "Modify §HContinental Air Force§! by\nAir Detection: [?0.05|+=%1]\nAir Superiority: [?0.05|+=%2]\n"
-CSA_wings_of_revolution_tooltip: "Modify §HContinental Air Force§! by\nAir superiority attack: [?0.1|+=%2]\nAir superiority defence: [?0.1|+=%2]\n"
+CSA_continental_air_command_tooltip: "Modify §H$CSA_continental_air_force$§! by\nStrategic Bombing: [?0.1|+=%1]\n"
+CSA_state_air_force_tooltip: "Modify §H$CSA_continental_air_force$§! by\nAir Detection: [?0.05|+=%1]\nAir Superiority: [?0.05|+=%2]\n"
+CSA_wings_of_revolution_tooltip: "Modify §H$CSA_continental_air_force$§! by\nAir superiority attack: [?0.1|+=%2]\nAir superiority defence: [?0.1|+=%2]\n"
 
-CSA_armoured_thrust_tooltip:0 "Modify §HAmerican Vehicle Industry§! by\n§HMechanised§!: £production_cost  Production Cost:  [?-0.05|-=%]\n§HArmour§!: £production_cost  Production Cost:  [?-0.1|-=%]\n"
-CSA_anti_tank_production_tooltip:0 "Modify §HAmerican Vehicle Industry§! by\n§HMechanised§!: £production_cost  Production Cost:  [?-0.05|-=%]\n§HLight Tank Destroyer§!:\n    £production_cost  Production Cost:  [?-0.1|-=%]\n    Piercing: [?0.1|+=%0]\n    Hard Attack: [?0.25|+=%0]\n§HMedium Tank Destroyer§!:\n    £production_cost  Production Cost:  [?-0.1|-=%]\n    Piercing: [?0.1|+=%0]\n    Hard Attack: [?0.25|+=%0]\n§HHeavy Tank Destroyer§!:\n    £production_cost  Production Cost:  [?-0.1|-=%]\n    Piercing: [?0.1|+=%0]\n    Hard Attack: [?0.25|+=%0]\n"
+CSA_armoured_thrust_tooltip:0 "Modify §H$CSA_motor_production_idea_2$§! by\n§HMechanised§!: £production_cost  Production Cost:  [?-0.05|-=%]\n§HArmour§!: £production_cost  Production Cost:  [?-0.1|-=%]\n"
+CSA_anti_tank_production_tooltip:0 "Modify §H$CSA_motor_production_idea_2$§! by\n§HMechanised§!: £production_cost  Production Cost:  [?-0.05|-=%]\n§HLight Tank Destroyer§!:\n    £production_cost  Production Cost:  [?-0.1|-=%]\n    Piercing: [?0.1|+=%0]\n    Hard Attack: [?0.25|+=%0]\n§HMedium Tank Destroyer§!:\n    £production_cost  Production Cost:  [?-0.1|-=%]\n    Piercing: [?0.1|+=%0]\n    Hard Attack: [?0.25|+=%0]\n§HHeavy Tank Destroyer§!:\n    £production_cost  Production Cost:  [?-0.1|-=%]\n    Piercing: [?0.1|+=%0]\n    Hard Attack: [?0.25|+=%0]\n"
 CSA_states_red_guards_tooltip:0 "\n§RThis plan is extremely unpopular in the high command, and many will resign if we go down this path!§!"
-CSA_always_ready_always_there_tooltip:0 "Modify §HContinental Red Army§! or §HContinental Red Guards§! by\nDivision Organisation: [?0.05|+=%1]\nExperienced Soldier Losses: [?-0.05|-=%1]"
+CSA_always_ready_always_there_tooltip:0 "Modify §H$CSA_continental_red_army$§! or §H$CSA_continental_red_guards$§! by\nDivision Organisation: [?0.05|+=%1]\nExperienced Soldier Losses: [?-0.05|-=%1]"
 CSA_demobilization:0 "§RUntil the demobilization is completed, the workers and the bandits will cause trouble!§!"
 
-CSA_new_american_dockyards_tooltip:0 "Replace §HRevolutionary Naval Industry§! with §HAmerican Maritime Industry§!\nEffective Change:\nDaily Political Power Gain: [?0.1|+=]\nStability: [?0.05|+=%]\nDockyard Output: [?0.1|+=%]\n§HNaval Base§! construction speed: [?0.2|+=%]\n§HDockyard§! construction speed: [?0.1|+=%]\n§HEscort Cruiser§!: £production_cost  Production Cost:  [?-0.1|-=%]\n§HCruiser§!: £production_cost  Production Cost:  [?-0.1|-=%]"
+CSA_new_american_dockyards_tooltip:0 "Replace §H$CSA_revolutionary_naval_industry$§! with §H$CSA_martime_industry$§!\nEffective Change:\nDaily Political Power Gain: [?0.1|+=]\nStability: [?0.05|+=%]\nDockyard Output: [?0.1|+=%]\n§HNaval Base§! construction speed: [?0.2|+=%]\n§HDockyard§! construction speed: [?0.1|+=%]\n§HEscort Cruiser§!: £production_cost  Production Cost:  [?-0.1|-=%]\n§HCruiser§!: £production_cost  Production Cost:  [?-0.1|-=%]"
 
-CSA_new_naval_plan_tooltip:0 "Replace §HBig Red Fleet§! with §HThe Second Continental Navy§!\nEffective Change:\nNavy Organisation: [?0.05|+=%1]\nNaval max range factor: [?0.1|+=%]"
-CSA_american_peoples_navy_tooltip:0 "Replace §HBig Red Fleet§! with §HAmerican People's Navy§!\nEffective Change:\nNaval max range factor: [?-0.05|+=%]\nNavy Fuel Consumption: [?-0.2|-=%]"
+CSA_new_naval_plan_tooltip:0 "Replace §H$CSA_big_red_fleet$§! with §H$CSA_second_continental_navy$§!\nEffective Change:\nNavy Organisation: [?0.05|+=%1]\nNaval max range factor: [?0.1|+=%]"
+CSA_american_peoples_navy_tooltip:0 "Replace §H$CSA_big_red_fleet$§! with §H$CSA_american_peoples_navy$§!\nEffective Change:\nNaval max range factor: [?-0.05|+=%]\nNavy Fuel Consumption: [?-0.2|-=%]"
 
-CSA_refit_old_ships_tooltip_continental_navy:0 "Modify §HThe Second Continental Navy§!by\nNaval Equipment Refitting Speed: [?0.1|+=%0]\nNaval Equipment Refitting Cost: [?-0.1|-=%0]\nShip Repair Speed: [?0.05|+=%0]"
-CSA_refit_old_ships_tooltip_peoples_navy:0 "Modify §HAmerican People's Navy§!by\nNaval Equipment Refitting Speed: [?0.1|+=%0]\nNaval Equipment Refitting Cost: [?-0.1|-=%0]\nShip Repair Speed: [?0.05|+=%0]"
+CSA_refit_old_ships_tooltip_continental_navy:0 "Modify §H$CSA_second_continental_navy$§!by\nNaval Equipment Refitting Speed: [?0.1|+=%0]\nNaval Equipment Refitting Cost: [?-0.1|-=%0]\nShip Repair Speed: [?0.05|+=%0]"
+CSA_refit_old_ships_tooltip_peoples_navy:0 "Modify §H$CSA_american_peoples_navy$§!by\nNaval Equipment Refitting Speed: [?0.1|+=%0]\nNaval Equipment Refitting Cost: [?-0.1|-=%0]\nShip Repair Speed: [?0.05|+=%0]"
 
-CSA_navy_of_new_age_tooltip_continental_navy:0 "Modify §HThe Second Continental Navy§!by\nFleet Co-ordination: [?0.05|+=%0]\nNaval Doctrine Research Speed: [?0.15|+=%0]"
-CSA_navy_of_new_age_tooltip_peoples_navy:0 "Modify §HAmerican People's Navy§!by\nFleet Co-ordination: [?0.05|+=%0]\nNaval Doctrine Research Speed: [?0.15|+=%0]"
+CSA_navy_of_new_age_tooltip_continental_navy:0 "Modify §H$CSA_second_continental_navy$§!by\nFleet Co-ordination: [?0.05|+=%0]\nNaval Doctrine Research Speed: [?0.15|+=%0]"
+CSA_navy_of_new_age_tooltip_peoples_navy:0 "Modify §H$CSA_american_peoples_navy$§!by\nFleet Co-ordination: [?0.05|+=%0]\nNaval Doctrine Research Speed: [?0.15|+=%0]"
 
 ### Decisions ###
 CSA_expanding_the_revolution_decisions:0 "혁명의 수출"
@@ -1132,7 +1132,8 @@ csa.205.b:0 "Rickover will strangle the Federalist supply lines."
 csa.205.c:0 "Burke's decentralisation is the future."
 
 csa.206.t:0 "Naval Industry after the Revolution"
-csa.206.d:0 "With the outbreak of civil war, most of the shipyards were captured by the enemies of the Revolution. The shipyards that remain in our hands do not allow us to recreate the old US fleet, and we cannot fight against the enemy fleet in our present situation. But there is good for us - most of our shipyard workers have experience, and some of them have already proposed plans to simplify ship production and organisation of work. This will take resources and experienced workers from other places, but allow us to prepare for a naval war against the Federals. Our captains are divided into two groups - supporters of destroyers or submarines. The first group are insisting destroyers can fight against most enemy ships, and can also support our main ships in battle. The second group says that submarines are more efficient and can work alone at large distances without the support of the main forces of the fleet.Meanwhile, our leading engineers have proposed an option between them. Although this option is not as effective as specializing in one of the production lines, it will allow us to create a flexible fleet."
+csa.206.d.ACW:0 "With the outbreak of civil war, most of the shipyards were captured by the enemies of the Revolution. The shipyards that remain in our hands do not allow us to recreate the old US fleet, and we cannot fight against the enemy fleet in our present situation. But there is good for us - most of our shipyard workers have experience, and some of them have already proposed plans to simplify ship production and organisation of work. This will take resources and experienced workers from other places, but allow us to prepare for a naval war against the Federal Government. Our captains are divided into two groups - supporters of destroyers or submarines. The first group are insisting destroyers can fight against most enemy ships, and can also support our main ships in battle. The second group says that submarines are more efficient and can work alone at large distances without the support of the main forces of the fleet. Meanwhile, our leading engineers have proposed an option between them. Although this option is not as effective as specializing in one of the production lines, it will allow us to create a flexible fleet."
+csa.206.d.post_ACW:0 "During the civil war, most of the shipyards were captured by the enemies of the Revolution. Now, despite our triumph, the US fleet stands in tatters, broken in the war, leaving us dangerously exposed against enemy fleets in our present situation. But there is good for us - most of our shipyard workers have experience, and some of them have already proposed plans to simplify ship production and organisation of work. This will take resources and experienced workers from other places, but allow us to prepare for a naval war against the reactionaries. Our captains are divided into two groups - supporters of destroyers or submarines. The first group are insisting destroyers can fight against most enemy ships, and can also support our main ships in battle. The second group says that submarines are more efficient and can work alone at large distances without the support of the main forces of the fleet. Meanwhile, our leading engineers have proposed an option between them. Although this option is not as effective as specializing in one of the production lines, it will allow us to create a flexible fleet."
 csa.206.a:0 " on submarine production."
 csa.206.b:0 "Focus on destroyer production."
 csa.206.c:0 "Let's keep our options open."
@@ -1171,6 +1172,11 @@ csa.215.t:0 "Growing Banditry and Protests"
 csa.215.d:0 "Our advantage in the civil war - the number of troops - became a problem after the war ended. With ruined and damaged infrastructure and no government support to help them get to their homes, most of the former militias have turned into a bunch of bandits who rob people for food. This became a common problem in territories that were under enemy control in the last stages of the war. These bandits not only rob people, but also start shooting with small groups of reactionaries when they meet. Some newspapers have already stated that “The Second Civil War did not end and became a procession of warlords,” which seriously damaged our authority, as these people fought for us in a civil war.\n\nAs if that wasn’t enough, some of the workers started protests - at least now peacefully - with demands to reduce working hours and stop mass production of weapons.\n\nIf we do not start the demobilization program in the near future, this will only lead to the ongoing devastation of the country."
 csa.215.a:0 "We need to start the demobilization program!"
 
+csa.216.t:0 "Smedley Butler Passes Away"
+csa.216.d.CSA:0 "A day of national mourning has been called out amongst [Root.GetNameDef], as news of the passing of former Field Martial Smedley Butler was announced by the government this morning. The war hero had checked into the Philadelphia Naval Hospital the month prior, reportedly having been sick for several weeks. Upon admission, doctors discovered he had an incurable gastrointestinal condition and in spite of their best care, Butler passed away the following fortnight surrounded by his loved ones.\n\nHaving only recently announced his retirement after seeing the end of the Second American Civil War, Butler oversaw important reforms and overhauls to the Second Continental Army, transforming it into a well organised fighting force that ultimately saw the emancipation of the working class all across the continental United States.  His death has rocked the nation to its core, with many in the army still believing his work in guiding it to be unfinished.\n\nAt Capitol Hill, a full state funeral was given in commemoration of him including military honours. The procession led by fellow Marines who had fought alongside him for many years. His coffin was laid in state at the Capitol Rotunda for three days, before being buried at Arlington National Cemetery."
+csa.216.d.not_CSA:0 "Today the passing of Smedley Butler was announced by his family. The war veteran had checked into the Philadelphia Naval Hospital the month prior, reportedly having been sick for several weeks. Upon admission, doctors discovered he had an incurable gastrointestinal condition and in spite of their best care, Butler passed away the following fortnight surrounded by his loved ones.\n\nA man whose loyalty was often the subject of scepticism and doubt by those in the upper echelons of the Federal Army, Butler fought with distinction under the Olson Administration during the Second American Civil War, seeing the conflict come to a close before announcing his retirement.\n\nHis funeral was attended by members of the Philadelphia Police Department as well as former Marines who had served alongside him for many years. Several politicians were also present, most notable amongst which was Quentin Roosevelt, who personally paid tribute to the deceased general. He was buried at Oaklands Cemetery, Pennsylvania."
+csa.216.a:0 "Your contributions will never be forgotten. Rest in peace."
+
 ###############################################
 #CSA's Army General Descriptions by Drozdovite#
 ###############################################
@@ -1197,12 +1203,38 @@ CSA_ARLEIGH_BURKE_NAVY_DESC:0 "§Y제독 설명\n§Y출생:§W 1901년 10월 19�
 CSA_HYMAN_RICKOVER_NAVY_DESC:0 "§Y제독 설명\n§Y출생:§W 1900년 1월 27일, 러시아 제국 프리비슬린스키 크라이 마코프나드오르즈쳼\n§Y군 경력:§W 하이먼 고달리아 '조지' 리코버는 폴란드계 유대인 가정에서 태어나, 1905년 러시아 혁명 당시 벌어진 반유대주의 포그롬을 피해 1906년 3월 어머니와 누나와 함께 뉴욕 시로 도망쳤으며, 이후 시카고로 이주했습니다. 리코버의 해군 경력은 1918년 해군사관학교에 입학하면서 시작되었고, 그는 1922년 학교를 졸업했습니다. 이후 그는 구축함 오버턴 호에 탑승해 함장에게 노고와 능률로 깊은 인상을 남겼으며, 1923년엔 전대 내에서 최연소의 나이로 기관장교로 임명되었습니다. 이후 그는 전함 미시시피 호에 탑승한 뒤 해군대학원에서 1년간 수학한 끝에 1930년 컬럼비아 대학교에서 전기공학석사 학위를 취득했습니다. 1929년부터 1933년까지 리코버는 잠수함 특기 자격을 취득하고 잠수함 S-9와 O-3을 지휘했으며, 1933년엔 필라델피아 해군기재감찰실에서 독일 제국해군의 제독인 헤르만 바우어의 저서 유보트(Das Unterseeboot)를 번역했습니다. 1937년 초 그는 제3잠수함편대장으로 임명되었고, 내전이 발발하면서 그는 두 번째 대륙해군에 합류해 제3잠수함편대가 필라델피아로 향할 것을 명했으며, 해군 대장 계급으로 진급해 대륙해군의 첫 제독들 중 한 명이 되었습니다."
 CSA_HUGH_MULZAC_NAVY_DESC:0 "§Y제독 설명\n§Y출생:§W 1886년 3월 26일, 대영제국 윈드워드제도 식민지연방 유니언 섬\n§Y군 경력:§W 휴 내서니얼 뮬작의 뱃사람 생활은 고등학교 졸업 직후 그가 영국 스쿠너들에서 복무하면서 시작되었습니다. 휴 뮬작은 웨일스에 위치한 스완지 해양대학교로 보내져, 선장 자격증을 따기 위해 훈련을 받았고, 1918년 미국으로 이민을 갔습니다. 2년만에 그는 아프리카계 미국인에게 발급된 최초의 선장 자격증을 땄고, 마커스 가비의 만국흑인지위향상협회(UNIA)에 가입해 블랙 스타 해운의 SS 야머스 호에서 선장을 지냈습니다. 그러나, UNIA와의 불화는 1921년 그가 사임하는 것으로 이어졌고, 이후 그는 1927년 국제선원연맹(ISUA)에 가입했습니다. 1937년 이전까지 뮬작이 얻을 수 있었던 유일한 선상 직업은 몇몇 선사의 승무원 부서뿐이었습니다. 1934년 ISUA 측의 압력을 통해 그는 아프리카계 미국인들로만 구성된 선원을 태운 배의 선장이 될 수 있었지만, '어떠한 경우에도 나는 짐 크로의 선박을 지휘하지 않을 것이다'라는 말과 함께 거절했습니다. 제2차 미국 내전이 발발한 이후 CSA는 군함들의 함장을 필요로 했고, 그는 구축함 CNS 스미스 톰슨 호의 함장으로 임명되었으며 고급과정에 선택되었습니다. 이를 수료한 이후, 그는 최초의 흑인 제독으로 유명세를 얻었습니다."
 
+### Country Names ###
+CSA_totalist:0 "미노조연맹"
+CSA_totalist_ADJ:0 "미국"
+CSA_totalist_DEF:0 "미노조연맹"
+CSA_syndicalist:0 "미노조연맹"
+CSA_syndicalist_ADJ:0 "미국"
+CSA_syndicalist_DEF:0 "미노조연맹"
+CSA_radical_socialist:0 "미노조연맹"
+CSA_radical_socialist_ADJ:0 "미국"
+CSA_radical_socialist_DEF:0 "미노조연맹"
+CSA_social_democrat:0 "미합중국"
+CSA_social_democrat_ADJ:0 "미국"
+CSA_social_democrat_DEF:0 "미합중국"
+CSA_social_liberal:0 "미합중국"
+CSA_social_liberal_ADJ:0 "미국"
+CSA_social_liberal_DEF:0 "미합중국"
+CSA_market_liberal:0 "미합중국"
+CSA_market_liberal_ADJ:0 "미국"
+CSA_market_liberal_DEF:0 "미합중국"
+CSA_social_conservative:0 "미합중국"
+CSA_social_conservative_ADJ:0 "미국"
+CSA_social_conservative_DEF:0 "미합중국"
+CSA_authoritarian_democrat:0 "미합중국"
+CSA_authoritarian_democrat_ADJ:0 "미국"
+CSA_authoritarian_democrat_DEF:0 "미합중국"
+CSA_paternal_autocrat:0 "미합중국"
+CSA_paternal_autocrat_ADJ:0 "미국"
+CSA_paternal_autocrat_DEF:0 "미합중국"
+CSA_national_populist:0 "미연합국"
+CSA_national_populist_ADJ:0 "미국"
+CSA_national_populist_DEF:0 "미연합국"
 
-
-
-
-
-### Cosmetic Tags ###
 CSA_ACW_totalist:0 "미노조연맹"
 CSA_ACW_totalist_ADJ:0 "노조연맹"
 CSA_ACW_totalist_DEF:0 "미노조연맹"

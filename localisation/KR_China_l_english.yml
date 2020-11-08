@@ -60,14 +60,27 @@ is_ruled_by_federalists:0 "Is ruled by the §HFederalists§!"
 ### Army Reform
 china_army_decisions:0 "육군 개혁"
 china_army_decisions_desc:0 "중국군은 서구 수준을 따라잡기 위해 오랫동안 노력해왔습니다. 군인들은 유명할 정도로 훈련받지 못했고, 종종 산적과 잡범 등 오만가지 이상한 자들을 징집하기도 했으며, 만성적으로 궁핍합니다. 장비는 대체로 여러 부품을 섞어서 만들었으며, 그마저도 구식이거나 완전한 폐품 수준입니다. 군인들은 충성을 국가에 바치는 게 아니라 각자 부대 지휘관이나 봉급으로 채워지는 자기 밥그릇에만 충성을 바치며, 이념적 동기는 기껏해야 오래가지도 않습니다. 이런 군대를 현대적 군대로 재건하는 데는 많은 시간이 걸릴 겁니다.\n"
-china_army_reform:0 "육군 개혁 지속"
-china_inadequate_army:0 "육군 개혁"
+
+china_army_reform_1:0 "육군 개혁 지속"
+china_army_reform_5:0 "육군 개혁 종료"
+
+china_inadequate_army:0 "육군 문제"
 china_army_reform_idea:0 "§H육군 개혁 진척§!\n사단 조직력: [?Root.army_reform_var_org|1%=+]\n숙련병 손실: [?Root.army_reform_var_exp|1%=-]"
 china_army_reform_idea_desc:0 "§L만연한 부패, 무능한력한 지휘부, 시대에 뒤떨어진 전술, 구식 무기, 부실한 훈련, 혹은 모든 문제점을 현대적 군사 수준에 형편없을 정도로 미치지 못하는 중국 전역의 군대가 함께 공유합니다. 수십년간 방치된 군 개혁 문제를 극복하는데는 엄청난 시간과 노력이 들 것이고, 그렇게 할 때까지 아군 작전 수행에는 어려움이 뒤따를 겁니다.§!"
-china_army_reform_tooltip:0 "£army_experience [?Root.china_army_reform_cost|H0]"
-china_army_reform_tooltip_blocked:0 "£army_experience [?Root.china_army_reform_cost|R0]"
+
 china_army_reform_effect:0 "§H육군 개혁§! 지속:\n사단 조직력: [?0.1|G1%=]\n숙련병 손실: [?-0.15|G1%=]"
 china_army_reform_effect_complete:0 "§H육군 개혁§!이 §G완료되었습니다!§!\n사단 조직력: [?0.1|G1%=]\n숙련병 손실: [?-0.15|G1%=]"
+
+china_army_reform_trait:0 ""
+
+china_army_reform_tooltip_200:0 "£army_experience [?200|H0]"
+china_army_reform_tooltip_200_blocked:0 "£army_experience [?200|R0]"
+china_army_reform_tooltip_150:0 "£army_experience [?150|H0]"
+china_army_reform_tooltip_150_blocked:0 "£army_experience [?150|R0]"
+china_army_reform_tooltip_100:0 "£army_experience [?100|H0]"
+china_army_reform_tooltip_100_blocked:0 "£army_experience [?100|R0]"
+china_army_reform_tooltip_50:0 "£army_experience [?50|H0]"
+china_army_reform_tooltip_50_blocked:0 "£army_experience [?50|R0]"
 
 ### Form China
 form_republic_china_decision:0 "중화민국 형성"
@@ -75,29 +88,17 @@ form_republic_china_decision_desc:0 "이제 우리가 수도를 장악했으니,
 
 ### United Front
 china_united_front_decisions:0 "중국의 임시지도자"
-assume_chinese_leadership:0 "국가지도자 지위를 맡다"
-assume_chinese_leadership_desc:0 "외국의 지배에 대항할 수 있는 가장 강력한 파벌로서, 우리는 중국 전체에 대해 통제력을 행사할 수 있으며 외세 침략에 맞서 국가를 이끌 능력이 있습니다."
-assume_chinese_leadership_tooltip:0 "§H[current_china_leader.GetNameDef]§!보다 군사력이 120% 이상 강합니다"
-assume_chinese_leadership_tooltip_QIE: "§H[QIE.GetNameDef]§!보다 군사력이 100% 이상 강합니다"
-assume_chinese_leadership_tooltip_CHI: "§H[CHI.GetNameDef]§!보다 군사력이 100% 이상 강합니다"
-assume_chinese_leadership_tooltip_GXC: "§H[GXC.GetNameDef]§!보다 군사력이 100% 이상 강합니다"
-assume_chinese_leadership_tooltip_FNG: "§H[FNG.GetNameDef]§!보다 군사력이 100% 이상 강합니다"
-assume_chinese_leadership_tooltip_SZC: "§H[SZC.GetNameDef]§!보다 군사력이 100% 이상 강합니다"
-assume_chinese_leadership_tooltip_YUN: "§H[YUN.GetNameDef]§!보다 군사력이 100% 이상 강합니다"
 
 form_chinese_united_front:0 "중화통일전선 형성"
 form_chinese_united_front_tooltip:0 "§H[HJAP.GetNameDef](이)나 동맹국 중 하나가 지휘합니다"
 
 chinese_united_front_formed:0 "중화통일전선이 형성되다"
+united_front_member:0 "Is a member of the Chinese United Front"
 china_ceasefire_occupation_transfer:0 "§H모든 점령한 지역§!의 소유권을 가져갑니다."
 china_war_with_united_front:0 "§R통일전선이 우리에 대항해 싸울 것입니다!§!\n"
 
 leave_chinese_united_front:0 "통일전선 탈퇴"
 rejoin_chinese_faction:0 "[FROM.GetNameDef] 재합류"
-
-china_shared.1.t:0 "사라지는 정통성"
-china_shared.1.d:0 "중화통일전선으로 인해 분열된 조국을 통일하기 위한 수단이 생겼을지도 모르지만, 중국 군벌들 사이의 갈등은 결코 진정으로 끝나지 않았습니다. 이제 일본의 침략에 직면한 우리 정부가 입은 손실은 한 가지 간단한 진실을 알려주었습니다. 우리는 더 이상 외세의 침략에 맞선 중국의 지도자가 될 수 없다는 사실입니다. 이미 여러 군벌과 지방 정부 아래 있는 세력들은 [current_china_leader.GetNameDef]의 지시사항을 일상적으로 무시하기 시작했습니다. 우리가 잃어버린 영토로 진격해 재탈환하지 않는다면 지도력을 영원히 잃게 될 겁니다."
-china_shared.1.a:0 "제기랄."
 
 china_shared.2.t:0 "통일전선"
 china_shared.2.d:0 "일본이 침략을 준비하기 시작하면서 [Root.GetLeader](은)는 침략자에 대항한 전국적 단결체 창설을 제안하기로 결정했습니다. 이전에 싸웠던 상대와 함께 싸운다는 사실을 의미한다고 하더라도 이건 꼭 필요한 절차입니다. 중화 전토의 통신 시설이 위협을 받고 있기는 하지만, 필요하다면 전령을 운용하는 한이 있더라도 꼭 서신을 전달할 겁니다!"
@@ -116,8 +117,8 @@ china_shared.5.t:0 "[From.GetNameDefCap](이)가 배신하다"
 china_shared.5.d:0 "[From.GetNameDef](은)는 타당한 이유도 없이 통일전선에 가담을 거부하는 다분히 고의적인 배신행위를 자행했습니다. 전 중화의 운명보다 개인의 이익을 우선시하는 행위에는 변명의 여지가 없습니다!"
 china_shared.5.a:0 "반역자다!"
 
-china_shared.6.t:0 "[current_china_leader.GetNameDefCap](이)가 휴전을 요청하다"
-china_shared.6.d:0 "[From.GetNameDef](이)가 통일전선에 참가하면서, [current_china_leader.GetNameDef](은)는 중국의 이익을 위해 일본의 침략이 멈출 때까지 우리 정부와 [From.GetNameDef] 간 전쟁을 멈추고 정전 협정의 중개국이 되겠다고 나섰습니다. 하지만 이 협정은 양측간의 모든 점령지를 반환해야 한다는 조건을 달고 있습니다."
+china_shared.6.t:0 "[chinese_united_front_leader.GetNameDefCap](이)가 휴전을 요청하다"
+china_shared.6.d:0 "[From.GetNameDef](이)가 통일전선에 참가하면서, [chinese_united_front_leader.GetNameDef](은)는 중국의 이익을 위해 일본의 침략이 멈출 때까지 우리 정부와 [From.GetNameDef] 간 전쟁을 멈추고 정전 협정의 중개국이 되겠다고 나섰습니다. 하지만 이 협정은 양측간의 모든 점령지를 반환해야 한다는 조건을 달고 있습니다."
 china_shared.6.a:0 "그래. 지금 당장은."
 china_shared.6.b:0 "절대로 저들과 함께 싸울 수는 없다!"
 
@@ -162,6 +163,14 @@ china_shared.14.d.others:0 "항상 내부 당파적인 논쟁에 빠져있는 �
 china_shared.14.a:0 "흥미롭군." #Chinese POV
 china_shared.14.b:0 "흥미롭군." #Japanese POV
 china_shared.14.c:0 "흥미롭군." #Foreign POV
+
+china_shared.15.t:0 "Bounce Event"
+china_shared.15.d:0 "Boing"
+
+china_shared.16.t:0 "The March of the Volunteers"
+china_shared.16.d:0 "Written by left-wing filmmakers Nie Er and Tian Han as the score to their anti-Japanese patriotic film "Children of Troubled Times", the March of the Volunteers has caught on amongst Chinese of all walks of life in the face of the final struggle against Japanese aggression."
+china_shared.16.a:0 "Let the men have their song until war's end."
+china_shared.16.b:0 "A rousing tune!"
 
 ### Sino-Japanese War
 china_second_sino_japanese_war_UF_decisions:0 "제2차 중일전쟁"
@@ -426,3 +435,69 @@ ROC_paternal_autocrat_DEF:0 "중화민국"
 ROC_national_populist:0 "중화민국"
 ROC_national_populist_ADJ:0 "중국"
 ROC_national_populist_DEF:0 "중화민국"
+
+# Provinces
+china_province_state_title:0 "[ChinaGetStateProvinceTitle]"
+china_province_state_desc:0 "[ChinaGetStateProvinceDesc]"
+
+
+guangdong_province_state:0 "§YGuangdong Province§!"
+guangdong_province_state_desc:0 ""
+guangxi_province_state:0 "§YGuangxi Province§!"
+guangxi_province_state_desc:0 ""
+zhili_province_state:0 "§YZhili Province§!"
+zhili_province_state_desc:0 ""
+henan_province_state:0 "§YHenan Province§!"
+henan_province_state_desc:0 ""
+hubei_province_state:0 "§YHubei Province§!"
+hubei_province_state_desc:0 ""
+hunan_province_state:0 "§YHunan Province§!"
+hunan_province_state_desc:0 "Hunan Province joined Sun Chuanfang's League after the KMT fell apart in 1927[GetHunanStateProvinceIndependence]. The Hunan core lands include the states of Xiangjiang and Chenyuan, but Zhenyuan and Shihe have also at times been under Hunan control, even though they are generally considered to be part of Guizhou and Hubei, respectively."
+hunan_province_state_indepenent:0 ", but today, they stand autonomous and independent"
+hunan_province_state_controlled_LEPANQ:0 " and today remain under control of the League's successor"
+hunan_province_state_controlled:0 ", but today, other Chinese powers control the Province"
+jiangsu_province_state:0 "§YJiangsu Province§!"
+jiangsu_province_state_desc:0 "The states of Xuhai, Huaiyang, Nantong and Jinling are part of Jiangsu Province. However, Jinling, which includes Nanjing, mostly avoids oversight from the Jiangsu governor as it is a power base in and of it self."
+jiangxi_province_state:0 "§YJiangxi Province§!"
+jiangxi_province_state_desc:0 ""
+shaanxi_province_state:0 "§YShaanxi Province§!"
+shaanxi_province_state_desc:0 ""
+shanxi_province_state:0 "§YShanxi Province§!"
+shanxi_province_state_desc:0 ""
+shandong_province_state:0 "§YShandong Province§!"
+shandong_province_state_desc:0 ""
+anhui_province_state:0 "§YAnhui Province§!"
+anhui_province_state_desc:0 ""
+zhejiang_province_state:0 "§YZhejiang Province§!"
+zhejiang_province_state_desc:0 ""
+fujian_province_state:0 "§YFujian Province§!"
+fujian_province_state_desc:0 ""
+sichuan_province_state:0 "§YSichuan Province§!"
+sichuan_province_state_desc:0 ""
+guizhou_province_state:0 "§YGuizhou Province§!"
+guizhou_province_state_desc:0 ""
+yunnan_province_state:0 "§YYunnan Province§!"
+yunnan_province_state_desc:0 ""
+qinghai_province_state:0 "§YQinghai Province§!"
+qinghai_province_state_desc:0 ""
+gansu_province_state:0 "§YGansu Province§!"
+gansu_province_state_desc:0 ""
+ningxia_province_state:0 "§YNingxia Province§!"
+ningxia_province_state_desc:0 ""
+fengtian_province_state:0 "§YFengtian Province§!"
+fengtian_province_state_desc:0 ""
+jilin_province_state:0 "§YJilin Province§!"
+jilin_province_state_desc:0 ""
+heilongjiang_province_state:0 "§YHeilongjiang Province§!"
+heilongjiang_province_state_desc:0 ""
+taiwan_province_state:0 "§YTaiwan Province§!"
+taiwan_province_state_desc:0 ""
+concession_province_state:0 "§YFormer Concession§!"
+concession_province_state_desc:0 ""
+mongolia_province_state:0 "§YMongolia§!"
+mongolia_province_state_desc:0 ""
+xinjiang_province_state:0 "§YXinjiang Province§!"
+xinjiang_province_state_desc:0 ""
+tibet_province_state:0 "§YTibet Province§!"
+tibet_province_state_desc:0 ""
+
