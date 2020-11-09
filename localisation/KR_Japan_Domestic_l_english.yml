@@ -43,7 +43,7 @@ JAP_national_populist_party_long:0 "동방회"
 
 ### Leaders ###
 POLITICS_HIROHITO_DESC:0 "다이쇼 천황의 사망 이후 2,500년 역사의 신성한 일본의 옥좌에 앉게 된 히로히토 천황은, 국가원수로서의 지위뿐 아니라 정신적으로 일본 바로 그 자체를 상징합니다. 군국주의자들 그리고 부활한 좌파들이 모두 급성장함에 따라 일본 내의 혼란이 심화되어가는 와중에도 천황은 계속 침묵만을 지켜왔으며 그의 역할은 불확실하고 불분명합니다. 하지만 언제라도 천황이 움직이기 시작한다면, 어느 쪽이든 그것은 의심할 여지없이 결정적일 것입니다."
-POLITICS_KANSON_ARAHATA_DESC:0 "일본의 정치 체제는 격변했고, 아라하타 간손이 일본 연방의 초대 의장으로 취임했습니다. 적기 사건으로 체포당했던 간손은 본인이 사회주의자임을 숨긴 채로 좌파 운동가들을 위한 사회주의 지하결사를 이끌어왔습니다. 현재 그는 급진좌파들이 구 제국 인사들에게 자행하는 폭력의 배후로 의심받고 있습니다."
+POLITICS_ARAHATA_KANSON_DESC:0 "일본의 정치 체제는 격변했고, 아라하타 간손이 일본 연방의 초대 의장으로 취임했습니다. 적기 사건으로 체포당했던 간손은 본인이 사회주의자임을 숨긴 채로 좌파 운동가들을 위한 사회주의 지하결사를 이끌어왔습니다. 현재 그는 급진좌파들이 구 제국 인사들에게 자행하는 폭력의 배후로 의심받고 있습니다."
 
 ### Ideas ###
 JAP_narrow_rail:0 "협궤철도"
@@ -162,8 +162,8 @@ JAP_food_shipments_cut:0 "§Y[JAP.GetNameDef]§!에 대한 식량 원조를 즉�
 JAP_BUR_TRAIN_tt:0 "Add maximum §YInfrastructure§! in §YKanto§!, §YChugoku§!, §YKansai§! and §YTokai§!"
 
 ### Decisions ###
-JAP_part_one_land_reform:0 "Has completed decision £decision_icon_small §HInitial Land Reform§!"
-JAP_part_two_land_reform:0 "Has completed decision £decision_icon_small §HContinued Land Reform§!"
+JAP_part_one_land_reform:0 "Has completed decision £decision_icon_small §H$JAP_land_reform_1$§!"
+JAP_part_two_land_reform:0 "Has completed decision £decision_icon_small §H$JAP_land_reform_2$§!"
 
 JAP_land_reform:0 "토지개혁"
 JAP_land_reform_desc:0 "토지개혁은 일본 정계에서 근 70년동안 계속되어온 문제입니다. 우리 이전에도 이 문제를 해결하려 시도한 많은 이들이 있었고, 우리가 해결하지 못한다면 우리 뒷세대 역시 같은 문제를 겪을 것입니다. 시간과 노력을 많이 투입할수록 노력의 결실이 맺힐 가능성은 높아질 것이나, 언제 계획의 종료를 선언할지는 우리 마음대로 입니다...\n\n토지 개혁 진행도: [?JAP.JAP_land_reform_variable|H0]."
@@ -285,7 +285,7 @@ JAP_NAT_IND_desc:0 "재벌의 해체와 국유화 이후, 우리는 일본의 �
 JAP_BUR_ECO_1:0 "관료주의 경제"
 JAP_BUR_ECO_1_desc:0 "The government decided to reform the economy to be regulated by a bureaucratic structure. It is designed to limit the Zaibatsu's power and increase benefits for the state."
 JAP_BUR_CAR_1:0 "외국 자동차 회사 합병"
-JAP_BUR_CAR_1_desc:0 "일본의 자동차 시장은 항상 미국 자동차 제조사에 의해 지배되어 큰 적자를 발생시켰습니다. 제2차남북전쟁이 일어나고 많은 미국의 기업들이 파산했습니다. 이에 일본의 공장들은 모회사와의 연락이 끊어졌으며, 그들의 조립 라인을 위한 부품을 얻으려고 분투하였습니다. MITI의 관료들은 지금을 이 공장들을 통합시킬 수 있는 중요한 기회로 보고 있습니다."
+JAP_BUR_CAR_1_desc:0 "일본의 자동차 시장은 항상 미국 자동차 제조사에 의해 지배되어 큰 적자를 발생시켰습니다. When the Second American Civil War broke out many American companies and knock-down plants in Japan lost contact with their parent companies, giving MITI bureaucrats a prime opportunity to assimilate those factories. Even when the Second American Civil War ends, it will be decades before they will be able to compete again."
 JAP_BUR_CAR_2:0 "자동차 산업 규제"
 JAP_BUR_CAR_2_desc:0 "1920년대와 1930년대 일본의 국내 자동차 산업은 세계 시장에서 경쟁하기에는 너무 작았습니다. 국내 기업이 거대한 서구국가의 산업과 경쟁할 수 있도록, 우리는 다수의 소규모의 자동차 기업들이 몇 개의 대기업으로 합병되도록 강요할 수 있습니다."
 JAP_BUR_RESOURCES:0 "재편된 자원 추출"

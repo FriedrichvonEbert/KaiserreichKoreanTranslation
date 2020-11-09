@@ -254,8 +254,8 @@ FNG_Raise_the_Baoding_Cadet_Corps_desc:0 "젊은 보정군관학교 생도들은
 
 FNG_Centralise_the_Banks:0 "은행 중앙화"
 FNG_Centralise_the_Banks_desc:0 "봉천은 현재 4개의 지폐 발권 은행이 있는데 동부3성 은행, 지린 은행, 헤이룽장 은행과 프론티어 은행으로 이들은 모두 과거 은행 중앙화의 노력에 대한 결과물들입니다. 이제 계획을 완료하고 이 은행들을 모두 한개의 중앙은행으로 통합해야합니다."
-FNG_Re-Introduce_the_Fengtian_Dollar:0 "봉천달러 재도입"
-FNG_Re-Introduce_the_Fengtian_Dollar_desc:0 "봉천달러는 전임 민간관료 왕융장이 임기말 시도했던 정책들 중 하나인데, 은본위가 아니면서 세금을 납부할때 쓸 수 있었고 이는 정부의 신용을 보증함과 동시에 발행하기 위해 은이 필요하지도 않았습니다. 지난 직봉전쟁과 그 이후의 인플레이션동안 정부의 막대한 지출로 이 화폐 계획은 무산되었지만, 이 화폐의 유용함은 추가적인 투자를 유치하는데에 큰 도움이 될겁니다."
+FNG_Re_Introduce_the_Fengtian_Dollar:0 "봉천달러 재도입"
+FNG_Re_Introduce_the_Fengtian_Dollar_desc:0 "봉천달러는 전임 민간관료 왕융장이 임기말 시도했던 정책들 중 하나인데, 은본위가 아니면서 세금을 납부할때 쓸 수 있었고 이는 정부의 신용을 보증함과 동시에 발행하기 위해 은이 필요하지도 않았습니다. 지난 직봉전쟁과 그 이후의 인플레이션동안 정부의 막대한 지출로 이 화폐 계획은 무산되었지만, 이 화폐의 유용함은 추가적인 투자를 유치하는데에 큰 도움이 될겁니다."
 FNG_Fill_the_Silver_Reserve:0 "은 비축량 최대화"
 FNG_Fill_the_Silver_Reserve_desc:0 "우리의 주요 통화인 봉천 위안화는 은을 본위로 하는 화폐로, 과거에는 일본 엔화와 비교해도 꿀릴게 없을 수준으로 가치 있는 화폐였습니다. 다만 이는 우리의 은이 충분하지 않는다는 일본의 주장과 맞부닥치게 됐고 안타깝긴 하지만 어느정도 사실이므로, 투자를 유치하기 위해선 은을 비축해야만 합니다."
 FNG_Encourage_Chinese_Investment:0 "중국인 투자 장려"
@@ -304,9 +304,9 @@ FNG_Shanhaiguan_Infiltration_desc:0 "[QIE.GetAdjective]-봉천 국경지대의 �
 FNG_Escalate_the_Propaganda_War:0 "선전전 확대"
 FNG_Escalate_the_Propaganda_War_desc:0 "우리는 지난 8년간 [QIE.GetAdjective](을)를 상대로 가끔씩 선전전을 벌여왔습니다. 이제 우리의 목소리를 더 크게하고 영향력을 더욱 넓혀야 할 때입니다!"
 FNG_The_Grand_Marshals_Proclamation:0 "대원수의 선언"
-FNG_The_Grand_Marshals_Proclamation_desc:0 "대원수는 대선언문을 통해 서구 제국주의자들의 지원을 받는 [QIE.GetAdjective]의 불법성을 천명하고, 난세의 시기를 끝내겠다는 선포를 했습니다. 새 시대, 혁명의 이상이 이끌어가는 새로운 시대에는 중국 재수복과 국가적 영광이 있을 것입니다!"
+FNG_The_Grand_Marshals_Proclamation_desc:0 "The Grand Marshal will, in a grand proclamation, denounce the illegitimacy of [CHN.GetNameDef] and its [GetBeijingGovernmentIdeology], and declare the end of an era of reconstruction and preparation. 새 시대, 혁명의 이상이 이끌어가는 새로운 시대에는 중국 재수복과 국가적 영광이 있을 것입니다!"
 FNG_Begin_the_War_of_National_Reclamation:0 "국가재수복전쟁의 시작"
-FNG_Begin_the_War_of_National_Reclamation_desc:0 "때가 왔습니다. 힘을 기르고 우리의 시간을 기다린 끝에, 국가재수복전쟁을 선포할 때가 왔습니다! 공화국 만세! 대원수 만세! 통일된 중국 위하여 전진 앞으로!"
+FNG_Begin_the_War_of_National_Reclamation_desc:0 "The moment has come, after so long spent building our strength and biding our time, to declare the start of the War of National Reclamation! 공화국 만세! 대원수 만세! 통일된 중국 위하여 전진 앞으로!"
 FNG_Retake_Chahar:0 "내몽골 수복"
 FNG_Retake_Chahar_desc:0 "지난 내전의 끝무렵, 국경 지역인 차하르의 몽골인 인구가 증가하였고, 우르가의 복드 칸에게 무력으로 점령당했습니다. 우리는 이곳과 중국의 일부인 내몽골 전체를 되찾아야 하지만, 내몽골은 대부분 황무지고 우리의 주 관심사는 남쪽입니다. 아마 땅을 회복할 적당할 때가 있을 겁니다."
 FNG_Denouncing_German_Influence:0 "카이저의 꼭두각시 규탄"
@@ -370,9 +370,9 @@ fengtian_dollar_reintroduced:0 "봉천 달러를 재정했습니다."
 reserve_full:0 "은 비축이 끝났습니다."
 banks_centralized:0 "은행을 중앙화했습니다."
 
-Jilin-Hailong_complete:0 "지린-하이롱선 철도 완공"
-Changchun-Dalai_complete:0 "창춘-다이라이선 완공"
-Taonan-Suolun_complete:0 "타오난-쒀룬선 완공"
+FNG_Jilin_Hailong_complete:0 "지린-하이롱선 철도 완공"
+FNG_Changchun_Dalai_complete:0 "창춘-다이라이선 완공"
+FNG_Taonan_Suolun_complete:0 "타오난-쒀룬선 완공"
 
 FNG_minsheng_manufactured:0 "§Y민생 트럭 군용화§!가 끝났습니다.\n"
 FNG_sold_anshan_mines:0 "§Y안샨철강§!을 만철에게 매각했습니다."
@@ -526,6 +526,9 @@ FNG_merchants_wait:0 "§GThis decision can be returned to later without any nega
 FNG_clear_state_modifiers:0 "§GThis decision will create an opportunity to clear negative modifiers in Shenyang.§!\n"
 
 FNG_ma_zhanshan_reinstated:0 "§YMa Zhanshan§! will be reinstated as a §YGeneral§!.\n"
+
+FNG_conference_will_begin:0 "The §HNational Unification Conference§! will begin!."
+FNG_QIE_War:0 "We have been at war with §H[QIE.GetNameWithFlag]§H for more than one year" 
 
 #ships (include decisions names, decision category use loc from focus)
 FNG_JAP_destroyers:0 "구축함 주문"
@@ -1004,7 +1007,7 @@ fengtian.46.d:0 "몇달간의 고통 끝에, 한국과 일본의 가뭄이 끝�
 fengtian.46.a:0 "드디어!"
 #Hokkaido Farming
 fengtian.47.t:0 "만철의 제안"
-fengtian.47.d:0 "만철 조사부의 대표가 제안을 하나 했는데, 이 제안은 구미가 당기지만, 그와 그의 제안에 대해선 철저히 비밀에 붙여야 합니다. 1939년의 가뭄 이후, 만철은 몇몇 농업 전문가와 농업 단체의 고위 관리, 그리고 교수들을 초빙하여 우리의 농업 효율성과 생산량을 증대시키기 위한 계획을 구상했습니다. 몇달간의 실험 끝에, 몇몇 조사 팀들이 홋카이도에서 쓰인 농업 방식을 기반으로 한 해결책을 만들어 낼 수 있었는데, 이는 평범한 중국인 가구 하나가 어떠한 일손의 고용 없이도 10헥타르의 땅을 경작할 수 있게 해주는 것으로, 이를 통해 농업 생산량을 증대시키고 안샨, 푸순, 그리고 선양의 공장에 잉여 노동력을 제공케 할 수 있을 것입니다. 만철의 관료는 조심스레 이 농법이 책자와 일본인 전문가에게 교육받은 중국인 강사를 통해 보급되어야 하며, 이 농법이 만철과는 일절의 관계도 없어야 한다는 것을 강조하는 듯 했습니다.\n\n조사를 해본 결과, 군 정보부에서는 관동군이 불명확한 이유로 만철과 협력하는 것을 거부했으며, 이는 두 조직이 경쟁 관계에 있거나, 또는 일본의 치밀한 계략의 일부일 것이라고 추측하고 있습니다. 만철 조사부의 진보적인 임원들과 다른 관료들은 보수적인 관동군과 여러번 충돌을 일으켰다고 알려져 있습니다."
+fengtian.47.d:0 "만철 조사부의 대표가 제안을 하나 했는데, 이 제안은 구미가 당기지만, 그와 그의 제안에 대해선 철저히 비밀에 붙여야 합니다. Apparently, following the Drought of 1939, Mantetsu brought together farming experts, senior officials from agricultural organisations, and academic scholars with the aim of improving agricultural efficiency and production in the Northeast. 몇달간의 실험 끝에, 몇몇 조사 팀들이 홋카이도에서 쓰인 농업 방식을 기반으로 한 해결책을 만들어 낼 수 있었는데, 이는 평범한 중국인 가구 하나가 어떠한 일손의 고용 없이도 10헥타르의 땅을 경작할 수 있게 해주는 것으로, 이를 통해 농업 생산량을 증대시키고 안샨, 푸순, 그리고 선양의 공장에 잉여 노동력을 제공케 할 수 있을 것입니다. 만철의 관료는 조심스레 이 농법이 책자와 일본인 전문가에게 교육받은 중국인 강사를 통해 보급되어야 하며, 이 농법이 만철과는 일절의 관계도 없어야 한다는 것을 강조하는 듯 했습니다.\n\n조사를 해본 결과, 군 정보부에서는 관동군이 불명확한 이유로 만철과 협력하는 것을 거부했으며, 이는 두 조직이 경쟁 관계에 있거나, 또는 일본의 치밀한 계략의 일부일 것이라고 추측하고 있습니다. 만철 조사부의 진보적인 임원들과 다른 관료들은 보수적인 관동군과 여러번 충돌을 일으켰다고 알려져 있습니다."
 fengtian.47.a:0 "제안을 받아들이지."
 fengtian.47.b:0 "제안을 거절한다."
 
@@ -1013,20 +1016,20 @@ fengtian.48.d:0 "긴 시간과 노력의 끝에, 만철이 제안했던 홋카�
 fengtian.48.a:0 "완벽하군."
 
 fengtian.49.t:0 "발각"
-fengtian.49.d:0 "우리와 만철 모두 이를 알리지 않았지만, 만철 조사부가 관동군이 우리의 농업 협력을 밝혀냈다고 알려왔으며, 우리 정보부가 알아낸 사실이 이 주장이 진짜임을 뒷받침합니다. 우에다 겐키치 관동군 사령관이 직접 만철의 사장 마쓰오카 요스케의 집무실에 들이닥쳐 역정내며 봉천이 일본의 원조에 의존해야 한다는 말을 쏟아 냈습니다. 만철은 자율적이고 거대한 회사임으로 관동군이 만철을 처벌할 순 없지만, 이번 일에 관련된 자들 모두를 힘들게 할 것이라는 것엔 반론의 여지가 없습니다. 불행히도, 이 일을 끝으로 만철과의 특별한 협력은 더 이상 없을 듯 합니다."
+fengtian.49.d:0 "Although no public announcement has been made, Mantetsu's research wing has communicated that the Kwantung Army discovered our collaborative farming effort, a claim backed up by findings from our intelligence services. General Kekichi Ueda himself is said to have stormed into the office of the Mantetsu president, Yosuke Matsuoka, and delivered a thunderous verbal barrage regarding the necessity of Fengtian's continued state of dependence. The Kwantung Army's ability to punish Mantetsu is ultimately limited, as the powerful company is practically autonomous, but there's little doubt that the Army will go out of its way to make things difficult for everyone involved. Unfortunately, this will certainly be the end of this specific collaboration project with Mantetsu."
 fengtian.49.a:0 "유감이군."
 
 fengtian.50.t:0 "발각"
-fengtian.50.d:0 "농촌 재건 운동의 주도자 제임스 옌 박사가 오늘 봉천에 홋카이도 농법을 도입하기 위해 우리가 만철과 협력했다는 사실을 폭로했는데, 그러면서 '중국은 스스로 개혁해야' 하며 '협력을 위장한 강제적 구조조정'에 굴복하지 않겠다고 선언했습니다. 중국인들의 눈에 비친 우리의 정통성은 이 사건으로 인해 매우 부정적인 영향을 끼치게 될 것입니다. 몇몇 장관들은 우리의 협력 사실을 인정하는 대신, 우리가 만철을 통제하고 있다는 하나의 예로 써서 이 논란을 잠재우자고 제안했습니다. 그 외의 관료들은 이 변명이 불에 기름을 붓는 격이라고 얘기하고 있습니다."
+fengtian.50.d:0 "Although no public statement has been made, the recent signs of discontent within portions of the army leadership have become difficult to ignore. Apparently word of our farming collaboration project with Mantetsu has spread further than we anticipated, and according to some nationalistically inclined generals, 'China must reform itself' and not submit to 'forced restructuring disguised as collaborative reform'.\n\nAlthough this is far from a major crisis, any threat to the continued cooperation of our generals and other officials is no laughing matter. Some ministers suggest that we might defend our collaboration, painting it as an instance in which we are able to manipulate Mantetsu, instead of the other way around. Others suggest that this may simply dig our hole deeper."
 fengtian.50.a:0 "사실대로 털어놓자."
 fengtian.50.b:0 "우리는 정당한 결정을 했다!"
 
 fengtian.51.t:0 "여론이 우리쪽으로 기울다"
-fengtian.51.d:0 "모든 역경을 이겨내고, 정부의 홋카이도 농법 계획에 대한 변명은 옌 박사뿐 아니라 대중들을 설득시킨 것 같습니다. 논란이 가라 앉았으며, 계획은 차질없이 진행 할 수 있습니다."
+fengtian.51.d:0 "Against what seemed to be all odds, Grand Marshal Zhang's defence of the Hokkaido farming project seems to have convinced all those concerned. The impact has been mitigated, and the programme can continue uninterrupted."
 fengtian.51.a:0 "기쁜 소식이야!"
 
 fengtian.52.t:0 "여론이 분노하다!"
-fengtian.52.d:0 "최선의 노력을 다했음에도 불구하고, 옌 박사와 대중은 홋카이도 농법 계획에 관한 우리의 변명에 설득되지 않은 것 같습니다. 그 결과로, 협력 계획은 수포로 돌아갈 것이고, 정부의 신뢰도는 땅에 떨어졌습니다."
+fengtian.52.d:0 "Despite our bureaucrat's best efforts, and even those of Grand Marshal Zhang, many prominent figures in the military remain unconvinced that the Hokkaido Farming Project is worth our while. As a result, the programme will almost certainly grind to a halt, and our divided government faces yet another point of contention."
 fengtian.52.a:0 "이런 젠장!"
 
 #Focus Tree Specific Events
@@ -1339,11 +1342,12 @@ fengtian.116.d:0 "'일본산업신문' 이라는 뜻의 닛폰 코교 심분에�
 fengtian.116.a:0 "이런 수치가!"
 
 fengtian.117.t:0 "훙후쯔가 헤이룽장을 공격하다"
-fengtian.117.d:0 "'붉은 수염'으로 번역되는 훙후쯔는 오랫동안 동북을 괴롭혀온 도적떼와 강도들입니다. 지난 전쟁 이후로 대원수가 가져온 평화와 중앙집권화 작업으로 숫자가 크게 줄기는 했지만, 이후에도 몇년간 공격이 끊이지 않았습니다. 지금 헤이룽장 남부 지역의 농가 몇 가구가 그들에게 습격당했고 거주민의 귀중품을 약탈해 갔습니다.\n\n일각에서는 도적떼를 일망타진하기 위해 근거지로 원정을 나가야 한다고 제안했지만, 다른 이들은 그런 임무는 중앙 정부가 신경쓸 거리가 아니며 시간과 노력을 들일 가치가 거의 없다고 주장합니다."
-fengtian.117.d_Ma:0 "'붉은 수염'으로 번역되는 훙후쯔는 오랫동안 동북을 괴롭혀온 도적떼와 강도들입니다. 지난 전쟁 이후로 대원수가 가져온 평화와 중앙집권화 작업으로 숫자가 크게 줄기는 했지만, 이후에도 몇년간 공격이 끊이지 않았습니다. 지금 헤이룽장 남부 지역의 농가 몇 가구가 그들에게 습격당했고 거주민의 귀중품을 약탈해 갔습니다.\n\n일각에서는 도적떼를 일망타진하기 위해 근거지로 원정을 나가야 한다고 제안했지만, 다른 이들은 그런 임무는 중앙 정부가 신경쓸 거리가 아니며 시간과 노력을 들일 가치가 거의 없다고 주장합니다. 한편 한때 도적질에 참가했던 전적이 있는 마잔산 안보부 장관이 직접 이번 임무를 지휘하겠다고 나섰습니다."
+fengtian.117.d:0 "'붉은 수염'으로 번역되는 훙후쯔는 오랫동안 동북을 괴롭혀온 도적떼와 강도들입니다. 지난 전쟁 이후로 대원수가 가져온 평화 운동으로 숫자가 크게 줄기는 했지만, 이후에도 몇년간 공격이 끊이지 않았습니다. 지금 헤이룽장 남부 지역의 농가 몇 가구가 그들에게 습격당했고 거주민의 귀중품을 약탈해 갔습니다.\n\n일각에서는 도적떼를 일망타진하기 위해 근거지로 원정을 나가야 한다고 제안했지만, 다른 이들은 그런 임무는 중앙 정부가 신경쓸 거리가 아니며 시간과 노력을 들일 가치가 거의 없다고 주장합니다.\n\nWe could also ask the Japanese for help, though this idea is unpopular."
+fengtian.117.d_Ma:0 "'붉은 수염'으로 번역되는 훙후쯔는 오랫동안 동북을 괴롭혀온 도적떼와 강도들입니다. 지난 전쟁 이후로 대원수가 가져온 평화 운동으로 숫자가 크게 줄기는 했지만, 이후에도 몇년간 공격이 끊이지 않았습니다. 지금 헤이룽장 남부 지역의 농가 몇 가구가 그들에게 습격당했고 거주민의 귀중품을 약탈해 갔습니다.\n\n일각에서는 도적떼를 일망타진하기 위해 근거지로 원정을 나가야 한다고 제안했지만, 다른 이들은 그런 임무는 중앙 정부가 신경쓸 거리가 아니며 시간과 노력을 들일 가치가 거의 없다고 주장합니다. Minister of Security Ma Zhanshan, a former bandit and longing to get into the field, has offered to lead the mission personally.\n\nWe could also ask the Japanese for help, though this idea is unpopular."
 fengtian.117.a:0 "원정은 헛걸음일 거다."
 fengtian.117.b:0 "원정대를 보내라."
 fengtian.117.c:0 "마잔산이 원정대를 지휘할 것이다."
+fengtian.117.d:0 "Ask the Japanese."
 
 fengtian.118.t:0 "훙후쯔가 싱안을 공격하다"
 fengtian.118.d:0 "훙후쯔를 진압하려는 노력에도 불구하고 저들은 또 다시 공격을 감행했습니다. 이번에는 싱안이고 주요 도로를 따라서 여러 농부와 상인이 습격당했습니다. 지역 총독이 또 다른 급습을 막기 위해 방위대를 주둔시키기는 했지만, 험준한 지형과 색출해내기 힘들다는 도적떼 특유의 성질로 인해 다른 지역에서 습격이 일어날지도 모릅니다."
@@ -1440,7 +1444,7 @@ fengtian.139.b:0 "작은 성공이 승리로 가는 지름길이로다!"
 
 fengtian.140.t_1:0 "백란의 노래"
 fengtian.140.t_2:0 "공포의 이"
-fengtian.140.d_1:0 "처음 영화를 개봉한 이후 만철 영화협회는 영화 몇 편을 더 개봉했습니다. 각 영화들은 어느 정도 인기를 끌었고, 일반적으로 당시 정서를 따라갔습니다. 하지만 최근에 개봉한 영화 '백란의 노래'는 그 중에서도 특히 주목할 만한 인기를 끌었습니다.\n\n이 작품은 한 일본인 남자(하세가와 카즈오 분)와 한 중국인 여자(리샹란 분) 사이의 로맨틱한 관계를 그립니다. 리샹란은 오해에 빠져 애인을 떠나고 남만주 철도 사보타주 음모를 꾸미는 도적단에 가담합니다. 이후 그녀는 자신의 오해가 [QIE.GetAdjective] 스파이의 조작이었다는 사실을 깨닫게 되고, 하세가와에 대한 신뢰를 회복해 음모를 약화시킵니다. 두 주인공 모두가 각자 출신국에 대한 분명한 은유로 보인다는 우려가 제기되기는 했지만, 반 [QIE.GetAdjective] 선전에 있어서 가치가 확실히 뛰어나며, 주제곡도 굉장히 매력적입니다..."
+fengtian.140.d_1:0 "처음 영화를 개봉한 이후 만철 영화협회는 영화 몇 편을 더 개봉했습니다. 각 영화들은 어느 정도 인기를 끌었고, 일반적으로 당시 정서를 따라갔습니다. 하지만 최근에 개봉한 영화 '백란의 노래'는 그 중에서도 특히 주목할 만한 인기를 끌었습니다.\n\n이 작품은 한 일본인 남자(하세가와 카즈오 분)와 한 중국인 여자(리샹란 분) 사이의 로맨틱한 관계를 그립니다. 리샹란은 오해에 빠져 애인을 떠나고 남만주 철도 사보타주 음모를 꾸미는 도적단에 가담합니다. 이후 그녀는 자신의 오해가 [QIE.GetAdjective] 스파이의 조작이었다는 사실을 깨닫게 되고, 하세가와에 대한 신뢰를 회복해 만주의 음모를 약화시킵니다. 두 주인공 모두가 각자 출신국에 대한 분명한 은유로 보인다는 우려가 제기되기는 했지만, 반 [QIE.GetAdjective] 선전에 있어서 가치가 확실히 뛰어나며, 주제곡도 굉장히 매력적입니다..."
 fengtian.140.d_2:0 "처음 영화를 개봉한 이후 만철 영화협회는 영화 몇 편을 더 개봉했습니다. 각 영화들은 어느 정도 인기를 끌었고, 일반적으로 당시 정서를 따라갔습니다. 하지만 최근에 개봉한 영화 '공포의 이'는 그 중에서도 특히 주목할 만한 인기를 끌었습니다.\n\n이 작품은 현미경 관찰법과 '충격적인' 스톱모션 애니메이션을 활용해 이의 모습을 표현하면서 과학적이고 위생적인 교훈을 보여줍니다. 일부 관람객들은 영화에서 나오는 이가 '화면에서 튀어나오는듯 했다'고 표현했습니다. 처음 극장에서 공포를 경험한 관객들과는 별개로 전체적인 메세지는 모용적이며, 습관적으로 더럽고 항상 이가 기생하는 중국인이라는 일본인이 바라보는 모습을 그립니다. 그 결과 평론은 상당히 부정적입니다. 정부가 제작 과정에서 보다 적극적인 역할을 맡았다면 이런 상황까지는 오지 않았으리라는 의문이 제기되었습니다."
 fengtian.140.a:0 "좋아."
 fengtian.140.b:0 "나는 이를 무서워하지 않아!"
@@ -1575,6 +1579,8 @@ fengtian.167.t:0 "마잔산이 투항을 제안하다!"
 fengtian.167.d:0 "[From.GetNameDef]측의 마잔산 장군은 한때 자신과 장쭤린이 가까운 관계였지만, 대원수의 정치적 실책에 불만을 느낀다고 말하며 기병 전령을 통해 투항을 제안했습니다. 잔산은 뛰어난 장군이라는 평판을 가지고 있지만, 최고의 사격술을 습득하기 위해 훈련하며 대부분의 시간을 보내는 괴짜라고 알려져 있기도 합니다. 이건 아마도 그가 북동부 평원을 배회하면서 보낸 과거에 든 버릇일 것입니다.\n\n예전에 도적단이었던 저들이 요구하는 바는 모든 부하들을 무장시킬 만한 최신 장비와 300만달러에 해당하는 금괴입니다."
 fengtian.167.a:0 "능력있는 장수를 영입하기 위한 대가라면 싼 편이지."
 fengtian.167.b:0 "투항자라고? 그런 쓰레기는 필요 없다!"
+
+FNG_ma_zhanshan_equipment_tooltip:0 "§H1.00K§! units of [Root.GetAdjective] §HInfantry Equipment§! will be removed from the national stockpile."
 
 fengtian.168.t:0 "마잔신이 [From.GetNameDef]로 투항하다!"
 fengtian.168.d:0 "알 수 없는 이유로 마잔산이 갑자기 삼백만 달러 상당의 금을 받는 대가로 [From.GetNameDef]측에 일만명의 병사들을 이끌고 투항했습니다. 마잔산은 예로부터 대원수와 오랜 친분 관계를 다져왔기 때문에 이번 행보는 상당히 경악을 불러일으켰습니다. 벌써 마잔산의 이전 라이벌들은 이번 사건이 그가 과거에 도적떼였기 때문이었다고 주장하고 있습니다."
@@ -1835,7 +1841,7 @@ fengtian.225.d3:0 "The Left Kuomintang have been successfully defeated. While th
 fengtian.225.a:0 "Think of a solution"
 fengtian.225.b:0 "Let them fight it out"
 
-fengtian.226.t:0 "Solution to the Conflict" 
+fengtian.226.t:0 "A Solution to the Conflict" 
 fengtian.226.d1:0 "To us, it would be preferable if Zhang Zongchang would simply back down and let Chen control all the Five Provinces. This would save us a lot of trouble. However, with Zhang you can never be sure how he'll respond and forcing him to back down might lead to him doing what he wants regardless. Of course, he could also be scared of our military might and just agree. We will have to think this through carefully."
 fengtian.226.d2:0 "With both Zhang and Chen currently unhappy, the problem becomes hard to solve. We could force either to back down and let the other have what they want, but that could end very badly. Most likely, we will have to come up with a compromise."
 fengtian.226.d3:0 "It would be preferable if Chen Tiaoyuan just backs down and leaves Jiangsu to Zhang. This would most likely solve the issue. However, Chen is a proud man and sees his Anqing Clique as the true successor of the League, which necessarily contains all the Five Provinces, which includes Jiangsu. His victories and popular support mean it is unlikely he will simply relent. We will have to take a look at engineering a compromise."
@@ -1843,17 +1849,17 @@ fengtian.226.a:0 "Force Zhang to back down"
 fengtian.226.b:0 "Force Chen to back down"
 fengtian.226.c:0 "Come up with a compromise"
 
-fengtian.227.t:0 "Compromise Solution" 
+fengtian.227.t:0 "A Compromise Solution" 
 fengtian.227.d:0 "It is clear that Chen will not relent unless he can at least call himself master of Jiangsu (Xuhai, Huaiyang, Nantong) in some way. Zhang will also never be happy with being stuck with only Shandong. This means that we will have to split Jiangsu, one way or another. One possibility is to simply split the western Xuhai region, which would go to Zhang, from the eastern Huaiyang region, with the latter including Nantong and going to Chen. It is unlikely Chen will see this as sufficient as the province was ruled from Xuzhou, which is also where the province's most important railroads meet. Another possibility is to separate economic from political control. In this scenario, one would officially run Jiangsu's government, which would of course have to be led by at least a somewhat independent governor. Then the other would be allowed to nominate a lieutenant governor, who would have control over all the province's resources and be allowed to levy taxes and conduct recruitment among other things."
 fengtian.227.a:0 "Split Jiangsu between them"
 fengtian.227.b:0 "Chen gets Jiangsu, exploitation rights to Zhang"
 fengtian.227.c:0 "Zhang gets Jiangsu, exploitation rights to Chen"
 
-fengtian.228.t:0 "Fengtian Forces Us to Back Down!" 
+fengtian.228.t:0 "Fengtian Forces us to Back Down!" 
 fengtian.228.d:0 "The Fengtian government has said that our uncompromising attitude is the reason that no deal has been made. They say the only solution is that we back down and withdraw all our demands, otherwise they would have to seriously consider military action. This is of course outrageous and nothing like a proper permanent solution. We will have to call their bluff."
 fengtian.228.a:0 "Call their bluff"
 
-fengtian.229.t:0 "Fengtian Presents Compromise" 
+fengtian.229.t:0 "Fengtian Presents a Compromise" 
 fengtian.229.d1split:0 "The Fengtian government, in an effort to solve our problem with Shandong, has proposed a compromise. They say that by splitting the province of Jiangsu, we will both get something of value. We would get Huaiyang, including Nantong. Of course we cannot accept this, as Xuhai is the heart of Jiangsu, with the city of Xuzhou an important railway hub. We cannot accept giving a way a part of the Five Provinces! Fengtian has utterly failed to defuse the situation."
 fengtian.229.d1specrzhang:0 "The Fengtian government, in an effort to solve our problem with Shandong, has proposed a compromise. They say that we will control the province politically. We would have to appoint a somewhat independent governor as a sign of goodwill towards Shandong. In exchange, Zhang would get economic control over the province, meaning he is allowed to levy taxes and conduct recruitment. This means we can plausibly say we control all of the Five Provinces. Allowing Zhang this economic control is a small price to pay for peace, especially if it makes Fengtian, our benfactor, happy."
 fengtian.229.d1specrchen:0 "The Fengtian government, in an effort to solve our problem with Shandong, has proposed a compromise. They say that we would have allow political control to be in Zhang's hands, who would appoint a somewhat independent governor as a sign of goodwill. In exchange, we would get economic control over the province, which includes levying taxes. While this is nice, it would mean that on all maps, it would be Zhang that holds Jiangsu. We would be giving a way an integral part of our territory, one of the Five Provinces. This is unacceptable!"
@@ -1874,15 +1880,15 @@ fengtian.231.d1:0 "Shandong was forced to back down by Fengtian, but instead cal
 fengtian.231.d2:0 "Anqing was forced to back down by Fengtian, but instead called their bluff, with Fengtian deciding it was time to intervene."
 fengtian.231.a:0 "War it is, then"
 
-fengtian.232.t:0 "Compromise Breaks Apart" #other rejects
+fengtian.232.t:0 "The Compromise Breaks Apart" #other rejects
 fengtian.232.d:0 "Through refusal by one of the parties, the compromise that Fengtian proposed has not been accepted. Diplomacy has been ceased and our enemy mobilises. It seems like Fengtian wasn't so good a mediator, after all."
 fengtian.232.a:0 "War it is, then"
 
-fengtian.233.t:0 "Compromise Accepted" 
+fengtian.233.t:0 "The Compromise is Accepted" 
 fengtian.233.d:0 "The compromise engineered by Fengtian, which involves political control lying in the hands of Chen's Anqing Clique and economic control belonging to Zhang, has been accepted by all parties. This means that Shandong and Anqing can now move on as allies under Fengtian protection."
 fengtian.233.a:0 "Great news."
 
-fengtian.234.t:0 "Compromise Rejected" 
+fengtian.234.t:0 "The Compromise is Rejected" 
 fengtian.234.d1:0 "Unfortunately, the compormise has been rejected. Shandong has not accepted the compormise, meaning that it is of no use. Anqing did accept, however, but we needed both parties to agree if we wanted it to work. This means that our allies, Shandong and Anqing, will surely go to war. We can decide to support one of the two, or just wait it out."
 fengtian.234.d2:0 "Unfortunately, the compormise has been rejected. Anqing has not accepted the compormise, meaning that it is of no use. Shandong did accept, however, but we needed both parties to agree if we wanted it to work. This means that our allies, Shandong and Anqing, will surely go to war. We can decide to support one of the two, or just wait it out. "
 fengtian.234.d3:0 "Unfortunately, the compormise has been rejected. Shandong and Anqing both refused the compormise, making it completely useless. This means that our allies, Shandong and Anqing, will surely go to war. We can decide to support one of the two, or just wait it out."
@@ -1902,7 +1908,7 @@ fengtian.237.t:0 "Fengtian Removes Itself"
 fengtian.237.d:0 "The Fengtian government has notified our government that they will not be supporting either side in the conflict between Anqing and Shandong, meaning we stand on our own. Of course, our enemy also stands alone."
 fengtian.237.a:0 "Very well."
 
-fengtian.239.t:0 "Anqing Has Won!"
+fengtian.239.t:0 "Anqing has Won!"
 fengtian.239.d:0 "The Anqing Clique, which we supported during their war with the League and later Kuomintang and other warlords, have emerged victorious and united the Five Provinces. This is very good news, as this means we now have a very powerful ally lying to the south of our enemy! We will have to immediately think how we will use this advantage."
 fengtian.239.a:0 "Good news"
 
@@ -1944,7 +1950,7 @@ fengtian.247.t:0 "Anqing Annexes Shandong"
 fengtian.247.d:0 "Originally, we had agreed with Anqing that they would temporarily control Shandong until the start of the Reclamation War, as they had no proper claim to it and recognized us as the national government. Now that this is no longer the case, Chen Tiaoyuan of Anqing has decided to assume full control over Shandong and make it part of his League. This means the territory is unavailable to us."
 fengtian.247.a:0 "Bad news."
 
-fengtian.251.t:0 "Acceptance of Women Suffrage"
+fengtian.251.t:0 "Acceptance of Women's Suffrage"
 fengtian.251.d:0 "The population has finally accepted the idea of Women being able to vote in local elections, which was quite controversial before, as it is a comparatively radical change considering China's very conservative society. Song Qingling has declared it a great victory for Women's rights in China, being the main reason [FNG.GetNameDef] implemented the policy in the first place."
 fengtian.251.a:0 "A victory for women, a victory for democracy"
 
@@ -1955,7 +1961,7 @@ fengtian.252.d_north_evac:0 "In a heinous attempt to stop the armies now sweepin
 fengtian.252.d_south_evac:0 "In a heinous attempt to stop the armies now sweeping their territory [QIE.GetNameDef] has done the unthinkable, and breached the Yellow River dikes near Zhengzhou. The ensuing wave of water rushed across Kaifeng, carrying with it whole villages and towns. Despite major evacuation efforts, thousands are thought to have been drowned, and the catastrophic destruction of farmland threatens starvation for many millions.\n\nFaced by this indelible tragedy, the people of China must see that the sooner [QIE.GetNameDef] are gone, the better."
 fengtian.252.a:0 "[QIE.GetLeader] is a monster!"
 
-fengtian.253.t:0 "Loyality of Workers Achieved"
+fengtian.253.t:0 "The Loyalty of Workers Achieved"
 fengtian.253.d:0 "The [FNG.GetName] has finally achieved its goal of destroying the influence of unions, by using various means like union busting, anti-union propaganda, aswell as increasing national control of key industry. The propaganda has instilled the belief that unions are just a way to divide this society, weakening us agaisnt the West, which most workers now finally believe in."
 fengtian.253.a:0 "Unions divide the country in the face of foreign imperialism!"
 

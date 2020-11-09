@@ -26,7 +26,7 @@ GEA_national_populist_party_long:0 "말라야 국가연맹"
 
 ### Custom Tech ###
 GEA_improved_field_hospitals:0 "발키리의 비행"
-GEA_Valkyrie_tech_effect:0 "§H발키리의 비행§! 활성화\n§H야전 병원\n      충원율: §G+20%§!\n      경험치 손실: §G-10%§!\n\n"
+GEA_Valkyrie_tech_effect:0 "§H$GEA_improved_field_hospitals$ 활성화\n야전 병원§!\n      충원율: §G+20%§!\n      경험치 손실: §G-10%§!\n\n"
 
 ### Tooltips ###
 GEA_valkyrie_tt:0 "§G발키리의 기행§! 전투로 인한 우리의 사상자 수를 크게 줄일 것입니다.\n"
@@ -65,8 +65,8 @@ GEA_Xiamen_locked:0 "- §R샤먼§!"
 GEA_Wenzhou_locked:0 "- §R원저우§!"
 GEA_Nantong_locked:0 "- §R난퉁§!"
 GEA_MAF_Advisors:0 "§C중앙아프리카§! 조언가들이 도착했습니다."
-GEA_shandong_german_collaboration_tooltip:0 "국민정신을 가지고 있습니다 §H독일 경제 협력§!"
-GEA_shandong_german_collaboration_tooltip_NOT:0 "국민정신을 가지고 있지 않습니다 §H독일 경제 협력§!"
+GEA_shandong_german_collaboration_tooltip:0 "§H$SQI_Tsingtau_Collaboration2$§! 국민정신을 가지고 있습니다"
+GEA_shandong_german_collaboration_tooltip_NOT:0 "§H$SQI_Tsingtau_Collaboration2$§! 국민정신을 가지고 있지 않습니다"
 
 ### Opinion Modifier ###
 LEP_refused_help_modifier:0 "저들이 우리의 도움을 거절했습니다!"
@@ -282,7 +282,7 @@ Ostasien.6.a:0 "전력을 다해 도적놈들을 쳐부숴라!"
 Ostasien.6.b:0 "인도차이나 전역에 계엄령을 선포하라!"
 
 Ostasien.7.t:0 "인도차이나의 비극" # FRA
-Ostasien.7.d:0 ""베트남! 베트남! 베트남! 남방의 우리 고향! 나는 옌-바이의 교수대 앞에서 열세 번의 외침을 들었다. 열세 명의 남자가, 교수대를 타고 불과 일이 미터 떨어진 곳에서 죽음을 앞두고 소리치고 있었다."\n\n— 프랑스 언론인 루이 루보는 옛 우리의 식민지이자 독일 식민주의의 극동 전초기지인 인도차이나에서 벌어진 독일의 잔혹한 탄압을 목격했습니다. 고인이 된 인도차이나의 혁명가 호치민의 절친한 친구인 자크 도리오 장군은 우리가 인도차이나 사태에 개입할 것을 주장했습니다. 세계대전이 끝났을 때, 수천 명의 인도차이나 학생들, 군인들, 노동자들은 프랑스에 머물면서 굳건한 혁명가가 되었습니다. 우리가 그들을 충분한 양의 무기들과 함께 돌려보내면, 그들은 코친차이나에서 봉기를 조직할 수 있을 것입니다. 이것은 독일 식민제국을 교란시킴과 동시에 세계 혁명에 한 발짝 더 다가갈 수 있는 길입니다."
+Ostasien.7.d:0 ""베트남! 베트남! 베트남! 남방의 우리 고향! 나는 옌-바이의 교수대 앞에서 열세 번의 외침을 들었다. 열세 명의 남자가, 교수대를 타고 불과 일이 미터 떨어진 곳에서 죽음을 앞두고 소리치고 있었다."\n\n— 프랑스 언론인 루이 루보는 옛 우리의 식민지이자 독일 식민주의의 극동 전초기지인 인도차이나에서 벌어진 독일의 잔혹한 탄압을 목격했습니다. 고인이 된 인도차이나의 혁명가 호치민의 절친한 친구인 앙드레 마르티 장군은 우리가 인도차이나 사태에 개입할 것을 주장했습니다. 세계대전이 끝났을 때, 수천 명의 인도차이나 학생들, 군인들, 노동자들은 프랑스에 머물면서 굳건한 혁명가가 되었습니다. 우리가 그들을 충분한 양의 무기들과 함께 돌려보내면, 그들은 코친차이나에서 봉기를 조직할 수 있을 것입니다. 이것은 독일 식민제국을 교란시킴과 동시에 세계 혁명에 한 발짝 더 다가갈 수 있는 길입니다."
 Ostasien.7.a:0 "행운을 빈다, 인도차이나인 동지들!"
 Ostasien.7.b:0 "우리는 현대판 피뇨 드 베엔이 아니다."
 
@@ -617,6 +617,21 @@ GEA_start_naval_blockade:0 "해군 봉쇄 시작"
 GEA_start_naval_blockade_desc:0 "인터내셔널의 수송선들이 남중국해로 자유롭게 드나들어 인도차이나 반군에게 지원을 보내고 있습니다. 이를 방치해선 안됩니다."
 GEA_shelling_on_Saigon:0 "사이공 포격"
 
+GEA_reorganize_north_malaya:0 "Reorganize North Malaya"
+GEA_reorganize_north_malaya_desc:0 ""
+GEA_reorganize_sumatra:0 "Reorganize Sumatra"
+GEA_reorganize_sumatra_desc:0 ""
+GEA_reorganize_java:0 "Reorganize Java"
+GEA_reorganize_java_desc:0 ""
+GEA_reorganize_kalimantan:0 "Reorganize South Borneo"
+GEA_reorganize_kalimantan_desc:0 ""
+GEA_reorganize_sulawesi_sunda:0 "Reorganize Celebes & Lesser Sunda"
+GEA_reorganize_sulawesi_sunda_desc:0 ""
+GEA_reorganize_maluku_papua:0 "Reorganize West New Guinea and the Moluccas"
+GEA_reorganize_maluku_papua_desc:0 ""
+GEA_reorganize_east_timor:0 "Reorganize East Timor"
+GEA_reorganize_east_timor_desc:0 ""
+
 ### Ideas ###
 GEA_colonial_nation:0 "식민 정부"
 GEA_colonial_nation_desc:0 "독일령 동아시아는 제한된 자치권을 가진 식민 정부입니다. 독일령 동아시아는 독일 본토에서 마르크화 예산을 할당받으며, 독일인 권력자에 의해 유지되고 있습니다."
@@ -670,7 +685,7 @@ GEA_vietcong_killer_idea_desc:0 "도망치는 자는 베트민이다! 자리를 
 
 GEA_AOG_BONUS:0 "동아시아 일반행정 감사회"
 GEA_AOG_bonus_idea:0 "동아시아 일반행정 감사회"
-GEA_AOG_bonus_idea_desc:0 "우리는 동아시아 일반행정 감사회를 통해 주요 해안 도시 §Y[?GEA_AOG_CITIES_NUMBER]§!개를 경제적 영향권에 두고 있습니다:\n[GEA_Guangzhou]\n[GEA_Xiamen]\n[GEA_Wenzhou]\n[GEA_Nantong]\n우리는 해당 도시들을 보호할 것입니다. \n§W소비재 공장:§! §Y[?GEA_AOG_CITIES_FACTORIES]%"
+GEA_AOG_bonus_idea_desc:0 "우리는 동아시아 일반행정 감사회를 통해 주요 해안 도시 §Y[?GEA_AOG_CITIES_NUMBER]§!개를 경제적 영향권에 두고 있습니다:\n[GEA_Guangzhou]\n[GEA_Xiamen]\n[GEA_Wenzhou]\n[GEA_Nantong]\n우리는 해당 도시들을 보호할 것입니다. \n§W소비재 공장:§! [?GEA_AOG_CITIES|Y%1]"
 GEA_AOG_bonus_idea_5:0 "동아시아 일반행정 감사회"
 GEA_AOG_bonus_idea_5_desc:0 "우리는 동아시아 일반행정 감사회를 통해 주요 해안 도시 4개를 경제적 영향권에 두고 있습니다:\n- §G광저우§!\n- §G샤먼§!\n- §G원저우§!\n- §G난퉁§!\n우리는 해당 도시들을 보호할 것입니다."
 GEA_naval_attache_idea:0 "동아시아 해군 고문"

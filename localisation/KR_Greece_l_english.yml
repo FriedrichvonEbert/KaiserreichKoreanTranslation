@@ -148,7 +148,7 @@ GRE_turks_exist_and_peaceful:0 "괴뢰국이 아닌 터키인의 국가가 평�
 GRE_diplomatic_mission:0 "외교 사절단"
 GRE_no_peace:0 "외교적 접근이 거부되다"
 GRE_has_thaw_with_turks:0 "터키가 우리의 외교적 접근을 환영하다\n"
-GRE_turks_own_limited_greece:0 "터키가 크레타 섬이나 에게해제도를 제외한 그리스의 핵심지역을 소유하고 있지 않습니다.\n"
+GRE_turks_own_limited_greece:0 "터키가 §H키프로스 섬§!이나 §H에게해 제도§!를 제외한 그리스의 핵심지역을 소유하고 있지 않습니다.\n"
 GRE_population_exchange_one_month:0 "한 달 안에 인구 이동이 시작될 것입니다\n"
 GRE_total_pops_greekarrive:0 "모든 인구가 [GRE.GetNameDef]에 도착했습니다: §G[?GRE.popmove]§!\n"
 GRE_total_pops_greekleave:0 "모든 인구가 [GRE.GetNameDef]에서 떠났습니다: §R[?turks.popmove]§!\n"
