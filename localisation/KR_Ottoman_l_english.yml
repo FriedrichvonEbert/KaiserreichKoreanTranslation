@@ -95,23 +95,23 @@ ARO_national_populist_DEF:0 "아르메니아 빌라예트"
 ############
 
 ### Traits
-warrior_prince:0 "The Warrior"
-poet_artist:0 "Sultan of the Arts"
+warrior_prince:0 "전사"
+poet_artist:0 "예술의 술탄"
 
 ### Events
-ott_elections:0 "§YElections will be held within 30 Days§!\n"
-ott_language_reformed:0 "Unlocks the §YMillet Mektepleri§! focus"
-ott_vilayets_reformed:0 "\nUnlocks the §YReorganise the Vilayet System§! focus"
-ott_women_rights_reformed:0 "\nUnlocks the §YEmancipation Vanguard§! focus"
-ott_religion_reformed:0 "\nUnlocks the §YCurtail Religious Organisations§! focus"
-ott_seperation_power:0 "\nUnlocks the §YGuarantee the Separation of Powers§! focus"
-tribunal_too_far_tt:0 "§RThis will be seen as an act of tyranny§!"
-ott_increase_revolt_risk_tt:0 "£resistance_texticon  §Yunrest§! will §Rincrease§!\n"
-ott_decrease_revolt_risk_tt:0 "£resistance_texticon  §Yunrest§! will §Gdecrease§!\n"
-ott_syr_spread:0 "£manpower_texticon  §YDeclare Martial Law§! or £autonomy_texticon  §YPlacate Local Rulers§! in §YGreater Syria§! to stop the revolt from spreading\nAffected Vilayets: \n§YAleppo\nHoms\nLatakia\nBeirut\nHaifa\nMa'an\n§!\nAny state with £resistance_texticon §YResistance Strength§! higher than §R70.0%§! will revolt unless dealt with.\n"
-ott_gre_spread:0 "£manpower_texticon  §YDeclare Martial Law§! or £autonomy_texticon  §YPlacate Local Rulers§! in the §YGreek Isles§! to stop the revolt from spreading.\nAffected Vilayets: \n§YDodecanese\nAegean Islands\n§!\nAny state with £resistance_texticon §YResistance Strength§! higher than §R70.0%§! will revolt unless dealt with.\n"
-ott_cp_war_decisions_tt:0 "Certain £decision_icon_small §Ydecisions§! have become available"
-OTT_jews_tt:0 "£nato_unit_militia_icon_small  Gain 1 §YMilitia Division§! units with §CRecruit§! training and 1918-year infantry equipment in §YKudus-I-Serif§!\n£nato_unit_militia_icon_small  Gain 1 §YCavalry Division§! units with §CRecruit§! training and 1918-year infantry equipment in §YKudus-I-Serif§!\n\n"
+ott_elections:0 "§Y30일 내로 선거가 열릴 것입니다§!\n"
+ott_language_reformed:0 "§Y밀레트 멕테플레리§! 중점을 해금합니다"
+ott_vilayets_reformed:0 "\n§Y빌라예트 체제 재구축§! 중점을 해금합니다"
+ott_women_rights_reformed:0 "\n§Y해방선봉대§! 중점을 해금합니다"
+ott_religion_reformed:0 "\n§Y종교기관 축소§! 중점을 해금합니다"
+ott_seperation_power:0 "\n§Y권력분립 보증§! 중점을 해금합니다"
+tribunal_too_far_tt:0 "§R이런 행동은 폭정으로 보일 것입니다§!"
+ott_increase_revolt_risk_tt:0 "£resistance_texticon  §Y저항도§!가 §R올라갈 것입니다§!\n"
+ott_decrease_revolt_risk_tt:0 "£resistance_texticon  §Y저항도§!가 §G내려갈 것입니다§!\n"
+ott_syr_spread:0 "§Y대 시리아§! 에서 퍼져나가는 저항을 멈추기 위해 £manpower_texticon  §Y계엄령 선포§! 혹은 £autonomy_texticon  §Y지역 통치자 달래기§!\n빌라예트에 미치는 영향 : \n§Y알레포\n홈스\n라타키야\n베이루트\n하이파\n마안\n§!\n모든 £resistance_texticon §Y저항력이§! §R70.0%§! 보다 높은 지역은 처리하지 않는다면 반란을 일으킬 것입니다.\n"
+ott_gre_spread:0 "§Y그리스 제도§! 에서 퍼져나가는 저항을 멈추기 위해 £manpower_texticon  §Y계엄령 선포§! 혹은 £autonomy_texticon  §Y지역 통치자 달래기§!\n빌라예트에 미치는 영향 : \n§Y도데카네스\n에게 해 제도\n§!\n모든 £resistance_texticon §Y저항력이§! §R70.0%§! 보다 높은 지역은 처리하지 않는다면 반란을 일으킬 것입니다"
+ott_cp_war_decisions_tt:0 "어떤 £decision_icon_small §Y결정§!이 사용가능해졌습니다"
+OTT_jews_tt:0 "§C신병§! 훈련 수준과 1918년식 보병장비로 무장한 £nato_unit_militia_icon_small §Y민병대§! 1개 사단을 §Y쿠두스 이 셰리프§! 지역에 모집합니다\n§C신병§! 훈련 수준과 1918년식 보병장비로 무장한 £nato_unit_militia_icon_small §Y기병§! 1개 사단을 §Y쿠두스 이 셰리프§! 지역에 모집합니다"
 
 OTT_revolt_risk_very_low:0 "Has §GVery Low§! or above £resistance_texticon §Yunrest§!"
 OTT_revolt_risk_very_low_NOT:0 "Less than §GVery Low§! £resistance_texticon §Yunrest§!"
@@ -186,13 +186,13 @@ AXIS_VICTORY:0 "The Cairo Pact is victorious"
 expanded_millets:0 "The Millets have been expanded"
 
 ### Global Flags
-OTT_Surrender:0 "The Ottomans have been defeated."
-SUEZ_SUCCESS:0 "The §GPort Said Convention§! has been signed"
-SUEZ_CANAL_BLOCKED:0 "The Suez Canal is blocked"
-SUEZ_REOPENED:0 "The Suez Canal will be §Hreopened§!."
+OTT_Surrender:0 "오스만이 패배했습니다."
+SUEZ_SUCCESS:0 "§G포트사이드 조약§! 이 체결되었습니다"
+SUEZ_CANAL_BLOCKED:0 "수에즈 운하가 봉쇄되었습니다"
+SUEZ_REOPENED:0 "수에즈 운하가 §H재개방§! 될 것입니다."
 
 ### State Flags
-OTT_Can_Martial_Law:0 "Not: Has already enacted martial law in this state"
+OTT_Can_Martial_Law:0 "아직 이 지역에서 계엄령을 선포하지 않음"
 
 ### Decisions
 # Syria
@@ -280,7 +280,7 @@ ott_arab_gen_3:0 "Arabian spy networks"
 # State Modifiers #
 ###################
 autonomous_region:0 "§YAutonomous Region§!"
-vilayet:0 "§YVilayet§!"
+vilayet:0 "§Y빌라예트§!"
 ottoman_province:0 "§YOttoman Province§!"
 high_revolt_risk:0 "§YHigh Unrest§!"
 very_high_revolt_risk:0 "§YVery High Unrest§!"
@@ -317,8 +317,8 @@ Ottoman_Axis_decisions_desc:0 "Beset from all sides and betrayed by those who we
 OTT_Varlik_Vergisi:0 "Enact the Varlık Vergisi"
 OTT_Varlik_Vergisi_desc:0 "The 'Varlık Vergisi' is a specific war tax which targets rich Armenians and Jews to fund the operations of the government. By putting exorbitant burdens on these groups, the policy both serves to remedy the ever increasing deficit and to bolster the 'National Economy' by pushing the non-Muslims out of business and encourage take-overs by Turkish citizens."
 OTT_Emergency_Mobilisation:0 "Emergency Mobilisation"
-OTT_Fortify_Aleppo:0 "Fortify Aleppo"
-OTT_Fortify_Bagdhad:0 "Fortify Baghdad"
+OTT_Fortify_Aleppo:0 "알레포 요새화"
+OTT_Fortify_Bagdhad:0 "바그다드 요새화"
 OTT_Flood_the_Euphrates_Plain:0 "Flood the Euphrates and Tigris Plains"
 OTT_Invite_Istanbul_Pact_Azerbaijan:0 "Invite [FROM.GetName] to the Istanbul Pact"
 OTT_Invite_Istanbul_Pact_Azerbaijan_desc:0 "As we find ourselves surrounded on all sides, the time has come to re-evaluate past treaties and friendships. Will the nation of [FROM.GetName] stand with the Caliph of all Islam or will they watch as the vultures rip the sacred lands of the Levant from our corpse?"
@@ -326,7 +326,7 @@ OTT_Invite_Istanbul_Pact_Afghanistan:0 "Invite [FROM.GetName] to the Istanbul Pa
 OTT_Invite_Istanbul_Pact_Afghanistan_desc:0 "As we find ourselves surrounded on all sides, the time has come to re-evaluate past treaties and friendships. Will the nation of [FROM.GetName] stand with the Caliph of all Islam or will they watch as the vultures rip the sacred lands of the Levant from our corpse?"
 
 ### Suez Reparation
-Suez_Reparation_decisions:0 "The Suez Canal"
+Suez_Reparation_decisions:0 "수에즈 운하"
 Suez_Reparation_decisions_desc:0 "War has ravaged the vital lifeline of empires and enterprises, leaving its narrow track filled with debris of sunken vessels, crashed airplanes and deliberate sabotage attempts by both sides. With the M.O.J. abolished, the question on the future of the Suez returns once more to the forefront as there remains uncertainty on the future guardians of the Canal whilst in the Suez Zone itself, companies are awaiting funds to clear the Suez blockade.\n\nAll nations who §YGuarantee§! the independence of §C[PAL.GetNameWithFlag]§! receive access to the §YReparation Effort§! decisions which contribute to a shared timer."
 
 Axis_Suez_Strait_Convention_OTT:0 "Organise the Port Said Straits Convention"
