@@ -4,39 +4,15 @@ literature.1.t:0 "알라무트 - 블라디미르 바르톨의 신작"
 literature.1.d:0 "슬로베니아인은 우리 제국에서 다른 언어를 쓰는 소수 민족 중 하나입니다. 슬로베니아인은 우리 제국의 일부가 된지 수백년이 지났지만 그들의 언어와 문화를 지켰습니다. 바르톨이 쓴 최신 슬로베니아어 베스트셀러는 알라무트 요새를 차지하기 위한 터키인과 페르시아인들의 이야기입니다. 이 소설은 셀주크 튀르크가 소아시아로 진출하기 시작했던 11세기를 배경으로 하고 있습니다. 이 책은 독일어와 다른 언어로 번역될 것입니다."
 literature.1.a:0 "Great!"
 
-literature.2.t:0 "어느 시골 사제의 일기 - 조르주 베르나노스의 신작"
-literature.2.d:0 "The history of French literature is unique. It is comprised of centuries of great masterpieces, which deliver to the reader ultimate feelings. The newest book, promoted very hard by the Arts' Highest Bureau, is about a Catholic priest who, after new acts on religion are passed after Second Revolution, comes to a village and tries to spread the word of God. Unfortunately, the government has sent a young syndicalist activist to teach the village about the blessings of Marxism, as well. Soon, a love triangle forms between the priest, the agitator and the daugther of a wealthy Kulak. The story ends on a happy note, as the priest loses his faith and becomes a mechanic, and the agitator and the girl start new happy life together with Marx. Critics from non-syndicalist countries say that this is an utter piece of propaganda and that the story it tells is rubbish, however, the common folk of Syndie France are taking quite a liking to it."
-literature.2.a:0 "후속작이 기대되는군!"
+#literature.2 was an event about a book that is now released in natfra
 
-literature.3.t:0 "클로드 레비스트로스 - 그를 어떻게 하면 좋을까??"
-literature.3.d:0 "클로드 레비스트로스는 세계적으로 유명한 철학자이자 인류학자, 민족학자입니다. 그는 베두인족에 대 탁월하고 통찰력이 있는 연구를 내놓았습니다. 그 작품은 프랑스 공화국에서 금지되었지만 이탈리아와 오스만 제국으로 밀수되어 번역되었습니다. 젊은 과학자로 엄청난 명성을 얻었지만, 프랑스 공화국 정부는 그를 좋지 않게 보고 있습니다. 친사회주의적 시각이 원인이 되어 그는 반정부적인 문학 작품을 제작한 죄로 1933년부터 1935년까지 2년간 수감되었습니다. 이제 그는 다른 곳으로 이민을 가고 싶어 합니다. 우리 첩보 기관은 그가 프랑스 코뮌으로 뜨고 싶어한다는 의심을 품고 있습니다. 그를 어떻게 대할까요?"
-literature.3.a:0 "종신형에 처하게 한다!"
-literature.3.b:0 "놓아준다. 그는 우리에게 아무것도 하지 않을 것이다!"
+#literature 3 to 7 was a chain about levy strauss which didn't fit and was bad
 
-literature.4.t:0 "레비스트로스가 풀려나다!"
-literature.4.d:0 "The famous socialist antrophologist Lévi-Strauss is free from militaristic French tyranny. We should invite him so he can live the Communard dream, free from the French reactionaries."
-literature.4.a:0 "초대하라!"
-literature.4.b:0 "우리는 개개인은 필요없다, 우리는 집단주의다!"
+literature.10.t:0 "Sartre Explains his Philosophical Stance in his Newest Book"
+literature.10.d:0 "In his newest book, 'Existentialism Is a Humanism', Sartre explains the doctrine of Existentialism. For him, one of the key points is that the existence of a person comes before his or her essence. In simple terms, this means that, although a person exists, there is nothing to dictate that person's character, goals in life, and so on. Only the person themselves can define their essence."
+literature.10.a:0 "I didn't understand anything but it looks great"
 
-literature.5.t:0 "레비스트로스가 본국으롣 돌아오다!"
-literature.5.d:0 "One of the greatest minds of this century decided to live in the Commune of France. He stated that the Commune holds legacy of the french fevolutionary ideals and the French state in North Africa is the bastardized version of those ideals. Algiers has lost another great writer."
-literature.5.a:0 "고향에 돌아온 것을 환영하네 동지여!"
-
-literature.6.t:0 "레비스트로스가 프랑스 코뮌으로 가다."
-literature.6.d:0 "The foul rat, Lévi-Strauss, has decided to flee to the Commune of France! We could've imprisoned him, the world would've been better off with one less Marxist."
-literature.6.a:0 "He should've been hanged!"
-
-literature.7.t:0 "레비스트로스가 프랑스 코뮌에서 살기를 거부하다"
-literature.7.d:0 "Lévi-Strauss has refused our invitation, stating that the Commune represents a corrupted version of Marxism mixed with the worst forms of authoritarian government."
-literature.7.a:0 "He knows nothing about authoritarianism."
-
-literature.10.t:0 "사르트르가 그의 신작에서 철학적 견해를 드러내다"
-literature.10.d:0 "그의 신작인 '실존주의와 인본주의'에서 사르트르는 실존주의의 원리를 설명합니다. 그에게 중요한 점 중 하나는 사람의 존재가 본질에 앞선다는 것입니다. 이는 간단히 말해 어느 한 사람이 존재한다고 해도 그 사람의 성격이나 인생의 목표 등을 정하는 것이 없다는 것을 의미합니다. 오직 그 사람 자신만이 자신의 본질을 정의할 수 있습니다."
-literature.10.a:0 "좋은 책이군. 근데 이해는 못 하겠어."
-
-literature.11.t:0 "사르트르가 알제리 전쟁을 다룬 책을 쓰다"
-literature.11.d:0 "Just when Socialist troops entered Algiers, the capital of National France, Sartre published his views on liberating the natives of former French colonies. In the book he genuinely says that the pieds-noirs should come back to mainland France and leave Algieria for the Algierians who are second class citizens in their own homeland. This book is extremely popular and it seems that the government will distribute it to commissars."
-literature.11.a:0 "For the liberation of Africa!"
+#literature.11 was an event about a book sartre wrote about liberating algeria, it wasn't good
 
 literature.12.t:0 "'Little Marin and the Sailor' - Newest Book on Japan's Shelves"
 literature.12.d:0 "Our country's recent war has inspired many home comers to express their experiences in art, one of them being the author of a romance novel of unprecedented sales numbers.\n\nThe book, bearing the title "Marin-chan to Kaigun-kun", or "Little Marin and the Sailor", tells a story of two childhood friends and their tragic love: a boy and a girl growing up close to each other, partaking in a seemingly unchanging life. However, just when they finish high school, Japan is readying herself for war, and the boy is called to join the Navy. The two have to part from each other, Marin staying at home. Only now that they're separated, they notice their feelings for each other, but struggle to express them in the few letters they can exchange. Just when the war draws to a close, and Marin yearns for her loved one's return, his letters stop coming.\n\nWhile the book does not represent the highest of Japanese literature, it gives an astonishingly detailed insight to both the daily lives of a farmer's daughter in rural Japan and of a Japanese Navy Marine. The book is scheduled to be translated to German, English and Russian."
@@ -61,4 +37,3 @@ literature.17.d.chi:0 "The people in Longyan were surprised when a young America
 literature.17.d.other:0 "팔성연합의 붕괴와 뒤이은 양쯔 강 유역에서의 전쟁 발발로부터 두달이 넘게 흘렀습니다. 이로 인한 동중국에서의 혼란상이 점차 심화되면서 신뢰할 수 있는 소식들을 얻기는 그 어느 때보다 더 어려워졌는데, 최근 용감하고 영리한 젊은 기자 한 명이 군벌들과 청 정부의 강한 검열과 통제를 무릅쓰고 치열한 전투가 벌어지고 있는 구 팔성연합 남부, 복건성 산악 지대의 국민당 사령부에 도착하는데 성공했습니다. 그는 미국에서 상하이로 건너와 상하이 영어 신문사에서 일하는 에드가 스노우로, 전선을 넘나드는 용감함, 그리고 국민당의 기치에 대한 공감 덕분에 그는 봉기의 지도자들을 직접 인터뷰할 수 있는 기회를 얻을 수 있었습니다. 그가 이후 서둘러 출판한 책 "중국 하늘의 백색 태양"은 서점들에서 선풍적인 인기를 끌며 서구 독자들 사이에서 큰 화제가 되었습니다. 책 안에는 봉기 지도층과의 인터뷰 뿐만 아니라 국민당 통제 지역의 생생한 모습들 역시 담겨 있었으며 이를 통해 기존의 군벌 시대와는 다른, 고통 없는 중국 민중들의 삶을 독자들에게 보여주었습니다. 비록 한 진영의 모습만이 담겨 있지만, 그의 책은 세계 여러 나라의 사람들, 특히 좌파계에서 국민당의 투쟁에 대한 공감을 불러일으켰습니다. "
 literature.17.a:0 "우리는 거기에서 교훈을 얻었다."
 literature.17.b:0 "꽤나 모험적이군."
-

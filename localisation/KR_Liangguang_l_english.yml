@@ -38,10 +38,10 @@ POLITICS_GXC_HONG_ZHAOLIN_ARMY_DESC:0 "§Y장군 설명\n§Y출생:§L\n1876년 
 
 ### Tooltips ###
 
-GXC_warrior_identity_tooltip:0 "Modify §HGuangxi Ruled by Guangxi People§! by\nWar Support: §G+20%§!"
+GXC_warrior_identity_tooltip:0 "Modify §H$GXC_guangxi_four_guangxi_peeps$§! by\nWar Support: §G+20%§!"
 GXC_guangxi_merge_ideas:0 "Merge §Hall Guangxi-related ideas§!\nEffective change:\nRecruitable Population Factor: §G2.5%§!\nWar Support: §G+10%§!"
 GXC_guangdong_merge_ideas:0 "Merge §Hall Guangdong-related ideas§!"
-GXC_military_effect_tooltip:0 "Replace §HOfficer Vanguards§! or §HProfessional Officers§! with §HLiangguang's NRA§!\nEffective change:\nDivision Attack: §G+5.0%§!\nDivision Organisation: §G+5.0%§!\n"
+GXC_military_effect_tooltip:0 "Replace §H$GXC_officer_vanguards_idea$§! or §H$GXC_professional_officers$§! with §H$GXC_liangguang_NRA$§!\nEffective change:\nDivision Attack: §G+5.0%§!\nDivision Organisation: §G+5.0%§!\n"
 guangxi_rebels_tt:0 "광서군벌이 우리의 통치에 반기를 들다!\n"
 guangdong_loyalists_tt:0 "Loyalists in Guangdong will rally against us!\n"
 exploit_guangdong:0 "We are exploiting Guangdong Province"
@@ -67,8 +67,8 @@ GXC_reunification_tt:0 "Unlocks £decision_icon_small §HReunification Decisions
 UPC_infrastructure_projects_tt:0 "Unlocks £decision_icon_small §HInfrastructure Decisions§!.\n"
 UPC_post_unification_tt:0 "Unlocks £decision_icon_small §HPost-Unification Decisions§!.\n"
 GXC_modern_division_tt:0 "Unlocks a free £nato_unit_infantry_icon_small  §YModernised Infantry Division§! template.\n"
-GXC_guofangjun_tt:0 "Replace §HImproved Logistics§! and §HReformed Minjun§! with §HGuofangjun§!\nEffective change:\nDivision Organisation: §G+10.0%§!\nDivision Attack: §G+5.0%§!\nDivision Defence: §G+5.0%§!\nDivision Attack on core territory: §R-5.0%§!\nDivision Defence on core territory: §R-5.0%§!\n"
-GXC_southern_defense_force_tt:0 "Replace §HImproved Logistics§! and §HReformed Minjun§! with §HLiangguang Defense Force§!\nEffective change:\nDivision Attack on core territory: §G+5.0%§!\nDivision Defence on core territory: §G+5.0%§!\n"
+GXC_guofangjun_tt:0 "Replace §H$GXC_better_logistics$§! and §H$GXC_reformed_minjun$§! with §H$GXC_guofangjun$§!\nEffective change:\nDivision Organisation: §G+10.0%§!\nDivision Attack: §G+5.0%§!\nDivision Defence: §G+5.0%§!\nDivision Attack on core territory: §R-5.0%§!\nDivision Defence on core territory: §R-5.0%§!\n"
+GXC_southern_defense_force_tt:0 "Replace §H$GXC_better_logistics$§! and §H$GXC_reformed_minjun$§! with §H$GXC_southern_defense_force$§!\nEffective change:\nDivision Attack on core territory: §G+5.0%§!\nDivision Defence on core territory: §G+5.0%§!\n"
 GXC_gunboat_diplomacy:0 "A small squadron will pay a friendly visit to Guangzhou"
 wu_peifu_still_relevant:0 "Wu Peifu's power is secured in [QIE.GetNameDef]"
 GXC_JAP_alliance:0 "우리는 일본과 제휴함"
@@ -865,9 +865,6 @@ GXC_Military_Nationalization_desc:0 "현재 중국을 괴롭히고 있는 가장
 GXC_National_Protection_Alliance:0 "호국동맹"
 GXC_National_Protection_Alliance_desc:0 "In order to overthrow the corrupt and unconstitutional government in Beijing, the National Protection movement must be revived once more. Bringing together the leaders of the South will give us the power to finally reunify China once and for all."
 
-GXC_Northern_Expedition:0 "북벌"
-GXC_Northern_Expedition_desc:0 "Invading the North is a very difficult feat, as demonstrated by the Kuomintang's attempt that led to their demise. It will require thorough planning, secured logistics and, of course, an army united in purpose. We will succeed where the KMT has failed and reunite the nation!"
-
 GXC_Negotiate_For_Reunification:0 "통일을 위한 협상"
 GXC_Negotiate_For_Reunification_desc:0 "Chen Jiongming believes that the only way to truly unite China is through compromise and negotiation with the north, creating a lasting union instead of a hollow victory through force. While the Qing and their allies cannot be reasoned with, there is a chance that the republicans in Fengtian will see reason, or that Wu Peifu will renounce the Qing through his patriotism."
 
@@ -876,9 +873,6 @@ GXC_A_New_China_desc:0 "With Beijing in our hands, we have finally secured our c
 
 GXC_National_Protection_Alliance2:0 "호국동맹"
 GXC_National_Protection_Alliance2_desc:0 "In order to overthrow the corrupt and unconstitutional government in Beijing, the National Protection movement must be revived once more. Bringing together the leaders of the South will give us the power to finally reunify China once and for all."
-
-GXC_Northern_Expedition2:0 "북벌"
-GXC_Northern_Expedition2_desc:0 "Invading the North is a very difficult feat, as demonstrated by the Kuomintang's attempt that led to their demise. It will require thorough planning, secured logistics and, of course, an army united in purpose. We will succeed where the KMT has failed and reunite the nation!"
 
 GXC_A_New_China2:0 "신중국"
 GXC_A_New_China2_desc:0 "With Beijing in our hands, we have finally secured our claim as the Central Government of China. Now, we can begin rebuilding a new Republic of China, one that will stand the test of time!"
@@ -1113,7 +1107,7 @@ lng.19.a:0 "보복 공격을 가해라."
 lng.19.b:0 "우리에겐 더 큰 문제가 있다."
 
 lng.20.t:0 "독일 군함이 광저우를 포격하다"
-lng.20.d:0 "우려했던 대로, 이 지역의 독일 해군은 광저우에 보복 공격을 가했습니다. 구축함 2척이 주강삼각주에 진입하여, 깃발을 내걸기 위해 잠깐 기다린 뒤 시내를 향해 포문을 열었습니다. 이들은 일제사격을 실시한 뒤, 다시 잠깐 제자리에 머물렀다가 남중국해로 철수했습니다.\n\n도시에 대한 피해는 비교적 제안적이었지만, 그 메시지는 굉장히 분명했습니다: 독일의 중국 내 주둔은 여전합니다. 독일인 제국주의자들의 주구인 남경군벌이 옛 연합의 질서 회복에 성공한다면, 광시와 광둥을 재탈환하려 할 때 비로소 독일의 상당한 지지를 기대할 수 있을 것이라 예상됩니다."
+lng.20.d:0 "우려했던 대로, 이 지역의 독일 해군은 광저우에 보복 공격을 가했습니다. 구축함 2척이 주강삼각주에 진입하여, 깃발을 내걸기 위해 잠깐 기다린 뒤 시내를 향해 포문을 열었습니다. 이들은 일제사격을 실시한 뒤, 다시 잠깐 제자리에 머물렀다가 남중국해로 철수했습니다.\n\n도시에 대한 피해는 비교적 제안적이었지만, 그 메시지는 굉장히 분명했습니다: 독일의 중국 내 주둔은 여전합니다. 독일인 제국주의자들의 주구인 그 누구라도 옛 연합의 질서 회복에 성공한다면, 광시와 광둥을 재탈환하려 할 때 비로소 독일의 상당한 지지를 기대할 수 있을 것이라 예상됩니다."
 lng.20.a:0 "그들은 곧 값을 물어주게 될 것이다."
 
 lng.21.t:0 "칭다오의 침묵"

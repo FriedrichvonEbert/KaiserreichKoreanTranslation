@@ -250,10 +250,10 @@ GER_csavol_tt:0 "2개의 자원병 사단이 디트로이트에 도착할 것입
 GER_received_equipment_10000:0 "우리는 10000개의 보병 장비를 받을 것입니다."
 GER_OTT_victory:0 "카이로 협약이 항복했습니다."
 GER_cannot_join_until_WK:0 "§R[From.GetName]은 세계대전이 일어나기 전에는 [ROOT.GetFactionName]에 참가할 수 없습니다§!"
-GER_doctrine_mobile_3_tooltip:0 "Modify §HIndustrial Military Complex§! by\nConsumer Goods Factories: [?-0.05|=%0H]\n§HArmour§!: £production_cost  Production Cost:  [?-0.2|-=%]"
+GER_doctrine_mobile_3_tooltip:0 "Modify §H$GER_invest_arms_industry$§! by\nConsumer Goods Factories: [?-0.05|=%0H]\n§HArmour§!: £production_cost  Production Cost:  [?-0.2|-=%]"
 
-GER_has_black_monday:0 "§H검은 월요일의 영향§! 국민정신이 존재합니다"
-GER_has_black_monday_NOT:0 "§H검은 월요일의 영향§! 국민정신이 존재하지 않습니다"
+GER_has_black_monday:0 "§H$GER_black_monday$§! 국민정신이 존재합니다"
+GER_has_black_monday_NOT:0 "§H$GER_black_monday$§! 국민정신이 존재하지 않습니다"
 
 ### Opinion Modifiers ###
 sri_lanka:0 "제국주의 괴짜"
@@ -330,6 +330,10 @@ GER_erode_cof_legitimacy:0 "코뮌 정통성을 잠식"
 GER_erode_cof_legitimacy_desc:0 "우리의 노력은 프랑스 국민들에게 코뮌 정부가 진정한 압제자일 뿐만 아니라 항상 불법적이었다는 것을 확신시키는 것이어야 합니다. 생디칼리슴에 대항해 싸우겠다는 그들의 의지가 무너지면 우리 점령에 대한 반대는 거의 없을 것입니다."
 GER_invite_nfa_to_france:0 "[NFA.GetNameDef]에게 프랑스 본토 귀환 제안"
 GER_invite_nfa_to_france_desc:0 "[NFA.GetNameDefCap](은)는 우리보다 [FRA.GetNameDef]의 정통성을 갖고 있습니다... 그러나 그들이 승리를 선언하려면 그들은 프랑스 본토를 수복해야 할 것입니다. 코뮌의 저항을 더 빨리 분쇄하기 위해, 프랑스 남부에서 우리가 점령한 영토를 그들에게 주는 것도 방법 중 하나일 것입니다. 또한 그들은 우리에게 약간의 감사를 표할 것입니다."
+
+GER_seize_morocco_decisions:0 "Seizing Moroccan Territories"
+GER_seize_morocco_decisions_desc:0 "Since the twentieth century, we have fostered ambitions on Morocco. Now that the other powers that have a stake there are in turmoil, it is time to take these lands for our own."
+GER_seize_spanish_morocco:0 "Seize Spanish Morocco"
 
 GER_black_monday_category:0 "검은 월요일 대처"
 
@@ -707,23 +711,14 @@ GER_oil_georgia_desc:0 "아제르바이잔의 바쿠 유전을 장악하려는 �
 GER_oil_caucasus_treaty:0 "바쿠 회담"
 GER_oil_caucasus_treaty_desc:0 "아제르바이잔의 석유를 주요 상으로 얻을 때가 왔습니다. 바쿠에서 아제르바이잔의 고위 외교관들과 회담 한다면, 우리는 그들과 타협할 수 있을 것입니다. 그들의 독립을 보장함으로써 그들은 싸우지 않고도 우리의 종주권 아래에 기꺼이 올 지도 모릅니다."
 
-GER_oil_gulf:0 "메소포타미아로부터"
-GER_oil_gulf_desc:0 "석유에 대한 우리의 수요는 중요합니다. 우리는 필요에 따라 전통적인 석유 생산 지역을 넘어 동방의 사막과 황무지까지도 바라보아야 합니다. 전쟁중인 파벌들은 착취하기에 좋은 상태입니다."
+GER_Settling_Old_Disputes:0 "Settling Old Disputes"
+GER_Settling_Old_Disputes_desc:0 ""
 
-GER_oil_gulf_axis:0 "카이로 협약과의 조약"
-GER_oil_gulf_axis_desc:0 "우리는 오스만 "제국"을 더 이상 지원할 수 없으며, 계속 지원하는 것은 실현 가능하지도 않고 합리적이지도 않습니다. 우리는 카이로 협약과의 새로운 관계를 수립하도록 노력할 것입니다. 그들의 우세가 우리의 이득이기 때문이죠."
+GER_Research_Cooperation:0 "Research Cooperation"
+GER_Research_Cooperation_desc:0 ""
 
-GER_oil_gulf_ottos:0 "오스만은 쓰러져서는 안 된다"
-GER_oil_gulf_ottos_desc:0 "또 다시 우리는 오스만 제국의 파멸을 원하는 공격적인 세력에 맞서 오스만 제국을 지원해야 하는 상황에 처해 있습니다. 우리는 마지막으로 개입하여 옛 친구를 지켜야 합니다."
-
-GER_oil_gulf_secure:0 "투자 보호"
-GER_oil_gulf_secure_desc:0 "이제 다른 좋은 계약국과 마찬가지로 석유 계약에 서명했으므로, 우리의 의무를 확실히 이행해야 합니다. 우리는 즉시 장비와 자원 봉사자를 보낼 것입니다."
-
-GER_oil_gulf_gamble:0 "걸프만 도박"
-GER_oil_gulf_gamble_desc:0 "석유 선적이 보장되기 까지는 일정 기간을 기다려야 한다고 조약이 명시되어 있지만, 석유 공급이 시급합니다. 중동에서 전쟁이 격렬해지고 있지만, 우리는 그들이 의무를 즉시 이행해야한다고 주장해야 합니다."
-
-GER_oil_gulf_safe:0 "안전 공갈"
-GER_oil_gulf_safe_desc:0 "카이로와 오스만 제국이 사소한 분쟁을 벌이는 동안, 제국은 석유에 굶주리고 있습니다. 우리가 약속했던 것을 얻는 것은 중요합니다."
+GER_Vanguard_In_The_South:0 "Vanguard in the South"
+GER_Vanguard_In_The_South_desc:0 ""
 
 ### Decisions ###
 GER_appeal_to_old_friends:0 "[From.GetNameDef]에 도움 요청"
@@ -1234,11 +1229,6 @@ gerfor.25.t:0 "라인강 방어"
 gerfor.25.d:0 "프랑스군이 라인강에 도달했습니다. 베를린의 누구도 공황에 빠지지 않았습니다만, 반격이 없다면 독일이 파국을 맞이한다는 점은 명백합니다. 마지막 예비 보급 물자가 자원병에게 분배되었습니다. 모두가 조국을 수호하기 위한 마지막 노력에 가담하고 있습니다."
 gerfor.25.a:0 "그들을 저지해야만 한다!"
 
-gerfor.26.t:0 "스페인령 모로코의 운명"
-gerfor.26.d:0 "스페인이 생디칼리슴에 물들었으니 독일의 북아프리카 식민지가 위협을 받을 지도 모릅니다. 작전 참모들은 이를 예방하는 차원에서 생디칼리스트들이 지배를 공고히 하고 우리 식민지에 영향을 주기 전에 스페인령 모로코를 점령해야 한다고 제안했습니다."
-gerfor.26.a:0 "스페인령 모로코를 점거하라!"
-gerfor.26.b:0 "모래 더미는 우리 관심 밖에 있다."
-
 gerfor.27.t:0 "독일 제국이 스페인령 모로코를 점거하다!"
 gerfor.27.d:0 "독일 제국이 엄청난 오만과 무례를 보여주며 모로코의 나머지 지역을 점령했습니다. 놀랍게도 수세기 동안 불가침 스페인 영토였던 두 도시 세우타와 멜릴랴로 그들의 군이 움직였습니다."
 gerfor.27.a:0 "우리가 할 수 있는 일은 아무것도 없다..."
@@ -1462,92 +1452,25 @@ gerfor.77.t:0 "라이히스팍트와 협상국이 합쳐지다"
 gerfor.77.d:0 "독일 제국이 생디칼리스트의 위협으로부터 세계를 구해내기 위해 라이히스팍트와 협상국을 합쳤으며, 이제 그들을 따르던가 정복될 때입니다."
 gerfor.77.a:0 "조약에 서명한다!"
 
-gerfor.78.t:0 "독일이 함대 정박권을 요구하다"
-gerfor.78.d:0 "독일이 우리 대사에 접근해 다소 이상한 제안을 했습니다. 호놀룰루 항구에 정박할 수 있게 해준다면 상당한 금액을 제공하겠다고 말이지요. 지금까지 뉴질랜드 동쪽 너머에 독일군이 주둔한 적이 없었는데, 독일의 의도가 의심스럽습니다...\n\n어떻게 할까요?"
-gerfor.78.a:0 "돈은 정말 좋다!"
-gerfor.78.b:0 "독일의 영향이 늘어나는 것을 허용할 수 없다!"
+gerfor.80.t:0 "An Offer From Berlin"
+gerfor.80.d:0 "Entangled in a war for its survival, the German Empire has reopened negotiations concerning the permanent presence of our empire in the Reichspakt, their military alliance. Although the people are exhausted from years of war, there still remains a strong pro-German sentiment amongst the ruling class and a desire to stand side by side with the victors of the new order.\n\nNonetheless our empire does not intend to sell its skin cheaply and has demanded that the Caucasus, traditionally part of the Ottoman sphere, be restored to its control and that Azerbaijan becomes more tightly connected to the Sublime Porte. Although angered by our demands, it nonetheless seems like the German government is willing to consider the cost if it leads to the strengthening of their Southern Flank."
+gerfor.80.a:0 "Very well, let us rekindle the old alliance."
+gerfor.80.b:0 "No, this isn't in our best interests."
 
-gerfor.79.t:0 "하와이가 함대 정박권 제공을 동의하다"
-gerfor.79.d:0 "하와이 정부는 우리 해군에 항구 정박권을 달라는 우리 제안에 동의하기로 결정했습니다. 호놀룰루를 독립적인 해군기지로 만들기 위해 필요한 투자를 평가하는 작은 위원회가 이미 열려있습니다. 우리 배의 운항 가능 범위가 이처럼 동쪽으로 뻗어나간 적이 지금까지 없었습니다."
-gerfor.79.a:0 "태양의 기지!"
+cancel_ott:0 "Not: [OTT.GetNameDefCap] has refused the Baku Accords"
+GER_upon_completion_of_focus:0 "Within the next month:"
 
-gerfor.80.t:0 "하와이가 함대 정박권 제공을 거부하다"
-gerfor.80.d:0 "하와이 정부는 우리 해군에 항구 정박권을 달라는 우리 제안에 동의하지 않기로 결정했습니다. 직접적인 이유는 밝히지 않았지만, 우리가 하와이에 개입할 수도 있다는 두려움이 그 이유라고 의심하고 있습니다. 이해 할 수 있고 예기치 못한 일도 아니지만, 그래도 유감스럽습니다."
-gerfor.80.a:0 "한 번 알아봐야 겠군."
+gerfor.81.t:0 "[FROM.GetNameDefCap] Accepts"
+gerfor.81.d:0 "Fantastic news from Konstantiniyye today as the Sublime Porte agreed with our proposal and has today declared its full intention to take up arms with its German comrades. Faced with an evergrowing threat posed by the Russian bear, the Caliph has already given the order to announce Jihad against the godless heathens we call the Eastern Orthodox Church."
+gerfor.81.a:0 "Excellent."
 
-gerfor.112.t:0 "독일이 석유에 대한 원조를 제공하다"
-gerfor.112.d:0 "독일은 중단없는 석유 운송 및 독일 기업이 미사용 예금을 이용할 수 있도록 하는 대가로 정부가 제공하는 군사 원조에 접근했습니다. 우리는 그에 대한 응답으로 무엇을 말해야 할까요?"
-gerfor.112.a:0 "독일 군사 원조가 중요하다."
-gerfor.112.b:0 "그 예금은 우리에게만 속한다."
+gerfor.82.t:0 "[FROM.GetNameDefCap] Refuses"
+gerfor.82.d:0 "Faced with the burden of a struggling empire and decades of nigh constant war it can't recover from, the Sublime Porte has refused our offer and instead chosen for a neutral approach to world affairs. Whilst they don't deny the good relations with the German Kaiser, something they can't praise enough, they have let it be known that for the time being, their interests don't align with ours."
+gerfor.82.a:0 "Traitors!"
 
-gerfor.91.t:0 "카이로 협약이 석유 공급을 수락하다!"
-gerfor.91.d:0 "아랍인들은 제안을 받은 후에 자신들의 힘을 증명받은 것에 흥분해 보였습니다."
-gerfor.91.a:0 "결국 모든 것이 끝난다."
-
-gerfor.92.t:0 "카이로 협약이 석유 공급을 거절하다!"
-gerfor.92.d:0 "미숙한 군대를 훈련시키겠다는 관대한 제안에도 불구하고 석유 접근에 대한 우리의 제안을 거부했습니다."
-gerfor.92.a:0 "기껏해야 경미한 자극제."
-
-gerfor.93.t:0 "오랜 동맹국이 석유 조약을 요청하다"
-gerfor.93.d:0 "독일인들은 우리에게 다가왔습니다. 그들은 빚을 한번 지기보다는 거래를 하고자 합니다. 그들은 군사 지원의 대가로 남부 지역의 유전에 대한 중단없는 접근을 원합니다."
-gerfor.93.a:0 "이 지원은 실제로 도움이 될 것이다."
-gerfor.93.b:0 "그들이 착취하는 걸 과연 그만두긴 할까?"
-
-gerfor.94.t:0 "오스만 제국이 석유 조약을 수락하다"
-gerfor.94.d:0 "동쪽에 있는 우리의 오래된 동맹국은 동해안 지역으로 원정군을 보내는 대가로 중단없는 석유 수송을 제공하기로 동의했습니다. 이는 모든 참여자에게 윈-윈입니다."
-gerfor.94.a:0 "우리는 소년들을 다시 보낼 것이다."
-
-gerfor.95.t:0 "오스만 제국이 석유 조약을 거부하다"
-gerfor.95.d:0 "오랫동안의 협상 끝에 오스만 제국은 조금이라도 우리를 만족시키지 못했습니다. 몇 차례의 최종 제안이 거부된 후, 우리의 외교관들은 짐을 싸 떠났습니다."
-gerfor.95.a:0 "나는 병자가 마침내 죽기를 바란다."
-
-gerfor.96.t:0 "독일이 조약 의무의 이행을 요청하다"
-gerfor.96.d:0 "독일의 제안을 받아들인 후, 독일인들은 우리가 석유에 대한 접근을 확보하고 수송을 시작할 수 있는 입장에 서도록 인내심있게 기다렸습니다. 이제 콘스탄티노플에서 그들의 대표자들이 수송을 시작하기를 요구했습니다. 우리는 어떻게 해야 할까요?"
-gerfor.96.a:0 "그들은 보상을 받을 자격이 있다."
-gerfor.96.b:0 "무슨 '조약'을 말하는 거야?"
-
-gerfor.97.t:0 "오스만 제국이 석유 수송을 시작하다"
-gerfor.97.d:0 "오스만 정부는 우리의 요청에 따라 석유 수송을 시작했으며 이제 우리 산업은 최고 효율로 다시 한 번 돌아갈 수 있습니다."
-gerfor.97.a:0 "검은 황금이 쏟아지게 해라."
-
-gerfor.98.t:0 "오스만 제국의 배신!"
-gerfor.98.d:0 "우리는 오스만 제국이 석유 비축량을 확보할 수 있도록 충분한 시간을 줬지만, 그들은 여전히 시간을 끌며 변명을 합니다. 서명된 조약에 따라 우리가 마땅히 받아야할 것들을 이 쓰레기같은 놈들은 넘기지 않고 있습니다."
-gerfor.98.a:0 "배반만 하는 쥐새끼들의 뻔뻔스러움이란."
-
-gerfor.99.t:0 "독일이 조약 의무의 이행을 요청하다"
-gerfor.99.d:0 "독일의 제안을 받아들인 후, 독일인들은 우리가 석유에 대한 접근을 확보하고 수송을 시작할 수 있는 입장에 서도록 인내심있게 기다렸습니다. 이제 카이로에서 그들의 대표자들이 수송을 시작하기를 요구했습니다. 우리는 어떻게 해야 할까요?"
-gerfor.99.a:0 "그들을 우리 편에 두는 것이 가장 좋다."
-gerfor.99.b:0 "그 기름은 아랍의 것이지, 독일의 것이 아니다."
-
-gerfor.100.t:0 "카이로 협약이 석유 수송을 시작하다"
-gerfor.100.d:0 "외교관들이 석유 수송을 요청한지 몇분만에, 우리에게 전화가 걸려왔다는 소식이 왔습니다. 이미 수에즈 운하에 정박해 있는 독일 선적 유조선에 기름이 가득 실려 있습니다. 이는 거의 기적과도 같은 일입니다."
-gerfor.100.a:0 "외교의 마법."
-
-gerfor.101.t:0 "카이로 협약의 배신!"
-gerfor.101.d:0 "우리가 요청한 석유 수송에 대해, 아랍 정부가 우리 외교관들의 요청을 거절했다는 소식을 들었습니다. 중동의 문제는 독일의 관할이 아니라고 주장하면서 말입니다!"
-gerfor.101.a:0 "전 세계가, 우리 관할이다."
-
-gerfor.102.t:0 "독일이 즉각적인 석유 수송을 요구하다!"
-gerfor.102.d:0 "우리는 최근 독일 제국과 석유 조약을 맺었지만 외교관들은 카이저를 대신해 콘스탄티노플에 도착하여 그 조약에서 용어가 수정되었으며, 합의된 기간에 석유 수송을 하는 대신 즉시 수송을 시작해야 한다고 말했습니다."
-gerfor.102.a:0 "우리는 그들의 지지를 잃을 수 없다. 해라."
-gerfor.102.b:0 "아니. 우리는 석유를 우리 군에 공급하기도 힘들다."
-
-gerfor.103.t:0 "독일이 즉각적인 석유 수송을 요구하다!"
-gerfor.103.d:0 "우리는 최근 독일 제국과 석유 조약을 맺었지만 외교관들은 카이저를 대신해 카이로에 도착하여 그 조약에서 용어가 수정되었으며, 합의된 기간에 석유 수송을 하는 대신 즉시 수송을 시작해야 한다고 말했습니다."
-gerfor.103.a:0 "그들에게 가능한 한 제공할 것이다."
-gerfor.103.b:0 "카이저가 목을 매달아 버릴 수도 있다! 우린 단 한 방울도 줄 수 없다."
-
-gerfor.104.t:0 "카이로 협약의 유전 지대 상실!"
-gerfor.104.d:0 "카이로 협약의 교역 파트너가 무너지면서 우리는 중단없는 석유 공급을 잃었습니다. 이미 베를린에서는 위기가 감지되었고 시장에서 심각한 동요가 있었습니다. 이 사건으로 인해 조약이 또다시 쓸모없어졌습니다. 아무도 놀랍지는 않을 것입니다."
-gerfor.104.a:0 "미치겠군."
-
-#gerfor.105.t:0 "Axis Lost Our Oil" # Nice version
-#gerfor.105.d:0 "(TEMP LOCALISATON)"
-#gerfor.105.a:0 ""
-
-gerfor.106.t:0 "오스만 제국의 유전 지대 상실!"
-gerfor.106.d:0 "오스만 제국 교역 파트너가 무너지면서 우리는 중단없는 석유 공급을 잃었습니다. 이미 베를린에서는 위기가 감지되었고 시장에서 심각한 동요가 있었습니다. 이 사건으로 인해 조약이 또다시 쓸모없어졌습니다. 아무도 놀랍지는 않을 것입니다."
-gerfor.106.a:0 "물론 그들이 이를 망친 것이다."
+gerfor.83.t:0 "Signing the Baku Accords"
+gerfor.83.d:0 "Realising that a friendly Turk is more valuable than an angry Turk, the government of [GER.GetLeader] has agreed with our offer and has decreed the departure of all German troops from Azeri territory. Whilst we won't get the access to the powerful oil deposits of Baku, as the treaty grants these to Germany for a period of 25 years, this is a major victory for all Turkics and has been celebrated with great fanfare in Konstantiniyye."
+gerfor.83.a:0 "Wonderful!"
 
 gerfor.107.t:0 "독일이 석유 조약을 제안하다."
 gerfor.107.d:0 "독일인들이 흥미로운 제안을 가지고 우리에게 다가왔습니다. 그들은 석유 소송에 대한 안정을 보장하고 시장에 우선적으로 접근할 수 있는 권리를 주는 대가로 우리 경제에 투자할 것이라고 약속했습니다. 조약의 내용이 지금 작성 중이라고 말햇습니다."
@@ -1884,14 +1807,6 @@ gerfla.7.a:0 "그는 평민에 앞잡이였지만, 그래도 결국은 재상이
 gerfla.8.t:0 "폰 티르피츠 사망 10주기"
 gerfla.8.d:0 "오늘은 재상이자 제독이었던 알프레드 폰 티르피츠의 서거 10주년이 되는 날입니다. 8대 재상이자 독일 해군의 사령관으로서, 티르피츠는 카이저라이히를 루덴도르프의 독재에서 끌어내어 그가 사망할 때까지 20년간 지속된 황금 시대를 열었습니다. /n/n그가 사망한 후, 독일 조국당(Deutsche Vaterlandspartei, DVLP)은 새로운 지도자 알프레드 후겐베르그에 의해 현재는 융커의 당으로 변했으며 폰 파펜의 독일 보수당(Deutschkonservative Partei,DKP)에게 길을 비켜주었습니다. 제국인 티르피츠의 통치 하에서 번영을 누렸지만, 1917년에 맺어진 카이저의 부활절 약속을 이행하기를 계속 미루어 최근 몇년동안 정치적 긴장이 고조되었습니다./n/n그럼에도 불구하고 그의 명성은 엄청나며, 그의 추모일에는 제국 전역에서 존경을 표하는 군중들이 있었습니다."
 gerfla.8.a:0 "그리고 그는 얼마나 위대했던가!"
-
-gerfla.9.t:0 "우리의 투쟁"
-gerfla.9.d:0 "프로필렌 출판사는 오늘 세계대전 당시 독일 병사들의 이야기와 설명, 그리고 시를 다룬 새 책 시리즈 '우리의 투쟁'을 출판할 계획이라고 발표했습니다. 특히, 동부전선과 서부전선에서 적어도 두개의 철십자 훈장을 수여받은 아돌프 히틀러 상병의 일기가 실렸습니다.\n\n이 일기에는 치열한 이념적 투쟁의 본질에 대한 독특하고 열정적인 통찰이 담겨있습니다. 이 어려운 시기에 가치를 재확인하고 제국의 영광이 계속되게 하는 좋은 방법은 무엇일까요?"
-gerfla.9.a:0 "좋은 읽을거리군!"
-
-gerfla.10.t:0 "우리의 투쟁 : 더 무비"
-gerfla.10.d:0 "프로필렌 사가 만든 베스트셀러 시리즈의 광범위한 인기에 힘업어, 신동 영화 감독 레니 리펜슈탈이 이 시리즈를 원작으로 영화를 제작하겠다고 밝혔습니다. '우리의 투쟁'은 바벨스베르크에 대한 정부 투자로 지금까지의 영화들 중 제작비가 가장 많이 쓰였으며, 전쟁 묘사가 무서울 정도로 사실적입니다. 하인즈 뤼만, 한스 알버스, 테오도르 루스 등이 출연한 이 영화는 황제와 제국을 위해 모든 것을 희생하는 용맹한 아돌프 히틀러 상병과 같이, '작은 사람'들의 영웅주의와 헌신에 대한 이야기를 다루었습니다."
-gerfla.10.a:0 "대단한 영화로군!"
 
 gerfla.11.t:0 "유럽으로 귀환"
 gerfla.11.d:0 "우리 군인들은 [GetNameGERCapital]의 거리에서, 귀환하는 독일의 지도자들이 탑승한 함선의 유럽 도착을 열렬하게 환호하며 늘어서 있습니다. 우리는 더 이상 망명자가 아닙니다."

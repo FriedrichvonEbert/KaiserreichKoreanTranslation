@@ -74,7 +74,7 @@ JAP_may_war_with_indochina:0 "§Y인도차이나§!의 유효한 전쟁 목표�
 JAP_can_attack_india:0 "§Y인도§!의 유효한 전쟁 목표를 공격하는 §Y결정§!을 얻을 것입니다\n"
 JAP_may_war_with_siam:0 "§Y[SIA.GetNameDef]§!에 전쟁을 선포하는 §Y결정§!을 얻을 것입니다\n"
 JAP_no_training_help:0 "일본의 도움을 거절하다"
-JAP_returns_land:0 "§G일본은 우리가 영유권을 주장하는 영토나 그들이 요구하지 않은 영토를 제외한 땅을 가질 것입니다.§!\n"
+JAP_returns_land:0 "§G일본은 우리가 영유권을 주장하는 영토나 그들이 요구하지 않은 영토는 넘겨주되, 그 이외의 땅을 가질 것입니다.§!\n"
 
 FNGJapanOutrageLevel:0 "격분한 봉천"
 
@@ -202,8 +202,8 @@ JAP_demand_indonesia:0 "목표: 동인도제도"
 JAP_demand_indonesia_desc:0 "동인도제도는 수 세기 동안 네덜란드 제국주의자들에게 착취당해 왔고, 그 방대한 자원은 유럽인들의 주머니에 가득 들어차 있습니다. 이러한 참상은 반드시 종식되어야만 합니다. 동인도인들과, 그들이 마땅히 속해야 할 공영권을 위해 동인도제도를 해방시킬 것입니다!"
 JAP_philippines:0 "필리핀 장악!"
 JAP_philippines_desc:0 "필리핀에서 미국인들이 사라졌습니다. 공영권이 필리핀 군도를 확보하고 해당 지역의 안정을 유지해야 합니다. 필리핀인들의 생각이야 다를 수도 있겠지만."
-JAP_claim_colonies:0 "남반구 자원 지대 영유권 주장"
-JAP_claim_colonies_desc:0 "일본 소유가 아닌 태평양의 섬 하나하나가 전부 우리 본토 침공을 향한 전진기지가 될 수 있습니다. 독일 제국은 그 섬들에 대한 정당한 소유권이 없으며, 따라서 일본 제국 해군은 그들을 카이저에게로 쫒아보낼 것입니다!"
+JAP_claim_colonies:0 "남태평양 영토 만들기"
+JAP_claim_colonies_desc:0 "우리 소유가 아닌 태평양의 섬 하나하나가 전부 우리 본토 침공을 향한 전진기지가 될 수 있습니다. The German Empire has no right to any of these islands and so they are ours for the rightful taking. First will formalise our claims to the area with the South Seas Territory. We can then use those claims to bring them into our empire, be that with diplomacy or the might of the Japanese Imperial Navy."
 JAP_ultimatum:0 "식민지 최후통첩 발송"
 JAP_ultimatum_desc:0 "이 기회를 이용하여, 아시아와 태평양의 유일한 열강으로서 우리의 정당한 역할을 주장해야만 합니다: 우리는 [GER.GetAdjective]의 모든 동남아시아 및 태평양 영토 할양과 중국에서의 이권 양도를 요구할 것입니다. 어떠한 형태의 거부도 우리에 대한 전쟁 행위로 간주될 것입니다."
 JAP_indochina_question:0 "목표: 인도차이나"
@@ -296,8 +296,8 @@ KR_co_prosperity_sphere_tooltip_desc:0 "§L[GetCoProsperitySphereDesc]§!"
 KR_co_prosperity_sphere_name_JAP:0 "공영권 지도국"
 KR_co_prosperity_sphere_name:0 "공영권 회원국"
 
-KR_co_prosperity_sphere_desc_JAP:0 "[GetCoProsperitySphereEffects]"
-KR_co_prosperity_sphere_desc:0 "[GetCoProsperitySphereEffects]"
+KR_co_prosperity_sphere_desc_JAP:0 ""
+KR_co_prosperity_sphere_desc:0 ""
 
 KR_co_prosperity_sphere_effects_JAP:0 "소비재 공장: [?global.sphere_goods_boost|=%H]\n공장 산출량: [?global.sphere_industry_boost|+=%]\n조선소 산출량: [?global.sphere_industry_boost|+=%]"
 KR_co_prosperity_sphere_effects:0 "건설 속도: [?0.2|+=%]\n자원 획득 효율: [?global.sphere_resources_boost_member|+=%]\n소비재 공장: [?global.sphere_goods_boost_member|=%0H]"
@@ -382,7 +382,7 @@ japfor.8.d:0 "오늘 압둘라시드 이브라힘이라는 이맘(이슬람교�
 japfor.8.a:0 "만나뵈서 반갑습니다, 선생."
 
 japfor.9.t:0 "일본의 지원?"
-japfor.9.d:0 "오늘 일본에서 온 특사가 우리를 위해 특별히 제작된 고성능 무기를 가지고 나타났습니다. 일본이 왜 [Root.GetNameDef]에게 비밀리에 이런 도움을 주고 싶어하는지는 언급하지 않았고, 이 '선물'을 받는 조건이 있는지도 이야기하지 않았습니다. 일본이 이 지역에서 우리와 [current_china_leader.GetNameDef]의 충돌을 이용해 어떤 장난을 치고 있는 걸까요? 조심해야 합니까?"
+japfor.9.d:0 "오늘 일본에서 온 특사가 우리를 위해 특별히 제작된 고성능 무기를 가지고 나타났습니다. 일본이 왜 [Root.GetNameDef]에게 비밀리에 이런 도움을 주고 싶어하는지는 언급하지 않았고, 이 '선물'을 받는 조건이 있는지도 이야기하지 않았습니다. 일본이 이 지역에서 우리와 [CHN.GetNameDef]의 충돌을 이용해 어떤 장난을 치고 있는 걸까요? 조심해야 할까요?"
 japfor.9.a:0 "그들의 도움을 받는다."
 japfor.9.b:0 "아니, 이런 건 필요 없다."
 
