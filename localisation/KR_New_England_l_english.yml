@@ -66,7 +66,6 @@ NEE_A11_Mathilda_tt:0 "§Y150§! units of Canadian §YVickers A11 'Mathilda'§! 
 
 NEE_ugr_csa_10p_increase:0 "우리 §Y[CSA.GetNameWithFlag]§! 밀수 작전의 §Y효율§!이 §G10%§! 증가함\n\n"
 NEE_ugr_csa_30p_decrease:0 "우리 §Y[CSA.GetNameWithFlag]§! 밀수 작전의 §Y효율§!이 §G30%§! 감소함\n\n"
-NEE_white_line:0 "   \n"
 NEE_where_we_dropping_bois:0 "이제 적 영토의 저항군을 강화하기 위해 적 영토에 §Y공중 보급§!을 할 수 있음"
 NEE_claimed_america:0 "민주주의 미국으로써의 책임을 주장함"
 NEE_asymmetrical_warfare:0 "Guerrilla Warfare Training"

@@ -1,7 +1,5 @@
 ﻿l_english:
 
-oman_focus:0 "오만 중점계통도"
-
 ### Parties ###
 OMA_social_democrat_party:0 "Alhizb Alaijtimaeiu"
 OMA_social_democrat_party_long:0 "Alhizb Alaijtimaeiu"
@@ -31,6 +29,10 @@ POLITICS_SAID_TAIMUR_DESC:0 "19세기 영국의 지원으로 이익을 얻었던
 EGY_REFUSED:0 "이집트가 우리 제안을 거절했습니다"
 RAJ_REFUSED:0 "인도 자치령이 우리 제안을 거절했습니다"
 PER_REFUSED:0 "페르시아가 우리 제안을 거절했습니다"
+
+### Decisions ###
+OMA_Saudi_Invasion:0 "War in the Desert"
+OMA_Saudi_Invasion_desc:0 "The stubborn refusal of the Imam to cooperate with Muscat and the lack of cohesive leadership on both sides of our nation has left us open to attack by the Ikhwan. With many following the incredible rise in power of the Saudi dynasty, some of the tribes even within our lands are starting to doubt whether Ibn Saud isn't truly sent by Allah to reunite the Arab people..."
 
 ### Ideas ###
 OMA_tribal_army:0 "조직되지 않은 군대"
@@ -65,6 +67,8 @@ OMA_entente_navy_desc:0 "우리나라는 열강이 아니지만, 우리 항구�
 
 
 ### Focuses ###
+oman_focus:0 "오만 중점계통도"
+
 OMA_defense_of_the_realm:0 "왕국 방위"
 OMA_defense_of_the_realm_desc:0 "이맘은 우리의 새로운 왕국을 위해 최대한의 보호를 요구해 왔습니다. 좋은 출발을 하려면 적절한 사람들을 올바른 위치에 앉혀야 합니다. 우리는 육해공군력을 적절한 때에 올릴 필요가 있습니다."
 OMA_royal_navy:0 "오만 왕립 해군 재건"
@@ -169,6 +173,14 @@ OMA_solve_arabian_issues:0 "아라비아와의 국경분쟁 해결"
 OMA_solve_arabian_issues_desc:0 "The Arabs of the central Peninsula have long had designs on our ports and tradeways. Egypt has offered to broke a settlement of sorts that keeps our territorial integrity, in exchange for some small concessions. While we don't like it, we have little choice if we want Egypt's support."
 OMA_cairo_pact_arms_deal:0 "카이로와의 무기거래"
 OMA_cairo_pact_arms_deal_desc:0 "Our reliance on, and support of Egypt has paid massive dividends. They are sending us massive supplies of military hardware, and the machine tools and building plans to produce more of them. A huge bounty for our military, and one that should guarantee our freedom for years to come."
+OMA_porte_assistance:0 "The Rauf Pasha Mission"
+OMA_porte_assistance_desc:0 ""
+OMA_military_reform:0 "Implement Ottoman Military Reforms"
+OMA_military_reform_desc:0 ""
+OMA_revise_budget:0 "Reorganise the Administration"
+OMA_revise_budget_desc:0 ""
+OMA_freedom_once_more:0 "Dismantle the Protectorate"
+OMA_freedom_once_more_desc:0 ""
 
 ### Events ###
 oma.1.t:0 "오만 소개"
@@ -215,7 +227,6 @@ oma.13.t:0 "오만 보호"
 oma.13.d:0 "Building upon past agreements, the Omani regime has transfered responsibility for portions of its foreign relations and defence to our nation. We now exert substantial influence over the Sultanate."
 oma.13.a:0 "좋아!"
 
-oma.14.t:0 "Recruitment Drive in the Periphery"
-oma.14.d:0 "With the hinterlands fully under our control, we administrative capacity formerly dedicated to managing a complicated web of local relationships has been freed up. With a substantial investment that could only come right from the Sultan's coffers, we could begin to target populated areas beyond Muscat, formerly contested by different banners and underexploited, for recruitment to the new proper army."
-oma.14.a:0 "투자하자."
-oma.14.b:0 "가격이 너무 높다."
+oma.14.t:0 "Ibn Saud marches on the al-Buraimi Oasis"
+oma.14.d:0 "Placed on the border between Muscat and the former Trucial States, ownership over the Oasis has been a contested affair for many generations between the Sultans of Muscat and the Emirs further North. With the conquest of the latter by Ibn Saud, he has also taken over these old claims and is using them for his own machinations.\n\nIt is no secret however that Ibn Saud is not planning to stop his advance after taking the Oasis and by claiming that we were once part of the great Wahabbist state, he will surely not stop until the city of Muscat is ablaze and the vile Ikhwan has slaugthered all that oppose him.\n\nThe threat posed by Ibn Saud however has ensured better relations between the Imam and the Sultan as despite their differences, they both strongly adhere to Omani particularism and will stop at nothing to defend their homeland from the invaders."
+oma.14.a:0 "Dark clouds are brewing over our small nation..."

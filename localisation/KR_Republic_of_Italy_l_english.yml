@@ -42,6 +42,7 @@ ITA_austrian_sanctions:0 "국유화의 여파"
 ITA_austrian_sanctions_desc:0 "우리 경제는 오스트리아의 지배로부터 소위 '이혼'하고서 회복하기 위한 시간이 필요할 것입니다."
 ITA_decentralize_idea:0 "탈중앙화 경제"
 ITA_decentralize_idea_desc:0 "이탈리아 연방은 강력한 지방정부로 이루어진 연방을 추구합니다. 이러한 사상은 지방정부에 대한 투자를 유도하기 훨씬 쉬워질 것입니다."
+ITA_increase_limit_idea:0 "State of Emergency"
 ITA_merchant_marine_idea:0 "수송선"
 ITA_merchant_marine_idea_desc:0 ""
 ITA_aviation_industry_idea:0 "항공 산업"
@@ -785,8 +786,12 @@ ita.68.d:0 "내전 기간 중에 창설된 녹색셔츠단의 공식명칭은 �
 ita.68.a:0 "이탈리아의 적에게 죽음을!"
 
 ita.69.t:0 "베네치아의 제독들이 반란에 가담하다!"
-ita.69.d:0 "베네치아의 제독 알베르토 다 자라와 주세페 피오라반조는 우리 정부를 폭군이라고 비난하면서 우리의 권위에 대항하는 반란에 동참하기로 결정했습니다. 불행하게도, 그들은 공화국 함대의 상당 부분을 차지했습니다."
+ita.69.d:0 "베네치아의 제독 알베르토 다 자라와 주세페 피오라반조는 우리 정부를 폭군이라고 비난하면서 우리의 권위에 대항하는 반란에 동참하기로 결정했습니다. Unfortunately, they have managed to take the [ITA.GetAdjective] fleet with them."
 ita.69.a:0 "그들은 배신의 대가를 치르게 될 것이다!"
+
+ita.70.t:0 "Venetian Navy Captured!"
+ita.70.d:0 "With our capture of Venice, the rebel Venetian navy has nowhere to turn. Admirals Da Zara and Fioravanzo have been arrested and their ships turned back over to [ITA.GetAdjective] control."
+ita.70.a:0 "So much for their revolt"
 
 ita.81.t:0 "이탈리아 연방에 권력 이양?"
 ita.81.d.early_demands:0 "이탈리아 공화국은 연방의 큰 위협입니다. 그들이 연방의 일원이기는 하지만, 그들은 자신들이 충분히 강력하다고 생각하면서 토리노를 점령한 후에 우리를 배신할 수도 있습니다. 우리는 그들이 표면적으로도 연방과 더 비슷해지도록 그들의 정부를 재정비할 것을 요청해야 합니다."

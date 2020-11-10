@@ -782,7 +782,7 @@ HOL_sa_government_in_exile_desc:0 "우리는 단순히 말만 늘여서는 안 �
 
 ### Custom Tech for infantry, temporary text blatantly stolen from Siam###
 korps_commandos:0 "Korps Commandos"
-HOL_korps_commandos_effect:0 "Form the §HKorps Kommandos§!\n§HAll mountaineers\n    Urban§!\n      Attack: §G+10%§!\n      Defence: §G+5%§!\n      Movement: §G+5%§!\n\n"
+HOL_korps_commandos_effect:0 "Form the §H$korps_commandos$\nAll mountaineers\n    Urban§!\n      Attack: §G+10%§!\n      Defence: §G+5%§!\n      Movement: §G+5%§!\n\n"
 korps_mariniers:0 "Korps Mariniers"
 HOL_korps_mariniers_effect:0 "Expand the §HKorps Mariniers Training§!\n§HAll marines\n    Jungle§!\n      Attack: §G+10%§!\n      Defence: §G+5%§!\n      Movement: §G+5%§!\n\n"
 

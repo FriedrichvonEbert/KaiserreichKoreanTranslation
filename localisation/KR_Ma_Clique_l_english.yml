@@ -406,6 +406,26 @@ mac.224.a:0 "서쪽에서 벌어진 사건이 동쪽에도 영향을 끼치는�
 mac.224.b:0 "서쪽에서 벌어진 사건이 동쪽에도 영향을 끼치는군"
 mac.224.c:0 "서쪽에서 벌어진 사건이 동쪽에도 영향을 끼치는군"
 
+mac.225.t:0 "Popular Support for Peace in Northwest"
+mac.225.d:0 "Discontent against the campaign between the Hui and Buddhists has been brewing for weeks. In the thousands whose homes have been destroyed by partisans, to the families of the warlords themselves that never wanted a total war. The notion of a peaceful surrender and to temporarily settle the provincial lands between the Mongols and Tibetans is now being entertained in the halls of power. It now lies to the executive to decide whether this olive branch is worth throwing away the chance to subdue a mortal enemy and bury the hatchet between Buddhists and Muslims in the Northwest, if only temporarily."
+mac.225.a:0 "Send the peace offer"
+mac.225.b:0 "We will never surrender"
+
+mac.226.t:0 "Petition for Peace in Northwest"
+mac.226.d.MON:0 "A petition has reached [MON.GetLeader]'s office, requesting a ceasefire between Mongolia and the Ma Clique until the national crisis over China's government is settled. This issue is appealing to those in Mongolia calling to return home, including members of the Cabinet. However, there is a risk that the national government of China, once recovered, will break this treaty."
+mac.226.d.TIB:0 "A petition has reached [TIB.GetLeader]'s office, requesting a ceasefire between Tibet and the Ma Clique until the national crisis over China's government is settled. This issue is appealing to those in Tibet calling to return home, including members of the Cabinet. However, there is a risk that the national government of China, once recovered, will break this treaty."
+mac.226.a:0 "Yes, let's end this"
+mac.226.b:0 "This war is not over yet"
+
+mac.227.t:0 "Northwest Peace Refused"
+mac.227.d.MON:0 "The peition to bring peace between the Hui and Buddhists has been rejected. The rhetoric displayed by both sides is too strong to overturn by executive command. There will only be a Hui government or a Buddhist government in the Northwest and nothing else is acceptable. "
+mac.227.d.TIB:0 "The peition to bring peace between the Hui and Buddhists has been rejected. The rhetoric displayed by both sides is too strong to overturn by executive command. There will only be a Hui government or a Buddhist government in the Northwest and nothing else is acceptable."
+mac.227.a:0 "Carry on"
+
+mac.228.t:0 "Gansu Governor Surrenders to [SHX.GetLeader]"
+mac.228.d:0 "After hearing the news that the Ma warlords have called for a ceasefire, allowing themselves only the governate of Gansu, it was obvious to [SHX.GetLeader] that this was the time to strike a bargain. The Ma families have been accustomed to a lifestyle and wealth that one Governate in Gansu cannot provide, especially not after the destruction Feng yuxiang wrought. [SHX.GetLeader] now has in front of him two possible proposals. The first is the total surrender of Gansu to the Shanxi Clique, forcing the Ma families to recieve their income from our coffers. The second option is to preserve the legal Governate, for now, and appoint a Governor to Gansu among the Ma families that will best suit the interest of Shanxi. "
+mac.228.a:0 "Keep Gansu under our thumb"
+mac.228.b:0 "Place a pliant man in Gansu"
 
 
 ### Focuses ###

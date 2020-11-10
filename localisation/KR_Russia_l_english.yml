@@ -48,6 +48,7 @@ RUS_cold_war:0 "황혼의 투쟁"
 RUS_cold_war_desc:0 "나팔소리가 우리를 다시 불러들이고 있습니다. - 무기가 필요하지만, 무기를 들라는 부름이 아니고, 전투를 치르는 중이지만, 전투에 나서라는 부름이 아니라 - 긴 황혼의 투쟁의 짐을 짊어지라는 부름입니다."
 RUS_state_religion:0 "국가정교회"
 RUS_rearmament_programme_idea:0 "Rearmament Programme"
+RUS_fraying_union:0 "Fraying Union"
 
 russian_research:0 "러시아 과학 학술원"
 russian_research_name:0 "러시아 과학 학술원"
@@ -142,54 +143,14 @@ POLITICS_VLADIMIR_MANSHTEYN_DESC:0 "§YGeneral Description\n§YBorn:§L\nJanuary
 RUS_Foreign_Policy_decisions:0 "대외 정책"
 RUS_Foreign_Policy_decisions_desc:0 "지난 몇 십 년 동안, 러시아는 세계에서 웃음거리였습니다. 그러나, 최근 유럽의 연쇄적인 사건들과 그 영향들은 우리에게서 분리된 (불법적인)국가들을 다시금 되찾을 수 있는 기회로 찾아왔습니다. \n\n 이제, 러시아라는 곰이 깨어났습니다. 다만 우리가 옛 러시아 제국의 영토를 되찾아야만 우리는 진정으로 위대한 러시아가 될 수 있을 것입니다. 러시아여 영원하라! 러시아는 하나이리라!"
 
-RUS_Integrate_Alash_Autonomy:0 "[From.GetNameDef] 통합"
-RUS_Integrate_Alash_Autonomy_desc:0 "카자흐스탄은 광활하고, 부유한데다가 충성스럽기까지 합니다. 이 지역을 다시 수복한다면 우리는 그 남쪽의 투르케스탄, 나아가서는 페르시아에까지 영향력을 투사할 수 있습니다!"
-
 RUS_Attack_Region:0 "[From.GetNameDef] 공격"
 
 RUS_Attack_Central_Asia_desc:0 "[RUS_Attack_Central_Asia_desc_text]"
 RUS_Attack_Central_Asia_desc_ALO:0 "검은 월요일이 러시아를 강타하면서, 알라시 자치국은 우리의 통제에서 벗어났습니다. 카자흐 국경선을 되찾는 것은 러시아를 다시금 열강으로 올려놓기 위한 최우선 과제입니다."
 RUS_Attack_Central_Asia_desc_TRK:0 "투르케스탄 지역은 본래 러시아령으로, 세계대전 패전으로 인해 상실한 영토입니다. 카자흐 국경선이 우리의 통제하에 확고히 자리잡았으니, 이제 해당 지역을 수복하는 데 집중해야 합니다."
 
-RUS_Demand_Concessions_In_The_Caucasus:0 "캅카스 권리 요구"
-RUS_Demand_Concessions_In_The_Caucasus_desc:0 "독일은 현재 이웃 국가들과의 전쟁에서 고전하고 있습니다. 이는 우리가 상실했던 캅카스 영토를 수복할 절호의 기회입니다. 카이저에게 최후통첩을 보내야 합니다. 캅카스에 대한 권리를 인정할 것인지, 아니면 양면전쟁에 휘말리게 될 것인지를 말입니다. 그들은 이 제안을 거절할 만큼 어리석지는 않을 것입니다."
-
-RUS_Attack_Caucasus:0 "[RUS_Attack_Caucasus_text]"
-RUS_Attack_Caucasus_desc:0 "[RUS_Attack_Caucasus_desc_text]"
-
-RUS_Attack_Caucasus_DKB:0 "돈-쿠반 연합의 의중을 묻다"
-RUS_Attack_Caucasus_AZR:0 "바쿠 유전 지대"
-RUS_Attack_Caucasus_GEO:0 "조지아의 의중을 묻다"
-RUS_Attack_Caucasus_ARM:0 "아르메니아의 지위"
-RUS_Attack_Caucasus_desc_DKB:0 "돈-쿠반 연합은 러시아와 캅카스 사이의 완충지를 만들기 위해 독일이 조성한 인공적인 정권에 불과합니다. 우리는 코사크인들을 뭉개버리고 이 땅에 사는 러시아인들을 정당한 조국으로 다시 데려올 것입니다!"
-RUS_Attack_Caucasus_desc_AZR:0 "캅카스에서 가장 가치있는 지역, 아제르바이잔에는 우리 군과 산업에 절실한 석유가 매우 풍부합니다. 우리는 잃어버렸던 러시아의 일부를 수복할 뿐이지만요."
-RUS_Attack_Caucasus_desc_GEO:0 "조지아는 구 러시아 제국의 가장 중요한 지역 중 하나였습니다. 천혜의 요새인 캅카스 산맥과 독일이 소유하고 있는 송유관 몇 줄은 덤입니다. 최대한 빨리, 조지아를 우리 통제 하에 돌려놓을 수 있는 방법을 모색해야만 합니다."
-RUS_Attack_Caucasus_desc_ARM:0 "이제 캅카스에 대한 지배력을 공고히 했으니, 아르메니아를 주목해야 합니다. 또한 러시아 제국의 붕괴 이후 핍박받아온 이곳의 정교회교도들을 주목해야 합니다. 우리는 그들을 다시 보호할 것입니다."
-
-RUS_Claim_Greater_Armenia:0 "대아르메니아 영유권 주장"
-RUS_Claim_Greater_Armenia_desc:0 "현재 아르메니아는 우리의 통제 하에 있지만, 대아르메니아의 일부로 분류되는 영토들이 아직 남아있습니다. 우리는 투르크인들에게 해당 지역을 할양하라는 최후통첩을 보낼 것입니다. 이를 거부한다면 러시아군과 조우하게 될 뿐입니다."
-
-RUS_Claim_The_Straits:0 "해협 영유권 주장"
-RUS_Claim_The_Straits_desc:0 "러시아는 항상 콘스탄티노플을 갈망해왔습니다. 그리고 운명이 항상 그런 러시아를 막아섰습니다. 지금, 우리는 보스포루스 해협을 손에 넣을 수 있는 절호의 기회를 마주했습니다."
-RUS_Attack_Ottomans:0 "[From.GetFlag] [From.GetNameDef] 공격"
-RUS_Attack_Ottomans_desc:0 "우리의 오랜 숙적은 긴 시간동안 우리를 방해해 왔습니다. 이들을 고통에서 해방시키고, 동유럽의 거대한 질서로서의 우리의 지위를 다시 한 번 강조할 때가 되었습니다."
-
-RUS_Ultimatum_To_Persia:0 "[From.GetNameDef]에게 최후통첩"
-RUS_Ultimatum_To_Persia_desc:0 "[From.GetNameDefCap](은)는 거대하고 강력한 국가입니다. 그들은 우리의 적대관계가 될 필요가 없습니다. 아마도 우리는 그들과 일종의 '합의'에 도달할 수 있을 것입니다."
-RUS_Attack_Persia:0 "[From.GetNameDef] 분쇄"
-RUS_Attack_Persia_desc:0 "[From.GetNameDefCap](은)는 우리의 확장 정책을 방해하고 있고, 우리의 부동항을 얻고자하는 계획을 막고 있습니다. [From.GetNameDef] 혹은 우리, 두 국가 중 하나가 승자가 될 것입니다!"
-
-RUS_Demand_Tuva:0 "투바 요구"
-RUS_Demand_Tuva_desc:0 "투바는 이전에 러시아 제국의 지배하에 있었습니다. 이제 우리는 서쪽에 있는 우리의 옛 영토를 다시 되찾았으므로, 시베리아 횡단 철도를 보호하기 위한 추가적인 완충지대를 확보하기 위해 이 국경 지역을 다시 점령해야 합니다."
-
-RUS_Attack_Transamur:0 "[From.GetNameDef] 반환 요구"
-RUS_Attack_Transamur_desc:0 "일본의 보호를 받으며 자신들이 정당한 국가라고 주장하는 자들과 끝장을 봐야합니다. 블라디보스토크는 다시 한번 '합법적인' 러시아에 의해 통치될 것입니다!"
-
-RUS_Attack_Japan:0 "[From.GetNameDef] 문제 처리"
-RUS_Attack_Japan_desc:0 "동부에 있는 우리의 오랜 라이벌인 일본은 오랜 기간동안 우리의 골칫거리였습니다. 우리의 서부영토가 확고히 통합되면서, 우리는 마침내 아시아를 죄고 있는 그들의 영향력을 완전히 무너뜨리는 데 우리의 관심을 집중할 수 있게 되었습니다."
-
-RUS_Attack_Germany:0 "[GER.GetFactionName] 분쇄"
-RUS_Attack_Germany_desc:0 "우리가 첫 세계대전에서 패한 뒤부터 가해진 부당한 대우를 청산하고, 망할 놈의 카이저에게 반격할 때가 왔습니다. 브레스트-리토프스크의 복수는 지금 시작되었습니다!"
+RUS_Seize_Tuva:0 "Seize Tuva"
+RUS_Seize_Tuva_desc:0 "The lands of Tuva were formerly under the control of the Russian Empire. Now that we have consolidated our lands in the West and Mongolia is occupied elsewhere, we should retake this border region to provide additional security for the Trans-Siberian Railway."
 
 RUS_Demand_Karelia:0 "카렐리야 요구"
 RUS_Demand_Karelia_desc:0 "핀란드의 영토 대부분은 비교적 가치 없는 땅입니다. 이러한 영토들을 요구하기보다, 우리는 러시아 내전 중에 부당하게 빼앗긴 카렐리아 영토의 반환을 요구할 뿐입니다. 핀란드인들이 이성적으로 생각할 수 있다면, 협상에 응할 것입니다."
@@ -198,9 +159,25 @@ RUS_Demand_Bessarabia:0 "베사라비아 요구"
 RUS_Demand_Bessarabia_desc:0 "베사라비아의 주민들은 너무 오랫동안 그들의 조국에서 분리되었습니다. 루마니아는 이 땅을 우리에게 돌려주거나 우리 군대의 힘에 무너져야 할 것입니다."
 
 RUS_Demand_Galicia:0 "갈리치아 요구"
-RUS_Demand_Galicia_desc:0 "갈리치아에 있는 우리의 슬라브 형제들은 오스트리아와 그 마자르 추종자들의 궁핍한 통치하에서 너무 오랫동안 복속되어 왔습니다. 우리는 [From.GetCapital]에게, 우리한테 갈리치아를 넘겨주든가, 강제로 분리되든가 선택하라고 최후통첩을 전달할 것입니다."
+RUS_Demand_Galicia_desc:0 "Our Slavic brothers in Galicia have been subjugated far too long under the destitute governance of Austria and its Magyar followers. We shall deliver an ultimatum straight to [From.Capital.GetName]: hand over Galicia or we shall liberate it by force."
 
-RUS_Attack_Poland_desc:0 "1917년, 러시아의 붕괴 후에 폴란드 사람들은 차르 대신 카이저를 섬기고 있습니다. 그들이 현재 독일의 영향력에서 포로로 잡혀있고, 그들을 해방시키는 것은 이제 우리 손에 달려 있습니다."
+RUS_Claim_The_Straits:0 "해협 영유권 주장"
+RUS_Claim_The_Straits_desc:0 "러시아는 항상 콘스탄티노플을 갈망해왔습니다. 그리고 운명이 항상 그런 러시아를 막아섰습니다. 지금, 우리는 보스포루스 해협을 손에 넣을 수 있는 절호의 기회를 마주했습니다."
+
+RUS_Attack_Ottomans:0 "[From.GetFlag] [From.GetNameDef] 공격"
+RUS_Attack_Ottomans_desc:0 "우리의 오랜 숙적은 긴 시간동안 우리를 방해해 왔습니다. 이들을 고통에서 해방시키고, 동유럽의 거대한 질서로서의 우리의 지위를 다시 한 번 강조할 때가 되었습니다."
+
+RUS_Ultimatum_To_Persia:0 "[From.GetNameDef]에게 최후통첩"
+RUS_Ultimatum_To_Persia_desc:0 "[From.GetNameDefCap] has taken advantage of the Weltkrieg to take control of Azerbaijan, which is a rightful possession of [ROOT.GetNameDef] We must give them an ultimatum - return Azerbaijan, or face war."
+
+RUS_Attack_Persia:0 "[From.GetNameDef] 분쇄"
+RUS_Attack_Persia_desc:0 "[From.GetNameDefCap](은)는 우리의 확장 정책을 방해하고 있고, 우리의 부동항을 얻고자하는 계획을 막고 있습니다. [From.GetNameDef] 혹은 우리, 두 국가 중 하나가 승자가 될 것입니다!"
+
+RUS_Attack_Transamur:0 "[From.GetNameDef] 반환 요구"
+RUS_Attack_Transamur_desc:0 "일본의 보호를 받으며 자신들이 정당한 국가라고 주장하는 자들과 끝장을 봐야합니다. 블라디보스토크는 다시 한번 '합법적인' 러시아에 의해 통치될 것입니다!"
+
+RUS_Attack_Japan:0 "[From.GetNameDef] 문제 처리"
+RUS_Attack_Japan_desc:0 "동부에 있는 우리의 오랜 라이벌인 일본은 오랜 기간동안 우리의 골칫거리였습니다. 우리의 서부영토가 확고히 통합되면서, 우리는 마침내 아시아를 죄고 있는 그들의 영향력을 완전히 무너뜨리는 데 우리의 관심을 집중할 수 있게 되었습니다."
 
 RUS_Integration_decisions:0 "Territorial Integration"
 RUS_Integration_decisions_desc:0 "We should make strives to reintegrate territories lost to us during the collapse of the Empire. The change in management from the old regime will have significant effects on our industry however in the long term it will leave Russia strong enough to face the dangers of the world."
@@ -208,7 +185,7 @@ RUS_Integrate_Country:0 "Integrate [From.GetNameDef]"
 RUS_Integrate_State:0 "Integrate [From.GetName]"
 
 RUS_Alliance_decisions:0 "러시아 영향권" #The Russian Sphere
-RUS_Invite_Country:0 "[From.GetFlag] [From.GetNameDef] 초대"
+RUS_Invite_Country:0 "[From.GetNameWithFlag] 초대"
 RUS_invited_country:0 "진행중인 협상"
 
 RUS_Invite_Mongolia_desc:0 "몽골인들은 우리의 영향력에 우호적인 것으로 보입니다. 이제 정식으로 두 나라를 하나로 묶어야 할 것입니다."
@@ -227,7 +204,7 @@ RUS_Develop_Industry_In_Nizhny_Novgorod:0 "니즈니노브고로드 산업 개�
 RUS_Develop_Industry_In_Kazan:0 "카잔 산업 개발"
 RUS_Develop_Industry_In_Ufa:0 "우파 산업 개발"
 RUS_Develop_Industry_In_Perm:0 "페름 산업 개발"
-RUS_Develop_Industry_In_Volgograd:0 "[217.GetName] 산업 개발"
+RUS_Develop_Industry_In_Tsaritsyn:0 "Develop Industry in Tsaritsyn"
 RUS_Develop_Industry_In_Yekaterinburg:0 "예카테린부르크 산업 개발"
 RUS_Develop_Industry_In_Chelyabinsk:0 "첼랴빈스크 산업 개발"
 RUS_Develop_Industry_In_Omsk:0 "옴스크 산업 개발"
@@ -625,22 +602,22 @@ RUS_Expansionism:0 "팽창주의"
 RUS_Expansionism_desc:0 "팽창주의 이론은 러시아의 국경이 우리의 심장부에서 멀리 떨어질수록 우리는 더 안전하다고 여깁니다. 우리 속국을 제외한 러시아의 모든 주변국은 그들의 경제적,군사적 힘에 따라 우리에 대한 위협이나 우리의 표적이 될 것입니다. 당연하게도 이러한 정책들은 다른 나라의 호감을 얻지 못할 것입니다."
 
 RUS_Secure_Central_Asia:0 "중앙아시아 확보"
-RUS_Secure_Central_Asia_desc:0 "독일은 캅카스 지역과 달리 중앙아시아에는 관심이 없습니다. 우리는 강대국의 간섭을 받지 않고 이 지역을 장악할 수 있을 것입니다."
+RUS_Secure_Central_Asia_desc:0 "독일은 쿠반 지역과 달리 중앙아시아에는 관심이 없습니다. 우리는 강대국의 간섭을 받지 않고 이 지역을 장악할 수 있을 것입니다."
+
+RUS_Crisis_On_The_Don:0 "Crisis on the Don"
+RUS_Crisis_On_The_Don_desc:0 "The Kuban Steppe is wealthy and, historically, part of Russia. The people who live there might not think so any more, but with enough military muscles that shouldn't be a problem. Germany will however keep a close eye on us, and we should tread carefully in the region."
+
+RUS_The_Road_To_War:0 "The Road to War"
+RUS_The_Road_To_War_desc:0 "Tensions are rising across Europe, and Russia cannot allow itself to stay out of the war which is due to break out. The conflict between Germany and France is our only chance to reclaim the lost territories in the West - and we need to prepare the country for this goal."
 
 RUS_Seek_Allies:0 "동맹을 찾자"
-RUS_Seek_Allies_desc:0 "세력을 창설했으니 동맹을 구할 차례입니다. 동맹을 구하지 않으면 독일에 맞설 수 없습니다."
+RUS_Seek_Allies_desc:0 "With our geopolitical bloc established, it's time we sought out allies. We cannot hope to take on Germany alone, and there are many countries around Russia willing to align themselves with someone other than the Reichspakt or the Internationale - be it because of historical ties with Russia or simple pragmatism."
 
 RUS_The_Academy_Of_Sciences:0 "과학 아카데미"
-RUS_The_Academy_Of_Sciences_desc:0 "우리는 공동 연구 프로그램을 만들어 동맹국 간의 보다 깊은 협력을 키워야 합니다."
+RUS_The_Academy_Of_Sciences_desc:0 "We should foster deeper cooperation between our allies by creating a collective research initiative. The Russian Academy of Sciences, already a gateway for Western scientific thought into Russia, will serve us well as the foundation of this initiative."
 
-RUS_Into_The_Caucasus:0 "캅카스를 향해"
-RUS_Into_The_Caucasus_desc:0 "부유한 지역인 캅카스는 역사적으로 러시아의 일부였습니다. 그곳 주민들은 더이상 그렇게 생각하지 않을지 모르지만, 강력한 군대가 있는 한 그것은 문제가 되지않습니다. 그러나 독일이 우리를 감시하고 있고, 우리는 신중하게 움직여야 합니다."
-
-RUS_Repudiate_Brest_Litovsk:0 "브레스트 리토프스크 조약 파기"
-RUS_Repudiate_Brest_Litovsk_desc:0 "세계대전에서 우리의 가장 큰 손실은 동쪽이나 남쪽의 영토가 아니고, 바로 산업화된 서부 영토의 상실이었습니다. 이제 그 땅은 정당한 주인의 것이 되어야 합니다."
-
-RUS_Force_Open_The_Straits:0 "해협을 열자"
-RUS_Force_Open_The_Straits_desc:0 "중앙아시아와 캅카스 지역이 우리의 지배하에 있기 때문에, 우리는 전략적 요충지이며 부유한 땅인 중동에 집중할 수 있게 되었습니다. 우리의 존재는 중동의 균형을 무너뜨릴 것이고 우리 군대는 거친 산악에서의 전투에 대비해야 할 것입니다."	
+RUS_Crush_The_German_Hegemony:0 "Crush the German Hegemony"
+RUS_Crush_The_German_Hegemony_desc:0 "The time has come for us to end the injustices inflicted from the first Weltkrieg and strike back at the damnable Kaiser. Brest-Litovsk shall be avenged!"
 
 RUS_Enemy_In_The_East:0 "동쪽의 적"
 RUS_Enemy_In_The_East_desc:0 "러일 전쟁 이후 러시아의 진정한 적은 해가 떠오르는 동쪽의 제국이었고, 앞으로도 그럴 것입니다. 중국의 부유하고 인구가 많은 지역을 차지하면 우리에게 도움이 될 것입니다."
@@ -649,32 +626,33 @@ RUS_Enemy_In_The_East_desc:0 "러일 전쟁 이후 러시아의 진정한 적은
 RUS_Savinkov_is_HoG:0 "§H보리스 사빈코프§! 가 현재 지도자임"
 RUS_Savinkov_is_HoG_NOT:0 "§H보리스 사빈코프§! 가 현재 지도자가 아님"
 
-RUS_has_black_monday:0 "국민정신 §H경제 불황§!을 가짐"
-RUS_has_black_monday_NOT:0 "국민정신 §H경제 불황§!을 가지지 않음"
+RUS_has_black_monday:0 "국민정신 §H$RUS_economic_depression$§!을 가짐"
+RUS_has_black_monday_NOT:0 "국민정신 §H$RUS_economic_depression$§!을 가지지 않음"
 
 RUS_Okhrannoye_Otdeleniye_tooltip:0 "정부는 오흐라나를 재도입하기로 결정했습니다"
+RUS_okhrannoye_otdeleniye_unlocked:0 "Focus §H$RUS_Reintroduce_Okhrannoye_Otdeleniye$§! is now available"
+
 RUS_Army_Modernisation_tooltip:0 "군사 훈련이 끝났습니다"
+RUS_army_unlocked:0 "Focus §H$RUS_Army_Modernisation$§! is now available"
+
 RUS_Navy_Modernisation_tooltip:0 "해군 기동이 끝났습니다"
-RUS_economic_tree_unlocked_ves:0 "§HVES 설립§! 중점이 해금됩니다"
-RUS_economic_tree_unlocked_zemstva:0 "§H젬스트보 재도입§! 중점이 해금됩니다"
-RUS_economic_tree_unlocked_bureaucracy:0 "§H관료제 정비§! 중점이 해금됩니다"
-RUS_economic_tree_unlocked_cooperatives:0 "§H협동자본주의§! 중점이 해금됩니다"
+RUS_navy_unlocked:0 "Focus §H$RUS_Navy_Modernisation$§! is now available"
 
-RUS_may_lead_to_war_with_From:0 "§RMay lead to war with [From.GetNameDef]§!"
-RUS_may_lead_to_war_with_From_overlord:0 "§RMay lead to war with [From.Overlord.GetNameDef]§!"
+RUS_economic_tree_unlocked_ves:0 "Focus §H$RUS_Establish_The_VES$§! is now available"
+RUS_economic_tree_unlocked_zemstva:0 "Focus §H$RUS_Reinstitute_The_Zemstva$§! is now available"
+RUS_economic_tree_unlocked_bureaucracy:0 "Focus §H$RUS_Bureaucratic_Overhaul$§! is now available"
+RUS_economic_tree_unlocked_cooperatives:0 "Focus §H$RUS_Cooperative_Capitalism$§! is now available"
 
-RUS_Expansionism_tooltip:0 "Unlocks extra expansion options against §HPoland§!, §HAustria§!, §HRomania§! and §HPersia§!."
+RUS_may_lead_to_war_with_FROM:0 "§RMay lead to war with [From.GetNameDef]§!"
+RUS_may_lead_to_war_with_FROM_overlord:0 "§RMay lead to war with [From.Overlord.GetNameDef]§!"
+RUS_if_demands_refused:0 "If our demands are refused:"
+RUS_will_declare_war_on_ROOT:0 "§R[FROM.GetNameDefCap] will declare war on us!"
+
+RUS_Expansionism_tooltip:0 "Unlocks extra expansion options against §HPoland§!, §HAustria§!, §HRomania§!, §HPersia§! and §HAfghanistan§!."
+RUS_Integrate_Alash_Autonomy_tooltip:0 "§HIntegrate [ALO.GetNameDef]§!\n"
 RUS_Attack_Central_Asia_ALO_tooltip:0 "§H[ALO.GetNameDef]§! 공격\n"
 RUS_Attack_Central_Asia_TRK_tooltip:0 "§H[TRK.GetNameDef]§! 공격\n"
-RUS_Integrate_Alash_Autonomy_tooltip:0 "§H[ALO.GetNameDef]§! 통합\n"
-RUS_Attack_Caucasus_DKB_tooltip:0 "§H돈-쿠반 연합 문제§!\n"
-RUS_Attack_Caucasus_AZR_tooltip:0 "§H바쿠 유전지대§!\n"
-RUS_Attack_Caucasus_GEO_tooltip:0 "§H조지아 문제§!\n"
-RUS_Attack_Caucasus_ARM_tooltip:0 "§H아르메니아의 지위§!\n"
-RUS_Attack_Ottomans_OTT_tooltip:0 "§H[OTT.GetNameDef]§! 공격\n"
-RUS_Attack_Ottomans_TUR_tooltip:0 "§H[TUR.GetNameDef]§! 공격\n"
-RUS_Attack_Persia_tooltip:0 "§H[PER.GetNameDef]§! 분쇄\n"
-RUS_Ultimatum_To_Persia_tooltip:0 "§H[PER.GetNameDef]§!에 최후통첩\n"
+RUS_The_Road_To_War_tooltip:0 "Unlocks £decision_icon_small §HDecisions§! to attack isolated countries in Europe."
 RUS_Attack_Transamur_tooltip:0 "§H[TRM.GetNameDef]§! 장악\n"
 RUS_Attack_Japan_tooltip:0 "§H[JAP.GetNameDef]§!과의 거래\n"
 
@@ -831,7 +809,7 @@ russia.183.t:0 "군정 국가"
 russia.183.d:0 "옛 백군의 유산인 육군원수 브란겔과 데니킨이 이끄는 군대가 러시아를 장악하는 데 성공하였습니다. 그들은 대내외의 적으로부터 조국 러시아를 지키기 위해 들고 일어났습니다. 그들과 함께라면 러시아는 두려울 게 없습니다."
 russia.183.a:0 "우라!"
 
-russia.19.t:0 "키릴이 수상을 지명하다"
+russia.19.t:0 "[GetLeader]이 수상을 지명하다"
 russia.19.d:0 "러시아에 차르정이 복원되었고, 새로운 차르는 이제 수상을 지명해야 합니다."
 russia.19.a:0 "블라디미르 푸리시케비치."
 russia.19.b:0 "군대 출신의 안톤 데니킨."
@@ -850,11 +828,6 @@ russia.21.a:0 "흥미롭군!"
 russia.22.t:0 "또다른 브레스트-리토프스크는 없다"
 russia.22.d:0 "러시아 정세가 안정되기 시작한 지금, 러시아 국민들은 서쪽에 관심을 돌리기 시작했습니다. 브레스트-리토프스크 조약은 체결 이래 러시아에 대한 징벌적 역할을 수행해 왔지만, 러시아는 드디어 그 조약을 백지화하는걸 고려할 만큼 자신감을 갖게 되었습니다. 인쇄 매체들은 러시아 서쪽 이웃들을 '독일 점령하 서부 영토'로 묘사하고, 그곳의 우리 동포들이 고통받고 있으며 어머니 러시아의 귀환을 바라고 있다는 지도와 논문을 출판하고 있습니다. 러시아의 여러 정파들은 서로 다른 이유로 이 문제에 같은 의견을 내고 있습니다. 러시아 민족주의자들은 독일에 대한 복수를 추구하는 반면, 좌파들은 독일을 유럽의 사회주의와 생디칼리슴의 부상을 막는 패권국으로 보고 있습니다.\n\n누가 정권을 잡든, 러시아의 잃어버린 서부 영토들의 탈환이 최우선 순위가 되어야 할 것입니다. 그러나 러시아의 시민들과 지식인, 정치인들은 러시아가 선제 공격을 행하는 것을 바라지 않으며, 충분히 시간을 두고 기다릴 필요가 있다고 생각하고 있습니다. 독일이 다른 곳에 신경을 쏟을 때, 우리는 매처럼 먹이를 낚아챌 것입니다. 노련함은 지난 전쟁에서도 러시아를 구원했고, 이번에도 다르지 않을 것입니다."
 russia.22.a:0 "...베를린이 불타는 걸 어서 보고 싶군."
-
-russia.23.t:0 "수도"
-russia.23.d:0 "러시아의 두 역사적 수도 중 하나를 우리 정부의 거처로 삼아야 합니다. 어디가 좋을까요?"
-russia.23.a:0 "페트로그라드!"
-russia.23.b:0 "모스크바!"
 
 russia.24.t:0 "좌파 카르텔"
 russia.24.d:0 "케렌스키 대통령 암살사건과 러시아의 불안한 정치상황으로 인해 새로운 정치세력이 부상하고 이들을 지탱할 새로운 연합세력이 생겨났습니다. 수많은 소외된 극좌 정당들을 하나의 기치 아래 통합하기 위해, 멘셰비키는 인민사회당 및 노동조합사회당과 선거 동맹을 맺었습니다. "좌파 카르텔"(Levyj Kartel')로 불리는 이 동맹은 당연히 불안정한 상태이지만, 그럼에도 불구하고 러시아의 기성 정치세력에 심각한 도전을 가하고 있습니다. 카르텔은 동맹 성명서에서 공화국의 민주적 사회주의 개혁, 독일 제국주의에 대한 적대적 입장, 민주적 제도 유지 등을 주장하고 있습니다."
@@ -1372,29 +1345,101 @@ rusd.163.a:0 "흥미로운 발상이군..."
 
 ### Foreign Events ###
 
-rusfor.2.t:0 "동부 국경 안정화"
-rusfor.2.d:0 "러시아는 과거 그들의 제국처럼 캅카스의 질서를 되찾았습니다. 현재 이집트와 하셰마이트 아라비아에서 발흥하고 있는 아랍 민족주의는 우리나라를 심각하게 위협하고 있으며, 우리의 적대적인 아라비아 이웃들과의 다가오는 충돌에서 살아남으려면, 우리는 우리의 동쪽 국경을 신속하게 안정시켜야 합니다. 술탄은 니하드 왕자를 보내 러시아에 불가침조약을 제안할 계획입니다."
-rusfor.2.a:0 "왕자를 보내라!"
-rusfor.2.b:0 "러시아와의 거래는 없다!"
+rusfor.1.t:0 "Unrest on the Don"
+rusfor.1.d:0 "Founded in 1925 after Pyetr Krasnov sided with Aleksandr Kolchak during the Kolchak Coup and carved out a fief in the Russian steppe with German support, the Don-Kuban Union is an artificial state, composed of several Cossack hosts such as Don, Kuban and Terek, and numerous ethnicities in the Northern Caucasus, and held up by the Cossack leader's persona.\n\nRussia's steady recovery and rebuilding, and so plans to spread outward, have caused a stir in the state. Many of its inhabitants feel little attachment to any sort of \"Don-Kuban\" identity and see themselves as Russians, Ukrainians, or as a part of the state's many other ethnic groups. If Russia takes the opportunity to heighten these tensions, Krasnov's fragile state may finally collapse."
+rusfor.1.a:0 "Is Russia at it again?"
+rusfor.1.b:0 "Soon this rebel state will be no more."
 
-rusfor.3.t:0 "오스만과의 불가침조약"
-rusfor.3.d:0 "최근 우리의 캅카스, 즉 조지아 합병은 오스만의 심기를 건드렸습니다. 오스만의 니하드 왕자가 양국의 불가침 조약을 체결하기 위해 우리 수도에 도착했습니다. 양측은 오스만 제국과 러시아의 현재 국경을 유지하는 데 동의하였습니다. 어떻게 할까요?"
-rusfor.3.a:0 "우리도 안정이 필요하다. 조약을 체결하자!"
-rusfor.3.b:0 "그 대가로 아르메니아를 요구하자!"
-rusfor.3.c:0 "필요없다."
+rusfor.2.t:0 "The Terek Conflict"
+rusfor.2.d.default:0 "Open violence has broken out in the eastern parts of the Union. The Terek Cossacks have chosen to abandon their twenty year long alliance with the Don Host and swear allegiance to Russia instead - and unrest is brewing among the Kuban and Don hosts as well. There is suspicion that Russian agents and agitators are involved as well, even though the pro-Russian tendencies of a large portion of the population cannot be dismissed. What should our response be?"
+rusfor.2.d.isolated:0 "Open violence has broken out in the eastern and southern parts of the Union. The Terek Cossacks have chosen to abandon their twenty year long alliance with the Don Host and swear allegiance to Russia instead, while the Kuban Cossacks have done the same towards Ukraine - and unrest is brewing among the Don Cossacks as well. There is suspicion that Russian and Ukrainian agents and agitators are involved as well, even though the irredentist tendencies of a large portion of the population cannot be dismissed. What should our response be?"
+rusfor.2.a:0 "Crack down on the rebellious Cossacks!"
+rusfor.2.b:0 "Blame Russia, ask for German support!"
 
-rusfor.4.t:0 "불가침조약이 체결되었다"
-rusfor.4.d:0 "니하드 왕자의 비행기가 오늘 이스탄불에 착륙했고, 왕자는 러시아 정부와의 협정이 체결되었다고 발표했습니다. 우리 제국의 동쪽 국경은 이제 안전합니다!"
-rusfor.4.a:0 "오스만 외교의 크나큰 성공이다!"
+rusfor.3.t:0 "The Plight of the Terek Cossacks"
+rusfor.3.d:0 "The Terek Cossack Host, located in the eastern part of the Don-Kuban Union, has sensed our resurgence and chosen to declare their allegiance to us, causing chaos in Grozny, Vladikavkaz and Petrovsk. Dozens of Terek leaders have been arrested and pro-Russian protests have been suppressed by force - and thanks to the ever-seeing eyes of the Okhrana, these atrocities have been widely publicized. Public opinion in Russia is greatly in favor of intervention and the world seems to not bat an eye..."
+rusfor.3.a:0 "This is the chance we needed!"
 
-rusfor.5.t:0 "러시아와의 불가침조약"
-rusfor.5.d:0 "러시아국은 양국 간의 협정에 동의하기로 했지만, 그들은 완충국 아르메니아를 러시아의 영향권에 넣어야 한다고 요구하고 있습니다."
-rusfor.5.a:0 "아르메니아를 그들의 운명에 맡기자."
-rusfor.5.b:0 "우리는 아르메니아를 포기하지 않을 것이다!"
+rusfor.4.t:0 "Crackdown on the Terek Host"
+rusfor.4.d:0 "The impatient and short-sighted Pyetr Krasnov has made the mistake of escalating the crisis, and has begun a crackdown on the Terek Cossacks and Russian separatists in his regime. The eyes of the world are on the ongoing atrocities, and support for the Don-Kuban across the planet is wavering..."
+rusfor.4.a:0 "The fools have played right into our hands!"
 
-rusfor.6.t:0 "오스만과의 불가침조약이 체결되었다"
-rusfor.6.d:0 "오스만 제국은 아르메니아가 우리의 세력권이 되는 것에 동의했습니다. 우리는 오스만 제국과의 전쟁 가능성을 성공적으로 제거하였고, 우리의 안보에 대한 더 심각한 위협에 대처할 수 있게 되었습니다. 이는 러시아 외교의 위대한 승리입니다!"
-rusfor.6.a:0 "우라!"
+rusfor.5.t:0 "Message from Yekaterinodar"
+rusfor.5.d:0 "The foreign ministry of the Don-Kuban Union has suddenly contacted our offices in a panic. It appears Pyetr Krasnov's fief has seen better days - ethnic strife plagues the eastern part of the country and the populace calls for a return to the Russian fold. Ten years ago, we helped prop up the Caucasian state for easy access to the Caucasus and its oil reserves, but it appears that control over it has become tenuous and may easily slip from our grasp. While we may still maintain it, perhaps there is a different approach?"
+rusfor.5.a:0 "We need to retain the Caucasus."
+rusfor.5.b:0 "Offer to mediate the conflict."
+rusfor.5.c:0 "Only make verbal protests."
+
+rusfor.6.t:0 "The Germans Stand by Us"
+rusfor.6.d:0 "Calling upon Germany was the right choice, as the Kaiser's government has declared that they will defend the territorial integrity of the Don-Kuban Union against any Russian encroachment. Already, the protests in Terek are starting to weaken, as the chance of a Russian intervention has become slim. Of course, to pay for this price, we have been forced to join the Reichspakt."
+rusfor.6.a:0 "Better than death, for sure."
+
+rusfor.7.t:0 "Germany Protects Don-Kuban"
+rusfor.7.d:0 "During the end of the Weltkrieg, the German Empire cut up Russia into several pieces with the Treaty of Brest-Litovsk. Its breadbasket, Ukraine, was turned into an independent state, the Baku oil fields fell from their grasp, their presence in the Baltic Sea was eliminated with the formation of the United Baltic Duchy, and Reichspakt troops stand in striking distance from its new capital Moscow. In the intervening decades, German influence helped weaken Russia further by backing Pyetr Krasnov's rebellion in the Don-Kuban region. All of it was done with the perception that Russia will always be the greatest threat to German domination of Europe - France may be Germany's eternal rival and Britain rule the waves, but Russia, if left alone, can muster the manpower and resources needed to topple Berlin.\n\nToday, the Kaiser and his government, realizing our attempt to meddle in the Don-Kuban region, have affirmed their support for Krasnov's clique and invited it into the Reichspakt. Already, German troops are landing in the Don region and our attempt to seize the territory have failed."
+rusfor.7.a:0 "They only delay the inevitable."
+
+rusfor.8.t:0 "The Germans Offer Mediation"
+rusfor.8.d:0 "During the end of the Weltkrieg, the German Empire cut up Russia into several pieces with the Treaty of Brest-Litovsk. Its breadbasket, Ukraine, was turned into an independent state, the Baku oil fields fell from their grasp, their presence in the Baltic Sea was eliminated with the formation of the United Baltic Duchy, and Reichspakt troops stand in striking distance from its new capital Moscow. In the intervening decades, German influence helped weaken Russia further by backing Pyetr Krasnov's rebellion in the Don-Kuban region. All of it was done with the perception that Russia will always be the greatest threat to German domination of Europe - France may be Germany's eternal rival and Britain rule the waves, but Russia, if left alone, can muster the manpower and resources needed to topple Berlin.\n\nThe German Empire, fearing a loss of influence in the Caucasus after a possible Russo-Cossack war, has contacted us with an offer to mediate the conflict, and grant us access to a part of the Don-Kuban Union without a shot fired, and with their blessing. Of course, the other part will be placed under German protection, meaning that it will be as far as our expansion goes. What should our response be?"
+rusfor.8.a:0 "Agree to the negotiations and push as far as possible."
+rusfor.8.b:0 "We will not negotiate with Germans!"
+
+rusfor.9.t:0 "Berlin Betrays Us!"
+rusfor.9.d:0 "The German Empire has betrayed us! Instead of defending the integrity of our borders, they have instead negotiated with the Russians to dismantle our country and divide it in half! According to the terms of the treaty, we will have to not only surrender the lands of the Terek Cossacks, but also the Stavropol Region, North Caucasus and Kalmykia, leaving us with merely the Don and Kuban hosts! The remaining part will be placed under close German protection as well, meaning a loss of our fragile independence. Shall we accept these punitive terms, or will we fight to the bitter end, even though the Germans inform us that they will not support us then?"
+rusfor.9.a:0 "Unfortunately, we accept."
+rusfor.9.b:0 "We would rather fight to the death!"
+
+rusfor.10.t:0 "The Don-Kuban Protectorate"
+rusfor.10.d:0 "Under the terms of the treaty with Russia, the western half of the Don-Kuban Union falls under Germany's sphere of influence - and Pyetr Krasnov, presented with the ultimatum, has acceded. German troops have landed in Yekaterinodar and dissolved the Cossack Circle government, instead placing the more friendly Kuban Cossacks led by Andrey Shkuro in charge of the protectorate. It is peace for our time!"
+rusfor.10.a:0 "Welcome to the Reichspakt."
+
+rusfor.11.t:0 "Terek Host Regained"
+rusfor.11.d:0 "Under the terms of the treaty with Germany, the eastern half of the Don-Kuban Union falls under Russia's sphere of influence - and Pyetr Krasnov, presented with the ultimatum, has acceded. Russian troops now march into the lands of the Terek Host, Kalmykia, and the Northern Caucasus, territory far greater than initially claimed thanks to our brilliant negotiations with the Germans, and these lands are integrated into the Russian nation without a shot fired."
+rusfor.11.a:0 "The first of many victories."
+
+rusfor.12.t:0 "Russia Refuses Mediation"
+rusfor.12.d:0 "The Russian state has responded to our overtures with the claim that their foreign policy should not be of our concern. Their diplomats point out that we are directly accusing them of meddling in the Caucasus when no such thing is happening, and that the events in the Terek Host are an initiative of the people - whom Russia, as a nation for Russians, needs to defend. How should we respond to this slap in the face!"
+rusfor.12.a:0 "We need to retain the Caucasus."
+rusfor.12.b:0 "Only make verbal protests."
+
+rusfor.13.t:0 "Don-Kuban Rejects Our Mediation"
+rusfor.13.d:0 "Pyetr Krasnov, the ruler of the Don-Kuban Union, has destroyed any attempt at mediating a peace in the Caucasus! He has declared that neither Russia nor Germany have a right to infringe on his country's independence, and that he will resist any decision made by Russo-German negotiations. All our agreements with Russia, which were supposed to ensure peace for our time, are now not worth the paper they're signed on."
+rusfor.13.a:0 "Wash our hands of this affair."
+
+rusfor.14.t:0 "The Germans Protest!"
+rusfor.14.d:0 "During the end of the Weltkrieg, the German Empire cut up Russia into several pieces with the Treaty of Brest-Litovsk. Its breadbasket, Ukraine, was turned into an independent state, the Baku oil fields fell from their grasp, their presence in the Baltic Sea was eliminated with the formation of the United Baltic Duchy, and Reichspakt troops stand in striking distance from its new capital Moscow. In the intervening decades, German influence helped weaken Russia further by backing Pyetr Krasnov's rebellion in the Don-Kuban region. All of it was done with the perception that Russia will always be the greatest threat to German domination of Europe - France may be Germany's eternal rival and Britain rule the waves, but Russia, if left alone, can muster the manpower and resources needed to topple Berlin.\n\nOur aims to unravel the Treaty and restore Russia's natural borders have been caught by the Germans, as we could expect from the very beginning. The Kaiser and his lackeys in the government are understandably frightened, so they have begun to threaten us with embargoes and support for the rebel Don-Kuban \"state\". What should we say in response?"
+rusfor.14.a:0 "Who cares?"
+rusfor.14.b:0 "But send them a letter to show how little we do..."
+rusfor.14.c:0 "...and attach a map of Germany with Russian names..."
+rusfor.14.e:0 "...and start free screenings of anti-German movies, too."
+
+rusfor.15.t:0 "Russia Ignores Our Protests"
+rusfor.15.d:0 "The Russians, as we should have expected, have ignored our verbal protest, and their diplomats state that the plight of the Russian people in the Don-Kuban Union is their concern, and not the concern of Germany. From this belligerent rhetoric, it's easy to tell that war will break out in the Caucasus, and now we will be too late to stop the Russian advance. All that's left to do is an embargo."
+rusfor.15.a:0 "End all relations with the Russian state."
+
+rusfor.16.t:0 "A Secret Deal with Ukraine?"
+rusfor.16.d:0 "As we prepare to deal with the Don-Kuban Union, the diplomatic corps has proposed a plan how to ensure our success in the endeavor. Ukraine, having recently freed itself from German hegemony, stands between the Don and the Reichspakt, and if we convince them to back us, then Germany will be unable to support Krasnov in any meaningful way. Of course, this will mean sacrificing the Kuban Oblast to the Ukrainians - it is an Ukrainian claim, and they sought to integrate it back in 1918."
+rusfor.16.a:0 "A perfect opportunity to outmanoeuvre the Germans!"
+rusfor.16.b:0 "We don't need them."
+
+rusfor.17.t:0 "A Message from Moscow"
+rusfor.17.d:0 "The resurgent Russian state has begun to eye the Don-Kuban Union to the south - but they do not want to do this alone. Our foreign ministry has received a secret message from their Russian counterpart, with an offer they believe we can’t refuse - a chance to partition the Don-Kuban Union among ourselves. Many of the Union’s inhabitants see themselves as Ukrainian, especially in the Kuban host, which even sought to join Ukraine in 1918. Still, if we reciprocate, that means that we will give Russia free reign in the rest, and thus make sure that nobody can come to Krasnov's help, not even Germany. What if Russia moves upon us next?"
+rusfor.17.a:0 "Russia will take Kuban if we don't. Accept it."
+rusfor.17.b:0 "No deals with the Russians."
+
+rusfor.18.t:0 "The Ukrainians Accept"
+rusfor.18.d:0 "The Ukrainian government in Kiev has accepted, and will endorse our push into the Don-Kuban Union. Surrounded from all sides by hostile powers, Krasnov's regime has been completely isolated, and even if someone like Germany wanted to support him, they would have no means of ensuring its independence."
+rusfor.18.a:0 "Tomorrow in Rostov!"
+
+rusfor.19.t:0 "The Ukrainians Refuse"
+rusfor.19.d:0 "The Ukrainian government has refused our offer and stated that the events in Don-Kuban are not their concern - clearly motivated by reasonable fear that they will be next on the chopping block. This has put a stop to any plans to isolate Krasnov's regime, and it means that Germany will still have a chance to make a say."
+rusfor.19.a:0 "That won't stop us."
+
+rusfor.20.t:0 "Crisis on the Don"
+rusfor.20.d.terek_rebellion:0 "The Don-Kuban Union, a state created by the Cossacks with German support after the Kolchak Putsch in 1925, was widely expected to be Russia's first target ever since the Russian state began to recover from its economic and political instability. These predictions have been proven right, as a diplomatic crisis has now broken out over the fate of the Terek Cossacks in the east of the country.\n\nThe crisis has escalated into a war between the Cossacks and Russia - and the world watches with bated breath as a resurgent Russia flexes its military might."
+rusfor.20.d.partitioned:0 "The Don-Kuban Union, a state created by the Cossacks with German support after the Kolchak Putsch in 1925, was widely expected to be Russia's first target ever since the Russian state began to recover from its economic and political instability. These predictions have been proven right, as a diplomatic crisis has now broken out over the fate of the Terek Cossacks in the east of the country.\n\nThe Union turned to the German Empire to help mediate the conflict. Germany and Russia have promptly conspired to dismantle the state into a German-dominated west and Russian-seized east, and Krasnov's regime has fallen. Russia's first diplomatic play is victorious."
+rusfor.20.d.joined_reichspakt:0 "The Don-Kuban Union, a state created by the Cossacks with German support after the Kolchak Putsch in 1925, was widely expected to be Russia's first target ever since the Russian state began to recover from its economic and political instability. These predictions have been proven right, as a diplomatic crisis has now broken out over the fate of the Terek Cossacks in the east of the country.\n\nThe Union turned to the German Empire to help mediate the conflict. Germany has responded harshly, accepting the Cossacks into the Reichspakt and denying Russia a victory - however, the alarm which Russian meddling caused has made it known that they are once again resurgent."
+rusfor.20.d.joint_war:0 "The Don-Kuban Union, a state created by the Cossacks with German support after the Kolchak Putsch in 1925, was widely expected to be Russia's first target ever since the Russian state began to recover from its economic and political instability. These predictions have been proven right, as a diplomatic crisis has now broken out over the fate of the Terek Cossacks in the east of the country.\n\nThe crisis has escalated into a war between the Cossacks and Russia, with Ukrainian support on the Russian side for their claims in Kuban - and the world watches with bated breath as a resurgent Russia flexes its military might."
+rusfor.20.a:0 "Russia is back on the world stage."
 
 rusfor.47.t:0 "대조국전쟁"
 rusfor.47.d.democratic_FRA:0 "전체주의 프랑스 정권은 러시아를 싫어하고 신앙, 명예, 재산, 시민의 자유를 억압하고 있습니다. 이 전쟁의 결과가 우리 조국의 운명을 결정한다는 것은 누구나 알고 있습니다. 대도시의 시민들이 프랑스 출신이거나 생디칼리슴과 연관된 모든 것을 공격하고 있습니다. 주정부 관리들은 이미 젊은이들이 군대에 가거나 공장에 들어가도록 유도하기 위해 대대적인 선전에 착수했습니다. 볼셰비키를 제외한 모든 정파의 음악가, 시인, 화가, 그리고 다른 예술가들이 우리 정권에 대한 지지를 발표했습니다. 정교회 성직자들은 모든 주요 종교계 인사들과 마찬가지로 전선에 있는 군인들을 위해 기도하고 있습니다. 이제 의회의 모든 정당들과 무역 조합들이 러시아를 지키기 위한 '신성한 동맹'을 결성하였고, 우리 미래는 밝습니다!"
@@ -1442,305 +1487,19 @@ rusfor.56.t:0 "[From.GetNameDefCap]의 거절!"
 rusfor.56.d:0 "오늘 우리는 [From.GetCapital] 측으로부터 우리의 군사동맹 요청에 대한 답장을 받았습니다. 심사숙고 끝에 그들은 우리의 러시아 영향권 가입을 거절했으며 우리 외교정책과 국가중점이 그들과 맞지 않는다고 밝혔습니다. 이제 우리는 다른 곳에서 협력의 손길을 찾아보아야 합니다."
 rusfor.56.a:0 "그들은 미쳤거나, 우리 땅을 원하거나 둘 중 하나인것 같다."
 
-rusfor.1000.t:0 "러시아의 동향"
-rusfor.1000.d:0 "세계대전 말기에 독일 제국은 브레스트-리토프스크 조약으로 러시아를 여러 조각으로 잘랐습니다. 곡창 우크라이나는 독립국가가 되었고, 바쿠 유전은 러시아의 손아귀에서 벗어났고, 발트 공국이 수립되면서 러시아의 발트해 영향력은 사라졌고, 라이히스팍트군은 새로운 수도 모스크바 지척에서 러시아를 감시할 수 있게 되었습니다. 지난 수십 년 동안, 독일은 돈-쿠반 지역에서 일어난 표트르 크라스노프의 반란을 지원함으로써 러시아를 더욱 약화시키는데 성공했습니다. 이 모든 것은 러시아가 독일의 유럽 지배에 항상 가장 큰 위협이 될 것이라는 인식에서 이루어졌습니다 - 프랑스는 독일의 영원한 라이벌이고 브리튼은 파도를 지배하지만, 러시아는 내버려두면 베를린을 무너뜨리는 데 필요한 인력과 자원이 그들의 것이 될 것입니다.\n\n모스크바에 있는 우리 외교관들이 러시아 정부의 새로운 확장 계획을 포착했습니다. 우리 외교부는 러시아가 지난 몇 년 동안 내부 재건을 실시했고, 지금은 캅카스 지역에 대한 질서 회복을 모색하고 있다는 점을 잘 알고 있습니다. 만약 이를 막지 못한다면, 돈-쿠반 체르노젬과 아제르바이잔의 석유는 브레스트-리토프스크 조약을 전복시킬 수 있는 러시아의 전쟁 기계에 연료를 공급할 것입니다! 러시아의 새로운 확장주의에 어떻게 대응해야 할까요?"
-rusfor.1000.a:0 "브레스트-리토프스크 조약의 준수를 요구하라!"
-rusfor.1000.b:0 "러시아에게 경고를 보내고 위협받는 국가들을 제국 조약에 초대하라!"
-rusfor.1000.c:0 "캅카스까지 신경쓸 여유는 없다."
-
-rusfor.1001.t:0 "독일의 보호?"
-rusfor.1001.d:0 "세계대전 말기에 독일 제국은 브레스트-리토프스크 조약으로 러시아를 여러 조각으로 잘랐습니다. 곡창 우크라이나는 독립국가가 되었고, 바쿠 유전은 러시아의 손아귀에서 벗어났고, 발트 공국이 수립되면서 러시아의 발트해 영향력은 사라졌고, 라이히스팍트군은 새로운 수도 모스크바 지척에서 러시아를 감시할 수 있게 되었습니다. 지난 수십 년 동안, 독일은 돈-쿠반 지역에서 일어난 표트르 크라스노프의 반란을 지원함으로써 러시아를 더욱 약화시키는데 성공했습니다. 이 모든 것은 러시아가 독일의 유럽 지배에 항상 가장 큰 위협이 될 것이라는 인식에서 이루어졌습니다 - 프랑스는 독일의 영원한 라이벌이고 브리튼은 파도를 지배하지만, 러시아는 내버려두면 베를린을 무너뜨리는 데 필요한 인력과 자원이 그들의 것이 될 것입니다.\n\n지난 몇 년 동안, 러시아인들은 그들의 군대를 빠르게 재건했고, 경제적 혼란에서 회복했고, 그들의 눈을 남쪽으로 돌렸습니다. 이미 캅카스에 대한 러시아의 위협적인 메시지가 모스크바에서 흘러나오고 있습니다. 하지만 오늘 [Capital.GetName]에서 새로운 메시지가 도착했고, 러시아의 확장주의적 행보에 겁을 먹은 독일이 우리에게 보호를 제안했습니다. 어떻게 할까요?"
-rusfor.1001.a:0 "받아들이자."
-rusfor.1001.b:0 "독립보장으로 충분하다."
-rusfor.1001.c:0 "거절하자."
-
-rusfor.1002.t:0 "[From.GetNameDefCap]의 라이히스팍트 가입"
-rusfor.1002.d:0 "[From.GetNameDefCap] 측이 우리 제안을 받아들여 라이히스팍트에 가입했습니다."
-rusfor.1002.a:0 "좋아!"
-
-rusfor.1005.t:0 "독일이 우리를 위협하다!"
-rusfor.1005.d:0 "세계대전 말기에 독일 제국은 브레스트-리토프스크 조약으로 러시아를 여러 조각으로 잘랐습니다. 곡창 우크라이나는 독립국가가 되었고, 바쿠 유전은 러시아의 손아귀에서 벗어났고, 발트 공국이 수립되면서 러시아의 발트해 영향력은 사라졌고, 라이히스팍트군은 새로운 수도 모스크바 지척에서 러시아를 감시할 수 있게 되었습니다. 지난 수십 년 동안, 독일은 돈-쿠반 지역에서 일어난 표트르 크라스노프의 반란을 지원함으로써 러시아를 더욱 약화시키는데 성공했습니다. 이 모든 것은 러시아가 독일의 유럽 지배에 항상 가장 큰 위협이 될 것이라는 인식에서 이루어졌습니다 - 프랑스는 독일의 영원한 라이벌이고 브리튼은 파도를 지배하지만, 러시아는 내버려두면 베를린을 무너뜨리는 데 필요한 인력과 자원이 그들의 것이 될 것입니다.\n\n우리의 목표는 조약의 족쇄를 풀고 예전처럼 러시아의 자연적인 국경을 복원하는 것입니다. 독일의 카이저와 그의 하인들은 겁을 먹었고, 경제 제재로 우리를 위협하고 캅카스 국가들에 대한 지원을 시작했습니다. 어떻게 해야 할까요?"
-rusfor.1005.a:0 "누가 신경쓰는데?"
-rusfor.1005.b:0 "우리는 그럴 만한 힘이 없다는 것을 편지를 써서 표현하자..."
-rusfor.1005.c:0 "...그리고 러시아어로 된 독일 지도를 첨부하자..."
-rusfor.1005.e:0 "...또한 그리고 반독 성향의 영화를 상영하는 것을 허가하자."
-
-rusfor.1006.t:0 "우리 요구를 무시한 러시아"
-rusfor.1006.d:0 "러시아 정부는 어리석은 자신감으로, 캅카스의 자주권과 독립에 대한 우리의 합리적인 요구를 거절했습니다. 이 무례함을 어떻게 심판해야 할까요?"
-rusfor.1006.a:0 "라이히스팍트와 러시아 간의 모든 접촉을 끊자!"
-rusfor.1006.b:0 "물러서자. 우리는 러시아와 싸울 만한 여력이 없다."
-
-rusfor.1007.t:0 "라이히스팍트가 우리와의 모든 접촉을 끊었다"
-rusfor.1007.d:0 "독일의 캅카스 '안정화' 계획 중단 요구를 우리가 거부하면서 독일 제국은 우리와 라이히스팍트간의 모든 무역 및 외교적 접촉을 중단했습니다. 우리 산업계는 이미 이런 극단적인 행동의 결과를 느끼고 있습니다."
-rusfor.1007.a:0 "우리는 살아남을 것이다!"
-rus_ceased_contacts_germany:0 "독일의 봉쇄"
-
-rusfor.1008.t:0 "캅카스 위기"
-rusfor.1008.d:0 "캅카스 지역에서의 러시아의 확장주의에 자극받은 독일은 그들을 견제하기로 마음먹었습니다. 이는 외교관 추방이나 상호 보이콧같은 양국간의 긴장을 촉발시켰습니다. 하지만 러시아는 물러서지 않았고, 양국 관계는 얼어붙었습니다.\n\n러시아는 세계에서 두번째로 강한 열강으로 평가받고 있으나, 러시아의 힘은 지난 수년간 급속도로 길러진 것이고, 이러한 갈등은 독일 제국에 도전하는 것이 더이상 두렵지 않다는 것을 나타낸 것입니다."
-rusfor.1008.a:0 "적의 적이군..."
-rusfor.1008.b:0 "물러서자!"
-rusfor.1008.c:0 "평화가 이기길 빌자."
-
-rusfor.1009.t:0 "돈-쿠반 연합의 운명?"
-rusfor.1009.d:0 "흑해와 카스피해 사이에 있는 돈-쿠반 연합은 볼셰비키 혁명의 혼란으로 인한 내전과 독일 개입의 와중에 베를린의 지원을 받아 카리스마 넘치는 백군 지도자 표트르 크라스노프에 의해 만들어졌습니다. 하지만 이제 러시아는 이 작은 나라를 재흡수할 준비가 되어있습니다. 어떻게 할까요? 우리가 어떤 행동을 취하든, 독일과의 충돌에 대비해야 합니다. 그들은 특히 그들에게 우호적인 국가들에 대한 우리의 야망을 주시하고 있습니다."
-rusfor.1009.a:0 "독일과 논의를 시작하자."
-rusfor.1009.b:0 "선동가를 보내자."
-rusfor.1009.c:0 "국민투표를 고려해보자."
-
-rusfor.1010.t:0 "러시아가 돈-쿠반 합병을 원하다"
-rusfor.1010.d:0 "러시아 대사는 돈-쿠반 연합 해체에 대해 논의하기 위해 우리에게 접근해 왔습니다. 20년대 이래로 독일은 그들의 독립을 보장해 왔으나 러시아는 이를 '반역 지역'으로 보고 있습니다. 만일 우리가 코사크에 대한 지지를 철회하고 러시아의 합병을 묵인하면 러시아는 우리와 기꺼이 협력할 것입니다. 만약 우리가 러시아와의 대화를 거부하더라도 러시아는 돈-쿠반에 간섭할 수단이 많다는 것을 기억해야 합니다."
-rusfor.1010.a:0 "러시아의 요구는 정당하다. 돈-쿠반은 러시아의 일부다."
-rusfor.1010.b:0 "절대로 안 된다. 돈-쿠반은 우리의 동반자다!"
-
-rusfor.1011.t:0 "러시아가 우리 땅을 원하고 있다!"
-rusfor.1011.d:0 "독일이 우리를 포기했습니다. 이제 우리는 강대한 러시아의 힘 앞에 무력합니다!"
-rusfor.1011.a:0 "선제공격이 필요하다!"
-rusfor.1011.b:0 "항복하자."
-
-rusfor.1012.t:0 "돈-쿠반에 대한 영유권 주장"
-rusfor.1012.d:0 "우리는 능숙한 외교를 통해 돈-쿠반 연합으로 하여금 우리에게 선전포고를 하게 할 수 있었습니다. 이제 우리는 국제적인 반응에 대해 걱정할 필요 없이 마침내 돈-쿠반을 되찾을 수 있게 되었습니다."
-rusfor.1012.a:0 "좋아!"
-
-rusfor.1013.t:0 "돈-쿠반이 항복했다!"
-rusfor.1013.d:0 "노보로시스크와 그로즈니가 어머니 조국으로 돌아왔다."
-rusfor.1013.a:0 "좋아!"
-
-rusfor.1014.t:0 "독일은 돈-쿠반을 포기하지 않았다"
-rusfor.1014.d:0 "우리의 최선의 노력에도 불구하고, 독일인들은 돈-쿠반 연합의 독립에 대한 그들의 보증을 철회하기를 거부해 왔습니다. 우리는 그 땅을 얻기 위한 다른 방법을 생각해 봐야 합니다."
-rusfor.1014.a:0 "러시아인들이여 일어서자!"
-rusfor.1014.b:0 "지역 자본가들에게 주민투표를 열라고 로비를 하자!"
-
-rusfor.1015.t:0 "혼돈이 국가를 집어삼키다!"
-rusfor.1015.d:0 "러시아 선동가들은 코사크족에 대한 대중의 적대를 조장했습니다. 우리의 시골과 도시에 있는 러시아인들이 반란을 일으켰습니다. 체첸과 잉구시인들은 우리 정부에 대한 성전을 선포했습니다. 국가가 혼란에 빠졌고, 또 무슨 일이 일어날까요?"
-rusfor.1015.a:0 "반군이 수도를 점령했다!"
-rusfor.1015.b:0 "반군이 격퇴되었다!"
-
-rusfor.1016.t:0 "돈 쿠반 연합에서 러시아인 쿠데타가 성공했다"
-rusfor.1016.d:0 "러시아인과 캅카스 부족민의 연합이 코사크족을 무찔렀습니다. 돈 쿠반의 운명은 우리 손에 달려 있습니다!"
-rusfor.1016.a:0 "돈-쿠반 연합은 조국의 품으로 돌아올 것이다!"
-
-rusfor.1017.t:0 "자본가들이 주민투표를 원하다"
-rusfor.1017.d:0 "러시아로부터 지원을 받은 지역 자본가들이 우리나라의 미래에 대한 주민투표를 주장하고 있습니다. 어떻게 할까요?"
-rusfor.1017.a:0 "허락하자."
-rusfor.1017.b:0 "거부하자."
-
-rusfor.1018.t:0 "돈-쿠반 연합의 주민투표"
-rusfor.1018.d:0 "사람들이 투표소로 몰려들고 있습니다. 아마도 민주주의는 작동할 수 있을 것입니다."
-rusfor.1018.a:0 "돈-쿠반이 러시아의 일부가 되었다!"
-rusfor.1018.b:0 "돈-쿠반은 독립을 유지할 것이다."
-
-rusfor.1019.t:0 "돈-쿠반 문제"
-rusfor.1019.d:0 "돈-쿠반을 향한 우리의 평화적인 정책은 실패한 것 같습니다. 이제 우리는 좀 더 공격적인 길을 생각해봐야 합니다."
-rusfor.1019.a:0 "우리는 돈-쿠반의 코사크 지배를 끝내야 한다."
-rusfor.1019.b:0 "이는 전쟁을 의미한다!"
-
-rusfor.1020.t:0 "바쿠 유전"
-rusfor.1020.d:0 "러시아가 다른 열강들처럼 산업과 군사 생산을 하려면 많은 석유가 필요합니다. 우리는 중앙 시베리아에 조그만 유전을 가지고 있지만, 아제르바이잔 지역엔 더 거대한 시추시설과 유전이 있고, 그들만의 힘으로 유전을 유지하는 데 벅차 보입니다. 바쿠 유전에 관심을 가질 때입니다."
-rusfor.1020.a:0 "우리는 힘으로 당장 그 빼앗긴 땅을 되찾을 것이다!"
-rusfor.1020.b:0 "바쿠 유전지대를 장악하고 그들의 정부를 통제하자!"
-rusfor.1020.c:0 "아제르바이잔의 안전을 보장해주고 유전에 투자하자."
-
-rusfor.1021.t:0 "러시아의 투자"
-rusfor.1021.d:0 "러시아 정부는 바쿠 석유 협회의 막대한 지분을 매입했으며, 유전 시설을 관리, 확보, 건설할 계획을 가지고 있습니다. 이것은 우리가 우리 정부의 많은 부분을 통제할 수 없게 되겠지만 적어도 우리에게 강력한 후원자가 생긴다는 것을 의미합니다."
-rusfor.1021.a:0 "러시아인들을 받아들여 아제르바이잔을 개발하자."
-rusfor.1021.b:0 "거절하고 러시아의 영향력을 제한하자!"
-
-rusfor.1022.t:0 "아제르바이잔이 저항하다"
-rusfor.1022.d:0 "어리석은 아제르바이잔 정부는 그들의 정부에 우리의 영향력을 행사하려는 우리의 시도를 거부했습니다. 이 무례함을 어떻게 심판해야 할까요?"
-rusfor.1022.a:0 "전쟁으로 해결할 것이다!"
-rusfor.1022.b:0 "퇴각하라."
-
-rusfor.1023.t:0 "아제르바이잔이 받아들이다!"
-rusfor.1023.d:0 "아제르바이잔은 국영 석유 산업에 대한 우리의 과반수 지분 인수를 수락했습니다. 이것은 우리에게 아제르바이잔의 경제와 정부를 완전히 지배하거나 러시아로의 재통합을 시작할 수 있는 충분한 발판을 제공할 것입니다."
-rusfor.1023.a:0 "아제르바이잔 경제를 장악하자."
-
-rusfor.1024.t:0 "아제르바이잔의 자치"
-rusfor.1024.d:0 "아제르바이잔에 대한 러시아의 지배가 안정화되면서, 우리 정부의 일부 구성원들은 아제르바이잔이 러시아 제국으로 통합될 때가 되었다고 생각합니다. 이 지역이 러시아에 더 확고하게 통합되도록 하는 일련의 법을 통과시키는 것은 꽤 쉬울 것입니다."
-rusfor.1024.a:0 "아제르바이잔을 직접 지배할 때이다!"
-
-rusfor.1025.t:0 "조지아 문제"
-rusfor.1025.d:0 "이제 돈-쿠반 연합이 더 이상 존재하지 않으니, 우리는 조지아의 운명을 결정해야 합니다. 우리는 군사력을 이용하거나 기존의 군주주의 저항세력을 이용한 비밀 작전을 통해 그들을 무너뜨릴 수 있습니다. 어떻게 할까요?"
-rusfor.1025.a:0 "무력으로 위협을 가하라!"
-rusfor.1025.b:0 "비밀 공작을 시도해볼만 하다."
-
-rusfor.1026.t:0 "러시아의 요구"
-rusfor.1026.d:0 "점점 강력해지고 있는 러시아가 다시 한번 캅카스를 주시하고 있습니다. 러시아는 그들 국가로의 우리나라의 통합과 같은 몇몇 요구사항들을 우리나라에 전달했으며, 국제사회의 지원 없이 강력한 러시아에 저항하려는 노력은 헛된 것으로 보입니다."
-rusfor.1026.a:0 "수락하자."
-rusfor.1026.b:0 "절대 안된다!"
-
-rusfor.1027.t:0 "조지아가 굴복하다"
-rusfor.1027.d:0 "조지아 정부는 다른 선택사항이 없음을 깨닫고 우리 요구에 굴복했습니다."
-rusfor.1027.a:0 "우라!"
-
-rusfor.1028.t:0 "조지아가 저항하다"
-rusfor.1028.d:0 "미친 조지아 정부가 우리 요구를 거절했습니다. 이 오만함을 어떻게 심판해야 할까요?"
-rusfor.1028.a:0 "전쟁이 답이다!"
-rusfor.1028.b:0 "그만두자."
-
-rusfor.1029.t:0 "러시아인 쿠데타"
-rusfor.1029.d:0 "니코 니콜라데가 이끄는 군주주의 이민자들과 러시아 선동가들이 정부에 대한 대중의 적대를 부추기고 있습니다. 또한 러시아 지원을 받는 군주주의자들이 도시와 시골에서 봉기했습니다. 국가가 혼란에 빠졌고, 상황이 더 나빠질 수 있을까요?"
-rusfor.1029.a:0 "반군이 수도를 점령했다!"
-rusfor.1029.b:0 "반군이 격퇴되었다!"
-
-rusfor.1030.t:0 "조지아가 붕괴하다"
-rusfor.1030.d:0 "새로운 조지아의 친러 정부의 대표단이 우리 총리를 만나 조지아가 러시아의 일부가 될 것이라고 말했습니다. 국민들이 이를 축하하고 있고, 러시아 정보국이 승리를 이뤘습니다!"
-rusfor.1030.a:0 "조지아를 러시아에 병합하라!"
-rusfor.1030.b:0 "괴뢰정부를 내세우자."
-
-rusfor.1031.t:0 "러시아인 쿠데타가 실패하다"
-rusfor.1031.d:0 "안타깝게도 조지아에 친러정부를 세우려는 우리의 시도는 실패했습니다. 어떻게 해야 할까요?"
-rusfor.1031.a:0 "그들을 짓밟을 것이다!"
-rusfor.1031.b:0 "놔두자."
-
-rusfor.1038.t:0 "아르메니아의 지위"
-rusfor.1038.d:0 "캅카스가 러시아의 지배하에 있고 우리는 아르메니아의 운명을 결정해야 합니다. 우리는 군사력을 이용하거나 기존의 친러시아 저항세력을 이용한 비밀작전을 통해 그들을 무너뜨릴 수 있습니다. 어떻게 할까요?"
-rusfor.1038.a:0 "그들의 러시아 편입을 요구하라!"
-rusfor.1038.b:0 "아르메니아 정부의 통제권 확보를 시도하라!"
-rusfor.1038.c:0 "전쟁이 답이다!"
-rusfor.1038.e:0 "비밀 공작을 시도해볼 만 하다."
-
-rusfor.1039.t:0 "러시아의 요구"
-rusfor.1039.d:0 "점점 강력해지고 있는 러시아가 다시 한번 캅카스를 주시하고 있습니다. 그들은 우리나라에 일련의 요구를 해왔고, 만약 받아들여진다면, 우리는 러시아에 편입될 것입니다. 국제사회의 지원 없이 강력한 러시아에 저항하려는 노력은 헛된 것으로 보입니다."
-rusfor.1039.a:0 "수락하자."
-rusfor.1039.b:0 "절대 안된다!"
-
-rusfor.1040.t:0 "아르메니아의 굴복"
-rusfor.1040.d:0 "다른 선택지가 없음을 깨달은 아르메니아 정부는 우리 요구를 받아들였습니다."
-rusfor.1040.a:0 "우라!"
-
-rusfor.1041.t:0 "아르메니아의 저항"
-rusfor.1041.d:0 "미친 아르메니아 정부가 우리 요구를 거절했습니다. 이 오만함을 어떻게 심판해야 할까요?"
-rusfor.1041.a:0 "전쟁이 해결할 것이다!"
-rusfor.1041.b:0 "그만두자."
-
-rusfor.1042.t:0 "러시아인 쿠데타"
-rusfor.1042.d:0 "러시아 선동가들은 시몬 브라치안이 이끄는 친러시아 이민자들과 함께 현 지도부에 대한 대중의 적대를 부추겼습니다. 또한 친러주의자들과 러시아인들이 도시와 시골에서 봉기를 일으켰습니다. 국가가 혼란에 빠졌고, 상황이 더 나빠질 수 있을까요?"
-rusfor.1042.a:0 "반군이 수도를 점령했다!"
-rusfor.1042.b:0 "반군이 격퇴되었다!"
-
-rusfor.1043.t:0 "아르메니아가 붕괴하다"
-rusfor.1043.d:0 "새로운 아르메니아 친러 정부의 대표단이 우리 총리를 만나 아르메니아는 러시아의 일부가 될 것이라고 말했습니다. 국민들이 이를 축하하고 있고, 러시아 정보국이 승리를 이뤘습니다!"
-rusfor.1043.a:0 "러시아 정보부에 영광을!"
-
-rusfor.1044.t:0 "러시아의 쿠데타 시도가 실패하다"
-rusfor.1044.d:0 "안타깝게도 아르메니아에 친러정부를 세우려는 우리의 시도는 실패했습니다. 어떻게 해야 할까요?"
-rusfor.1044.a:0 "그들을 짓밟을 것이다!"
-rusfor.1044.b:0 "보내주자..."
-
-rusfor.1045.t:0 "러시아의 요구"
-rusfor.1045.d:0 "점점 강력해지고 있는 러시아가 다시 한번 캅카스를 주시하고 있습니다. 그들은 우리나라의 헌법제도에 관한 일련의 요구를 해왔고, 만약 받아들여진다면, 우리는 독립을 잃을 것입니다. 국제사회의 지원 없이 강력한 러시아에 저항하려는 노력은 헛된 것으로 보입니다."
-rusfor.1045.a:0 "받아들여라."
-rusfor.1045.b:0 "절대 안된다!"
-
-rusfor.1046.t:0 "아르메니아의 굴복"
-rusfor.1046.d:0 "다른 선택지가 없음을 깨달은 아르메니아 정부는 우리의 정부개혁 요구를 받아들였습니다."
-rusfor.1046.a:0 "만세!"
-
-rusfor.1048.t:0 "러시아가 캅카스에서의 양보를 요구하다"
-rusfor.1048.d:0 "러시아국 정부는 최근 캅카스의 기존 세력권이 자신들에게 유리하게 재편되어야 한다고 주장했습니다. 그들은 캅카스 국가들에 대한 모든 보증을 중지하고 러시아 영향권의 일부로 그들을 편입시킬 것을 주장합니다. 그 대가로 그들은 유럽의 기존 질서를 존중하고 현재 진행 중인 전쟁에서 독일 제국을 경제적으로 지원하겠다고 약속했습니다. 어떻게 대응해야 할까요?"
-rusfor.1048.a:0 "요구를 받아들여라!"
-rusfor.1048.b:0 "절대 안된다!"
-
-rusfor.1049.t:0 "독일 제국이 우리 요구를 거절했다!"
-rusfor.1049.d:0 "독일 제국의 어리석은 지도자들은 캅카스에 관한 우리의 합리적인 요구를 거절했습니다. 러시아와 독일 사이의 평화는 불가능해 보입니다! 이제 어떻게 할까요?"
-rusfor.1049.a:0 "라이히스팍트에 전쟁을 선포하자!"
-rusfor.1049.b:0 "독일의 독립 보장을 무시하라!"
-
-rusfor.1050.t:0 "독일 제국의 배신!"
-rusfor.1050.d:0 "독일 제국은 캅카스에 관한 모든 러시아의 요구를 수용함으로써 우리를 배신했고, 우리를 러시아의 힘에 직면하게 내버려두었습니다."
-rusfor.1050.a:0 "우리가 할 수 있는 게 없군..."
-
-rusfor.1053.t:0 "돈-쿠반의 지위"
-rusfor.1053.d:0 "독일 제국 정부는 캅카스에 관한 우리의 합리적인 요구를 받아들였습니다. 독일 제국의 보호를 받던 돈-쿠반 연합의 운명이 이제 우리 손에 달렸습니다. 이 반항적인 국가를 어떻게 할까요?"
-rusfor.1053.a:0 "돈-쿠반 전역의 합병을 요구하자!"
-rusfor.1053.b:0 "정부개혁을 요구하자!"
-
-rusfor.1054.t:0 "아제르바이잔의 지위"
-rusfor.1054.d:0 "독일 제국 정부는 캅카스에 관한 우리의 합리적인 요구를 받아들였습니다. 독일 제국의 보호를 받던 아제르바이잔의 운명이 이제 우리 손에 달렸습니다. 이 반항적인 국가를 어떻게 할까요?"
-rusfor.1054.a:0 "아제르바이잔 전역의 합병을 요구하자!"
-rusfor.1054.b:0 "그들 정부의 개혁을 요구하자!"
-
-rusfor.1055.t:0 "러시아가 재통합을 요구하다"
-rusfor.1055.d:0 "제2차 세계대전 개전과 함께 독일 제국의 관심은 서쪽으로 향했습니다. 독일 제국은 계속되는 전쟁에서 러시아국의 지지를 얻기 위해 캅카스에 관한 러시아의 요구를 받아들여 그들의 운명을 러시아에 넘겼습니다. 만약 우리나라에 대한 러시아의 요구가 받아들여진다면, 우리는 독립을 잃게 될 것입니다. 어떻게 해야 할까요?"
-rusfor.1055.a:0 "다른 선택지는 없다..."
-rusfor.1055.b:0 "저항하자!"
-
-rusfor.1056.t:0 "러시아가 정부개혁을 요구하다"
-rusfor.1056.d:0 "제2차 세계대전 개전과 함께 독일 제국의 관심은 서쪽으로 향했습니다. 독일 제국은 계속되는 전쟁에서 러시아국의 지지를 얻기 위해 캅카스에 관한 러시아의 요구를 받아들여 그들의 운명을 러시아에 넘겼습니다. 만약 우리나라에 대한 러시아의 요구가 받아들여진다면, 우리는 독립을 잃게 될 것입니다. 어떻게 해야 할까요?"
-rusfor.1056.a:0 "다른 선택지는 없다..."
-rusfor.1056.b:0 "저항하자!"
-
-rusfor.1057.t:0 "러시아가 재통합을 요구하다"
-rusfor.1057.d:0 "제2차 세계대전 개전과 함께 독일 제국의 관심은 서쪽으로 향했습니다. 독일 제국은 계속되는 전쟁에서 러시아국의 지지를 얻기 위해 캅카스에 관한 러시아의 요구를 받아들여 그들의 운명을 러시아에 넘겼습니다. 만약 우리나라에 대한 러시아의 요구가 받아들여진다면, 우리는 독립을 잃게 될 것입니다. 어떻게 해야 할까요?"
-rusfor.1057.a:0 "다른 선택지는 없다..."
-rusfor.1057.b:0 "저항하자!"
-
-rusfor.1058.t:0 "러시아가 정부개혁을 요구하다"
-rusfor.1058.d:0 "제2차 세계대전 개전과 함께 독일 제국의 관심은 서쪽으로 향했습니다. 독일 제국은 계속되는 전쟁에서 러시아국의 지지를 얻기 위해 캅카스에 관한 러시아의 요구를 받아들여 그들의 운명을 러시아에 넘겼습니다. 만약 우리나라에 대한 러시아의 요구가 받아들여진다면, 우리는 독립을 잃게 될 것입니다. 어떻게 해야 할까요?"
-rusfor.1058.a:0 "다른 선택지는 없다..."
-rusfor.1058.b:0 "저항하자!"
-
-rusfor.1059.t:0 "돈-쿠반 연합의 종말"
-rusfor.1059.d:0 "돈-쿠반 연합 정부는 다른 선택사항이 없음을 깨닫고 우리 요구에 굴복했습니다."
-rusfor.1059.a:0 "우라!"
-
-rusfor.1060.t:0 "돈-쿠반 정부가 저항하다"
-rusfor.1060.d:0 "어리석은 돈-쿠반 정부가 우리의 합리적인 요구를 거절했습니다. 이 오만함을 어떻게 심판해야 할까요?"
-rusfor.1060.a:0 "전쟁을 선포하자!"
-rusfor.1060.b:0 "나중에 처리하자."
-
-rusfor.1061.t:0 "돈-쿠반 연합이 굴복하다"
-rusfor.1061.d:0 "돈-쿠반 연합 정부는 다른 선택사항이 없음을 깨닫고 우리 요구에 굴복했습니다."
-rusfor.1061.a:0 "우라!"
-
-rusfor.1062.t:0 "아제르바이잔의 종말"
-rusfor.1062.d:0 "아제르바이잔 정부는 다른 선택사항이 없음을 깨닫고 우리 요구에 굴복했습니다."
-rusfor.1062.a:0 "우라!"
-
-rusfor.1063.t:0 "아제르바이잔 정부가 저항하다"
-rusfor.1063.d:0 "어리석은 아제르바이잔 정부가 우리의 합리적인 요구를 거절했습니다. 이 오만함을 어떻게 심판해야 할까요?"
-rusfor.1063.a:0 "전쟁을 선포하자!"
-rusfor.1063.b:0 "나중에 처리하자."
-
-rusfor.1064.t:0 "아제르바이잔이 굴복하다"
-rusfor.1064.d:0 "아제르바이잔 정부는 다른 선택사항이 없음을 깨닫고 우리 요구에 굴복했습니다."
-rusfor.1064.a:0 "우라!"
-
-rusfor.1065.t:0 "페르시아에게 요구"
-rusfor.1065.d:0 "투르케스탄과 아제르바이잔이 확보된 덕분에 중동과 페르시아에서 진격을 계속할 수 있게 되었습니다. 약간의 양보의 대가로 우리는 그들을 보호해주는 것을 선택했지만, 무엇을 양보하라고 요구할까요?"
-rusfor.1065.a:0 "동맹을 제의하자."
-rusfor.1065.b:0 "동맹을 제의하고 페르시아 북부를 요구하자!"
-rusfor.1065.c:0 "그들 정부의 통제를 요구하자!"
-rusfor.1065.e:0 "페르시아 북부를 요구하고 그들을 우리나라에 종속시키자!"
-
-rusfor.1066.t:0 "러시아의 요구"
-rusfor.1066.d:0 "대담한 러시아인들은 중동에 영향력을 확대하려 하고 있고 우리가 그들의 새로운 목표인 것 같습니다. 그들은 보호를 대가로 몇 가지 요구사항을 보내왔습니다. 어떻게 할까요?"
-rusfor.1066.a:0 "러시아 앞에 우리는 무력하다. 승낙하자."
+rusfor.1066.t:0 "Russia Demands Azerbaijan"
+rusfor.1066.d:0 "The bold Russians are trying to expand their influence in the Caucasus and it seems we are their new target. They have sent a demand - we must return them Azerbaijan, as well as any other controlled parts of the Caucasus, or face war with [FROM.GetNameDef]. How should we respond to this grave insult?"
+rusfor.1066.a:0 "We are powerless against Russian might..."
 rusfor.1066.b:0 "안돼!"
 
-rusfor.1067.t:0 "페르시아가 수락했다"
-rusfor.1067.d:0 "이성적인 페르시아인들은 우리 요구를 수락했습니다."
-rusfor.1067.a:0 "영광스럽군!"
+rusfor.1067.t:0 "Persia Accepts"
+rusfor.1067.d:0 "The Persians have heard reason and accepted our ultimatum. Azerbaijan is now ours again!"
+rusfor.1067.a:0 "Glorious!"
 
-rusfor.1068.t:0 "페르시아가 거부했다"
-rusfor.1068.d:0 "미친 페르시아인들이 우리 요구를 거절했습니다. 어떻게 할까요?"
-rusfor.1068.a:0 "전쟁이다!"
-rusfor.1068.b:0 "아직 때가 아니다..."
-
-rusfor.1071.t:0 "러시아가 대아르메니아 지역의 통제권을 요구하다"
-rusfor.1071.d:0 "러시아가 우리의 아르메니아계 영토의 통제권을 요구해왔습니다. 어떻게 할까요?"
-rusfor.1071.a:0 "어쩔 수 없다. 수락하자."
-rusfor.1071.b:0 "이 북쪽 야만인들에 대항하여 일어서자!"
-
-rusfor.1072.t:0 "[From.GetNameDefCap]의 대아르메니아 양보"
-rusfor.1072.d:0 "[From.GetNameDefCap] 측이 우리의 요구를 받아들였고, 이제 우리는 대아르메니아의 지배자입니다!"
-rusfor.1072.a:0 "우라!"
-rusfor.1072.b:0 "우리의 캅카스 속국에게 주자!"
-
-rusfor.1073.t:0 "[From.GetNameDefCap]의 요구 거절"
-rusfor.1073.d:0 "마침내 우리는 오스만 영사관으로부터 [Root.GetLeader]에게 직접 쓰인 편지를 받았습니다. 그들은 대아르메니아 지역의 반환을 거부했습니다. 더 골치아픈 것은, 그 편지에는 그 땅이 온전히 투르크의 땅이라는 것과, 우리 정권에 대한 경멸적인 모욕으로 가득 차 있었으며, 무분별한 팽창주의와 역사적 수정주의의 국가라고 우리를 비난했다는 것이었습니다."
-rusfor.1073.a:0 "분명 후회할 것이다!"
-rusfor.1073.b:0 "강압에 의한 것이라 믿고 가겠다!"
+rusfor.1068.t:0 "Persia Refuses"
+rusfor.1068.d:0 "The mad Persians are defying us and refusing to return Azerbaijan. How should we react?"
+rusfor.1068.a:0 "We shall crush them!"
+rusfor.1068.b:0 "Back down... for now."
 
 rusfor.1082.t:0 "트란스아무르 탈취"
 rusfor.1082.d:0 "러시아국이 한 때 분쟁의 대상이었던 몽골의 시베리아 횡단철도를 완전히 장악하면서, 트랜스아무르와의 상업적 접촉이 크게 증가했고, 대규모 러시아 투자의 유입에 의해 일본의 영향력이 줄어들기 시작했습니다. 러시아 내전 당시 일본 침략을 통해 만들어진 국가인 트란스아무르 경제는 최근 해방된 시베리아 횡단 철도를 통한 값싼 러시아 상품의 유입으로 심각한 어려움을 겪기 시작했습니다. 이제 몇 명의 병사만 파견하면 그들을 쉽게 무너뜨릴 수 있을 것입니다."
@@ -1793,6 +1552,10 @@ rusfor.1181.t:0 "[From.GetNameDefCap]의 거절!"
 rusfor.1181.d:0 "[From.GetAdjective] 정부는 베사라비아가 당연히 루마니아 영토이며 러시아는 결코 그것을 되찾지 못할 것이라고 주장했습니다. 이 문제의 유일한 해결책은 [From.GetNameDef](와)과의 전쟁입니다."
 rusfor.1181.a:0 "그럼 전쟁이다."
 rusfor.1181.b:0 "퇴각하라."
+
+rusfor.1182.t:0 "The Transfer of Bessarabia"
+rusfor.1182.d:0 "[From.GetNameDefCap] has agreed to transfer the larger part of Bessarabia in return for monetary and material compensation as well as the guarantee of the security of their new borders!"
+rusfor.1182.a:0 "Another victory for Russian diplomacy!"
 
 rusfor.1210.t:0 "갈리치아 최후통첩"
 rusfor.1210.d:0 "러시아인들이 최후통첩을 보내, 갈리치아를 할양하지 않으면 전쟁을 선포하겠다고 요구해왔습니다. 어떻게 할까요?"
@@ -1896,41 +1659,21 @@ rusfor.1275.t:0 "중앙아시아 평정"
 rusfor.1275.d:0 "중앙아시아로부터의 좋은 소식입니다 - 새로운 타타르와 바시키르 이슬람 지도자들은 마침내 지역 이슬람 기관들을 재정비했고 유명한 신학자들과 설교자들의 반계몽주의를 부분적으로 물리쳤습니다. 이제 오렌부르크 무슬림 종교 행정부는 중앙아시아 주민들에게 이슬람의 새로운 비전을 제안했습니다. 이것은 중앙아시아가 우리에게 충성할 것이고 우리는 이 지역에 관심을 덜 기울여도 된다는 것을 의미합니다."
 rusfor.1275.a:0 "훌륭해!"
 
-rusfor.1276.t:0 "아제르바이잔 통제"
-rusfor.1276.d:0 "우리는 아제르바이잔을 보증해 왔고, 러시아 사업은 양국 협력의 이익을 이용하고 있습니다. 어쩌면 지금이 캅카스에 대한 통제를 강화하고 카스피 지역에서 우리의 입지를 굳히기에 가장 좋은 때일지 모릅니다."
-rusfor.1276.a:0 "그렇게 하자!"
-rusfor.1276.b:0 "그 땅은 필요없다."
-
 rusfor.1277.t:0 "캅카스 북부 재통제"
 rusfor.1277.d:0 "러시아의 돈-쿠반 통합 이후 우리는 옛 코사크 영토 동부 산악지대의 통합 문제에 직면했습니다. 1920년대와 1930년대 초에 '아타만' 크라스노프는 러시아인,오세티아인,그리고 다른 기독교 부족들로 구성된 '테레크 코사크 부대'를 지원했고, 이는 캅카스에 대한 예카테리노다르의 통제를 강화시켜 주었습니다. 현재 우리는 이 지역에 러시아군을 배치시켰지만, 이는 일시적 조치에 불과합니다. 지역의 재건과 평화를 위한 많은 계획들이 제안되었고 우리는 이들 중 하나를 선택해야 합니다."
 rusfor.1277.a:0 "지역의 러시아인들이 지배하게 하자."
 rusfor.1277.b:0 "크라스노프의 정책을 이어가자- 테레크 코사크 부대를 지원하자."
 rusfor.1277.c:0 "군사점령을 계속하자!"
 
-rusfor.1278.t:0 "캅카스 북부의 질서가 부분적으로 확립되었다."
+rusfor.1278.t:0 "캅카스 북부의 질서가 부분적으로 확립되다"
 rusfor.1278.d1:0 "블라디캅카스와 그로즈니와 같은 북부 캅카스의 도시들에 있는 군사기지를 복구하고 일부 부대를 남겨놓은 후, 우리는 이 땅에 대한 통제권을 테레크 코사크 부대에 넘겨주었습니다. 이 지역은 빠른 속도로 재건되기 시작했지만, 러시아가 개입하지 못한 지역들은 무정부 상태와 부족간 전쟁에 빠져들고 있습니다. 지금 북캅카스 지역의 많은 비러시아계 부족들의 지도자들은 우리에게 북캅카스 전역에 대한 통제를 회복시켜 주고 그들로 하여금 러시아 정부에 봉사할 수 있도록 요청하고 있습니다. 왜냐하면 러시아 정부야말로 이 지역에 안정을 가져올 수 있는 유일한 세력이기 때문입니다."
 rusfor.1278.d2:0 "우리가 테레크 코사크 부대를 지원하기로 한 후, 지역에 질서를 되찾았지만, 우리가 크라스노프 정부보다 더 많이 지원해주었기 때문에, 코사크 부대는 북캅카스 동부의 비기독교 지역으로 확장하였고, 러시아인과 오세티아인 대 체첸인과 잉구시인의 대결과 같은 복합적인 문제들을 불러왔습니다. 더구나, 러시아 정부가 다게스탄의 마을들과 부족들을 다루는 과정에서 문제가 발생했고, 지역 부족들은 서로를 지배하려고 하고 있습니다. 이 모든 갈등들은 우리 정부가 해결할 수 있으나, 시간이 좀 걸릴 것입니다."
 rusfor.1278.d3:0 "우리는 군대를 북부 캅카스의 동부 지역에 배치시켰고, 이 지역에 러시아의 지배를 확립했습니다. 이 지역의 주민들은 마침내 산악 부족의 습격과 약탈로부터 자유로워졌습니다. 그러나 비러시아계 지역에서는 몇몇 기독교 마을들만이 우리를 지원할 뿐이고, 몇몇 무슬림 마을에서는 러시아에 대항하기 시작했습니다. 틀림없이 우리는 그것을 멈추고 범죄자들을 처벌할 것입니다. 하지만 시간이 좀 걸릴 것입니다."
 rusfor.1278.a:0 "예상했던 대로다."
 
-rusfor.1279.t:0 "캅카스 북부의 질서가 확립되었다"
+rusfor.1279.t:0 "캅카스 북부의 질서가 확립되다"
 rusfor.1279.d:0 "우리가 돈-쿠반 지역을 탈환한 지 6개월이 넘었고, 마침내 지역 전역에 대한 통제권을 확보할 수 있게 되었습니다. 지역 러시아인들과 기독교 국가들이 마침내 적대적인 부족의 약탈 위협에서 벗어났고 우리에 대항하여 싸웠던 범죄자들이 죽거나 도망쳤습니다. 러시아 남부에 새로운 번영의 시대가 열렸습니다!"
 rusfor.1279.a:0 "좋아!"
-
-rusfor.1280.t:0 "Successful Integration of [RUS_puppet_to_annex.GetNameDef]"
-rusfor.1280.d:0 "With the integration process complete, [RUS_puppet_to_annex.GetNameDef] has been formally annexed into our administration, and its government has ceased to exist."
-rusfor.1280.a:0 "Perfect!"
-
-rusfor.1281.t:0 "The Ottomans are Collapsing!"
-rusfor.1281.d:0 "As the War in the Desert reaches a climax, it seems the Ottoman Empire has reached a point of complete collapse, and their forces are in full retreat from Mesopotamia and the Levant. This is a perfect opportunity for us to regain the provinces of Greater Armenia, as the alternative for them is to declare war on us."
-rusfor.1281.a:0 "Give the order!"
-rusfor.1281.b:0 "This is too risky."
-
-rusfor.1282.t:0 "Russia Seizes Greater Armenia!"
-rusfor.1282.d.OTT:0 "Russia has taken advantage of our weakness to occupy our Eastern provinces. With our military in tatters following the war with the Cairo Pact, it would be suicidal to try and stop them."
-rusfor.1282.d.other:0 "Russia has taken advantage of the Ottoman weakness to occupy their Eastern provinces of Kars and Ardahan, considered part of Greater Armenia."
-rusfor.1282.a:0 "We will remember this."
-rusfor.1282.b:0 "Not our problem."
 
 #Russian World News#
 russianews.1.t:0 "보즈드의 부상"

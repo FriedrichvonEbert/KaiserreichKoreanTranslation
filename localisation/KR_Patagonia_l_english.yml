@@ -529,20 +529,20 @@ FOP_new_destroyers_tooltip:0 "우리는 구축함 2척을 받을 것입니다"
 
 FOP_naval_revival_tooltip:0 "우리는 §H구축함 4척§!, §H전투순양함 1척§!, §H잠수함 2척§!을 받을 것입니다"
 
-FOP_Encourage_Workers_Cooperatives_tooltip:0 "§H오가르 오브레로 확장§! 혹은 §H경제 민주화§!의 효과 변경 \n 소비재 공장: [?-0.05|=%0H] \n 지역내 최대 공장수: [?0.1|=%0+] \n 건설 속도: [?0.1|=%+]"
+FOP_Encourage_Workers_Cooperatives_tooltip:0 "§H$FOP_hogar_obrero_expansion$§! 혹은 §H$FOP_economic_democracy_idea$§!의 효과 변경 \n 소비재 공장: [?-0.05|=%0H] \n 지역내 최대 공장수: [?0.1|=%0+] \n 건설 속도: [?0.1|=%+]"
 
 FOP_chilean_volunteers:0 "칠레의 의용군들이 도착하여 전투를 지원할 것입니다."
 FOP_no_guns:0 "우리는 [FOP.GetNameDef](을)를 위한 여유분이 없습니다."
 FOP_immigation_tooltip:0 "§H[FROM.GetNameDef]§!(으)로부터의 이민을 증가시킬 것입니다."
 
-FOP_has_administrative_chaos:0 "국민정신 §H불안정한 행정부§!를 소유하고 있음"
-FOP_has_administrative_chaos_NOT:0 "국민정신 §H불안정한 행정부§!를 소유하지 않음"
+FOP_has_administrative_chaos:0 "국민정신 §H$FOP_integrating_the_north$§!를 소유하고 있음"
+FOP_has_administrative_chaos_NOT:0 "국민정신 §H$FOP_integrating_the_north$§!를 소유하지 않음"
 
-FOP_has_resistance_to_socialism:0 "국민정신 §H사회주의 저항§!을 소유하고 있음"
-FOP_has_resistance_to_socialism_NOT:0 "국민정신 §H사회주의 저항§!을 소유하지 않음"
+FOP_has_resistance_to_socialism:0 "국민정신 §H$FOP_anti_syndie_rebels_idea$§!을 소유하고 있음"
+FOP_has_resistance_to_socialism_NOT:0 "국민정신 §H$FOP_anti_syndie_rebels_idea$§!을 소유하지 않음"
 
-FOP_has_economic_fallout:0 "국민정신 §H혁명의 경제적 폐혜§!를 소유하고 있음"
-FOP_has_economic_fallout_NOT:0 "국민정신 §H혁명의 경제적 폐혜§!를 소유하지 않음"
+FOP_has_economic_fallout:0 "국민정신 §H$FOP_economic_fallout_revolution$§를 소유하고 있음"
+FOP_has_economic_fallout_NOT:0 "국민정신 §H$FOP_economic_fallout_revolution$§를 소유하지 않음"
 
 FOP_anti_syndie_rebellion_cost:0 "£manpower_texticon §H10000§! £war_support_texticon §H5%§!"
 FOP_anti_syndie_rebellion_cost_blocked:0 "£manpower_texticon §R10000§! £war_support_texticon §R5%§!"
@@ -1053,9 +1053,12 @@ fop.226.d:0 "Shocking news has reached Buenos Aires that there has been mass reb
 fop.226.a:0 "But...the Chairman was Always Right...Right?"
 
 fop.22600.t:0 "[?rebellion_tag.GetAdjective] Rebellion!"
-fop.22600.d:0 ""
+fop.22600.d:0 "Our troops have failed to stop the rise of counter-revolutionary forces and they've managed to secure enough power to declare independence. We must move quickly if we are to survive this plot against us."
 fop.22600.a:0 "Crush these reactionaries!"
-fop.22600.b:0 "We can do nothing..."
+
+fop.22601.t:0 "The Brazilian Rebellion"
+fop.22601.d:0 "With the ongoing rebellion in the Andesian territories, the collaborationist governments in Brazil have risen up against us and joined forces with the counter-revolutionaries. We cannot count on the aid of any of our allies in South America and are now in a fight for our lives to restore control over both Andesia and the rebellious Brazilians."
+fop.22601.a:0 "Crush these reactionaries!"
 
 fop.227.t:0 "Question of the Clergy"
 fop.227.d:0 "With the Radical Anarchists coming on top, their harsh pursuit of all religious practices has finally come to their political agenda in the government. Chairman Severino has pushed for a bill in the largely Anarchist dominated Trade Union Congress where he proposes the seizure of all Catholic church assets, the persecution and imprisonment of former clergy members, and the prohibition of any and all religious practices on public life, effectively turning Argentina into an atheist nation. As one of the most deeply catholic nations in the region, when news of this bill came out, harsh public backlash surfaced, and not only from Christian groups, as the bill could apparently target the Jewish and Muslim minorities in Argentina as well. While passing the bill would be seen by our fellow revolutionaries as the fulfilment of our long awaited promises, we need to keep in mind that passing the bill may lose us more support than it'll gain us. Perhaps we can go back to the drawing board and draft a less aggressive bill..."
@@ -1602,6 +1605,8 @@ FOP_Miguel_Arcangel_Roscigna_desc:0 "§Y장군 설명\n§Y출생:§W 1891년경,
 FOP_Kurt_Gustav_Wilckens_desc:0 "§Y장군 설명\n§Y출생:§W 1886년 11월 3일, 독일, 슐레스비히-홀슈타인 주, 바트 브람슈테트.\n§Y군사 경력:§W 정원사가 되기 위해 젊은 시절의 대부분을 공부한 그는 경제적 어려움으로 인해 1906년에 독일 군대에 입학하여 프로이센의 근위 소총 대대에 복무하였습니다. 그의 의무적인 4년간의 군 복무가 끝났을 때, 그는 정원을 가꾸는 것에 대해 더 배우기 위해 미국으로 갔고, 그곳이 그가 아나키즘에 대해 배웠던 곳이었습니다. 여러 번의 파업과 산업 사보타주에 참여한 후, 그는 1920년에 독일로 추방되었습니다. 미국에서 아르헨티나에서 아나키스트가 성장하는 것에 대해 배웠던 그는 1920년 9월 29일 부에노스 아이레스에 도착하면서, 빠르게 새로운 세계를 향해 다시 한번 항했습니다. 그는 독일 지역 사회에서 파타고니아 총파업이 일어나기 전까지 FAUD가 후원하는 지역 신문인 'Der Syndikalist'에서 일했습니다. 이 사건에 대한 첫 몇 달 동안 거의 불신했던 윌켄스는 그의 동지들과 안드레스 바스케스 파레데스와 함께 남쪽으로 탈출하기로 결정했습니다. 극단적으로 평화주의적인 자세에도 불구하고, 그는 FOP의 민병대에 합류하기로 결정했고 그의 점잖은 태도와 신념은 그를 승진하게 만들었습니다.\n§Y중요 참고 사항:§W- 아나키즘적 이상을 위해 기꺼이 무기를 들고자 하지만 윌킨스는 모든 형태의 폭력을 경멸합니다.\n- 아나키스트 온건파와 동맹했습니다."
 
 FOP_Umberto_Lanciotti_desc:0 "§YGeneral Description\n§YBorn:§W April 1 1894, in Forano, Rieti, Italy.\n§YMilitary Career:§W At the age of 19, Umberto emigrated from Italy to France and then to the United States in order to find work. While in the United States, he went on to a long and prolific career of hopping from one job to the next, accumulating experience in coal mines and refineries, automobile factories, and banks. With the outbreak of the Weltkrieg, he ran into issues with the law and went into hiding, finding his way to Detroit where he became an active participant in the anarchist scene of the city. In June of 1920, he served as a waiter aboard the cruise ship Andrea Costa where he secretly returned to Genoa, working alongside the new Socialist Republic to repair the railroads before leaving for England surreptitiously 7 months later. In March of 1925, he then travelled to Buenos Aires and then crossed the Rio Negro to link up with the Anarchist forces there, meeting Severino di Giovanni. His ability to clandestinely move about and terrorize the forces of the reactionary north, along with his fierce loyalty and determination, quickly prompted him to rise up the ranks.\n- Aligned with the Radical Anarchist faction."
+
+FOP_Guillermo_Mac_Hannaford_desc: "§YGeneral Description\n§YBorn:§W Unknown.\n§YMilitary Career:§W Coming from a well off family, Guillermo Mac Hannaford had enjoyed a rather comfortable position in the army, serving as part of a military attaché to Bolivia before serving under Gen. Nicolás Accame. It was at this point however that things took a turn for the worst, and the Major found himself accused of spying on behalf of Paraguay and Chile, leaking state secrets to the powers in question. From what our investigations can surmise, these charges appear to be fabricated and devised as part of a GOU-backed plan to remove him from his position. Ultimately however his sentance was ended prematurely when he was rescued from captivity by our forces. While some may doubt his ideological commitments, the fact he is one of the few Argentine officers to join our cause makes him a welcome addition.\n§YImportant Notes:§W- Neutral in the factional disputes."
 
 ###Cosmetic Tags###
 FOP_AND_totalist:0 "안데시아"
