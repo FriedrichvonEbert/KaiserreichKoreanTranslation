@@ -22,7 +22,7 @@ NFA_help_spain_decisions_desc:0 "스페인은 수십년간 여러 불안정한 �
 NFA_help_kos:0 "정통정부 지원"
 NFA_help_kos_desc:0 "스페인의 진정한 평화와 민주주의의 수호를 위하여, 부르봉 정부가 정권을 유지해야 합니다."
 NFA_help_car:0 "카를로스파 지원"
-NFA_help_car_desc:0 "The Carlists are the only path Spain has to being made righteous once more. The Portuguese have convinced us this is the right faction to back, and, surely, if we support them, they would join our alliance should they succeed."
+NFA_help_car_desc:0 카를로스파는 스페인을 다시 올바르게 만들 유일한 방법입니다. 포르투갈은 이 곳이 우리가 지원할 정확한 분파라고 확신하게 했습니다. 물론, 만약 우리가 그들을 지원해서 그들이 성공한다면 우리의 동맹이 될 것입니다."
 
 # Fight for Influence #
 
@@ -44,30 +44,30 @@ Mordacq_parade:0 "§R행진하는 곰§!"
 Mordacq_parade_desc:0 "앙리 모르닥과 그의 민주주의 지지자들은 주요 도시에서 시위를 계획하고 있습니다. 정체되고 부패하다고 간주한 정권에 대해, 그들의 불만을 말할 수 있길 바라면서요. 만약 그들이 너무 많은 사람들을 모집한다면, 우리 정부에게 타격을 입힐 수 있을 것이고, 국민들은 곰에 대한 지지가 널리 퍼져있다는 착각에 빠져 더 많은 것이 그의 손아귀로 빠져버릴 것입니다. 어떻게든 해야만 합니다."
 Mordacqs_Speech:0 "§R모르닥의 거대 연설§!"
 Mordacqs_Speech_desc:0 "모르닥에게 곧 그의 지지자들보다 더 많을 수 있는 거대한 군중 앞에서 연설할 기회가 주어질 것입니다. 이에 적절하게 대응하기 위한 방법으로, 정부는 두 가지를 제시했습니다. 일부는 그 연설이 그대로 진행되어야 한다고 주장하고, 다른 사람들은, 원수가 같은 날, 가까운 곳에서 연설할 수 있다고 주장합니다. 어느 쪽이든 선택해야만 합니다."
-Mordacq_In_The_Barracks:0 "§R위대한 벙어리의 속삭임§!"
-Mordacq_In_The_Barracks_desc:0 "정치적 혼란은, 공화국 정치에의 참여를 자제해왔기 때문에 대개 "라 그랑드 뮈에트", 위대한 벙어리라고 불리는 군대를, 천천히 정권의 핵심으로 만들 기회를 주었습니다. 만약 민주주의라는 헛소리가 뿌리내리면 안 되는 곳이 있다면, 바로 그곳입니다. 고맙게도 가창 초라한 보병조차도 여전히 베르됭의 영웅에 대한 존경으로 가득 차 있습니다. 하지만 반체제 문학이 최근 막사와 장교 휴게실에서 발견되었습니다. 어떻게든 해야만 합니다."
+Mordacq_In_The_Barracks:0 "§R위대한 침묵에서의 속삭임§!"
+Mordacq_In_The_Barracks_desc:0 "정치적 혼란은, 공화국 정치에의 참여를 자제해왔기 때문에 대개 "라 그랑드 뮈에트", 위대한 침묵이라고 불리는 군대를, 천천히 정권의 핵심으로 만들 기회를 주었습니다. 만약 민주주의라는 헛소리가 뿌리내리면 안 되는 곳이 있다면, 바로 그곳입니다. 고맙게도 가창 초라한 보병조차도 여전히 베르됭의 영웅에 대한 존경으로 가득 차 있습니다. 하지만 반체제 문학이 최근 막사와 장교 휴게실에서 발견되었습니다. 어떻게든 해야만 합니다."
 
 NFA_Call_For_Moral_Order:0 "도덕적 질서의 부름"
 NFA_Call_For_Moral_Order_desc:0 "부패에 대한 터무니 없는 주장이 유포되고 있고, 원수는 입장을 취해야만 합니다. 그는 방송을 통해 시민들에게 이 어려운 시기에 도덕적으로 행동하라고 전할 것이고, 정부에 대한 어떠한 비판도 생디칼리스트 간첩에 의해 퍼진 단순한 프로파간다라고 맹렬히 비난할 것입니다."
 NFA_Make_Corruption_Crime:0 "부패와 싸우다"
-NFA_Make_Corruption_Crime_desc:0 "최근 수면 위로 떠오른 부패 스캔들에서 원수가 무결하다는 것을 시민들에게 증명하기 위해, 우리는 모든 사회 수준에서 광범위한 반-부패 운동을 시작할 것이고, 그들이 목격했거나 피해자가 된 공무원의 어떠한 부패든지 고발하도록 격려할 것입니다. 그것은 엄청난 노력을 필요로 할 것이지만, 하지만 그럴 가치가 있을 겁니다."
+NFA_Make_Corruption_Crime_desc:0 "최근 수면 위로 떠오른 부패 스캔들에서 원수가 무결하다는 것을 시민들에게 증명하기 위해, 우리는 모든 사회 수준에서 광범위한 반-부패 운동을 시작할 것이고, 그들이 목격했거나 피해자가 된 공무원의 어떠한 부패든지 고발하도록 격려할 것입니다. 그것은 엄청난 노력을 필요로 할 것이지만, 그럴 가치가 있을 겁니다."
 NFA_Scapegoats:0 "부패와 싸우기 위한 창의적 방법"
 NFA_Scapegoats_desc:0 "부패와 싸우는 우리의 가장 진지한 노력조차 국민들을 만족시킬 충분한 결과를 내지 못했습니다. 그런 만큼 우리는 부패 혐의의 증거를 찾아내는 데에 더 느슨해져야 할지도 모르고, 의심스러운 사람들에게 자백을 더 적극적으로 받아내야 할지도 모릅니다. 그들은 아마 뭔가 잘못했을 것입니다. 아니면 코뮌의 요원이거나, 아니면 또 다른 무언가일겁니다. 솔직히 누가 상관하겠습니까?"
 
 # AF trials Decisions #
 
-NFA_decision_AF_trials_cat:0 "Deal with the Republican Remnants"
-NFA_decision_AF_trials_cat_desc:0 "At last, we have taken down the République. And work to get rid of her pernicious influence on our great nation is now underway. However, there are still some who believe the Gueuse is something worth defending: as long as there are remnants of republican influence, we cannot truly get to work to reform France. As such, a purge of the French body is necessary.\n\nFinishing these decisions will remove the §YRepublican Remnants§! idea and will give another idea depending on your choices."
-NFA_Public_Humiliation:0 "Public Humiliation of Republicans"
-NFA_Public_Humiliation_desc:0 "For minor offenders, such as journalists who eagerly defended the Republic or supported the parades, or unjust critics of de Gaulle’s government, a more educational approach will suffice. They will be forced to publicly disavow their previous writings and the Gueuse, swear fidelity to the new government, and then be sent safely on their way."
-NFA_Arrest_Republican_Leaders:0 "Arrest their Politicians"
-NFA_Arrest_Republican_Leaders_desc:0 "Many politicians tacitly supported the paradeurs, merely waiting for the right moment to strike against the Maréchal government, to plunge us even deeper into republican mediocrity. Many supporters of Mordacq have already been arrested, while other parliamentarians seem increasingly upset with de Gaulle’s government. A thorough investigation will help us discern those who may still hope for the Republic to endure."
-NFA_Cleanse_the_Police:0 "Clean up the Ranks of the Police"
-NFA_Cleanse_the_Police_desc:0 "On the fateful day of the last parade, some police officers tasked with keeping order joined the protesters as the day turned bloody. This might be indicative of a deeper rot in the public function that we thought previously, and an investigation into our police force might reveal unsavory secrets."
-NFA_Purge_the_Military:0 "Purge the Military"
-NFA_Purge_the_Military_desc:0 "The military, the supposed "Great Mute" made far too much noise in recent months. Though some of our men were among the early paradeurs, it’s sadly clear that some men were eager supporters of Mordacq, and might not be reliable as officers in the armies of our King. The army has traditionally been a reactionary bastion under the Gueuse, and it should stay that way. A thorough investigation will take place, and anyone suspicious will have to be questioned, rifleman or general."
-NFA_Those_Who_Slither:0 "Those Who Slither in the Dark"
-NFA_Those_Who_Slither_desc:0 "There is one last place where we haven’t looked for potential traitors: the Deuxième Bureau, our intelligence office. Between Mordacq’s escape, and the democratic camp seemingly always knowing our next move, we know there is a mole, but so far haven’t been able to figure out who it is. We will have to act in utmost secrecy to finally trap the source of our woes."
+NFA_decision_AF_trials_cat:0 "공화정 잔당 다루기"
+NFA_decision_AF_trials_cat_desc:0 "드디어, 우리는 공화정을 끌어내렸습니다. 그리고, 우리의 위대한 국가에서 그러한 유해한 영향을 없애기 위해 노력하고 있습니다. 하지만, 공화정을 여전히 지킬 필요가 있다고 믿는 자들이 있습니다. 공화정의 영향이 남아있는 한, 우리는 진정으로 프랑스를 개혁하지 못할 수 있습니다. 이와 같이, 프랑스의 신체 일부를 제거하는 것은 불가피할 것입니다.\n\n이러한 결정은 §Y공화정 잔당§! 국민 정신을 제거하고, 당신의 선택에 따라 다른 국민 정신을 줄 것입니다."
+NFA_Public_Humiliation:0 "공화주의자들에게 공개적으로 망신주기"
+NFA_Public_Humiliation_desc:0 "사소한 범죄자들, 예를 들어 공화국을 옹호했거나, 시위를 지지했거나, 드 골의 정부에 대해 부당한 비판을 한 언론인 같은 경우에는 좀 더 교육적인 방법으로 충분할 것입니다. 그들은 그들이 썼던 글과 공화정을 공개적으로 부인할 수 밖에 없을 것이고 ,새로운 정부에 충성을 맹세한 다음 안전하게 보내질 것입니다."
+NFA_Arrest_Republican_Leaders:0 "정치인들 체포"
+NFA_Arrest_Republican_Leaders_desc:0 "많은 정치인들은 암묵적으로 시위를 지지했고, 평범한 공화주의에게 우리를 더욱 깊숙히 빠트리기 위해, 단지 원수의 정부에 대항할 적당한 때를 기다렸을 뿐입니다. 모르닥의 많은 지지자들은 이미 체포되었고, 다른 의원들은 드 골의 정부에 점점 더 화나고 있는 것 같습니다. 철저한 수사는 여전히 공화국이 버텨내기를 바랄지도 모르는 사람들을 분별하도록 도울 것입니다."
+NFA_Cleanse_the_Police:0 "경찰 계급 정리"
+NFA_Cleanse_the_Police_desc:0 "질서 유지 임무를 맡은 몇몇 경찰관은, 마지막 시위의 운명적인 날, 유혈 사태가 일어나자 시위대에 합류했습니다. 우리가 생각했던 공공 기능의 깊은 부패를 나타내는 것일 수도 있고, 우리 경찰에 대한 수사로 불미스러운 비밀이 드러날 지도 모릅니다."
+NFA_Purge_the_Military:0 "군대 숙청"
+NFA_Purge_the_Military_desc:0 ""위대한 침묵"이라고 생각되는 군대는 최근 몇 달 동안 너무나도 시끄러웠습니다. 우리 중 몇몇이 초기 시위에 참가했음에도 불구하고, 슬프게도 일부는 모르닥의 열렬한 지지자임이 분명합니다. 그들은 우리 왕의 군대에서, 장교로 믿을 수 없을지도 모릅니다. 군대는 전통적으로 공화정 아래에서 반동적 요새였고, 계속 그렇게 있어야 합니다. 철저한 조사가 이루어질 것이고, 의심스러운 사람은 누구든지, 소총수든, 장군이든 모두 조사받아야 할 것입니다."
+NFA_Those_Who_Slither:0 "어둠 속에서 나아가는 자들"
+NFA_Those_Who_Slither_desc:0 "우리가 잠재적 반역자들을 찾아보지 않은 단 한 곳은, 바로 우리의 정보부, 제 2부서입니다. 모르닥의 탈출과 민주 진영은, 항상 우리의 다음 행동을 알고 있는 것 같습니다, 우리는 그 곳에 첩자가 있는 걸 알지만, 지금까지 누구인지 알아내지 못했습니다. 우리는 문제의 원인을 잡기 위해, 극비리에 행동해야 합니다."
 
 # Colonial Decisions #
 
