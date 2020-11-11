@@ -32,8 +32,6 @@ SRI_international_decisions:0 "인터내셔널에서의 이탈리아"
 SRI_international_decisions_desc:0 "이탈리아 사회주의 공화국은 인터내셔널의 창립 멤버입니다. 그리고 다른 인터내셔널 회원국들이 그러하듯, 우리 역시 동맹의 한 축으로서 다양한 안건에 적극적으로 참여해왔습니다."
 SRI_join_the_intl:0 "제3인터내셔널에 가입"
 SRI_join_the_intl_desc:0 "독일과 오스트리아를 견제하기 위해 제3인터내셔널과 [Root.GetNameDef]사이에 동맹을 맺을 수 있습니다. 그에 따라, 프랑스와 영국은 생디칼리슴 통치하에 있는 이탈리아를 위해 우리에게 도움을 줄 것입니다. 하지만, 어떤 세력이 이탈리아에 사태에 관여하게 되거나, [FRA.GetNameDef](와)과 [GER.GetNameDef]사이에 전쟁이 다시 한번 시작된다면, 모든 일은 수렁에 빠지게 될 것입니다."
-SRI_Join_Phalanstere:0 "팔랑스테르 참여"
-SRI_Join_Phalanstere_desc:0 "'팔랑스테르'라고 알려진 프랑스 주도의 과학 연맹은 인터내셔널의 모든 회원국에서 가장 영리한 사람들을 한데 모으기 위해 만들어졌습니다. 우리는 이 계획에 참여하고 우리의 지식을 공유해야 합니다."
 SRI_Assist_Damocles_Project:0 "다모클레스 계획 지원"
 SRI_Assist_Damocles_Project_desc:0 "튼이튼핵 기술 연구에 대한 계획을 추진했습니다. 우리는 동맹을 돕기 위하여 우리 과학자 앤리코 페르미를 파견할 것입니다. 그는 뛰어난 핵물리학자로 아마 이 프로젝트의 진전에 큰 도움이 될 것입니다."
 SRI_political_decisions:0 "정치적 결정"
@@ -92,8 +90,9 @@ SRI_cannot_call_italy:0 "제2차 세계대전이 시작되기 전에는 동맹�
 SRI_cannot_join_italy:0 "제2차 세계대전이 시작되기 전에는 §Y[SRI.GetNameDef]§!의 전쟁에 참전할 수 없습니다."
 SRI_balance_broken:0 "이탈리아의 균형이 무너지다."
 SRI_balance_explanation:0 "§Y[SRI.GetNameDef]§!(은)는 다른 주요 세력이 개입해서 전쟁의 균형이 깨지지 않는 한 동맹국들을 이탈리아 전쟁에 참전시킬 수 없습니다.\n\n"
-SRI_balance_will_be_broken:0 "§Y[SRI.GetNameDef]§!에 대한 우리의 공격적인 행동은 이탈리아에서의 균형이 깨진 것으로 간주됩니다. 그들은 이제 동맹국들을 이탈리아 전쟁에 참전시킬 것입니다!\n\n"
-AUS_balance_will_be_broken:0 "§Y[AUS.GetNameDef]§!에 대한 우리의 공격적인 행동은 이탈리아에서의 균형이 깨진 것으로 간주됩니다. 다른 이탈리아 국가들은 이제 제한없이 동맹국들을 이탈리아 전쟁에 참전시킬 것입니다!"
+SRI_balance_will_be_broken:0 "This action will break the balance in Italy - §Y[SRI.GetNameDef]§! will be able to join the Third Internationale without fear of intervention!\n\n"
+AUS_balance_will_be_broken:0 "This action will break the balance in Italy - other Italian states will be able to join factions and call in their allies against us without fear of intervention!\n\n"
+SRI_germany_may_intervene:0 "§Y[GER.GetNameDef]§! will be alarmed by this action and may elect to intervene in the war against us!"
 
 ### Ideas ###
 SRI_red_guards_idea:0 "적위대"
@@ -232,7 +231,7 @@ SRI_currently_building_industry:0 "다른 지역을 개발중이지 않아야 �
 SRI_bicycle_unit_appears:0 "밀란에 자전거 부대가 나타날 것입니다.\n"
 
 SRI_asymmetrical_warfare:0 "게릴라 전투 훈련"
-SRI_asymmetrical_warfare_effect:0 "§H게릴라 전투 훈련§ 활성화!\n§H보병\n    도시§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동속도: §G+5%§!"
+SRI_asymmetrical_warfare_effect:0 "§H$SRI_asymmetrical_warfare$ 활성화\n보병\n    도시§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동속도: §G+5%§!"
 
 ### Fourth Congress Focuses ###
 SRI_4th_congress:0 "제4차 평의회"
@@ -351,8 +350,6 @@ SRI_fifth_congress:0 "제5차 평의회"
 SRI_fifth_congress_desc:0 "이제 이탈리아는 우리의 깃발 아래 재통일 되었으니, 이제 다른 평의회를 개최할 시간입니다. 이 다섯 번째 평의회에서는 이탈리아 통일 이후 생긴 많은 문제들을 해결할 결정을 내리게 될 겁니다."
 SRI_fate_of_the_pope:0 "교황의 운명"
 SRI_fate_of_the_pope_desc:0 "제5차 평의회에서 결정된 교황의 처분을 결정 할 시간입니다."
-SRI_join_international_tech:0 "팔랑스테르 가입"
-SRI_join_international_tech_desc:0 "프랑스는 최근 인터내셔널의 과학 연구를 돕기 위해 팔랑스테르를 창설했습니다. 우리는 팔랑스테르에 가입해서 우리의 과학 지식을 인터내셔널에 공헌해야 합니다."
 SRI_italian_irredentism:0 "혁명적 민족통일주의"
 SRI_italian_irredentism_desc:0 "자칭 이탈리아라고 부르는 괴뢰 국가들이나 이탈리아에 있는 국가들은 모두 멸망시키는 동안, 다른 지역의 이탈리아는 아직 남아 있었습니다. 이들에게도 역시 혁명의 빛을 비춰주어야 합니다."
 

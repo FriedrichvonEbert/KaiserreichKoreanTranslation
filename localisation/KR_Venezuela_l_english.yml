@@ -462,7 +462,7 @@ ven.9.t:0 "50 대 50 법"
 ven.9.d:0 " [VEN.GetLeader] 대통령은 외국 정부가 베네수엘라산 석유에서 얻는 이윤을 줄이는 법안에 방금 사인했습니다. '50 대 50 법'으로 명명된 이 법안은 베네수엘라에서 외국인의 석유 시추로 발생하는 수익금의 절반을 정부가 가져갈 수 있도록 하는 법안입니다. 이는 경제적 독립을 향한 큰 걸음이며, 많은 사람들은 정부를 칭찬하고 있습니다."
 ven.9.a:0 "공평한 제안이군."
 
-VEN_fifty_to_fifty_idea_change:0 "Modify §HDominance of Foreign Oil Companies§! by\nPolitical Power Gain: [?0.05|+=0%]"
+VEN_fifty_to_fifty_idea_change:0 "Modify §H$VEN_foreign_oil_companies$§! by\nPolitical Power Gain: [?0.05|+=0%]"
 
 ven.10.t:0 "베네수엘라 석유 산업"
 ven.10.d:0 "우리가 기억하는 한, 석유는 항상 베네수엘라의 주요 수출품입니다. 외국 회사의 손에서 석유 산업을 빼앗아 직접 석유를 팔자는 제안이 나왔습니다. 우리의 이익은 증가할 것이고 우리는 진정한 독립과 자기 의존을 향해 한 걸음 더 나아갈 것입니다."

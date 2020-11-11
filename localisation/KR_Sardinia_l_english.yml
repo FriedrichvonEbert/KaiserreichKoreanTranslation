@@ -70,6 +70,8 @@ SRD_attack_italy:0 "[From.GetNameDef] 공격"
 SRD_attack_italy_desc:0 "이탈리아 왕국이 선포되었고, 이제 우리 깃발 아래 국가를 재통합해야 합니다."
 SRD_invite_into_kingdom:0 "[From.GetNameDef]를 왕국으로 초대하자"
 SRD_invite_into_kingdom_desc:0 "우리는 현재 이탈리아 반도에서 가장 강력한 위치를 차지하고 있습니다. 사회주의 공화국에게 한 것처럼, 우리는 [Root.GetNameDef]와 [From.GetNameDef]를 평화적으로 재통합할 수 있을 것입니다."
+SRD_develop_cagliari_coal_mines:0 "Develop Coal Mines in [114.GetName]"
+SRD_develop_cagliari_coal_mines_desc:0 ""
 
 ### Ideas ###
 SRD_canadian_officers:0 "캐나다 고문단"

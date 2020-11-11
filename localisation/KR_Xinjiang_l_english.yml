@@ -406,7 +406,7 @@ xin.52.a:0 "사오우의 도박이 엄청난 실패를 낳다"
 xin.52.b:0 "성스차이는 아커수에 타도되었다"
 
 xin.53.t:0 "성스차이의 숙청 실패"
-xin.53.desc:0 "What Sheng heard was going to be a meeting between Ma Shaowu, Mahmut Muhti, and Burhan Shahidi was currently underway in Kashgar, but something... unexpected occurred. While Sheng's plan was to set fire to the building and end his three greatest threats once and for all, none of them were in the building. In fact, the entire building was empty, without a trace of any soul. All of this was in the report given to Sheng, as panic began to set in over the whereabouts of his three rivals. He would meet them sooner then expected however, as them and their army soon surrounded Aksu before Sheng could react. Sheng had been betrayed, as hsi own northern government was infiltrated by agents of the three men allowing this plot to occur. Sheng has no choice but to surrender, leaving him to be imprisoned with his fate decided at a later point, as Shaowu now rules over Xinjiang in his Triumvirate alongside Mahmut Muhti and Burhan Shahidi."
+xin.53.desc:0 "What Sheng heard was going to be a meeting between Ma Shaowu, Mahmut Muhti, and Burhan Shahidi was currently under way in Kashgar, but something... unexpected occurred. While Sheng's plan was to set fire to the building and end his three greatest threats once and for all, none of them were in the building. In fact, the entire building was empty, without a trace of any soul. All of this was in the report given to Sheng, as panic began to set in over the whereabouts of his three rivals. He would meet them sooner then expected however, as them and their army soon surrounded Aksu before Sheng could react. Sheng had been betrayed, as his own northern government was infiltrated by agents of the three men allowing this plot to occur. Sheng has no choice but to surrender, leaving him to be imprisoned with his fate decided at a later point, as Shaowu now rules over Xinjiang in his Triumvirate alongside Mahmut Muhti and Burhan Shahidi."
 xin.53.a:0 "아마 우리는 그들에게 많은 자원들을 주지 말았어야 했을 것이다..."
 
 xin.100.t:0 "쿠물이 폭력사태로 들끓다"
@@ -468,7 +468,7 @@ SIK_three_reigns:0 "세개 지역에대한 공인"
 SIK_three_reigns_desc:0 "Xinjiang, despite what the official documents may claim, has a decentralized power structure centered around three citites. These cities, Dihua, Aksu, and Khotan, control three vital forts and administer the richest land for cultivation outside of Kumul. The Dao-yin, which replaced the Amban, decide the fate of Xinjiang."
 
 SIK_dihua_governorship:0 "디화 성정부"
-SIK_dihua_governorship_desc:0 "Jin Shuren's fortress in Dihua has perceived against the rebels that sorround it. Jin Shuren attributes the might of the Han system of governance, as built by Yang Zengxin and refined by hiself, as the ideal government for Xinjiang. To ensure this, Jin will purge those who questioned their loyalty to him."
+SIK_dihua_governorship_desc:0 "Jin Shuren's fortress in Dihua has persevered against the rebels. Jin Shuren attributes the might of the Han system of governance, as built by Yang Zengxin and refined by hiself, as the reason Xinjiang has prevailed. Jin will now purge those who questioned their loyalty to him."
 
 SIK_make_them_pay:0 "그들은 대가를 치룰것이다"
 SIK_make_them_pay_desc:0 "The rebels in Kashgar and Kumul are more than just pawns of foreign imperial powers, they themselves are capable of self governance. Jin Shuren has promised his loyal men the land and wealth of those that betrayed him, and now they are ready to collect."

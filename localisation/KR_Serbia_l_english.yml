@@ -84,7 +84,7 @@ SER_black_monday:0 "검은 월요일"
 SER_black_monday_desc:0 "모든 독일인과 오스트리아인들은 자신들의 슬픔을 온 세상과 나누게 되었다는 사실에 행복을 느끼는 모양입니다..."
 
 SER_farming_subsidies:0 "농업 보조금"
-SER_farming_subsidies_desc:0 "세계대전이 세르비아를 황폐화시켰습니다. 이로 인해 정부는 생산 부문에서 세계대전 이전 수준을 회복하기 위한 노력의 일환으로 세르비아 농부들에게 추가 보조금을 지급했습니다."
+SER_farming_subsidies_desc:0 "The Serbian government is now subsidising its farmers in an effort to recover it's pre-Weltkrieg level of productivity."
 
 SER_state_railways_directorate:0 "국가 철도청"
 SER_state_railways_directorate_desc:0 "중앙집권화된 집단으로 새로 태어난 세르비아 국가 철도청은 단일 조직으로서 모든 세르비아 철도의 소유권을 보유합니다. 내부 경쟁이 없어짐에 따라 철도청장은 세르비아 구석구석까지 기존 철도를 확장하는 작업에 착수할 수 있게 되었습니다."
@@ -130,7 +130,6 @@ SER_Integrate_State:0 "[FROM.GetName] 통합"
 SER_Ultimatum_To_Bulgaria:0 "[BUL.GetNameDef]에 최후통첩"
 SER_End_The_Occupation_Of_Bulgaria:0 "불가리아 점령 종결"
 SER_Attack_Austria:0 "[AUS.GetNameDef] 공격"
-SER_Form_Yugoslavia:0 "유고슬라비아 형성"
 
 SER_integration_tooltip:0 "통합할 다음 지역을 선택하십시오"
 
@@ -141,6 +140,11 @@ SER_economic_council_decision:0 "조직 협약"
 SER_economic_council_decision_desc:0 "동맹국 사이의 유대를 강화하고 발칸 지역 전체의 경제 상황을 개선하기 위해 경제 연합체 구성을 제안할 수 있습니다. 각 회원국에서 차출한 무역 및 금융 전문가들로 구성된 베오그라드 조약 가담국 지도자들에게 조언할 경제위원회를 창설할 것입니다. 더 많은 회원국들의 동의를 얻을 수록 더 큰 혜택을 얻게 될 것입니다."
 SER_economic_council_expansion:0 "경제적 연대 강화"
 SER_economic_council_expansion_desc:0 "여태까지 경제 연합은 모든 가담국에게 매우 유익한 효과를 가져다 주는 것으로 판명되었으며, 경제위원회가 제시한 새로운 정책을 입안하여 이를 더욱 개선해야 할 입장에 있습니다."
+SER_economic_council_application:0 "Apply to the Pact of Organization"
+SER_economic_council_application_desc:0 "We missed out on the original creation of the Pact of Organization because of war, but now that peace has returned, we can apply to the organization yet again."
+
+### Flags ###
+SER_diplomatic_action:0 "Already in contact with a faction"
 
 ### Tooltips ###
 SER_founded_belgradepact:0 "베오그라드 조약 창설"
@@ -153,14 +157,14 @@ SER_will_declare_war_allies_tooltip:0 "§R세르비아는 2주 내로 오스트�
 SER_Encourage_Yugoslavism_tooltip:0 "§H통합§! 선택 비용 감소"
 SER_Serbian_Mountain_Corps_tooltip:0 "£nato_unit_mountaineers_icon_small §H산악병§! 사단 4개 배치할 것입니다."
 SER_Local_Designs_tooltip:0 "항공기 설계사 해금: §H아에로푸트§!, §H로고자르스키§! 그리고 §HUTVA§!."
-SER_The_Serbian_Airforce_tooltip_RUS:0 "§H러시아 조언가§!와 §H국산 설계§!를 §H세르비아 공군 교리§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
-SER_The_Serbian_Airforce_tooltip_NFA:0 "§H프랑스 조언가§!와 §H국산 설계§!를 §H세르비아 공군 교리§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
+SER_The_Serbian_Airforce_tooltip_RUS:0 "§H$SER_russian_aerial_expertise$§!와 §H$SER_local_designs_idea$§!를 §H$SER_airforce_idea$§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
+SER_The_Serbian_Airforce_tooltip_NFA:0 "§H$SER_french_aerial_expertise$§!와 §H$SER_local_designs_idea$§!를 §H$SER_airforce_idea$§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
 
-SER_the_dream_of_yugoslavia_tooltip:0 "다음의 효과를 가지는 §H유고슬라비아의 꿈§! 국민 정신을 획득합니다\n매일 정치력 획득: [?0.25|-=]\n§H[AUS.GetNameDefCap]§!:\n     해당 국가에 대한 공격력 보너스: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]\n§H[CRO.GetNameDefCap]§!:\n     Attack bonus against country: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]\n§H[HUN.GetNameDefCap]§!:\n     해당 국가에 대한 공격력 보너스: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]"
-SER_The_Dream_Fulfilled_tooltip:0 "§H유고슬라비아의 꿈§! 변동치\n매일 정치력 획득: [?0.35|+=]\n사단 회복률: [?0.05|+=%1]\n안정도: [?0.05|+=%]"
+SER_the_dream_of_yugoslavia_tooltip:0 "다음의 효과를 가지는 §H$SER_the_dream_of_yugoslavia$§! 국민 정신을 획득합니다\n매일 정치력 획득: [?0.25|-=]\n§H[AUS.GetNameDefCap]§!:\n     해당 국가에 대한 공격력 보너스: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]\n§H[CRO.GetNameDefCap]§!:\n     Attack bonus against country: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]\n§H[HUN.GetNameDefCap]§!:\n     해당 국가에 대한 공격력 보너스: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]"
+SER_The_Dream_Fulfilled_tooltip:0 "§H$SER_the_dream_of_yugoslavia$§! 변동치\n매일 정치력 획득: [?0.35|+=]\n사단 회복률: [?0.05|+=%1]\n안정도: [?0.05|+=%]"
 
-SER_has_black_monday:0 "§H검은 월요일§! 국민정신을 가짐"
-SER_has_black_monday_NOT:0 "§H검은 월요일§! 국민정신을 가지지 않음"
+SER_has_black_monday:0 "§H$SER_black_monday$§! 국민정신을 가짐"
+SER_has_black_monday_NOT:0 "§H$SER_black_monday$§! 국민정신을 가지지 않음"
 
 SER_accepted_bulgaria_union:0 "유고슬라비아 연방 수립을 위해 불가리아의 승인을 얻었습니다"
 SER_if_ENT_agrees:0 "만약 §H[ENT.GetFlag] [ENT.GetNameDef]§! (이)가 승인할 시:"
@@ -450,7 +454,7 @@ serbia.16.a:0 "수용할 만한 제안이다. 준비가 필요하겠군."
 serbia.16.b:0 "세르비아는 강력한 지도자가 필요하다!"
 
 serbia.17.t:0 "세르비아 공화국의 탄생"
-serbia.17.d:0 "Today, Vojvoda and Regent of the kingdom of Serbia Petar Bojovic gave an important speech in front of the National Assembly over the future of the nation. Waxing lyrical over the betrayal of the royalist forces a fortnight ago, he proclaimed that if Serbia were to be strong enough to reclaim her lost territories, then change would be needed. It was then when he passed over to Professor Slobodan Jovanovic.\n\nJovanovic announced he would be taking the helm as President of the new Serbian Republic, a fresh start for the unstable nation. A new constitution would be written, politically repressive laws would be overturned, and free elections would be held as soon as possible. In the meantime, a provisional, bi-partisan government under Jovanovic’s Nacionalni vijeće za demokratiju (National Council for Democracy) would oversee the transition to democracy. The new President did show respect for the Bojovic regime, claiming that without the Vojvoda’s careful, pragmatic leadership in those early days of independence, Serbia could have easily been swallowed up by the Austrian menace. However, he claimed the time has come for the people to decide Serbia's path going forward.\n\nWith Bojovic retiring from political and military life, the reins have been passed over to the optimistic Jovanovic. Whether he can bring peace and stability to his new republic remains to be seen."
+serbia.17.d:0 "Today, Vojvoda and Regent of the kingdom of Serbia Petar Bojović gave an important speech in front of the National Assembly over the future of the nation. Waxing lyrical over the betrayal of the royalist forces a fortnight ago, he proclaimed that if Serbia were to be strong enough to reclaim her lost territories, then change would be needed. It was then when he passed over to Professor Slobodan Jovanovic.\n\nJovanovic announced he would be taking the helm as President of the new Serbian Republic, a fresh start for the unstable nation. A new constitution would be written, politically repressive laws would be overturned, and free elections would be held as soon as possible. In the meantime, a provisional, bi-partisan government under Jovanovic’s Nacionalni veće za demokratiju (National Council for Democracy) would oversee the transition to democracy. The new President did show respect for the Bojović regime, claiming that without the Vojvoda’s careful, pragmatic leadership in those early days of independence, Serbia could have easily been swallowed up by the Austrian menace. However, he claimed the time has come for the people to decide Serbia's path going forward.\n\nWith Bojović retiring from political and military life, the reins have been passed over to the optimistic Jovanovic. Whether he can bring peace and stability to his new republic remains to be seen."
 serbia.17.a:0 "눈부신 새 출발이군."
 
 serbia.18.t:0 "산업계에서 지원을 끊다"
