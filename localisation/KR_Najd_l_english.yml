@@ -27,18 +27,18 @@ POLITICS_SAUDI_DESC:0 "Abdulaziz Ibn Saud, the mortal rival of many dead men, no
 POLITICS_SULTAN_OTAIBI_DESC:0 "An illiterate member of the Otaibah Bedouin tribe, Sultan came to head the so-called Ikhwan which formed a considerable portion of the forces of the house of Saud. Believing in a divine duty to spread Sunni fundamentalism, Sultan was none to pleased when the house of Saud attempted to limit his ability to raid neighbouring countries. Sultan now takes up arms against both his old allies in the house of Saud and the wider heathenous world."
 
 ### Opinion Modifiers ###
-ott_jabalshammar:0 "Treason"
-sau_rebuild:0 "Respected our sovereignty"
+ott_jabalshammar:0 "반역"
+sau_rebuild:0 "우리의 주권을 존중받음"
 
 ### Tooltips ###
-IKH_revolt:0 "The Ikhwan revolt has happened"
-IKH_revolt_2:0 "The Ikhwan revolt has been crushed"
-joined_cairo_pact:0 "Pledged to join the Cairo Pact"
-SAU_ikhwan_provoking:0 "§RThis focus contributes to the outbreak of the Ikhwan revolt.§!"
-SAU_sole_caliphate_is_a_bad_idea:0 "§RClaiming the title of Caliph will likely anger and outrage many of our neighbours, we should be careful about such an act...§!\n"
+IKH_revolt:0 "이크완 반란이 발생함"
+IKH_revolt_2:0 "이크완 반란이 진압됨"
+joined_cairo_pact:0 "카이로 조약 참여를 약속함"
+SAU_ikhwan_provoking:0 "§R이 중점은 이크완 반란을 초래할 것입니다.§!"
+SAU_sole_caliphate_is_a_bad_idea:0 "§R칼리프를 자처하는 것은 많은 이웃 국가들의 분노를 살 것입니다. 신중히 행동해야 합니다...§!\n"
 hit_oman_tt:0 "If §Y[OMA.GetNameWithFlag]§! does not find a foreign patron, we will gain the following effects:\nGains §YAnnex§! war goal against §Y[OMA.GetName]§!\n\nIf §Y[OMA.GetNameWithFlag]§! receives support from §Y[OTT.GetNameWithFlag]§! or §Y[RAJ.GetNameWithFlag]§!, we will gain the following effects:\nUnlocks Decision: £decision_icon_small §YInvade the Immamate of Oman§!"
 sau_conquer_imamate_tt:0 "§gIf the Muscati protector doesn't react to our advances, we can push forwards to Muscat and disable §Y[OMA.GetNameWithFlag]§! permanently§!"
-SAU_ongoing_ikhwan_raid:0 "The Ikhwan is already out on a raid"
+SAU_ongoing_ikhwan_raid:0 "이크완이 습격을 떠났습니다"
 SAU_arabian_tribes_mobilized_tooltip:0 "£nato_unit_cavalry_icon_small Gain 2 §YCavalry Division§! units with Recruit training and 1918-year infantry equipment in §YRiyadh§!"
 
 sau_ruwala_tt:0 "£nato_unit_cavalry_icon_small Gain 1 §YCavalry Division§! units with Recruit training and 1918-year infantry equipment in §YAnizzah§! when §Rat war§! with §G[JBS.GetNameWithFlag]§!\n"
@@ -50,10 +50,10 @@ sau_utaibah_rubayin_tt:0 "£nato_unit_cavalry_icon_small Gain 1 §YCavalry Divis
 sau_duwasir_tt:0 "£nato_unit_militia_icon_small Gain 2 §YMilitia Division§! units with Recruit training and 1918-year infantry equipment in §YNajd§! when §Rat war§! with §G[JBS.GetNameWithFlag]§!\n"
 
 ### Decisions ###
-SAU_JBS_Power_Struggle:0 "Preparations for the War of Unification"
+SAU_JBS_Power_Struggle:0 "통일전쟁 준비"
 SAU_JBS_Power_Struggle_desc:0 "For years we have waited for the opportunity to unite the Arabian peninsula under the House of Saud. Sadly the Ottoman watchdogs did not sleep with both eyes closed and when the British Empire fell in 1925, they more than rewarded their Rashidi lapdogs for their "loyalty" during the Weltkrieg. As we were left with nothing, devoid of allies and territorial gains, Abdulaziz grew ever more restless and vengeful.\n\nSaud bin Abd Al-Aziz may be enjoying the support of his Ottoman allies but dark clouds are gathering on the horizon and should his powerful benefactor find himself occupied in internal matters, his pathethic armies will have the face the Ikhwans rage all on their own...\n\n§gThe strength of our £in_combat §GAllies§! will determine the size of our army at the start of the war with [JBS.GetNameWithFlag]. Courting the Central Arabian tribes and securing assistance from the Ikhwan could help tip the scales in our favour.§!\n      [JBS.GetNameWithFlag] : [?JBS.num_divisions|H0] ([?JBS.tribes|H0])\n      [SAU.GetNameWithFlag] : [?SAU.num_divisions|H0] ([?SAU.tribes|H0])\n" 
 
-SAU_War_of_Unification:0 "Arabian War of Unification"
+SAU_War_of_Unification:0 "아라비아 통일전쟁"
 SAU_War_of_Unification_desc:0 "The Final Struggle for control over the Arab interior is rapidly approaching as the Ottoman behemoth is crackling under the weight of the worldwide economic depression, temporarily unable to maintain peace on the peninsula. All Emirs will have to pick a side for the future of the Arab world will be written in blood and the losers will find themselves disgraced, cast aside or slain on the field of battle."
 SAU_War_of_Unification_Peace:0 "Imminent Collapse"
 SAU_War_of_Unification_Peace_desc:0 "Whilst the deserts of Arabia are no strangers to war, its economy and agrarian base can not sustain long conflicts without intermittent armistices and decisive victories. Should either the House of Rashid or Saud find itself on the verge of victory, the other will have no choice but to admit that it does not have the capacity to sustain a lengthy siege or a war of attrition." 
@@ -143,7 +143,7 @@ SAU_hit_oman_desc:0 "As part of our former Wahhabist state, the Imamate of Oman 
 SAU_hit_egypt_desc:0 "For too long have the apostate ways of the Egyptians misled the faithful. Now, we must unite all Arabs under our rightful rule!"
 SAU_hit_libya_desc:0 "Now we reach west, towards lands we yet don't rule; we will see the Atlantic like the old Caliphs and liberate every Arab under the rule of western puppets"
 
-SAU_saudi_hegemony:0 "Saudi Hegemony"
+SAU_saudi_hegemony:0 "사우드의 패권"
 SAU_saudi_hegemony_desc:0 "Our allies have served their purpose. With the Rashids's and their allies gone, no tribe has the means to stand in our way. A new era begins for Arabia, and the Saudis call all the shots now"
 SAU_expand_oil_hold:0 "Expand Oil Hold"
 SAU_expand_oil_hold_desc:0 "For a long time we allowed local lords and chiefs to freely do with the Oil in their land as it pleased them; not anymore! Every man must be his duty to strengthen our position..."
@@ -153,9 +153,9 @@ SAU_develop_fringe_arabia:0 "Develop Yemen"
 SAU_develop_fringe_arabia_desc:0 "The cities of Sana'a and Aden are among the largest in our realm, and their merchant classes will eagerly accept our help to develop and improve their lands, and ensure that they finally reach this new age of wonders we live in"
 SAU_tighten_control_arabia:0 "Tighten Control over Arabia"
 SAU_tighten_control_arabia_desc:0 "There have been many years since we held Ha'il and the surrounding areas, and many of our old allies have forgotten their allegiances. Paying visits and showing respect to these lords, and convincing them our just intentions, will, God willing, take not much time"
-SAU_purge_rashidi:0 "Purge the Rashidis"
+SAU_purge_rashidi:0 "라시드 숙청"
 SAU_purge_rashidi_desc:0 "The last of the Rashidis are on hiding, both on lands we control and abroad. The only way to truly consolidate our rule and to end delusions of grandeur from lesser houses for good is to end their line, in a definitive fashion"
-SAU_purge_ikhwan:0 "Purge the Ikhwan"
+SAU_purge_ikhwan:0 "이크완 숙청"
 SAU_purge_ikhwan_desc:0 "The Ikhwan have fulfilled their mission of liberating Arabia from the yoke of undeserving lords, and yet dared to revolt against the hand that fed them. Like a stern father, we must punish those who don't recognise the new pecking order in Arabia, where the Saudis stand absolute"
 SAU_dealing_with_kuwait:0 "Dealing with the Trucial States"
 SAU_dealing_with_kuwait_desc:0 "The Emirs of the Trucial States have long cowered behind the might of Britain and the Ottoman Empire. Now this so called protection is at an end and they will serve their new nation."
@@ -172,11 +172,11 @@ SAU_realm_of_the_arabs_desc:0 "All of Arabia is under us, and nothing can stand 
 SAU_houses_of_wisdom:0 "Houses of Wisdom"
 SAU_houses_of_wisdom_desc:0 "Houses of Wisdom"
 
-SAU_land_of_faith:0 "Land of Faith"
+SAU_land_of_faith:0 "신앙의 땅"
 SAU_cleanse_fringe_arabia:0 "Cleanse Fringe Arabia"
 SAU_cleansing_of_heresy:0 "Cleansing of Heresy"
 SAU_law_of_faith:0 "Law of Faith"
-SAU_Jizya:0 "Jizya"
+SAU_Jizya:0 "지즈야"
 SAU_gather_the_amirs:0 "Gather the Amirs"
 SAU_trading_regulations:0 "Trading Regulations"
 SAU_funds_for_faith:0 "Funds for the Faith"
@@ -288,13 +288,13 @@ SAU_war_of_resistance_desc:0 "We live in an age of total war, where even limited
 
 
 ### Events
-saud.1.t:0 "The Emirate of Nejd"
+saud.1.t:0 "네지드 에미르국"
 saud.1.d:0 "The Weltkrieg was one of many signs that we, the House of Saud, are destined the rule this land. In the hour of his greatest hubris, the Hashemites were abandoned by their infidel puppet masters and left for dead to the Turks and their puppet masters. While our inactivity in the war proved most fortuitous when it came time to avoid Ottoman retaliation, the decadent Turks hold no real sway over us. Now we bide our time, gathering warriors, money, and expertise to strike at the Rashidis, who think they can play both sides by accepting Hashemite warriors and pay lip service to the Porte, and finally unite Arabia under our flag!"
-saud.1.a:0 "Long live the House of Saud."
+saud.1.a:0 "사우드 왕가 만세."
 
-saud.2.t:0 "Saudi Arabia"
+saud.2.t:0 "사우드 아라비아"
 saud.2.d:0 "Today with our victory over the house of Rashidis and the conquest of the Hejaz, the Saudis stand dominant. With this victory we shall rule over all Arabs!"
-saud.2.a:0 "Long live the House of Saud."
+saud.2.a:0 "사우드 왕가 만세."
 
 ### Reactions to the Caliph Event ###
 saud.3.t:0 "The Sultan claims sovereignty over the Caliphate and the Holy Cities!"
