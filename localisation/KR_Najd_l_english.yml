@@ -31,9 +31,9 @@ ott_jabalshammar:0 "반역"
 sau_rebuild:0 "우리의 주권을 존중받음"
 
 ### Tooltips ###
-IKH_revolt:0 "이크완 반란이 발생했습니다"
-IKH_revolt_2:0 "이크완 반란이 진압되었습니다"
-joined_cairo_pact:0 "카이로 조약 참여를 약속했습니다"
+IKH_revolt:0 "이크완 반란이 발생함"
+IKH_revolt_2:0 "이크완 반란이 진압됨"
+joined_cairo_pact:0 "카이로 조약 참여를 약속함"
 SAU_ikhwan_provoking:0 "§R이 중점은 이크완 반란을 초래할 것입니다.§!"
 SAU_sole_caliphate_is_a_bad_idea:0 "§R칼리프를 자처하는 것은 많은 이웃 국가들의 분노를 살 것입니다. 신중히 행동해야 합니다...§!\n"
 hit_oman_tt:0 "If §Y[OMA.GetNameWithFlag]§! does not find a foreign patron, we will gain the following effects:\nGains §YAnnex§! war goal against §Y[OMA.GetName]§!\n\nIf §Y[OMA.GetNameWithFlag]§! receives support from §Y[OTT.GetNameWithFlag]§! or §Y[RAJ.GetNameWithFlag]§!, we will gain the following effects:\nUnlocks Decision: £decision_icon_small §YInvade the Immamate of Oman§!"
