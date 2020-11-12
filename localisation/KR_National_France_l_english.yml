@@ -458,7 +458,7 @@ NATFRA_Rain_of_Shells_idea:0 "Rain of Shells"
 #Petain/AF Military Trees Ideas
 NATFRA_Ministry_of_War_idea:0 "전쟁부"
 NATFRA_Ministry_of_the_Air_idea:0 "Ministry of the Air"
-NATFRA_Ministry_of_Naval_Affairs_idea:0 "해군성"
+NATFRA_Ministry_of_Naval_Affairs_idea:0 "해군부"
 NATFRA_General_Estienne_Legacy_idea:0 "General Estienne's Legacy"
 NATFRA_Professional_Army_idea:0 "전문적인 군대"
 NATFRA_Char_de_Rupture_idea:0 "Char de Rupture"
@@ -483,7 +483,7 @@ NATFRA_naval_training_idea:0 "Naval Invasion Planning"
 NATFRA_Ministry_of_Combined_Arms_idea:0 "Ministry of Combined Arms"
 
 #Colonial Ideas
-NFA_transsaharian:0 "사하라 횡단 철도 "
+NFA_transsaharian:0 "사하라 횡단 철도 부설"
 
 #Spy Ideas
 NFA_expanded_spy_network:0 "확장된 첩보망"
@@ -507,7 +507,7 @@ NATFRA_Expanded_Resource_Extraction:0 "확대된 자원 추출"
 NATFRA_Rebirth_From_Ruin_idea:0 "폐허에서 부활하다"
 NATFRA_Reimplemented_Conscription_idea:0 "재구상된 징병제"
 NATFRA_War_GER_idea:0 "베르사유의 복수"
-NATFRA_Never_Fall_idea:0 "우린 다시는 넘어지지 않을 것이다"
+NATFRA_Never_Fall_idea:0 "우린 또 다시 무너지지 않으리"
 
 NATFRA_granted_indemnities_idea:0 "Granted Indemnities"
 NATFRA_granted_indemnities_idea_desc:0 "While some may have wished for everything to be returned to them, this government stipend must satisfy them instead. We would otherwise face an emboldened resistance if we were to attempt to seize all the previous owned possessions of the Exiles."
