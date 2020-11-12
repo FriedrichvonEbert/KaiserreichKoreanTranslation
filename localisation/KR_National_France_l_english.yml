@@ -344,13 +344,13 @@ POLITICS_HENRI_VI_DESC:0 "Born in 1908, young Henri d’Orléans has known exile
 
 #Initial Ideas
 NFA_anti_communard:0 "반코뮌"
-NFA_anti_communard_desc:0 "After our defeat in the Weltkrieg of 1919, the communards rose up again and abolished our cherished Republic. Luckily, some of the most important figures of the Republic have immigrated to Algeria where they plan to organise the counter-revolution. Now that the syndicalist traitors have taken full control of the mainland, we must crush them! We must ensure that our Eternal France will always be free!"
+NFA_anti_communard_desc:0 "1919년 대전쟁에서의 패배 이후, 코뮌 지지자들은 다시 봉기했고 우리의 소중한 공화국을 폐지했습니다. 다행히 가장 중요한 공화국의 핵심 인물들 중 일부는, 반혁명 투쟁을 조직하기로 계획한 알제리로 이주했습니다. 이제 생디칼리즘 반역자들이 본토를 완전히 장악하고 있으니, 우리는 그들을 분쇄해야만 합니다! 반드시, 우리의 영원한 프랑스가 항상 자유롭게 만들 것입니다!"
 
 NFA_native_unrest_2:0 "Code de l'Indigénat"
 NFA_native_unrest_2_desc:0 "The Code of the Indiginate remains in place since its creation in 1887. A diverse set of laws and regulations imposed on the native populations of the empire, they enshrine their inferior legal status despite them being technically French citizens. Collective punishment, a paralel justice system, forced labour and service in the armed forces, enforced by native elites under the guise of modernisation and spread of civilisation: to say that the Indigénat has created ressentment would be an understatement. However it has proved to be a sure source of labour for the colonial effort and is supported by many prominent voices in government who argue that maintaining this status quo is necessary to prepare for the Reconquest."
 
 NFA_internal_unrest:0 "내부 불안"
-NFA_internal_unrest_desc:0 "Years of inaction and politcal stagnation have caused many elements within the army and the population to become radicalized and lose faith in the current regime. Although it is supressed, contestation is slowly but surely growing within the French Republic."
+NFA_internal_unrest_desc:0 "수 년 동안의 행동력 부족과 정치적 침체는 군대와 국민이 급진적으로 바뀌고, 현 정권에 대한 믿음을 잃을 만한 원인을 제공했습니다. 비록 그것이 당장은 억눌려 있을지라도, 분쟁거리는 프랑스 공화국 안에서 느리지만 확실하게 자라고 있습니다."
 
 #Colonial Ideas
 NFA_native_unrest_1:0 "Code de l'Indigénat"
@@ -517,8 +517,8 @@ NATFRA_compromise_committee_idea_desc:0 "We shall set up committees to oversee c
 ##Second Political Trees Ideas
 
 #AF
-NATFRA_Return_Monarch_1_idea:0 "A Returning Monarch"
-NATFRA_Return_Monarch_1_idea_desc:0 "The France that we have returned to is not the one that we left behind decades ago. The Communard government has drilled years of propaganda into the peoples heads blinding them to who built France into the country she is today! The monarchy built France in days past, and now the monarchy will rebuild France!"
+NATFRA_Return_Monarch_1_idea:0 "돌아온 군주"
+NATFRA_Return_Monarch_1_idea_desc:0 "우리가 되돌려 놓은 프랑스는, 우리가 수십년 전 잃었던 그 프랑스와는 다릅니다. 코뮌 정부는, 프랑스를 오늘날의 국가로 세워낸 사람들을, 국민들이 알지 못하도록 몇 년이나 선동하고 있습니다! 왕가는 과거부터 프랑스를 세워냈고, 이제 왕가는 다시 프랑스를 재건할 것입니다!"
 NATFRA_Cercle_Proudhon_1_idea:0 "Cercle Proudhon"
 NATFRA_Cercle_Proudhon_1_idea_desc:0 "The Cercle Proudhon, a think-tank made up of pre-war national-syndicalist leaders is now working with the Crown to help our people understand that national integralism and the King are the true way to fulfill the destiny of France."
 NATFRA_Province_Parliament_idea:0 "Restored Provincial Parliaments"
@@ -1449,8 +1449,8 @@ nfa.4.t:0 "Death of a Friend"
 nfa.4.d:0 "His Majesty George V, by the Grace of God, of the United Kingdom of Great Britain and Ireland and of the British Dominions beyond the Seas, King, Defender of the Faith, Emperor of India, friend of France, our great ally during the Great War and since our exile, as well as a personal friend of Marshal Pétain since the two met on the battlefields two decades ago has died today at 70 years old. Though the situation is unfortunately tense at home, given the magnitude of the event it is important for the Entente that the Lion attends the funeral of George V and the coronation of his son Edward, and more personally for Pétain it is important to mourn a friend and ally, who like him oversaw the exile of his people after bloody revolutions in their homelands, and like him was wholeheartedly dedicated to one day come back and retake what is rightfully theirs. And so Marshal Pétain embarked on a special Trans-Atlantic flight, ready to honour the memory of a friend but celebrate a new era of Anglo-French friendship."
 nfa.4.a:0 "The King is dead, long live the King!"
 
-nfa.5.t:0 "The Lion in Canada"
-nfa.5.d:0 "After a sixty-hour transatlantic flight, Marshal Pétain arrived in Ottawa, greeted by Prime Minister Mackenzie King and a large crowd of Canadians, mostly Québécois who see this state visit as a renewal of Anglo-French cooperation. They then drove to Windsor, where late King-Emperor George had asked to be buried. After a grandiose and emotional ceremony where Pétain was finally able to say farewell to a personal friend and ally, he took a tour of Ontario and Québec, greeted all along the way as a friend of the Empire, before meeting with King Edward VIII. In a pre-planned move, the two men shook hands in front of the media of the world, and the new king declared that no matter the struggles the future holds, the French and British nations would always fight side by side in this great crusade against the syndicalist threat. Later on, the two men held a private talk, discussing current issues facing the Entente, the policies that both men were planning on undertaking, as well as the inevitable prospect of war. The mutual undying commitment of both nations to each other was, of course, renewed, announcing even stronger bonds within the Entente."
+nfa.5.t:0 "캐나다의 사자"
+nfa.5.d:0 "60시간의 대서양 횡단 비행 후 페탱 원수는 오타와에 도착했으며, 이번 국빈 방문을 영불 협력의 부활로 보고 있는, 수상 맥켄지 킹과 대부분이 퀘백 사람인 수많은 캐나다 사람들에게 환영받았습니다. 그리고 나서, 그들은 승하하신 조지 황제 폐하께서 묻어달라고 요청하셨던 윈저로 출발했습니다. After a grandiose and emotional ceremony where Pétain was finally able to say farewell to a personal friend and ally, he took a tour of Ontario and Québec, greeted all along the way as a friend of the Empire, before meeting with King Edward VIII. In a pre-planned move, the two men shook hands in front of the media of the world, and the new king declared that no matter the struggles the future holds, the French and British nations would always fight side by side in this great crusade against the syndicalist threat. Later on, the two men held a private talk, discussing current issues facing the Entente, the policies that both men were planning on undertaking, as well as the inevitable prospect of war. The mutual undying commitment of both nations to each other was, of course, renewed, announcing even stronger bonds within the Entente."
 nfa.5.a:0 "Time to return home"
 
 committed_to_return_home:0 "Committed to return home"
