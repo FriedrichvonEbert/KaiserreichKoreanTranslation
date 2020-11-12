@@ -361,12 +361,12 @@ AUS_cattaro_desc:0 "세계대전 기간에 아드리아 해에서의 정찰 임�
 ### Ausgleich 1937
 
 AUS_ausgleich:0 "1937년 대타협"
-AUS_ausgleich_desc:0 "Every ten years, 60 delegates from each half of the Austro-Hungarian Monarchy meet to adjust each half's financial burden to Common affairs. Since 1927, Hungary has refused to pay its part in protest the creation of Illyria. This year's renegotiations could completely change the internal balance of the Monarchy."
+AUS_ausgleich_desc:0 "10년마다 오스트리아-헝가리 왕정의 각 절반씩 총 60명 대의원이 서로 만나 각국의 재정 부담을 절반씩 공통의 일로 조정합니다. 1927년부터 헝가리는 일리리아 창조에 항의하여 그 몫을 지불하기를 거부해왔습니다. 올해의 재협상은 군주제의 내부 균형을 완전히 바꿀 수 있습니다."
 
 ### Occupation branch
 
 AUS_military_occupation:0 "군사점령"
-AUS_military_occupation_desc:0 "헝가리는 제압됬지만, 우리는 당장 헝가리를 해방시켜줄 생각이 없습니다. 오스트라아 제국에 도전하려는 생각을 가진 이들은 헝가리와 같은 운명에 놓이게 될 것입니다."
+AUS_military_occupation_desc:0 "헝가리는 제압됐지만, 우리는 당장 헝가리를 해방시켜줄 생각이 없습니다. 오스트라아 제국에 도전하려는 생각을 가진 이들은 헝가리와 같은 운명에 놓이게 될 것입니다."
 AUS_status_quo:0 "현상유지"
 AUS_status_quo_desc:0 "10년 전과 마찬가지로, 통합된 중앙집권제국에 대한 우리의 협상은 실패했습니다. 우리는 헝가리 지역의 개혁을 통해 둘을 더욱 가깝게 묶는 데 이 이상 많은 시간을 할애할 여유가 없습니다."
 
