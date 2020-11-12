@@ -1224,8 +1224,8 @@ holpostel.15.b:0 "누가 그들을 비난할 자격이 있는가."
 
 holpostel.16.t:0 "도르프스바흐트의 조직"
 holpostel.16.d:0 "국가경찰에 내려진 정당한 이유 없이 좌파 민간인 혹은 조직을 공격하지 말라는 명령에 따라 국가재건연합은 도르프스바흐트의 조직을 발표했습니다. 란트바흐트와는 달리 전국단위의 조직이 아닌 무장한 마을 방범조직에 더 가깝고, 초법적인 치안활동을 수행하며 생디칼리스트로 의심되는 이들의 소유물에 대한 습격을 조직하며 주요한 거리들을 따라 행진합니다.\n더 많은 도르프스바흐트 조직들이 전국적으로 생겨나고 있습니다. 도르프스바흐트는 많은 중도우파들의 관점에서 지나치게 공격적으로 보이는 란트바흐트의 보다 수용 가능한 대안으로서 받아들여지는 것으로 보입니다."
-holpostel.16.a:0 "한 놈도 남기지 말고 잡아들이자."
-holpostel.16.b:0 "조직 운영을 허가하자."
+holpostel.16.a:0 "한 놈도 남기지 말고 잡아들여라."
+holpostel.16.b:0 "조직 운영을 허가한다."
 
 holpostel.17.t:0 "Dorpswachters Flock to Landwacht"
 holpostel.17.d:0 "People who once considered the Landwacht little more than paranoid radicals are, as a result of our crackdown on the local Dorpswacht, flocking towards the regular Landwacht. This is because these radicalised former moderates feel that the government is failing to protect them from radical leftists intending to kill them."
@@ -1273,8 +1273,8 @@ holpostel.25.b:0 "We accept the new status quo."
 
 holpostel.26.t:0 "말리벨트에서의 시위"
 holpostel.26.d:0 "헤이그의 말리벨트 광장에서 급진사회주의자, 생디칼리스트 및 비주류 좌파 운동가들의 대규모 집회가 일어났습니다.\n그들은 소위 자본가들의 통치에 항의하는 목소리를 내고 있으며 일부는 공공연히 혁명을 종용하고 있습니다. 지역 경찰은 과연 지금 무엇을 해야 하는지 궁금해하고 있습니다. 경찰은 시위를 진압해야 할까요? 아니면 그저 시위가 진행되는 것을 보고 있어야 할까요?"
-holpostel.26.a:0 "집회가 진행되도록 하자."
-holpostel.26.b:0 "저 빨갱이들이 모이는 것을 막자."
+holpostel.26.a:0 "집회가 진행되도록 내버려둬라."
+holpostel.26.b:0 "저 빨갱이들이 모이는 것을 막아라."
 
 holpostel.27.t:0 "2월 파업"
 holpostel.27.d:0 "오늘 아침, 암스테르담의 전차가 멈췄습니다. 같은 시각, 혁명사회노동당과 전국노동사무국 지지자들은 암스테르담의 회사들에 다음과 같은 성명서를 흩뿌렸습니다 - 파업, 파업, 파업! 오후가 되자 이는 총파업이 되었고, 밤에는 주변 하를렘, 힐베르섬, 위트레흐트 등으로 퍼지기 시작했습니다. 이 생디칼리슴이 조직한 파업이 네덜란드에서 전례가 없는 규모로 매우 빠르게 변하고 있는 것은 명확합니다.\n긴급회의가 헤이그에서 열리고 있고 세가지 선택이 고려되고 있습니다: 그들의 의견을 수용하기 (좌파가 원하는 방법일 것입니다), 파업이 끝나기를 기다리기 (산업에는 큰 해가 될 것입니다), 또는 파업 진압하기 (우파가 원하는 방법일 것입니다)."
