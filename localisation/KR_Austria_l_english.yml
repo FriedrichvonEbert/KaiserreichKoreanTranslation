@@ -50,7 +50,7 @@ AUS_a_new_Hungary:0 "헝가리는 개편되어 오스트리아 제국의 다른 
 AUS_syndicalist_menace_tooltip:0 "세계대전이 다시금 발발했으며, 이탈리아에서 인터내셔널에게 이권을 위협받는 중입니다."
 
 AUS_request_forces_puppets:0 "We may now request army divisions from our Cisleithinian component states."
-AUS_request_forces_hungary:0 "We may now request army divisions from Hungary."
+AUS_request_forces_hungary:0 "우리는 이제 헝가리로부터 육군 사단 지원을 요청할 수 있습니다."
 
 AUS_military_occupation_tooltip:0 "헝가리 영토를 계속 영유하게 될 것이지만, 모든 속국들이 이에 만족하지는 않을 것입니다. \n\n"
 AUS_danubian_federation_tooltip:0 ""도나우-알프스-아드리아 연방"이 수립될 것입니다. \n\n"
@@ -61,7 +61,7 @@ ITA_bruh_why:0 "공화국이 우리의 외교적 접근을 거부함"
 sicilian_reengage:0 "이탈리아의 연방주의자들을 지지함"
 sicilian_disengage:0 "이탈리아의 공화주의자들을 지지함"
 
-AUS_treaty_of_budapest:0 "Austria has been defeated by the Belgrade Pact"
+AUS_treaty_of_budapest:0 "오스트리아가 베오그라드 조약에게 패배하였습니다"
 
 AUS_HUN_Civil_war:0 "§Y헝가리§W와 오스트리아가 내전을 시작합니다. \n\n"
 greater_austrian_empire:0 "대타협 기간 동안 오스트리아의 주도 하에 이중 제국을 재결속하기로 결정했고, 헝가리는 결국 굴복했습니다. \n\n OR \n\n오스트리아는 헝가리를 합병하고 중앙집권 체제를 건설하기로 결정했습니다."
@@ -143,9 +143,9 @@ AUS_SLVintegration_desc:0 "많은 슬로베니아인들은 독일 민족이고 �
 ### Decisions ###
 AUS_syndie_threat:0 "생디칼리스트의 위협"
 AUS_syndie_threat_desc:0 "잊어버리기 힘든 사실이 있다면, 우리의 이웃이자 과거의 동맹이 프랑스와 전쟁을 치루고 있습니다. 독일군은 몇 주 안에 전쟁이 끝날 거라 생각했지만, 전쟁은 다시 세계대전이 되었습니다. 만약 빨갱이들이 이 전쟁에서 승리한다면, 이탈리아에서 우리의 이권이 침해될 뿐 아니라, 우리 제국의 통합성이 흔들릴 수 있습니다. 독일과의 이견은 덮어놓고 다시 한번 그들과 함께 나란히 싸우는 것이 최선일지 모릅니다."
-AUS_russian_threat:0 "The Russian Menace"
-AUS_russian_threat_desc:0 "The Great Russian Bear has reared its head in the east again, and threatens to not only retake all the land it lost during the Weltkrieg, but also to march into Germany itself. There is little doubt that, should Russia succeed in its aims, there will eventually turn their attention to us as well. It appears we must wade into the Eastern front once more, whether we like it or not."
-AUS_reform_faction:0 "Reform the Donau-Adriabund"
+AUS_russian_threat:0 "러시아의 위협"
+AUS_russian_threat_desc:0 "러시아라는 거대한 곰이 동방에서 다시금 고개를 들고 있습니다. 이번에는 세계대전에서 잃은 영토를 다시 되찾는 것에서 그치지 않고 독일까지 진격하여 행진하리라 위협하고 있습니다. 만약 러시아인들이 그 목표를 달성한다면 그들의 시선이 결국엔 우리를 향할 것이라는 것에는 의심의 여지가 없습니다. 좋든 싫든 동부전선이라는 흙탕 속으로 다시금 헤쳐 들어가야 할 것으로 보입니다."
+AUS_reform_faction:0 "도나우-아드리아 연맹 개혁"
 AUS_reform_faction_desc:0 "Now that the war is over, the time has come to resume leadership on our own terms: as the head of the Donau-Adriabund alliance."
 AUS_germany_on_the_ropes:0 "[FRA.GetNameDef](이)가 남독일 깊숙히 침투해 들어왔습니다"
 AUS_syndicalism_winning_Italy:0 "동맹국 프랑스가 이탈리아 대부분을 통제하에 두고 있습니다"
@@ -696,19 +696,19 @@ austria.108.d:0 "최근 우리의 배신에 분노하여 공개적으로 양국 
 austria.108.a:0 "망할."
 
 ### Austria bribes independent BUL with Macedonia ###
-austria.109.t:0 "An Offer from Vienna"
+austria.109.t:0 "빈으로부터의 제안"
 austria.109.d:0 "It appears that the Austrians have been able to defeat the Serbian upstarts- without our help this time. Seeing that we are still recovering from our previous humiliation, Vienna's ambassador has made a generous offer: If we are to sign a full military alliance with them, we are to be given back Macedonia. Seeing that we are still important for their Balkan designs as a counterweight to Serbia and Romania, their offer makes sense, and we have little reason to refuse."
-austria.109.a:0 "A generous offer."
-austria.109.b:0 "We will never trust the Austrians again!"
+austria.109.a:0 "관대한 제안이로군."
+austria.109.b:0 "우리는 오스트리아인들을 다신 믿지 않을 것이다!"
 
-austria.110.t:0 "Bulgaria Accepts"
-austria.110.d:0 "Unsurprisingly, the Bulgarians agreed to our generous offer. In exchange for Macedonia, they are now in our faction."
-austria.110.a:0 "Excellent."
+austria.110.t:0 "불가리아가 승낙하다"
+austria.110.d:0 "놀랍진 않게도 불가리아인들은 우리의 관대한 제안에 동의했습니다. 마케도니아를 대가로 하여 그들은 이제 우리 세력에 들어오게 되었습니다."
+austria.110.a:0 "좋았어."
 
-austria.111.t:0 "Bulgaria Refuses"
-austria.111.d:0 "Unbelievably, the Bulgarians still appear sore about our past misgivings and have boldly refused our generous offer. Bulgarian ego clearly knows no bounds."
-austria.111.a:0 "Let Zagreb take care of it."
-austria.111.b:0 "Let Belgrade handle it."
+austria.111.t:0 "불가리아가 거부하다"
+austria.111.d:0 "믿기진 않지만 불가리아인들은 과거에 있었던 우리의 잘못에 대해 여전히 앙심을 품고선 대담하게도 우리의 관대한 제안을 거부했습니다. 불가리아인들의 자존심은 그 한계가 어딘지를 모르는 듯 합니다."
+austria.111.a:0 "자그레브에서 알아서 처리하겠지."
+austria.111.b:0 "베오그라드에서 알아서 처리하겠지."
 
 #############################
 ### THE AUSGLEICH OF 1937 ###
