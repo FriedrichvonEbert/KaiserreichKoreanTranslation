@@ -512,7 +512,7 @@ OTT_con_fund_medreses:0 "Fund the Medreses"
 OTT_con_fund_medreses_desc:0 ""
 
 ### Independents
-OTT_congress_independents:0 "Independents"
+OTT_congress_independents:0 "독립"
 OTT_congress_independents_desc:0 "Far from a united force, the independents represent the wide array of deputies and interest groups of the minority regions. Maronites from Mt Lebanon, Kurds from Sulaymaniyah, Assyrians from Basra, Greeks from Cyprus, etc etc. Most of these groups seek some comfort under the wings of the HIF but a significant number remain which are discontent with their policies and which refuse to work together with a coalition in which Turkish nationalists hold significant sway.\n\n§YState Interactions§! on the Independent vilayets (§gAegean Islands, Dodecanese, Cyprus, Latakia, Sivas, Sulaymanyiah, Basra, Jerusalem, Trebizond, Abu Dhabi, Bahrain, Qatar§!) will either increase or decrease the number of £deputies_texticon §Ydeputies§! in support of our coalition.\n\n§GSupportive§!: [?OTT.ind_sup_deputies]/[?OTT.ind_deputies]\n§ROpposition§!: [?OTT.ind_opp_deputies]/[?OTT.ind_deputies]\n"
 
 ############################
@@ -580,26 +580,26 @@ ottoman_centralising_focus:0 "Kemalist Centralism"
 ###########
 
 ### Politics (Kemalist)
-OTT_Judicial_Commision:0 "Found the Judicial Commision"
+OTT_Judicial_Commision:0 "사법위원회 출범"
 OTT_Judicial_Commision_desc:0 "As the Ottoman civil code is based on the Sharia, in the shape of the Mecelle, many of the reformers have been attempting to replace it with a modernised and secular variant. An attempt at doing so was started in 1930 but the electoral defeat in 1931, forced the OHF to re-evaluate its position. Now that the party is back in charge, it seems only natural to push it once more."
 OTT_Expand_the_Education_Ministry:0 "교육부 확장"
-OTT_Expand_the_Education_Ministry_desc:0 "교육은 OHF에게 있어서 가장 중요한 문제로 1908년 혁명 이후로 줄곧 힘든 싸움을 벌여오고 있습니다. 그 과정에 남녀 공학에 대한 의미 있는 조처가 내려졌지만, 중앙화 되지 못한 오스만의 교육제도는 가시밭길로 남아있습니다. 하지만 남녀 공학 통일령은 이것을 단번에 해결할 것입니다!"
-OTT_Replace_the_Penal_Code:0 "Replace the Penal Code"
+OTT_Expand_the_Education_Ministry_desc:0 "교육은 OHF에게 있어서 가장 중요한 문제로 1908년 혁명 이후로 줄곧 힘든 싸움을 벌여오고 있습니다. 그 과정에서 남녀공학에 대한 의미 있는 조처가 내려졌지만, 중앙화되지 못한 오스만의 교육제도는 가시밭길로 남아있습니다. 하지만 남녀공학 통일령은 이를 단번에 해결할 것입니다!"
+OTT_Replace_the_Penal_Code:0 "형법 개정"
 OTT_Replace_the_Penal_Code_desc:0 "Whilst the current Penal Code serves us well, the Grand Vizier has been enticed by reforms enacted in [ITA.GetNameDef]. It not only provides us with a better and modernised code but it also includes special clauses targeting political dissidents such as the syndicalist movement, which seem a useful tool to the administration."
-OTT_Single_Party_Dictatorship:0 "Install the Single Party Dictatorship"
+OTT_Single_Party_Dictatorship:0 "일당독재 집권"
 OTT_Single_Party_Dictatorship_desc:0 "Ottoman democracy has failed us. Whilst the Grand Vizier is a staunch supporter of the will of his people, he believes that a progressive vanguard is necessary to lift the Ottoman people up. This vanguard can only function if it can act with total power, free from conservative meddling."
-OTT_Abolish_Mecelle:0 "Abolish the Mecelle Code"
+OTT_Abolish_Mecelle:0 "메젤레법 폐지"
 OTT_Abolish_Mecelle_desc:0 "Following the suggestions made by the Judicial Commission, the time has finally come to rid ourselves of the Mecelle. A new civil code, fully secular in nature, will treat all Ottoman citizens as equals and will show the desire to tear down the last conservative anchor points."
-OTT_Commision_Ottomanish_Language:0 "Reform the Ottoman Language"
+OTT_Commision_Ottomanish_Language:0 "오스만 언어 개혁"
 OTT_Commision_Ottomanish_Language_desc:0 "Based on a Perso-Arabic script, many of the more radical reformers within the Party believe the Ottoman language is needlessly complicated and therefore hindering literacy programs. They have therefore pushed towards the adoption of the Latin Script with the necessary adjustments to fit the Turkish language."
-OTT_Reform_Millet_System:0 "Reform the Millet System"
+OTT_Reform_Millet_System:0 "밀레트 제도 개편"
 OTT_Reform_Millet_System_desc:0 "The Millet System was a creation to ensure that Ottoman citizens who did not practice the Islamic faith could govern themselves and as such limit sectarian conflict. This has over the years however, led to non-Muslim citizens almost completely detaching themselves from the Empire, and has encouraged the disaster that followed in the Balkans. With a new Civil Code, surely this system is no longer necessary?"
 
-OTT_Ottoman_Constitution:0 "Procuring a New Constitution"
+OTT_Ottoman_Constitution:0 "신헌법 구현"
 OTT_Ottoman_Constitution_desc:0 "Our current constitution dates from 1876 when Abdulhamid II was forced to concede power to the Young Ottomans. Despite a temporary setback between 1878-1908, this same constitution would be brought back by the Young Turks during the constitutional revolution. Many believe the document is dated however and gives unnecessary power to the office of the Sultan. A revision is in order!"
-OTT_Secure_Seperation_of_Powers:0 "Guarantee the Separation of Powers"
+OTT_Secure_Seperation_of_Powers:0 "분권화 보장"
 OTT_Secure_Seperation_of_Powers_desc:0 "When the Empire in 1878 returned to the rule of the Sultan, it quickly became apparent how this was detrimental to the nation. Arbitrary decisions and the concentration of so much power in the hands of a single person who could decree laws, condemn prisoners and take control over estates he fancied will not do in the 20th century. Therefore it is important that we limit the power of the Padishah."
-OTT_Reorganise_Vilayet_System:0 "Reorganise the Vilayet System"
+OTT_Reorganise_Vilayet_System:0 "빌라예트 체계 재조직"
 OTT_Reorganise_Vilayet_System_desc:0 "The current size of our Vilayets is far too large, and as such encourage concentration of power within local figures. By reducing the size of them and through the expansion of our telegraph and radio network, we can make them more dependent on the capital and have less power to mismanage."
 OTT_Millet_Mektepleri:0 "Millet Mektepleri"
 OTT_Millet_Mektepleri_desc:0 "The Millet Mektepleri or Nation School is the brainchild of Minister of Education Mustafa Necati and has as grand aim to make the entire Ottoman population literate. Focusing on the age bracket 14-45, these 'schools' are compulsory for all citizens including women and prisoners. After completing a test, the participants will be granted a certificate from the state and join the Modern Ottoman society."
@@ -609,20 +609,20 @@ OTT_Curtail_Religious_Organisations:0 "Curtail Religious Organisations"
 OTT_Curtail_Religious_Organisations_desc:0 "If the Empire is ever to advance towards a secular institution, we have to take decisive action against the various religious organisations shouting their opposition to the reforms. The Sufi orders form the most significant hurdle in this as they not only de facto control Eastern Anatolia but have direct contacts with the Caliph who they utilise to remain in power. No more!"
 
 ### Maintaining Internal Order (Kemalist)
-OTT_Maintenance_of_Order_Law:0 "Pass the Maintenance of Order Law"
+OTT_Maintenance_of_Order_Law:0 "질서유지법 가결"
 OTT_Maintenance_of_Order_Law_desc:0 "Tough times necessitate tough measures and the "Law for the Maintenance of Public Order" is exactly this. To combat the internal enemies of our fair state, this law will extend dictatorial powers to the office of the Grand Vizier and extend the capability of the army to restore public order. Furthermore it will also allow us to crush subversive organisations - such as the opposition - with ease."
 
-OTT_Reeling_in_the_Arab_Vilayets:0 "Reeling in the Arab Vilayets"
+OTT_Reeling_in_the_Arab_Vilayets:0 "아랍 빌라예트 인사개편"
 OTT_Reeling_in_the_Arab_Vilayets_desc:0 "As political control over the Turkish heartland increases, so should we extend this to our Arab subjects in the Mashriq and Tripolitania. Be it through political appointments, economic development or military force, the old aristocratic order will be pushed out to make place for the new Ottoman citizen, a young, intellectual and proud servant of the Sultan."
-OTT_Reform_the_Conscription_System:0 "Reform the Conscription System"
+OTT_Reform_the_Conscription_System:0 "징병제도 개혁"
 OTT_Reform_the_Conscription_System_desc:0 "Regularly used by the Ottoman army to cover its flanks or to perform the 'dirty' work, irregulars make up a not insignificant amount of our army. They are often recruited from Kurdish, Syrian and Iraqi tribes and are highly disloyal and untrustworthy assets to the army. The time has come to eradicate this practice and incorporate any stranglers into the full Ottoman Army."
-OTT_Crack_down_on_the_SSNP:0 "Crack Down on Arab Parties"
+OTT_Crack_down_on_the_SSNP:0 "아랍 정당 단속"
 OTT_Crack_down_on_the_SSNP_desc:0 "Through their printing presses in Beirut and their Radio broadcasts from Cairo, a whole slew of Arab movements has popped up throughout Greater Syria. Fighting against the modernisation of the Empire and trying to persuade people that an "Arab" nation would be beneficial to their lives, it is the duty of any decent government to spare the people from these delusions."
-OTT_Order_by_the_Locomotive:0 "Order by the Locomotive"
+OTT_Order_by_the_Locomotive:0 "질서는 기차를 타고"
 OTT_Order_by_the_Locomotive_desc:0 "The sheer size of the empire has made control over the periphery tricky for centuries. As the Ottoman system of the 19th century strongly relied on control from the centre, inadequate infrastructure often made responding to crises slow. Pioneered by the Hejaz Railway and later the Istanbul-Baghdad Railway, the empire can now strike anywhere at any time."
-OTT_Status_of_the_Autonomous_Regions:0 "Status of the Autonomous Regions"
+OTT_Status_of_the_Autonomous_Regions:0 "자치구의 현황"
 OTT_Status_of_the_Autonomous_Regions_desc:0 "Under the CUP dictatorship, many of the old autonomous regions and special statuses were firmly abolished in favour of a strong centralised state. Pressured by the international community, conservatives and the Sultan himself, much of their work would be undone after the conclusion of the Weltkrieg. Now that the centralists are back in charge, the time is ripe to finish what our predecessors started."
-OTT_Tribunals_of_Progress:0 "Tribunals of Progress"
+OTT_Tribunals_of_Progress:0 "이동재판소"
 OTT_Tribunals_of_Progress_desc:0 "Working in close cooperation with the Law on the Maintenance of Public Order, the "Kalkınma Mahkemeleri" are mobile military tribunals sent out by the office of the Grand Vizier to restore order throughout the empire. Headed by dedicated followers of the Pasha, these men will do whatever necessary to ensure the much needed reforms can't be stopped by the banalities of the opposition."
 
 OTT_Reeling_in_the_Anatolian_Vilayets:0 "Reeling in the Anatolian Vilayets"
@@ -637,7 +637,7 @@ OTT_OHP_Membership_Reward_Program:0 "OHF Membership Reward Program"
 OTT_OHP_Membership_Reward_Program_desc:0 "Grasping back to our predecessor, the CUP, politics have become something not solely decided by the privy council but a true mass movement. Whilst this means that we no longer have to pay lip-service to a few select upper class notables, we still need to adapt our program to the needs of our support base or if one doesn't exist, create one ourselves through carefully placed notables."
 
 ### Internal Policy Post-CP
-OTT_Ottoman_Renaissance:0 "Dawn of the Ottoman Renaissance"
+OTT_Ottoman_Renaissance:0 "오스만 르네상스의 여명"
 OTT_Ottoman_Renaissance_desc:0 "The Europeans deemed us weak and sickly, the Iranian believed we wouldn't risk confronting them, and the Arabs believed they were an equal match for the power of Turkish boots. With the white crescent on a red field flying on ramparts from Cairo to Lake Urmiah, we have once and for all shown that our decline has been firmly halted and turned around!"
 
 OTT_Reform_on_the_Homefront:0 "Stabilise the Homefront"
@@ -818,7 +818,7 @@ OTT_Basra_Concessions:0 "Sell off Basra Concessions"
 OTT_Basra_Concessions_desc:0 "Although a large part of the Basra vilayet was given in concession to the British Empire after the Weltkrieg, many of these ran out of time and were forced to be turned back over to the Ottoman government. Although the government has thus far refrained from offering them up for sale, to protect its own Kirkuk production, they could help reinvigorate the Iraqi economy."
 
 ### Political (Fevzi)
-OTT_State_of_Emergency:0 "State of Emergency"
+OTT_State_of_Emergency:0 "비상사태"
 OTT_State_of_Emergency_desc:0 "The assassination of the Grand Vizier has shown that the Ottoman state is held captive by radical Islamist extremists, opposed to the unstoppable tide of progress and unwilling to recognise the decay of Ottoman power. We cannot give in to their lack of reason, and as such have to take any measures necessary to ensure the dream of the CUP and OHF remains intact!"
 OTT_Replace_Walis:0 "Recall the Walis"
 OTT_Replace_Walis_desc:0 "Complacency and a lack of enthusiasm amongst the ruling cadre has steadily led to a decrease in quality and ability of our Walis or governors. If the Ottoman state is to prosper, these corrupt, decadent and unscrupulous individuals have to been torn out and replaced by those loyal to the regime and its grand vision for the future!"
@@ -906,11 +906,11 @@ OTT_Mosque_Renovation_Program:0 "Refurbish Places of Worship"
 OTT_Mosque_Renovation_Program_desc:0 "Home to the holiest places in all Islam, the Ottoman Empire has in the last few decades nonetheless often shurked its duty to maintain these places of worship and ensure their further development. Mosques in Diyarbakir, Damascus, Baghdad, Konstantiniyye and even in the Hejaz itself are showing clear signs of neglect. We will no longer stand for this rejection of our traditions!"
 
 ### Foreign (Liberal)
-OTT_Renovate_Sublime_Porte:0 "Renovate the Sublime Porte"
+OTT_Renovate_Sublime_Porte:0 "정부청사 수리"
 OTT_Renovate_Sublime_Porte_desc:0 "Although used as a nickname for the central government of the Ottoman Empire, the Sublime Porte or Bab-ı Ali also refers to the entrance of the ministries across Topkapi. Sadly many of the these buildings were badly harmed in a fire in 1911 and as such there was a relocation of many of its former inhabitants to the Dolmahbace. With restorations completed, the foreign ministry can finally return."
-OTT_Join_Entente:0 "Join the Entente"
+OTT_Join_Entente:0 "협상국 참여"
 OTT_Join_Entente_desc:0 "Despicable traitors to all Islam during the Weltkrieg, you will be hard-pressed to find a living soul willing to speak positively of the reactionary French slave state or their Anglo dogs, but, it cannot be denied that the geopolitical reality is leaving us with little choice. German might is crumbling and the clear industrial and military power of the United States may be all that's left to rebuke the Russian bear."
-OTT_Join_Reichspakt:0 "Join the Reichspakt"
+OTT_Join_Reichspakt:0 "라이히스팍트 참여"
 OTT_Join_Reichspakt_desc:0 "Although relations with Berlin have cooled since the rise of the liberal coalition to power, we cannot deny that it is German military might that protects the Empire from the Russian bear, and despite concerns from pacifists, we have no choice but to recognise that if the Porte wishes to partake in the New World Order, we must stand united with the Germans in their time of need."
 OTT_Interventionism_Middle_East:0 "Interventionism in the Middle East"
 OTT_Interventionism_Middle_East_desc:0 "Carved up by British hawks and Arab warlords, our subjects on the Arab peninsula have long been drifting apart from us, and have established their own spheres of influence, running counter to our interests. As it befalls the Caliph of all Islam however, it is our duty to protect the safety of the Muslim people and free them from foreign, non-Turkish, meddling."
@@ -1025,13 +1025,13 @@ OTT_Election_Factories_desc:0 "Ridiculed by the opposition as "Election Factorie
 # Ideas #
 #########
 ### Starting 
-ott_institutionalised_islam:0 "Institutionalised Islam"
+ott_institutionalised_islam:0 "이슬람의 일상화"
 ott_institutionalised_islam_desc:0 "Religion has always played an important role in the Ottoman Empire, to no small degree because our Padishah is the Caliph of all Islam. Nonetheless it would take until Abdulhamid II until one could really speak of an organised state religion wherein Konstantiniyye arranged everything from protection of the Holy Sites to education of the Ulema. Striving for a policy of Pan-Islamism, the faith was seen as the metaphorical glue holding the empire together under the Sultan-Caliph himself.\n\nThis control however has come at a cost as by bringing Islam closer to the chest, it as well now influences state policy at a higher level with various large Sufi orders possessing incredible political capital and opposing many of the attempted secularist reforms."
 
-ott_widespread_illiteracy:0 "Widespread Illiteracy"
+ott_widespread_illiteracy:0 "만연한 문맹"
 ott_widespread_illiteracy_desc:0 "Illiteracy is widespread amongst the common people of the empire, as both the difficulty of the Perso-Arabic script and a general disinterest of the lower classes to even bother learning to read is greatly hampering the industrialisation of our grand empire."
 
-ott_armed_neutrality:0 "Armed Neutrality"
+ott_armed_neutrality:0 "무장중립"
 ott_armed_neutrality_desc:0 "The brave men who fought against imperialism during the Weltkrieg lay scattered around the Empire in military mass graves, and total casualties of the war encompass over 25% of our pre-war population. We cannot forget nor can we forgive what the Imperial powers have done to us. Dark clouds are gathering above Europe and the fear of renewed war increases but we shall not be part of it! "
 
 ### Axis war
