@@ -398,7 +398,7 @@ LEC_reactivate_gin_drinkers_line:0 "Reactivate the Gin Drinker's Line"
 LEC_reactivate_gin_drinkers_line_desc:0 "The Gin Drinker's Line is an old coastal defence line in Hong Kong, built before the British Revolution in case of an invasion by Japan. The line itself has fallen into disrepair, but with some renovation it will be able to hold off any foe."
 LEC_the_kowloon_redoubt:0 "구룡반도 요새화"
 LEC_the_kowloon_redoubt_desc:0 "Kowloon is the peninsula north of Hong Kong, where the most dangerous blows will be struck from the land. We should fortify it to remove some of the threat posed by the Guangdong warlords."
-LEC_defending_shanghai:0 "우송의 총포"
+LEC_defending_shanghai:0 "우쑹의 총포"
 LEC_defending_shanghai_desc:0 "Wusong Fort in Shanghai is a dilapidated old fortification. We should restore with the finest new guns to keep the city and the heart of the mandate safe."
 LEC_fortify_minor_cities:0 "중소도시 요새화"
 LEC_fortify_minor_cities_desc:0 "The minor cities of the Mandate must not be forgotten in our defensive plans. Preperations to protect them from assaults must be drawn up by reactivating old Chinese fortifications and constructing our own strongholds."
@@ -406,10 +406,10 @@ LEC_fortify_minor_cities_desc:0 "The minor cities of the Mandate must not be for
 LEC_settle_enlistment_debate:0 "의용군의 미래"
 LEC_settle_enlistment_debate_desc:0 "The world is quickly changing and the volunteer force in its current form may not find itself in a suitable position to protect the cities."
 
-LEC_expanding_the_volunteers:0 "의용군의 확장"
+LEC_expanding_the_volunteers:0 "의용군 확장"
 LEC_expanding_the_volunteers_desc:0 "The volunteer force must grow larger if we're to defend ourselves from the instability in China, but we should also reform the force."
 
-LEC_care_for_the_wounded:0 "S.W.C"
+LEC_care_for_the_wounded:0 "부상호송대" #원문은 the Sick and Wounded Corps
 LEC_care_for_the_wounded_desc:0 "First designed by Mabel St Clair Stobart in Britain in 1910, the Sick and Wounded Corps is still a truly modern hospital force. As a volunteer force every man is vital, so we must have proper medical care by replicating the WSWCC."
 LEC_weltkrieg_lessons:0 "세계대전의 교훈"
 LEC_weltkrieg_lessons_desc:0 "The Great War taught many of our officers important lessons, and by letting them collaborate on new manuals we can learn a good deal about warfare, conventional and unconventional."
@@ -429,7 +429,7 @@ LEC_urban_combat_desc:0 "'Dangerous Dan' has formulated a unique knife and bare-
 LEC_tank_experiments:0 "기갑부대 훈련"
 LEC_tank_experiments_desc:0 "Tanks are widely thought to be the way of the future, and by developing methods for their use in urban environments we can ensure a strong backbone for the cities in the future."
 
-LEC_preemptive_planning:0 "우선적인 계획"
+LEC_preemptive_planning:0 "선제적 계획"
 LEC_preemptive_planning_desc:0 "Despite our ostensible international backing, the Cities have many enemies in China and we are likely to create more on the world stage. Our attack in inevitable and so we must begin to plan for this eventuality."
 LEC_a_legation_navy:0 "공사관 도시의 해군?"
 LEC_a_legation_navy_desc:0 "If we are to defend ourselves in this unstable time, we shall need a suitable naval detachment operating under our direct control. We will ask the Legation Council to vote on a motion that would grant us the beginnings of a navy from the fleets of the Council members."
@@ -569,7 +569,7 @@ lec.14.t:0 "Russia is Granted Voting Rights on the Legation Council"
 lec.14.d:0 "It seems that the Legation Council has granted Russia the right to vote on the Legation Council, as Transamur no longer is in a position to dispute the issue. While this is undoubtedly correct procedure, not consulting the Council for a vote sets a worrying precedent, and threatens Japanese and German precedence. Unfortunately, however, we have no choice but to accept this for now."
 lec.14.a:0 "It cannot happen again."
 
-lec.15.t:0 "우리의 투표권은 회복되었습니다."
+lec.15.t:0 "우리의 투표권이 회복되다!"
 lec.15.d:0 "The Legation Council, after a contentious debate, has elected to restore our voting rights on the Legation Council, since Transamur no longer disputes our Russian claims. This is a great day for Russia and Asia as a whole!"
 lec.15.a:0 "Great news!"
 
