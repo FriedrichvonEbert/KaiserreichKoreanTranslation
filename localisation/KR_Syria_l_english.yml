@@ -18,26 +18,26 @@ POLITICS_AHMAD_NAMI_DESC:0 "A Circassian-Turkish noble-blooded Ottoman with conn
 POLITICS_IBRAHIM_HANANU:0 "Just when he thought he was going to lead a peaceful life managing his extensive estates, lawyer and Ottoman loyalist Ibrahim Hananu found himself appointed to the office of bey of Syria on a tide of decentralist sentiment in Constantinople. Ibrahim assumed his post with no small amount of reluctance, but nonetheless is determined to carry out the duties of his office to the highest degree; however, with tensions rising around the world and especially in the Arab world, Hananu may find his loyalties tested like never before."
 
 ### Parties ###
-SYR_totalist_party:0 "HIA"
-SYR_totalist_party_long:0 "Harakat al-Ishtirakiyeen al-'Arab (Arab Socialist Movement)" #Party of al-Hawrani -> could be used as a precursor for the Ba'ath maybe?
-SYR_syndicalist_party:0 "HNS"
-SYR_syndicalist_party_long:0 "Hizb al-Niqabiu al-Suri (Syrian Syndicalist Party)" #Party of Khalid Bakdash (doesn't have a portrait) ... could potentially use Radwan al-Hilu of the Palestinian Communist Party?
-SYR_radical_socialist_party:0 "HNS"
-SYR_radical_socialist_party_long:0 "Hizb al-Niqabiu al-Suri (Syrian Syndicalist Party)" #Party of Khalid Bakdash (doesn't have a portrait) ... could potentially use Radwan al-Hilu of the Palestinian Communist Party?
-SYR_social_democrat_party:0 "HNS"
-SYR_social_democrat_party_long:0 "Hizb al-Niqabiu al-Suri (Syrian Syndicalist Party)" #Party of Khalid Bakdash (doesn't have a portrait) ... could potentially use Radwan al-Hilu of the Palestinian Communist Party?
-SYR_social_liberal_party:0 "HS (Damascene Wing)"
-SYR_social_liberal_party_long:0 "Hizb al-Sha'ab (People's Party)" #Palestinian/Damascene wing of the People's Party. This wing represents al-Nashashibi (Jerusalem) and al-Jazairi (Damascus)
-SYR_market_liberal_party:0 "HS (Aleppan Wing)"
-SYR_market_liberal_party_long:0 "Hizb al-Sha'ab (People's Party)" #Aleppo wing of the Party of Nazim al-Kudsi (doesn't have a portrait) and Rushdi al-Kikhiya (doesn't have a portrait but will use Hananus portrait due to similarities between the two). Supports closer relations with Iraq and is the main anti-Damascene bloc in Aleppo/Northern Syria.
-SYR_social_conservative_party:0 "KW"
-SYR_social_conservative_party_long:0 "al-Kutlah al-Wataniyah (National Bloc)" #Party of Hashim al-Atassi and Shukri al-Quwaitli 
-SYR_authoritarian_democrat_party:0 "al-Usra al-Alawiyya" 
-SYR_authoritarian_democrat_party_long:0 "al-Usra al-Alawiyya (Alawiyya Dynasty)" #Used to show support for the Alawiyya dynasty of Moneimi, in practice this mainly consists of the National Bloc in the shape of Shukri al-Quwaitli
-SYR_paternal_autocrat_party:0 "Military Government"
-SYR_paternal_autocrat_party_long:0 "Military Government" #Temporary military government, led by Husni al-Zaim or Adib Shishakli
-SYR_national_populist_party:0 "SSNP"
-SYR_national_populist_party_long:0 "Hizb Al-Suri Al-Qawmi Al-'Ijtima'i (Syrian Social Nationalist Party)" #Extreme nationalist party under the leadership of Antun Saadeh
+SYR_totalist_party:0 "아랍 사회주의 운동"
+SYR_totalist_party_long:0 "아랍 사회주의 운동" #Party of al-Hawrani -> could be used as a precursor for the Ba'ath maybe?
+SYR_syndicalist_party:0 "시리아 생디칼리슴당"
+SYR_syndicalist_party_long:0 "시리아 생디칼리슴당" #Party of Khalid Bakdash (doesn't have a portrait) ... could potentially use Radwan al-Hilu of the Palestinian Communist Party?
+SYR_radical_socialist_party:0 "시리아 생디칼리슴당"
+SYR_radical_socialist_party_long:0 "시리아 생디칼리슴당" #Party of Khalid Bakdash (doesn't have a portrait) ... could potentially use Radwan al-Hilu of the Palestinian Communist Party?
+SYR_social_democrat_party:0 "시리아 생디칼리슴당"
+SYR_social_democrat_party_long:0 "시리아 생디칼리슴당" #Party of Khalid Bakdash (doesn't have a portrait) ... could potentially use Radwan al-Hilu of the Palestinian Communist Party?
+SYR_social_liberal_party:0 "인민당"
+SYR_social_liberal_party_long:0 "인민당" #Palestinian/Damascene wing of the People's Party. This wing represents al-Nashashibi (Jerusalem) and al-Jazairi (Damascus)
+SYR_market_liberal_party:0 "인민당"
+SYR_market_liberal_party_long:0 "인민당" #Aleppo wing of the Party of Nazim al-Kudsi (doesn't have a portrait) and Rushdi al-Kikhiya (doesn't have a portrait but will use Hananus portrait due to similarities between the two). Supports closer relations with Iraq and is the main anti-Damascene bloc in Aleppo/Northern Syria.
+SYR_social_conservative_party:0 "국민연합"
+SYR_social_conservative_party_long:0 "국민연합" #Party of Hashim al-Atassi and Shukri al-Quwaitli 
+SYR_authoritarian_democrat_party:0 "알라위야 왕조" 
+SYR_authoritarian_democrat_party_long:0 "알라위야 왕조" #Used to show support for the Alawiyya dynasty of Moneimi, in practice this mainly consists of the National Bloc in the shape of Shukri al-Quwaitli
+SYR_paternal_autocrat_party:0 "군사정부"
+SYR_paternal_autocrat_party_long:0 "군사정부" #Temporary military government, led by Husni al-Zaim or Adib Shishakli
+SYR_national_populist_party:0 "시리아 사회국민당"
+SYR_national_populist_party_long:0 "시리아 사회국민당" #Extreme nationalist party under the leadership of Antun Saadeh
 
 ### Cosmetic Tags ###
 SYR_great_national_populist:0 "대 시리아"
