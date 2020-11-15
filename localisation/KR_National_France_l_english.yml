@@ -889,19 +889,19 @@ NATFRA_War_of_Production:0 "생산과의 전쟁"
 NATFRA_War_of_Production_desc:0 "Since the exile, the industrial capacity of the Empire has been greatly developed, but it’s still not enough to fulfil the needs of our armed forces: a great effort will be asked of our citizens, they will have to work harder and better than ever before to give our fighting men a chance. But we can promise one thing: in the end, this will all be worth it."
 NATFRA_War_in_the_Minds:0 "War in the Minds"
 NATFRA_War_in_the_Minds_desc:0 "War is not just won on the battlefields or even in the factories. Spirit is also crucial: the morale of the infantry must of course be kept up, but on the homefront too we must make sure that each and every one of our citizens is keenly aware that every one of them has a role to play in the war effort. It’s only once the entire nation is united in spirit, working towards victory, that we will be able to achieve our destiny."
-NATFRA_Factories_Investments:0 "Factories Investments"
+NATFRA_Factories_Investments:0 "공장에 투자"
 NATFRA_Factories_Investments_desc:0 "Of course, hard work alone cannot be enough to boost our production capacities: we will heavily invest in industries important for the war effort, opening new factories and developing already existing ones, all the while training the working men and women how to use newer machinery, specialised to fit our needs."
 NATFRA_Ressource_Management:0 "Resource Management"
 NATFRA_Ressource_Management_desc:0 "Not just the people, but the very soil of our nation must be put to contribute to help towards the war effort. Thankfully, we have access to the vast riches of the empire. Private war ressource exploitations will be heavily monitored to make sure that everything needed for the armed forces gets into the right hands and no delay is tolerated."
-NATFRA_Mobilise_Every_Man:0 "Mobilise Every Man"
-NATFRA_Mobilise_Every_Man_desc:0 "France is a nation of citizen soldiers and each man from age 20 to 45 knows his duty: those not needed in critical industries will be ready for active duty at a moment’s notice. These brave men, heroes all, some who saw the horrors of the Weltkrieg, some too young to even remember the beauty of the mainland, will fight to the end to free their compatriots."
+NATFRA_Mobilise_Every_Man:0 "모든 남성 징집"
+NATFRA_Mobilise_Every_Man_desc:0 "프랑스는 시민이 곧 군인인 국가이고, 20에서 45세까지의 남성들은 각자 그들의 의무를 알고 있습니다. : 가장 중요한 산업에서 필요하지 않은 사람들은 즉시 현역으로 입대할 준비를 할 것입니다. 이 용감한 자들, 영웅들, 세계 대전의 참상을 본 사람들, 너무 어려서 본토의 아름다움을 기억조차 못하는 자들 모두 동포를 해방하기 위해 끝까지 싸울 것입니다."
 NATFRA_Use_Everything:0 "모든 것을 사용하라"
 NATFRA_Use_Everything_desc:0 "More, we need more, always more. More guns, more war materials, more men. Everything must be thrown in this ultimate effort. Some might consider this desperation, but we know the truth: this is the drive of men denied their birthrights. Like our ancestors sung as they fought the armies of the tyrants of Europe: “Sachons vaincre ou sachons périr !” Let us know victory, or let us perish."
 NATFRA_Use_Everything_tt:0 "Replace §YResources Management§! and §YMobilise Every Man§! with §YUse Everything§!\nEffective Change:\nFactory Output: §G+5.00%§!\nDockyard Output: §G+5.00%§!\nMobilization Speed: §G+5.00%§!\nResource Gain Efficiency: §G+5.00%§!\nProduction Efficiency growth: §G+5.00%§!"
 NATFRA_Firestorm_Doctrine:0 "Firestorm Doctrine"
 NATFRA_Firestorm_Doctrine_desc:0 "Firestorms are a terrifying thing, advancing hundreds of meters in mere seconds, destroying all in their path, only leaving a world of ash behind them. If France is to be saved, our armed forces must take on the Communard forces like a firestorm, destroying all in their wake without leaving the enemy a second to compose themselves, decisively destroying everything in their path until the métropole is freed."
 NATFRA_Rain_of_Shells:0 "포탄의 비"
-NATFRA_Rain_of_Shells_desc:0 "Artillery has been one of the prides of the French army for decades, and our expertise proved incredibly effective in the Weltkrieg. It would be foolish to abandon that heritage: we will make it an integral part of our new tactical considerations and blow apart anyone that stands against us."
+NATFRA_Rain_of_Shells_desc:0 "포병은 수십 년 동안 프랑스 군의 자랑거리였고, 우리의 전문적 지식은 세계 대전에서 믿을 수 없을만큼 효과적이었습니다. 이러한 유산을 버리는 것은 멍청한 짓일겁니다. 우리는 포병대를 새로운 전술적 구상에서 필수적인 부분으로 만들고, 우리에게 대항하는 누구든 박살낼 것입니다."
 NATFRA_Rain_of_Shells_idea:0 "포탄의 비"
 NATFRA_Rain_of_Shells_tt:0 "Replace §YEnemy Destruction§! with §YRain of Shells§!\nEffective Change:\n§YArtillery§!: £production_cost  Production Cost: §G-10%§!\n§YRocket Artillery§!: £production_cost  Production Cost: §G-10%§!\n"
 NATFRA_Incineration:0 "Incineration"
@@ -1009,7 +1009,7 @@ NATFRA_Promote_Foreign_Legion:0 "외인부대 육성"
 NATFRA_Promote_Foreign_Legion_desc:0 "In order to retake the Métropole, we need more recruits to land on the beaches and push into the heartland of occupied France! To entice more soldiers into the army, a propaganda line shall be spun with promises of increased conditions and rights for those who enlist within the Foreign Legion to fight and liberate France."
 NATFRA_Colonial_Extraction:0 "Colonial Extraction"
 NATFRA_Colonial_Extraction_desc:0 "While some believed that we ought to ease the burdens on our colonial populace due to our shared circumstance of our exile, that plan is foolhardy. If we are to retake the Métropole, we must double down in our extraction of the resources from the colonies and make room for additional factories to produce what we need to return home!"
-NATFRA_Meet_Local_Chief:0 "Meet With Local Chiefs"
+NATFRA_Meet_Local_Chief:0 "지역 유력자와의 만남"
 NATFRA_Meet_Local_Chief_desc:0 "In order to facilitate in the process of assimilation of the peoples of the colonies into French society, we must reach out to and contact local leaders. If we can teach them of our ways and get them to live according to our customs, they can act as lighthouses to their neighbours showing the benefits of becoming assimilated into French culture!"
 NATFRA_Civ_Mission:0 "Push the Civilizing Mission"
 NATFRA_Civ_Mission_desc:0 "It is our ultimate purpose to be beacons of society to the people of this continent. We must be the city on the hill that they look to for inspiration." #Expand this talking about the Civilization Mission
@@ -1021,7 +1021,7 @@ NATFRA_Algiers_Conference_desc:0 "With our return to the Métropole it is time t
 # United Mainland Tree #
 
 NATFRA_France_indivisible:0 "나뉘어질 수 없는 프랑스" #Big PP
-NATFRA_France_indivisible_desc:0 "Since the revolution, France has been divided by ideology. But no more, we have won this struggle through sheer force of will. It will take time and effort to stabilize the nation and return to our rightful place on the world stage, but nothing is impossible for the united French people."
+NATFRA_France_indivisible_desc:0 "혁명 이래로, 프랑스는 이념에 의해 분열되어 왔습니다. 더 이상은 아닙니다. 우리는 순전히 의지력으로 이 싸움에서 승리했습니다. 국가를 안정시키고 국제 무대에서 우리의 정당한 자리로 돌아가는 데는 시간과 노력이 필요할 것이지만, 연합된 프랑스 국민들에게 불가능이란 없습니다."
 NATFRA_Rebuild_Legitimacy_Whole:0 "정통성 재건" #Work on gaining cores
 NATFRA_Rebuild_Legitimacy_Whole_desc:0 "For many of our people, we are still enemies, an occupying force. Two decades of Communard propaganda does not go away in a few weeks: we have reconquered most of France, we still need to reconquer the hearts and minds of her people."
 NATFRA_Endear_Population_Whole:0 "Endear the Population" #Lower Resistance from Communards
@@ -1032,8 +1032,8 @@ NATFRA_Return_Exile:0 "귀환하는 망명자들" #Property event
 NATFRA_Return_Exile_desc:0 "Slowly, a mass of exiles is arriving in Toulon, in Marseilles, having left behind Algeria, that they had to call home for so long. None of them know what they will find in their homeland, what has changed and if their lives could simply restart where they had left them decades ago: they only know one thing, that they want to return to their Motherland."
 NATFRA_Reconstruction_Commission:0 "Commissariat Général à la Reconstruction" #Rebuilding France
 NATFRA_Reconstruction_Commission_desc:0 "France is in ruins, with many of its cities and infrastructure deeply affected by the fighting, sabotage by retreating Communard troops or our resistance networks, and campaigns of aerial bombings. A commission will be granted all the funds and power needed to kickstart the rebuild of our nation."
-NATFRA_Relocate_Algerian_Industry:0 "Relocate Algerian Industry" #Move exile factories back home
-NATFRA_Relocate_Algerian_Industry_desc:0 "Most of France’s industrial elites went into exile when the revolution succeeded. They took their expertise and capital with them, and thanks to government support successfully relocated to the Algerian departments. Now it is time for them too to come home."
+NATFRA_Relocate_Algerian_Industry:0 "알제의 산업 이전" #Move exile factories back home
+NATFRA_Relocate_Algerian_Industry_desc:0 "프랑스의 산업 엘리트 대부분은 혁명이 성공했을 때 알제로 망명했습니다. 그들은 그들의 전문 지식과 자본을 가져 왔고, 정부의 지원 덕분에 알제로 이전하는데 성공했습니다. 이제 그들 역시 집으로 돌아올 시간입니다."
 NATFRA_Reverse_Collectivisation:0 "Reverse Collectivisation" #Add building slots for resistance/stab hit
 NATFRA_Reverse_Collectivisation_desc:0 "Most of France’s industry has been collectivised, along with much of its land. Radically challenging this status quo so soon would no doubt lead to revolt. But, little by little, we must and will carefully undo this injustice."
 NATFRA_Resource_Extraction:0 "자원 추출 확장" #More resources
@@ -1043,15 +1043,15 @@ NATFRA_Rebuild_South_Whole_desc:0 "Focusing on the port infrastructure of the ci
 NATFRA_Rebuild_North:0 "북부 재건" #Some factories in Northern France
 NATFRA_Rebuild_North_desc:0 "The bulk of the French industry is in the north of the country, on top of its coal and metal mines, and all roads and railroads lead to Paris. Already damaged by the heavy fighting of the Weltkrieg, the recent conflict was certainly not kind either to the region. Our rebuilding efforts must be intensified to ensure France is ready to stand tall as an economic power once again."
 NATFRA_Rebirth_From_Ruin:0 "폐허에서 부활하다" #Post War Economic Boom
-NATFRA_Rebirth_From_Ruin_desc:0 "There is much to be done still, and total reconstruction will take years, maybe even a decade or more. But the national effort for the revival of the nation is finally truly underway, and our people are industriously working to make France a great, proud power once again."
+NATFRA_Rebirth_From_Ruin_desc:0 "아직 해야할 일이 많이 남아있고, 완전한 재건에는 몇 년이, 어쩌면 10년 혹은 그 이상이 걸릴 것입니다. 국가 부흥을 위한 전국적인 노력은 마침내 진정으로 진행되고 있고, 우리 국민은 프랑스를 다시 한번 위대하고 자랑스러운 강국으로 만들기 위해 근면하게 일하고 있습니다."
 
-NATFRA_Reorg_Forces:0 "Reorganise the French Forces" #Training time and more men in the army
+NATFRA_Reorg_Forces:0 "프랑스군 재조직" #Training time and more men in the army
 NATFRA_Reorg_Forces_desc:0 "In exile, even with the important contribution of the indigènes, our manpower was strictly limited. Despite such odds, we have triumphed: now that the mainland is reconquered, many Frenchmen are ready to take up arms to fight for the motherland. Some reorganization will be needed to accommodate them, but soon France will be able to field numerous armies once again."
 NATFRA_Rebuild_Mil_Complex:0 "Rebuild Military Complexes" #Mil Factories
 NATFRA_Rebuild_Mil_Complex_desc:0 "Much of the industry needed for the war effort was destroyed in the conflict, either through strategic bombing or through sabotage. The future is uncertain, and further conflict is not unlikely: we will rebuild our industrial capabilities to be prepared should such a conflict arise."
 NATFRA_Officer_Amnesty:0 "Officer Amnesty" #Pardoning some low level officers
 NATFRA_Officer_Amnesty_desc:0 "Not all of the men who served the revolution are irredeemable. In particular, many of the younger officers were simply indoctrinated in serving the revolution, or even worse, simply believing this was the best way to serve France: after a suitable period of desyndicalisation, many will join our ranks."
-NATFRA_Reintegrate_Red_Army:0 "Reintegrate the Red Army" #Allowing former communards into the army
+NATFRA_Reintegrate_Red_Army:0 "붉은 군대 재통합" #Allowing former communards into the army
 NATFRA_Reintegrate_Red_Army_desc:0 "We cannot afford to waste good officers: despite its terrible organisation, the Communard army was full of brave men serving France in the best way they knew. Now that the revolution has been defeated, many are realising their mistakes and hope to continue to defend the patrie. We won’t refuse their help."
 NATFRA_Lessons_Second_War:0 "Lessons of the Reconquête" #Land doctrines
 NATFRA_Lessons_Second_War_desc:0 "The war was a gruelling experience, pitting brothers against brothers. But it has also permitted us to put our doctrinal theories to the test, and develop numerous new ones in the heat of the fight. As we drastically expand our armed forces and retrain officers, we will learn from their and our experiences of the fight, and further, develop our doctrine."
@@ -1064,11 +1064,11 @@ NATFRA_Special_Forces_desc:0 "The war has proved to us the usefulness of special
 
 NATFRA_World_Navy:0 "World Class Navy" #Navy Doctrine
 NATFRA_World_Navy_desc:0 "A strong state deserves a strong navy. Though we are unlikely to catch up to our British friends, we must further increase our naval strength to maintain our hold on the Mediterranean and ensure the link with the colonies."
-NATFRA_Rebuild_Toulon:0 "Rebuild Toulon" #Ports
+NATFRA_Rebuild_Toulon:0 "툴롱 재건" #Ports
 NATFRA_Rebuild_Toulon_desc:0 "Toulon has been the base of our Mediterranean navy for centuries: its port and arsenals were damaged in the conflict and needs repairs to be able to renew its long legacy. We will take the opportunity to expand the base as well, as our priorities have shifted towards control of the sea."
-NATFRA_Ocean_Focus:0 "Focus on the Oceans" #Carriers
+NATFRA_Ocean_Focus:0 "대양에 집중" #Carriers
 NATFRA_Ocean_Focus_desc:0 "With the reconquest of France, we now have access to numerous ports on the Atlantic. Having focused for so long on the Mediterranean, our navy is simply not well equipped to contest control of the Atlantic Ocean. There might be a time where we cannot rely on our British allies, and so we must develop an ocean-going fleet, in particular aircraft carriers."
-NATFRA_Sea_Focus:0 "Rule the Seas" #Battleships
+NATFRA_Sea_Focus:0 "바다를 지배하라" #Battleships
 NATFRA_Sea_Focus_desc:0 "We can rely on the British for control of the Atlantic, instead, we will focus on enhancing even further our stranglehold on the Mediterranean: should any conflict arise, our enemies will not be able to rely on shipping lines through our sea."
 NATFRA_Mr_Worldwide_Base:0 "Worldwide Bases" #More ports in colonies
 NATFRA_Mr_Worldwide_Base_desc:0 "France stretches across Europe and the Americas: we must use this strength to the fullest. By dotting bases all over our overseas possessions, we will be able to vastly expand our range of action."
@@ -1077,16 +1077,16 @@ NATFRA_Sea_Protect_desc:0 "To defend our vast empire should hostilities break ou
 NATFRA_Project_Further:0 "Plus Oultre" #More range
 NATFRA_Project_Further_desc:0 "If we want to entertain hopes of maintaining control over the empire, we cannot rely on allied or neutral ports to refuel and repair our ships. As such, developing the operating range of our naval forces is essential, to go always further beyond."
 NATFRA_New_Aircraft_idea:0 "Old Skies, New Fighters"
-NATFRA_Med_Airway:0 "Mediterranean Airway" #Airports in Corsica and Algiers
+NATFRA_Med_Airway:0 "지중해 항공로" #Airports in Corsica and Algiers
 NATFRA_Med_Airway_desc:0 "Travelling by sea between mainland France and the Algerian departments is time-consuming, especially as the Mediterranean is known to be capricious, particularly in winter. Now that the métropole has been freed, we will establish regular air travel between us and our overseas possessions."
 NATFRA_Old_Sky_New_Fighter:0 "Old Skies, New Fighters" #Fighter Tech
 NATFRA_Old_Sky_New_Fighter_desc:0 "With access to more resources and Communard research and expertise, we will be able to develop better fighter planes to defend the skies of the homeland, should war rear its ugly head once again."
 NATFRA_Bomber_Dev:0 "Bomber Development" #Bomber Tech
 NATFRA_Bomber_Dev_desc:0 "Air bombardment proved crucial in the war, destroying both infrastructure and morale. There is no doubt that strategic and tactical bombing will continue to be exceedingly important in the future, and as such we must stay on the edge of progress in this domain."
 
-NATFRA_Expand_Bureau:0 "Expand the Deuxième Bureau" #Expand intelligence
+NATFRA_Expand_Bureau:0 "제 2부서 확장" #Expand intelligence
 NATFRA_Expand_Bureau_desc:0 "Intelligence was critical in the last conflict, as we worked together with loyalists within the Commune to create ideal conditions for the reconquest. Covert operations and counter-intelligence will no doubt be just as important in the future, and so our intelligence services will have to be expanded."
-NATFRA_Nuclear_Science:0 "Salvage Damocles" #Nuclear Tech Boost
+NATFRA_Nuclear_Science:0 "다모클레스  인양" #Nuclear Tech Boost
 NATFRA_Nuclear_Science_desc:0 "The Internationale had started developing nuclear research, in the hopes of creating an ultimate, war-ending weapon. They were defeated before they had time to unleash this, but we will salvage this research and further it, so that atom might serve the greatness of France instead of the revolution."
 NATFRA_Rocket_Science:0 "Develop the Fusées" #Rocket Tech
 NATFRA_Rocket_Science_desc:0 "Rockets played a minor role in the war, either mounted on trucks or even carrying flying bombs without the need of a pilot. The latter is certainly a concept to expand, as this could mean being able to strike distant targets in near impunity."
@@ -1095,17 +1095,17 @@ NATFRA_Rocket_Planes_desc:0 "Plans for jet-propelled planes had been made but ne
 NATFRA_No_More_Incursion:0 "No More Incursions" #Strong Anti Air defenses
 NATFRA_No_More_Incursion_desc:0 "The airspace of the patrie must be an impenetrable fortress, so that our people never again have to endure bombings again."
 
-NATFRA_Reorg_Forces_idea_1:0 "Reorganised French Forces"
-NATFRA_Reorg_Forces_idea_2_oa:0 "Reorganised French Forces"
-NATFRA_Reorg_Forces_idea_2_rra:0 "Reorganised French Forces"
-NATFRA_Reorg_Forces_idea_3:0 "Reorganised French Forces"
-NATFRA_Reorg_Forces_idea_4:0 "Reorganised French Forces"
-NATFRA_Reorg_Forces_idea_5:0 "Reorganised French Forces"
+NATFRA_Reorg_Forces_idea_1:0 "재조직된 프랑스군"
+NATFRA_Reorg_Forces_idea_2_oa:0 "재조직된 프랑스군"
+NATFRA_Reorg_Forces_idea_2_rra:0 "재조직된 프랑스군"
+NATFRA_Reorg_Forces_idea_3:0 "재조직된 프랑스군"
+NATFRA_Reorg_Forces_idea_4:0 "재조직된 프랑스군"
+NATFRA_Reorg_Forces_idea_5:0 "재조직된 프랑스군"
 NATFRA_remodel_tank_idea:0 "Remodeled Tank Production"
 NATFRA_Expanded_Special_Force_idea:0 "Expanded Special Forces"
 NATFRA_Project_Further_idea:0 "Plus Oultre"
-NATFRA_Expanded_Bureau_LaR_idea:0 "Deuxième Bureau"
-NATFRA_Expanded_Bureau_non_LaR_idea:0 "Deuxième Bureau"
+NATFRA_Expanded_Bureau_LaR_idea:0 "제 2부서"
+NATFRA_Expanded_Bureau_non_LaR_idea:0 "제 2부서"
 
 NATFRA_Renewed_Diplomacy:0 "Renewed Diplomacy" #France back as a global player
 NATFRA_Renewed_Diplomacy_desc:0 "With our return to the Métropole now looking considerably more solid, we can finally return to the world stage!  Our time in exile has shown us the need to avoid diplomatic isolation, and so we will reach out to both our allies and the Germans, despite our enmities."
