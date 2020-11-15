@@ -1086,9 +1086,9 @@ NATFRA_Bomber_Dev_desc:0 "Air bombardment proved crucial in the war, destroying 
 
 NATFRA_Expand_Bureau:0 "제 2부서 확장" #Expand intelligence
 NATFRA_Expand_Bureau_desc:0 "Intelligence was critical in the last conflict, as we worked together with loyalists within the Commune to create ideal conditions for the reconquest. Covert operations and counter-intelligence will no doubt be just as important in the future, and so our intelligence services will have to be expanded."
-NATFRA_Nuclear_Science:0 "다모클레스  인양" #Nuclear Tech Boost
+NATFRA_Nuclear_Science:0 "다모클레스 프로젝트 승계" #Nuclear Tech Boost
 NATFRA_Nuclear_Science_desc:0 "The Internationale had started developing nuclear research, in the hopes of creating an ultimate, war-ending weapon. They were defeated before they had time to unleash this, but we will salvage this research and further it, so that atom might serve the greatness of France instead of the revolution."
-NATFRA_Rocket_Science:0 "Develop the Fusées" #Rocket Tech
+NATFRA_Rocket_Science:0 "로켓 개발" #Rocket Tech
 NATFRA_Rocket_Science_desc:0 "Rockets played a minor role in the war, either mounted on trucks or even carrying flying bombs without the need of a pilot. The latter is certainly a concept to expand, as this could mean being able to strike distant targets in near impunity."
 NATFRA_Rocket_Planes:0 "Réaction Propulsion" #Jet Tech
 NATFRA_Rocket_Planes_desc:0 "Plans for jet-propelled planes had been made but never came to fruition: the exile had divided French resources in the development of military aviation, but we are now reunited. We will develop planes capable of outmanoeuvring any of our enemies and assert their air superiority no matter who we face."
