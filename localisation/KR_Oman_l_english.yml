@@ -25,11 +25,6 @@ OMA_totalist_party_long:0 "Alhizb Alshuyueiu Aleumaniu"
 ### Leaders ###
 POLITICS_SAID_TAIMUR_DESC:0 "19세기 영국의 지원으로 이익을 얻었던 알사이드 왕조는 여전히 명맥을 이어오고 있습니다. 1921년 명예로운 평화가 이뤄지면서 어린 사이드 빈 타이무르는 무스카트에서 정치 교육을 받기 시작했습니다. 전 술탄 타이무르 빈 파이살은 1935년 퇴위하며 그의 아들을 위해 조언 위원회를 만들었습니다. 사이드 빈 타이무르는 휴전 오만의 시아파들과 오만 본토의 이바디 부족민들에 대한 우월감을 가지고 있습니다. 더 우려되는 것은 도파르족에 대한 그의 태도입니다. 사이드 빈 타이무르는 그들에게 무자비하게 세금을 부과했고, 그들을 억압하는 노예 무역을 묵인했습니다."
 
-### Tooltips ###
-EGY_REFUSED:0 "이집트가 우리 제안을 거절했습니다"
-RAJ_REFUSED:0 "인도 자치령이 우리 제안을 거절했습니다"
-PER_REFUSED:0 "페르시아가 우리 제안을 거절했습니다"
-
 ### Decisions ###
 OMA_Saudi_Invasion:0 "War in the Desert"
 OMA_Saudi_Invasion_desc:0 "The stubborn refusal of the Imam to cooperate with Muscat and the lack of cohesive leadership on both sides of our nation has left us open to attack by the Ikhwan. With many following the incredible rise in power of the Saudi dynasty, some of the tribes even within our lands are starting to doubt whether Ibn Saud isn't truly sent by Allah to reunite the Arab people..."
@@ -186,39 +181,25 @@ OMA_freedom_once_more_desc:0 ""
 oma.1.t:0 "오만 소개"
 oma.1.d:0 "Oman's splendid isolation did not end with the Weltkrieg and the Sultan hoped it wouldn't end any time soon. However, the wheel of fate stops for no one, and their protectors in Britain and India fell into utter and complete disarray. With Ottoman forces moving into the Trucial States, and an ever more aggressive Ibn Saud in Nejd, it seemed war was coming fast to Oman, and the tale of the Ibadi Sultanate was to finally end.\n\nHowever, the much feared war never came. The warriors mobilised by the state never saw battle against the Ikhwan and the Saudis... Perhaps Ibn Saud has other, more obscure plans in his mind? Regardless of reason, Oman stood alone, and has not received aid from British India in a decade. This may very well become an extremely worrisome state of affairs as instability rapidly spreads throughout the region.\n\nBut to properly fight external threats, internal ones must be properly dealt with. More specifically the Imamate of Oman, and the tribes that have their allegiance to the Hinterlands Imam higher than to Muscat; not to mention the degraded and archaic state of the Monarchy. But if these challenges can be overcome, Oman's tale is not to end so soon."
 oma.1.a:0 "좋아."
-oma.2.t:0 "동방에서의 보호"
-oma.2.d:0 "With tensions rising quickly in the Middle East and war coming to Oman sooner or later, we can rekindle our relations of old with the British Raj. After they successfully unified the subcontinent, it would be in our best interest to re-approach our old guardian and ask them for assistance against our Arabian foes."
-oma.2.a:0 "제안을 보내라."
-oma.2.b:0 "오만은 이미 안전하다."
-oma.3.t:0 "오만에서의 제안"
-oma.3.d:0 "오만은 국경을 접한 아라비아 국가들을 두려워하여 우리에게 다시 한번 보호를 요청했습니다. 영국 혁명과 그 후의 제국의 몰락은 각자도생의 길로 그들을 이끌었지만, 우리가 인도 통합에 성공함으로서 그들과의 접점이 다시 생기게 되었습니다."
-oma.3.a:0 "보호를 제안하자."
-oma.3.b:0 "그들의 요청을 거부하자."
-#oma.4 hidden
-oma.5.t:0 "오만에서의 제안"
-oma.5.d:0 "오만은 적들을 막기 위해 카이로 조약의 가입과 우리의 보호를 요청해 왔습니다. 이는 우리 동맹 아라비아를 화나게 할 것이지만 중동의 강한 동맹을 얻게 해줄 것입니다."
-oma.5.a:0 "보호를 제안하자."
-oma.5.b:0 "거절한다."
+
 oma.6.t:0 "오만에서의 제안"
 oma.6.d:0 "오만은 국경을 접한 아라비아 국가들을 두려워하여 우리에게 다시 한번 보호를 요청했습니다. 영국 혁명과 그 후의 제국의 몰락은 각자도생의 길로 그들을 이끌었지만 그들은 이제 우리의 보호가 없다면 멸망할 운명이라는 것을 깨달았습니다."
 oma.6.a:0 "보호를 제안하자."
 oma.6.b:0 "거절한다."
+
 oma.7.t:0 "오만에서의 제안"
 oma.7.d:0 "Aware of our conflicts with the Arabians and they themselves involved in a struggle with their neighbours to the West and North, Oman has requested us to assist them in any future conflicts on the peninsula. While our protection should deter them from attacking Oman, we could get bogged down in an unwanted conflict with Egypt and its allies if we aren't careful."
 oma.7.a:0 "그들에게 보호를 제안하자."
 oma.7.b:0 "그들의 요청을 거절해라."
-oma.8.t:0 "예멘 국경 분쟁"
-oma.8.d:0 "The state of Dhofar has long been an area of conflict between us and the Yemeni people and without proper assistance of Egypt would have likely sparked a war. Although we had to make concessions to our new Yemeni allies, it has allowed us to keep our neutrality up and has stabilised the region somewhat."
-oma.8.a:0 "아주 좋아."
-oma.9.t:0 "아라비아 국경에서의 분쟁"
-oma.9.d:0 "Ever since the Saudis invaded the Trucial States after the collapse of the British hegemon, we have been at risk of Arabian invasion from the north. While the small concessions we gave them at the request of Egypt should keep them of our backs, it's a weak bond and without continued Egyptian support can surely expect them to come back."
-oma.9.a:0 "지금은 평화를 유지할 때다.."
+
 oma.10.t:0 "Imam loyalists refuse to pay taxes"
 oma.10.d:0 "The Imamate has long been exempting its loyalists from paying their taxes to our administers which has led to outcry from the citizens who do pay their share. Something will have to be done about this system if we want to ensure a stable system and reduce the power of Imamn and likewise factions."
 oma.10.a:0 "충성은 보상받아야 한다!"
+
 oma.11.t:0 "부족 강도"
 oma.11.d:0 "적대적인 부족 강도들이 오랫동안 오만의 황무지를 망가뜨려 왔고, 그 지역에서 사우디의 힘이 커지고 우리 힘이 약해짐에 따라 그들은 이전보다 더 사나워졌습니다. 우리 군은 이 야만인들을 박살내기 위해 최선을 다하고 있으나 어려움을 겪고 있습니다."
 oma.11.a:0 "이 야만인들을 잡아라!"
+
 oma.12.t:0 "검은 월요일이 오만을 덮치다"
 oma.12.d:0 "재앙입니다! 베를린 증권 거래소가 완전히 붕괴되고 전 세계에 파장을 일으키며 전세계 경제와 기업을 망치고 있습니다. 우리 같은 작은 농업국가는 이 재앙에서 멀리 떨어져 있지만, 외국 투자자들은 고통받고 있고 우리를 그 속으로 끌어들이고 있습니다."
 oma.12.a:0 "빨리 해결되기를 빌자.."

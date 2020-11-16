@@ -151,7 +151,7 @@ TEX_unlock_heavy_fighter_2:0 "이 중점은 §HP-47 Thunderbolt Heavy Fighter§!
 TEX_paratroopers_spawn:0 "남부 미시시피에 공수부대 5개 사단이 소집될 것입니다"
 
 TEX_Assembly_line_modifications_tooltip:0 "Modify §H$TEX_Devers_plan2$§! by\n§H$artillery_equipment$§!: £production_cost  Production Cost:  [?-0.1|-=%]"
-TEX_focus_on_concentration_tooltip:0 "Modify §H$TEX_Devers_plan2$§! by\nDivision Organisation: [?0.05|+=%1]\nDivision Attack: [?0.05|+=%1]\nDivision Defence: [?0.05|+=%1]\nDivision Attack on core territory: [?-0.05|+=%1]\nDivision Attack on core territory: [?-0.05|+=%1]\nArtillery Attack: [?0.05|+=%1]\nArtillery Defence: [?0.05|+=%1]"
+TEX_focus_on_concentration_tooltip:0 "Modify §H$TEX_Devers_plan2$§! by\nDivision Organisation: [?0.05|+=%1]\nDivision Attack: [?0.05|+=%1]\nDivision Defence: [?0.05|+=%1]\nDivision Attack on core territory: [?-0.05|+=%1]\nDivision Defence on core territory: [?-0.05|+=%1]\nArtillery Attack: [?0.05|+=%1]\nArtillery Defence: [?0.05|+=%1]"
 
 TEX_the_cavalry_of_tomorrow_tooltip:0 "Modify §H$TEX_Devers_plan2$§! by\nArmour Division Attack: [?0.1|+=%1]\nArmour Division Defence: [?0.1|+=%1]"
 
@@ -885,11 +885,6 @@ unionstate.102.a:0 "숨어봤자 소용없다."
 unionstate.103.t:0 "뉴멕시코의 원자력"
 unionstate.103.d:0 "미국은 핵무기를 만들기 위한 장애물을 넘고 또 넘으면서 등골이 빠졌습니다. 이런 상황은 아직 행적을 파악 못한 로버트 오펜하이머를 포함한 의기충만한 물리학자들과 핵전문가들의 부족에서부터 시작되었습니다. 다른 잠재적 후보들 몇몇은 해외의 평화를 위한 인류애 선언서에 서명하여 우리 계획에 반대한다고 선언했습니다. 따라서 부시는 산업 기술자들에게 전적으로 의존해야 했으며, 이 때문에 개발 기간도 늘어나게 되었습니다. 마침내 조지 키스티아코프스키의 많은 실험과 도움 후에 첫 원자폭탄의 실험이 진행되었습니다. 광범위한 안전 예방 조치로 인해 생기넘치는 실험은 인상적인 폭발이라는 결실을 맺었지만, 실험의 전반적인 과정과 그 결과에 대한 문서화는 부실했습니다."
 unionstate.103.a:0 "우리는 핵무력을 갖추었다."
-
-unionstate.104.t:0 "미국 통합"
-unionstate.104.d:0 "마침내 미국은 [Root.GetNameDef]의 기치 아래 통합되었습니다. 역적과 폭군이 이 위대한 국가를 파괴하고 부패시키려고 노력했지만, 우리는 굳건하게 막아냈습니다. 그러나 내전에서 휴이 롱 각하를 지지하지 않던 지역에서 문제가 발생했습니다: 이 나라가 진짜 미합중국이 맞는가, 아니면 단순히 [Root.GetNameDef]일 뿐인가? 비록 돌이킬 수 없을 정도로 상황이 변했지만, 많은 사람들은 여전히 성조기의 기치 아래의 안정으로 돌아가기를 원합니다. 우리는 이들을 달래고 원래 마음속으로 그려왔던 미국민으로서의 휴이 각하가 여전히 존재한다는 것을 보여주어야 할까요?"
-unionstate.104.a:0 "우리는 영원히 미합중국이다!"
-unionstate.104.b:0 "[Root.GetNameDefCap]이 진정한 미국이다!"
 
 unionstate.105.t:0 "화기회사 공판"
 unionstate.105.d:0 "많은 화기회사들이 미국의 역적들을 위해 싸워왔습니다. 따라서 이들의 운명을 결정하기 위한 청문회가 국회에서 열리게 되었습니다. 우리는 이들이 다시 활동할 수 있도록 허락해야 할까요, 아니면 이들을 역적으로 다뤄야 할까요?"

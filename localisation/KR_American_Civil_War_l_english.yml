@@ -1039,6 +1039,19 @@ amcivwar.526.a:0 "지금 간다!"
 amcivwar.526.b:0 "아무래도 그들 혼자 싸움에 임해야 할 것 같군"
 amcivwar526_tt:0 "§Y[Root.GetNameDefCap]§!(은)는 §Y[can_enemy.GetNameDef]§!(을)를 상대로 한 전쟁에서 §Y[can_ally.GetNameDef]§!에 합류할 것입니다\n"
 
+amcivwar.527.t:0 "미국이 재통합하다"
+amcivwar.527.d.USA:0 "At long last America has been reunited. We stretch once again from sea to shining sea. The traitors to the country have been destroyed and the stars and stripes now fly proudly from coast to coast knowing that liberty is secured for all."
+amcivwar.527.d.CSA:0 "At long last all of America is now part of the [Root.GetNameDef]. The revolution has achieved its a major victory and the people have been unshackled from the chains of capitalism. All our waving the red flag of socialism from California to New York Island. While the scars of the revolution are everywhere we can look forward to bringing the revolution to everyone."
+amcivwar.527.d.TEX:0 "At long last America has been united under [Root.GetNameDef]'s banner. Traitors and would-be tyrants have tried to destroy and corrupt this great nation, yet we held firm and took control. A question has arisen, however, in those territories which did not initially rise up with Huey Long in the civil war: is this country the United States of America, or is it truly [Root.GetNameDef]? There is a longing among many to return to the stability of the Stars and Stripes, even if things have irrevocably changed. Should we appease them and show that the America Huey originally envisioned still exists?"
+amcivwar.527.d.CAL:0 "At long last the United States of America has been reunited. The tyrant MacArthur has been cast down, all other traitors to the country that seek to turn America into something it is not have been defeated. The stars and stripes now fly proudly from coast to coast knowing that liberty is secured for all Americans."
+amcivwar.527.a:0 "보다 완전한 통합을 위하여." #USA
+amcivwar.527.b:0 "이 땅은 당신의 땅이요." #CSA
+amcivwar.527.c:0 "그래! 우리가 바로 미합중국이다, 앞으로도 계속 말이지.\n§L(지도 색상 유지)§!" #TEX
+amcivwar.527.d:0 "그래! 우리가 바로 미합중국이다, 앞으로도 계속 말이지.\n§L(지도 색상 전환)§!" #TEX
+amcivwar.527.e:0 "[Root.GetNameDefCap]께서 곧 미국이시니!" #TEX
+amcivwar.527.f:0 "함께 갑시다, 앞으로도 계속 말입니다.\n§L(지도 색상 유지)§!" #PSA/NEE
+amcivwar.527.g:0 "함께 갑시다, 앞으로도 계속 말입니다.\n§L(지도 색상 전환)§!" #PSA/NEE
+
 ### Sanity Checks ###
 
 amcivwar.600.t:0 "[Root.GetAdjective]의 붕괴"

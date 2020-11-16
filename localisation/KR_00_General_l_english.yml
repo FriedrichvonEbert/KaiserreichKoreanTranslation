@@ -7,16 +7,16 @@ LOGO_MAIN_MENU_LINK:0 "여기를 눌러서 패치노트를 확인하세요"
 
 ### Diplomacy Tooltips ###
 REQUEST_EXP_FORCE_BLOCKED_TT:0 "§R이 나라는 당신의 군대 요청을 거부합니다.§!"
-RECALL_VOLUNTEERS_TITLE:0 "Recall Volunteers"
-RECALL_VOLUNTEERS_ACTION_DESC:0 "Recall all volunteers sent to this country."
-RECALL_VOLUNTEERS_ACTION_SEND_DESC:0 "Recall all volunteers sent to §Y[FROM.GetNameDef]§!?"
+RECALL_VOLUNTEERS_TITLE:0 "자원병 소환"
+RECALL_VOLUNTEERS_ACTION_DESC:0 "이 국가에 보냈던 모든 자원병을 소환시킵니다."
+RECALL_VOLUNTEERS_ACTION_SEND_DESC:0 "§Y[FROM.GetNameDef]§!측에 보낸 모든 자원병을 소환하겠습니까?"
 
 ### Regular Tooltips ###
-general_minister_change_tt:0 "그들의 장관들은 우리의 이념에 따라 교체될 것입니다."
 is_actual_major_tt:0 "세계의 주된 열강으로 여겨짐"
-if_FROM_agrees:0 "If §H[From.GetFlag] [From.GetNameDef]§! agrees:"
+if_FROM_agrees:0 "만일 §H[From.GetFlag] [From.GetNameDef]§! 측이 등의시:"
 upon_selecting_focus:0 "국가중점 선택 시:"
 tooltip_white_line:0 "   \n"
+integration_tooltip:0 "통합되지 않은 지역 보기"
 
 ### Renaming System ###
 toggle_renaming_button_tooltip:0 "[toggle_renaming_button_tooltip_loc]"
@@ -37,7 +37,7 @@ INTELLIGENCE_AGENCY_BLOCK_TOOLTIP:0 "[!intelligence_agency_blocker_button_click_
 
 ### Splash Screen ###
 KR_SPLASH_TITLE:0 "환영합니다!"
-KR_SPLASH_CREDITS:0 "§Y카라 개발팀 일동:§!\nAlpinia, Arvidus, Augenis, Blackfalcon501, DSFDarker, Carmain, Dr. Njitram, Drozdovite, Edouard Saladier, Eragaxshim, Flamefang, Fort, JazzyHugh, Jeankedezeehond, Jonjon428, Jonny BL, Krco, Liegnitz, Maltesefalcon, Matoro, Nijato, NukeGaming, OperationsManagementDecisions, PPsyrius, Pietrus, Rei VL, Rylock, SPQR, Starguard, Telcontar101, The Alpha Dog, The Irredentista, Thomahawk2k, Vidyaország, WordZero, Yard1, Zankoas and Zimbabwe Salt Co."
+KR_SPLASH_CREDITS:0 "§Y카라 개발팀 일동:§!\nAlpinia, Arvidus, Augenis, Blackfalcon501, DSFDarker, Carmain, Dr. Njitram, Drozdovite, Eragaxshim, Flamefang, Fort, JazzyHugh, Jeankedezeehond, Jonjon428, Jonny BL, Krco, Liegnitz, Maltesefalcon, Matoro, Nijato, NukeGaming, OperationsManagementDecisions, PPsyrius, Pietrus, Rei VL, Rylock, SPQR, Starguard, Telcontar101, The Alpha Dog, The Irredentista, Thomahawk2k, Vidyaország, WordZero, Yard1, Zankoas and Zimbabwe Salt Co."
 
 ### Autonomy Levels ###
 kr_integrated_puppet:0 "동화된 괴뢰국"
@@ -536,7 +536,7 @@ improved_recon_units_tech:0 "향상된 정찰 부대"
 improved_recon_units_tech_effect:0 "§H$improved_recon_units_tech$\n정찰 중대§! 활성화\n      돌파: §G+1§!\n      정찰: §G+1§!\n"
 
 asymmetrical_warfare:0 "비대칭 전투 훈련"
-asymmetrical_warfare_effect:0 "§H$asymmetrical_warfare\n일반 보병\n    도심§! 활성화\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!\n\n"
+asymmetrical_warfare_effect:0 "§H$asymmetrical_warfare$§!\n일반 보병\n    도심 활성화\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!\n\n"
 
 desert_warfare:0 "사막 전투 훈련"
 desert_warfare_effect:0 "§H$desert_warfare$§! 활성화\n§H일반 보병\n    사막§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!\n\n"

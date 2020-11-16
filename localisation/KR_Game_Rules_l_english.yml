@@ -240,7 +240,7 @@ RULE_OPTION_SIC_ELECTION_INTEGRALIST_DESC:0 "통일주의자들은 1937년 선�
 SPA_CIVIL_WAR:0 "£KR_game_rule_flag_SPA   스페인 내전"
 RULE_OPTION_SPA_RANDOM:0 "기본값"
 RULE_OPTION_SPA_RANDOM_DESC:0 "스페인이 만약 정치적 분열을 바로잡지 못한다면, 내전이 일어나게 될 것입니다."
-RULE_OPTION_SPA_CIVIL_WAR:0 "£KR_game_rule_flag_SPA  £KR_game_rule_flag_CNT_syndicalist  £KR_game_rule_flag_CAR   내전 - 세 개의 진영"
+RULE_OPTION_SPA_CIVIL_WAR:0 "£KR_game_rule_flag_SPA  £KR_game_rule_flag_CNT_syndicalist  £KR_game_rule_flag_SPR   내전 - 세 개의 진영"
 RULE_OPTION_SPA_CIVIL_WAR_DESC:0 "스페인 왕국은 세 개의 진영으로 나누어져 내전을 치르게 됩니다."
 RULE_OPTION_SPA_CIVIL_WAR_AVOIDED_SPA:0 "£KR_game_rule_flag_SPA   국민행동당의 선거 승리"
 RULE_OPTION_SPA_CIVIL_WAR_AVOIDED_SPA_DESC:0 "공개 선거가 열리고 국민행동당이 권력을 유지하게 되었으며, 그대로 존속하게 됩니다."

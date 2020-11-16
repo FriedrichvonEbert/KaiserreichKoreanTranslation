@@ -236,9 +236,6 @@ YUN_kunming_arsenal2:0 "발전된 곤명 조병창"
 YUN_Guizhou_Chishui_Arsenal:0 "구이저우 츠수이 조병창"
 YUN_military_optical_factory:0 "군용 광학 장비 공장"
 YUN_Machine_Bureau:0 "윈난 기계국"
-YUN_generic_tank_company:0 "일반 전차 회사"
-YUN_generic_naval_company:0 "일반 해군 회사"
-YUN_generic_fighter_company:0 "일반 전투기 회사"
 
 ### Events ###
 yun.1.t:0 "운남군벌의 상황"

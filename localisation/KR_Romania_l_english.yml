@@ -343,9 +343,9 @@ ROM_PNT_madgearu_tt:0 "§HVirgil Madgearu§! and the §Rleft-wing§! will lead t
 ROM_PNT_maniu_tt:0 "§HIuliu Maniu§! and the §Hcentre§! will lead the §HNational Peasants' Party§!.\n"
 ROM_PNT_vaida_tt:0 "§HAlexandru Vaida-Voevod§! and the §Bright-wing§! will lead the §HNational Peasants' Party§!.\n"
 
-ROM_PNT_soccon_constitution_tt:0 "Replace §H$ROM_peasant_state_idea$§! and §H$ROM_dirigism$§! with §H$ROM_peasant_constitution_soccon$§!\nEffective change:\nConsumer Goods Factories: §H-5%§!\nStability: §G+20.00%§!"
-ROM_PNT_soclib_constitution_tt:0 "Replace §H$ROM_peasant_state_idea$§! and §H$ROM_dirigism§! with §H$ROM_peasant_constitution_soclib$§!\nEffective change:\nConsumer Goods Factories: §H-5%§!\nStability: §G+20.00%§!"
-ROM_PNT_socdem_constitution_tt:0 "Replace §H$ROM_peasant_state_idea$§! and §H$ROM_dirigism$§! with §H$ROM_peasant_constitution_socdem$§!\nEffective change:\nConsumer Goods Factories: §H-5%§!\nStability: §G+20.00%§!"
+ROM_PNT_soccon_constitution_tt:0 "Replace §H$ROM_peasant_state_idea$§! and §H$ROM_dirigism$§! with §H$ROM_peasant_constitution_soccon$§!\nEffective change:\nConsumer Goods Factories: §H-5.0%§!\nStability: §G+20.00%§!"
+ROM_PNT_soclib_constitution_tt:0 "Replace §H$ROM_peasant_state_idea$§! and §H$ROM_dirigism$§! with §H$ROM_peasant_constitution_soclib$§!\nEffective change:\nConsumer Goods Factories: §H-5.0%§!\nStability: §G+20.00%§!"
+ROM_PNT_socdem_constitution_tt:0 "Replace §H$ROM_peasant_state_idea$§! and §H$ROM_dirigism$§! with §H$ROM_peasant_constitution_socdem$§!\nEffective change:\nConsumer Goods Factories: §H-5.0%§!\nStability: §G+20.00%§!"
 
 ROM_PNT_electoral_status_socdem:0 "The National Peasants' Party (PNT) under Virgil Madgearu stands firm as the principal alternative to the PNL. Leading a strong progressive campaign, Madgearu is pushing for further reforms and the improvement of living conditions in rural areas as claimed representatives of the peasantry."
 ROM_PNT_electoral_status_soclib:0 "The National Peasants' Party (PNT) under Iuliu Maniu stands firm as the principal alternative to the PNL. Leading a strong centrist campaign, Maniu hopes to achieve a wide base of support in parliament through compromise in order to push for moderate reforms and the improvement of living conditions in rural areas."

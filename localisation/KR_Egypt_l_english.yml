@@ -67,15 +67,6 @@ egy_domestic_gunsmiths_companies_tt:0 "Unlocks Designer: §YShoubra Engineering�
 egy_civilian_investment_companies_tt:0 "Unlocks Designer: §YHeliopolis Chemical Industries§!\nUnlocks Designer: §YMaadi Engineering Industries§!"
 egy_radio_companies_tt:0 "Unlocks Designer: §YEgyptian Telephone and Telegraph Company§!"
 
-### Opinion Modifiers ###
-EGY_economic_plan_support:0 "Syrian-Egyptian Economic Integration"
-EGY_economic_plan_no_support:0 "이집트 경제 계획을 지지하지 않음"
-EGY_ottoman_plan_support:0 "오스만에 대한 이집트의 계획을 지지함"
-EGY_ottoman_plan_no_support:0 "오스만에 대한 이집트의 계획을 지지하지 않음"
-EGY_cairo_conference_ottoman_reaction:0 "오스만에 대항하는데 협력함"
-EGY_cairo_conference_libya_reaction:0 "망명한 국왕 이드리스를 지지함"
-EGY_refused_to_join_cairo_pact:0 "카이로 협약 가입을 거부함"
-
 ### Flags ###
 EGY_farouks_reforms_begun:0 "파루크가 개혁을 시작함"
 EGY_black_monday_has_hit_egypt:0 "검은 월요일이 이집트를 강타함"

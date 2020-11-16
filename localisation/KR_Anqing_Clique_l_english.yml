@@ -209,8 +209,8 @@ anq_unlocks_war_beijing_tt:0 "[QIE.GetName](을)를 공격하기 위한 £decisi
 ANQ_can_attack_hnngxc_tt:0 "[GXC.GetName](와)과 [HNN.GetName](을)를 공격하기 위한 £decision_icon_small §H결정§!이 해금되었습니다.\n"
 ANQ_can_attack_hnngxc_proqie_tt:0 "평화시 [GXC.GetName](와)과 [HNN.GetName](을)를 공격하기 위한 £decision_icon_small §H결정§!이 해금되었습니다.\n"
 
-anq_fengtian_guarantee_tt:0 "§H봉천정부§!는 우리의 독립을 보장해줄 것입니다!\n"
-anq_qing_guarantee_tt:0 "§H청§!은 우리의 독립을 보장해줄 것입니다!\n"
+anq_fengtian_guarantee_tt:0 "§H[FNG.GetNameDefCap]§!는 우리의 독립을 보장해줄 것입니다!\n"
+anq_qing_guarantee_tt:0 "§H[QIE.GetNameDefCap]§!은 우리의 독립을 보장해줄 것입니다!\n"
 
 anq_denounce_fengtian_tt:0 "§R만일 우리가 이러한 방식으로 그들을 비난한다면, 우리는 봉천 정부를 버릴 것입니다. 이로써 안경 군벌은 홀로 남아 취약한 상태에 이를 것입니다. 또한 현재 진행 중인 지원이 중단되며 혼란을 야기할 수 있습니다.§!\n"
 anq_abandon_conference_tolerated_tt:0 "§R만일 우리가 회의에 참석하지 않는다면, 이는 봉천 정부를 버리는 것과 마찬가지입니다. 지난번 그들의 전쟁을 지지하지 않는 것은 용인할지 몰라도, 이번에는 그렇지 않을 것입니다. 이로써 안경 군벌은 홀로 남아 취약한 상태에 이를 것입니다. 또한 현재 진행 중인 지원이 중단되며 혼란을 야기할 수 있습니다.§!\n"

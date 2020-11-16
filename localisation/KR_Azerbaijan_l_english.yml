@@ -1,5 +1,13 @@
 ﻿l_english:
 
+## Opinion Modifiers ##
+GER_war_aze:0 "바쿠 석유를 두고 교전 중임"
+GER_guarantee_AZR:0 "바쿠 석유 확약"
+GER_back_down_AZR:0 "바쿠 회담 결렬"
+GER_forced_AZR:0 "석유 양보 강요"
+RUS_helped_AZR:0 "우리의 명분을 지지해주었음"
+RUS_didnt_help_AZR:0 "우리의 명분을 지지해주지 않았음"
+
 ##Parties##
 AZR_totalist_party:0 "볼셰비키"
 AZR_totalist_party_long:0 "볼셰비키당"
