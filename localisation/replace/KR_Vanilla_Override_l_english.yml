@@ -47,6 +47,7 @@ DIVISION_EQUIPMENT:0 "사단 장비"
 
 ### diplomacy_l_english
 claims_on_us:0 "그들은 우리 영토의 소유권을 주장합니다"
+puppet_opinion:0 "괴뢰"
 same_ruling_party:0 "기본"
 different_party_types:0 "기본"
 DIPLOMACY_REQUEST_EXP_FORCE_ACTION_DESC:0 "종속국에게 여러개의 사단에 대한 통제권을 요구합니다."
