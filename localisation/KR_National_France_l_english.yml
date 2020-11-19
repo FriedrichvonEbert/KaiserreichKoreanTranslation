@@ -1134,7 +1134,7 @@ NATFRA_Franco_German_Thaw:0 "Franco-German Thaw" #Cool the relations
 NATFRA_Franco_German_Thaw_desc:0 "With the return of Nancy, it may be time to work towards burying the hatchet with the Germans. Their help, much as we loathe to admit it, was necessary for us to return to the Métropole, and plunging Europe into another war we would struggle to win might be folly."
 NATFRA_Franco_German_Trade:0 "프랑스-독일 무역" #Trade Up with Mitteleuropa, slightly down with Entente
 NATFRA_Franco_German_Trade_desc:0 "It is undeniable that the German Empire is now the dominant power in Europe, both militarily and most importantly economically, despite the recent economic meltdown. As we strive to reposition ourselves on the world stage, perhaps aligning ourselves with Mitteleuropa is the right choice for the prosperity of France."
-NATFRA_Franco_German_Business:0 "Franco-German Business" #Joint Factories with GER if they agree
+NATFRA_Franco_German_Business:0 "프랑스-독일 사업" #Joint Factories with GER if they agree
 NATFRA_Franco_German_Business_desc:0 "In the hope of making the current détente with the Germans a lasting one, several businessmen have approached our government requesting that we help them find contacts in the German sphere to create cross-national corporations for the benefit of both of our nations."
 NATFRA_Congress_of_Verdun:0 "베르덩 회의" #Event chain working towards NAP or continuing the rivalry
 NATFRA_Congress_of_Verdun_desc:0 "Germany and France have long been rivals: no place is a better representative of this than Verdun, this gate between two great nations where so many fell in 1916. It is also where in 843, France and Germany were first separated by the heirs of Charlemagne. Many diplomats are hoping it could also be where a congress for lasting peace is called, and perhaps where a new Franco-German relationship could be born."
@@ -1892,122 +1892,122 @@ nfa.111.a:0 "우리가 할 수 있는 건 아무것도 없다, 식민지를 항�
 nfa.111.b:0 "우리가 어떤 저항을 할 수 있을지 보자..."
 nfa.111.c:0 "우리는 약할지 모르지만 프랑스인들에게는 굴복하지 않을 것이다. 어떤 침략에도 저항하라."
 
-nfa.112.t:0 "Morocco is Ours!"
+nfa.112.t:0 "모로코가 우리의 것이다!"
 nfa.112.d:0 "The falling German Empire has bowed to our demands and ceded the colony of Morocco to us. However, some rogue units refused to follow the orders of the Kaiser himself and are ready to resist the new French administration."
-nfa.112.a:0 "Hm, that's weird."
+nfa.112.a:0 "흠, 그것 참 이상하군."
 
-nfa.113.t:0 "Morocco is Ours!"
+nfa.113.t:0 "모로코가 우리의 것이다!"
 nfa.113.d.moroccogermanpuppet:0 "The falling German Empire has bowed to our demands and ceded the colony of Morocco to us! Our troops are now entering the protectorate to set up a new French administration. It is victory!"
 nfa.113.d.moroccoindependent:0 "The spineless Moroccans have, rightfully, bowed to our demands and have ceded their lands to us. Our troops are now entering the country, now a French protectorate for the second time. It is victory!"
-nfa.113.a:0 "Great!"
+nfa.113.a:0 "좋았어!"
 
-nfa.114.t:0 "The German Warning"
+nfa.114.t:0 "독일의 경고"
 nfa.114.d:0 "It seems the German giant is not so dead as it seems... After receiving our demands for the surrender of Morocco, the remnants of the Reich's government have ordered their troops to resist any French incursions into their colony, while also warning our cabinet to either cease the march into Morocco, or face German forces..."
-nfa.114.a:0 "Maybe we shouldn't mess with them... Retreat!"
-nfa.114.b:0 "Ignore their threats, advance into Morocco."
+nfa.114.a:0 "어쩌면 그들과 맞서서는 안 될지도 몰라... 퇴각하라!"
+nfa.114.b:0 "그들의 위협을 무시하고 모로코로 진격하라."
 
-nfa.115.t:0 "Our Threats Have Been Ignored"
+nfa.115.t:0 "우리의 위협이 무시되었다"
 nfa.115.d:0 "The Algiers government has decided to ignore our warnings and their forces have already crossed the border into German Morocco. What shall we do now?"
-nfa.115.a:0 "There's nothing that we can do, surrender the colony."
-nfa.115.b:0 "Offer what resistance we can..."
-nfa.115.c:0 "They made their choice - War!"
+nfa.115.a:0 "우리가 할 수 있는 건 아무것도 없다, 식민지를 항복한다."
+nfa.115.b:0 "우리가 어떤 저항을 할 수 있을지 보자..."
+nfa.115.c:0 "그들은 선택을 했다. 전쟁이다!"
 
-nfa.116.t:0 "French Invasion of Morocco!"
+nfa.116.t:0 "프랑스의 모로코 침공!"
 nfa.116.d:0 "Following the collapse of the once great German Empire, and our newfound independence, the French in Africa have taken it upon themselves to demand control over our territory, or risk facing war. What say we?"
-nfa.116.a:0 "We have no choice but to surrender..."
-nfa.116.b:0 "We shall fight to the end!"
+nfa.116.a:0 "항복하는 수 밖에 없다..."
+nfa.116.b:0 "우리는 끝까지 싸울 것이다!"
 
-nfa.117.t:0 "The Moroccans have Resisted!"
+nfa.117.t:0 "모로코인들이 저항한다!"
 nfa.117.d:0 "Foolishly, it seems as though the Moroccans have decided to snub our demands and will not be letting us enter the Kingdom. This is an insult to France, and must surely be dealt with at once. The Morroccans will be punished for their mistake."
-nfa.117.a:0 "Unfortunately, we are not yet ready for war..."
-nfa.117.b:0 "It is time to attack!"
+nfa.117.a:0 "안타깝게도, 우린 아직 전쟁을 할 준비가 되지 않았다..."
+nfa.117.b:0 "공격할 시간이다!"
 
 ### Case Peace Deals NFA/GER
-nfa.120.t:0 "[GER.GetName] invites us to discuss the fate of France"
+nfa.120.t:0 "[GER.GetName]이 프랑스의 운명에 대해 상의하기 위해 우리를 초대하다"
 nfa.120.d:0 "With the conclusion of peace with the communards, France has fallen into two spheres of influence. Without a prearranged agreement coming to fruition during the war, each side staked claim to as much land as they could. While some in our government holds out hope that the Germans will let us take control of the rest of their occupation zone, it is also painfully clear that they hold all the cards at this table. If we want to see France back under one banner, we will not have any room for counter negotiations."
-nfa.120.a:0 "What terms do they wish to dictate this time?"
-nfa.120.b:0 "It is a trick, send no reply"
+nfa.120.a:0 "이번에는 어떤 조항을 강요하고 싶은거지?"
+nfa.120.b:0 "분명 속임수다, 답장을 보내지 마라"
 
-nfa.121.t:0 "The French decline our offer"
+nfa.121.t:0 "프랑스가 우리의 제의를 거절하다"
 nfa.121.d:0 "Assuming ulterior motives for our offer of talks to discuss the fate of the French land that we currently occupy, the government of France has declined to meet with us. While we had hoped that the French could be persuaded to cover the occupation cost through us ceding the uncontested territory that we gained from the Second Weltkrieg, our men will have to remain in France a little bit longer to pacify any remaining communard menace lurking in the shadows."
-nfa.121.a:0 "Unfortunate"
+nfa.121.a:0 "안됐군"
 
-nfa.122.t:0 "Congress of Lyon breaks down"
+nfa.122.t:0 "리옹 회의가 결렬되다"
 nfa.122.d:0 "In an uproar over our demands, the French have walked out on the conference. Any hope for a peaceful resolution has been dashed as the diplomatic relations between our two nations and stretched to the breaking point over what the French view as outrageous demands pushed forwards by our diplomats. While the French may be furious, our soldiers are not keen on the idea of remaining inside France to pacify any remaning communards who lurk in the shadows."
-nfa.122.a:0 "At least we tried to reconcile..."
+nfa.122.a:0 "적어도 우린 화해하려고 노력했어..."
 
-nfa.123.t:0 "Congress of Lyon concludes successfully"
+nfa.123.t:0 "리옹 회의가 성공적으로 마무리되다"
 nfa.123.d.5:0 "Faced with the reality of the situation, the French delegation wisely accepted the terms of our demands. While we did not possess much meaningful territory to bargain with, we were still able to secure economic reparations and a promise of non-hostility from the French government in exchange for handing over the land in our possession."
 nfa.123.d.4:0 "Faced with the reality of the situation, the French delegation wisely accepted the terms of our demands. While we only possessed little territory to bargain with, we were still able to secure the annexation of Pas-de-Calais, the dismantling of their border forts, economic reparations and a promise of non-hostility from the French government in exchange for handing over the land in our possession."
 nfa.123.d.3:0 "Faced with the reality of the situation, the French delegation wisely accepted the terms of our demands. With the occupied territory under our control, we were able to bargain for a great deal from the French. We were able to secure the annexation of Brittany and Pas-de-Calais, force the acceptance of a limited armament treaty, the dismantling of their border forts, economic reparations and a promise of non-hostility from the French government in exchange for handing over the land in our possession."
 nfa.123.d.2:0 "Faced with the reality of the situation, the French delegation wisely accepted the terms of our demands. With the occupied territory under our control, we were able to bargain for a great deal from the French. We were able to enforce military access upon the French, secure the annexation of Brittany and Pas-de-Calais, force the acceptance of a limited armament treaty, the dismantling of their border forts, economic reparations and a promise of non-hostility from the French government in exchange for handing over the land in our possession."
 nfa.123.d.1:0 "Faced with the reality of the situation, the French delegation wisely accepted the terms of our demands. With the occupied territory under our control, we were able to bargain for a great deal from the French. We were able to strongarm the French to join Mitteleuropa, enforce military access upon the French, secure the annexation of Brittany and Pas-de-Calais, force the acceptance of a limited armament treaty, the dismantling of their border forts, economic reparations and a promise of non-hostility from the French government in exchange for handing over the land in our possession."
-nfa.123.a:0 "To a lasting peace!"
+nfa.123.a:0 "영원한 평화를 위하여!"
 
-nfa.124.t:0 "Congress of Lyon is a Success!" ### FUTURE WORLD NEWS EVENT ###
+nfa.124.t:0 "리옹 회의의 성공!" ### FUTURE WORLD NEWS EVENT ###
 nfa.124.d:0 "Cameras flashed across the room at the signing of the Treaty of Lyon. For decades if not centuries, the German and French people have been at odds with one another. The conclusion of the Second Weltkrieg marked the end of the third Franco-German war in the last 80 years. Many saw the conference in Lyon as just another bundle of kindling to spark further hatred between the two nations, but they have been proven wrong. With the signing of the treaty, the new French government is recognized as the true successor to the government that was toppled during the French civil war following the first Weltkrieg. The Germans have agreed to pull out of much of occupied France and return the land to the rightful government of France."
-nfa.124.a:0 "Hurrah for diplomacy!"
+nfa.124.a:0 "외교 만세!"
 
-nfa.125.t:0 "Congress of Lyon" #Peace Deal 5
+nfa.125.t:0 "리옹 회의" #Peace Deal 5
 nfa.125.d.5.bel:0 "Without our presence extending over any major metropolitan region in occupied France, our diplomats have little room to manoeuvre agreements out of the French.\n\nThe moderate members of the diplomatic party seek a relatively tame agreement with the French. This war has cost Germany a great deal of lives and materials, many of which were destroyed at the hands of the French. They are pushing for a short term economic reparations deal to help us recover the losses we took. An agreement to end hostilities for the near future while our nations rebuild is also required from the French. In exchange, we will turn over the land of occupied France that we hold.\n\nIn contrast, more Hawkish members of the diplomatic party have pushed forward an ambitious reparations agreement for the French to agree too. They are seeking the same agreements as the moderates with the additional clause of an establishment of an extended border strip for our ally in Belgium. The region of Pas-de-Calais will be annexed into Belgium and the French must dismantle all the forts along our shared border.\n\nWhile making sure to keep any in-fighting hidden from the French, the diplomatic envoys must decide whether to put forward the more reasonable request of the moderates that are likely to be accepted or to push their luck and try to scrape more from France by demanding the hawk deal."
 nfa.125.d.5.wll:0 "Without our presence extending over any major metropolitan region in occupied France, our diplomats have little room to manoeuvre agreements out of the French.\n\nThe moderate members of the diplomatic party seek a relatively tame agreement with the French. This war has cost Germany a great deal of lives and materials, many of which were destroyed at the hands of the French. They are pushing for a short term economic reparations deal to help us recover the losses we took. An agreement to end hostilities for the near future while our nations rebuild is also required from the French. In exchange, we will turn over the land of occupied France that we hold.\n\nIn contrast, more Hawkish members of the diplomatic party have pushed forward an ambitious reparations agreement for the French to agree too. They are seeking the same agreements as the moderates with the additional clause of an establishment of an extended border strip for our ally in Wallonia. The region of Pas-de-Calais will be annexed into Wallonia and the French must dismantle all the forts along our shared border.\n\nWhile making sure to keep any in-fighting hidden from the French, the diplomatic envoys must decide whether to put forward the more reasonable request of the moderates that are likely to be accepted or to push their luck and try to scrape more from France by demanding the hawk deal."
-nfa.125.a:0 "Push the hawk's demands"
-nfa.125.b:0 "A moderate agreement is best"
+nfa.125.a:0 "매파의 요구를 밀어준다"
+nfa.125.b:0 "적당한 합의가 최선이다"
 
-nfa.126.t:0 "German demands at the Congress" #Peace Deal 5
+nfa.126.t:0 "독일의 요구" #Peace Deal 5
 nfa.126.d:0 "Without a large presence extending over any major metropolitan region in occupied France, the German diplomats have put forward a relatively tame agreement with us. This war has cost Germany a great deal of lives and materials, many of which were destroyed at the hands of the French people. They are pushing for a short term economic reparations deal to help them recover the losses they took. An agreement to end hostilities for the near future while our nations rebuild is also required of us. In exchange, they will turn over the parts of occupied France that they hold."
-nfa.126.a:0 "Accept the offer"
-nfa.126.b:0 "Decline the offer"
+nfa.126.a:0 "제안을 수락한다"
+nfa.126.b:0 "제안을 거절한다"
 
-nfa.127.t:0 "German demands at the Congress" #Peace Deal 4
+nfa.127.t:0 "독일의 요구" #Peace Deal 4
 nfa.127.d:0 "With a small presence extending over the metropolitan region in occupied France, the German diplomats have put forward a modest agreement for us. This war has cost Germany a great deal of lives and materials, many of which were destroyed at the hands of the French people. They are pushing for the annexation of the Pas-de-Calais region, the destruction of the forts along our shared border, a short term economic reparations deal to help them recover the losses they took and an agreement to end hostilities for the near future while our nations rebuild. In exchange, they will turn over to us the rest of occupied France that they hold."
-nfa.127.a:0 "Accept the offer"
-nfa.127.b:0 "Decline the offer"
+nfa.127.a:0 "제안을 수락한다"
+nfa.127.b:0 "제안을 거절한다"
 
-nfa.128.t:0 "Congress of Lyon" #Peace Deal 4
+nfa.128.t:0 "리옹 회의" #Peace Deal 4
 nfa.128.d.4.bel:0 "With a small presence extending over any major metropolitan region in occupied France, our diplomats have a little room to manoeuvre agreements out of the French.\n\nThe doves in the diplomatic party seek a relatively tame agreement with the French. This war has cost Germany a great deal of lives and materials, many of which were destroyed at the hands of the French. They are pushing for a short term economic reparations deal to help us recover the losses we took. An agreement to end hostilities for the near future while our nations rebuild is also required from the French. In exchange we will turn over the land of occupied France that we hold.\n\nMeanwhile, the moderates are pushing for some demands that are a bit more worthy of the cost the German people spent to reach this point. They are seeking the same agreements as the doves with the additional clause of an establishment of an extended border strip for our ally in Belgium. The region of Pas-de-Calais will be annexed into Belgium and the French must dismantle all the forts along our shared border.\n\nFurther still, some more hawkish members of the diplomatic mission put forth that France must be taught their place. The weapons of the Commune took too many good German boys to an early grave. The French must have military restrictions emplaced on them that limit the tonnage of warships they produce and the military capacities of their war machine. They also want us to push for the establishment of Brittany on the coast of France. Under our guidance, of course, the ports would prove as excellent bases to project ourselves into the Atlantic.\n\nWhile making sure to keep any in-fighting hidden from the French, the diplomatic envoys must decide whether to put forward the cautious dove deal that is almost certain to be accepted, the more reasonable request of the moderates that is likely to be accepted or to push their luck and try to scrape more from France by demanding the hawk deal."
 nfa.128.d.4.wll:0 "With a small presence extending over any major metropolitan region in occupied France, our diplomats have a little room to manoeuvre agreements out of the French.\n\nThe doves in the diplomatic party seek a relatively tame agreement with the French. This war has cost Germany a great deal of lives and materials, many of which were destroyed at the hands of the French. They are pushing for a short term economic reparations deal to help us recover the losses we took. An agreement to end hostilities for the near future while our nations rebuild is also required from the French. In exchange we will turn over the land of occupied France that we hold.\n\nMeanwhile, the moderates are pushing for some demands that are a bit more worthy of the cost the German people spent to reach this point. They are seeking the same agreements as the doves with the additional clause of an establishment of an extended border strip for our ally in Wallonia. The region of Pas-de-Calais will be annexed into Wallonia and the French must dismantle all the forts along our shared border.\n\nFurther still, some more hawkish members of the diplomatic mission put forth that France must be taught their place. The weapons of the Commune took too many good German boys to an early grave. The French must have military restrictions emplaced on them that limit the tonnage of warships they produce and the military capacities of their war machine. They also want us to push for the establishment of Brittany on the coast of France. Under our guidance, of course, the ports would prove as excellent bases to project ourselves into the Atlantic.\n\nWhile making sure to keep any in-fighting hidden from the French, the diplomatic envoys must decide whether to put forward the cautious dove deal that is almost certain to be accepted, the more reasonable request of the moderates that is likely to be accepted or to push their luck and try to scrape more from France by demanding the hawk deal."
-nfa.128.a:0 "Push the hawk's demands"
-nfa.128.b:0 "A moderate agreement is best"
-nfa.128.c:0 "The dove shall prevail"
+nfa.128.a:0 "매파의 요구를 밀어준다"
+nfa.128.b:0 "적당한 합의가 최선이다"
+nfa.128.c:0 "비둘기파가 승리할 것이다"
 
-nfa.129.t:0 "German demands at the Congress" #Peace Deal 3
+nfa.129.t:0 "독일의 요구" #Peace Deal 3
 nfa.129.d:0 "With a modest presence extending over the metropolitan region in occupied France, the German diplomats have put forward a tense agreement for us. This war has cost Germany a great deal of lives and materials, many of which were destroyed at the hands of the French people. They are pushing for the annexation of the Pas-de-Calais region, the establishment of Brittany, a two year limited armament treaty, the destruction of the forts along our shared border, a short term economic reparations deal to help them recover the losses they took and an agreement to end hostilities for the near future while our nations rebuild. In exchange, they will turn over to us the rest of occupied France that they hold."
-nfa.129.a:0 "Accept the offer"
-nfa.129.b:0 "Decline the offer"
+nfa.129.a:0 "제안을 수락한다"
+nfa.129.b:0 "제안을 거절한다"
 
-nfa.130.t:0 "Congress of Lyon" #Peace Deal 3
+nfa.130.t:0 "리옹 회의" #Peace Deal 3
 nfa.130.d.3.bel:0 "With a sizeable presence extending over the major metropolitan region in occupied France, our diplomats have some room to manoeuvre agreements out of the French.\n\nThe doves in the diplomatic party seek a relatively tame agreement with the French. This war has cost Germany a great deal of lives and materials, many of which were destroyed at the hands of the French. They are pushing for the dismantling of the French forts along our shared border, and the annexation of the Pas-de-Calais region into Belgium. A short term economic reparations deal to help us recover the losses we took. As well as an agreement to end hostilities for the near future while our nations rebuild is also required from the French. In exchange we will turn over the rest of occupied France that we hold.\n\nMeanwhile, the moderates are pushing for some demands that are a bit more worthy of the cost the German people spent to reach this point. They are seeking the same agreements as the doves with the additional clauses placing restrictions on the tonnage that French warships can be produced as well as limiting the creation of further implements of warfare. Their plan also pushes for the establishment of Brittany which would prove as an excellent base for us to project into the Atlantic.\n\nFurther still, some more hawkish members of the diplomatic mission put forth that France must never be allowed to grow their military unsupervised. We can enforce military access throughout their country to allow us to freely move through unimpeded. While they may feel slighted as we budge in on their \" sovereignty\" we can always remind them that we are the reason they can hold much of the land that they now possess.\n\nWhile making sure to keep any in-fighting hidden from the French, the diplomatic envoys must decide whether to put forward the cautious dove deal that is almost certain to be accepted, the more reasonable request of the moderates that are likely to be accepted or to push their luck and try to scrape more from France by demanding the hawk deal."
 nfa.130.d.3.wll:0 "With a sizeable presence extending over the major metropolitan region in occupied France, our diplomats have some room to manoeuvre agreements out of the French.\n\nThe doves in the diplomatic party seek a relatively tame agreement with the French. This war has cost Germany a great deal of lives and materials, many of which were destroyed at the hands of the French. They are pushing for the dismantling of the French forts along our shared border, and the annexation of the Pas-de-Calais region into Wallonia. A short term economic reparations deal to help us recover the losses we took. As well as an agreement to end hostilities for the near future while our nations rebuild is also required from the French. In exchange we will turn over the rest of occupied France that we hold.\n\nMeanwhile, the moderates are pushing for some demands that are a bit more worthy of the cost the German people spent to reach this point. They are seeking the same agreements as the doves with the additional clauses placing restrictions on the tonnage that French warships can be produced as well as limiting the creation of further implements of warfare. Their plan also pushes for the establishment of Brittany which would prove as an excellent base for us to project into the Atlantic.\n\nFurther still, some more hawkish members of the diplomatic mission put forth that France must never be allowed to grow their military unsupervised. We can enforce military access throughout their country to allow us to freely move through unimpeded. While they may feel slighted as we budge in on their \" sovereignty\" we can always remind them that we are the reason they can hold much of the land that they now possess.\n\nWhile making sure to keep any in-fighting hidden from the French, the diplomatic envoys must decide whether to put forward the cautious dove deal that is almost certain to be accepted, the more reasonable request of the moderates that are likely to be accepted or to push their luck and try to scrape more from France by demanding the hawk deal."
-nfa.130.a:0 "Push the hawk's demands"
-nfa.130.b:0 "A moderate agreement is best"
-nfa.130.c:0 "The dove shall prevail"
+nfa.130.a:0 "매파의 요구를 밀어준다"
+nfa.130.b:0 "적당한 합의가 최선이다"
+nfa.130.c:0 "비둘기파가 승리할 것이다"
 
-nfa.131.t:0 "German demands at the Congress" #Peace Deal 2
+nfa.131.t:0 "독일의 요구" #Peace Deal 2
 nfa.131.d:0 "With a sizeable presence extending over the metropolitan region in occupied France, the German diplomats have put forward a harsh agreement for us. This war has cost Germany a great deal of lives and materials, many of which were destroyed at the hands of the French people. They are pushing for the annexation of the Pas-de-Calais region, the establishment of Brittany, a two year limited armament treaty, unrestricted military access through France, the destruction of the forts along our shared border, a short term economic reparations deal to help them recover the losses they took and an agreement to end hostilities for the near future while our nations rebuild. In exchange, they will turn over to us the rest of occupied France that they hold."
-nfa.131.a:0 "Accept the offer"
-nfa.131.b:0 "Decline the offer"
+nfa.131.a:0 "제안을 수락한다"
+nfa.131.b:0 "제안을 거절한다"
 
-nfa.132.t:0 "Congress of Lyon" #Peace Deal 2
+nfa.132.t:0 "리옹 회의" #Peace Deal 2
 nfa.132.d.2.bel:0 "With a large presence extending over the major metropolitan region in occupied France, our diplomats have some room to manoeuvre agreements out of the French.\n\nThe doves in the diplomatic party seek a relatively tame agreement with the French. This war has cost Germany a great deal of lives and materials, many of which were destroyed at the hands of the French. They are pushing for the dismantling of the French forts along our shared border, a restriction on the tonnage of new French warships, the establishment of Brittany firmly in our sphere, and the annexation of the Pas-de-Calais region into Belgium. A short term economic reparations deal to help us recover the losses we took. As well as an agreement to end hostilities for the near future while our nations rebuild is also required from the French. In exchange we will turn over the rest of occupied France that we hold.\n\nMeanwhile, the moderates are pushing for some demands that are a bit more worthy of the cost the German people spent to reach this point. They are seeking the same agreements as the doves with the additional clause that the French military must not be allowed to secretly rearm themselves. We will enforce an agreement of unrestricted military access to watch over the French people for any sign of treachery.\n\nFurther still, some more hawkish members of the diplomatic mission put forth that France must be subjected to economic dependence upon Germany. They must keep all of the previous agreements as well as submit themselves to becoming a member of the Mitteleuropan economic union. If their economy is dependent on ours, they can't afford to rise against us!\n\nWhile making sure to keep any in-fighting hidden from the French, the diplomatic envoys must decide whether to put forward the cautious dove deal that is almost certain to be accepted, the more reasonable request of the moderates that is likely to be accepted or to push their luck and try to scrape more from France by demanding the hawk deal."
 nfa.132.d.2.wll:0 "With a large presence extending over the major metropolitan region in occupied France, our diplomats have some room to manoeuvre agreements out of the French.\n\nThe doves in the diplomatic party seek a relatively tame agreement with the French. This war has cost Germany a great deal of lives and materials, many of which were destroyed at the hands of the French. They are pushing for the dismantling of the French forts along our shared border, a restriction on the tonnage of new French warships, the establishment of Brittany firmly in our sphere, and the annexation of the Pas-de-Calais region into Wallonia. A short term economic reparations deal to help us recover the losses we took. As well as an agreement to end hostilities for the near future while our nations rebuild is also required from the French. In exchange we will turn over the rest of occupied France that we hold.\n\nMeanwhile, the moderates are pushing for some demands that are a bit more worthy of the cost the German people spent to reach this point. They are seeking the same agreements as the doves with the additional clause that the French military must not be allowed to secretly rearm themselves. We will enforce an agreement of unrestricted military access to watch over the French people for any sign of treachery.\n\nFurther still, some more hawkish members of the diplomatic mission put forth that France must be subjected to economic dependence upon Germany. They must keep all of the previous agreements as well as submit themselves to becoming a member of the Mitteleuropan economic union. If their economy is dependent on ours, they can't afford to rise against us!\n\nWhile making sure to keep any in-fighting hidden from the French, the diplomatic envoys must decide whether to put forward the cautious dove deal that is almost certain to be accepted, the more reasonable request of the moderates that is likely to be accepted or to push their luck and try to scrape more from France by demanding the hawk deal."
-nfa.132.a:0 "Push the hawk's demands"
-nfa.132.b:0 "A moderate agreement is best"
-nfa.132.c:0 "The dove shall prevail"
+nfa.132.a:0 "매파의 요구를 밀어준다"
+nfa.132.b:0 "적당한 합의가 최선이다"
+nfa.132.c:0 "비둘기파가 승리할 것이다"
 
-nfa.133.t:0 "German demands at the Congress" #Peace Deal 1
+nfa.133.t:0 "독일의 요구 #Peace Deal 1
 nfa.133.d:0 "With an overwhelming presence extending over the metropolitan region in occupied France, the German diplomats have put forward a harsh agreement for us. This war has cost Germany a great deal of lives and materials, many of which were destroyed at the hands of the French people. They are pushing for our submission into the Mitteleuropan economic union, the annexation of the Pas-de-Calais region, the establishment of Brittany, a two year limited armament treaty, unrestricted military access through France, the destruction of the forts along our shared border, a short term economic reparations deal to help them recover the losses they took and an agreement to end hostilities for the near future while our nations rebuild. In exchange, they will turn over to us the rest of occupied France that they hold."
-nfa.133.a:0 "Accept the offer"
-nfa.133.b:0 "Decline the offer"
+nfa.133.a:0 "제안을 수락한다"
+nfa.133.b:0 "제안을 거절한다"
 
-nfa.134.t:0 "Congress of Lyon" #Peace Deal 1
+nfa.134.t:0 "리옹 회의" #Peace Deal 1
 nfa.134.d.1.bel:0 "With an overwhelming presence extending over the major metropolitan region in occupied France, our diplomats have lots of room to manoeuvre agreements out of the French.\n\nThe doves in the diplomatic party seek a relatively tame agreement with the French. This war has cost Germany a great deal of lives and materials, many of which were destroyed at the hands of the French. They are pushing for the enforcement of unrestricted military access for our units inside of France to make sure that they do not arm themselves for a future war against us, the dismantling of the French forts along our shared border, a restriction on the tonnage of new French warships, the establishment of Brittany firmly in our sphere, and the annexation of the Pas-de-Calais region into Belgium. A short term economic reparations deal to help us recover the losses we took. As well as an agreement to end hostilities for the near future while our nations rebuild is also required from the French. In exchange we will turn over the rest of occupied France that we hold.\n\nMeanwhile, the moderates are pushing for the demand that France must be subjected to economic dependence upon Germany. They must keep all of the previous agreements as well as submit themselves to becoming a member of the Mitteleuropan economic union. If their economy is dependent on ours, they can't afford to rise against us!\n\nWhile making sure to keep any in-fighting hidden from the French, the diplomatic envoys must decide whether to put forward the cautious dove deal that is almost certain to be accepted, the more reasonable request of the moderates that is likely to be accepted or to push their luck and try to scrape more from France by demanding the hawk deal."
 nfa.134.d.1.wll:0 "With an overwhelming presence extending over the major metropolitan region in occupied France, our diplomats have lots of room to manoeuvre agreements out of the French.\n\nThe doves in the diplomatic party seek a relatively tame agreement with the French. This war has cost Germany a great deal of lives and materials, many of which were destroyed at the hands of the French. They are pushing for the enforcement of unrestricted military access for our units inside of France to make sure that they do not arm themselves for a future war against us, the dismantling of the French forts along our shared border, a restriction on the tonnage of new French warships, the establishment of Brittany firmly in our sphere, and the annexation of the Pas-de-Calais region into Wallonia. A short term economic reparations deal to help us recover the losses we took. As well as an agreement to end hostilities for the near future while our nations rebuild is also required from the French. In exchange we will turn over the rest of occupied France that we hold.\n\nMeanwhile, the moderates are pushing for the demand that France must be subjected to economic dependence upon Germany. They must keep all of the previous agreements as well as submit themselves to becoming a member of the Mitteleuropan economic union. If their economy is dependent on ours, they can't afford to rise against us!\n\nWhile making sure to keep any in-fighting hidden from the French, the diplomatic envoys must decide whether to put forward the cautious dove deal that is almost certain to be accepted, the more reasonable request of the moderates that is likely to be accepted or to push their luck and try to scrape more from France by demanding the hawk deal."
-nfa.134.b:0 "A moderate agreement is best"
-nfa.134.c:0 "The dove shall prevail"
+nfa.134.b:0 "적당한 합의가 최선이다"
+nfa.134.c:0 "비둘기파가 승리할 것이다"
 
-NFA_Hawk_Warning_tt:0 "§RThe French are more likely to decline this deal, and if they do so, we will have to saddle the cost of the occupation of the territories that we control§!"
-NFA_Dove_tt:0 "§GThe French are more likely to accept this deal, granting us the benefits that we put ask for in the deal§!"
+NFA_Hawk_Warning_tt:0 "§R프랑스인들은 이 거래를 거절할 가능성이 더 높으며, 만약 그렇게 된다면, 우리는 우리가 지배하는 영토의 점령에 대한 비용을 부담해야 할 것입니다§!"
+NFA_Dove_tt:0 "§G프랑스인들은 우리가 이 거래에서 요구하는 혜택을 우리에게 주면서 이 거래를 받아들일 가능성이 더 높습니다§!"
 
 nfa.155.t:0 "합법적인 프랑스 정부에 합류하다"
 nfa.155.d:0 "Our recent liberation from our oppressive overlord raises the question of the goal of the existence of our country. Started as a satellite in an occupied France, we now have full power over our land but not much use for it. Near us lays the National government of France that descends from the legitimate government of the Third Republic and claims ownership of our controlled territory. A lot of our citizens also look forward to this other government and do not understand why we are making a satellite state last. Should we join with National France or should we declare ourself a legitimate authority on the region?"
@@ -2020,172 +2020,172 @@ nfa.156.a:0 "만세!"
 
 # Integration Decisions Events
 
-nfa.161.t:0 "Allocation of Resources to Paris"
+nfa.161.t:0 "파리에 자원 할당"
 nfa.161.d:0 "As the largest city in France, and the formel capital of the Commune of France, Paris will need some special effort to be integrated back into the Republic. Washing off syndicalist influence has to be a deep and thorough work. As a part of this effort, where should we direct our resources? We can either focus on lowering the unrest in the Capital or on making some longer term work to win the hearts of the people."
-nfa.161.a:0 "Focus on decreasing resistance"
-nfa.161.b:0 "Focus on increasing long-term compliance"
+nfa.161.a:0 "저항도 감소에 집중한다"
+nfa.161.b:0 "장기적으로 순응도를 높이는 데 집중한다"
 
-nfa.162.t:0 "Allocation of Resources to Provence"
+nfa.162.t:0 "프로방스에 자원 할당"
 nfa.162.d:0 "As one of the most populous region in France, Provence will need some special effort to be integrated back into the Republic. Washing off syndicalist influence has to be a deep and thorough work. As a part of this effort, where should we direct our resources? We can either focus on lowering the unrest in the region or on making some longer term work to win the hearts of the people."
-nfa.162.a:0 "Focus on decreasing resistance"
-nfa.162.b:0 "Focus on increasing long-term compliance"
+nfa.162.a:0 "저항도 감소에 집중한다"
+nfa.162.b:0 "장기적으로 순응도를 높이는 데 집중한다"
 
-nfa.163.t:0 "Allocation of Resources to Lyonnais"
+nfa.163.t:0 "리옹에 자원 할당"
 nfa.163.d:0 "As one of the most populous city in France, Lyon will need some special effort to be integrated back into the Republic. Washing off syndicalist influence has to be a deep and thorough work. As a part of this effort, where should we direct our resources? We can either focus on lowering the unrest in the city or on making some longer term work to win the hearts of the people."
-nfa.163.a:0 "Focus on decreasing resistance"
-nfa.163.b:0 "Focus on increasing long-term compliance"
+nfa.163.a:0 "저항도 감소에 집중한다"
+nfa.163.b:0 "장기적으로 순응도를 높이는 데 집중한다"
 
-nfa.164.t:0 "Allocation of Resources to Bordeaux"
+nfa.164.t:0 "보르도에 자원 할당"
 nfa.164.d:0 "As one of the most populous city in France, Bordeaux will need some special effort to be integrated back into the Republic. Washing off syndicalist influence has to be a deep and thorough work. As a part of this effort, where should we direct our resources? We can either focus on lowering the unrest in the city or on making some longer term work to win the hearts of the people."
-nfa.164.a:0 "Focus on decreasing resistance"
-nfa.164.b:0 "Focus on increasing long-term compliance"
+nfa.164.a:0 "저항도 감소에 집중한다"
+nfa.164.b:0 "장기적으로 순응도를 높이는 데 집중한다"
 
-nfa.165.t:0 "Allocation of Resources to Lille"
+nfa.165.t:0 "릴에 자원 할당"
 nfa.165.d:0 "As one of the most populous city in France, Lille will need some special effort to be integrated back into the Republic. Washing off syndicalist influence has to be a deep and thorough work. As a part of this effort, where should we direct our resources? We can either focus on lowering the unrest in the city or on making some longer term work to win the hearts of the people."
-nfa.165.a:0 "Focus on decreasing resistance"
-nfa.165.b:0 "Focus on increasing long-term compliance"
+nfa.165.a:0 "저항도 감소에 집중한다"
+nfa.165.b:0 "장기적으로 순응도를 높이는 데 집중한다"
 
 # Post-War Events
 
-nfa.179.t:0 "The Question of Montmartre"
+nfa.179.t:0 "몽마르트르 문제"
 nfa.179.d:0 "Paris, the most beautiful city on Earth, has been freed from the grasps of the Communard. Under their rule, she had often been martyrized, defaced by radical avant-garde architecture and urban planning. Many buildings had been damaged during the revolution, and now the war has brought more destruction: as such, plans for the restoration of the City of Lights to her pre-revolutionary beauty have already been hastily thrown together as we discover the damage for the first time. However, one question remains: what should be done with Montmartre? The hill, towering above Paris, has a rich history: starting point of the 1871 Commune, later on a romantic village within the city and most importantly where an immense neo-byzantine basilica, the Sacré-Cœur, was being built, funded by donations from all over France. Close to completion when the revolution broke out, the basilica was never consecrated and was the site of a last hold out of loyalist forces. Damaged by the fighting, the building was gleefully torn down by the Communards, who saw it as a reactionary symbol as it was built to expiate the crimes of the original Commune of Paris. In its stead they built a modernist Palace of the People, where their attempt at government met.\n\nWe have received multiple proposals for the future of Montmartre, what should be done?"
-nfa.179.a:0 "Destroy the Palace and rebuild the Sacré-Coeur, twice as magnificent!"
-nfa.179.b:0 "Destroy the Palace and build an immense memorial for the victims of the revolution!"
-nfa.179.c:0 "Keep the Palace, but turn it into a permanent exhibit on the folly of syndicalism."
+nfa.179.a:0 "궁전을 파괴하고 사크레쾨르를 재건해라. 두 배는 웅장하게!"
+nfa.179.b:0 "궁전을 파괴하고 혁명의 희생자들을 위한 거대한 기념비를 세워라!"
+nfa.179.c:0 "궁전을 놔두되, 생디칼리슴의 어리석음을 보여주는 영구적인 전시장으로 바꿔라."
 
-nfa.180.t:0 "Les Procès - The Military"
+nfa.180.t:0 "재판 - 군사"
 nfa.180.d:0 "Gamelin, Tanguy, Billotte, Makhno, Catroux, Delestraint... the name of the defendants' echoes in the halls of the High Military Court specially assembled to pass judgement on the officers of the Commune. Many of them had served in the French armed forces, joining the mutineers out of conviction or self-interest, others were foreigners who sought to serve the cause of the revolution. Many are present, stoic, or dazed, or crying hysterically. Some are still in hiding, some fled, and will have to be condemned in absentia. Each case is carefully examined by a court of officers, the defendant is charged with treason, mutiny, desertion, conspiracy against France, sometimes other accusations, and the verdict falls, inevitably: Guilty. Guilty. Guilty.\n\nOne question remains, how to sentence the guilty. The typical sentence for military traitors is death by firing squad, however, even among our own military, there are calls for leniency on some of these officers, as they had contacted our intelligence services during or even before the war hoping to switch sides, arguing they had simply been thrust into serving a cause they did not believe in. Others argue that conflicts in the future are likely and that France cannot sacrifice talented officers."
-nfa.180.a:0 "Mercy? For traitors? Au mur!"
-nfa.180.b:0 "Arrange firing squads for the true believers. Imprison the rest."
-nfa.180.c:0 "Desyndicalise some, imprison the majority and make examples of the diehard supporters."
+nfa.180.a:0 "자비? 배신자들에게? 벽을 향해라!"
+nfa.180.b:0 "진정한 추종자들을 위해 총살대를 준비하라. 나머지는 감옥에 가둬라."
+nfa.180.c:0 "몇몇은 탈생디칼리슴화하고, 대다수를 감옥에 가두고, 완고한 지지자들로 선례를 만들어라."
 
-nfa.181.t:0 "Les Procès - The Leaders"
+nfa.181.t:0 "재판 - 지도자들"
 nfa.181.d:0 "For weeks now, dozens of high-profile Communards have been on trial in front of the High Court of Justice, assembled in the Palace of Justice in the capital. These men and women are all facing a litany of accusations: treason, sedition, conspiracy against France, corruption... enumerated by the prosecutor, resonating in the high halls, the numerous audience inside and outside the courthouse staying deathly silent, the building surrounded by military forces to prevent any risk of last-ditch effort to rescue these traitors. Their names sound familiar to our people keenly informed these last few years of their numerous crimes against France during and since the revolution: Faure, Pivert, Thorez, Jouhaux, Blum, Laval, Sartre, and many, many others. They have been given ample time to prepare their defence, some doing so admirably, others going as far as testifying against each other in hopes of reducing their sentence, or on the contrary, choosing to remain entirely silent.\n\nMost of them have been found guilty of the crimes they were accused of: what should their sentence be? Death is the expected sentence, but this would certainly create martyrs. On the other hand, a lighter sentence could seem like a show of weakness to our supporters, and convincing our people that any of these Reds deserve mercy when they refused to show any to anyone standing in the way of their crazed revolution could prove difficult."
-nfa.181.a:0 "Madame la Guillotine and her unquenchable thirst awaits."
-nfa.181.b:0 "We are better than these godless Reds, show some mercy."
+nfa.181.a:0 "마담 라 기요틴과 그녀의 억누를 수 없는 갈증이 기다리고 있다."
+nfa.181.b:0 "우리는 이 더러운 빨갱이들보다 낫다. 약간의 자비를 베풀어라."
 
-nfa.182.t:0 "Les Procès - The Cadres"
+nfa.182.t:0 "재판 - 간부들"
 nfa.182.d:0 "Across France are taking place an untold number of more or less formal trials, with courts quickly assembled by loyalists to pass judgment on local cadres of the syndicalist apparatus, from militia officers to chairmen of the commune councils, or simply known true believers in the socialist cause. Our occupying forces have turned a blind to these barely legitimate courts when they don’t outright supply the guns to shoot the traitors. Simply put, our reconquered people are tearing each other apart, blowing up in anger for they finally see the Reds for what they truly are, enemies of France who led them all to their collective downfall. However, these trials may have gone somewhat out of control, with unsavoury reports coming in of cruel punishments or settling of personal vendettas by the simple accusation of being a committed socialist. Furthermore, the more legalistic among us argue that this usurpation of state authority cannot be tolerated.\n\nWhat should be done?"
-nfa.182.a:0 "May this rightful anger consume the remnants of the Commune."
-nfa.182.b:0 "Call for order! Even this scum deserves a proper trial."
+nfa.182.a:0 "이 정당한 분노가 코뮌의 잔재를 삼켜버리기를."
+nfa.182.b:0 "질서를 세워라! 이 쓰레기들도 제대로 된 재판을 받아야 마땅하다."
 
-nfa.185.t:0 "C’est Nous les Africains..."
+nfa.185.t:0 "우리의 아프리카인들..."
 nfa.185.d:0 "Now that war is over, those who had chosen exile during the revolution are slowly making their way back. For some, it is a joyous ending to this fratricidal conflict as families are reunited and many rediscover their homeland. For others, it is a tragedy: their kin might have disappeared, their neighbourhood destroyed during the war, or their property collectivized. Some scars will take generations to heal, but the most pressing issue is that of seized property: many are clamouring for what was theirs to be given back.\n\nWe could simply declare all transfer of property undertaken under the syndicalist regime to be null, but expropriating untold numbers of families would certainly not endear us to our reunited people. We could also accept the status quo, legitimize the ownership of seized property, and simply give indemnities to the exiles, but this might feel like a slap in the face to many. Finally, we could set up local committees investigating the claims of returning owners, which would then find a fair compromise between both parties, though this might prove complex and time-consuming."
-nfa.185.a:0 "We won’t let thieves get away with their crime! Take back any seized property!"
-nfa.185.b:0 "We need to tread carefully, grant indemnities to the exiles."
-nfa.185.c:0 "Set up committees, let’s try to find compromise."
+nfa.185.a:0 "이 도둑들은 도망가지 못 할 거다! 점령된 재산을 모두 돌려줘라!"
+nfa.185.b:0 "우리는 조심스러워야한다, 망명자들에게 배상금을 줘라."
+nfa.185.c:0 "위원회를 설치해라, 타협점을 찾아보자."
 
-nfa.186.t:0 "Republicanization of the Army"
+nfa.186.t:0 "군의 공화주의화"
 nfa.186.d:0 "The recent attempted coup by reactionary elements within the armed forces has proved us that there are still many traitors within our midsts, principally royalists and Pétain loyalists who refuse to accept his decision to give up power. We cannot afford to simply purge the ranks of the armed forces from all reactionaries, the Grande Muette has hardly ever been in favor of liberal democracy. Instead, we will use a skillful mix of tactical promotions, making sure loyalists rise in ranks, and reassignments: others will be sent in the depths of the desert to monitor some tribe or another. It will be a long process, but it will certainly be effective.\n\nSome within the coalition also hope to cement their influence over our armies, and hope to discreetly include supporters of their opponents among those sent on long Saharan treks, however this would certainly be seen as a great injustice inflicted on loyal Republicans."
-nfa.186.a:0 "Make sure the reactionaries won’t create further issues"
-nfa.186.b:0 "Send the reactionaries away and some of the PSF’s allies too"
-nfa.186.c:0 "Curtail the traitors, and send some liberals along to accompany them"
+nfa.186.a:0 "반동들이 더이상 문제를 일으키지 못하게 하자"
+nfa.186.b:0 "반동들과 함께 사회당의 동지들도 보내버리자"
+nfa.186.c:0 "반역자들을 잘라내고, 약간의 자유주의자들도 같이 보내버리자"
 
 # Post-War Diplomacy Events
 
-nfa.190.t:0 "Should We Return Nanzig?"
+nfa.190.t:0 "난치히를 돌려줘야할까?"
 nfa.190.d:0 "Now that the exiled French government has reconquered the entirety of the Commune, they have asked us to end the occupation of Nanzig, or Nancy as they call it. This was always meant to be a temporary occupation, a concession extracted from the Communards in exchange for the recognition of their \"government\", and fostering good relations with our new neighbors could end the endless circle of conflict between our two nations. However, this territory has been under the control of the Kaiser for close to two decades now, and nothing tells us that these former exiles won’t be just as hostile towards us as the Commune.\nWhat should be done?"
-nfa.190.a:0 "Honour our deal, return the city"
-nfa.190.b:0 "Can’t hurt to keep just a bit more of Lorraine, isn’t it?"
+nfa.190.a:0 "우리의 거래를 존중하자, 도시를 돌려줘라"
+nfa.190.b:0 "로렌 조금 더 가지고 있는 게 나쁠 건 없잖아, 안 그래?"
 
-nfa.191.t:0 "The Germans Return Nancy!"
+nfa.191.t:0 "독일인들이 낭시를 돌려주다!"
 nfa.191.d:0 "For once, it seems the Germans have decided to be honourable! German troops occupying Nancy have left the area after a joint ceremony during which the keys of the city were handed by a German officer to a French one, to the cheers of thousands of Nancéiens. Many in both of our countries are hoping that is the start of a new era of more cordial relations between France and the German Empire."
-nfa.191.a:0 "Almost as surprising as our victory"
+nfa.191.a:0 "우리의 승리만큼이나 놀라운 일이군"
 
-nfa.192.t:0 "The Germans refuse to return Nancy!"
+nfa.192.t:0 "독일인들이 낭시 반환을 거부하다!"
 nfa.192.d:0 "As always, the perfidious Boches have gone back on the deal made two decades ago: they refused to leave Nancy and its area. Worse, when spontaneous demonstrations broke out against this decision, they were severely repressed, with some protesters wounded. Our government has officially lodged a complaint, supported by our Entente allies, but German authorities have blamed \"Communard remnants\" for the violence. Clearly, we were foolish to hope that relations could ever warm up with the Teutons."
-nfa.192.a:0 "Almost as certain as our triumph"
+nfa.192.a:0 "우리의 승리만큼이나 뻔한 일이군"
 
-nfa.193.t:0 "The [FROM.GetName] returns [return_state.GetName] to [ROOT.GetNameDef]!" #FROM gives land, ROOT receives land
+nfa.193.t:0 "[FROM.GetName]이 [ROOT.GetNameDef]에게 [return_state.GetName]를 반환하다!" #FROM gives land, ROOT receives land
 nfa.193.d:0 "The government of [FROM.GetNameDef] has agreed to uphold their end of the bargain and are returning the [ROOT.GetAdjective] territory of [return_state.GetName] that they have been holding onto for us until the proper time to restore [ROOT.GetAdjective] rule to the region."
-nfa.193.a:0 "Excellent!"
+nfa.193.a:0 "아주 좋아!"
 
-nfa.194.t:0 "The [FROM.GetName] refuses to return [return_state.GetName] to [ROOT.GetNameDef]!"
+nfa.194.t:0 "[FROM.GetName]이 [ROOT.GetNameDef]에게 [return_state.GetName]를 반환하길 거부하다!"
 nfa.194.d:0 "The government of [FROM.GetNameDef] has refuseed to uphold their end of the bargain and will not return the [ROOT.GetAdjective] territory of [return_state.GetName] that they have been holding onto for us, claiming that [FROM.GetAdjective] rule over the region is better than [ROOT.GetAdjective]."
-nfa.194.a:0 "We had an agreement!"
+nfa.194.a:0 "우리는 합의를 했는데!"
 
-nfa.196.t:0 "Franco-German Business"
+nfa.196.t:0 "프랑스-독일 사업"
 nfa.196.d:0 "The restored government of France has approached us, accompanied by several French business leaders, to ask for an increased economic cooperation between our two countries. Under their plan, companies of our two countries would cooperate to invest in the Ruhr and in Northern France together, which would improve the economic link between us. All of this is part of a greater effort to bring a Detente between France and Germany, profit is a basis for a lasting peace. Should we go ahead with this plan?"
-nfa.196.a:0 "To our new partners!"
-nfa.196.b:0 "No sorry, we will work alone"
+nfa.196.a:0 "우리의 새로운 파트너를 위하여!"
+nfa.196.b:0 "미안하군, 우리는 혼자 일할 거다"
 
-nfa.197.t:0 "Franco-German Business"
+nfa.197.t:0 "프랑스-독일 사업"
 nfa.197.d:0 "Great news! The German government has agreed to our plan for an improved economic cooperation. The companies involved in the deal will start to work together as soon as possible to ensure a shared prosperity to our two countries."
-nfa.197.a:0 "To our new partners!"
+nfa.197.a:0 "우리의 새로운 파트너를 위하여!"
 
-nfa.198.t:0 "Failure of the Franco-German Business Deal"
+nfa.198.t:0 "프랑스-독일 간 사업 거래의 실패"
 nfa.198.d:0 "The news has come off unexpected. The German government refused our plan for an improved economic cooperation. They justified their refusal by citing some small details in the plan that, according to them, didn't suit their economic plans, but it is obvious this is just an excuse. We can't see anything else in this than a major blow to our attempts to an extensive diplomatic Detente between our countries."
-nfa.198.a:0 "Are they insulting us?"
+nfa.198.a:0 "우릴 모욕하는 거야?"
 
-nfa.199.t:0 "The Congress of Verdun"
+nfa.199.t:0 "베르덩 회의"
 nfa.199.d:0 "The effort of the French government to maintain a lasting peace between our countries continues. Today, the French ambassador presented himself to the Imperial Palace in Berlin with an official letter inviting our government to a Franco-German Congress in Verdun. The ambassador said the French government is hoping that the congress would be an occasion to draft an official peace and a deeper cooperation between Paris and Berlin. It would also be a rare moment to discuss the history and future of the troubled Franco-German relationship, a history filled with wars and rivalry, and Verdun being one of its symbol. It's at Verdun that millions died in 1916 in the Weltkrieg, it was also in Verdun that the territories of France and Germany were first separated in 843 by the heirs of Charlemagne.\nHow should we answer this attempt for peace?" 
-nfa.199.a:0 "We shall attend the Congress"
-nfa.199.b:0 "This is not worth our time"
+nfa.199.a:0 "우리는 회의에 참석할 것이다"
+nfa.199.b:0 "이건 우리 시간만큼의 가치가 없다"
 
-nfa.200.t:0 "Germany accepts to attend the Congress"
+nfa.200.t:0 "독일이 회의에 참석하기로 하다"
 nfa.200.d:0 "Our ambassador just came back from the imperial palace and immediately called Paris to announce the news: the German government agreed to attend the Congress of Verdun and announced to be determined in making peace with its long-time rival. Our diplomatic efforts were worth it!\n\nThe Congress will thus be able to start in the coming days and the long talks between French and German delegates will begin."
-nfa.200.a:0 "Excellent!"
+nfa.200.a:0 "좋았어!"
 
-nfa.201.t:0 "Germany refuses to attend the Congress"
+nfa.201.t:0 "독일이 회의에 참석하길 거부하다"
 nfa.201.d:0 "Our ambassador just came back from the imperial palace and immediately called Paris to announce the sad news: the German government didn't accept our invitation for a diplomatic congress in Verdun, saying that they do not think such an effort would be worthwhile. The answer created an outrage in our ministry for foreign affairs as all of our efforts to organise the Congress now seem wasted. It seemed that in the end we couldn't trust the Germans."
-nfa.201.a:0 "The Germans seek the comfort of arms over the fruits of peace"
+nfa.201.a:0 "독일인들은 평화의 열매 위에 무기의 편안함을 추구하는군"
 
-nfa.202.t:0 "The Path to Peace?"
+nfa.202.t:0 "평화를 향한 길?"
 nfa.202.d:0 "As long as the concepts of France and Germany have been separated by the splitting up of Charlemagne's empire, the two nations have been rivals. The kngdom of France fought the Holy Roman Empire more times than is possible to count, Napoleon created his empire on the grave of the the German one. Prussia then made France pay in 1871, recreating their empire on the rubbles of the Second Napoleonic one. Then, the newborn Republic and the German Empire continued the intense rivalry, fighting in Africa, in schools, in newspapers and finally, in the fields of Northern France during the Weltrkieg.\n\nWith the French Republic back in Paris, some diplomats and intellectuals have called for a new era of Franco-German relations, one in which France and Germany would cooperate for the good of the continent instead of sending millions of their children to die every few years. The German foreign minister took the stand himself to ask for peace and cooperation, it is time for us to do it as well."
-nfa.202.a:0 "The time has come for peace, not war"
+nfa.202.a:0 "전쟁이 아닌 평화를 위한 때가 왔다"
 
-nfa.203.t:0 "The Path to Peace?"
+nfa.203.t:0 "평화를 향한 길?"
 nfa.203.d:0 "As long as the concepts of France and Germany have been separated by the splitting up of Charlemagne's empire, the two nations have been rivals. The kngdom of France fought the Holy Roman Empire more times than is possible to count, Napoleon created his empire on the grave of the the German one. Prussia then made France pay in 1871, recreating their empire on the rubbles of the Second Napoleonic one. Then, the newborn Republic and the German Empire continued the intense rivalry, fighting in Africa, in schools, in newspapers and finally, in the fields of Northern France during the Weltrkieg.\n\nWith the France back in Paris, some diplomats and intellectuals have called for a new era of Franco-German relations, one in which France and Germany would cooperate for the good of the continent instead of sending millions of their children to die every few years. Is it finally time to end the Franco-German rivalry?"
-nfa.203.a:0 "The time has come for peace, not war"
-nfa.203.b:0 "Bullshit! The rivalry will never end"
+nfa.203.a:0 "전쟁이 아닌 평화를 위한 때가 왔다"
+nfa.203.b:0 "헛소리! 경쟁은 결코 끝나지 않을 것이다"
 
-nfa.204.t:0 "Failure of the Congress of Verdun"
+nfa.204.t:0 "베르덩 회의의 실패"
 nfa.204.d:0 "Long talks about the vanity of the historical Franco-German rivalry didn't suffice, it seems the Germans were unwilling to compromise and change our common future for good. The German foreign minister refused to work together to ensure a period of peace between our two nations, their only concession was to sign an unsignificant trade treaty instead. Needless to say our disappointment is immense but we learned that the Germans never change."
-nfa.204.a:0 "Blast!"
+nfa.204.a:0 "제기랄!"
 
-nfa.209.t:0 "Agreement at the Congress of Verdun"
+nfa.209.t:0 "베르덩 회의의 합의"
 nfa.209.d:0 "After the important declarations of our respective foreign ministers, a few days was enough to reach an agreement with the German Empire. An official pact of non-agression was signed between our two countries, making the Congress of Verdun a resounding success. We can rejoice that the Western front is finally going quiet."
-nfa.209.a:0 "Peace in our time!"
+nfa.209.a:0 "우리 시대의 평화다!"
 
-nfa.210.t:0 "Agreement at the Congress of Verdun"
+nfa.210.t:0 "베르덩 회의의 합의"
 nfa.210.d:0 "After the important declarations of our respective foreign ministers, a few days was enough to reach an agreement with the French. An official pact of non-agression was signed between our two countries, making the Congress of Verdun a resounding success. We can rejoice that the Western front is finally going quiet."
-nfa.210.a:0 "Peace in our time!"
+nfa.210.a:0 "우리 시대의 평화다!"
 
-nfa.211.t:0 "Alsace-Lorraine or war!" #GER POV - NFA breaks Halifax agreement
+nfa.211.t:0 "알자스-로렌이냐 전쟁이냐!" #GER POV - NFA breaks Halifax agreement
 nfa.211.d.halifaxbroke:0 "Despite promises at Halifax during the Second Weltkrieg, the French have sent an ultimatum to Berlin. They are demanding that we hand over the Imperial Province of Elsass-Lothringen which hasn't been controlled by the French since 1871. The French are threatening with war if we refuse. This is the moment we must stand up to the French and resist their ambitions of world domination!"
 nfa.211.d:0 "The French have sent an ultimatum to Berlin. They are demanding that we hand over the Imperial Province of Elsass-Lothringen which hasn't been controlled by the French since 1871. The French are threatening with war if we refuse. This is te moment we must stand up to the French and resist their ambitions of world domination!"
-nfa.211.a:0 "Are they mad? It is war!"
-nfa.211.b:0 "We can't afford a war, give into France's demands..."
+nfa.211.a:0 "그들이 미쳤나? 전쟁이다!"
+nfa.211.b:0 "우리는 전쟁을 할 여유가 없다, 프랑스의 요구에 굴복하자..."
 
-nfa.213.t:0 "The Germans Refuse" #NFA POV - GER refuses to cede Alsace-Lorraine
+nfa.213.t:0 "독일인들이 거절하다" #NFA POV - GER refuses to cede Alsace-Lorraine
 nfa.213.d:0 "Berlin has refused to hand over France's rightful territory, the 'Imperial' province of Alsace-Lorraine, detached from the French nation since the shameful war of 1871. We must act now if we are to liberate our French brothers and sisters under German rule!"
-nfa.213.a:0 "Finally we will avenge the Weltkrieg, the Germans will never get Alsace and Lorraine!"
-nfa.213.b:0 "Actually, now is not the time..."
+nfa.213.a:0 "마침내 우리는 세계대전의 원수를 갚을 것이다, 독일인들은 알자스와 로렌을 갖지 못하리!"
+nfa.213.b:0 "사실, 지금은 때가 아니야..."
 
-nfa.214.t:0 "The Germans cede Alsace-Lorraine" #NFA POV - GER cedes Alsace-Lorraine
+nfa.214.t:0 "독일인들이 알자스-로렌을 양도하다" #NFA POV - GER cedes Alsace-Lorraine
 nfa.214.d:0 "Very surprisingly, the Germans have given into our demands and handed over Alsace-Lorraine . Our long lost region is finally home in its French motherland and as soon as we demobilise, we will hold a grand celebration in Paris for this glorious victory."
-nfa.214.a:0 "An incredible success!"
+nfa.214.a:0 "믿을 수 없는 성공이군!"
 
-nfa.215.t:0 "The Western Front Roars to Life!"
+nfa.215.t:0 "서부 전선이 활활 타오르다!"
 nfa.215.d.halifaxbroke:0 "Never should the French have been trusted to uphold their promises at Halifax! Those traitors had already mobilized and were already making preparations to move into the province of Elsass-Lothringen! War is now upon us but there is no doubt that once more we shall march through the gates of Paris!"
 nfa.215.d:0 "Never should the French have been trusted! Those traitors had already mobilized and were already making preparations to move into the province of Elsass-Lothringen! War is now upon us but there is no doubt that once more we shall march through the gates of Paris!"
-nfa.215.a:0 "Once more into the breach!"
+nfa.215.a:0 "다시 한 번 돌파해주지!"
 
-nfa.216.t:0 "The French ask for Naval Aid"
+nfa.216.t:0 "프랑스인들이 해군 원조를 요청하다"
 nfa.216.d:0 "For centuries, we have built a strong naval tradition for ourselves and the French have come to us seeking advisors to help them rebuild their navy now that they have reclaimed their continental European holdings. Should we share some of our traditions with them or keep them for ourselves?" #Feel free to expand/change
-nfa.216.a:0 "Send them some advisors"
-nfa.216.b:0 "Sorry but only Britannia shall rule the waves"
+nfa.216.a:0 "그들에게 조언자를 보내라"
+nfa.216.b:0 "미안하지만 브리타니아만이 파도를 다스릴 것이다"
 
-nfa.217.t:0 "[ENT.GetName] Sends Naval Experts"
+nfa.217.t:0 "[ENT.GetName]의 해군 전문가 파견"
 nfa.217.d:0 "Agreeing to their responsibilities as allies and seeing the pressing need for strength in these post-war days, the British have decided to send advisors to help us rebuild our navy. This will be an important step towards rebuilding a first-class navy!"
-nfa.217.a:0 "Excellent!"
+nfa.217.a:0 "좋았어!"
 
-nfa.218.t:0 "[ENT.GetName] Will Not Send Advisors"
+nfa.218.t:0 "[ENT.GetName]는 조언자를 보내지 않을 것임"
 nfa.218.d:0 "Despite all that we have been through together these last few years, the British have decided to withhold experts to help us rebuild our navy. It seems we will have to do it alone."
-nfa.218.a:0 "Outrageous!"
+nfa.218.a:0 "말도 안 돼!"
 
-nfa_franco_german_business_tt:0 "If §Y[GER.GetNameWithFlag]§! agrees to cooperate with us, we will work together to build §Gnew industries§! together in the §CRuhr and Northern France.§!"
-nfa_verdun_congress_tt:0 "If §Y[GER.GetNameWithFlag]§! agrees to this congress, we will come together to discuss a stance of §Gnon-aggression§! between our two §Cgreat countries.§!"
+nfa_franco_german_business_tt:0 "만약 §Y[GER.GetNameWithFlag]§!이 우리와 협력하는데 동의한다면, 우리는 함께 §C루르와 북프랑스§!에 §G새로운 산업§!을 건설할 것입니다."
+nfa_verdun_congress_tt:0 "만약 §Y[GER.GetNameWithFlag]§!이 이 회의에 동의한다면, 우리는 함께 우리 §C위대한 두 나라간§!의 §G불가침 조약§!을 논의할 것입니다."
 
 # Post-War Democratic Events
 
