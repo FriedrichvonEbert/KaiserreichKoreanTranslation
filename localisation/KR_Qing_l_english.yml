@@ -42,8 +42,8 @@ QIE_ZAIXUN_NAVY_DESC:0 "§Y제독 약력\n§Y출생:§L\n1885년 5월 20일\n청
 QIE_LING_BIN_ARMY_DESC:0 "§Y장군 약력\n§Y출생:§L\n1910년 3월 17일\n청 제국 베이징\n§Y군 경력:§L\nBorn into an upper-middle class merchant family, Ling grew up in the most cutting-edge academic circles in Beijing, with his parents being members of the Chinese Empire Reform Association, the predecessor of the NCERA. Only 17 during Puyi's restoration, the corruption and scandal that plagued the new empire greatly dismayed the impressionable young man, and on the suggestion of a friend he attended clandestine meetings of the Young China Party. From those meetings he attended the Baoding military academy, where he quickly stood out as both politically and militarily shrewd. Along with Fang Zhejian he assembled a group of young cadets dedicated to reforming the Empire. Interestingly, Ling was not a rabid anti-monarchist, and quickly appreciated how Wu Peifu and the Zhili had manipulated Puyi to serve as a legitimising symbol of the regime."
 QIE_FANG_ZHIJIAN_ARMY_DESC:0 "§Y장군 약력\n§Y출생:§L\n1909년 8월 1일\n청 제국 후베이성 황강\n§Y군 경력:§L\nHailing from a poor peasant family, Fang's teachers in the village school noticed the young boy excelled in all of his lessons. Cobbling together a small sum of money, they sent the young boy to the local provincial secondary school. Unfortunately for Fang, warlord soldiers arrived in the provincial capital and burned the school, nearly killing Fang. The young man was left with a scar running down his leg and a burning hatred for warlords and the chaos they inflicted on the poor of China. After taking the entrance exams to Baoding Military Academy, he joined the Young China Party branch at the campus, though his sympathies lay more with the NCERA. He led one of the squads that arrested and executed senior Zhili leadership during the coup, and the command experience he picked up there made him stand out so much to Li Bingzhi that he promoted the young man on the spot."
 
-QIE_manchu:0 "청나라 만주 중점 계통도"
-QIE_zhili:0 "청나라 직예 중점 계통도"
+QIE_manchu:0 "청나라 만주 중점계통도"
+QIE_zhili:0 "청나라 직예 중점계통도"
 
 ### Focuses ###
 QIE_yearofrat:0 "자년"

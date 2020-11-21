@@ -1,10 +1,10 @@
 ﻿l_english:
 
-Baltic_Duchy_focus_SocLib:0 "사회자유주의 발트 공국 중점 계통도"
-Baltic_Duchy_focus_PatAut:0 "후견전제주의 발트 공국 중점 계통도"
-Baltic_Duchy_focus_NatPop:0 "발트 형제단 중점 계통도"
-Baltic_Duchy_focus_Riga:0 "리가 중점 계통도"
-Baltic_Union_focus:0 "발트 연방 중점 계통도"
+Baltic_Duchy_focus_SocLib:0 "사회자유주의 발트 공국 중점계통도"
+Baltic_Duchy_focus_PatAut:0 "후견전제주의 발트 공국 중점계통도"
+Baltic_Duchy_focus_NatPop:0 "발트 형제단 중점계통도"
+Baltic_Duchy_focus_Riga:0 "리가 중점계통도"
+Baltic_Union_focus:0 "발트 연방 중점계통도"
 
 ### Parties ###
 BAT_totalist_party:0 "라트비아 및 에스토니아 혁명동맹"
