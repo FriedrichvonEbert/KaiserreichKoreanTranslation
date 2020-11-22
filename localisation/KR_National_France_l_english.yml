@@ -50,7 +50,7 @@ Mordacq_In_The_Barracks_desc:0 "정치적 혼란은, 정치 참여를 자제해�
 NFA_Call_For_Moral_Order:0 "도덕적 질서의 부름"
 NFA_Call_For_Moral_Order_desc:0 "부패에 대한 터무니 없는 주장이 유포되고 있고, 원수는 입장을 취해야만 합니다. 그는 방송을 통해 시민들에게 이 어려운 시기에 도덕적으로 행동하라고 전할 것이고, 정부에 대한 어떠한 비판도 생디칼리스트 간첩에 의해 퍼진 단순한 프로파간다라고 맹렬히 비난할 것입니다."
 NFA_Make_Corruption_Crime:0 "부패와의 전쟁"
-NFA_Make_Corruption_Crime_desc:0 "최근 수면 위로 떠오른 부패 스캔들에서 원수께서 무결하다는 것을 시민들에게 증명하기 위해, 우리는 모든 사회 수준에서 광범위한 반-부패 운동을 시작할 것이고, 그들이 목격하거나 피해자가 된, 공공 기관의 어떠한 부패든지 고발하도록 격려할 것입니다. 그것은 엄청난 노력을 필요로 할 것이지만, 그럴 가치가 있을 겁니다."
+NFA_Make_Corruption_Crime_desc:0 "최근 수면 위로 떠오른 부패 스캔들에서 원수께서 무결하다는 것을 시민들에게 증명하기 위해, 우리는 모든 사회 수준에서 광범위한 반부패 운동을 시작할 것이고, 그들이 목격하거나 피해자가 된, 공공 기관의 어떠한 부패든지 고발하도록 격려할 것입니다. 그것은 엄청난 노력을 필요로 할 것이지만, 그럴 가치가 있을 겁니다."
 NFA_Scapegoats:0 "부패와의 전쟁을 위한 창의적인 방법"
 NFA_Scapegoats_desc:0 "부패와 싸우는 우리의 가장 진지한 노력조차 국민들을 만족시킬 충분한 결과를 내지 못했습니다. 그런만큼 우리는 부패 혐의의 증거를 찾아내는 데에 더 넓게 봐야 할지도 모르며, 의심스러운 사람들에겐 자백을 더 적극적으로 받아내야 할지도 모릅니다. 그들은 아마 뭔가 잘못했을 것입니다. 아니면 코뮌의 요원이거나, 혹은 또 다른 무언가일겁니다. 솔직히 누가 상관하겠습니까?"
 
@@ -257,8 +257,8 @@ NFA_Integrate_Overseas_State_desc:0 "Since our loss of the mainland, our empire 
 NFA_rebuild_metropole_cat:0 "본국의 산업 재건"
 NFA_rebuild_metropole_cat_desc:0 "전쟁을 이 땅을 황폐화시켰으니, 우리는 이것을 복구해야 합니다."
 
-NFA_civ_in_paris:0 "파리의 민간 산업 재건"
-NFA_mil_in_paris:0 "파리의 군수 산업 재건"
+NFA_civ_in_paris:0 "파리의 민간산업 재건"
+NFA_mil_in_paris:0 "파리의 군수산업 재건"
 NFA_Rebuild_Loire_Valley:0 "루아르 계곡 산업 재건"
 NFA_Restore_Caen:0 "캉 도시 복원"
 NFA_Restore_Caen_desc:0 "전쟁 수행 과정에서 있었던 가차없는 폭격은 도시와 주변 지역에 재앙을 가져왔습니다. 건물이 거의 남아있지 않은 상태였습니다. 우리는 노르망디를 재건하기 위해 어떠한 노력도 아끼지 않을 것입니다!"
@@ -269,14 +269,14 @@ NFA_Renovate_Champagne_desc:0 "1차 세계대전 때 그랬던 것처럼, 랭스
 
 NFA_Renovate_Marseille:0 "새로운 마르세유"
 NFA_Renovate_Marseille_desc:0 "Ever since the beginning of our expansion into Northern Africa, the port of Marseille has been an instrumental hub linking the Métropole and the colonies.While many businesses and industries that fled during the civil war have begun relocating back into the metropole, several, however, have decided to stay where they are. In order to serve their business, we must work towards expanding the port facilities of Marseille and place it back on the map as one of the largest shipping ports of Europe."
-NFA_mil_in_provence:0 "프로방스 군수 산업 재건"
-NFA_Revive_La_Rochelle:0 "라 로셸 항구 부활"
+NFA_mil_in_provence:0 "프로방스 군수산업 재건"
+NFA_Revive_La_Rochelle:0 "라 로셸 항구 복원"
 NFA_Revive_La_Rochelle_desc:0 "The importance of the harbour of La Rochelle has fallen ever since ourloss against the British back in the 1763 in `La Guerre de Conquête`, which largely sealed the fate of our New World colonial ambitions. With the new order in the world we can once again turn our attention to this port for Trans-Atlantic trade with our new world allies. Namely the continuation of the import of goods and materials flowing out of Canadian factories that helped us return home."
-NFA_civ_in_bordeaux:0 "보르도 민간 산업 재건"
-NFA_mil_in_bordeaux:0 "보르도 군수 산업 재건"
+NFA_civ_in_bordeaux:0 "보르도 민간산업 재건"
+NFA_mil_in_bordeaux:0 "보르도 군수산업 재건"
 NFA_Light_Up_Lyon:0 "리옹을 밝히다"
 NFA_Light_Up_Lyon_desc:0 "The \"City of Lights\" was turned into a fortress by the Communards during their retreat northward. As such, the city took a beating during the fighting to liberate the population. We must take up the mantle to rebuild the city and restore the light to this once beautiful city!"
-NFA_mil_in_lyonnais:0 "리옹 군수 산업 재건"
+NFA_mil_in_lyonnais:0 "리옹 군수산업 재건"
 
 
 
@@ -307,8 +307,8 @@ NFA_paternal_autocrat_party_long:0 "임시군사정부-페탱 파벌 §LIn the a
 NFA_national_populist_party_long:0 "악시옹 프랑세즈                                          §LFounded in 1899, the French Action is a nationalist, royalist, integralist group. Its ideology can be summarised with one quote by Charles Maurras, its most influential theorist: \"In order to love France today, it is necessary to hate what she has become.\" The aim of the Integralists is nothing less than the fall of the Republic and the establishment of an integralist state: an absolute, hereditary, anti-parliamentary, reactionary, counter-revolutionary, heavily decentralised, corporatist, and above all Catholic monarchy, protective of local identities and modelled after the traditional institutions of the Kingdom of France. Though it couldn’t be called a party, after all the group openly advocates for a coup d’état and has never participated in elections, the AF has created a surprisingly broad network of influence among Catholics radicalised by the anticlerical violence of the revolution, in intellectual circles, and, most importantly, within the military.§!" 
 
 
-NFA_CSN:0 "국민구원위원회"
-NFA_CSN_long:0 "국민구원위원회                                        §LIn the aftermath of the crisis, President Mordacq has decided to assemble a Committee of National Salvation, made up of military men, political figures, and experts, to better prepare France for the coming war to reconquer the mainland without being hindered by the potential chaos of democracy and ideology. However, the Bear has repeatedly clarified that this truly is a temporary measure, and that as soon as the Métropole is freed from the grasps of the Communards, he will step down and restore full democracy and parliamentary life. In the meantime, in-depth political reform will have to wait§."
+NFA_CSN:0 "구국위원회"
+NFA_CSN_long:0 "구국위원회                                        §LIn the aftermath of the crisis, President Mordacq has decided to assemble a Committee of National Salvation, made up of military men, political figures, and experts, to better prepare France for the coming war to reconquer the mainland without being hindered by the potential chaos of democracy and ideology. However, the Bear has repeatedly clarified that this truly is a temporary measure, and that as soon as the Métropole is freed from the grasps of the Communards, he will step down and restore full democracy and parliamentary life. In the meantime, in-depth political reform will have to wait§."
 
 Redressement_Francais:0 "프랑스 재건"
 Redressement_Francais_long:0 "프랑스 재건                                            §LIn his hour of need, Marshal Pétain was contacted by a group calling itself the \"French Renewal", who helped him resolve the crisis, bringing a new ideological thrust to the regime. Part employers’ association, part think tank, part propaganda arm of the forward-minded industrialists, they are intent on \"bringing together the elites and educating the masses\". Advocating for a reorganization and \"streamlining\" of the administration and political system and a greater care of the upper classes for the \"social question\", they stand for class collaboration, strong property rights, and a greater involvement of \"patriotic industrialists and intellectuals\" in policy-making through specialized commissions. They are skeptical of traditional parliamentary democracy that they consider bloated and in part responsible for the revolution; in short, they are technocratic, condescendingly paternalistic, and corporatist§."
@@ -426,7 +426,7 @@ NATFRA_Cement_Coalition_idea:0 "강화된 연정"
 NATFRA_Royal_Dictatorship_idea:0 "독재군주국"
 NATFRA_End_Parliamentarism_idea:0 "의회제도의 끝"
 NATFRA_Le_Pays_Reel_idea:0 "현실국가"
-NATFRA_Crush_the_Anti_France_idea:0 "'반-프랑스' 분쇄"
+NATFRA_Crush_the_Anti_France_idea:0 "'반프랑스' 분쇄"
 NATFRA_La_Contre_Revolution_idea:0 "반혁명"
 NATFRA_Provincial_Cultures_idea:0 "지방직무"
 NATFRA_Corporatism_idea:0 "협동조합주의"
@@ -770,7 +770,7 @@ NATFRA_National_Solidarity:0 "국민연대"
 NATFRA_National_Solidarity_desc:0 "The Reds promote class warfare: though their defense of labour is just, this is deeply contrary to the Faith, pitting brother against brother and ultimately achieving nothing but the destruction of the social fabric. Instead, we will promote national solidarity; thanks to the watchful guidance of our king we will ensure that all acquire a just reward for their labour so that they may be able to live in dignity."
 NATFRA_End_Republican_Demagogy:0 "공화주의 선동의 끝"
 NATFRA_End_Republican_Demagogy_desc:0 "By promising equality, the republicans deeply undermined France. The people, hoping for an unattainable dream, reduced to mere cogs, called to vote so that decisions might be taken far away from them, were easily seduced by the rhetoric of the Communards. Who could blame them?  Remaining republicans will atone or we will make sure they are not able to disgrace France any longer."
-NATFRA_Crush_the_Anti_France:0 "'반-프랑스' 분쇄"
+NATFRA_Crush_the_Anti_France:0 "'반프랑스' 분쇄"
 NATFRA_Crush_the_Anti_France_desc:0 "The Four Confederate Estates, the Anti-France, any good Frenchman knows who is meant by these epithets: Freemasons, Protestants, Jews and Metics. Behind every revolutionary upheaval, consciously working against France, getting fat off her labour, destroying every single little part of  the true France. We will not be safe until something is done to deal with these parasites."
 NATFRA_Rely_on_Ourselves:0 "우리 자신을 믿자"
 NATFRA_Rely_on_Ourselves_desc:0 "Though we know we can count on our allies in our crusade to retake France, our Latin and Catholic brothers, and yes, even the Rosbifs, we must not rely on foreign help. The empire is rich in resources, and populated by millions of proud Frenchmen ready to fight and die for the patrie: we simply need a strong drive for development and technological advancements, and nothing will be able to stop us."
