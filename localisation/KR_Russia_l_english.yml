@@ -604,8 +604,8 @@ RUS_Expansionism_desc:0 "팽창주의 이론은 러시아의 국경이 우리의
 RUS_Secure_Central_Asia:0 "중앙아시아 확보"
 RUS_Secure_Central_Asia_desc:0 "독일은 쿠반 지역과 달리 중앙아시아에는 관심이 없습니다. 우리는 강대국의 간섭을 받지 않고 이 지역을 장악할 수 있을 것입니다."
 
-RUS_Crisis_On_The_Don:0 "Crisis on the Don"
-RUS_Crisis_On_The_Don_desc:0 "The Kuban Steppe is wealthy and, historically, part of Russia. The people who live there might not think so any more, but with enough military muscles that shouldn't be a problem. Germany will however keep a close eye on us, and we should tread carefully in the region."
+RUS_Crisis_On_The_Don:0 "돈에서의 위기"
+RUS_Crisis_On_The_Don_desc:0 "쿠반 스텝 지대는 부유하고 역사적으로 러시아의 일부분입니다. 그곳에 사는 사람들은 더 이상 그렇게 생각하지 않을지도 모르지만, 문제가 되지 않을 만큼의 전력을 가지고 있습니다. 그러나 독일은 우리를 지켜볼 것이고, 우리는 조심스럽게 그 지역에 발을 디뎌야 합니다."
 
 RUS_The_Road_To_War:0 "The Road to War"
 RUS_The_Road_To_War_desc:0 "Tensions are rising across Europe, and Russia cannot allow itself to stay out of the war which is due to break out. The conflict between Germany and France is our only chance to reclaim the lost territories in the West - and we need to prepare the country for this goal."
@@ -1434,12 +1434,12 @@ rusfor.19.t:0 "The Ukrainians Refuse"
 rusfor.19.d:0 "The Ukrainian government has refused our offer and stated that the events in Don-Kuban are not their concern - clearly motivated by reasonable fear that they will be next on the chopping block. This has put a stop to any plans to isolate Krasnov's regime, and it means that Germany will still have a chance to make a say."
 rusfor.19.a:0 "That won't stop us."
 
-rusfor.20.t:0 "Crisis on the Don"
+rusfor.20.t:0 "돈에서의 위기"
 rusfor.20.d.terek_rebellion:0 "The Don-Kuban Union, a state created by the Cossacks with German support after the Kolchak Putsch in 1925, was widely expected to be Russia's first target ever since the Russian state began to recover from its economic and political instability. These predictions have been proven right, as a diplomatic crisis has now broken out over the fate of the Terek Cossacks in the east of the country.\n\nThe crisis has escalated into a war between the Cossacks and Russia - and the world watches with bated breath as a resurgent Russia flexes its military might."
 rusfor.20.d.partitioned:0 "The Don-Kuban Union, a state created by the Cossacks with German support after the Kolchak Putsch in 1925, was widely expected to be Russia's first target ever since the Russian state began to recover from its economic and political instability. These predictions have been proven right, as a diplomatic crisis has now broken out over the fate of the Terek Cossacks in the east of the country.\n\nThe Union turned to the German Empire to help mediate the conflict. Germany and Russia have promptly conspired to dismantle the state into a German-dominated west and Russian-seized east, and Krasnov's regime has fallen. Russia's first diplomatic play is victorious."
 rusfor.20.d.joined_reichspakt:0 "The Don-Kuban Union, a state created by the Cossacks with German support after the Kolchak Putsch in 1925, was widely expected to be Russia's first target ever since the Russian state began to recover from its economic and political instability. These predictions have been proven right, as a diplomatic crisis has now broken out over the fate of the Terek Cossacks in the east of the country.\n\nThe Union turned to the German Empire to help mediate the conflict. Germany has responded harshly, accepting the Cossacks into the Reichspakt and denying Russia a victory - however, the alarm which Russian meddling caused has made it known that they are once again resurgent."
 rusfor.20.d.joint_war:0 "The Don-Kuban Union, a state created by the Cossacks with German support after the Kolchak Putsch in 1925, was widely expected to be Russia's first target ever since the Russian state began to recover from its economic and political instability. These predictions have been proven right, as a diplomatic crisis has now broken out over the fate of the Terek Cossacks in the east of the country.\n\nThe crisis has escalated into a war between the Cossacks and Russia, with Ukrainian support on the Russian side for their claims in Kuban - and the world watches with bated breath as a resurgent Russia flexes its military might."
-rusfor.20.a:0 "Russia is back on the world stage."
+rusfor.20.a:0 "러시아가 세계무대로 돌아왔군."
 
 rusfor.47.t:0 "대조국전쟁"
 rusfor.47.d.democratic_FRA:0 "전체주의 프랑스 정권은 러시아를 싫어하고 신앙, 명예, 재산, 시민의 자유를 억압하고 있습니다. 이 전쟁의 결과가 우리 조국의 운명을 결정한다는 것은 누구나 알고 있습니다. 대도시의 시민들이 프랑스 출신이거나 생디칼리슴과 연관된 모든 것을 공격하고 있습니다. 주정부 관리들은 이미 젊은이들이 군대에 가거나 공장에 들어가도록 유도하기 위해 대대적인 선전에 착수했습니다. 볼셰비키를 제외한 모든 정파의 음악가, 시인, 화가, 그리고 다른 예술가들이 우리 정권에 대한 지지를 발표했습니다. 정교회 성직자들은 모든 주요 종교계 인사들과 마찬가지로 전선에 있는 군인들을 위해 기도하고 있습니다. 이제 의회의 모든 정당들과 무역조합들이 러시아를 지키기 위한 '신성동맹'을 결성하였고, 우리 미래는 밝습니다!"
