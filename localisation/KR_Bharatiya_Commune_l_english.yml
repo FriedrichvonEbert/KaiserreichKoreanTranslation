@@ -1,6 +1,6 @@
 ﻿l_english:
 
-KR_Bharatiya_Commune:0 "바라티야 중점계통도"
+KR_Bharatiya_Commune:0 "바라티야 코뮌 중점계통도"
 
 ### Leaders ###
 POLITICS_LALA_LAJPAT_RAI_DESC:0 "미국에서 독립운동을 하던 펀자비 힌두교 자선가인 라라 라지팟 라이가 인도에서의 새로운 사회주의 국가가 건국되었음을 공식적으로 천명하기 위해 돌아왔습니다. 1925년 말 영국 통치 체제가 붕괴되면서 라이는 인도의 다른 사회주의 인사들과 함께 벵갈 인민 공화국의 건국을 선언했습니다. 이 인민 공화국은 처음에는 무력으로 인도를 통합하는데 실패했지만, 대륙 북동부 3분의 1을 성공적으로 확보했습니다. 한때 인민 공화국 지도부의 비교적 온건파였던 라이는 통일에 대한 야망을 표현하고자 바라티야 코뮌으로 국명을 바꾸었고, 지금은 경쟁 사회주의 파벌들의 거센 반대에 직면해 있습니다. 고령인 데다가 영향력이 약해진 라이는 사임 의사를 밝혔습니다. 그의 후임자는 코뮌 자체의 미래를 결정게 될 것입니다."
@@ -13,9 +13,9 @@ POLITICS_SHRIPAD_AMRIT_DANGE_DESC:0 "Shripad Amrit Dange is perhaps the most rad
 
 ### Ideas ###
 BHC_backwards_economy_1:0 "미개발된 경제"
-BHC_backwards_economy_1_desc:0 "현재 국가의 농경지 대부분의 농경법이 구식입니다."
-BHC_backwards_economy_2:0 "회복중인 경제"
-BHC_backwards_economy_2_desc:0 "현재 국가의 농경지 대부분의 농경법이 구식입니다. 그러나 산업화가 도시 지역에서 점점 더 진행되면서 상황이 서서히 변화하기 시작했습니다."
+BHC_backwards_economy_1_desc:0 "이 나라는 농업에 의존하고 있으며, 그 방법도 시대에 뒤쳐졌습니다."
+BHC_backwards_economy_2:0 "회복 중인 경제"
+BHC_backwards_economy_2_desc:0 "이 나라는 농업에 의존하고 있으며, 그 방법도 시대에 뒤쳐졌습니다. 그러나 산업화가 도시 지역에서 점점 더 진행되면서 상황이 서서히 변화하기 시작했습니다."
 BHC_divided_government:0 "분열된 정부"
 BHC_divided_government_desc:0 "캘커타 정부 내에는 최대주의자, 온건주의자, 농업주의자의 세 파벌이 있습니다. 각각 내전 중에 함께 싸웠으나, 비록 그들이 모두 같은 정부의 일부라 할지라도 사회주의 인도가 어떻게 될 것인가에 대한 각자의 목표와 비전을 가지고  경쟁하고 있습니다. 내분이 때로는 극심해질 수도 있고, 분열이 결국 공개적인 갈등으로 이어질 수도 있다는 우려도 있습니다."
 BHC_army_purged:0 "숙청의 효과"
@@ -183,7 +183,7 @@ BHC_rocketry:0 "로켓 기술 개발"
 BHC_rocketry_desc:0 "인도가 다시 뭉쳤으니, 전쟁의 미래를 받아들여야 합니다: 우리 항공기에 동력을 공급할 수 있을 뿐 아니라 가장 파괴적인 무기들을 만들어낼 수 있는 로켓 말입니다."
 BHC_nuclear:0 "전쟁의 미래"
 BHC_nuclear_desc:0 "캘커타 정부의 가장 깊숙한 곳에 비밀 계획이 존재합니다. 캘커타 정부는 인류에게 알려진 가장 강력한 무기를 손에 넣으려 합니다. 이를 우리 손에 쥔다면, 어떤 승리도 가능할 것입니다."
-BHC_central_command:0 "중앙 사령부를 수립하다"
+BHC_central_command:0 "중앙사령부 수립"
 BHC_central_command_desc:0 "내전에서 활동했던 많은 혁명 단체들로부터 나오는, 너무 많은 명령들이 쏟아져나오고 있습니다. 그들을 하나의 깃발 아래 하나로 모으고, 힘을 합쳐 앞으로 나아가야 합니다."
 BHC_army_command:0 "새로운 바라티야 육군"
 BHC_army_command_desc:0 "우리의 육군은 가장 큰 전공을 거둘 수 있는 장군들을 임명하고, 전략과 전술을 개혁해야 합니다."
@@ -195,10 +195,10 @@ BHC_modernize_army:0 "육군 현대화"
 BHC_modernize_army_desc:0 "인도의 보병들은 수가 많은 데다가 충성스럽습니다. 하지만 그들의 장비는 오래되어 비효율적입니다. 우리는 이를 바로잡아야 합니다."
 BHC_artillery_focus:0 "포병 현대화"
 BHC_artillery_focus_desc:0 "코뮌의 포는 대부분 세계대전 중 사용된 것입니다. 적절한 지원을 제공해주지 않아 군인들이 죽기를 바라지 않는다면, 포병을 현대화해야 합니다."
-BHC_armored_corps_1:0 "바라티야 기갑 부대"
+BHC_armored_corps_1:0 "바라티야 기갑부대"
 BHC_armored_corps_1_desc:0 "우리 군에 장갑차를 제공한다면 적과 대치할 때 확실한 우위를 확보할 수 있을 것입니다."
-BHC_armored_corps_2:0 "바라티야 기갑 부대 확장"
-BHC_armored_corps_2_desc:0 "우리는 적들에 대해 경쟁력을 유지하기 위해 기갑 군단을 계속해서 확장해야 합니다."
+BHC_armored_corps_2:0 "바라티야 기갑부대 확충"
+BHC_armored_corps_2_desc:0 "우리는 적들에 대해 경쟁력을 유지하기 위해 기갑부대를 계속해서 확충해야 합니다."
 BHC_centralize_supply:0 "육군 보급 중앙집중화"
 BHC_centralize_supply_desc:0 "육군에 보급을 제공하는 것은 여러 가지 산업에서 옵니다. 우리는 그 산업들을 결합하고 조직해야 합니다. 효율성을 극대화하고, 군대가 큰 이점을 얻을 수 있도록 말이죠."
 BHC_adv_command_1:0 "지상 지배"
