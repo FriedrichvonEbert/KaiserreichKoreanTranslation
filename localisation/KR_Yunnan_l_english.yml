@@ -302,17 +302,17 @@ yun.13.a:0 "놈들을 동쪽으로 밀어내고, 쭌이로 향하라!"
 yun.13.b:0 "놈들을 북쪽으로 밀어내고, 계곡으로 향하라!"
 
 yun.14.t:0 "란창강 인근 교전"
-yun.14.d:0 "As plenty of our forces march Eastwards to reinforce Qianzhong, concerning scout reports have arrived from the West, indicating that a large enemy contingent is preparing near the town of Baoshan. General Ryuoyu managed to quickly assemble a task force to send to the area, but near the Lancang river, they were ambushed crossing a makeshift bridge, causing severe casualties to the detachment and stopping their advance dead in its tracks. Their leading officer has reported back to Kunming that their soldiers were outmanned and outgunned from the other side of the river, with even artillery fire raining over the area and has requested to retreat and regroup. While taking Baoshan and stopping the enemy forces from concentrating is vital for our survival, we can't risk another decisive defeat on the area or the enemy will grow bold and attack us where we are weak. Since we need to act fast, the message has to be dispatched as soon as possible."
+yun.14.d:0 "수많은 아군이 동부로 진격해 첸중을 보강하던 와중 서쪽에서 온 정찰대가 바오산 마을 인근에 엄청난 수의 저군이 집결하고 있다는 보고를 제출했습니다. 후러위 장군은 기동대를 재빨리 집결시켜 해당 지역으로 파견하는데 성공했지만, 란창강 인근에서 임시교량을 건너던 도중 매복 공격에 당했습니다. 파견대는 심각한 피해를 입었고 진격도 막혀 버렸습니다. 파견대 지휘관이 쿤밍에 보고한 내용에 따르면 현재 강 반대쪽에 수적으로도 무기의 질로도 우수한 적과 마주친 상태이며 심지어 지역 전체에 포탄 세례가 비 오듯이 쏟아붇고 있기 때문에 후퇴와 재집결이 필요한 상황이라고 합니다. 아군이 살아남기 위해서는 바오산을 점령하고 적군이 집결하지 못하도록 막아야만 하지만, 다시 한번 결정적인 패배를 당하기에는 여력이 없습니다. 그렇게 된다면 대담해진 적군이 나약해진 우리를 공격할 것이기 때문입니다. 재빨리 대응해야 하기 때문에 최대한 빨리 전갈을 보내야 합니다."
 yun.14.a:0 "'물러나라, 우리는 방어에 집중할 필요가 있다.'"
 yun.14.b:0 "'무슨일이 있더라도 바오산을 확보하라!'"
 
 yun.15.t:0 "수비 계획"
-yun.15.d:0 "While our forces have managed to push back the enemy from Kunming, we can't remain in a defensive stance forever, and we should try to move to secure the rest of Yunnan. However, with our limited resources and even more limited manpower, we have to choose whether to attack Bijie in order to take Qianzhong or move towards Guiyang in order to take Guixi. Both targets will prove tough nuts to crack, as our scouts have spotted Long Yun's forces near  Guiyang, and our KMT sympathisers have reported Zhu Peide moving towards Bijie. With both heading towards Kunming, we need to face one or the other before its too late and both converge on our position. Perhaps, if we strike at one of them now, we might be able to disperse them..."
+yun.15.d:0 "아군이 가까스로 쿤밍에서 적들을 밀어내는데 성공했지만, 언제까지나 방어 태세를 유지할 수는 없으며 운남 나머지 지역을 확보하기 위해 움직여야 합니다. 하지만 아군은 보급품도 부족하고 인력까지 부족하기 때문에 첸중을 확보하기 위해 비제를 공격할 것인지 아니면 구이시를 확보하기 위해 구이양으로 진격할 것인지 결정해야 합니다. 정찰대가 룽윈의 부대를 구이양 인근에서 발견했고, 국민당 내 동조자들이 주페이더가 비제로 이동하고 있다고 보고했기 때문에 두 선택지 모두 상당히 어려운 목표가 될 것입니다. 두 군세가 모두 쿤밍을 향하고 있는 와중에 너무 늦어서 한꺼번에 두 적을 상대해야 하는 상황이 오기 전에 한 군세를 마주할 필요가 있습니다. 아마도 지금 당장 하나를 공격한다면 분산시킬 수 있을 지도 모릅니다..."
 yun.15.a:0 "비제를 공격하라."
 yun.15.b:0 "구이양을 공격하라."
 
 yun.16.t:0 "적군의 위시 위협"
-yun.16.d:0 "Concerning reports from our officers in the area south of Kunming state that they're slowly but steadily being overrun by a hostile force, being able to only pose an organized retreat with some combat delays. If this keeps up, they'll be at the gates of Kunming before the week is out. Our loyal officers have presented Lu Han with two choices: Reinforce the front and hope it will hold, or push Westwards towards Dali. While holding the front seems like a more immediate solution, we are stretched thin with our forces also being occupied with other battles in the East. By contrast, attacking westwards might be a gamble, but it'll likely force the enemy in Yuxi to retreat to try and prevent us from seizing the main cities of the West. Either way, the decision rests with Lu Han..."
+yun.16.d:0 "쿤밍 남쪽 지역에 주둔한 장교들이 보고한 바에 따르면, 느리지만 확연하게 적들에게 압도당하고 있으며 전투를 통해 적을 지연시키면서 조직적으로 퇴각하는 것 외에 뭔가 할 수 없는 상황이라고 합니다. 이대로 가다가는 일주일이 지나기도 전에 적들이 쿤밍 코앞에 다다를 것입니다. 충성스러운 장교들은 루한 장군에게 두 선택지를 조언했습니다. 전선을 보강하고 방어선이 버틸 수 있기를 바라거나 아니면 서쪽으로 진격해 다리로 공격해 나가자는 것입니다. 전선을 지키는 쪽이 더 확실한 해결책으로 보이지만, 동쪽 지역에서 벌어진 다른 전투들로 인해 현재 아군은 엷게 퍼져 있는 상황입니다. 이와 대조적으로 서쪽을 공격하는 작전은 도박이 될 수도 있지만, 아군이 서방의 주요 도시들을 점령하는 상황을 막기 위해 적들이 어쩔 수 없이 후퇴를 선택해야 하게 될지도 모릅니다. 어찌되었든 간에 선택권은 루한의 손에 쥐어졌습니다..."
 yun.16.a:0 "부대를 서쪽으로 보내라!"
 yun.16.b:0 "최전선을 보강하라!"
 
@@ -436,39 +436,39 @@ yun.43.a:0 "전위안을 공격할 채비를 하라."
 yun.43.b:0 "우선 개혁에 집중하자, 그곳은 나중에라도 차지할 수 있다."
 
 yun.44.t:0 "검은 월요일이 운남을 강타하다!"
-yun.44.d:0 "With the collapse of the Berlin Stock Market, Black Monday's ripples have finally travelled around the world and reached our beloved province. While we are benefitted that the German imports have their prices greatly reduced thanks to the crisis, our exports are now being taxed excessively for their transport outside of Yunnan. While we can still keep most of our industry afloat, the sudden increase in taxes and transportation costs through the Kunming-Haiphong railway and the slight reduction of Tin acquisition from the international market have still hurt us badly. While we deal with the fallout, Anti-German sentiment is on the rise in Yunnan, and many wonder if there is a way for our commerce to become less reliant on their intervention."
+yun.44.d:0 "베를린 주식시장이 무너지고 검은 월요일의 파도가 세계를 돌아 마침내 사랑하는 우리 성에까지 도달했습니다. 경제위기로 이내 독일제 수입품 가격이 굉장히 낮아지는 좋은 효과도 있지만, 이제 우리 수출품이 운남 국경 바깥으로 나가기 위해서는 새로운 세금을 내야 하게 되었습니다. 아직 산업 대부분이 적자를 보는 상황까지는 아니지만, 갑자기 쿤밍-하이퐁 철도 이용료와 통과 세금이 늘어나고 국제 시장에서 주석 수요가 소폭 감소하면서 상당한 타격을 입게 되었습니다. 정부가 그 여파를 다루기 위해 노력하는 와중에 운남에서 반독감정이 고조되면서 우리 상업계가 독일의 개입으로부터 더 자유로워질 수 있는 방법을 찾으려는 이들이 늘어났습니다."
 yun.44.a:0 "어쩌면 지금이 자유를 되찾을 기회일지 모른다..."
 
 yun.45.t:0 "죽왕회를 지지하다"
-yun.45.d:0 "While not a popular move with the Han population, our government has deemed necessary to seek a new approach to our ethnic policy. With the endorsement of the Society of the Bamboo King, we have elevated the Society to a state organization, which shall create a united ethnic council which will coordinate the different ethnic minorities to oppose the Han slight majority and 'supervise' the creation and enforcement of ethnic equality laws which shall, hopefully, bring the ethnic amalgam that is Yunnan closer together."
+yun.45.d:0 "한족 인구 사이에서 인기 있는 정책은 아니겠지만, 우리 정부는 민족 정책에 새로운 접근법을 모색할 필요가 있다고 생각해 왔습니다. 우리는 죽왕회의 지지를 등에 업고 해당 협회를 국가 기관으로 격상시켰습니다. 죽왕회는 한족 우월주의에 반대하는 수많은 소수민족이 민족연합협의회를 창설할 예정이며, 여러 민족이 혼합된 운남이 한층 더 뭉치도록 하기 위해 민족평등법 입안과 시행을 '감독'할 것입니다."
 yun.45.a:0 "이게 옳은 선택이었길 빌자..."
 
 yun.46.t:0 "중국화 정책 재시작"
-yun.46.d:0 "While Yunnan's ethnic composition of more than 25 ethnicities has been troublesome for the previous administrations, the acquisition of Guizhou has made our Han population possess a slight number advantage. With this in mind, we should double down on the benefits Han Chinese get in order to promote immigration and colonization as to finally secure Yunnan as Chinese province once and for all."
+yun.46.d:0 "운남에는 25개 이상의 민족이 모여 살고 있었기 때문에 이전 행정부에서 상당히 골치를 썩였습니다. 하지만 구이저우를 획득하면서 한족이 약간이기는 하지만 수적 우위를 점하게 되었씁니다. 이런 점을 염두에 두고 이민과 식민지화를 촉진하기 위해 한족이 얻는 혜택을 늘여서 마침내 운남을 중국의 한 성으로 통합해야 합니다."
 yun.46.a:0 "이게 옳은 선택이었길 빌자..."
 
 yun.47.t:0 "농업개혁 시작"
-yun.47.d:0 "Our first step in our plans to modernize the Yunnanese agriculture is to begin a province-wide land assessment. Our land measurement statistics date back from the days of the Xinhai revolution and renewing them would go a long way into helping us understand the current issues in our agricultural system as well as help us draft clear goals for our reforms."
+yun.47.d:0 "운남 농업 현대화 계획의 첫 단계는 성 전체를 포괄하는 토지 평가 실시입니다. 현재 사용하는 통계는 신해혁명 이전 시대까지 거슬러 올라가야 하는 구닥다리입니다. 토지 평가를 갱신한다면 현재 우리 농업 시스템이 현재 가진 문제를 이해하는 것 뿐만 아니라 개혁을 위한 명확한 목표를 설정하는데도 도움이 될 것입니다."
 yun.47.a:0 "시작해보자고."
 
 yun.48.t:0 "토지평가가 완료되다"
-yun.48.d:0 "With the assessment of land complete, we have determined that there is plenty of room for improvement regarding the distribution and usage of arable land in our province. With this information, we have drafted a development scheme with the ultimate goal of promoting our provincial self-sufficiency, stately administer and store grain and increase the amount of overall arable land across the board."
+yun.48.d:0 "토지 평가가 완료되면서 우리 성에서 이용하고 분배하는데 사용할 경작 가능한 토지가 엄청나게 많다는 점이 드러났습니다. 이렇게 얻은 정보를 가지고 지역 자급자족을 톡진하고 곡물 저장력과 국가 행정력을 향상시키며 경작 가능한 토지 양을 증가시키는 궁극적인 목표를 세워 개발 계획의 초안을 작성했습니다."
 yun.48.a:0 "전진!"
 
 yun.49.t:0 "농업개혁의 첫 삽"
-yun.49.d:0 "With our investments into inventory managers and storage spaces for grain as well as improving the provincial irrigation system, we have finally started to see improvements into our overall food production. Although the plan is far from complete, the effects of our reforms are starting to benefit our farmers."
+yun.49.d:0 "저장 감독관과 보관 공간을 확보하고 지역 관계 체계를 향상시키는데 투자한 결과로 마침내 전반적인 식량 생산량이 개선되기 시작했습니다. 아직 계획이 모두 완성된 것은 아니지만, 개혁의 효과가 벌써 농민들에게 혜택을 주기 시작했습니다."
 yun.49.a:0 "훌륭해."
 
 yun.50.t:0 "개혁의 다음 단계"
-yun.50.d:0 "With our investments complete, we have managed to establish 10 water supervision areas controlled by provincial authorities loyal to us, as well as renovating 6 large-scale water reservoirs which have in turned increased the irrigation area for our farmlands in an estimated two hundred thousand square meters. However, while our reforms have clearly improved the overall production effectiveness, it hasn't improved the life of small land owners and peasants in our province. In order to do so, we shall start preparing a series of fiscal reforms in order to reduce the overall taxation of our farmers which shall hopefully improve the amount of the capital they can dispose of, and by extension, be able to afford better livelihoods by themselves."
+yun.50.d:0 "그동안 투자한 결과 우리에게 충성하는 성 당국이 통제하는 10개 치수 감독 구역을 설치하고 대규모 저수지 6개를 보수할 수 있었습니다. 이로 인해 농경이 가능한 관개 지역이 약 20만 평방미터 정도 늘어났습니다. 이렇듯 개혁으로 전반적인 농업 생산 효율성이 확실히 개선되기는 했지만, 소토지 보유자와 소작농들의 생활 수준은 그대로였습니다. 농부들이 지는 무거운 세금을 경감해 줘서 사용 가능한 자본량을 늘여주고 더 나아가 삶의 질을 높여주기 위해 전방위적인 재정 개혁을 준비할 것입니다."
 yun.50.a:0 "우린 그저 세금이 조금 적어졌을 뿐이지만, 농부들에게는 더 많은 이익이다!"
 
 yun.51.t:0 "농업개혁의 종료"
-yun.51.d:0 "The tax cuts have been a success and they have increased the overall life conditions on our province and the previous reforms have brought our agriculture to the top of China. With Sichuan embroiled in the recent chaos, our analysts agree that Yunnan has become the main Chinese province in terms of production of food and staple foods. Today is a great day for our nation!"
-yun.51.a:0 "All hail [Root.GetLeader] and his wisdom!"
+yun.51.d:0 "감세 조치는 성공적이었습니다. 이로 인해 성 내에서 전반적인 생활 수준이 향상되었고 우리의 농업력은 중국 최정상 수준에 올라섰습니다. 분석가들은 사천이 최근 혼란에 휘말렸기 때문에 운남이 중국 내에서 식량과 주식 생산량에서 가장 중요한 위치를 점하게 되었다는데 동의합니다. 오늘은 기쁜 날입니다!"
+yun.51.a:0 "[Root.GetLeader]와 그의 혜안에 만세!"
 
 yun.52.t:0 "운남이 우리를 위협하다!"
-yun.52.d:0 "Yunnan has begun allocating their troops along our border and are starting to prepare to face our forces. It seems like conflict may be inevitable and we should start making preparations for our defence."
+yun.52.d:0 "운남이 우리 사이의 국경에 병력을 배치하기 시작했고 아군을 맞닥트릴 준비를 시작했습니다. 조만간 충돌이 불가피할 듯 하며 방어전 준비를 시작해야 합니다."
 yun.52.a:0 "오게 두어라."
 
 yun.53.t:0 "동녘 대륙의 주인"
