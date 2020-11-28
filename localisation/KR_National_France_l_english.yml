@@ -364,19 +364,19 @@ POLITICS_HENRI_VI_DESC:0 "Born in 1908, young Henri d’Orléans has known exile
 NFA_anti_communard:0 "반코뮌"
 NFA_anti_communard_desc:0 "1919년 대전쟁에서의 패배 이후, 코뮌 지지자들은 다시 봉기했고 우리의 소중한 공화국을 폐지했습니다. 다행히 가장 중요한 공화국의 핵심 인물들 중 일부는, 반혁명 투쟁을 조직하기로 계획한 알제리로 이주했습니다. 이제 생디칼리즘 반역자들이 본토를 완전히 장악하고 있으니, 우리는 그들을 분쇄해야만 합니다! 반드시, 우리의 영원한 프랑스가 항상 자유롭게 만들 것입니다!"
 
-NFA_native_unrest_2:0 "Code de l'Indigénat"
+NFA_native_unrest_2:0 "원주민법"
 NFA_native_unrest_2_desc:0 "The Code of the Indiginate remains in place since its creation in 1887. A diverse set of laws and regulations imposed on the native populations of the empire, they enshrine their inferior legal status despite them being technically French citizens. Collective punishment, a paralel justice system, forced labour and service in the armed forces, enforced by native elites under the guise of modernisation and spread of civilisation: to say that the Indigénat has created ressentment would be an understatement. However it has proved to be a sure source of labour for the colonial effort and is supported by many prominent voices in government who argue that maintaining this status quo is necessary to prepare for the Reconquest."
 
 NFA_internal_unrest:0 "내부 불안"
 NFA_internal_unrest_desc:0 "수 년 동안의 행동력 부족과 정치적 침체는 군대와 국민이 급진적으로 바뀌고, 현 정권에 대한 믿음을 잃을 만한 원인을 제공했습니다. 비록 그것이 당장은 억눌려 있을지라도, 분쟁거리는 프랑스 공화국 안에서 느리지만 확실하게 자라고 있습니다."
 
 #Colonial Ideas
-NFA_native_unrest_1:0 "Code de l'Indigénat"
+NFA_native_unrest_1:0 "원주민법"
 NFA_native_unrest_1_desc:0 "The Code of the Indiginate is a vital piece of law that allows us to extract as many resources as possible out of Africa. It must not be dissolved."
-NFA_native_unrest_3:0 "Code de l'Indigénat"
-NFA_native_unrest_3_desc:0 "While the Code of the Indiginate has provided beneficial labour for the Europeans in the past, we must look towards reforming it so that the distinction between European and African is less pronounced."
-NFA_native_unrest_4:0 "Code de l'Indigénat"
-NFA_native_unrest_4_desc:0 "While the Code of the Indiginate has provided beneficial labour for the Europeans in the past, we must look towards reforming it so that the distinction between European and African is less pronounced."
+NFA_native_unrest_3:0 "원주민법"
+NFA_native_unrest_3_desc:0 "과거에 원주민법은 유럽인들에게 유익한 노동력을 제공했지만, 우리는 유럽인과 아프리카인의 차이를 줄이기 위해서 이를 개정해야만 합니다."
+NFA_native_unrest_4:0 "원주민법"
+NFA_native_unrest_4_desc:0 "과거에 원주민법은 유럽인들에게 유익한 노동력을 제공했지만, 우리는 유럽인과 아프리카인의 차이를 줄이기 위해서 이를 개정해야만 합니다."
 
 #CSN Ideas
 NATFRA_Commisariat_au_Plan_idea:0 "종합계획위원회"
