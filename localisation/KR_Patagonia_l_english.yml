@@ -673,28 +673,28 @@ fop.6.c:0 "아우히에르의 계획을 밀어붙여라"
 fop.6.e:0 "이건 시간낭비다"
 
 fop.7.t:0 "아나포르드의 탈출"
-fop.7.d:0 "Our mission was a great success, with us successfully getting Hannaford out of prison alive, as well as most of our troops. Our troops ran circles around the Argentinian garrison and it is not only a military success, but a moral victory as well. If we keep this up, there may actually be a chance for our revolution to succeed!"
+fop.7.d:0 "우리의 임무는 매우 성공적이었으며, 아나포르드의를 무사히 감옥에서 구출하고 아군들도 무사히 귀환했습니다. 우리 병사들이 아르헨티나 수비대보다 빠르게 움직였기에 가능한 결과입니다. 이는 군사적 성공일 뿐만 아니라 정신적인 승리라고 할 수 있습니다. 오늘처럼만 한다면, 우리의 혁명이 성공하는것도 머지 않을 것입니다!"
 fop.7.a:0 "완벽해."
 
 fop.8.t:0 "아나포르드의 사망"
-fop.8.d:0 "While sieging the prison Hannaford was trapped in, he was accidentally killed by a stray bullet. However, most of our troops escaped unharmed, and so while the mission failed, morale still remains high among our troops."
+fop.8.d:0 "아나포르드가 갇힌 교도소를 공격하던 도중, 아나포르드가 눈 먼 총알에 맞아 우발적으로 숨을 거뒀습니다. 그러나 병사들은 무사히 탈출했고, 임무에 실패한 뒤에도 아군의 사기는 여전히 높아 보입니다."
 fop.8.a:0 "최악은 아니구만..."
 
 fop.9.t:0 "임무 실패"
-fop.9.d:0 "The mission failed massively, while they were able to escape the prison with Hannaford they were misdirected on their return. This allowed a nearby garrison to pincer our troops between them and the prison garrison with Hannaford dying and most of our troops being lost in the escape. This defeat will surely impact the morale of our troops, and it puts a dent on our leadership's reputation."
+fop.9.d:0 "병사들이 아나포르드와 함께 감옥에서 탈출하려 했으나, 탈출 경로를 잘못 인지함으로써 임무는 완전히 실패했습니다. 이로 인해 아나포르드가 사망하고 병사들이 길을 잃으면서 인근의 아르헨티나 부대가 교도소 수비대와 함께 아군을 붙잡았습니다. 이번 패배는 아군의 사기에 분명히 영향을 미칠 것이며, 우리 지도부의 명성을 실추시킬 것입니다."
 fop.9.a:0 "젠장."
 
-fop.10.t:0 "아나포르드의 거절"
-fop.10.d:0 "We successfully got Hannaford out of prison alive, but there is still a problem. He is currently refusing to aid our revolution. Hannaford himself, at least according to the intelligence we could gather on his imprisonment, was accused of spying for Paraguay but such accusation had little evidence to support the case, leading some of our command to speculate that he was being framed by a rival in the Army. With that in mind, we believe we can take advantage of the administrative chaos in the North for our agents to dig up information that may help him see things our way. Perhaps, if we show him the truth of the matter, he'll join our side..."
-fop.10.a:0 "부에노스아이레스로 명령을 보내라, 우리 요원들이 뭔가를 해볼 수는 있을 것이다."
+fop.10.t:0 "아나포르드의 불신"
+fop.10.d:0 "우리는 아나포르드를 감옥에서 성공적으로 탈출시켰지만, 여전히 문제가 남아 있습니다. 그는 현재 우리의 혁명에 동참 하는 것을 거부하고 있습니다. 아나포르드가 투옥하면서 모은 정보에 따르면, 우리가 파라과이를 위해 스파이 행위를 했다고 여기는것 같습니다. 물론 그러한 비난은 뒷받침할 증거가 거의 없었기 때문에, 우리 지휘부의 일부는 그가 육군에서 경쟁자에 의해 잘못된 정보를 믿고 있다는 추측을 하게 되었습니다. 그 점을 염두에 두고, 우리는 북부의 혼란스러운 상황을 이용하여 우리 요원들로 하여금 그가 우리의 방식으로 현상을 볼 수 있도록 정보를 캐낼 수 있습니다. 우리가 그에게 사건의 진실을 보여준다면, 그는 우리 편에 설지도 모릅니다..."
+fop.10.a:0 "부에노스아이레스로 요원을 보내라, 뭔가를 해볼 수는 있을 것이다."
 fop.10.b:0 "그를 심문하여 우리가 얻을 수 있는 유용한 정보를 알아내라."
 
-fop.11.t:0 "아나포르드의 수락."
-fop.11.d:0 "Our Agents were able to get information on Hannaford's case via army informants, and have managed to uncover a seeming conspiracy to remove Hannaford from command in the Army, with the tacit approval of many members of the GOU. By all means, this move seems to be an undercover form of a purge, and it's hard to assess if many other officers have suffered unfair demotions or imprisonment in the same way Hannaford has. With that information, we have compiled a file and given it to Hannaford, who, while taking his time to take it all in with some level of disbelief, has finally accepted to work with our government. In return he has requested that our agents in Buenos Aires arrange for the transfer of his family to our territory."
-fop.11.a:0 "정당한 대가를 지급해주겠네."
+fop.11.t:0 "아나포르드의 협력 수락."
+fop.11.d:0 "우리 요원들은 군 정보원을 통해 아나포르드의 사건에 대한 정보를 얻을 수 있었고, 육군 지휘부에서 아나포르드를 제거하려는 듯한 음모를 꾸몄던 사실을 겨우 밝혀냈습니다. 어찌되었건, 이번 조치는 비밀 숙청의 형태로 보이며, 또 다른 장교들이 이 사건에 연루되어 있는지 가늠하기는 어렵습니다. 아나포르드가 당했던 것과 같은 방식으로 부당한 강등이나 투옥을 당한사례가 여럿 발견되었고, 그 정보를 가지고 우리는 자료를 편집해서 아나포르드에게 주었습니다. 아나포르드는 어느 정도 불신감을 가지면서도 모든 것을 받아들이면서, 마침내 우리 정부와 함께 일하겠다고 말했습니다. 그 대가로 그는 부에노스아이레스에 있는 우리 요원들에게 그의 가족을 우리 영토로 안전히 데려와 달라고 요청했습니다."
+fop.11.a:0 "요구를 들어주겠네."
 
 fop.12.t:0 "아나포르드의 협력 거절"
-fop.12.d:0 "Despite our attempts at uncovering information about the Hannaford case, we have unfortunately been unsuccessful and he has proven unusually hard to persuade. Without much choice, we have instead chosen to imprison Hannaford and proceed to extract whatever useful information he has for us."
+fop.12.d:0 "아나포르드 사건에 대한 정보를 밝히려는 우리의 시도에도 불구하고, 우리는 성공하지 못했고 그를 설득하기는 유난히 어려웠습니다. 선택의 여지 없이, 우리는 대신 아나포르드를 감옥에 가두고 그가 가지고 있는 유용한 정보를 강제로 "추출"하는 것을 선택했습니다."
 fop.12.a:0 "당신이 있든 없든, 우리는 나아간다."
 
 fop.13.t:0 "파타고니아의 소총 지원 요청"
@@ -1539,14 +1539,14 @@ FOP_totalist_party:0 "계급주의 노조위원회"
 FOP_totalist_party_long:0 "계급주의 노조위원회" #Comite de Union Sindical Clasista, CUSC
 
 ### Party Renames ###
-FOP_social_conservative_rename:0 "민주연합당"
-FOP_social_conservative_rename_long:0 "민주연합당"
-FOP_social_liberal_rename:0 "민주연합당"
-FOP_social_liberal_rename_long:0 "민주연합당"
-FOP_social_democrat_rename:0 "민주연합당"
-FOP_social_democrat_rename_long:0 "민주연합당"
-FOP_market_liberal_rename:0 "민주연합당"
-FOP_market_liberal_rename_long:0 "민주연합당" #Union Democratica
+FOP_social_conservative_rename:0 "민주연합"
+FOP_social_conservative_rename_long:0 "민주연합"
+FOP_social_liberal_rename:0 "민주연합"
+FOP_social_liberal_rename_long:0 "민주연합"
+FOP_social_democrat_rename:0 "민주연합"
+FOP_social_democrat_rename_long:0 "민주연합"
+FOP_market_liberal_rename:0 "민주연합"
+FOP_market_liberal_rename_long:0 "민주연합" #Union Democratica
 
 ##Army Generals##
 FOP_Paulina_Mansurova_desc:0 "§Y장군 설명\n§Y출생:§W 1915년, 아르헨티나의 수도, 부에노스 아이레스.\n§Y군사 경력:§W 러시아계 볼셰비키 망명자 가정에서 태어난 파울리나는 그녀의 가족으로부터 러시아 내전의 냉혹한 현실을 배웠습니다. 그럼에도 불구하고, 파타고니아 노동자전선이 형성되었을 때, 그녀는 혁명을 돕기 위해 목숨을 걸기로 결심했습니다. 공식적인 군사 경험은 없지만, 스페인어와 러시아어를 모두 다루는 것은 현재 파타고니아 노동자전선에 살고 있는 많은 러시아 망명자들과 군인들 사이의 의사소통을 용이하게 했습니다. \n§Y중요 참고 사항:§W- 그녀는 현재 공식적인 군사 전략을 배우고 있으며 미하일 프룬제, 미하일 투하쳅스키와 접촉하고 있는 것으로 알려져 있습니다."
