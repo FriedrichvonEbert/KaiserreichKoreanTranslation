@@ -153,7 +153,7 @@ SER_will_declare_war_tooltip:0 "§R이 달 내로 베오그라드 조약의 모�
 SER_will_declare_war_allies_tooltip:0 "§R세르비아는 2주 내로 오스트리아에 전쟁을 선포할 것이며, 우리도 그렇게 하도록 유도할 것입니다.§!"
 
 SER_Encourage_Yugoslavism_tooltip:0 "§H통합§! 선택 비용 감소"
-SER_Serbian_Mountain_Corps_tooltip:0 "£nato_unit_mountaineers_icon_small §H산악병§! 사단 4개 배치할 것입니다."
+SER_Serbian_Mountain_Corps_tooltip:0 "£nato_unit_mountaineers_icon_small §H산악병§! 4개 사단이 배치될 것입니다."
 SER_Local_Designs_tooltip:0 "항공기 설계사 해금: §H아에로푸트§!, §H로고자르스키§! 그리고 §HUTVA§!."
 SER_The_Serbian_Airforce_tooltip_RUS:0 "§H$SER_russian_aerial_expertise$§!와 §H$SER_local_designs_idea$§!를 §H$SER_airforce_idea$§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
 SER_The_Serbian_Airforce_tooltip_NFA:0 "§H$SER_french_aerial_expertise$§!와 §H$SER_local_designs_idea$§!를 §H$SER_airforce_idea$§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
@@ -189,7 +189,7 @@ SER_Maintain_Military_Dominance_desc:0 "오직 군대만이 세르비아 국가�
 SER_Monument_To_The_Unknown_Soldier:0 "무명용사 기념비"
 SER_Monument_To_The_Unknown_Soldier_desc:0 "전쟁이 끝난 이후 무명 용사를 숭상하는 문화가 대중화되었고 그들을 기리는 기념비 건립 문제를 십년 넘게 논의해 왔습니다. 오스트리아가 우리를 감시하지 않고 있으니 지금이야 말로 기념비 건립에 다시 주의를 기울여 세르비아를 위해 싸우고 죽어간 영령들을 위한 존경의 표시를 건립하지 않을 이유가 없습니다."
 
-SER_The_Vojvoda_Stands_Tall:0 "보이보다는 건재하다"
+SER_The_Vojvoda_Stands_Tall:0 "건재한 보이보다"
 SER_The_Vojvoda_Stands_Tall_desc:0 "보이보다 보요비치는 수많은 음모를 분쇄하였고 여전히 세르비아 국가에서 정상을 차지하고 있습니다. 이제 세르비아를 충성스러운 국민들이 내부의 적을 두려워하지 않고 맡은 일에 최선을 다할 수 있고 나머지 세르비아 지역을 해방시킬 수 있는 국가로 재탄생시키는 그의 작업을 막을 자는 아무도 없습니다."
 
 SER_Organise_The_Radical_Union:0 "급진연합당 조직"
@@ -201,7 +201,7 @@ SER_Mobilise_The_Greenshirts_desc:0 "녹색 셔츠단은 급진연합당 소속 
 SER_One_Vojvoda_One_Nation_One_State:0 "하나의 보이보다, 하나의 민족, 하나의 국가"
 SER_One_Vojvoda_One_Nation_One_State_desc:0 "개혁을 시행해 새로운 번영의 시대로 향하기는 했지만, 아직 완전히 끝난 것은 아닙니다. 스토야노비치는 '하나의 보이보다, 하나의 민족, 하나의 국가, 가정의 번영과 국경 내의 평화'라는 목표가 완성될 때 까지 급진연합당은 쉬지 않으리라고 선언했습니다"
 
-SER_The_Congress_Of_Belgrade:0 "베오그라드 의회"
+SER_The_Congress_Of_Belgrade:0 "베오그라드 회의"
 SER_The_Congress_Of_Belgrade_desc:0 "불가리아 패권주의를 무너트리는 대업은 홀로 진행할 수 없습니다. 불가리아와 두드러진 문제를 겪는 중인 다른 국가들을 도울 필요가 있습니다. 불가리아가 약화되고 외교적으로 고립된 지금이야말로 문제를 해결할 최선의 기회입니다. 우리의 분투에 우방국들을 연계해 세르비아 남부를 해방해야 합니다."
 
 SER_The_Balkan_Research_Initiative:0 "발칸 연구 이니셔티브"
@@ -222,7 +222,7 @@ SER_Addressing_The_Macedonians_desc:0 "마케도니아는 현대 역사 동안 �
 SER_Promote_Macedonian_Investment:0 "마케도니아 투자 촉진"
 SER_Promote_Macedonian_Investment_desc:0 "남부 세르비아는 굉장히 가난하고 투자가 절실하게 필요한 상황입니다. 단기적으로는 수익이 거의 나오지 않는 값비싼 과정이겠지만, 안정을 보장하고 우리 정부가 지역민으로부터 신뢰를 얻기 위해서는 꼭 필요한 사업입니다."
 
-SER_The_Republican_Proclamation:0 "공화국의 선포"
+SER_The_Republican_Proclamation:0 "공화국 선포"
 SER_The_Republican_Proclamation_desc:0 "이제 섭정 따위는 없습니다! 임시 대통령 슬로보단 요바노비치는 폭정과 압제로부터 자유로운 민주주의 국가의 이상을 토대로 세르비아 공화국을 선포했습니다. 인민들이 우리 편이므로, 잃어버린 영토를 수복하는 것 역시 시간문제에 불과합니다."
 
 SER_Draft_A_Constitution:0 "헌법 초안 작성"
