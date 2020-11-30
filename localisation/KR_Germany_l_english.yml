@@ -251,6 +251,7 @@ GER_received_equipment_10000:0 "우리는 10000개의 보병 장비를 받을 �
 GER_OTT_victory:0 "카이로 협약이 항복했습니다."
 GER_cannot_join_until_WK:0 "§R[From.GetName]은 세계대전이 일어나기 전에는 [ROOT.GetFactionName]에 참가할 수 없습니다§!"
 GER_doctrine_mobile_3_tooltip:0 "Modify §H$GER_invest_arms_industry$§! by\nConsumer Goods Factories: [?-0.05|=%1H]\n§HArmour§!: £production_cost  Production Cost:  [?-0.2|-=%]"
+GER_no_appointed_chancellors:0 "§HKaiser [Root.GetLeader]§! will no longer be able to appoint the chancellor."
 
 GER_has_black_monday:0 "§H$GER_black_monday$§! 국민정신이 존재합니다"
 GER_has_black_monday_NOT:0 "§H$GER_black_monday$§! 국민정신이 존재하지 않습니다"
@@ -1325,12 +1326,6 @@ gerfor.51.a:0 "세계대전을 기억하라! 우리는 싸워야만 한다!"
 gerfor.51.b:0 "이번에 독일인들은 홀로 헤쳐 나가야 할 것이다!"
 gerfor.51.c:0 "물자와 자원병을 보내라"
 
-gerfor.52.t:0 "생디칼리스트에 대항하는 독일에 지원?"
-gerfor.52.d:0 "독일이 생디칼리슴에 대항하는 그들의 전쟁에 가담하길 요청하고 있습니다. 나라 안의 보수파는 생디칼리슴으로부터 유럽을 지키기 위한 신성한 의무를 이야기하고 있습니다만, 다른 이들은 독일의 전쟁에서 억지로 싸워서는 안된다고 말하고 있습니다."
-gerfor.52.a:0 "황제 연방이 돌아왔다! 술탄은 독일인들을 지원해야 한다!"
-gerfor.52.b:0 "이번에 독일인들은 홀로 헤쳐 나가야 할 것이다!"
-gerfor.52.c:0 "물자와 자원병을 보내라"
-
 gerfor.53.t:0 "생디칼리스트에 대항하는 독일에 지원?"
 gerfor.53.d:0 "독일이 생디칼리슴에 대항하는 그들의 전쟁에 가담하길 요청하고 있습니다. 나라 안의 보수파는 생디칼리슴으로부터 유럽을 지키기 위한 신성한 의무를 이야기하고 있습니다만, 다른 이들은 독일의 전쟁에서 억지로 싸워서는 안된다고 말하고 있습니다."
 gerfor.53.a:0 "우리는 독일인들에게 모든 것을 빚졌다. 이제 우리가 빚을 갚을 차례다!"
@@ -1340,10 +1335,6 @@ gerfor.53.c:0 "물자와 자원병을 보내라."
 gerfor.54.t:0 "오스트리아가 이 전쟁에서 우리의 동맹이 되다!"
 gerfor.54.d:0 "오스트리아가 도움을 바라는 우리의 청원을 듣고 동맹에 참가할 것을 결정했습니다! 라이히스팍트가 더 강해졌으니, 생디칼리스트들은 우리를 박살낼 수 없을 것입니다!"
 gerfor.54.a:0 "라이히스팍트에 어서와라! "
-
-gerfor.55.t:0 "오스만 제국이 이 전쟁에서 우리의 동맹이 되다!"
-gerfor.55.d:0 "오스만 제국이 도움을 바라는 우리의 청원을 듣고 동맹에 참가할 것을 결정했습니다! 라이히스팍트가 더 강해졌으니, 생디칼리스트들은 우리를 박살낼 수 없을 것입니다!"
-gerfor.55.a:0 "라이히스팍트에 어서와라!"
 
 gerfor.56.t:0 "불가리아가 이 전쟁에서 우리의 동맹이 되다"
 gerfor.56.d:0 "불가리아가 도움을 바라는 우리의 청원을 듣고 동맹에 참가할 것을 결정했습니다! 라이히스팍트가 더 강해졌으니, 생디칼리스트들은 우리를 박살낼 수 없을 것 입니다!"

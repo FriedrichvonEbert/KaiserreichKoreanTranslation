@@ -231,7 +231,7 @@ CAN_not_winning_ACW:0 "다른 내전 국가들보다 많은 주를 통제하지 
 CAN_will_intervene_ACW:0 "§Y[CAN.GetNameDef]§!(이)가 미국 내전에서 한쪽 편을 들고 개입했습니다"
 CAN_has_refugee_crisis:0 "§Y[CAN.GetNameDef]§!(이)가 난민 위기로 고통을 겪고 있습니다"
 CAN_recruit_based_on_ref:0 "추가되는 인력은 얼마나 많은 난민 수용소가 존재하는지, 그리고 난민들이 얼마나 잘 대우받았느냐에 달려 있습니다.\n"
-CAN_CSA_is_winning_ACW:0 "§Y[CSA.GetName]§!의 항복률이 20% 미만이고 25개 주를 통제하고 있어야 합니다"
+CAN_CSA_is_winning_ACW:0 "§Y[CSA.GetName]§!의 항복률이 20% 미만이고 20개 주를 통제하고 있어야 함 (또한 통제 중인 주가 어떠한 내전 세력보다도 많아야 함)"
 CAN_joined_the_ACW:0 "캐나다가 미국 내전에 개입했습니다"
 CAN_supported_during_ACW:0 "§Y[CAN.GetNameDef]§!(이)가 미국 내전에 그들의 편으로 개입했습니다"
 CAN_returned_land:0 "§Y[CAN.GetNameDef]§!(이)가 전후 영토를 반환했습니다 (내전 시작시점에 점유된 알래스카나 뉴잉글랜드는 포함되지 않습니다)"
