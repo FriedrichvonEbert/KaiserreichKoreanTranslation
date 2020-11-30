@@ -72,13 +72,10 @@ HAW_light_cruiser_arrives_tooltip:0 "우리가 구매한 경순양함이 도착�
 JAP_hold_hawaii:0 "Maintain Control of Hawaii"
 JAP_hold_hawaii_desc:0 "With the Hawaiian defences shattered, and the islands fully under our control, it's just a matter of time until their allies give up the fight. However, we must hold the islands against any possible counterattacks, lest their recovery embolden their resistance against us."
 
-HAW_foreign_policy_decisions:0 "대외정책 결정"
+HAW_foreign_policy_decisions:0 "대외정책"
 HAW_foreign_policy_decisions_desc:0 "우리는 태평양 한가운데서 적들에게 둘러싸여 있습니다. 우리가 살아남으려면 우리는 강대국과 협력해야 할 것입니다. 문제는 누구와 협력하는가 입니다."
-HAW_join_entente:0 "협상국 가입"
-HAW_join_loas:0 "미주연맹 가입"
-HAW_join_international:0 "인터내셔널 가입"
-HAW_join_germany:0 "라이히스팍트 가입"
-HAW_join_japan:0 "공영권 가입"
+HAW_join_faction:0 "[From.GetFactionName] 참여"
+HAW_seeking_alliance:0 "Ongoing diplomatic efforts"
 
 HAW_economic_decisions:0 "경제정책 결정"
 HAW_economic_decisions_desc:0 "우리는 산업이 발전하지 못한 작은 섬나라입니다. 우리 경제를 부흥시키려면 정부 지원과 섬에 대한 투자를 위해 외국인들을 끌어모아야합니다."
@@ -543,50 +540,14 @@ hawaii.99.a:0 "Another ship for our fleet"
 
 ### Foreign Events ###
 
-hawaii.101.t:0 "[From.GetNameDefCap]에서 협상국에 참여하길 원하다"
-hawaii.101.d:0 "[From.GetNameDefCap], have sent an ambassador to meet with the King and the Prime Minister in order to bring [From.GetNameDefCap] into the Entente. Should we accept the Hawaiians offer?"
-hawaii.101.a:0 "아무렴, 가입을 허가하라."
+hawaii.101.t:0 "[From.GetNameDefCap]에서 [Root.GetFactionName]에 참여하길 원하다"
+hawaii.101.d:0 "[From.GetNameDefCap], have sent an ambassador to meet with our government in order to bring [From.GetNameDefCap] into the [Root.GetFactionName]. Should we accept the Hawaiians' offer?"
+hawaii.101.a:0 "아무렴, 가입을 허가하라!"
 hawaii.101.b:0 "우리에게 하와이는 필요없다."
 
-hawaii.102.t:0 "캐나다가 거절하다"
-hawaii.102.d:0 "The [From.GetAdjective] government has refused our request to join their alliance. Perhaps we are not good enough for their measure, or unworthy as an ally. Either way, the answer was clearly no."
-hawaii.102.a:0 "망할 캐나다놈 같으니."
-
-hawaii.103.t:0 "[From.GetNameDefCap]에서 미주연맹에 참여하길 원하다"
-hawaii.103.d:0 "[From.GetNameDefCap], have sent an ambassador to meet with the President in order to bring [From.GetNameDefCap] into the League of American of States. Should we accept the Hawaiians offer?"
-hawaii.103.a:0 "아무렴, 가입을 허가하라."
-hawaii.103.b:0 "우리에게 하와이는 필요없다."
-
-hawaii.104.t:0 "미국이 거절하다"
-hawaii.104.d:0 "The [From.GetAdjective] government has refused our request to join their alliance. Perhaps we are not good enough for their measure, or unworthy as an ally. Either way, the answer was clearly no."
-hawaii.104.a:0 "망할 미국놈 같으니."
-
-hawaii.105.t:0 "[From.GetNameDefCap]에서 인터내셔널에 참여하길 원하다"
-hawaii.105.d:0 "[From.GetNameDefCap], have sent an ambassador to meet with the President in order to bring [From.GetNameDefCap] into the International. Should we accept the Hawaiians offer?"
-hawaii.105.a:0 "아무렴, 가입을 허가하라."
-hawaii.105.b:0 "우리에게 하와이는 필요없다."
-
-hawaii.106.t:0 "프랑스가 거절하다"
-hawaii.106.d:0 "The [From.GetAdjective] government has refused our request to join their alliance. Perhaps we are not good enough for their measure, or unworthy as an ally. Either way, the answer was clearly no."
-hawaii.106.a:0 "망할 프랑스놈 같으니."
-
-hawaii.107.t:0 "[From.GetNameDefCap]에서 라이히스팍트에 참여하길 원하다"
-hawaii.107.d:0 "[From.GetNameDefCap], have sent an ambassador to meet with the Kaiser and the chancellor in order to bring [From.GetNameDefCap] into the Reichspakt. Should we accept the Hawaiians offer?"
-hawaii.107.a:0 "아무렴, 가입을 허가하라."
-hawaii.107.b:0 "우리에게 하와이는 필요없다."
-
-hawaii.108.t:0 "독일이 거절하다"
-hawaii.108.d:0 "The [From.GetAdjective] government has refused our request to join their alliance. Perhaps we are not good enough for their measure, or unworthy as an ally. Either way, the answer was clearly no."
-hawaii.108.a:0 "망할 독일놈 같으니."
-
-hawaii.109.t:0 "[From.GetNameDefCap]에서 공영권에 참여하길 원하다"
-hawaii.109.d:0 "[From.GetNameDefCap], have sent an ambassador to meet with the President in order to bring [From.GetNameDefCap] into the Greater East Asian Co-Prosperity Sphere. Should we accept the Hawaiians offer?"
-hawaii.109.a:0 "아무렴, 가입을 허가하라."
-hawaii.109.b:0 "우리에게 하와이는 필요없다."
-
-hawaii.110.t:0 "일본이 거절하다"
-hawaii.110.d:0 "The [From.GetAdjective] government has refused our request to join their alliance. Perhaps we are not good enough for their measure, or unworthy as an ally. Either way, the answer was clearly no."
-hawaii.110.a:0 "망할 일본놈 같으니."
+hawaii.102.t:0 "[From.GetNameDefCap]에서 거절하다"
+hawaii.102.d:0 "The [From.GetAdjective] government has refused our request to join the [From.GetFactionName]. Perhaps we are not good enough for their measure, or unworthy as an ally. Either way, the answer was clearly no."
+hawaii.102.a:0 "빌어먹을."
 
 hawaii.111.t:0 "[JAP.GetNameDef] 측과의 평화협상?"
 hawaii.111.d:0 "Hawaii has been lost to the Japanese war machine, and six months have passed without any inroads into recovering the islands. Perhaps it would be better to cut our losses and seek peace with [JAP.GetNameDef] - surely tiny Hawaii isn't worth the costs of this war?"

@@ -703,19 +703,21 @@ chi_for.7.t:0 "전쟁을 준비하는 국민당"
 chi_for.7.d:0 "[CHI.GetNameDef] 국경에서 [CHI.GetNameDef](이)가 병력을 상당히 증강했다는 보고가 올라왔습니다. 우리 군 기지 근처에서 의심스러운 활동이 있었다는 보고와 막사 근처에서 선전 전단이 나온 것은 국민당 비밀요원들이 우리의 수비를 약화시키고 있다는 신호일 수도 있습니다. 그들은 가까운 장래에 침략할 계획을 세우고 있는 것 같습니다."
 chi_for.7.a:0 "We must brace for the worst!"
 
-chi_for.8.t:0 "안국전쟁" # CHI side
-chi_for.8.d1:0 "지금까지 [ANQ.GetLeader]의 난징 정권에 대한 반란과 우리의 봉기는 서로 직접 대결하는 것을 피했습니다. 그러나 이 불안한 휴전은 결코 현상유지를 의미하는 것은 아니었고, 이제 공식적으로 전쟁이 발발했습니다. 우리의 국가혁명의 목표가 [ANQ.GetName](와)과 직접 충돌하고 있기 때문 전쟁의 확대는 불가피하고 환영할 만합니다." # ANQ has no allies
-chi_for.8.d2:0 "지금까지 [ANQ.GetLeader]의 난징 정권에 대한 반란과 우리의 봉기는 서로 직접 대결하는 것을 피했습니다. 그러나 이 불안한 휴전은 결코 현상유지를 의미하는 것은 아니었고, 이제 공식적으로 전쟁이 발발했습니다.\n\n[ANQ.GetName](은)는 [FNG.GetNameDef](와)과 동맹 관계이며 우리 군은 [FNG.GetNameDef], 그리고 그들의 지배국인 일본 제국의 추가적인 반대에 대처해야 할 것입니다." # ANQ allied with FNG
-chi_for.8.d3:0 "지금까지 [ANQ.GetLeader]의 난징 정권에 대한 반란과 우리의 봉기는 서로 직접 대결하는 것을 피했습니다. 그러나 이 불안한 휴전은 결코 현상유지를 의미하는 것은 아니었고, 이제 공식적으로 전쟁이 발발했습니다.\n\n[QIE.GetNameDef]의 개입과 함께 우리 군은 직예군벌 전체와 옛 황실의 추가적인 반대에 대체해야 합니다. 길고 피비린내 나는 혁명전쟁이 눈앞에 펼쳐져 있습니다." # ANQ allied with QIE
-chi_for.8.a:0 "Divide and conquer." # ANQ has no allies
-chi_for.8.b:0 "We're now also fighting Japanese Imperialism?" # ANQ allied with FNG
-chi_for.8.c:0 "We'll break the Qing allies!" # ANQ allied with QIE
+chi_for.8.t:0 "Border Skirmishes Between [ANQ.GetName] and [CHI.GetNameDef]" # CHI side
+#chi_for.8.d1:0 "지금까지 [ANQ.GetLeader]의 난징 정권에 대한 반란과 우리의 봉기는 서로 직접 대결하는 것을 피했습니다. 그러나 이 불안한 휴전은 결코 현상유지를 의미하는 것은 아니었고, and now local conflicts have arisen with NRA and Anqing forces engaging each other.\n\nAs our goals of National Revolution are in direct conflict with [ANQ.GetName] warlordry, many within the central committee believe the broadening of the war in the Five Provinces is inevitable and welcome it. Some groups within the NRA have spoken against this arguing that a delay in the conflict will give us better time to prepare." # ANQ has no allies
+chi_for.8.d1:0 "지금까지 [ANQ.GetLeader]의 난징 정권에 대한 반란과 우리의 봉기는 서로 직접 대결하는 것을 피했습니다. 그러나 이 불안한 휴전은 결코 현상유지를 의미하는 것은 아니었고, and now local conflicts have arisen with NRA and Anqing forces engaging each other.\n\nAs our goals of National Revolution are in direct conflict with [ANQ.GetName] warlordry, many within the central committee believe the broadening of the war in the Five Provinces is inevitable and welcome it. Some groups within the NRA have spoken against this arguing that the Fengtian Expeditionary Forces will smash the weakend NRA and the revolution would fall into the hands of the Fengtian Govenment and fail at last." # ANQ allied with FNG
+chi_for.8.d2:0 "지금까지 [ANQ.GetLeader]의 난징 정권에 대한 반란과 우리의 봉기는 서로 직접 대결하는 것을 피했습니다. 그러나 이 불안한 휴전은 결코 현상유지를 의미하는 것은 아니었고, and now local conflicts have arisen with NRA and Anqing forces engaging each other.\n\nAs our goals of National Revolution are in direct conflict with [ANQ.GetName] warlordry, many within the central committee believe the broadening of the war in the Five Provinces is inevitable and welcome it. Some groups within the NRA have spoken against this arguing that the Zhilli Clique in the north will smash the weakend NRA and the revolution would soon fail to fulfil the goal of the Wuhan uprising and burn out at last." # ANQ allied with QIE
+#chi_for.8.a:0 "Divide and conquer." # ANQ has no allies
+chi_for.8.a:0 "We're now also fighting Japanese Imperialism?" # ANQ allied with FNG
+chi_for.8.b:0 "We'll break the Qing allies!" # ANQ allied with QIE
+chi_for.8.c:0 "Peace will prevail, for now..." # Peace
 
-chi_for.9.t:0 "안국전쟁" # ANQ side
-chi_for.9.d1:0 "지금까지 [CHI.GetLeader]의 난징 정권에 대한 반란과 우리의 봉기는 서로 직접 대결하는 것을 피했습니다. 그러나 이 불안한 휴전은 결코 현상유지를 의미하는 것은 아니었고, 이제 공식적으로 전쟁이 발발했습니다. 5개 성에서 평화를 회복하려는 우리의 목표가 그들의 소위 /"국민혁명/"과 정면으로 충돌하고 있기 때문에, 우리의 투쟁의 확대는 불가피했습니다." # ANQ has no allies
-chi_for.9.d2:0 "지금까지 [CHI.GetLeader]의 난징 정권에 대한 반란과 우리의 봉기는 서로 직접 대결하는 것을 피했습니다. 그러나 이 불안한 휴전은 결코 현상유지를 의미하는 것은 아니었고, 이제 공식적으로 전쟁이 발발했습니다.\n\n[FNG.GetNameDef]의 지원을 받아 해안 지역을 확보할 수 있다면 국민당을 상대로 약간의 물적 우위를 가질 수 있게 될 것입니다." # ANQ allied with FNG
-chi_for.9.d3:0 "지금까지 [CHI.GetLeader]의 난징 정권에 대한 반란과 우리의 봉기는 서로 직접 대결하는 것을 피했습니다. 그러나 이 불안한 휴전은 결코 현상유지를 의미하는 것은 아니었고, 이제 공식적으로 전쟁이 발발했습니다.\n\n[QIE.GetNameDef]의 개입으로 우리 군은 [LEP.GetLeaderDef], [CHI.GetLeaderDef](와)과의 싸움에서 숨통이 트였습니다. 하지만 그럼에도 힘든 싸움이 될 것입니다." # ANQ allied with QIE
-chi_for.9.a:0 "Onwards!"
+chi_for.9.t:0 "War between [ANQ.GetName] and [CHI.GetNameDef]" # ANQ side
+#chi_for.9.d1:0 "지금까지 [CHI.GetLeader]의 난징 정권에 대한 반란과 우리의 봉기는 서로 직접 대결하는 것을 피했습니다. 그러나 이 불안한 휴전은 결코 현상유지를 의미하는 것은 아니었고, 이제 공식적으로 전쟁이 발발했습니다. 5개 성에서 평화를 회복하려는 우리의 목표가 그들의 소위 /"국민혁명/"과 정면으로 충돌하고 있기 때문에, 우리의 투쟁의 확대는 불가피했습니다." # ANQ has no allies
+chi_for.9.d1:0 "지금까지 [CHI.GetLeader]의 난징 정권에 대한 반란과 우리의 봉기는 서로 직접 대결하는 것을 피했습니다. 그러나 이 불안한 휴전은 결코 현상유지를 의미하는 것은 아니었고, 이제 공식적으로 전쟁이 발발했습니다.\n\n[FNG.GetNameDef]의 지원을 받아 해안 지역을 확보할 수 있다면 국민당을 상대로 약간의 물적 우위를 가질 수 있게 될 것입니다." # ANQ allied with FNG
+chi_for.9.d2:0 "지금까지 [CHI.GetLeader]의 난징 정권에 대한 반란과 우리의 봉기는 서로 직접 대결하는 것을 피했습니다. 그러나 이 불안한 휴전은 결코 현상유지를 의미하는 것은 아니었고, 이제 공식적으로 전쟁이 발발했습니다.\n\n[QIE.GetNameDef]의 개입으로 우리 군은 [LEP.GetLeaderDef], [CHI.GetLeaderDef](와)과의 싸움에서 숨통이 트였습니다. 하지만 그럼에도 힘든 싸움이 될 것입니다." # ANQ allied with QIE
+chi_for.9.a:0 "[FNG.GetLeader] will bring order to China!"
+chi_for.9.b:0 "[QIE.GetLeader] will bring order to China!"
 
 chi_for.10.t:0 "[LEP.GetName]의 패배"
 chi_for.10.d1:0 "남은 [LEP.GetAdjective] 군의 항복과 함께, 우리는 마침내 동부 5성을 둔 경쟁에서 경쟁국 하나를 탈락시켰으며 이 지역을 확보하기 위한 중요한 첫걸음을 달성했습니다.\n\n우리의 다음 우선순위는 [ANQ.GetNameDef](와)과의 분쟁을 끝내 동부지방의 평화를 구축하는 것입니다."
@@ -988,6 +990,18 @@ chi_for.64.a:0 "Twice the pride, double the fall"
 chi_for.65.t:0 "Yan Refuses Our Offer"
 chi_for.65.d:0 "The unexpected has happened as Yan Xishan has decided to stick with the enemy. Not only is this bad due to the fact our enemies front stays as strong as it was before but it also means our enemy is most likely stronger due to the fact Yan always picks the winning side. Nevertheless we must endure these trials and Yan will pay for his treason soon enough."
 chi_for.65.a:0 "Twice the pride, double the fall"
+
+chi_for.66.t:0 "Border Skirmishes Between [SQI.GetName] and [CHI.GetNameDef]"
+chi_for.66.d1:0 "Up until now, [SQI.GetLeader]'s intervention against the Nanjing regime and our own uprising have avoided directly confronting each other. However, now our lines have met local conflicts have arisen with NRA and Shandong forces engaging each other.\n\nAs our goals of National Revolution are in direct conflict with [SQI.GetName] fanatacism, many within the central committee believe the broadening of the war in the Five Provinces is inevitable and welcome it. Some groups within the NRA have spoken against this arguing that the Yiguandao might actually be worth cooperating with but this may be falling on deaf ears." # Zhang Tianran
+chi_for.66.d2:0 "Up until now, [SQI.GetLeader]'s intervention against the Nanjing regime and our own uprising have avoided directly confronting each other. However, now our lines have met local conflicts have arisen with NRA and Shandong forces engaging each other.\n\nAs our goals of National Revolution are in direct conflict with [SQI.GetName] warlordry, many within the central committee believe the broadening of the war in the Five Provinces is inevitable and welcome it. Some groups within the NRA have spoken against this arguing that Zongchangs forces are superior due to Fengtian backing, still conflict with him is inevitable." # Zhang Zongchang
+chi_for.66.a:0 "We'll send them running north"
+chi_for.66.b:0 "Peace will prevail, for now..." 
+
+chi_for.67.t:0 "War between [SQI.GetName] and [CHI.GetNameDef]"
+chi_for.67.d:0 "Up until now, [CHI.GetLeader]'s revolt against the Nanjing regime and our own uprising have avoided directly confronting each other. However, now our lines have met local conflicts have arisen with NRA and Shandong forces engaging each other.\n\nWith the assistance of [FNG.GetNameDef], our forces could have a slight material edge against the Nationalists, provided we are able to hold the coasts." 
+chi_for.67.a:0 "The dogmeat general will rule the southeast!"
+chi_for.67.b:0 "The Yiguandao will aid the peasants once the KMT are gone!"
+
 
 ##############################################
 ### Start of localisation done by Omanisch ###
@@ -1501,7 +1515,8 @@ CHI_dec_negotiate_with_SIK_tt:0 "Unlocks £decision_icon_small Decision: §YNego
 CHI_dec_negotiate_with_TIB_tt:0 "Unlocks £decision_icon_small Decision: §YNegotiate with @TIB [TIB.GetNameDef]§!\n"
 CHI_dec_negotiate_with_MON_tt:0 "Unlocks £decision_icon_small Decision: §YNegotiate with @MON [MON.GetNameDef]§!\n"
 CHI_dec_lose_factory_tt:0 "§RWe will lose a civilian factory in exchange for a dockyard§!"
-CHI_east_asian_league_category_tt:0 "Unlocks £decision_icon_small §YEast Asian Diplomacy§! Decisions\n"
+CHI_League_War_Attack_tt:0"§R[ANQ.GetNameDef] might attack in the near future..."
+CHI_League_War_Attack2_tt:0"§R[SQI.GetNameDef] might attack in the near future..."
 
 ### Country Names ###
 CHI_totalist:0 "중화민국"

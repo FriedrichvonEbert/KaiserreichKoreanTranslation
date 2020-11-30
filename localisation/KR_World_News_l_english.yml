@@ -1362,8 +1362,8 @@ worldnews.412.a:0 "위대한 업적이다!"
 worldnews.412.b:0 "우리는 준비해야 한다."
 worldnews.412.c:0 "흥미롭군."
 
-worldnews.413.t:0 "[FROM.GetLeader]의 중화민국 선언"
-worldnews.413.d:0 "Few things are certain in the twisting labyrinth of Chinese politics, but even renowned political analysts have utterly failed to predict the rise of [FROM.GetLeader] from the outlying provinces of China to the leader of the nation. Nevertheless, he has done it, and with Beijing and much of the North China Plain under his rule, as well as his heartland, he has a base of operations, substantial enough, perhaps, to fully reunify all of China. Western nations have already recognized the new Republic of China, and any remaining Chinese cliques are undoubtedly preparing for a new assault on their power."
+worldnews.413.t:0 "[FROM.GetLeader]의 [FROM.GetNameDef] 선언"
+worldnews.413.d:0 "Few things are certain in the twisting labyrinth of Chinese politics, but even renowned political analysts have utterly failed to predict the rise of [FROM.GetLeader] from the outlying provinces of China to the leader of the nation. Nevertheless, he has done it, and with Beijing and much of the North China Plain under his rule, as well as his heartland, he has a base of operations, substantial enough, perhaps, to fully reunify all of China. Western nations have already recognized the new [FROM.GetNameDef], and any remaining Chinese cliques are undoubtedly preparing for a new assault on their power."
 worldnews.413.a:0 "중국의 나머지 지역도 곧 우리 것이 될 것이다!"
 worldnews.413.b:0 "우리는 새로운 맹공에 대비해야 한다."
 worldnews.413.c:0 "축하하오, [FROM.GetLeader]!"
@@ -1405,7 +1405,7 @@ worldnews.425.d:0 "Home of the First Arab Revolt under Sharif Hussein bin Ali, t
 worldnews.425.a:0 "이번에는 그들이 더 성공하기를 바란다."
 
 worldnews.426.t:0 "대 시리아 반란"
-worldnews.426.d:0 "Buckled under Turkish rule, the Arab people of Greater Syria have finally decided to throw of the yoke and have joined their Arab brethren in Cairo. Fighting for the liberation of the Mashriq and the creation of a new, Arab, Middle East, Syrians from all religions and ethnic groups are uniting to rid themselves of Turkish rule.\n\nAmbitions of individual leaders and disagreements between the various partners of the Cairo Pact however may lead to issues should the common threat be dealt with as the ideas of Greater Syrian independence aren't compatible with Farouks designs of an Arab state ruled from Cairo."
+worldnews.426.d:0 "Buckled under Turkish rule, the Arab people of Greater Syria have finally decided to throw of the yoke and have joined their Arab brethren in Cairo. Fighting for the liberation of the Mashriq and the creation of a new, Arab, Middle East, Syrians from all religions and ethnic groups are uniting to rid themselves of Turkish rule.\n\nAmbitions of individual leaders and disagreements between the various partners of the Cairo Pact however may lead to issues should the common threat be dealt with as the ideas of Greater Syrian independence aren't compatible with Farouk's designs of an Arab state ruled from Cairo."
 worldnews.426.a:0 "오스만 정부에 또 한 방 먹였군."
 
 worldnews.427.t:0 "오스만 반혁명"
@@ -1437,8 +1437,8 @@ worldnews.433.t:0 "권력을 장악한 무스타파 케말"
 worldnews.433.d:0 "오스만 대의회에서 끊임없는 언쟁으로 진저리가 나고 보수주의자와 군주주의자의 반대로 자주 방해받은 대재상은 최근 국내 사건들을 이용해 대재상을 중심으로 권력을 집중했습니다. 큰 위기에 처했을 때 발령된 '공공질서 유지령'은 이미 '국가의 적들'과 '오스만을 지켜라'를 선고하기 위한 각종 재판소를 만들도록 했습니다.\n\n많은 사람이 그의 진정한 동기에 의문을 품지만, 그가 군의 전폭적인 지원을 받고 있다는 것은 분명하며, 성공적인 반쿠데타의 가능성을 크게 제한하고 있습니다..."
 worldnews.433.a:0 "1913년으로 돌아가려는 건가?"
 
-worldnews.434.t:0 "총에 맞은 무스타파 케말!"
-worldnews.434.d:0 "Grand Vizier and celebrated war hero, the leader of the OHF Mustafa Kemal Pasha was shot earlier today in Izmir when speaking to a massive crowd gathered to celebrate his recent reforms. The lone gunman, of Armenian descent, seems to have had as immediate motive revenge for the loss of his family during the Armenian genocide but many observers are suspecting the hand of former Special Organisation members in the plot, likely looking to weaken the OHF and guide the party back to its past line of Islamism and strict nationalism."
+worldnews.434.t:0 "무스타파 케말이 저격당하다!"
+worldnews.434.d:0 "Grand Vizier and celebrated war hero, the leader of the OHF Mustafa Kemal Pasha was shot earlier today in Izmir when speaking to a massive crowd gathered to celebrate his recent reforms. The lone gunman, of Armenian descent, seems to have had as immediate motive revenge for the loss of his family during the Armenian massacres but many observers are suspecting the hand of former Special Organisation members in the plot, likely looking to weaken the OHF and guide the party back to its past line of Islamism and strict nationalism."
 worldnews.434.a:0 "The entire Ottoman Empire holds its breath for the future..."
 
 worldnews.435.t:0 "Fevzi Çakmak Seizes Power"
@@ -1493,9 +1493,9 @@ worldnews.445.c:0 "He should have seen it coming"
 
 worldnews.446.t:0 "버텨낸 원수"
 worldnews.446.d:0 "몇 달간의 소란, 격렬한 논쟁, 항의 등 모든 역경에도 불구하고 망명 중인 프랑스 공화국에서 모든 것이 정상으로 돌아온 것처럼 느껴집니다. 필리프 페탱 원수의 얄팍한 군사정권의 합법성은 족벌주의와 부패에 대한 비난들로 약화되었고, 권력을 그의 손으로 집중시키려는 시도는 그를 향한 긴 불만 목록에 폭정에 대한 비난을 추가하게 했습니다. 그럼에도 '베르덩의 사자'는 버텼는데, 이는 상류층의 지지를 완전히 확보하고, 국민들의 존경을 다시 불러일으키고, 공화국을 괴롭히는 불안을 진정시키기 위한 것으로, 모두 수수께끼의 프랑스 부활 단체가 그에게 준 광대한 지원 덕분이었습니다. 국내 전선이 안전한 가운데, 페탱은 프랑스 본토 수복을 위한 투쟁에 잘 대비하기 위해 광범위한 개혁이 시행될 것이라고 발표했습니다."
-worldnews.446.a:0 "가면이 벗겨졌군"
+worldnews.446.a:0 "가면이 벗겨졌군."
 worldnews.446.b:0 "군정은 일시적인 것이 아니었나?"
-worldnews.446.c:0 "프랑스는 항상 강력한 통치가 필요하다"
+worldnews.446.c:0 "프랑스는 항상 강력한 통치가 필요하다."
 
 worldnews.447.t:0 "망명 프랑스의 승리"
 worldnews.447.d:0 "After two decades, the fires of revolution have once and for all been extinguished. Despite overwhelming odds the French exiles have successfully retaken the Métropole. Thanks to the cooperation of their allies and an incredible national mobilisation effort, they have outmaneuvered those who stood in their way. Immense celebrations are being planned, particularly in Paris where a parade on the Champs-Élysées for troops of the whole Entente will take place. However, the French people remain deeply divided: some welcome the exiles as liberators, others lament the fall of the Commune, and most are simply in shock, exhausted by the war, their lives upended for the second time in a generation: this civil war is only nominally over, the wounds it opened will take many years to heal."

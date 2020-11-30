@@ -93,6 +93,8 @@ custom_diff_strong_fra:0 "£KR_game_rule_flag_FRA   프랑스 코뮌 강화"
 custom_diff_strong_eng:0 "£KR_game_rule_flag_ENG   브리튼 연방 강화"
 custom_diff_strong_jap:0 "£KR_game_rule_flag_JAP   일본 제국 강화"
 custom_diff_strong_usa:0 "£KR_game_rule_flag_USA   미합중국 강화"
+custom_diff_strong_ott:0 "£KR_game_rule_flag_OTT   오스만 제국 강화"
+
 
 ### ideas_l_english
 government:0 "법률"

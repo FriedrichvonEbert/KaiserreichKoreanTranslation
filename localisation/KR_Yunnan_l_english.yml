@@ -108,6 +108,7 @@ YUN_Left_KMT_dead_end:0 "§R우리는 국민당 좌파의 잔당이 결집하도
 Zhu_De_READY:0 "§R우리는 국민당 내부 분쟁을 해결했습니다.§!"
 YUN_TT_time_has_run_out:0 "§R막장에 치닫은 상황을 뜯어 고칠 시간입니다!§!"
 YUN_join_Federalist:0 "§G우리는 [?YUN_federalist_target.GetCliqueShortName]과 연합해 중화합중국을 형성할 것이다!§!"
+YUN_let_the_games_begin:0 "Tang Jiyao has been overthrown"
 
 ### Opinion Modifiers ###
 YUN_trade_partners:0 "무역 상대"

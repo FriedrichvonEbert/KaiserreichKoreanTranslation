@@ -159,6 +159,7 @@ SER_The_Serbian_Airforce_tooltip_RUS:0 "§H$SER_russian_aerial_expertise$§!와 
 SER_The_Serbian_Airforce_tooltip_NFA:0 "§H$SER_french_aerial_expertise$§!와 §H$SER_local_designs_idea$§!를 §H$SER_airforce_idea$§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
 
 SER_the_dream_of_yugoslavia_tooltip:0 "다음의 효과를 가지는 §H$SER_the_dream_of_yugoslavia$§! 국민 정신을 획득합니다\n매일 정치력 획득: [?0.25|-=]\n§H[AUS.GetNameDefCap]§!:\n     해당 국가에 대한 공격력 보너스: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]\n§H[CRO.GetNameDefCap]§!:\n     Attack bonus against country: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]\n§H[HUN.GetNameDefCap]§!:\n     해당 국가에 대한 공격력 보너스: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]"
+SER_the_dream_of_yugoslavia_tooltip_no_AUS:0 "Gains National Spirit §H$SER_the_dream_of_yugoslavia$§!, which grants\nDaily Political Power Cost: [?0.25|-=]\nDivision Limit: [?12|+=0]\n§H[CRO.GetNameDefCap]§!:\n     Attack bonus against country: [?0.1|+=%1]\n     Defence bonus against country: [?0.1|+=%1]\n§H[HUN.GetNameDefCap]§!:\n     Attack bonus against country: [?0.1|+=%1]\n     Defence bonus against country: [?0.1|+=%1]"
 SER_The_Dream_Fulfilled_tooltip:0 "§H$SER_the_dream_of_yugoslavia$§! 변동치\n매일 정치력 획득: [?0.35|+=]\n사단 회복률: [?0.05|+=%1]\n안정도: [?0.05|+=%]"
 
 SER_has_black_monday:0 "§H$SER_black_monday$§! 국민정신을 가짐"
