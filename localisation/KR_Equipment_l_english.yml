@@ -11392,18 +11392,18 @@ TRI_modern_tank_equipment_1_short:0 "A44 'Brock'"
 ###
 
 ### Land ###
-TRK_infantry_equipment_0:0 "Vintovka Mosina obr.1891"
-TRK_infantry_equipment_0_short:0 "Mosina 1891"
+TRK_infantry_equipment_0:0 "1891년형 모신 소총"
+TRK_infantry_equipment_0_short:0 "M1891"
 
 ###
 ### Transamur ###
 ###
 
 ### Land ###
-TRM_infantry_equipment_0:0 "Vintovka Mosina obr.1891"
-TRM_infantry_equipment_0_short:0 "Mosina 1891"
-TRM_infantry_equipment_1:0 "Arisaka Type 99"
-TRM_infantry_equipment_1_short:0 "Type 99"
+TRM_infantry_equipment_0:0 "1891년형 모신 소총"
+TRM_infantry_equipment_0_short:0 "M1891"
+TRM_infantry_equipment_1:0 "아리사카 99식"
+TRM_infantry_equipment_1_short:0 "99식"
 
 TRM_gw_tank_equipment:0 "르노 FT"
 TRM_gw_tank_equipment_short:0 "FT"
