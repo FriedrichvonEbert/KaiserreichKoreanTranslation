@@ -10,11 +10,11 @@ POLITICS_WOJ_DESC:0 "체코슬로바키아 군단의 지도자이자 러시아 �
 POLITICS_SEMYONOV_DESC:0 "바이칼 코사크의 아타만인 세묘노프와 그의 자식들은 러시아 극동을 휘젓고 다니는 볼셰비키들과 싸우기 위해 현재 트란스아무르로 알려진 트란스바이칼국을 가까스로 설립했습니다. 그러나 이 신생국은 곧 일본에 예속되고 맙니다. 1925년에 쿠데타에 실패한 사기꾼 콜차크가 러시아를 떠나 트란스아무르로 향했을 때, 세묘노프는 어쩔 수 없이 지도직을 사임하고 군 통수권자로서의 역할을 이어나갔습니다. 그러나 소위 '국부'는 정치적 영향력을 행사하며 가까스로 지도직에 복귀하게 됩니다. 세모노프의 유일한 목표는 트란스아무르의 번영이며, 이 목표를 이루기 위해서 그는 불확실한 전쟁을 꺼립니다."
 
 ### Leader Traits ###
-TRM_shaky_rule:0 "흔들리는 지도력 \n§g 콜차크 정권은 지지자들 보다는 반대파들이 더 많습니다. 진보주의자들은 콜차크를 공개적으로 비난하고 있고, 심지어 그의 밑에서 일하는 장군들조차 믿을 수 없는 상태입니다. 게다가 콜차크를 전복시키기 위해 쿠데타를 일으킬 가능성도 항상 존재하고 있습니다.§!"
+TRM_shaky_rule:0 "흔들리는 지도력 \n§g 콜차크 정권은 지지자들보다는 반대파들이 더 많습니다. 진보주의자들은 콜차크를 공개적으로 비난하고 있고, 심지어 그의 밑에서 일하는 장군들조차 믿을 수 없는 상태입니다. 게다가 콜차크를 전복시키기 위해 쿠데타를 일으킬 가능성도 항상 존재하고 있습니다.§!"
 
 ### Events ###
 tram.intro.t:0 "트란스아무르 - 주블라디보스토크 러시아 임시정부"
-tram.intro.d:0 "민주주의가 오래가지 못하는곳에 위치한 시베리아와 러시아 극동지역은 '체코 군단' 의 부상, 일본의 개입 등으로 러시아 내전 당시 분쟁의 주요 지역이었습니다. 독일군의 압력(그리고 코삭으로부터의 강력한 저항)으로 군대를 철수시키는 동안, 일본인들은 그들의 영향력 확대에 열심이었고, 1922년에 트란스아무르 지역에 독립국가의 설립을 추진하였습니다. 일본에 의한 독립국가의 설립이 경제적인 의존을 형성한다는 사실에도 불구하고도, 이러한 움직임은 블라디보스토크 경제 공동체의 지지를 얻었습니다. 그들의 대다수는 러시아를 괴롭히는 혼란에 더 깊이 빠져들 수 있는 다른 대안과 비교할 때, 동양의 부상하는 세력과의 경제 및 외교 관계구축을 중요한 이점으로 보았습니다. 이 신생 국가는 1925년, 통치권 장악에 실패한 후 러시아를 탈출할 수 밖에 없었던 내전의 백군들 중 하나이자 한때, 자칭 '전 러시아의 최고 지도자'인 콜차크 제독이라는 두드러진 인물을 얻었습니다. \n\n 1936년 트란스아무르 공화국은 기업주의와 군국주의 국가가 되었으며, 정치적, 경제적, 군사적으로 일본 제국의 손아귀에 있었습니다. 그럼에도 불구하고 콜차크는 자신의 야망을 가지고 있습니다. 그는 일본의 위세를 이용해 자신의 지배력을 확립하고, 시베리아를 넘어 러시아 전체를 아우르는 아주 위험한 게임을 할 수 있을까요?"
+tram.intro.d:0 "민주주의가 오래가지 못하는 곳에 위치한 시베리아와 러시아 극동지역은 '체코 군단'의 부상, 일본의 개입 등으로 러시아 내전 당시 분쟁의 주요 지역이었습니다. 독일군의 압력 (그리고 코삭으로부터의 강력한 저항)으로 군대를 철수시키는 동안, 일본인들은 그들의 영향력 확대를 열심히 해, 1922년에 트란스아무르 지역에 독립국가의 설립을 추진했습니다. 일본에 의한 독립국의 설립이 경제적인 의존을 형성한다는 사실에도 불구하고, 이러한 움직임은 블라디보스토크 경제 공동체의 지지를 얻었습니다. 그들의 대다수는 러시아를 괴롭히는 혼란에 더 깊이 빠져들 수 있는 다른 대안과 비교할 때, 동양의 부상하는 세력과의 경제 및 외교 관계구축을 중요한 이점으로 보았습니다. 이 신생 국가는 1925년, 통치권 장악에 실패한 후 러시아를 탈출할 수밖에 없었던 내전의 백군들 중 하나이자 한때, 자칭 '전러시아의 최고 지도자'인 콜차크 제독이라는 두드러진 인물을 얻었습니다. \n\n 1936년, 트란스아무르 공화국은 기업주의와 군국주의 국가가 되었으며, 정치적, 경제적, 군사적으로 일본 제국의 손아귀에 있었습니다. 그럼에도 불구하고 콜차크는 자신의 야망을 품고 있습니다. 그는 일본의 위세를 이용해 자신의 지배력을 확립하고, 시베리아를 넘어 러시아 전체를 아우르는 아주 위험한 게임을 할 수 있을까요?"
 tram.intro.a:0 "흥미롭군..."
 
 tram.1.t:0 "트란스아무르가 독립을 선언하다!"
@@ -101,7 +101,7 @@ tram.92.b:0 "자네 미친건가?"
 
 tram.93.t:0 "트란스아무르가 통일을 제안하다"
 tram.93.d:0 "트란스아무르의 배신자들이 마침내 그들의 행동에 대한 어리석음을 깨달은 것 같습니다. 그들의 비참한 국가는 일본과 전쟁 중이며 일본의 군대에 직면했을때 승리할 가망이 없어보입니다. 아마도 트란스아무르의 대표자들은 일본에 의한 정복은 피하고자 한 것 같습니다. 의심의 여지 없이 블라디보스토크는 중요한 항구입니다. 하지만, 우리는 도쿄와 맞설 준비가 되어있습니까?"
-tram.93.a:0 "고향 러시아에 돌아온걸 환영한다."
+tram.93.a:0 "고향 러시아에 돌아온 걸 환영한다."
 tram.93.b:0 "이건 너무 위험해..."
 
 tram.94.t:0 "트란스아무르가 러시아와 재결합하다"
@@ -141,7 +141,7 @@ tram.103.a:0 "그래, 그것을 제안하자!"
 tram.103.b:0 "현재 상황도 나쁘진 않은데..."
 
 tram.104.t:0 "하얼빈의 트란스아무르 화폐"
-tram.104.d:0 "트란스아무르는 동북지역 전체에서 러시아 인구를 가장 많이 보유하고 있는 하얼빈에서 우리 화폐(량)와 트란스아무르 화폐(루블)간 거래를 허용하자고 제안했습니다. 블라디보스토크 정부는 이러한 거래에 세금을 부과해도 된다고 말하고 있으며, 그러한 협정은 현지 러시아의 사업이 다양한 투자를 시작할 수 있어서 도시뿐만 아니라 지역의 산업 발전에 긍정적인 영향을 미칠 수 있다고 말하고 있습니다. 우리 정부 일각에선 트란스아무르 루블을 자유롭게 사용하면 하얼빈의 자치권이 늘어날 수 있다는 얘기가 나오고 있습니다."
+tram.104.d:0 "트란스아무르는 동북 지역 전체에서 러시아 인구를 가장 많이 보유하고 있는 하얼빈에서 우리 화폐(량)와 트란스아무르 화폐(루블)간 거래를 허용하자고 제안했습니다. 블라디보스토크 정부는 이러한 거래에 세금을 부과해도 된다고 말하고 있으며, 그러한 협정은 현지 러시아의 사업이 다양한 투자를 시작할 수 있어서 도시뿐만 아니라 지역의 산업 발전에 긍정적인 영향을 미칠 수 있다고 말하고 있습니다. 우리 정부 일각에선 트란스아무르 루블을 자유롭게 사용하면 하얼빈의 자치권이 늘어날 수 있다는 얘기가 나오고 있습니다."
 tram.104.a:0 "협정은 우리 경제에 도움이 될 것이다."
 tram.104.b:0 "우리에게 이 거래는 필요없다."
 
@@ -157,27 +157,27 @@ tram.120.c:0 "유명한 제독 게오르기 스타크.."
 
 tram.121.t:0 "블라디보스토크의 백군 망명자들"
 tram.121.d:0 "제2차 러시아 내전에서 붉은군대가 승리한 후, 적군은 내부의 적들을 공포에 떨게하기 시작했습니다. 과거의 백군과 그 지지자들은 볼셰비키에 대항하는 우리의 대의에 동참하기 위해 시베리아의 불안정함과 무정부 상태를 틈타서 러시아 본토에서 동부까지 가까스로 도망쳤다고 합니다. 교육받은 몇몇 장교들과 군인들은 그들의 능력과 재능을 제공하기 위해 우리를 찾아왔습니다. 그들이 가졌었던 정치적 위치와 상관없이, 우리는 함께 붉은 히드라를 공격해야 합니다!"
-tram.121.a:0 "고향에온걸 환영한다. 형제여!"
+tram.121.a:0 "고향에 온 걸 환영하네. 형제여!"
 
 tram.122.t:0 "더 많은 망명자가 트란스아무르에 도착하다"
-tram.122.d:0 "러시아 본토의 오랜 정치적 불안정으로 인해 시베리아 너머의 지역에서부터 무정부 상태가 되어가고 있습니다.  [RUS.Capital.GetName]의 정부가 서부지역의 불안정함을 가지고 있는 상황에서, 그들이 이 지역에 실질적인 힘을 발휘하기는 상당히 어렵습니다. 국민들은 지도자들에게 희망을 잃고 우리나라로 도망치고 있습니다. 점점 더 많은 난민과 망명자들이 우리의 대의에 동참하고 있습니다."
-tram.122.a:0 "고향에온걸 환영한다. 형제여!"
+tram.122.d:0 "러시아 본토의 오랜 정치적 불안정으로 인해 시베리아 너머의 지역에서부터 무정부 상태가 되어가고 있습니다.  [RUS.Capital.GetName]의 정부가 서부 지역의 불안정함을 가지고 있는 상황에서, 그들이 이 지역에 실질적인 힘을 발휘하기는 상당히 어렵습니다. 국민들은 지도자들에게 희망을 잃고 우리나라로 도망치고 있습니다. 점점 더 많은 난민과 망명자들이 우리의 대의에 동참하고 있습니다."
+tram.122.a:0 "고향에 온 걸 환영하네. 형제여!"
 
 tram.123.t:0 "선동자들을 시베리아로 보내다"
-tram.123.d:0 "러시아의 대통령, 케렌스키의 죽음으로 인해 러시아의 정치 상황은 최근 몇 년 동안보다도 혼란스럽습니다. 일부 장관들은 지금이 우리가 다시금 공세를 가할 수 있는 기회라고 믿고 있습니다. 먼저, 우리는 동부 시베리아 전역에 우리의 아젠다를 추진하기 위한 정부요원들을 보내는 것부터 시작해야 할 것입니다. 사람들이 우리의 말에 귀기울이면 우리와 함께 서부의 부패한 정권을 무너뜨리는데 동참할 것입니다."
+tram.123.d:0 "러시아의 대통령, 케렌스키의 죽음으로 인해 러시아의 정치 상황은 최근 몇 년 동안보다도 혼란스럽습니다. 일부 장관들은 지금이 우리가 다시금 공세를 가할 수 있는 기회라고 믿고 있습니다. 먼저, 우리는 동부 시베리아 전역에 우리의 아젠다를 추진하기 위한 정부요원들을 보내는 것부터 시작해야 할 것입니다. 사람들이 우리의 말에 귀 기울이면 우리와 함께 서부의 부패한 정권을 무너뜨리는 데 동참할 것입니다."
 tram.123.a:0 "선동자들을 보내라."
-tram.123.b:0 "너무 위험이 크다."
+tram.123.b:0 "너무 위험하다."
 
 tram.124.t:0 "선전활동의 결과"
 tram.124.goodagit:0 "보고에 의하면, 우리의 아젠다를 전파하기 위해 선동자들을 시베리아로 보낸 계획이 예상했던 것보다 훨씬 더 효과적이었다고 합니다. 많은 사람들이 무장하고 군사 훈련을 받았고, 우리를 위해 고향을 떠났습니다. 우리는 훌륭한 사단을 위한 추가 인력을 확보했습니다."
 tram.124.agit:0 "보고에 의하면, 우리의 아젠다를 전파하기 위해 선동자들을 시베리아로 보낸 계획이 그럭저럭 효과적이었다고 합니다. 일부 사람들이 무장하고 군사 훈련을 받았고, 우리를 위해 고향을 떠났습니다. 우리는 기존의 사단을 보강할 추가 인력을 확보했습니다."
 tram.124.badagit:0 "보고에 의하면, 우리의 아젠다를 전파하기 위해 선동자들을 시베리아로 보낸 계획이 실패했다고 합니다. 시베리아의 사람들은, 나라가 무정부 상태든지 아니든지 간에, 자신들의 삶을 버리고 절망적인 망상을 위해서 우리와 함께 하는것을 꺼려하는 것 같습니다. 우리는 시간과 자원을 낭비한 것 같습니다."
-tram.124.a:0 "고향에 온걸 환영한다. 형제여!"
-tram.124.b:0 "고향에 온걸 환영한다. 형제여!"
+tram.124.a:0 "고향에 온 걸 환영하네. 형제여!"
+tram.124.b:0 "고향에 온 걸 환영하네. 형제여!"
 tram.124.c:0 "우리는 어차피 그들이 필요없다..."
 
 tram.125.t:0 "우리의 오랜 친구가 세상을 떠나다"
-tram.125.d:0 "영국의 '유배된 왕' 조지 5세의 사망소식이 블라디보스토크에 도착했습니다. 콜차크의 협력자였던 조지 5세는 1925년 영국 혁명 이전까지 그의 안전을 보장했습니다. 이제 그의 아들, 에드워드 8세가 캐나다에서 왕위에 올랐습니다. 비록, 콜차크나 에드워드는 서로를 개인적으로 알지는 못하지만, 이러한 새로운 관계는 우리나라와 영국왕실 사이의 오랜 협력관계의 시작이 될 수도 있습니다. 협상을 위해 특사를 파견해야 합니다."
+tram.125.d:0 "영국의 '유배된 왕' 조지 5세의 사망 소식이 블라디보스토크에 도착했습니다. 콜차크의 협력자였던 조지 5세는 1925년 영국 혁명 이전까지 그의 안전을 보장했습니다. 이제 그의 아들, 에드워드 8세가 캐나다에서 왕위에 올랐습니다. 비록, 콜차크나 에드워드는 서로를 개인적으로 알지는 못하지만, 이러한 새로운 관계는 우리나라와 영국 왕실 사이의 오랜 협력관계의 시작이 될 수도 있습니다. 협상을 위해 특사를 파견해야 합니다."
 tram.125.a:0 "강력한 동맹은 언제나 좋다."
 
 tram.126.t:0 "트란스아무르에서의 특사"
@@ -190,8 +190,8 @@ tram.127.t:0 "에드워드 8세와의 협상 보고"
 tram.127.fullsupport:0 "우리의 특사가 훌륭한 소식과 함께 돌아왔습니다. 특사의 말에 따르면, 에드워드 8세는 우리의 대의에 깊은 존경을 표했으며, 국왕은 어느 정도의 군사적 지원을 기대해도 된다고 약속했습니다. 이제 협상국은 우리의 유력한 동반자가 된 것 같습니다."
 tram.127.partialsupport:0 "우리의 특사가 좋은 소식과 함께 돌아왔습니다. 특사의 말에 따르면, 에드워드 8세는 우리의 대의에 경의를 표했지만, 제한적인 지원만이 가능하며 완전한 지원은 불가능하다고 했습니다. 만족스럽지는 못하지만 협상국의 지원은 좋은일 입니다."
 tram.127.nosupport:0 "우리의 특사가 불행한 소식과 함께 돌아왔습니다. 특사의 말에 따르면, 에드워드 8세는 우리를 그저 영향력 지키기에 급급한 세력일 뿐이라고 잘못이해해선 단도직입적으로 말했습니다. 협상국은 아무런 지원도 약속하지 않았고, 우리의 관계는 확실히 악화되었습니다."
-tram.127.a:0 "공격목표는 [RUS.Capital.GetName](이)다!"
-tram.127.b:0 "없는것보단 낫지!"
+tram.127.a:0 "공격 목표는 [RUS.Capital.GetName](이)다!"
+tram.127.b:0 "없는 것보단 낫지!"
 tram.127.c:0 "정말 무례한 사람이군..."
 
 tram.128.t:0 "블라디보스토크 조약"
@@ -293,7 +293,7 @@ tram.1002.t:0 "The Entente Rejects Us"
 tram.1002.d:0 "The Entente clearly do not understand what we could do for their war effort. They have instead rejected us, citing the possibility of being drawn into a war with Germany."
 tram.1002.a:0 "Faithless friends!"
 
-tram.1004.t:0 "러시아 공화국이 우리의 위성국가중 하나를 침공하다"
+tram.1004.t:0 "러시아 공화국이 우리의 위성국가 중 하나를 침공하다"
 tram.1004.d:0 "Russia has recently come out of a second civil war where Transamur, of all factions, came out on top. This regime clearly thinks that since it took all of Russia it can retake Eastern Europe as well; what should we do towards these traitors?"
 tram.1004.a:0 "우리가 할 수 있는 건 없다."
 tram.1004.b:0 "그들에게 통상금지를 하자!"
@@ -356,235 +356,235 @@ TRM_modest_society_desc:0 "우리 나라는 마침내 안정을 되찾은 것 �
 TRM_ural_tractor_plants:0 "우랄 트랙터 공장"
 
 ### Focuses ###
-TRM_Continue_The_Militarisation:0 "Continue the Militarisation"
-TRM_Continue_The_Militarisation_desc:0 "For far too long have we relied on the Japanese for protection. We need our own army - but this will take time and effort."
+TRM_Continue_The_Militarisation:0 "군대화 지속"
+TRM_Continue_The_Militarisation_desc:0 "우리는 보호를 일본인들에게 너무 오래 의존해왔습니다. 우리는 우리만의 군대가 필요하지만, 이는 시간과 노력이 필요할 것입니다."
 
-TRM_Expand_Military_Staff:0 "Expand Military Staff"
+TRM_Expand_Military_Staff:0 "참모 확충"
 TRM_Expand_Military_Staff_desc:0 "We have a lack of proper officers to command our troops. We must train a new young generation of officers."
 
-TRM_Northern_Expansion:0 "Northern Expansion"
+TRM_Northern_Expansion:0 "북부로 확장"
 TRM_Northern_Expansion_desc:0 "Our nation is exhausted of fighting men, and our current drafting rate appears to be insufficient to populate our armed forces. If we enact conscription by requirement, we will have more troops to fight against our enemies."
 
-TRM_Drill_The_Troops:0 "Drill the Troops"
+TRM_Drill_The_Troops:0 "군대 훈련"
 TRM_Drill_The_Troops_desc:0 "The strength of an effective army lies not in numbers, but in its training. A well-trained force will lead us to victory!"
 
-TRM_Import_Military_Hardware:0 "Modernise Equipment"
-TRM_Import_Military_Hardware_desc:0 "We have not upgraded our equipment since the 1920's and many of our weapons are obsolete to say the least. We cannot achieve any of our objectives if we have ineffective weapons for our soldiers."
+TRM_Import_Military_Hardware:0 "장비 현대화"
+TRM_Import_Military_Hardware_desc:0 "우리는 1920년대 이후로 장비를 업그레이드하지 않아 많은 무기들이 적게 보아도 구식입니다. 우리가 군인들에게 효과적이지 않은 무기를 준다면 우리는 어떤 목표도 달성할 수 없습니다."
 
-TRM_Equipment_Breakthrough:0 "Equipment Breakthrough"
+TRM_Equipment_Breakthrough:0 "장비 혁신"
 TRM_Equipment_Breakthrough_desc:0 "Recently, we successfully developed a brand new firearm for our soldiers. Although they are currently just prototypes, we can invest some money to produce them in proper numbers."
 
-TRM_Improve_Supply_Network:0 "Improve Supply Network"
+TRM_Improve_Supply_Network:0 "보급망 개선"
 TRM_Improve_Supply_Network_desc:0 "As the Trans-Siberian railway expands more and more, its usefulness becomes increasingly apparent. We even have the potential to create a nationwide railway supply system to deliver goods all across the country."
 
-TRM_Create_A_Motorised_Corps:0 "Create a Motorised Corps"
+TRM_Create_A_Motorised_Corps:0 "차량화부대 창설"
 TRM_Create_A_Motorised_Corps_desc:0 "As our army becomes larger by the day, we need more transport for our troops. New trucks ought to prove useful."
 
-TRM_Expand_The_Dalzavod_Facilities:0 "Expand the Dalzavod Facilities"
+TRM_Expand_The_Dalzavod_Facilities:0 "달자보드 시설 확장"
 TRM_Expand_The_Dalzavod_Facilities_desc:0 "We can use our Dalzavod factory to produce a limited series of our own tanks. Tanks are invaluable in modern day warfare due their durability."
 
-TRM_Subsidise_The_Aviation_Sector:0 "Subsidise the Aviation Sector"
+TRM_Subsidise_The_Aviation_Sector:0 "항공 부문 "
 TRM_Subsidise_The_Aviation_Sector_desc:0 "Our air force has been sub-par for many years. If we are to bring it back up to scratch, in order to compete with regional powers, we have to dedicate financial muscle to aviation research at any cost."
 
-TRM_Expand_The_Vladivostok_Airport:0 "Expand the Vladivostok Airport"
+TRM_Expand_The_Vladivostok_Airport:0 "블라디보스토크 공항 확장"
 TRM_Expand_The_Vladivostok_Airport_desc:0 "Our nation has been left behind by the aerial revolution. We do not have a single modern air field to our name. Since the Weltkrieg, aircraft have become a very deadly weapon of war, and as such we must possess them. Without air bases, even the biggest air force would be useless."
 
-TRM_Irkutsk_Air_Base:0 "Irkutsk Air Base"
+TRM_Irkutsk_Air_Base:0 "이르쿠츠크 공군기지"
 TRM_Irkutsk_Air_Base_desc:0 "Siberia certainly has the room for new landing strips and air fields. We would be fools not to take advantage of this fact."
 
-TRM_Develop_Siberian_Air_Fields:0 "Develop Siberian Air Fields"
+TRM_Develop_Siberian_Air_Fields:0 "시베리아 공군기지 개발"
 TRM_Develop_Siberian_Air_Fields_desc:0 "Our air force is desperately in need of new launching grounds. For this reason we should invest in Novosibirsk."
 
-TRM_Develop_Fighters:0 "Develop Fighters"
+TRM_Develop_Fighters:0 "전투기 개발"
 TRM_Develop_Fighters_desc:0 "Fighters are main type of aircraft we should use. We can't dominate the skies without them."
 
-TRM_CAS_Units:0 "CAS Units"
+TRM_CAS_Units:0 "근접항공지원기 부대"
 TRM_CAS_Units_desc:0 "As we now have air superiority, we can now storm the ground with our CAS fighters. They are also valuable to us."
 
-TRM_Modernise_The_Air_Command:0 "Modernise the Air Command"
+TRM_Modernise_The_Air_Command:0 "공군사령부 현대화"
 TRM_Modernise_The_Air_Command_desc:0 "Even with modern aircraft we have we still need a proper military staff to command them. We should intensively train some new officers."
 
-TRM_Bombers_Of_The_East:0 "Bombers of the East"
+TRM_Bombers_Of_The_East:0 "동양의 폭격기"
 TRM_Bombers_Of_The_East_desc:0 "The skies are ours, our CAS is storming the ground, and we now can produce aircraft able to obliterate our enemies with high explosives."
 
-TRM_Russias_Eastern_Harbour:0 "Russia's Eastern Harbour"
+TRM_Russias_Eastern_Harbour:0 "러시아의 동쪽 항구"
 TRM_Russias_Eastern_Harbour_desc:0 "Vladivostok was both a major port and city in the Russian Far East under the old Tsarist regime, but with the aftermath of the Russo-Japanese war, Vladivostok has lost some of its importance. After the Weltkrieg and Kolchak's unsuccessful coup in 1925 the city underwent a resurgence again as major trade port for the Japanese."
 
-TRM_Legacy_Of_The_Weltkrieg:0 "Legacy of the Weltkrieg"
+TRM_Legacy_Of_The_Weltkrieg:0 "세계대전의 유산"
 TRM_Legacy_Of_The_Weltkrieg_desc:0 "A lot of time has passed since the end of the Weltkrieg. Naval thought has changed and new technologies such as carriers and submarines have experienced much development. Still, these frivolous new toys are nothing compared to the old warships. A powerful fleet would crush anything in its path."
 
-TRM_The_Grand_Fleet:0 "The Grand Fleet"
+TRM_The_Grand_Fleet:0 "대함대"
 TRM_The_Grand_Fleet_desc:0 "Since the Russian defeat in the Russo-Japanese war the Pacific fleet became a living example of misery. As the legitimate government of Russia it is our duty to restore the former glory of our Pacific fleet."
 
-TRM_Expand_The_Vladivostok_Port_Authority:0 "Expand the Vladivostok Port Authority"
+TRM_Expand_The_Vladivostok_Port_Authority:0 "블라디보스토크 항만 관리 위원회 확대"
 TRM_Expand_The_Vladivostok_Port_Authority_desc:0 "Increasing numbers of ships make landfall in our port each week, and the Vladivostok harbour has become overloaded due these endless waves of cargo ships. We shall expand the port in order to ease these issues."
 
-TRM_Pearl_Of_The_East:0 "Pearl in the East"
+TRM_Pearl_Of_The_East:0 "동양의 진주"
 TRM_Pearl_Of_The_East_desc:0 "Vladivostok is our great pearl. We must do everything to make our city the powerhouse of East Asia. Our efforts will results in bigger naval facilities and stronger naval fortifications."
 
-TRM_A_New_Path:0 "A New Path"
+TRM_A_New_Path:0 "새로운 길"
 TRM_A_New_Path_desc:0 "The rise of submarines and carriers during the Weltkrieg was unexpected. They have since proven themselves to be very effective. Though we will likely still rely on our extant main fleet, perhaps we could augment it with these new types of ships?"
 
-TRM_Expand_Industry_In_Vladivostok:0 "Expand Industry in Vladivostok"
-TRM_Expand_Industry_In_Vladivostok_desc:0 "We have a distinctly backwater industry, a situation which must be rectified soon. We should start to develop our country step by step. Even if our progress is slow, incremental improvements will result in a prosperous country some day."
+TRM_Expand_Industry_In_Vladivostok:0 "블라디보스토크 산업 확장"
+TRM_Expand_Industry_In_Vladivostok_desc:0 "우리는 확실히 개선되어야 하는 낙후된 산업이 있는 상황입니다. 우리는 차근차근 나라를 발전시키기 시작해야 합니다. 진척이 더디더라도 늘어나는 개선은 언젠가 번영하는 나라로 이끌어 줄 것입니다."
 
-TRM_Expand_Industry_In_Khabarovsk:0 "Expand Industry in Khabarovsk"
-TRM_Expand_Industry_In_Khabarovsk_desc:0 "Khabarovsk is our second biggest city. Although the word 'big' is difficult to use about our country, we can expand industry in this city to make it appropriate for our future plans."
+TRM_Expand_Industry_In_Khabarovsk:0 "하바롭스크 산업 확장"
+TRM_Expand_Industry_In_Khabarovsk_desc:0 "하바롭스크는 우리의 두 번째로 큰 도시입니다. '큰'이라는 단어는 우리나라에서 쓰기 어렵지만, 향후 계획에 맞춰 이 도시의 산업을 확장할 수 있습니다."
 
-TRM_Revive_The_Transsiberian_Railway:0 "Revive Trans-Siberian Railway"
+TRM_Revive_The_Transsiberian_Railway:0 "트란스-시베리아 철도 재건설"
 TRM_Revive_The_Transsiberian_Railway_desc:0 "We now possess a larger part of the Trans-Siberian Railway. The railway itself in very poor condition, but if we invest in efforts to rebuild and improve it, our supply lines will be greatly improved."
 
-TRM_Expand_Industry_In_The_Far_East:0 "Expand Far Eastern Industry"
+TRM_Expand_Industry_In_The_Far_East:0 "극동 산업 확장"
 TRM_Expand_Industry_In_The_Far_East_desc:0 "The Russian Far East is just a vast wasteland of snow and tundra. But even in this harsh climate we can open some new facilities to develop our industry."
 
-TRM_Improve_The_Nikolayevsk_Port:0 "Improve the Nikolayevsk Port"
+TRM_Improve_The_Nikolayevsk_Port:0 "니콜라옙스크항 개선"
 TRM_Improve_The_Nikolayevsk_Port_desc:0 "The port of Nikolayevsk is in poor condition due to the lack of use by its former owners. Redevelopment will enable a new naval base to be established."
 
-TRM_Industrialise_Lake_Baikal:0 "Industrialise Lake Baikal"
+TRM_Industrialise_Lake_Baikal:0 "바이칼호 산업화"
 TRM_Industrialise_Lake_Baikal_desc:0 "We now have the very developed industrial region of Irkutsk in our hands. It already has strong industrial potential, but we can improve it even more if we open some new facilities."
 
-TRM_Develop_Chita:0 "Develop Chita"
+TRM_Develop_Chita:0 "치타 개발"
 TRM_Develop_Chita_desc:0 "The lands east of Lake Baikal are rich in resources, but extremely underdeveloped. It will take us a long time to build up this region, but we can begin now."
 
-TRM_Siberian_Industrialisation:0 "Siberian Industrialisation"
+TRM_Siberian_Industrialisation:0 "시베리아 산업화"
 TRM_Siberian_Industrialisation_desc:0 "Western Siberia is our primary strategic region because it allows us to directly attack the traitors from Petrograd. A lot of new facilities must be build to make us stronger before the final battle"
 
-TRM_Expand_The_Baltic:0 "Expand The Baltic"
+TRM_Expand_The_Baltic:0 "발트해 연안 개발"
 TRM_Expand_The_Baltic_desc:0 "The Baltic states are back under our control. We should learn from the past and not continue our Russification, but instead develop their industry and grant them some illusion of autonomy so that they are satisfied with our rule."
 
-TRM_Build_Up_White_Russia:0 "Build Up White Russia"
+TRM_Build_Up_White_Russia:0 "백러시아 개발"
 TRM_Build_Up_White_Russia_desc:0 "The region of White Russia is one that hasn't seen too much development in recent years and so we must work on improving the area."
 
-TRM_Appease_The_Polish:0 "Appease the Polish"
+TRM_Appease_The_Polish:0 "폴란드인 달래기"
 TRM_Appease_The_Polish_desc:0 "The Poles are a rebellious people and therefore must be tamed rather thank crushed. We can extend our industrial project to the region to give them the aid they desire."
 
-TRM_Industrialise_Central_Asia:0 "Industrialise Central Asia"
+TRM_Industrialise_Central_Asia:0 "중앙아시아 산업화"
 TRM_Industrialise_Central_Asia_desc:0 "Central Asia is an excellent place to build up some industry, as it currently is lacking in comparison to other areas of the Russia. Let us build up the region!"
 
-TRM_Develop_The_Caucasus:0 "Develop the Caucasus"
+TRM_Develop_The_Caucasus:0 "캅카스 개발"
 TRM_Develop_The_Caucasus_desc:0 "The lands of the Caucasus are rich with oil, which is why Germany wanted to have a tight grip on the area. With the region under our control, we can improve the industry for the people who have long suffered."
 
 TRM_RDS_1:0 "RDS-1"
 TRM_RDS_1_desc:0 "With the Capital retaken, the scientists there are now contributing to our research, giving us an edge over our rivals. Also, with the industrialisation campaign over, more scientists in the newly conquered regions are joining our ranks. This combination has helped us invent whole new possibilities of weapons to use in wars."
 
-TRM_Increase_Trade_With_Japan:0 "Increase Trade With Japan"
+TRM_Increase_Trade_With_Japan:0 "대일 무역 확대"
 TRM_Increase_Trade_With_Japan_desc:0 "We may hate the Japanese but even the blind can appreciate that we depend on their economy. It would be more than wise to improve our trade relations with the Empire."
 
-TRM_Aid_From_Japan:0 "Aid from Japan"
+TRM_Aid_From_Japan:0 "일본으로부터의 원조"
 TRM_Aid_From_Japan_desc:0 "We can ask Japan to invest some money into our industry. It will allow us to develop our country faster. However, the deepening ties between us will also grow increasingly apparent, which means our people will be displeased."
 
-TRM_Zaibatsu_Investments:0 "Zaibatsu Investments"
+TRM_Zaibatsu_Investments:0 "자이바츠 투자"
 TRM_Zaibatsu_Investments_desc:0 "The Japanese industrial giants are increasingly coming to see us as a useful market for their goods. However, by requesting further financial investment from them the people of Transamur will no doubt disapprove of our cosying up to Tokyo."
 
-TRM_Invite_Japanese_Instructors:0 "Invite Japanese Instructors"
+TRM_Invite_Japanese_Instructors:0 "일본 학자 초청"
 TRM_Invite_Japanese_Instructors_desc:0 "While Japanese aid and investment has been highly lucrative, our economy is laughably inefficient compared to that of the land of the rising sun. We should ask our friends to the east for economic advisers and request the personal assistance of Japanese industrialists. Such a move could lead to massive unrest among our people, however; these instructors may be perceived as colonists."
 
-TRM_Russo_Japanese_Naval_Treaty:0 "Russo-Japanese Naval Treaty"
+TRM_Russo_Japanese_Naval_Treaty:0 "러시아-일본 해군 조약"
 TRM_Russo_Japanese_Naval_Treaty_desc:0 "As we become closer to Japan, they are willing to sign a treaty with us which would allow us to coordinate with Japanese scientists to develop naval doctrines. However, it will probably anger our people who hate Japanese imperialists."
 
-TRM_Japanese_Military_Mission:0 "Japanese Military Mission"
+TRM_Japanese_Military_Mission:0 "일본의 군사사절단"
 TRM_Japanese_Military_Mission_desc:0 "Our navy is reaping great rewards from our cordiality with Japan, which has become increasingly pronounced due to our recent naval joint-development effort. We should establish a similar relationship with the Japanese Army. This will likely lead to further anger among our populace, however."
 
-TRM_Draw_Closer_To_Fengtian:0 "Draw Closer to Fengtian"
+TRM_Draw_Closer_To_Fengtian:0 "펑톈에 가까이"
 TRM_Draw_Closer_To_Fengtian_desc:0 "The Fengtian regime is also under a great deal of Japanese influence, and thus our ally. Despite this and our close geographic proximity, our nation has diplomatic and economic ties comparable to that of any other with Fengtian. We should expand our diplomatic mission in the capital of Fengtian to foster closer ties."
 
-TRM_Invite_Fengtian_Workers:0 "Invite Fengtian Workers"
+TRM_Invite_Fengtian_Workers:0 "펑톈 노동자 초청"
 TRM_Invite_Fengtian_Workers_desc:0 "To the west lie the vast lands of Manchuria ruled by Zhang Zuolin who is our occasional partner and ally. A lot of poor Chinese people are willing to work for us, even for a mere bowl of rice per day. Cheap labour could help us greatly, but Japanese officials would no doubt use them to increase their influence in our politics."
 
-TRM_Aftermath_Of_The_Coup:0 "Aftermath of the Coup"
+TRM_Aftermath_Of_The_Coup:0 "쿠데타의 여파"
 TRM_Aftermath_Of_The_Coup_desc:0 "Tensions in the Transamur regime are finally reaching fever pitch, and there is little doubt now that Kolchak's position is becoming increasingly untenable."
 
-TRM_All_Power_To_The_Admiral:0 "All Power to the Admiral"
+TRM_All_Power_To_The_Admiral:0 "제독에게 모든 힘을"
 TRM_All_Power_To_The_Admiral_desc:0 "Kolchak has managed to survive the coup and has defeated the rebellious generals. However, the spirit of uncertainty still lingers over Vladivostok. Only a strong leader is capable of pacifying the people and restoring order to Transamur."
 
-TRM_Purge_The_Army:0 "Purge the Army"
+TRM_Purge_The_Army:0 "군대 숙청"
 TRM_Purge_The_Army_desc:0 "To avoid any further coups and rebellions the whole apparatus of military high command must be inspected. No doubt, there is still remain some opponents of Kolchak's government, who must be removed from their offices. However, these harsh measures will disrupt the capabilities of our army for some time."
 
-TRM_The_Supreme_Ruler:0 "The Supreme Ruler"
+TRM_The_Supreme_Ruler:0 "최고통치자"
 TRM_The_Supreme_Ruler_desc:0 "Kolchak claims himself to be the "Supreme Ruler of Russia". For our leader to bolster his image, he needs a strong propaganda machine to help foster an effective cult of personality. Everyone should know about his glorious persona and great deeds. Kolchak must be seen as Father of the Nation in the eyes of his people."
 
-TRM_New_Leadership:0 "New Leadership"
+TRM_New_Leadership:0 "새로운 지도부"
 TRM_New_Leadership_desc:0 "Kolchak is dead and a new dictatorship has risen. It will take some time to reorganise the government and legitimise the new dictator."
 
-TRM_Military_Reforms:0 "Military Reforms"
+TRM_Military_Reforms:0 "군대 개혁"
 TRM_Military_Reforms_desc:0 "Every dictatorship relies on its army, and as such it is crucial that immediate reforms must be implemented to improve military efficiency. Only the most loyal and effective armed forces will be able to preserve us."
 
-TRM_Modern_Equipment:0 "Buy Modern Equipment"
+TRM_Modern_Equipment:0 "현대장비 구매"
 TRM_Modern_Equipment_desc:0 "Our equipment is obsolete and so we must turn to the global market. Perhaps we will even be able to acquire blueprints so we can produce new equipment of our own."
 
-TRM_Political_Stabilisation:0 "Political Stabilisation"
+TRM_Political_Stabilisation:0 "정치적 안정"
 TRM_Political_Stabilisation_desc:0 "The situation has finally stabilised. Nobody can argue against our legitimacy, our borders are protected by a strong and modern army. People have learnt how to be modest and not to waste their money and efforts on nonsensical things. Order has finally returned to Transamur."
 
-TRM_Victory_For_Democracy:0 "Victory for Democracy"
+TRM_Victory_For_Democracy:0 "민주주의의 승리"
 TRM_Victory_For_Democracy_desc:0 "We have finally achieved our freedom. No more dictators, no more mad militarists. It's time for true democracy to rise and wipe out the presence of autocrats."
 
-TRM_Scientific_Investments:0 "Scientific Investment"
+TRM_Scientific_Investments:0 "과학 투자"
 TRM_Scientific_Investments_desc:0 "The impact of science on today's world is undeniable and we should make good on this and invest some money into our nation's great minds. With the creation of proper work conditions for them, their efforts will be even more effective."
 
-TRM_Subsidise_Industrial_Expansion:0 "Subsidise Industrial Expansion"
+TRM_Subsidise_Industrial_Expansion:0 "산업 확장 보조금"
 TRM_Subsidise_Industrial_Expansion_desc:0 "Further investment will allow us to expand our facilities and make our industry more productive. Many new workplaces can be created, which means more stable employment and security for the people."
 
-TRM_Create_A_Welfare_State:0 "Create a Welfare State"
+TRM_Create_A_Welfare_State:0 "복지국가 건설"
 TRM_Create_A_Welfare_State_desc:0 "True democracy means that every citizen of our country deserves the best. By introducing a welfare system, we will gain many respects form our people. A happy population will work harder and demand less, which means more prosperity for all of us."
 
-TRM_Vladivostok_Under_Japan:0 "Vladivostok under Japan"
+TRM_Vladivostok_Under_Japan:0 "일본 아래의 블라디보스토크"
 TRM_Vladivostok_Under_Japan_desc:0 "The Japanese have never been welcomed in Transamur. The news that Transamur is to be directly administered by General Shigemoto has shocked many in Vladivostok and has caused great consternation amongst many fierce nationalists. It will take a long time and great effort to legitimise this new 'lapdog' regime in the eyes of the people."
 
-TRM_Attract_Japanese_Immigrants:0 "Attract Japanese Immigrants"
+TRM_Attract_Japanese_Immigrants:0 "일본인 이민자 유치"
 TRM_Attract_Japanese_Immigrants_desc:0 "Now that our puppet regime stands on more solid ground, the time has come to take the first steps toward Japanisation of the whole region. A first wave of Japanese colonists has already arrived - made up of teachers, doctors and engineers; their qualifications will help us significantly."
 
-TRM_Invite_Japanese_Workers:0 "Invite Japanese Workers"
+TRM_Invite_Japanese_Workers:0 "일본 노동자 초청"
 TRM_Invite_Japanese_Workers_desc:0 "With the colonisation programme already under way, soon thousands of hungry poor Japanese will flee to our country in search of work. A cheap workforce and investment from the mainland means new facilities and new capabilities."
 
-TRM_Pro_Tokyo_Propaganda:0 "Pro-Tokyo Propaganda"
+TRM_Pro_Tokyo_Propaganda:0 "친도쿄 선전"
 TRM_Pro_Tokyo_Propaganda_desc:0 "Russian resistance to our cultural assimilation is even stronger than we anticipated. As such we should take measures prevent them speaking, listening and even thinking Russian. We should start a massive propaganda campaign to undermine what it is to be Russian, boost the people's love of Japan and finally assimilate them."
 
-TRM_Major_Education_Reform:0 "Major Education Reform"
+TRM_Major_Education_Reform:0 "주요 교육 개혁"
 TRM_Major_Education_Reform_desc:0 "No matter if it is a dictatorship or a democracy, the aspects regarding education are clear in both cases. No men or women ever won a war, but science did. We must invest as much as possible to give our scientists everything they want."
 
-TRM_Occupy_The_Russian_Far_East:0 "Occupy the Russian Far East"
+TRM_Occupy_The_Russian_Far_East:0 "극동 러시아 점령"
 TRM_Occupy_The_Russian_Far_East_desc:0 "Russia is now in state of war. While they are busy in the West we can pressure them in the East. We must immediately purge them from our rightful lands."
 
-TRM_The_Long_Road_To_Moscow:0 "The Long Road to Moscow"
+TRM_The_Long_Road_To_Moscow:0 "모스크바로 가는 긴 길"
 TRM_The_Long_Road_To_Moscow_desc:0 "The time has come! Day by day we dream about the time when we will strike our enemies in Moscow. We are no longer merely [Root.GetNameDef]. No, our claim to the mantle of Russian Republic will no longer be more pretence, but solid fact! We will liberate Mother Russia from the traitors that destroyed her."
 
-TRM_Russia_One_And_Indivisible:0 "Russia, One and Indivisible"
+TRM_Russia_One_And_Indivisible:0 "하나이자 나눠질 수 없는 러시아"
 TRM_Russia_One_And_Indivisible_desc:0 "The time of war has come to an end. Now is the time for a new, stronger Russia to arise. No more traitors, no more Bolsheviks, no more Japanese imperialists. We are Russia now!"
 
-TRM_Secure_Kazakhstan:0 "Secure Kazakhstan"
+TRM_Secure_Kazakhstan:0 "카자흐스탄 확보"
 TRM_Secure_Kazakhstan_desc:0 "Kazakhstan is vast and wealthy. Once brought into the fold we can look even further south, to Turkestan."
 
-TRM_Secure_Turkestan:0 "Secure Turkestan"
+TRM_Secure_Turkestan:0 "투르키스탄 확보"
 TRM_Secure_Turkestan_desc:0 "Turkestan is not particularly wealthy or even populous. But soon enough, it will be ours, and it will serve excellently as a bridgehead to the wealthy Persian and Indian provinces, should we need it."
 
-TRM_Crisis_On_The_Don:0 "Crisis on the Don"
+TRM_Crisis_On_The_Don:0 "돈에서의 위기"
 TRM_Crisis_On_The_Don_desc:0 "The Don-Kuban region is as Russian as Russia, or so our military staff claims. They also claim that while the Cossacks who reside there are hard men, they aren't hard enough to fight from horse-back against our modern, unstoppable armies."
 
-TRM_Secure_Armenia:0 "Secure Armenia"
+TRM_Secure_Armenia:0 "아르메니아 확보"
 TRM_Secure_Armenia_desc:0 "The Armenian people share our faith. Thus they should only be happy to return to our rule, no?"
 
-TRM_Secure_Georgia:0 "Secure Georgia"
+TRM_Secure_Georgia:0 "조지아 확보"
 TRM_Secure_Georgia_desc:0 "While Georgia is not large, wealthy, or powerful at all, we must deal with them at once... It is a matter of principle. This is land stolen from us during the Weltkrieg. Soon it will be back in the fold, with the rest of them."
 
-TRM_Secure_Azerbaijan:0 "Secure Azerbaijan"
+TRM_Secure_Azerbaijan:0 "아제르바이잔 확보"
 TRM_Secure_Azerbaijan_desc:0 "For a long time, we have been reliant on expensive oil imports to keep our war-machine running. All in between us and a self-sufficient economy is the  small, weak, state of Azerbaijan."
 
-TRM_On_Our_Own:0 "On our Own"
+TRM_On_Our_Own:0 "우리만의 길"
 TRM_On_Our_Own_desc:0 "Russia should not be a lapdog to any other nation. It's time we form our own alliance and no longer dance to the pipe of others!"
 
-TRM_Join_the_Entente:0 "Join the Entente"
+TRM_Join_the_Entente:0 "협상국 가입"
 TRM_Join_the_Entente_desc:0 "During the Weltkrieg we stood beside Great Britain and France against the Germanic Huns and their allies. Now that we are back in power they will surely be willing to help us, after all, Kolchak was a good friend of George V."
 
-TRM_Invade_White_Ruthenia:0 "Invade [WHR.GetNameDef]"
+TRM_Invade_White_Ruthenia:0 "[WHR.GetNameDef] 침공"
 TRM_Invade_White_Ruthenia_desc:0 "The breakaway state commonly called White Russia was claimed during the partitions of old, only to be taken by the Kaiser. We will not lose our lands this time!"
 
-TRM_Crush_Ukraine:0 "Crush Ukraine"
+TRM_Crush_Ukraine:0 "우크라이나 분쇄"
 TRM_Crush_Ukraine_desc:0 "Powerful German armies had been protecting Ukraine from annexation since the October Revolution. However, now that we are back in power, our chance to reunite Ukraine with Russia is now."
 
-TRM_Crush_The_German_Hegemony:0 "Crush the German Hegemony"
+TRM_Crush_The_German_Hegemony:0 "독일 패권 분쇄"
 TRM_Crush_The_German_Hegemony_desc:0 "The losses at the peace treaty of Brest-Litovsk are too great to count. It's time we return Russia to the glory we held prior to the Weltkrieg!"
 
-TRM_Secure_Karelia:0 "Secure Karelia"
+TRM_Secure_Karelia:0 "카렐리야 확보"
 TRM_Secure_Karelia_desc:0 "Finland and their false King has mocked Russia for long enough. It's time we send Russian troops to Helsinki once again."
 
 ### Tooltips ###
