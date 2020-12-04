@@ -1076,11 +1076,11 @@ fop.331.a:0 "동의할 수 없다!"
 fop.331.b:0 "타협한다."
 
 fop.332.t:0 "국가자문위원회의 첫 회의" #Junta Consultativa Nacional, 훈타 콘술티바 나시오날, 위 이벤트에 나온 협의체인듯
-fop.332.d:0 "With nearly three hundred invitations issued to representatives of different political parties, the Junta Consultativa Nacional, as it has been dubbed, has opened its first session today. Under a painting of the Constitutional Assembly of 1853, the Junta Consultativa is now officially approaching the subject of Constitutional reform, mainly regarding the inclusion of worker rights to it and an extension of the national government's power regarding the internal economical market. While opposition to the measure exists, it has become clear that cooperation has stabilized the situation looking forward, and political experts hope that this arrangement can last at least a few years needed for Argentina to continue its growth."
+fop.332.d:0 "각각의 정당 대표들에게 거의 3백 개의 초대장이 보내졌고, 국가자문위원회는 오늘 첫 회기를 열었습니다. 1853년 제헌국회 이후, 국가자문위원회는 주로 노동자의 권리를 헌법에 포함시키고 내부 경제 시장에 관한 국가 정부의 권한의 연장에 관해 다루고 있으며, 현재 헌법 개혁에 있어 주체적인 자리에 공식적으로 위치할 수 있을 것입니다. 이 조치에 반대하는 의견은 존재하지만, 협력이 상황을 낙관적으로 안정시켰다는 것은 분명해졌고, 정치 전문가들은 아르헨티나가 성장을 지속하는 데 필요한 최소한 몇 년은 안정적으로 지속될 수 있을 것으로 기대하고 있습니다"
 fop.332.a:0 "이상한 해결책이지만, 별 수 없군."
 
 fop.333.t:0 "민주연합 시위의 격화"
-fop.333.d:0 "As protests from the UD continued, the province of Santa Fe flared up in violence against the government. With many progressives amongst the crowd actively rejecting what they saw as an authoritarian move, the police tried to disperse the protest only to for it to devolve into a brawl. While there are no confirmed casualties over the event, vandalism near downtown Rosario has been widely seen with inscriptions denouncing the government. After this, martial law has been called on all protesting provinces for the next month, and it is unknown whether this situation will continue after the restriction is lifted."
+fop.333.d:0 "민주연합으로부터의 항의가 계속되고, 산타페 주는 정부를 상대로한 폭력 행동에 들어갔습니다. 군중들 사이에서 많은 진보주의자들이 시위가 권위주의적인 행동으로 보이는 것을 적극적으로 부정하고 있고, 경찰은 시위를 단지 폭동으로 규정하면서 시위대를 해산시키려고 노력했습니다. 이번 사건으로 확인된 인명피해는 없는 가운데 로사리오 시내에 훼손된 공공기물에는 정부를 비난하는 글귀가 새겨져 있습니다. 이후 한 달 동안 시위가 일어났던 모든 지방에 계엄령이 선포됐는데, 이 같은 상황이 계엄령 해제 이후에도 계속될지는 미지수입니다."
 fop.333.a:0 "망할 자유주의자 녀석들."
 
 fop.334.t:0 "[GetYear]년 의장 선거"
@@ -1106,7 +1106,7 @@ fop.337.b:0 "급진시민연합이 승리했다."
 fop.337.c:0 "국가민주당이 복귀했다."
 
 fop.338.t:0 "[GetYear]년 전국 선거"
-fop.338.d:0 "With six years behind the first national elections after the restoration of the Constitution, the electoral race has begun yet again between Argentina's major parties, and the winner of this contest is yet to be decided..."
+fop.338.d:0 "헌법 복원 후, 6년이 지나 첫 번째 전국 선거가 열리면서 아르헨티나 주요 정당들간의 선거전이 다시 시작되었습니다. 이번 선거의 승자는..."
 fop.338.a:0 "사회당이 과반수를 차지했다."
 fop.338.b:0 "급진시민연합이 승리했다."
 fop.338.c:0 "국가민주당이 승리했다."
@@ -1150,35 +1150,35 @@ fop.347.d:0 "As the work of the Comite de Seguridad de Estado increases, the phy
 fop.347.a:0 "서류작업을 위한 충분한 공간이 필요하다."
 
 fop.350.t:0 "공작원들의 아르헨티나 잠입"
-fop.350.d:0 "The brave men and women we sent into Argentina have managed to covertly bypass the enemy's defenses and are now in position to sabotage their railroads. Once hostilities break out between us and the reactionaries, we'll be able to call upon them to cripple the enemy's transport hubs in this region."
+fop.350.d:0 "우리가 아르헨티나로 보낸 용감한 남녀들은 적의 방어를 은밀히 우회하여 그들의 철도를 파괴할 수 있는 준비를 마쳤습니다. 반동분자들과의 전쟁이 일어나면, 우리는 그들을 호출해 적의 수송 거점을 무력화시킬 수 있을 것입니다."
 fop.350.a:0 "계획대로다."
 
 fop.351.t:0 "공작원들의 임무실패"
-fop.351.d:0 "Terrible news! The team we sent into Argentina to disrupt their railway links was intercepted by the Argentine secret police. With the entire cell either captured or forced to flee for their lives, the operation has been a failure. Worse yet, this has led to an increase in police activity in the region, meaning that we won't get a second chance to attack them here."
+fop.351.d:0 "끔찍한 소식입니다! 우리가 그들의 철도시설을 파괴하기 위해 북부로 파견된 공작원들이 아르헨티나 비밀경찰에 의해 처단되었습니다. 요원 전체가 포로로 잡히거나 목숨을 걸고 달아나는 바람에 작전은 실패로 돌아갔습니다. 더 나쁜 것은, 북부 지역의 경찰 활동 증가로 이어졌다는 것인데, 이것은 그들을 두 번씩이나 공격할 기회를 얻지 못한다는 것을 의미합니다."
 fop.351.a:0 "용사들을 기억하자..."
 
 fop.352.t:0 "생디칼리스트들의 기반시설 공격"
-fop.352.d:0 "Reports are pouring in from all over the south that operatives seeded by the perfidious Syndicalists have initiated a terror bombing campaign against our railroads! Several of our critical transport routes and train depots have been hit by a string of bombings and arson attacks, rendering our railways in several sectors completely inoperable. Our military engineers expect the repairs to take a full month to complete. Until then, our forces in the south will have to march by foot."
+fop.352.d:0 "남부 전역에서 생디칼리스트들이 우리 철도시설에 대한 파괴 공작을 감행했다는 보고가 쏟아지고 있습니다. 우리의 주요 수송로와 기차역 중 몇몇은 연쇄 폭탄 테러와 방화 공격을 받음으로써 철도가 완전히 작동하지 않게 되었습니다. 우리 군 기술자들은 철도 시설의 수리가 완료되기까지 꼬박 한 달이 걸릴 것으로 예상하고 있습니다. 그때까지 남부의 부대는 도보를 사용해서 이동해야 할 것입니다."
 fop.352.a:0 "미치겠군, 기술자들을 보내라!"
 
 fop.353.t:0 "침투 성공"
-fop.353.d:0 "Our heroic operatives have successfully managed to embed themselves in the north without being detected by the reactionaries. Once the war starts, they'll be ready to wreak havoc behind the enemy's lines as soon as we give them the word."
+fop.353.d:0 "우리의 영웅적 공작원들은 반동분자들에게 발각되지 않고 북부에 성공적으로 침투했습니다. 전쟁이 시작되면, 우리가 명령을 내리는 즉시 그들은 적의 전선을 뒤엎을 것입니다."
 fop.353.a:0 "완벽해!"
 
 fop.354.t:0 "침투 실패"
-fop.354.d:0 "Unfortunately, the cell of operatives sent into to north the infiltrate the enemy's positions was caught by the imperialist war machine. With several of our men and women put behind bars, we'll be unable to launch any clandestine operations in this state once the war starts."
+fop.354.d:0 "적의 진지에 침투하기 위해 북부으로 파견된 공작원들이 제국주의 호전광들에게 잡혔습니다. 우리 동무들이 감옥에 갇히게 되면 전쟁이 시작되면 수행하려 했던비밀 작전을 할 수 없게 되었습니다."
 fop.354.a:0 "그들을 기리자..."
 
 fop.355.t:0 "파타고니아의 파괴공작"
-fop.355.d:0 "With our conflict with the perfidious Patagonians heating up once more, we've received numerous reports of terrorism in our territory. Several Patagonian rebels have managed to embed themselves in the south and are waging campaigns of terror against our forces, inciting local rebellions against our government. As a result of this cowardly act, we've been forced to deploy armed police and soldiers to mount rear-guard operations against these bandits. While hardly a critical blow to our war effort, it'll be quite some time before we can root them out for good."
+fop.355.d:0 "파타고니아와의 갈등이 다시 한번 심화되면서, 우리 국가 내부에서 파괴공작 활동에 대한 수많은 보고가 접수되었습니다. 파타고니아 반군들이 침투하여 우리 정부에 대한 반란을 선동하면서 아군에 대한 공작행위를 유도하고 있습니다. 이 비겁한 행동을 막기 위해 우리는 무장 경찰과 군인들을 후방 감시 작전에 투입할 수밖에 없었습니다. 우리의 노력에 결정적인 타격을 주기는 어렵겠지만, 그들을 영원히 뿌리뽑기까지는 상당한 시간이 걸릴 것입니다."
 fop.355.a:0 "우리가 장님인가? 군대를 보내라!"
 
 fop.356.t:0 "파타고니아의 잠수함 요청"
-fop.356.d:0 "The Patagonians have reached out to us in order to acquire our support in helping them establish a small navy. They're asking for a number of technical advisors, engineers, and blueprints on submarines so that they can better defend their waters using their limited resources."
+fop.356.d:0 "파타고니아는 해군을 다시 건설하기 위해 우리에게 도움을 요청했습니다. 그들은 제한된 자원을 활용하여 그들의 해안을 더 잘 방어할 수 있도록 잠수함을 개발할 기술 고문, 기술자, 청사진 등을 요청하고 있습니다."
 fop.356.a:0 "잠수함을 보내라."
 
 fop.357.t:0 "파타고니아의 추가 잠수함 요청"
-fop.357.d:0 "With the resources we sent the Patagonians previously, they now believe they will be able to float their first submarines and begin field trials. They're now asking us to send some advisors to help guide the vessels better and to instruct their officers on proper procedure."
+fop.357.d:0 "이전에 파타고니아에게 보낸 도움 이후, 그들은 첫 잠수함을 띄우고 실전에서 사용할 수 있는 것 같습니다. 그러나 그들은 잠수함을 더 잘 활용할 수 있도록 몇 명의 조언자를 보내주고 그들의 해군 장교들에게 적절한 운용 절차를 가르쳐 달라고 요청하고 있습니다."
 fop.357.a:0 "물론, 뭐든 말하시오."
 
 
