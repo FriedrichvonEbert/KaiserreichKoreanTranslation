@@ -53,7 +53,7 @@ RULE_OPTION_RUS_POST_ASSASSINATION_RANDOM_DESC:0 "러시아 공화국의 대통�
 RULE_OPTION_RUS_POST_ASSASSINATION_LEFT_REPUBLIC:0 "£KR_game_rule_flag_RUS   민주 공화국 선포"
 RULE_OPTION_RUS_POST_ASSASSINATION_LEFT_REPUBLIC_DESC:0 "사회혁명당 좌파와 멘셰비키들이 두마에서 과반수를 확보하고, 러시아에서의 민주주의를 유지 및 관리합니다."
 RULE_OPTION_RUS_POST_ASSASSINATION_REVOLUTION:0  "£KR_game_rule_flag_SOV   사회주의자의 봉기"
-RULE_OPTION_RUS_POST_ASSASSINATION_REVOLUTION_DESC:0 "코르닐로프 원수가 알렉산더 실랴프니코프의 인민전선 정부에 쿠데타를 일으켜 서러시아에 유혈혁명을 촉발시킵니다."
+RULE_OPTION_RUS_POST_ASSASSINATION_REVOLUTION_DESC:0 "코르닐로프 원수가 알렉산드르 실랴프니코프의 인민전선 정부에 쿠데타를 일으켜 서러시아에 유혈혁명을 촉발시킵니다."
 RULE_OPTION_RUS_POST_ASSASSINATION_WRANGEL_TSAR_KIRILL:0 "£KR_game_rule_flag_RUS_empire   브란겔의 키릴 옹립"
 RULE_OPTION_RUS_POST_ASSASSINATION_WRANGEL_TSAR_KIRILL_DESC:0 "브란겔이 두마를 해산한 뒤 계엄령을 선포하고, 러시아의 적법한 제위요구자인 키릴 로마노프를 차르로 옹립합니다."
 RULE_OPTION_RUS_POST_ASSASSINATION_WRANGEL_MILITARY:0 "£KR_game_rule_flag_RUS   브란겔의 독재정 수립"
