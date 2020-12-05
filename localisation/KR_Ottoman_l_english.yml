@@ -250,7 +250,7 @@ OTT_independent_areas:0 "Independent Areas"
 #####################
 ott_adopted_civil_code:0 "우리 민법을 채택함"
 ott_supports_emancipation:0 "해방을 지원함"
-ott_relinquished_european_ambitions:0 "유럽에 가진 야망을 포기함"
+ott_relinquished_european_ambitions:0 "유럽을  야망을 포기함"
 ott_german_fren:0 "오스만 외교 사절단"
 ott_german_fren2:0 "이해관계를 공유함"
 ott_per_issue:0 "쿠르드 국경분쟁"
@@ -1062,22 +1062,22 @@ OTT_Election_Factories_desc:0 "Ridiculed by the opposition as "Election Factorie
 #########
 ### Starting 
 ott_institutionalised_islam:0 "제도화된 이슬람"
-ott_institutionalised_islam_desc:0 "Religion has always played an important role in the Ottoman Empire, to no small degree because our Padishah is the Caliph of all Islam. Nonetheless it would take until Abdulhamid II until one could really speak of an organised state religion wherein Konstantiniyye arranged everything from protection of the Holy Sites to education of the Ulema. Striving for a policy of Pan-Islamism, the faith was seen as the metaphorical glue holding the empire together under the Sultan-Caliph himself.\n\nThis control however has come at a cost as by bringing Islam closer to the chest, it as well now influences state policy at a higher level with various large Sufi orders possessing incredible political capital and opposing many of the attempted secularist reforms."
+ㅇott_institutionalised_islam_desc:0 "우리의 파디샤가 전 이슬람의 칼리프인 만큼 종교는 언제나 오스만 제국에서 적지 않은 역할을 해 왔습니다. 그렇지만 코스탄티니예에서 성지의 보호와 울레마의 교육까지 주관하는 조직화한 국교는 압뒬하미트 2세의 치세 전까지 이야기할 수 없었습니다. 범이슬람주의 정책에서 신앙은 술탄-칼리프의 밑에서 제국을 지탱하는 은유적 접착제의 역할을 하는 것처럼 보였습니다.\n\n하지만 이처럼 이슬람을 권력의 핵심부로 끌어들인 결정은 많은 대가를 치러야 했고, 이제는 세속주의 개혁에 반대하는 수피파의 대규모 교단들이 막강한 정치적 영향력을 가지고 국가 정책에 영향을 미치고 있습니다."
 
 ott_widespread_illiteracy:0 "광범위한 문맹"
-ott_widespread_illiteracy_desc:0 "Illiteracy is widespread amongst the common people of the empire, as both the difficulty of the Perso-Arabic script and a general disinterest of the lower classes to even bother learning to read is greatly hampering the industrialisation of our grand empire."
+ott_widespread_illiteracy_desc:0 "페르시아 문자의 난해함과 교육에 대한 하층민의 무관심은 광범위한 문맹을 야기했고, 이것은 위대한 제국의 산업화를 크게 저해하고 있습니다."
 
 ott_armed_neutrality:0 "무장 중립"
-ott_armed_neutrality_desc:0 "The brave men who fought against imperialism during the Weltkrieg lay scattered around the Empire in military mass graves, and total casualties of the war encompass over 25% of our pre-war population. We cannot forget nor can we forgive what the Imperial powers have done to us. Dark clouds are gathering above Europe and the fear of renewed war increases but we shall not be part of it! "
+ott_armed_neutrality_desc:0 "세계대전 동안 제국주의에 맞서 싸웠던 용맹한 이들의 무덤은 제국 곳곳에 퍼져있고, 그 숫자는 전쟁 전 인구의 25%에 달합니다. 우리는 제국주의자들이 벌인 짓을 잊을 수도, 용서할 수도 없습니다. 유럽에는 먹구름이 드리우고 있고, 새로운 전쟁에 대한 공포가 커지지만 우리는 거기에 휘말리지 않을 것입니다. "
 
 ### Axis war
 OTT_Mobilisation:0 "비상 동원"
 
 OTT_Ottoman_Stand:0 "오스만-카이로 조약 교착상태"
-OTT_Ottoman_Stand_desc:0 "§GThe Ottoman Empire will only surrender when victory is proclaimed in the entire Middle East§!"
+OTT_Ottoman_Stand_desc:0 "§G오스만 제국은 중동 전체에서 패배가 확정되었을 때에만 항복할 것입니다§!"
 
-OTT_Ottoman_Reinvigoration:0 "오스만 회복"
-OTT_Ottoman_Reinvigoration_desc:0 "With the initial shock of the combined Persian-Arab Attack on our fair state, the Ottoman Empire has rediscovered its martial spirit and is rapidly turning the tide of war. Soon the entire Middle East shall feel the power of our fully weaponised battle station! "
+OTT_Ottoman_Reinvigoration:0 "오스만 재정비"
+OTT_Ottoman_Reinvigoration_desc:0 "오스만 제국은 이 공정한 국가를 향한 페르시아-아랍 연합의 첫 공세에서 받은 충격을 교훈으로 바꿔 전쟁의 흐름을 급격하게 반전시키고 있습니다. 곧 중동 전체가 재정비된 우리 군대의 위력을 느낄 것입니다! "
 
 OTT_Long_live_the_turkish_republic_of_northern_cyprus:0 "키프로스 침공"
 OTT_Long_live_the_turkish_republic_of_northern_cyprus_desc:0 ""
@@ -1087,35 +1087,35 @@ ott_reformed_secret_service:0 "국가 안보국"
 ott_reformed_secret_service_desc:0 ""
 
 ott_institutionalised_islam_spd:0 "제도화된 이슬람"
-ott_institutionalised_islam_spd_desc:0 "Religion has always played an important role in the Ottoman Empire, to no small degree because our Padishah is the Caliph of all Islam. Nonetheless, it would take until Abdulhamid II until one could really speak of an organised state religion, wherein Konstantiniyye arranged everything from protection of the Holy Sites to education of the Ulema. Striving for a policy of Pan-Islamism, the faith was seen as the metaphorical glue holding the empire together, under the Sultan-Caliph himself.\n\nThis control however, has come at a cost, as by bringing Islam closer to the chest, it as well now influences state policy at a higher level with various large Sufi orders possessing incredible political capital and opposing many of the attempted secularist reforms."
+ott_institutionalised_islam_spd_desc:0 "우리의 파디샤가 전 이슬람의 칼리프인 만큼 종교는 언제나 오스만 제국에서 적지 않은 역할을 해 왔습니다. 그렇지만 코스탄티니예에서 성지의 보호와 울레마의 교육까지 주관하는 조직화한 국교는 압뒬하미트 2세의 치세 전까지 이야기할 수 없었습니다. 범이슬람주의 정책에서 신앙은 술탄-칼리프의 밑에서 제국을 지탱하는 은유적 접착제의 역할을 하는 것처럼 보였습니다.\n\n하지만 이처럼 이슬람을 권력의 핵심부로 끌어들인 결정은 많은 대가를 치러야 했고, 이제는 세속주의 개혁에 반대하는 수피파의 대규모 교단들이 막강한 정치적 영향력을 가지고 국가 정책에 영향을 미치고 있습니다."
 
 ott_institutionalised_islam_millet:0 "제도화된 이슬람"
-ott_institutionalised_islam_millet_desc:0 "Religion has always played an important role in the Ottoman Empire, to no small degree because our Padishah is the Caliph of all Islam. Nonetheless, it would take until Abdulhamid II until one could really speak of an organised state religion, wherein Konstantiniyye arranged everything from protection of the Holy Sites to education of the Ulema. Striving for a policy of Pan-Islamism, the faith was seen as the metaphorical glue holding the empire together, under the Sultan-Caliph himself.\n\nThis control however, has come at a cost, as by bringing Islam closer to the chest, it as well now influences state policy at a higher level with various large Sufi orders possessing incredible political capital and opposing many of the attempted secularist reforms."
+ott_institutionalised_islam_millet_desc:0 "우리의 파디샤가 전 이슬람의 칼리프인 만큼 종교는 언제나 오스만 제국에서 적지 않은 역할을 해 왔습니다. 그렇지만 코스탄티니예에서 성지의 보호와 울레마의 교육까지 주관하는 조직화한 국교는 압뒬하미트 2세의 치세 전까지 이야기할 수 없었습니다. 범이슬람주의 정책에서 신앙은 술탄-칼리프의 밑에서 제국을 지탱하는 은유적 접착제의 역할을 하는 것처럼 보였습니다.\n\n하지만 이처럼 이슬람을 권력의 핵심부로 끌어들인 결정은 많은 대가를 치러야 했고, 이제는 세속주의 개혁에 반대하는 수피파의 대규모 교단들이 막강한 정치적 영향력을 가지고 국가 정책에 영향을 미치고 있습니다."
 
 
 ott_reformed_conscription:0 "오스만 징병국"
-ott_reformed_conscription_desc:0 "Military Service has been made mandatory for all Ottoman citizens, regardless of ethnicity or religion. Structured around a central military administration, militarism is both encouraged and fanned towards patriotism."
+ott_reformed_conscription_desc:0 "민족이나 종교를 불문하고 모든 오스만 시민의 복무가 의무화 되었습니다. 중앙 군정청 주도로 구성된 이 기관은 군국주의를 장려하고 애국심을 부채질합니다."
 
 ott_reoarganised_vilayet_system:0 "정비된 빌라예트 "
-ott_reoarganised_vilayet_system_desc:0 "Revamped administration, better oversight and a strong directive from the Party are ensuring a more efficient and more effective provincial system"
+ott_reoarganised_vilayet_system_desc:0 "개선된 행정, 더 나은 감독 그리고 당의 강력한 명령은 더 효율적이고 효과적인 지방 제도를 보장합니다."
 
 ott_military_loyalty:0 "케말주의 장교단"
-ott_military_loyalty_desc:0 "Built on the Prussian Ethos imposed by the German Military Mission just before the Weltkrieg, the military is the de facto power in the Ottoman Empire. Close supervision of its education and a cult of personality built around the Grand Vizier are ensuring that no force from within can bring down the established order."
+ott_military_loyalty_desc:0 "세계대전 이전에 독일 고문단에 의해 도입된 프러시아 정신에 기반해 건설된 군대는 오스만 제국의 실질적인 권력입니다. 교육에 대한 면밀한 감독과 대재상을 중심으로 구축된 개인숭배는 내부의 어떠한 힘도 확립된 질서를 무너트릴 수 없도록 보장하고 있습니다."
 
-ott_universal_suffrage:0 "해방 전위"
-ott_universal_suffrage_desc:0 "The Ottoman Empire is a shining beacon of Emancipation, as almost nowhere else in the world do women experience the same amount of political freedom."
+ott_universal_suffrage:0 "해방 전위대"
+ott_universal_suffrage_desc:0 "오스만 제국은 세계 어디에서도 여성이 동등한 정치적 자유를 경험하지 못하는 빛나는 해방의 등대입니다."
 
 ott_varlik_vargisi:0 "부유세"
-ott_varlik_vargisi_desc:0 "What can be seen as a succesor to the Jizya tax on non-Muslim subjects in the Ottoman Empire, the application of this 'war' tax is leading to significant political issues as its very discriminatory application is in open conflict with the constitution. Nonetheless the revenue it brings in is significant and in a time like this we don't have much choice."
+ott_varlik_vargisi_desc:0 "오스만 제국의 비 무슬림에 대한 인두세를 계승했다고 볼 수 있는 이 '전쟁'세의 차별적인 적용은 헌법과 공개적으로 충돌하기 때문에 중대한 정치적 문제가 발생하고 있습니다. 하지만 그것이 가져오는 수익이 상당하기에 우리에게 선택의 여지는 많지 않습니다."
 
 ott_pluralist_constitution:0 "다원주의 헌법"
-ott_pluralist_constitution_desc:0 "After much political debate between different reformist groups, a new Ottoman Constitution has been written to supersede that of 1876. Thanks to the efforts of more liberally-minded politicians, this new charter is based on pluralist principles, providing citizens with significant political and social freedoms, and shifting the balance of power from the Sultan to elected officials."
+ott_pluralist_constitution_desc:0 "여러 개혁주의 단체들 사이의 논쟁 끝에 1876년 헌법을 대신할 새로운 오스만 헌법이 작성되었습니다. 자유주의적인 정치인들의 노력 덕분에 이 새 헌장은 다원주의 원칙에 따라 시민들에게 상당한 정치와 사회적 자유를 제공하고, 권력을 술탄에게서 선출된 공무원들에게 이양합니다."
 
 ott_authoritarian_constitution:0 "권위주의 헌법"
-ott_authoritarian_constitution_desc:0 "After much political debate between different reformist groups, a new Ottoman Constitution has been written to supersede that of 1876. The new constitution is firmly rooted in the principles of Order, and is undoubtedly authoritarian. The power of the Sultan has been firmly entrenched, giving him the power over the empire’s politics and religions."
+ott_authoritarian_constitution_desc:0 "여러 개혁주의 단체들 사이의 논쟁 끝에 1876년 헌법을 대신할 새로운 오스만 헌법이 작성되었습니다. 새 헌법은 질서의 원칙에 확고히 뿌리를 두고 있으며, 의심할 여지 없이 권위적입니다. 술탄의 권력은 확고하게 자리를 잡고, 그에게 종교와 정치에 대한 권한을 부여합니다."
 
 ott_renaissance:0 "오스만 르네상스"
-ott_renaissance_desc:0 "The Europeans deemed us weak and sickly, the Iranian believed we wouldn't risk confronting them, and the Arabs believed they were an equal match for the power of Turkish boots. With the white crescent on a red field flying on ramparts from Cairo to Lake Urmiah, we have once and for all shown that our decline has been firmly halted and turned around!"
+ott_renaissance_desc:0 "유럽인들은 우리를 약하고 병들었다고 여겼고, 이란인들은 우리가 그들과 맞설 위험을 무릎쓰지 않을 것이라고 믿었으며, 아랍인들은 자신들이 터키 군화와 대등한 힘을 가졌다고 믿었습니다. 하지만 카이로에서 우르미아 호수까지 이어지는 성벽 위에 휘날리는 붉은 바탕의 하얀 초승달 깃발은 우리의 쇠퇴가 확고하게 멈췄고, 전환점이 오고 있음을 단번에 보여줍니다!"
 
 ### Political (Fevzi)
 ott_privy_purse_nationalised:0 "몰수된 황실 자산"
@@ -1175,7 +1175,7 @@ ott_statutes_of_autonomy_desc:0 "Believing decentralisation to be the key in mai
 ott_statutes_of_autonomy2:0 "자치법령"
 ott_statutes_of_autonomy2_desc:0 "Believing decentralisation to be the key in maintaining the empire, the government has put forward a series of Statutes of Autonomy for the various people groups of the Empire, These programmes however, have proved difficult to implement due to the amount they have swelled the Bureaucracy of the empire. While some efforts have been made to alleviate the economic burden these statues place on the Ottoman political system, it is still significant."
 
-ott_statutes_of_autonomy_fev:0 "자치"
+ott_statutes_of_autonomy_fev:0 "자치법령"
 ott_statutes_of_autonomy_fev_desc:0 "Believing decentralisation to be the key in maintaining the empire, the government has put forward a series of Statutes of Autonomy for the various people groups of the Empire, These programmes however, have proved difficult to implement due to the amount they have swelled the Bureaucracy of the empire. While some efforts have been made to alleviate the economic burden these statues place on the Ottoman political system, it is still significant."
 
 ### Economic (Kemalist)
