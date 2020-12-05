@@ -763,7 +763,7 @@ OTT_Quantity_Restrictions_Import:0 "수입수량제한조치"
 OTT_Quantity_Restrictions_Import_desc:0 "Whilst the government aims to create a strong local industry, it too often finds itself relying on goods imported from the Donau-monarchy or the German Empire. Steel, machinery, chemicals, etc. are all imported which makes us not only reliant on those nations, but greatly hampers domestic goods as they can't compete with the cheap export products of the larger manufactures abroad."
 OTT_Ziraat_Bankasi_Credit:0 "지라트 은행 자금계획"
 OTT_Ziraat_Bankasi_Credit_desc:0 "Originally the brainchild of Midhat Pasha, the Memleket Sandığı was reorganised into the Ziraat Bankasi in 1888. Providing stability and relief for farmers, still the majority of our population, the bank has been greatly expanded over the years. As prices for agricultural goods are in flux, following the collapse of Ukrainian and German markets, the vast reserves of the bank will be used to fight the crisis."
-OTT_Toprak_Mahsulleri_Ofisi:0 "터키 곡물 위원회 설립"
+OTT_Toprak_Mahsulleri_Ofisi:0 "곡물 위원회 설립"
 OTT_Toprak_Mahsulleri_Ofisi_desc:0 "According to Law No 3491, this agency will prevent abnormal decrease or increase of the wheat prices against producers and consumers, to protect and regulate the wheat industry, to import or export wheat when necessary, to monitor wheat production trends and market movements in the world, to establishing milling facilities and bakeries in locations to be determined and to carry on other similar tasks."
 OTT_Balance_the_Budget:0 "예산 균형"
 OTT_Balance_the_Budget_desc:0 "When the Ottoman Empire collapsed under the strain of the debts it had racked up during the Crimean War, an international organisation called the OPDA (Ottoman Public Debt Administration) essentially took over our economy. The disgrace and damage it has caused remains a vibrant memory in the minds of many Turkish economists who since have sworn to maintain a balanced budget at all cost."
@@ -783,7 +783,7 @@ OTT_Model_Farm_Project:0 "모범 농장 계획 확장"
 OTT_Model_Farm_Project_desc:0 "Created during Kemals first term, the Orman Çiftliği or Forest Farm was set up near Ankara as a private farm but was quickly developped into a "model farm" which by using the most modern forms of agriculture was to serve as a tool to teach the Anatolian farmers new methods. With matters in the capital taking most of the Viziers time, the project is on the verge of being transferred to the government."
 OTT_Aleppan_Institute_Technology:0 "알레포 공과 대학교"
 OTT_Aleppan_Institute_Technology_desc:0 "Although a variety of schools already exists to cater to the Arab population, the only real institutes of technological higher learning are on the West Coast of Anatolia, primarily in the capital. To solve the issue of technical illiteracy of large swathes of our population, making them useless to our industrialisation schemes, Aleppo will be the home of a new engineering institute."
-OTT_Monopolise_Railway_Companies:0 "철도회사 독점"
+OTT_Monopolise_Railway_Companies:0 "철도회사 국유화"
 OTT_Monopolise_Railway_Companies_desc:0 "The 'DDUM' or State Railways Administration was founded after the war to take over Entente railway concessions, and to finance the construction of further railroads across the Empire. Nonetheless many foreign concessions remained and various privately held tracks refused integration. With the crisis however, many of these companies are on the brink of bankruptcy, opening the way for unification."
 OTT_Eastern_Anatolian_Project:0 "동아나톨리아 철도 계획"
 OTT_Eastern_Anatolian_Project_desc:0 "Just like the Americans conquered the Frontier through the iron beasts of the industrial era, so has our government decreed the expansion of rail and other roads into Eastern Anatolia. Around these railroads would then be created a system of villages and towns inhabited by Turks or immigrants of both the Balkans and Caucasus to strengthen the hold of Konstaniniyye over their own "Frontier"."
@@ -850,7 +850,7 @@ OTT_Enact_Separation_Church_State:0 "정교분리법 제정"
 OTT_Enact_Separation_Church_State_desc:0 "If the Empire is ever to advance towards a secular institution, we have to take decisive action against the various religious organisations shouting their opposition to the reforms. The Sufi orders form the most significant hurdle in this as they not only de facto control Eastern Anatolia but have direct contacts with the Caliph who they utilise to remain in power. No more!"
 OTT_Union_Party_State:0 "당정연합 실현"
 OTT_Union_Party_State_desc:0 "Such as the populists in Russia have achieved, there can no longer be a difference between party and state. The party will from now on become the state and have the complete monopoly on any and all governmental matters. The Caliph, a puppet soon to be torn down, will be allowed to keep his crown but all reactionaries still standing will be brought to swift justice."
-OTT_Encourage_Private_Initiative_FEV:0 "개인 자주성 장려"
+OTT_Encourage_Private_Initiative_FEV:0 "민간 계획 장려"
 OTT_Encourage_Private_Initiative_FEV_desc:0 "The concept of Private Initiative or teşebbüs-ü Şahsi serves most prominently in the discourse of Sabahattin whom has indentified its lack as one of the main reasons for Ottoman decline. Based on the ideas of Demolin, the Vizier pleads for looking for achievement in yourself and selfconfidence and not relying on family or state, supporting the notion of private ownership as crucial to the social and economic development of the empire."
 OTT_Break_Up_State_Monopolies_FEV:0 "국가 독점 종결"
 OTT_Break_Up_State_Monopolies_FEV_desc:0 "Although the DF largely pushes for a liberal agenda in the social sense, it is also no stranger to its economic ideals, and believes that the large state monopolies set up by the CUP and OHF the last few decades, have seriously hampered the economic growth of the Ottoman Empire. Stifling competition and innovation, the government now pushes for privatisation of these monopolies in an attempt to stimulate the free market."
@@ -892,7 +892,7 @@ OTT_Reform_the_Gendarmerie:0 "오스만 헌병대 개혁"
 OTT_Reform_the_Gendarmerie_desc:0 "After the abolition of the Janissary corps in the early 19th century, a variety of military organisations were established to ensure order and stability in the provinces of Rumelia and Anatolia. With the proclamation of the Tanzimat reforms in 1839, these organisations were combined into the Jandarma (Ottoman Gendarmerie). This organisation however suffers from an over-reliance on Turkish manpower in its upper cadres, making it a prime target for reform."
 OTT_Break_Up_State_Monopolies:0 "국가 독점 종결"
 OTT_Break_Up_State_Monopolies_desc:0 "Although the HIF primarily pushes for a liberal agenda in the social sense, it is also no stranger to its economic ideals, and believes that the large state monopolies set up by the CUP and OHF the last few decades, have seriously hampered the economic growth of the Ottoman Empire. Stifling competition and innovation, the government now pushes for privatisation of these monopolies in an attempt to stimulate the free market."
-OTT_Encourage_Private_Initiative:0 "개인 자주성 장려"
+OTT_Encourage_Private_Initiative:0 "민간 계획 장려"
 OTT_Encourage_Private_Initiative_desc:0 "The concept of Private Initiative or teşebbüs-ü Şahsi serves most prominently in the discourse of Sabahattin whom has indentified its lack as one of the main reasons for Ottoman decline. Based on the ideas of Demolin, the Vizier pleads for looking for achievement in yourself and selfconfidence and not relying on family or state, supporting the notion of private ownership as crucial to the social and economic development of the empire."
 OTT_Multi_Level_Democracy:0 "다단계 민주주의"
 OTT_Multi_Level_Democracy_desc:0 "Although Sabahattin originally did not plead for autonomy, his discourse of decentralisation almost solely found support amongst autonomist movements and various groups of landed elite. They, seeing the centralising state as a direct threat to their own status, support a system of multi-level democracy wherein not just the Chamber of Deputies but also Provincial Assemblies can be empowered to serve their local units."
@@ -1004,7 +1004,7 @@ OTT_Reorganise_Egypt:0 "이집트 빌라예트 재조직"
 OTT_Reorganise_Egypt_desc:0 "The disaster that befell the Ottoman state in the 19th century, and which was only aggravated at the turn of the 20th century, has now been corrected as Istanbul and Cairo are now finally reunited! To prevent this from happening again however, the government has decreed an extensive reorganisation of both parts of the Empire including economic, administrative and cultural adjustments."
 OTT_Reorganise_Sudan:0 "수단 문제 해결"
 OTT_Reorganise_Sudan_desc:0 "Although Sudan was never a core part of the Ottoman Empire, only being conquered in 1820 under the Ottoman vassal Mohammad Ali, it has now nonetheless found itself within our empire as its ancient connections to Egypt (strengthened under the Khedivate and later Sultanate) led to its incorporation after the Levantine War. Much work is to be done however before 'Turkiyya' will truly become an Ottoman province."
-OTT_First_Elections_of_the_Grand_Assembly:0 "제1대 대의회 선거"
+OTT_First_Elections_of_the_Grand_Assembly:0 "제1회 대의회 선거"
 OTT_First_Elections_of_the_Grand_Assembly_desc:0 "As territorial expansion has brought a wide variety of peoples into our empire, the time has come to confer to them the rights of all Ottoman citizens, including the right to send representatives to the Meclis-i Mebusân (Chamber of Deputies). As the size of this body has seen exponential growth due to the vast lands we recently acquired, the body has seen its name changed to 'Büyük Meclisi' or 'Grand Assembly'."
 
 ### Economic (Liberal)
@@ -1016,7 +1016,7 @@ OTT_Quantity_Restrictions_Import_lib:0 "수입수량제한조치"
 OTT_Quantity_Restrictions_Import_lib_desc:0 "Whilst the government aims to create a strong local industry, it too often finds itself relying on goods imported from the Donau-monarchy or the German Empire. Steel, machinery, chemicals, etc. are all imported which makes us not only reliant on those nations, but greatly hampers domestic goods as they can't compete with the cheap export products of the larger manufactures abroad."
 OTT_Ziraat_Bankasi_Credit_lib:0 "지라트 은행 자금계획"
 OTT_Ziraat_Bankasi_Credit_lib_desc:0 "Originally the brainchild of Midhat Pasha, the Memleket Sandığı was reorganised into the Ziraat Bankasi in 1888. Providing stability and relief for farmers, still the majority of our population, the bank has been greatly expanded over the years. As prices for agricultural goods are in flux, following the collapse of Ukrainian and German markets, the vast reserves of the bank will be used to fight the crisis."
-OTT_Toprak_Mahsulleri_Ofisi_lib:0 "터키 곡물 위원회 설립"
+OTT_Toprak_Mahsulleri_Ofisi_lib:0 "곡물 위원회 설립"
 OTT_Toprak_Mahsulleri_Ofisi_lib_desc:0 "According to Law No 3491, this agency will prevent abnormal decrease or increase of the wheat prices against producers and consumers, will protect and regulate the wheat industry, will import or export wheat when necessary, will monitor wheat production trends and market movements in the world, will establish milling facilities and bakeries in locations to be determined and will carry on other similar tasks."
 OTT_Balance_the_Budget_lib:0 "예산 균형"
 OTT_Balance_the_Budget_lib_desc:0 "When the Ottoman Empire collapsed under the strain of the debts it had racked up during the Crimean War, an international organisation called the OPDA (Ottoman Public Debt Administration) essentially took over our economy. The disgrace and damage it has caused remains a vibrant memory in the minds of many Turkish economists who since have sworn to maintain a balanced budget at all cost."
@@ -1119,16 +1119,16 @@ ott_renaissance_desc:0 "유럽인들은 우리를 약하고 병들었다고 여�
 
 ### Political (Fevzi)
 ott_privy_purse_nationalised:0 "몰수된 황실 자산"
-ott_privy_purse_nationalised_desc:0 "In a bid to secure more resources and finances for the Empire, the Ottoman government has confiscate the funds of the Sultan for the good of the state. This short term influx should help alleviate some of the nation’s greater financial difficulties."
+ott_privy_purse_nationalised_desc:0 "제국을 위한 더 많은 자원과 재정을 확보하기 위해 오스만 정부는 술탄의 자산을 몰수했습니다. 이런 단기적인 수입은 국가의 재정난을 완화하는 데 도움이 될 것입니다."
 
 ott_fevzi_cult_of_personality:0 ""원수여, 우리는 여기에!""
-ott_fevzi_cult_of_personality_desc:0 "Centered around the Mareşal, a cult of personality has developed portraying the Weltkrieg hero as the savior of the Turkish people and the future of the Ottoman nation."
+ott_fevzi_cult_of_personality_desc:0 "원수를 세계대전의 영웅이자 터키 민중의 구원자, 그리고 오스만의 미래로 묘사하는 개인숭배 운동이 전개되고 있습니다."
 
 ott_widespread_illiteracy_fevzi:0 "광범위한 문맹"
-ott_widespread_illiteracy_fevzi_desc:0 "Illiteracy is widespread amongst the common people of the empire, as both the difficulty of the Perso-Arabic script and a general disinterest of the lower classes to even bother learning to read, is greatly hampering the industrialisation of our grand empire."
+ott_widespread_illiteracy_fevzi_desc:0 "페르시아 문자의 난해함과 교육에 대한 하층민의 무관심은 광범위한 문맹을 야기했고, 이것은 위대한 제국의 산업화를 크게 저해하고 있습니다."
 
 ### Political (Sabahattin)
-ott_private_initiative:0 "개인 자주성 장려"
+ott_private_initiative:0 "민간 계획 장려"
 ott_private_initiative_desc:0 "As part of their efforts to liberalise the Ottoman economy, the government has begun to encourage the growth of private businesses across the state. Already these initiatives have begun to pay dividends, and economic growth is starting to increase across the country."
 
 ott_bloated_administration:0 "비대해진 관료주의"
@@ -1179,108 +1179,108 @@ ott_statutes_of_autonomy_fev:0 "자치법령"
 ott_statutes_of_autonomy_fev_desc:0 "Believing decentralisation to be the key in maintaining the empire, the government has put forward a series of Statutes of Autonomy for the various people groups of the Empire, These programmes however, have proved difficult to implement due to the amount they have swelled the Bureaucracy of the empire. While some efforts have been made to alleviate the economic burden these statues place on the Ottoman political system, it is still significant."
 
 ### Economic (Kemalist)
-ott_black_monday:0 "Economic Depression"
-ott_black_monday_desc:0 "The ripples of the German economic crash spread far, and not even the empire is immune. The Ottoman economy was never strong to begin with, and the recent German economic crash has pushed it over the edge, already foreign investment is withdrawing from the country. The empire faces a tough road ahead in overcoming this crisis."
-ott_black_monday_2:0 "Economic Depression"
-ott_black_monday_2_desc:0 "The ripples of the German economic crash spread far, and not even the empire is immune. The Ottoman economy was never strong to begin with, and the recent German economic crash has pushed it over the edge. While some efforts have been made on the part of the government to alleviate the crisis, many citizens of the empire still struggle to make ends meet, and businesses continue to shut."
-ott_black_monday_3:0 "Economic Depression"
-ott_black_monday_3_desc:0 "The ripples of the German economic crash spread far, and not even the empire is immune. The Ottoman economy was never strong to begin with, and the recent German economic crash has pushed it over the edge, though it is beginning to claw its way back up. While there is still a long way to go to achieve recovery, it is undeniable that the worst is behind the empire."
-ott_black_monday_4:0 "Economic Depression"
-ott_black_monday_4_desc:0 "The ripples of the German economic crash spread far, but their echoes are becoming increasingly distant. While there are still hardships brought on from the crash, the efforts of the empire to alleviate these difficulties have led to a steady recovery. More investment is needed to push the empire past the pre-crisis levels but it is now a goal firmly in sight."
+ott_black_monday:0 "경제 공황"
+ott_black_monday_desc:0 "독일 경제붕괴의 파장은 멀리까지 퍼져나갔고, 제국은 거기에 면역이 없었습니다. 오스만의 경제는 처음부터 튼튼한 적이 없었고, 독일의 경제 붕괴로 인해 벼랑 끝으로 내몰렸습니다. 이미 오스만에서 외국인 자본이 빠져나가고 있고, 제국은 이 위기를 해결하기 위한 험난한 길을 앞두고 있습니다."
+ott_black_monday_2:0 "경제 공황"
+ott_black_monday_2_desc:0 "독일 경제붕괴의 파장은 멀리까지 퍼져나갔고, 제국은 거기에 면역이 없었습니다. 오스만의 경제는 처음부터 튼튼한 적이 없었고, 독일의 경제 붕괴로 인해 벼랑 끝으로 내몰렸습니다. 위기 완화를 위한 정부의 노력이 어느 정도 이루어졌지만, 여전히 제국의 많은 국민은 생계를 유지하기 위해 투쟁하고 있으며, 기업은 계속해서 문을 닫고 있습니다."
+ott_black_monday_3:0 "경제 공황"
+ott_black_monday_3_desc:0 "독일 경제붕괴의 파장은 멀리까지 퍼져나갔고, 제국은 거기에 면역이 없었습니다. 오스만의 경제는 처음부터 튼튼한 적이 없었고, 독일의 경제 붕괴로 인해 벼랑 끝으로 내몰렸다가 이제야 겨우 다시 일어나고 있습니다. 회복을 위해서는 아직 갈 길이 멀지만, 최악의 상황이 지나갔음은 분명합니다."
+ott_black_monday_4:0 "경제 공황"
+ott_black_monday_4_desc:0 "독일 경제붕괴의 파장은 멀리까지 퍼져나갔지만, 이제 그 메아리는 점차 멀어지고 있습니다. 붕괴로 인한 고난은 여전히 남아있지만, 그것을 완화하기 위한 제국의 노력은 꾸준한 회복으로 이어지고 있습니다. 제국이 공황 이전의 수준을 넘어서기 위해서는 더 많은 투자가 필요하겠지만, 이제 목적지가 확실히 보입니다."
 
-ott_agriculture:0 "Toprak Mahsulleri Ofisi"
-ott_agriculture_desc:0 "The Toprak Mahsulleri Ofisi is an agency which is tasked with regulating the supply of grain across the empire, as well as fostering local food production. This agency does not simply exist to protect consumers however, and also serves to ensure that producers get decent prices for their produce."
+ott_agriculture:0 "곡물 위원회"
+ott_agriculture_desc:0 "곡물 위원회는 오스만 전역에서 곡물 공급을 규제하고, 현지 식량 생산을 촉진하는 기관입니다. 하지만 이것은 단순히 소비자를 보호하기 위한 것이 아닌, 생산자들이 자신의 곡물에 적절한 가격을 받을 수 있도록 하는 역할도 수행합니다."
 
-ott_4_years_progress:0 "Four Years of Progress"
-ott_4_years_progress_desc:0 "Outlined by the Kemalist government as a central government directive to guide the Ottoman economy into the 20th century, this 4-year plan takes inspiration from socialist planned economies and has been drafted with the assistance of foreign economic experts. Primarily aimed at setting up heavy industry to supply the Ottoman Empire, it also entails the full exploitation of the nation’s natural resources including coal, chromium and oil."
-ott_4_years_progress_2:0 "Four Years of Progress"
-ott_4_years_progress_2_desc:0 "Outlined by the Kemalist government as a central government directive to guide the Ottoman economy into the 20th century, this 4-year plan takes inspiration from socialist planned economies and has been drafted with the assistance of foreign economic experts. Primarily aimed at setting up heavy industry to supply the Ottoman Empire, it also entails the full exploitation of the nation's natural resources including coal, chromium and oil."
+ott_4_years_progress:0 "4개년 진보"
+ott_4_years_progress_desc:0 "케말주의 정부가 오스만 경제를 20세기로 이끌기 위한 청사진으로 요약되는 이 4개년 계획은 사회주의 계획경제에서 영감을 받아 해외 경제 전문가의 도움으로 완성되었습니다. 이 계획은 주로 오스만 제국에 필요한 중공업 육성을 목적으로 하며, 석탄, 크롬 및 석유를 포함한 국내 자원의 완전한 개발을 수반합니다."
+ott_4_years_progress_2:0 "4개년 진보"
+ott_4_years_progress_2_desc:0 "케말주의 정부가 오스만 경제를 20세기로 이끌기 위한 청사진으로 요약되는 이 4개년 계획은 사회주의 계획경제에서 영감을 받아 해외 경제 전문가의 도움으로 완성되었습니다. 이 계획은 주로 오스만 제국에 필요한 중공업 육성을 목적으로 하며, 석탄, 크롬 및 석유를 포함한 국내 자원의 완전한 개발을 수반합니다."
 
-ott_model_farm:0 "Model Farm Project"
+ott_model_farm:0 "모범 농장 계획"
 ott_model_farm_desc:0 "With the view of promoting modern agricultural practices, the government has begun supporting so-called 'Model Farms' which will promote foreign methods in the empire."
 
-ott_railroad_effort:0 "Railroad Effort"
+ott_railroad_effort:0 "철도노력"
 ott_railroad_effort_desc:0 "In order to bring about the goal of a modern infrastructure, the Ottoman government is making a massive effort to invest in rail infrastructure, with the goal of allowing fast communication and transport throughout the Middle East."
 
-ott_tithe_abolished:0 "Agricultural Innovation"
+ott_tithe_abolished:0 "농업혁신"
 ott_tithe_abolished_desc:0 "Across the empire, the modernisation initiatives taken in the agriculture have begun to pay dividends, and food output has begun to increase noticeably. While there is still more progress to be made, it is undeniable that improvements are already being seen."
 
-ott_agricultural_revolution:0 "Agricultural Revolution"
+ott_agricultural_revolution:0 "농업혁명"
 ott_agricultural_revolution_desc:0 "Thanks to the concerted efforts of the Kemalist administration, Ottoman agriculture has seen a stunning overhaul. While traditionally thought of as a sector which has not changed much in centuries, modern methods and equipment now find themselves increasingly commonplace across the empire, boosting food output, and financial security for much of the population. With the removal of inefficient methods and land usage, the economy is far more prepared to undergo further modernisation."
 
-ott_autarky:0 "Ottoman Internal Market"
+ott_autarky:0 "오스만 내부 시장"
 ott_autarky_desc:0 "In a bid to distance the Ottoman economy from the fluctuating whims of the global financial system, the Ottoman government has embarked on the mission to create an autarkic economy. While many observers question the ability for the state to cater for modern needs give the empire’s relative lack of development, the level of investment put into domestic industries highlights the Ottoman commitment to this goal."
 
-ott_autarky_resources:0 "Ottoman Internal Market"
+ott_autarky_resources:0 "오스만 내부 시장"
 ott_autarky_resources_desc:0 "In order to ensure that they gain the resources required for a self-contained economy, Ottoman companies have begun to dig deep and greedily in order to extract the most resources they can from the empire’s territory. As the demands of Autarky remain insatiable, they are being encouraged by the government to go further and further in these efforts."
 
 ### Economic (Liberal)
-ott_import_heavy_materials:0 "Heavy Materials Import Program"
+ott_import_heavy_materials:0 "중자재 수입 계획"
 ott_import_heavy_materials_desc:0 "In order to foster the growth of Ottoman industries, the Turkish Industrial Development Bank has been established. While in the long term it aims to foster the growth of domestic industry, currently all it is capable of is mediating trade prices between the empire and western states."
 
-ott_agriculture_lib:0 "Agricultural Modernisation Program"
+ott_agriculture_lib:0 "농업 근대화 계획"
 ott_agriculture_lib_desc:0 "With the aim of replicating western farming practices in the Ottoman Empire, the government has encouraged the importation of western farm equipment and tools. While others have argued for the encouragement of domestic production, the liberals believe that the originals will be far better than any domestic copycat."
 
-ott_agriculture_lib_2:0 "Agricultural Modernisation Program"
+ott_agriculture_lib_2:0 "농업 근대화 계획"
 ott_agriculture_lib_2_desc:0 "ott_agriculture_lib_desc:0 "Furthering the goal of modernising Ottoman agriculture, the government has set up schemes to encourage the growth of modern industrial agriculture across the empire. The introduction of western-made tractors and other agricultural equipment is already seeing results, with food output seeing a noticeable increase."
 
-ott_repealed_national_protection_law:0 "Loosening Economic Restrictions"
+ott_repealed_national_protection_law:0 "경제 규제 완화"
 ott_repealed_national_protection_law_desc:0 "The National Economic Law, introduced by the Kemalists in order to protect domestic industry from foreign competition, has been repealed by the liberal government, citing the impact it had on limiting the resources available to domestic industries, as well as the inefficient industries it helped prop up."
 
-ott_repealed_national_protection_law_2:0 "National Protection Law"
+ott_repealed_national_protection_law_2:0 "국가보호법"
 ott_repealed_national_protection_law_2_desc:0 "In spite of their earlier attempts to liberalise Ottoman imports from the west, the government has found that the negative impact this has had on domestic industries has had an extremely negative backlash. In a bid to garner further support, they have drafted a new National Protection Law, which places new restrictions on foreign competition."
 
-ott_foreign_investment:0 "Foreign Investment"
+ott_foreign_investment:0 "외국인 투자"
 ott_foreign_investment_desc:0 "Thanks to the efforts of the Liberal government, the Ottoman economy has seen a surge in foreign investment in recent months. This has allowed for the growth of new factories which increase employment, and raise the general living standard of the Ottoman people."
 
 ### Politics Post Fevzi
-ott_endeavour_front:0 "Endeavour Front"
+ott_endeavour_front:0 "노력전선"
 ott_endeavour_front_desc:0 ""
 
-ott_basic_industries:0 "Nationalised Basic Industries"
+ott_basic_industries:0 "국유화된 기반 산업"
 ott_basic_industries_desc:0 ""
 
-ott_social_nationalism:0 "Social Nationalism"
+ott_social_nationalism:0 "사회 국가주의"
 ott_social_nationalism_desc:0 ""
 
-ott_union_party_state:0 "Union of Party and State"
+ott_union_party_state:0 "당정연합"
 ott_union_party_state_desc:0 ""
 
-ott_principles_people:0 "Principles of the People"
+ott_principles_people:0 "인민주의"
 ott_principles_people_desc:0 ""
 
 ### Diplomatic
-ott_army_training:0 "Ottoman Military Mission"
+ott_army_training:0 "오스만 군사 사절단"
 ott_army_training_desc:0 "This country has received a Military mission from the Ottoman Empire, which aims to encourage modernisation and the introduction of more advanced tactical knowledge and discipline to the local forces."
 
-ott_joint_command:0 "Joint Military Command"
+ott_joint_command:0 "연합훈련"
 ott_joint_command_desc:0 "This nation has had its military high command integrated into that of the Ottoman Empire, in order to ensure that their troops can operate in unison and with maximum effectiveness."
 
-ott_balkan_military_accords:0 "Member of the Edirne Military Accords"
+ott_balkan_military_accords:0 "에디르네 군사 협정 가맹국"
 ott_balkan_military_accords_desc:0 "With the goal of limiting the possibility of warfare in the Balkans, as well as promoting a sense of understanding, the Ottoman Empire and the Balkan states have forged an ambitious new system known as the Edirne Military Accords. These will have the aim of not just boosting cooperation but also limiting militaries and liberalising trade."
 ott_balkan_military_accords_2:0 "Member of the Edirne Military Accords"
 ott_balkan_military_accords_2_desc:0 "In spite of the perceived impossibility, the Edirne Accords have remained intact and have in fact strengthened, with all sides agreeing to limit the sizes of their militaries, and bind their economies closer together. While it should not be mistaken for an end to all tensions, it is a radical step for the Balkans."
 
-ott_greco_turkish_accord:0 "The Greco-Turkish Accords"
+ott_greco_turkish_accord:0 "그리스-오스만 조약"
 ott_greco_turkish_accord_desc:0 ""
 
-ott_armed_neutrality_2:0 "Armed Neutrality"
+ott_armed_neutrality_2:0 "무장 중립"
 ott_armed_neutrality_2_desc:0 "The brave men who fought against imperialism during the Weltkrieg lay scattered around the Empire in military mass graves, and total casualties of the war encompass over 25% of our pre-war population. We cannot forget nor can we forgive what the Imperial powers have done to us. Dark clouds are gathering above Europe and the fear of renewed war increases but we shall not be part of it! "
 
-ott_syrian_uprising:0 "Arab War of Independence"
+ott_syrian_uprising:0 "아랍 독립전쟁"
 ott_syrian_uprising_desc:0 "The Arabs of the Ottoman Empire are locked in a great struggle with the empire, in order to secure independence for their people. Across the region, many believe this will be the best shot they have to secure victory for a long time, and they will not let it slip through their fingers."
 
-ott_arab_revolt_support:0 "Revolution Fever"
+ott_arab_revolt_support:0 "혁명의 열기"
 ott_arab_revolt_support_desc:0 "This nation has been swept up in a broad wave of support for the Arabs in their struggle with the Ottoman Empire. Many here are itching for the chance to go abroad and fight for the liberation of Arabia from the Ottomans."
 
 ### Military
-ott_mass_production_idea:0 "Centralised Military Production"
+ott_mass_production_idea:0 "중앙화된 군수품 생산"
 ott_mass_production_idea_desc:0 "Across the empire, the hum of various arsenals can be heard as the Ottoman government pours increasing amounts of investment into the armaments industry. This rush of funding has led to Ottomans manufacturing industries to rapidly increase their output."
 
-ott_gendarmerie_idea:0 "Ottoman Gendarmerie"
+ott_gendarmerie_idea:0 "오스만 헌병대"
 ott_gendarmerie_idea_desc:0 "With the aim of maintaining law and order in the many rural areas of the empire, the Ottoman government has created a gendarmerie to police these areas. The creation of this branch of the Ottoman military should hopefully allow the central government to better keep a lid on any dissent or violence in these areas."
 
-ott_air_warfare_academy_idea:0 "Air Warfare Academy"
+ott_air_warfare_academy_idea:0 "항공기 학교"
 ott_air_warfare_academy_idea_desc:0 "In recognition of the central role that aircraft play in modern combat, the Ottoman government has pumped a large amount of money into expanding the training facilities of the Tayyare Mektebi, in order to train the next generation of Ottoman pilots in the latest in aerial tactics."
 
 ##########
