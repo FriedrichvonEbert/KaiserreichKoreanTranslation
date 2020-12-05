@@ -221,11 +221,11 @@ shx.64.a:0 "우리는 수락할 것이다."
 shx.64.b:0 "펑위샹은 믿을만하지 못하다."
 
 shx.65.t.accept:0 "[From.GetNameDefCap]의 동맹 수락"
-shx.65.d.accept:0 "[From.GetNameDefCap]는 펑위샹과의 동맹을 수락했습니다."
+shx.65.d.accept:0 "[From.GetNameDefCap](은)는 펑위샹과의 동맹을 수락했습니다."
 shx.65.a:0 "완벽하구만."
 
 shx.65.t.refuse:0 "[From.GetNameDefCap]의 동맹 거절"
-shx.65.d.refuse:0 "[From.GetNameDefCap]는 펑위샹과의 동맹을 수락했습니다."
+shx.65.d.refuse:0 "[From.GetNameDefCap](은)는 펑위샹과의 동맹을 수락했습니다."
 shx.65.b:0 "그들은 패배할 것이야."
 
 shx.300.t:0 "노동권 문제"
