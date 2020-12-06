@@ -1278,10 +1278,10 @@ fopcoup.021.a:0 "심각해지지 않기를..."
 ### Radical Anarchist Coup Chain ###
 
 fopcoup.022.t:0 "부에노스아이레스 전투"
-fopcoup.022.d:0 "While we may have secured the majority vote in the Trade Union Congress, it appears the Communists and their supporters are undeterred. Calling for the vanguard to secure the revolution, the Communists and their supporters have begun to move against us. Coming from Rosario after the successful campaign in the interior that helped us win against the reactionaries, they intend to perform a pincer movement on Buenos Aires and cut it off from the rest of the country before moving in for the kill. While we have already called for reinforcements in the south, it's clear that skirmishes have already started throughout the country, and they may be delayed long enough for us not to survive the tide."
+fopcoup.022.d:0 "우리가 전국노동조합총회에서 과반수 득표율을 확보했지만, 공산주의자들과 그들의 지지자들은 결과에 승복하지 않은 것 같습니다. 혁명을 완수하기 위해 자신들이 선봉에 서야 한다고 외치면서, 공산주의자들은 우리에게 반기를 들기 시작했습니다. 로사리오에서의 성공적인 반란 행위 이후, 그들은 부에노스아이레스로 협공작전을 펼치려고 합니다. 그리고 우리를 다른 지역과 단절시키려는 계획인것 같습니다. 남부에 증원군을 요청했지만, 이미 전국 각지에서 교전일어나고 있고, 우리가 공상주의자들의 물결을 이겨내지 못할 만큼 오래 지연될 수 있다는 것은 분명합니다."
 fopcoup.022.a:0 "우리는 견뎌낼 것이다."
 
-fopcoup.023.t:0 "공산의 산 니콜라스 데 로스 아로요스 점거"
+fopcoup.023.t:0 "공산주의자의 산 니콜라스 데 로스 아로요스 점거"
 fopcoup.023.d:0 "Outnumbered, we have ordered our forward columns to do a protracted defence, engaging the enemy and retreating before reinforcements could arrive. While this tactic is starting to show results as we are slowly delaying the Communist advance, today we count our first major geographical loss. The small city of San Nicolas de los Arroyos has just been overrun by Communist forces. With the defenders having set up fallback lines from Ramallo to Zarate, it seems the Communist forces are creeping ever closer to the capital. A final confrontation seems inevitable, and we can only hope our allies in the south can come to our aid fast enough."
 fopcoup.023.a:0 "그들을 막을 충분한 수단이 있다."
 
@@ -1326,24 +1326,24 @@ fopcoup.032.a:0 "우리는 승리했다."
 
 ### Moderate Anarchists ###
 
-fopcoup.033.t:0 "Moderate Anarchists Remain Dominant"
-fopcoup.033.d:0 "With the end of the TUC the Moderate Anarchists have managed to remain on top of the other TUC members, holding a two thirds majority of the seats. However, many of the seats the USA holds are loyal not to Arango and Soto, but to Giovanni. With Giovanni being an active detractor of the moderates, it seems we will need to take measures about it"
-fopcoup.033.a:0 "Organize a Meeting"
+fopcoup.033.t:0 "온건무정부주의자들의 과반 달성"
+fopcoup.033.d:0 "전국노동조합총회 이후 온건무정부주의자들이 전체 의석의 3분의 2를 차지하면서 다른 정당들 보다 많은 지지를 얻게되었다. 그러나 아르헨티나 노조연합의 의석중 상당수는 아랑고나 소토가 아니라 지오반니를 지지하고 있는데, 지오반니는 온건파를 비난하는 입장을 취하고 있어 그에 대한 대책이 필요할 것 같습니다."
+fopcoup.033.a:0 "회의를 준비해라."
 
-fopcoup.034.t:0 "Rumours of a Coup"
-fopcoup.034.d:0 "With each hour passing by causing the Congress to grow in uncertainty as the leading coalition seems to be in internal conflict, informants have arrived at the Casa Rosada to inform Chairman Soto that Giovanni not only has no interest in talking but that he is actively plotting to overthrow our government! With little evidence to support or deny these allegations, the chairman will have to decide on his own whether meeting with Giovanni is still worth the trouble."
-fopcoup.034.a:0 "Extend the Invitation Regardless"
-fopcoup.034.b:0 "Prepare to Arrest Giovanni"
+fopcoup.034.t:0 "쿠데타 첩보"
+fopcoup.034.d:0 "당내에 내분의 기미가 보이면서 의회의 불확실함이 점점 성장하는 한편, 카사 로사다의 정보원들은 소토 의장에게 지오반니가 대화에는 관심이 없으며 심지어는 정부를 전복시키려는 음모를 꾸미고 있다는 사실을 알려주었습니다! 이러한 주장을 뒷받침할수도, 부인할수도 못하는 상황에서 의장은 지오반니와의 회담이 그만한 가치가 있는지 결정해야 할 것입니다."
+fopcoup.034.a:0 "일단 회담은 그대로 진행하자."
+fopcoup.034.b:0 "지오반니를 구속해라."
 
-fopcoup.035.t:0 "Meeting with Giovanni is Succesful"
-fopcoup.035.d:0 "Despite expectations of the contrary, Giovanni accepted the invitation, and he layed out his demands for his support for the USA to remain in the TUC. While the outcome of the negotiations remains unclear, it seems that Soto and Arango have come out satisfied with the demands, and talks to further bolster the unity within the Anarchists will continue."
-fopcoup.035.a:0 "A Happy Ending?"
+fopcoup.035.t:0 "지오반니와의 회담 성공"
+fopcoup.035.d:0 "서로 다른 입장을 가졌음에도 불구하고 지오반니는 회담을 수락했으며, 그는 아르헨티나 노조연합이 전국노동조합총회에 잔류할 수 있도록 지지해 달라고 요청했습니다. 협상 결과는 불투명하지만 소토와 아랑고는 이 요구에 만족한 듯하며, 무정부주의자들의 내부 단결을 더욱 강화하기 위한 대화는 계속될 것입니다."
+fopcoup.035.a:0 "좋게 ?"
 
-fopcoup.036.t:0 "Antonio Soto and Emilio Lopez Arango Assassinated"
-fopcoup.036.d:0 "Terrible news have reached the Congress today, as the Chairman Antonio Soto and his partner Emilio Lopez Arango have been found dead in their residences. While an investigation is currently ongoing as to how the assassins could've reached the Chairman, many are already looking to the TUC to choose a new leader. Severino di Giovanni has come out in the TUC speaking strongly about how despite his differences, this assassination only proves that in this time of uncertainty, more radical measures are required to pacify the nation and further the world revolution. While his call for unity in the USA seems to be well received, many detractors like Diego Abad de Santillan have been quick to point out that Giovanni's anarchists may have been the perpetrators of the Assassination..."
-fopcoup.036.a:0 "Santillan Needs to Stop His Conspiracy Theories..."
+fopcoup.036.t:0 "안토니오 소토와 에밀리오 로페즈 아랑고 암살 사건"
+fopcoup.036.d:0 "안토니오 소토 의장과 그의 동료인 에밀리오 로페즈 아랑고가 그들의 거주지에서 시체로 발견되었다는 끔찍한 소식이 오늘 의회에 도착했습니다. 암살자들이 의장에게 어떻게 접근했는지에 대한 조사가 현재 진행 중이며, 그와 동시에 많은 사람들은 새로운 지도자를 선정하기 위해 전국노동조합총회를 소집했습니다. 세베리노 디 지오반니는 전국노동조합총회에서 이번 암살은 불확실한 이 시국에 국가와 세계혁명을 수행하기 위해 더 급진적인 조치가 필요하다고 주장했습니다. 아르헨티나 노조연합의 단결을 요구하는 그의 연설은 좋은 반응을 얻고 있는 것처럼 보이지만, 디에고 아바드 데 산티얀과 같은 많은 사람들은 지오반니의 무정부주의자들이 암살의 가해자였을 수도 있다고 지적하고 있습니다..."
+fopcoup.036.a:0 "산티얀의 입을 다물게 해라..."
 
-fopcoup.037.t:0 "Giovanni Captured!"
+fopcoup.037.t:0 "지오반니 구속"
 fopcoup.037.d:0 "With the rumours of the coup having swayed chairman Soto, he issued an order to arrest Giovanni. When a column came to capture him, they found him on a meeting with his loyalist members, and while it seemed for a moment that they'd come peacefully, a shoot-out ensued between his inner circle and our forces. Despite heavy casualties for both sides, Severino has been captured alive, and furthermore, evidence of planned assassinations for both chairman Soto and Emilio Lopez Arango have been discovered and will be presented to the Congress for examination soon, where a trial will be held to imprison Giovanni. While many anarchists in the USA still see Giovanni in good eyes, the evidence we will present in the Congress is sure to convince them that, at the very least, Giovanni was taking his revolution too far, to the point of betraying his own revolutionary comrades."
 fopcoup.037.a:0 "Let's Hope This is the End of the Radicals"
 
