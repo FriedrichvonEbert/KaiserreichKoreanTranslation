@@ -584,7 +584,7 @@ yun.83.a:0 "아마 본인 스스로 제어하고 있을 것이다..."
 yun.83.b:0 "그의 재활비용을 지불하라."
 
 yun.90.t:0 "주페이더의 제의"
-yun.90.d:0 "쿤밍에서 주더가 권력을 확보하면서 주페이더가 국민혁명군의 이름으로 수도에 대표단을 파견했습니다. 대표단은 주더에게 성을 확보하는데 도움을 준 데에 감사를 표하면서 주페이더와 국민당에게 권좌를 넘겨달라는 요청을 확실히 했습니다. 주더가 지역 전체를 집어삼키려 하는 내전을 막기 위해 개입하던 와중, 주페이더는 주더가 과거에 국민혁명군에 품었던 충성심과 북벌 동안 주었던 지원을 예로 들며 두 사람이 정치적인 공통점을 찾을 수 있다고 주장했습니다. 하지만 국민당이 전장에서 National Foundation Army에게 참패했다는 점을 고려한다면, 이것이 저들의 영향력을 성에서 일소할 절호의 기회가 될 수도 있습니다..."
+yun.90.d:0 "쿤밍에서 주더가 권력을 확보하면서 주페이더가 국민혁명군의 이름으로 수도에 대표단을 파견했습니다. 대표단은 주더에게 성을 확보하는데 도움을 준 데에 감사를 표하면서 주페이더와 국민당에게 권좌를 넘겨달라는 요청을 확실히 했습니다. 주더가 지역 전체를 집어삼키려 하는 내전을 막기 위해 개입하던 와중, 주페이더는 주더가 과거에 국민혁명군에 품었던 충성심과 북벌 동안 주었던 지원을 예로 들며 두 사람이 정치적인 공통점을 찾을 수 있다고 주장했습니다. 하지만 국민당이 전장에서 건국전군에게 참패했다는 점을 고려한다면, 이것이 저들의 영향력을 성에서 일소할 절호의 기회가 될 수도 있습니다..."
 yun.90.a:0 "국민당은 중국을 정당한 모습으로 복원해 낼 것이다!"
 yun.90.b:0 "주페이더는 운남과 그 사람들을 망쳤다!"
 
@@ -594,20 +594,20 @@ yun.91.a:0 "주더가 여전히 책무를 맡는다."
 yun.91.b:0 "장보쥔이 새로운 성장이 된다!"
 
 yun.92.t:0 "주페이더가 딸들과 재결합하다"
-yun.92.d:0 "With all the carnage and devastation desolating China, good news have become rare to come by. As such, local newspapers quickly picked up on the search carried out by Zhu De to find his daughter in Sichuan, as his search progressed in the last few weeks. For those foreign to his search, an interview with Zhu De revealed some details of his search: Before leaving to Germany, Zhu De had married He Zhihua after meeting her in Shanghai, and in 1926, they both had a daughter, which he named Sixun. However, He Zhihua broke up with Zhu De shortly after returning from Germany, taking Sixun with her. While Zhu De had received a few hints of information on Zhihua's whereabouts over the years, he only learned relatively recently that Sixun was not with her, and so he decided to begin his search for her daughter. The failure of the Northern Expedition confined his search for young Sixun to Yunnan, but with the recent events in Sichuan, Zhu De has been able to extend his search in that area as well. Luckily for him, He Zhihua's sister had been tasked with taking care of young Sixun, now renamed Feifei by her mother, and she happened to live in Chengdu and read up on Zhu De's search posters. While the meeting took place privately and away from the press' eyes, the story has moved many amongst the Yunnanese public, who now support Zhu De's rule."
+yun.92.d:0 "학살과 파괴가 중국을 황폐화시키던 시대에 좋은 소식은 좀처럼 들리지 않습니다. 이런 와중에 지역 신문들은 주더가 사천에서 딸을 찾기 위해 수색을 시작했으며, 몇주간 계속되던 작업이 얼마나 진행되었는지에 관해서 빠르게 기사를 게재했습니다. 수색작업과 관련 없는 이들에게도 주더가 한때 했던 인터뷰가 어떤 증거를 제시해주었습니다. 독일로 떠나기 전에 주더가 상하이에서 만난 허지화와 결혼식을 올렸고, 1926년 딸을 낳아 쓰쉰이라는 이름을 붙여줬다는 것이었습니다. 하지만 허지화는 독일에서 귀국한지 얼마 되지 않아 갈라섰고 쓰쉰을 데리고 갔습니다. 주더가 허지화의 행방에 관해 수년에 걸쳐 얼마 되지 않는 실마리만 잡던 와중, 비교적 최근 쓰쉰이 그녀와 함께 있지 않다는 사실을 알게 된 주더는 딸의 행방을 탐색하기로 결심했습니다. 북벌이 실패한 이래로 어린 쓰쉰 수색 작전은 운남으로 국한되었었지만, 최근 벌어진 사건으로 인해 주더는 사천까지도 수색 범위를 연장할 수 있었습니다. 다행히도 허지화의 자매가 어린 쓰쉰을 돌보는 역할을 도맡았고 페이페이라는 새로운 이름을 지어줬다고 합니다. 그리고 그녀는 청두에서 살던 도중 우연히 주더의 수색 전단지를 보게 되었습니다. 두 모녀의 만남은 개인적으로 이루어졌기 때문에 언론의 눈 바깥에서 진행되었지만, 이 이야기는 주더의 통치를 지지하는 운남 대중의 심금을 울렸습니다."
 yun.92.a:0 "진정 기쁜 시간이군."
 
 yun.93.t:0 "주페이더의 상태가 악화되다"
-yun.93.d:0 "Zhu Peide has long been afflicted by Anemia, and his work as the Governor of Yunnan were bound to have a negative effect on his health. However, Zhu Peide's commitment to handling the situation personally have considerably affected his health for the worse, appearing pale and weak, and growing ever thinner with each passing week. The officers of the National Revolutionary Army have stated concerns that he may be overworking himself to death, and have sent a letter to his commander in order to convince him to take a very deserved break."
+yun.93.d:0 "주페이더는 오랫동안 빈혈에 시달려 왔으며 운남성장으로서 업무를 도맡았기 때문에 건강에 악영향이 미쳤습니다. 하지만 자기 손으로 문제를 해결하려는 주페이더의 업무 방식으로 인해 그의 건강은 더욱 악화되었습니다. 그는 날이 갈수록 창백하고 약해져갔으며 시간이 흐르면서 점차 야위어가고 있습니다. 국민혁명군 장교들은 그가 과로로 죽음을 맞을지도 모른다며 우려를 표명했고, 주페이더에게 반드시 휴식을 가져야 한다고 설득하기 위해 직속 지휘관에게 편지를 보냈습니다."
 yun.93.a:0 "'그들이 옳다...'"
 yun.93.b:0 "'회의 하나만 더 하세...'"
 
 yun.94.t:0 "주페이더가 사망하다!"
-yun.94.d:0 "Disaster has striken our beloved leader! Before a meeting of the Kuomintang Third Plenary Session, Zhu Peide's condition grew increasingly worse and he was asked to stay at home. However, the General, dedicated to restore China to its natural state, decided that his presence was necessary, and injected himself right before the meeting with anti-anemic drugs he had acquired from German experts. While at first the meeting was carried out normally, it was clear the General was suffering sharp pain in his body, and was quickly taken to the Kunming Hospital. It was unfortunately too late, he was diagnosed of Blood poisoning due to the injection, and there was little the doctors could do for him other than sedating him to soothe the pain. He passed away this afternoon, and now the Kuomintang has been thrown into disarray. Despite the fact he was seen injecting himself with the drugs, many are saying that his death may have been a political assassination, and the fact vandals painted 'ZHU PEIDE - A MAN WITHOUT HONOUR' in his residence in Kunming only further increase the public's suspicions. As a provisionary measure, Bai Chongxi has been nominated provisional governor of the Yunnan Province, but it remains to be seen what his plans are, and if they aligned with Zhu Peide's vision at all..."
+yun.94.d:0 "사랑하는 지도자에게 재앙이 닥쳤습니다! 국민당 제3차 당총회 직전 주페이더의 상황은 더욱 악화되었고 집에서 휴식하라는 요청이 전해졌습니다. 하지만 중국을 일반 국가로 되돌리겠다는 목적에 헌신하던 장군은 자신이 총회에 참여해야만 한다고 판단했고 독일 전문가들에게 획득한 빈혈약을 주사하고 회의에 참가했습니다. 처음에는 회의가 평소처럼 진행되었지만 장군이 심한 통증을 겪고 있다는 것이 점점 더 분명해졌고 재빨리 쿤밍 병원으로 후송되었습니다. 안타깝게도 상황은 너무도 늦었습니다. 그는 주사로 인한 패혈증을 진단받았으며 고통을 줄이기 위해 진정제를 투여하는 것 외에 의사가 해줄 수 있는 일은 아무것도 없었습니다. 그는 오늘 오후 세상을 떠났고 국민당은 혼란에 빠졌습니다. 주페이더가 자기 손으로 주사를 놓았다는 목격 증언이 있었음에도 불구하고 많은 이들은 이번 사건이 정치적 암살이라고 말하고 있으며, 파괴자들이 그의 생가에 '주페이더 - 명예가 없는 남자'라는 낙서를 남기면서 대중의 의심은 더욱 증폭되었습니다. 임시방편으로 바이충시가 운남 임시성장으로 지명되었지만, 그의 계획이 무엇인지, 그리고 주페이더의 미래상과는 얼마나 비슷한지는 아무도 모릅니다..."
 yun.94.a:0 "암울한 시간이로다..."
 
 yun.100.t:0 "참모총장 임명"
-yun.100.d:0 "As we prepare ourselves for starting the Army reforms, a question has been brought up in the general staff as for who will be the new Chief of Staff of the Army. As agreed by all the General Staff, it should be someone without any political connections to the political factions within Yunnan, and they should be Generals with an offensive mindset, as Yunnan is aiming to spread its influence outside of its immediate borders. With a list of pre-candidates selected, the final decision of the General staff is to appoint..."
+yun.100.d:0 "육군 개혁 시작을 준비하면서 누가 신임 참모총장 자리에 앉아야 하느냐는 의문이 총참모부에게 던져졌습니다. 작전참모들이 합의한 대로 후보자는 운남 내부의 정파들과 정치적 관계를 가지지 않은 인물이어야 하며, 운남이 현재 국경 바깥으로 영향력을 확산시키려는 목표를 가지고 있기 때문에 공격적인 사고방식을 가진 장군이어야 합니다. 예비 후보자 명단이 선정되면서 총참모부에게 최종 임명권이 주어졌습니다..."
 yun.100.a:0 "푸자오첸."
 #yun.100.b:0 "Appoint Huang Wei"
 yun.100.c:0 "리런타오."
@@ -616,7 +616,7 @@ yun.100.f:0 "완멍린."
 #yun.100.g:0 "Appoint Zhao Jinyun"
 
 yun.101.t:0 "운남이 선박을 통해 소총을 보내다!"
-yun.101.d:0 "As we face the German menace in the jungles, cities and forests of our nation, the Yunnan Clique, which has long been a safe heaven for sympathizers of the Indochinese anti-imperialist crusade, has decided to send us a Rifle shipment. Considering the trek from the mouth of the Mekong River must have surely been long and fraught with danger of it being stopped by the Germans, their support for our cause should be greatly appreciated, even though they may just be using us to get rid of the Germans and hence reduce the costs of utilizing the Kunming-Haiphong Railway..."
+yun.101.d:0 "우리나라의 정글과 도시 그리고 숲속에서 독일의 위협에 맞서던 와중, 인도차이나 반제국주의 성전에 동조하는 이들을 보호해주는 천국의 역할을 맡던 운남군벌이 소총을 선박을 통해 수송해주기로 했습니다. 메콩강 어귀를 통한 수로는 독일에 의해 언제 방해받을지 모르는 길고 우려되는 위험한 길임에도 불구하고 우리를 도우려는 저들의 의도에 크게 감사해야만 합니다. 저들이 쿤밍-하이퐁 철도 이용 요금을 많이 받아가는 독일을 몰아내 비용을 절감하기 위해 우리를 이용할 뿐일지라도 말이지요..."
 yun.101.a:0 "Xièxiè(고맙소)!"
 
 yun.105.t:0 "사천에 최후통접을 보내다"
