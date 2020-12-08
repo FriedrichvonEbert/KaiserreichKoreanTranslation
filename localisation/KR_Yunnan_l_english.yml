@@ -620,81 +620,81 @@ yun.101.d:0 "우리나라의 정글과 도시 그리고 숲속에서 독일의 �
 yun.101.a:0 "Xièxiè(고맙소)!"
 
 yun.105.t:0 "사천에 최후통접을 보내다"
-yun.105.d:0 "With our preparations ready, it's now time to draft an ultimatum for Sichuan. If they acknowledge our rule and place the [SZC_puppet_faction] in charge, then we shall spare them, but otherwise, we shall teach the Sichuanese a lesson they won't soon forget..."
+yun.105.d:0 "준비가 다 끝난 지금이 바로 사천에 최후통첩을 보낼 적시입니다. 만약 저들이 우리의 지배권을 인정하고 [SZC_puppet_faction] 통치권을 넘겨준다면 살아남겠지만, 그렇지 않는다면 사천 사람들에게 절대로 잊을 수 없는 교훈을 가르쳐 줄 것입니다..."
 yun.105.a:0 "우리는 승리를 향해 행진한다!"
 
 yun.106.t:0 "운남이 우리를 위협하다!"
-yun.106.d:0 "News have arrived from the South as a controversial ultimatum has reached our officials. The Yunnan Clique has issued an ultimatum, demanding us to cede power to the [FROM.SZC_puppet_faction] and to recognize their government as the real government of China. While this is a preposterous ultimatum, the warmongering ways of the Yunnan Clique shouldn't be underestimated..."
+yun.106.d:0 "남부에서 논란이 될 만한 최후통첩을 보냈다는 소식이 우리 관료들에게 전해졌습니다. 운남군벌은 [FROM.SZC_puppet_faction]에게 권력을 이양하고 자신들을 중국의 진정한 정통 정부로 승인하라는 최후통첩을 보냈습니다. 당연히 이건 터무니없는 요구지만, 운남군벌의 전쟁광적인 성향을 과소평가해서는 안됩니다..."
 yun.106.a:0 "우리는 놈들의 요구에 굴복하지 않을 것이다."
 yun.106.b:0 "어쩔 방법이 없구나..."
 
 yun.107.t:0 "사천이 우리의 최후 통첩을 거부하다"
-yun.107.d:0 "The Sichuanese government has refused our fair and just terms for peace. While public support for the war is rather scarce, we are confident that we can defeat Sichuan given their administrative mismanagement and recent political factionalism. However, while backing out now would be humiliating, there may still be a way for peace..."
+yun.107.d:0 "사천 정부가 공정하고 정당한 평화 조건을 거부했습니다. 전쟁에 대한 대중의 지지도가 약간 부족하기는 하지만, 사천의 행정적 무능과 정치적 파벌주의를 감안해 본다면 저들에게 승리를 거둘 수 있다는 확신이 생깁니다. 한편으로 지금 물러나는 것은 굴욕적인 일이겠지만, 평화를 향한 길은 여전히 있을 것입니다..."
 yun.107.a:0 "그렇다면 전쟁이 있을 뿐이다."
 yun.107.b:0 "지금은 적절한 시기가 아닐지도 모른다..."
 
 yun.108.t:0 "사천이 응하다"
-yun.108.d:0 "Surprisingly, the Sichuan Clique has accepted the terms of ultimatum and caved in entirely to our demands. While certainly an unexpected, it's not an unwelcome one by the general staff, and our armies are already moving across the border to secure that there are nor second thoughts..."
+yun.108.d:0 "놀랍게도 사천군벌은 최후통첩 조건을 수용했고 우리의 요구를 완전히 받아들였습니다. 확실히 예상치 못한 반응이기는 하지만 총참모부 입장에서 불리한 상황은 아닙니다. 벌써 아군이 저들이 생각을 바꾸기 전에 지역을 확보하기 위해 국경을 넘어 움직이고 있습니다..."
 yun.108.a:0 "훌륭하군."
 
 yun.109.t:0 "운남이 철회하다!"
-yun.109.d:0 "In an incredible turn of events, Yunnan has decided to back down from their invasion despite their ultimatum. While this is certainly an unexpected outcome, it's not unwelcome by our government."
+yun.109.d:0 "믿을 수 없는 상황이 벌어졌습니다. 최후통첩을 보낸 운남이 침략을 그만두고 물러서기로 결정했습니다. 이건 분명 예상치 못한 결과였지만, 우리 정부 입장에서 불리한 상황은 아닙니다."
 yun.109.a:0 "지금 당장은 안심해도 될 것 같군."
 
 yun.110.t:0 "사천 정부가 항복을 요청하다"
-yun.110.d:0 "With our successful campaign on Southern Sichuan, it seems that the Sichuanese Government has finally cracked and they have decided to send over a delegation to negotiate terms of surrender. While we have an oath to bring the [SZC_puppet_faction] to power in Sichuan as our friends and allies, we could also just look into annexing Sichuan into Yunnan..."
+yun.110.d:0 "남부 사천에서 작전이 성공적으로 이루어지면서 마침내 무너지기 시작한 사천 정부가 항복 조건을 협상하기 위해 사절단을 파견하기로 결정했습니다. 우리가 한때 [SZC_puppet_faction]를 사천의 권력자이자 우리의 친구로 삼겠다고 맹세하기는 했지만, 사천 영토를 운남에 합병하는 안도 검토해볼만 합니다..."
 yun.110.a:0 "우린 사천의 모든 것을 가질 것이다!"
 yun.110.b:0 "어디, 조건부 협상을 해볼까."
 
 yun.111.t:0 "운남이 전쟁에서 승리하다"
-yun.111.d:0 "The Yunnanese Army has pushed past the border and taken the major population centers of our provinces. Mountain a defence now would be pointless, as a counter-attack in those areas would prove fruitless and even counterproductive for the people of Sichuan caught in the crossfire. We have no choice but to seek an arrangement with Yunnan."
+yun.111.d:0 "운남군이 국경선에서 진군하며 우리 성의 주요 인구 밀집 지역을 점령했습니다. 이 지역에서 반격을 가하는건 아무런 의미가 없을게 자명하고 심지어는 사천 주민들을 포화에 휩싸이게 하는 역효과만 불러일으킬 것이기 때문에 지금 방어선을 구축하는건 무의미할 것입니다. 운남과 타협을 모색하는 것 외에 다른 선택지는 없습니다."
 yun.111.a:0 "우리에게 항복을 뺀 선택지가 없구나."
 
 yun.115.t:0 "호남에 최후통첩"
-yun.115.d:0 "With our army ready to invade the Hunan in order to retake Zhenyuan, the assemblies of Kunming and Guiyang have presented complains that maybe going to war at this time wouldn't be a good idea, and that instead we should foster good relations with our neighbours. However a better time to strong-arm Hunan into submission and even possibly annexation may never come again...."
+yun.115.d:0 "아군이 전위안현을 탈환하기 위해 호남을 침공할 준비를 마친 가운데 쿤밍과 구이양 의회는 이 시기에 전쟁을 일으키는 것은 좋은 생각이 아니며 그 대신에 이웃 세력과 좋은 관계를 맺어야 한다며 불만 사항을 드러냈습니다. 하지만 호남을 굴복시키고 심지어 합병까지 하려면 지금보다 더 좋은 시기가 오지 않을지도 모릅니다...."
 yun.115.a:0 "우리는 양쯔강으로 향할 것이다!"
 yun.115.b:0 "재고해봐야 할지 모른다..."
 
 yun.116.t:0 "운남이 우리의 항복을 요구하다!"
-yun.116.d:0 "With a huge army assembled at Qianzhong, the Yunnanese Army has issued an ultimatum to our government. In it, they state that we should recognize their government as the de-facto government of China and the Hegemonic power of the South China Region, as well as the devolution of the Zhenyuan province that used to be part of the Guizhou Clique. While we could challenge their Ultimatum and refuse, it remains obvious that the only outcome of such action will be war, and so, proposals for negotiations have been presented..."
+yun.116.d:0 "대규모 군대가 첸중에 집합하면서 운남군이 우리 정부에 최후통첩을 보냈습니다. 저들은 우리가 자신들을 중국의 사실상의 정부이자 남중국의 지배자로 인정하고, 동시에 전위안현을 포기해 구이저우 군벌에게 할양하라고 요구했습니다. 최후통첩에 도전하고 거부할 수는 있겠지만, 그런 선택지의 유일한 결과는 전쟁밖에 없을 것이 분명합니다. 그런 이유로 협상을 하기 위한 여러 제안들이 제시되었습니다..."
 yun.116.a:0 "우린 독립을 포기하길 거부하겠다!"
 yun.116.b:0 "전위안을 포기하되, 결단코 우리의 독립은 포기하지 않을 것이다!"
 yun.116.c:0 "우린 그들의 요구에 응하는 것 말고는 별다른 선택지가 없다."
 yun.116.e:0 "전위안은 그들의 것이다."
 
 yun.117.t:0 "호남이 최후통첩을 거부하다"
-yun.117.d:0 "The Hunanese Delegation has stated that, on behalf of the Hunan Provincial Government, they refuse to comply with the Ultimatum, and that they shall be breaking off negotiations and heading back to the province. How should we react to such a discourteous end to our negotiations?"
+yun.117.d:0 "호남성 정부를 대표해서 온 호남 대표단은 최후통첩의 수용을 거부하며 협상을 즉각 파기하고 성으로돌아갈 것이라고 밝혔습니다. 이렇게 무례한 협상 파행에 어떻게 반응해야 하겠습니까?"
 yun.117.a:0 "병력를 준비하라."
 yun.117.b:0 "우린 다른 곳을 찾아봐야 할 지도 모르겠어..."
 
 yun.118.t:0 "호남이 전위안을 양도하되 항복하진 않다"
-yun.118.d:0 "The Hunanese Delegation has stated that, on behalf of the Hunan Provincial Government, they are willing to cede Zhenyuan back to Yunnan, but that they refuse to recognize Yunnan as the hegemon of the region, let alone recognize its government as the central government of China. While this proposal would give us back our claims on Hunan, accepting it would also mean relinquishing taking control of the Hunan government as a whole..."
+yun.118.d:0 "호남성 정부를 대표해서 온 호남 대표단은 전위안을 다시 운남에게 양도할 의사는 있지만 운남 정권을 중국의 중앙정부로 승인하는 것과 이 지역의 패권국으로 인정하라는 요구는 받아들일 수 없다고 밝혔습니다. 저들의 제안을 수용한다면 호남 내에 존재하는 영유권 지역을 되찾을 수는 있겠지만 호남 전체를 장악한다는 선택지를 포기한다는 뜻이기도 합니다..."
 yun.118.a:0 "우린 호남의 전 지역을 차지할 것이다!"
 yun.118.b:0 "우린 전위안 정도로도 충분하다."
 
 yun.119.t:0 "운남이 철회하다"
-yun.119.d:0 "In a surprising turn of events, the Yunnanese Army has decided to accept our choice, and has pulled out from the border. While tensions between both cliques remain high, it seems that war has been avoided, at least for now..."
+yun.119.d:0 "놀랍게도 상황이 뒤바뀌면서 운남군이 우리의 선택을 수용했고 국경에서 물러섰습니다. 두 군벌 사이의 긴장이 완전히 사라진 것은 아니지만, 최소한 지금 당장은 전쟁을 피할 수 있었던 것으로 보입니다..."
 yun.119.a:0 "호남은 강하다."
 
 yun.120.t:0 "호남이 우리의 요구에 응하다"
-yun.120.d:0 "The Hunanese Delegation has stated that, on behalf of the Hunan Provincial Government, they are willing to recognize Yunnanese Hegemony and reorganize their government in the image of ours so long as we respect their autonomy from us. While it comes as a surprise for the General Staff as the ultimatum was meant to be rejected, it still is a considerable victory."
+yun.120.d:0 "호남성 정부를 대표해서 온 호남 대표단은 운남의 지역 패권을 인정하고, 자신들의 자치권을 존중하는 대가로 우리가 원하는 방향으로 정부 체계를 재편할 용의가 있다고 밝혔습니다. 최후통첩이 거부당할 것이라고 예상했기 때문에 이번 상황이 상당히 의외의 결과이기는 하지만, 그래도 이건 커다란 승리입니다."
 yun.120.a:0 "우리 성의 큰 성공이로다!"
 
 yun.121.t:0 "운남이 전위안을 통제하다"
-yun.121.d:0 "As our delegation returned with the agreement signed, Yunnanese troops have moved into Zhenyuan and secured their new border."
+yun.121.d:0 "대표단이 조약에 서명하고 돌아오면서 운남군이 전위안으로 진군해 새로운 국경선을 확보했습니다."
 yun.121.a:0 "이건 평화의 대가다."
 
 yun.122.t:0 "호남이 전위안을 양도하다"
-yun.122.d:0 "As stipulated in the negotiations, Hunan has handed over the province of Zhenyuan, which is already being guarded by our army, and our government officials are making the first steps to make sure the transition between the two provincial government goes smoothly."
+yun.122.d:0 "조약에 쓰여진대로 호남은 이미 아군이 확보한 전위안 현을 공식적으로 넘겨주었고, 정부 관료들이 양 세력간에 지역 양도를 확실히하기 위해 첫발을 내딛고 있습니다."
 yun.122.a:0 "아주 좋군."
 
 yun.123.t:0 "버마에서의 우리 목표가 완료되다"
-yun.123.d:0 "With our successful crossing of the Burmese border and the capture of both Northern Shan and Kachin, our objectives in Burma are now complete. Should we continue forwards towards Rangoon or should we end the conflict and consolidate our hold in the region?"
+yun.123.d:0 "버마 국경으로 성공적으로 진군해 북부의 샨과 차친을 모두 확보하면서 버마에서 우리가 잡은 목표를 모두 성취했습니다. 양군쪽으로 계속 진군해야 할까요 아니면 충동을 끝내고 지역 통치력을 확실히 해야 할까요?"
 yun.123.a:0 "우리는 충분히 가졌다. 적에게 우리의 조건을 보내라."
 yun.123.b:0 "우리는 총체적인 승리를 거둘 것이다!"
 
 yun.124.t:0 "운남이 요구를 보내다"
-yun.124.d:0 "After their successful offensive into Burma, the Yunnanese government has declared that it has no intention in continuing conflict beyond their capture territory, and has offered their terms for a peace-deal, which include the annexation of Northern Shan and Kachin and the creation of a new Burmese government that's aligned with Yunnan's governance. What should our response be?"
+yun.124.d:0 "버마로 성공적인 공세를 펼친 운남 정부는 지금 확보한 영토를 넘어서 분쟁을 계속 이어나갈 의도가 없다고 발표했고, 북부 샨과 카친을 합병하고 운남 통치에 맞춰 버마에 새로운 정권을 수립하는 내용의 평화 조건을 제안했습니다. 어떻게 반응해야 할까요?"
 yun.124.a:0 "우리에겐 승낙 말곤 선택지가 없다."
 yun.124.b:0 "거부하겠다, 아직 전쟁은 끝나지 않았어!"
 
@@ -707,7 +707,7 @@ yun.126.d:0 "운남군이 랑군에 진입하면서 이전 정부는 구금되�
 yun.126.a:0 "이건 마치 영국놈들이 다시금 곳곳에 있는것 같군..."
 
 yun.127.t:0 "운남이 우리 샨 주의 일부를 통제하다"
-yun.127.d:0 "With their successful crossing of our border and the capture of Southern Shan, Yunnan has achieved their objectives in Siam. We could offer them a peace-deal in order to save us from a protracted war, or we could continue to conflict and risk total defeat. What should we do?"
+yun.127.d:0 "국경을 성공적으로 넘어 남부 샨을 확보한 운남은 시암에서 잡은 목표를 모두 성취했습니다. 장기화된 전쟁에서 살아남기 위해 평화협정을 제안할 수도 있고, 아니면 완패의 위험을 무릅쓰고 전쟁을 계속해 나갈 수도 있습니다. 어찌해야 할까요?"
 yun.127.a:0 "우리는 충분히 가졌다. 운남에게 우리의 조건을 보내라."
 yun.127.b:0 "아니, 우리는 총체적인 승리를 거둘 것이다!"
 
@@ -733,13 +733,13 @@ yun.132.d:0 "시암 정부는 샨 주를 기꺼이 우리 정부에게 넘겨주
 yun.132.a:0 "중국의 또다른 한 조각이 재통합되었다."
 
 yun.133.t:0 "티베트의 붕괴" #티베트의 입장에서는 참도, 운남의 입장에서는 창도
-yun.133.d:0 "Yunnan has had a large Tibetan ethnic group in the Northwestern side of Dali for a long time. With the collapse of the Qing Empire however, the spheres of influence of Yunnan and Tibet amongst these autonomous groups of Tibetans have grown foggier, and the border delimiting what belongs to Tibet and what belongs to Yunnan have changed drastically over the years. However, within our territorial bounds, the departments of Diqin and Nujiang have always claimed the Southern Tip of Tibet, more specifically the town of Markam. While these relatively localised territorial 'misunderstandings' could be a good ground to start showing once again the Yunnanese dominance, many within our government worry if this is really a hill worth dying on..."
+yun.133.d:0 "운남은 예로부터 다리 북서쪽 지역에 거대한 티베트 인종 집단을 다스려 왔습니다. 하지만 청 제국이 무너지면서 이 티베트 자치 지역에서 운남과 티베트의 영향권이 점차 희미해지기 시작했고, 어디까지가 티베트의 영역이고 어디부터가 운남의 영역인지 정하는 국경은 최근 몇년간 급격한 변화를 겪었습니다. 하지만 티베트는 항상 우리 영토인 디칭과 누장을, 더 정확히는 망캉현이 티베트 남쪽 끝 지역이라고 주장해 왔습니다. 상대적으로 국지화된 이런 국경 '오해'는 운남의 지배력을 다시 한번 확인시켜줄 좋은 기회가 될 지도 모르지만, 정부 내 많은 사람들은 정말로 그 언덕 지역을 지키기 위해 죽음을 불사할 가치가 있는지 의심하고 있습니다..."
 yun.133.a:0 "티베트가 계속 가지게 하라."
 yun.133.b:0 "티베트와 협상을 해보자."
 yun.133.c:0 "그건 우리의 것이다! 전쟁으로 해결하라!"
 
 yun.134.t:0 "운남이 참도를 협상하길 원하다"
-yun.134.d:0 "The Yunnan Clique has approached our government in order to negotiate for transferring the province of Chamdo to them. While the negotiations were amicable, it's clear that Yunnan intends to take those lands by force if diplomacy doesn't give them what they want..."
+yun.134.d:0 "운남군벌이 참도지역을 양도받으려는 목적으로 교섭하기 위해 우리 정부에 접근해 왔씁니다. 협상은 원만하게 진행되었습니다만, 외교적으로 원하는 바를 얻지 못한다면 운남이 무력을 사용해서 지역을 빼앗을 의지가 있다는 것이 분명합니다..."
 yun.134.a:0 "우린 정말로 그 지역이 필요없다."
 yun.134.b:0 "아니, 참도는 적법한 티베트의 영토다!"
 
@@ -753,7 +753,7 @@ yun.136.a:0 "우린 더 중요한 일이 있다."
 yun.136.b:0 "무력을 사용해 돌려받을 것이다!"
 
 yun.137.t:0 "운남과의 평화?"
-yun.137.d:0 "Having completely lost control of Chamdo, and finding it ever difficult to take it back, we have now no reason to continue fighting against the Yunnan Clique, and many in our cabinet have suggested that perhaps we should end the war now before more blood is needlessly spilled."
+yun.137.d:0 "참도 통제력을 완전히 잃어버리고 되찾기 상당히 어렵다는 사실을 알게 된 지금, 우리는 운남 군벌과 계속해서 싸울 이유가 없습니다. 그리고 내각의 많은 사람들은 더 많은 피를 불필요하게 흘리는 상황을 막기 위해서는 전쟁을 지금 끝내야 할지도 모른다는 의견을 제시했습니다."
 yun.137.a:0 "우린 그런 사소한 지역에 충분히 피를 흘렸다."
 yun.137.b:0 "승리가 아니면 죽음을!"
 
