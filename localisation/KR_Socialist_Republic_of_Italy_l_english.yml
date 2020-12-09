@@ -90,9 +90,9 @@ SRI_cannot_call_italy:0 "제2차 세계대전이 시작되기 전에는 동맹�
 SRI_cannot_join_italy:0 "제2차 세계대전이 시작되기 전에는 §Y[SRI.GetNameDef]§!의 전쟁에 참전할 수 없습니다."
 SRI_balance_broken:0 "이탈리아의 균형이 무너지다."
 SRI_balance_explanation:0 "§Y[SRI.GetNameDef]§!(은)는 다른 주요 세력이 개입해서 전쟁의 균형이 깨지지 않는 한 동맹국들을 이탈리아 전쟁에 참전시킬 수 없습니다.\n\n"
-SRI_balance_will_be_broken:0 "This action will break the balance in Italy - §Y[SRI.GetNameDef]§! will be able to join the Third Internationale without fear of intervention!\n\n"
-AUS_balance_will_be_broken:0 "This action will break the balance in Italy - other Italian states will be able to join factions and call in their allies against us without fear of intervention!\n\n"
-SRI_germany_may_intervene:0 "§Y[GER.GetNameDef]§! will be alarmed by this action and may elect to intervene in the war against us!"
+SRI_balance_will_be_broken:0 "이 행동은 이탈리아의 균형을 무너뜨릴 것입니다. - §Y[SRI.GetNameDef]§!(은)는 개입의 걱정없이 제3인터내셔널에 가입할 수 있을 것입니다.\n\n"
+AUS_balance_will_be_broken:0 "이 행동은 이탈리아의 균형을 무너뜨릴 것입니다. - 다른 이탈리아 국가들은 개입의 걱정없이 없이 동맹국들을 불러올 수 있을 것입니다!\n\n"
+SRI_germany_may_intervene:0 "§Y[GER.GetNameDef]§!(은)는 이 행동으로 인해 경각심을 갖게 될 것이며, 우리를 상대로 한 전쟁에 개입할 수도 있습니다!"
 
 ### Ideas ###
 SRI_red_guards_idea:0 "적위대"
