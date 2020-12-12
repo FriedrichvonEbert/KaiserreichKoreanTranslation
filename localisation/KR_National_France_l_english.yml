@@ -210,12 +210,12 @@ NFA_rebuild_legitimacy_cat_desc:0 "혁명으로부터 20년. 혁명의 불씨는
 NFA_Small_Propaganda_tt:0 "§Y60일간:\nMetropolitan France§! 다음을 추가:\n일간 순응도 획득: §G+0.10%§!"
 NFA_Large_Scale_Effort_tt:0 "§Y60일간:\nMetropolitan France§! 다음을 추가:\n일간 순응도 획득: §G+0.20%§!"
 
-nfa_global_comply:0 "현재 프랑스 전역에서 계획을 진행하고 있습니다."
-NFA_Focus_Paris_cf:0 "현재 파리에 자원을 할당하고 있습니다"
-NFA_Focus_Provence_cf:0 "현재 프로방스에 자원을 할당하고 있습니다"
-NFA_Focus_Lyonnais_cf:0 "현재 리옹에 자원을 할당하고 있습니다."
-NFA_Focus_Bordeaux_cf:0 "현재 보르도에 자원을 할당하고 있습니다."
-NFA_Focus_Lille_cf:0 "현재 릴에 자원을 할당하고 있습니다."
+nfa_global_comply:0 "현재 프랑스 전역에서 계획을 진행하고 있음"
+NFA_Focus_Paris_cf:0 "현재 파리에 자원을 할당하고 있음"
+NFA_Focus_Provence_cf:0 "현재 프로방스에 자원을 할당하고 있음"
+NFA_Focus_Lyonnais_cf:0 "현재 리옹에 자원을 할당하고 있음"
+NFA_Focus_Bordeaux_cf:0 "현재 보르도에 자원을 할당하고 있음"
+NFA_Focus_Lille_cf:0 "현재 릴에 자원을 할당하고 있음"
 
 NFA_Small_Propaganda:0 "구호 횔동"
 NFA_Small_Propaganda_desc:0 "우리의 최우선 목표는 안정감을 주는 것입니다. 프랑스는 전쟁으로 황폐화되었고, 우리 민족은 고통받고 있고, 그들의 집이 망가지거나 가족들이 전쟁으로 인해 뿔뿔이 흩어졌습니다. 많은 사람들이 기본적인 필수품조차 얻지 못해 애쓰고 있습니다. 동포들을 돌보고 보호하는 것은 우리의 의무이며, 이러한 구호 노력은 지난 수십 년 동안 우리를 괴물로 묘사해 온 코뮈의 선전행위를 무너뜨리기 시작할 것입니다."
