@@ -72,7 +72,7 @@ NFA_Those_Who_Slither_desc:0 "우리가 잠재적 반역자들을 찾아보지 �
 # Colonial Decisions #
 
 NFA_fate_of_french_africa_cat:0 "프랑스령 아프리카의 운명"
-NFA_fate_of_french_africa_cat_desc:0 "For too long the colonies of France have been seen as little more than land and people to be exploited. It is our sacred duty to reach out to and uplift our fellow brothers and sisters. We shall bring the light of Christianity and civilization to the natives who have stumbled in the darkness for too long!"
+NFA_fate_of_french_africa_cat_desc:0 "프랑스의 식민지와 식민지 사람들은 너무 오랫동안 착취의 대상으로만 여겨져 왔습니다. 식민지의 형제자매들을 도와 이들에게 희망을 주는 것은 우리의 신성한 의무입니다. 우린 기독교와 문명의 밝은 빛을 오랫동안 어둠 속에서 고통받아왔던 식민지인들에게 나눠줄 것입니다!"
 
 NFA_Focus_On_Algeria:0 "Focus Efforts on Algeria"
 NFA_Integrate_Algeria:0 "Integrate Algeria into the French Union"
@@ -361,7 +361,7 @@ POLITICS_HENRI_VI_DESC:0 "Born in 1908, young Henri d’Orléans has known exile
 
 #Initial Ideas
 NFA_anti_communard:0 "반코뮌"
-NFA_anti_communard_desc:0 "1919년 대전쟁에서의 패배 이후, 코뮌 지지자들은 다시 봉기했고 우리의 소중한 공화국을 폐지했습니다. 다행히 가장 중요한 공화국의 핵심 인물들 중 일부는, 반혁명 투쟁을 조직하기로 계획한 알제리로 이주했습니다. 이제 생디칼리즘 반역자들이 본토를 완전히 장악하고 있으니, 우리는 그들을 분쇄해야만 합니다! 반드시, 우리의 영원한 프랑스가 항상 자유롭게 만들 것입니다!"
+NFA_anti_communard_desc:0 "1919년 대전쟁에서의 패배 이후, 코뮌 지지자들은 다시 봉기했고 우리의 소중한 공화국을 무너뜨렸습니다. 다행히 가장 중요한 공화국의 핵심 인물들 중 일부는, 반혁명 투쟁을 조직하기로 계획한 알제리로 이주했습니다. 이제 생디칼리즘 반역자들이 본토를 완전히 장악하고 있으니, 우리는 그들을 분쇄해야만 합니다! 반드시, 우리의 영원한 프랑스가 항상 자유롭게 만들 것입니다!"
 
 NFA_native_unrest_2:0 "원주민법"
 NFA_native_unrest_2_desc:0 "원주민법은 1887년에 제정된 이후로 유효합니다. 제국의 원주민들에게 강요된 다양한 법과 규정으로, 그들은 엄밀히 따지면 프랑스 시민임에도 불구하고 그들의 낮은 법적 지위를 소중히 여깁니다. 현대화와 문명의 확산이라는 미명 아래로 엘리트 원주민들에 의해 집행된 연좌제, 평행한 사법제도, 군에서의 강제노동과 복무는 원주민의 분노를 불러일으켰다고 말하는 것은 절제된 표현일 것입니다. 그러나 이는 식민지 활동의 확실한 노동력의 원천임이 증명되었고, 재정복을 준비하기 위해 유지가 필요하다고 주장하는 정부의 많고 저명한 사람들에 의해 지지받고 있습니다."
@@ -371,7 +371,7 @@ NFA_internal_unrest_desc:0 "수 년 동안의 행동력 부족과 정치적 침�
 
 #Colonial Ideas
 NFA_native_unrest_1:0 "원주민법"
-NFA_native_unrest_1_desc:0 "The Code of the Indiginate is a vital piece of law that allows us to extract as many resources as possible out of Africa. It must not be dissolved."
+NFA_native_unrest_1_desc:0 "원주민법은 우리가 아프리카에서 최대한 많은 자원을 캐낼 수 있도록 해 주는 중요한 법입니다. 이 법은 그대로 남아있어야만 합니다."
 NFA_native_unrest_3:0 "원주민법"
 NFA_native_unrest_3_desc:0 "과거에 원주민법은 유럽인들에게 유익한 노동력을 제공했지만, 우리는 유럽인과 아프리카인의 차이를 줄이기 위해서 이를 개정해야만 합니다."
 NFA_native_unrest_4:0 "원주민법"
@@ -1387,10 +1387,10 @@ nfa_prop_war_tt:0 "이는 §R[16.Owner.GetNameWithFlag]§!에 대항하는 설�
 NFA_fra_partisans_15_tt:0 "코뮌 저항군 §R+15%§!"
 NFA_fra_partisans_5_tt:0 "코뮌 저항군 §R+5%§!"
 nfa_lower_resistance_tt:0 "이는 우리의 §C메트로폴§! 통치에 대한 §R저항도§!를 낮출 것입니다"
-NFA_tt_bypass_AF_in_power:0 "§G이 중점은 악시옹 프랑세즈가 집권했을 때 통과될 것입니다.§!"
-NFA_tt_bypass_RF_in_power:0 "§G이 중점은 원수가 권력을 장악했을 때 통과될 것입니다.§!"
-NFA_tt_bypass_CSN_in_power:0 "§G이 중점은 구국위원회가 권력을 잡았을 때 통과될 것입니다.§!"
-NFA_tt_bypass_US_in_power:0 "§G이 중점은 신성 연합이 설립되었을 때 통과될 것입니다.§!"
+NFA_tt_bypass_AF_in_power:0 "§G이 중점은 악시옹 프랑세즈가 집권하면 자동으로 통과될 것입니다.§!"
+NFA_tt_bypass_RF_in_power:0 "§G이 중점은 원수가 권력을 장악하면 자동으로 통과될 것입니다.§!"
+NFA_tt_bypass_CSN_in_power:0 "§G이 중점은 구국위원회가 권력을 잡으면 자동으로 통과될 것입니다.§!"
+NFA_tt_bypass_US_in_power:0 "§G이 중점은 신성 연합이 설립되면 자동으로 통과될 것입니다.§!"
 NFA_tt_PSF_becomes_ade:0 "§Y프랑스 사회당§!이 §Y권위민주주의§!가 될 것입니다.\n"
 NFA_tt_PSF_becomes_pau:0 "§Y프랑스 사회당§!이 §Y후견전제주의§!가 될 것입니다.\n"
 NFA_colonial_resistance:0 "식민지 저항"
@@ -1421,7 +1421,7 @@ NFA_Promote_Autonomy_Effect_tt:0 "§Y프랑스령 아프리카 식민지 주§!:
 NFA_Algiers_Conference_Civ_effect:0 "이제 §Y프랑스령 아프리카 식민지 주§!들을 프랑스 연합의 §G핵심 주§!로 합병할 수 있습니다"
 NFA_Algiers_Conference_AF_effect:0 "§Y프랑스령 아프리카 식민지 주§!:\n §Y식민지 저항군§! 모디파이어 제거\n 저항군과 순응도 비활성화\n 다음을 추가:\n    현지 자원: §G+15.0%§!\n    현지 인력: §G+50%§!"
 nfa_africa_civ_mission_in_progress:0 "현재 아프리카의 한 지역으로 자원 이동중"
-nfa_transsaharan_rails_tt:0 "With the §GTrans-Saharan Railway§! complete, we will now be able to send troops by §Crail§! between §YAlgiers§! and §YFrench West Africa§!"
+nfa_transsaharan_rails_tt:0 "§G사하라 종단철도§!가 완성되어, 이제 §Y알제§!와 §Y프랑스령 서아프리카§!간의 §C철도§!를 통해 병력을 이동시킬 수 있습니다."
 
 NFA_Military_Police_tt:0 "국민 프랑스군 주둔"
 NFA_mobilize_2_units_tt:0 "이는 메트로폴에서 §G2개§!의 충성파를 징집할 것입니다"
