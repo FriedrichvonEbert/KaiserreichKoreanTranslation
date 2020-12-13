@@ -833,7 +833,7 @@ OTT_Disband_Trials_Progress_desc:0 "Having served their goal in the eradication 
 OTT_Cooperate_Private_Sector:0 "민간 협력"
 OTT_Cooperate_Private_Sector_desc:0 "An alliance of the public and private sector, the new OHF is toning down its étatist rhetoric in favour of closer cooperation with the capitalists and landholders of the Ottoman Empire. No one better to symbolise this marriage than Mahmud Celal Bey who after a successful career in the banking sector will now cooperate with the party into drafting a new economic plan."
 OTT_Vilayet_Reorganisation:0 "빌라예트 제도 정비"
-OTT_Vilayet_Reorganisation_desc:0  "지금의 빌라예트는 너무 커서 지역 내부에 권력이 집중되도록 하고 있습니다. 우리는 그 규모를 줄이고 무선과 전신망을 확충함으로 그들을 더 수도에 의존적으로 만들고 그것이 잘못 관리될 가능성을 낮출 수 있습니다."
+OTT_Vilayet_Reorganisation_desc:0 "지금의 빌라예트는 너무 커서 지역 내부에 권력이 집중되도록 하고 있습니다. 우리는 그 규모를 줄이고 무선과 전신망을 확충함으로 그들을 더 수도에 의존적으로 만들고 그것이 잘못 관리될 가능성을 낮출 수 있습니다."
 OTT_Emancipation_Vanguard_FEV:0 "해방 전위대"
 OTT_Emancipation_Vanguard_FEV_desc:0 "남녀 공학법을 통해 우리는 해방을 위한 길에 첫 삽을 푸었습니다. 하지만 이것은 오스만 인민당이 여성들의 공직 출마와 투표권을 보장하고자 하는 계획의 시작에 불과합니다. 또한, 전쟁으로 아나톨리아의 만성적 노동력 부족이 드러난 만큼 여성들에게 다양한 직종이 개방될 것입니다."
 OTT_Millet_Mektepleri_FEV:0 "밀레트 맥테플레르"
@@ -1062,7 +1062,7 @@ OTT_Election_Factories_desc:0 "Ridiculed by the opposition as "Election Factorie
 #########
 ### Starting 
 ott_institutionalised_islam:0 "제도화된 이슬람"
-ㅇott_institutionalised_islam_desc:0 "우리의 파디샤가 전 이슬람의 칼리프인 만큼 종교는 언제나 오스만 제국에서 적지 않은 역할을 해 왔습니다. 그렇지만 코스탄티니예에서 성지의 보호와 울레마의 교육까지 주관하는 조직화한 국교는 압뒬하미트 2세의 치세 전까지 이야기할 수 없었습니다. 범이슬람주의 정책에서 신앙은 술탄-칼리프의 밑에서 제국을 지탱하는 은유적 접착제의 역할을 하는 것처럼 보였습니다.\n\n하지만 이처럼 이슬람을 권력의 핵심부로 끌어들인 결정은 많은 대가를 치러야 했고, 이제는 세속주의 개혁에 반대하는 수피파의 대규모 교단들이 막강한 정치적 영향력을 가지고 국가 정책에 영향을 미치고 있습니다."
+ott_institutionalised_islam_desc:0 "우리의 파디샤가 전 이슬람의 칼리프인 만큼 종교는 언제나 오스만 제국에서 적지 않은 역할을 해 왔습니다. 그렇지만 코스탄티니예에서 성지의 보호와 울레마의 교육까지 주관하는 조직화한 국교는 압뒬하미트 2세의 치세 전까지 이야기할 수 없었습니다. 범이슬람주의 정책에서 신앙은 술탄-칼리프의 밑에서 제국을 지탱하는 은유적 접착제의 역할을 하는 것처럼 보였습니다.\n\n하지만 이처럼 이슬람을 권력의 핵심부로 끌어들인 결정은 많은 대가를 치러야 했고, 이제는 세속주의 개혁에 반대하는 수피파의 대규모 교단들이 막강한 정치적 영향력을 가지고 국가 정책에 영향을 미치고 있습니다."
 
 ott_widespread_illiteracy:0 "광범위한 문맹"
 ott_widespread_illiteracy_desc:0 "페르시아 문자의 난해함과 교육에 대한 하층민의 무관심은 광범위한 문맹을 야기했고, 이것은 위대한 제국의 산업화를 크게 저해하고 있습니다."
