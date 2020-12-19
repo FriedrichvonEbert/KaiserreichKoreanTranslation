@@ -1,26 +1,26 @@
 ﻿l_english:
 
 ### Parties ###
-LAT_totalist_party:0 "LSD"
-LAT_totalist_party_long:0 "Latvijas sociāldemokrātija (Social Democracy of Latvia)"
-LAT_syndicalist_party:0 "ABC"
-LAT_syndicalist_party_long:0 "Latvijas Arodbiedrību centrālbirojs (Central Bureau of Latvian Trade Unions)"
-LAT_radical_socialist_party:0 "LSD"
-LAT_radical_socialist_party_long:0 "Latvijas sociāldemokrātija (Social Democracy of Latvia)"
-LAT_social_democrat_party:0 "LSDSP"
-LAT_social_democrat_party_long:0 "Latvijas Sociāldemokrātiskā strādnieku partija (Latvian Social Democratic Workers’ Party)"
-LAT_social_liberal_party:0 "Darba partija"
-LAT_social_liberal_party_long:0 "Darba partija (Labour Party)"
-LAT_market_liberal_party:0 "Jaunzemnieku savienība"
-LAT_market_liberal_party_long:0 "Latvijas Jaunzemnieku savienība (Latvian New Farmers’ Union)"
-LAT_social_conservative_party:0 "Zemnieku savienība"
-LAT_social_conservative_party_long:0 "Latvijas Zemnieku savienība (Latvian Farmers’ Union)"
-LAT_authoritarian_democrat_party:0 "LTS(p)A"
-LAT_authoritarian_democrat_party_long:0 "Latvijas Tēvzemes sargu (partizanu) apvienība (Association of the Latvian Homeland Guard-Partisans)"
-LAT_paternal_autocrat_party:0 "LTS(p)A"
-LAT_paternal_autocrat_party_long:0 "Latvijas Tēvzemes sargu (partizanu) apvienība (Association of the Latvian Homeland Guard-Partisans)"
-LAT_national_populist_party:0 "Ugunskrusts"
-LAT_national_populist_party_long:0 "Latviešu Tautas apvienība “Ugunskrusts” (Association of the Latvian Nation “Ugunskrusts”)"
+LAT_totalist_party:0 "라트비아 사회민주당"
+LAT_totalist_party_long:0 "라트비아 사회민주당"
+LAT_syndicalist_party:0 "라트비아 노동조합 중앙국"
+LAT_syndicalist_party_long:0 "라트비아 노동조합 중앙국"
+LAT_radical_socialist_party:0 "라트비아 사회민주당"
+LAT_radical_socialist_party_long:0 "라트비아 사회민주당"
+LAT_social_democrat_party:0 "라트비아 사회민주노동자당"
+LAT_social_democrat_party_long:0 "라트비아 사회민주노동자당"
+LAT_social_liberal_party:0 "노동당"
+LAT_social_liberal_party_long:0 "노동당"
+LAT_market_liberal_party:0 "신농민연합"
+LAT_market_liberal_party_long:0 "라트비아 신농민연합"
+LAT_social_conservative_party:0 "농민연합"
+LAT_social_conservative_party_long:0 "라트비아 농민연합"
+LAT_authoritarian_democrat_party:0 "라트비아 향토방위군-파르티잔 협회"
+LAT_authoritarian_democrat_party_long:0 "라트비아 향토방위군-파르티잔 협회"
+LAT_paternal_autocrat_party:0 "라트비아 향토방위군-파르티잔 협회"
+LAT_paternal_autocrat_party_long:0 "라트비아 향토방위군-파르티잔 협회"
+LAT_national_populist_party:0 "불십자"
+LAT_national_populist_party_long:0 "라트비아 민족협회 “불십자” "
 
 ### Leaders ###
 
@@ -70,8 +70,8 @@ lat.9.a:0 "To the barricades!"
 
 ### Ideas ###
 
-LAT_dualism:0 "Dual Rule"
-LAT_dualism_desc:0 "The Latvian republic was born out of two organizations and two ambitious men joining in a fragile alliance against the German scourge. The Latvian partisans fought for Latvia, but the Latvia they envisioned differ from person to person - some want a national, patriotic state under a recognized leader, others look up to the socialist Iskolat. Now that the Germans have been evicted, these differences collapse in on themselves."
+LAT_dualism:0 "이중 지배"
+LAT_dualism_desc:0 "라트비아 공화국은 독일의 재앙에 대항하는 취약한 동맹에 참여한 두 조직과 두 야심가들 사이에서 태어났습니다. 라트비아 게릴라들은 라트비아를 위해 싸웠지만, 그들이 생각하는 라트비아는 사람마다 다릅니다. 어떤 이들은 인정된 지도자 아래에 국가적이고 애국적인 국가를 원하며, 다른 이들은 사회주의적인 이스콜라트(Iskolat)를 우러러봅니다. 이제 독일인들은 쫓겨났기 때문에, 이런 차이점들은 그들 스스로 무너지게 합니다."
 
 LAT_remember_riga:0 "Latvieši, neaizmirstiet Rīgu!"
 LAT_remember_riga_desc:0 "The beating heart of Latvia, its eternal capital, has been stolen away from us - our partisans have failed to secure the city and a “Free City of Riga” now stands on its soil, a constant reminder that our fight with the Baltic Germans is not yet finished. Latvians, never forget Riga!"
