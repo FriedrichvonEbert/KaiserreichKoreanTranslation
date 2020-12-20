@@ -247,7 +247,7 @@ worldnews.78.a:0 "흥미롭군."
 
 worldnews.80.t:0 "인도의 평화로의 길?"
 worldnews.80.d:0 "놀랍게도 바라티야 코뮌과 인도 자치령의 두 대표가 두 나라의 평화로운 재통합 계획을 발표했습니다. 마하트마(모한다스 카람찬드 간디)가 주창한 계획이지만 델리의 인도 독립 연맹의 동의와 여러 가지 타협안이 필요합니다. 여기에는 [DEH.GetNameDef]의 대영제국과의 유대관계 청산과 다가오는 선거에서 사회주의 정당의 합법화가 포함됩니다. 공개적으로 협의가 이루어지지 않아 배신감을 느끼는 [DEH.GetNameDef]의 사람들이 많기 때문에 선거는 치열한 접전을 벌이고 있습니다만, 더 많은 사람들이 유혈사태 없이 인도 아대륙을 재결합시키는 이 중요한 발걸음을 공개적으로 응원하고 있습니다."
-worldnews.80.a:0 "글쎄, 이것은 예상치 못한 일이었는데."
+worldnews.80.a:0 "글쎄,이것은 예상치 못한 일이었는데."
 
 worldnews.81.t:0 "간디에 대항하여 들고 일어난 강경파"
 worldnews.81.d:0 "마하트마(모한다스 카람찬드 간디)가 평화적인 재결합을 위해 [DEH.GetNameDef](와)과 대화를 시작한 지난주에 캘커타 주변에서 소용돌이 치고 소문이 있었습니다. 재결합이 실제로 일어날 지 여부는 말하기가 어렵습니다. 그 확률과 관계없이, [DEH.GetNameDef]의 전체주의자들이 분노하여 들고 일어났고, 수바스 찬드라 보세(Subhas Chandra Bose)는 재결합이 실제로 일어나지 않도록 하기위해 강경파 파벌을 모아 간디와 농민당에 대항하여 파업을 일으켰습니다. 이미 벵골의 시골 지역에서 전투가 벌어졌지만 나머지 인도 지역들은 그 결과를 보고 기다릴 수밖에 없습니다."
@@ -282,7 +282,7 @@ worldnews.88.d:0 "마침내 스페인 내전이 끝났고 카를로스파가 승
 worldnews.88.a:0 "흥미롭군."
 
 worldnews.89.t:0 "포르투갈에서 아나키스트 쿠데타 발발!"
-worldnews.89.d:0 "스페인에서 있던 전국노동연맹-이베리아 아나키스트 연맹의 최근 성공에 고무받은 것으로 알려진 아나코-생디칼리스트 운동인 포르투갈 아나키스트 연합(União Anarquista Portuguesa)이 주도한 포르투갈의 수도 리스본의 폭동 다음날, 포르투갈 정부에 맞선 깜짝 쿠데타가 성공했습니다. 아나키스트 민병대가 수도의 건물로 이동했고, 혁명의 지도자인 네노 바스코(Neno Vasco)와 안토니오 핀토 쿼탄(António Pinto Quartin)이 임시 체제를 구축했습니다. 새로운 지도자들은 장래에 [CNT.GetNameDef](와)과 더 긴밀한 관계를 추구할 것으로 보입니다."
+worldnews.89.d:0 "스페인에서 있던 전국노동연맹-이베리아 아나키스트 연맹의 최근 성공에 고무받은 것으로 알려진 아나코-생디칼리스트 운동인 포르투갈 아나키스트 연합(União Anarquista Portuguesa)이 주도한 포르투갈의 수도 리스본의 폭동 다음날, 포르투갈 정부에 맞선 깜짝 쿠데타가 성공했습니다. 아나키스트 민병대가 수도의 건물로 이동했고, 혁명의 지도자인 네노 바스코(Neno Vasco)와 안토니오 핀토 쿼탄(António Pinto Quartin)이 임시 체제를 구축했습니다. 새로운 지도자들은 장래에 [CNT.GetNameDef](와)과 더 긴밀한 관계를 추구 할 것으로 보입니다."
 worldnews.89.a:0 "혁명이 퍼지기 시작했다, 무서운 속도로!"
 
 worldnews.90.t:0 "브리튼의 선거 교착"
@@ -311,7 +311,7 @@ worldnews.94.d:0 "파리에서 개최된 제1차 생디칼리스트 인터내셔
 worldnews.94.a:0 "흥미롭군."
 
 worldnews.95.t:0 "백루테니아에서의 국민주의자 쿠데타"
-worldnews.95.d:0 "세계대전 이후, 독일인들은 비록 지역 주민들이 이전에는 단 하나의 국가라고 생각한 적은 없었지만, 백러시아 지역에 벨로루시 국가를 형성했습니다. 이러한 국민 정체성의 결여는 독일인들이 이 나라에 그들의 질서를 강요하는것을 멈추게 하지 못했으며, 이로 인해 긴장이 고조되었습니다. \n\n백루테니아의 벨라루스 국민주의자 지도자인 백루테니아의 왕자 지그문트 (Sigismund)는 전임 국왕이 극장 폭발로 사망한 후 이 나라를 장악했습니다. 지그문트 1세가 독일군에 반항할지, 아니면 독일이 이 새로운 질서를 받아들이기를 기대하면서 기다릴지의 여부는 알기 어렵습니다."
+worldnews.95.d:0 "세계대전 이후, 독일인들은 비록 지역 주민들이 이전에는 단 하나의 국가라고 생각한 적은 없었지만, 백러시아 지역에 벨로루시 국가를 형성했습니다. 이러한 국민 정체성의 결여는 독일인들이 이 나라에 그들의 질서를 강요하는것을 멈추게 하지 못했으며, 이로 인해 긴장이 고조되었습니다. \n\n백루테니아의 벨라루스 국민주의자 지도자인 백루테니아의 왕자 지그문트 (Sigismund)는 전임 국왕이 극장 폭발로 사망 한 후 이 나라를 장악했습니다. 지그문트 1세가 독일군에 반항할지, 아니면 독일이 이 새로운 질서를 받아들이기를 기대하면서 기다릴지의 여부는 알기 어렵습니다."
 worldnews.95.a:0 "흥미롭군."
 
 worldnews.96.t:0 "리투아니아에서의 친러시아 쿠데타"
@@ -1381,7 +1381,7 @@ worldnews.420.d:0 "After the Socialist victory in the Argentino-Chilean War, the
 worldnews.420.a:0 "사회주의자는 단결을 촉구한다. 지금까지는..."
 worldnews.420.b:0 "동지에 대항하는 동지라니, 이것이 과연 옳은 길일까?"
 
-worldnews.421.t:0 "아르헨티나 정권을 잡은 급진 아나키스트"
+worldnews.421.t:0 "아르헨티나 정권을 잡은 아나키스트 급진파"
 worldnews.421.d:0 "After the Socialist victory in the Argentino-Chilean War, the government seemed to be slowly settling down for the Argentinean Nation. However, the results of the recent Argentinean Trade Union Congress seemed to have not been satisfactory for the Unión Sindical Argentina (USA). While the moderates accepted the result, the radicals quickly staged their own takeover and, led by Severino di Giovanni, were able to beat the government's forces in Buenos Aires. After marching on the Presidential house, they proceded to take over the Congress, where Severino has now been sworn is a Chairman, and the rivaling unions of the USA have been removed from the Congress. Whether this will put an end to the violent political disputes in Argentina or further inflame tensions with the war weary populace, it remains to be seen..."
 worldnews.421.a:0 "사회주의자는 단결을 촉구한다. 지금까지는..."
 worldnews.421.b:0 "동지에 대항하는 동지라니, 이것이 과연 옳은 길일까?"
@@ -1451,7 +1451,7 @@ worldnews.436.a:0 "행운을 비네!"
 
 worldnews.437.t:0 "숭고한 오스만 연방 선포"
 worldnews.437.d:0 "Celebrations were held in Konstantiniyye today as the Ottoman Chamber of Deputies officially proclaimed the creation of a new federal state within the lands of the Ottoman Empire. The Sublime Ottoman Federation, whose name was inspired by the imperial grandeur of old, is based on the ideas of Prince Sabahattin and foreign influences from German, Austrian and American models alike.\n\nAlthough the new constitution shifts extensive powers to the level of the vilayets (provinces), many wonder if this will truly mean democracy or just a confirmation of the old aristocracy in their age-old positions..."
-worldnews.437.a:0 "오스만 제국은 새로운 장을 넘긴다!"
+worldnews.437.a:0 "오스만 제국은 새로운 페이지를 넘긴다!"
 
 worldnews.438.t:0 "아르메니아 봉기"
 worldnews.438.d:0 "Serving under Ottoman military occupation for close to two decades, the Armenian resistance has used the war between Konstantiniyye and Teheran to reassert Armenian independence, driving out the Ottoman garrison and raising their flag in rebellion.\n\nAlthough many question the viability of the revolt, stuck in between a rock and a hard place, their courage and determination has not gone unnoticed abroad with many nations in the socialist bloc immediately recognising their independence."
