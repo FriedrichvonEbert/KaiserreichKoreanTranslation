@@ -1166,7 +1166,7 @@ NATFRA_English_Doctrine_desc:0 "Long have the British ruled the seas. With our f
 NATFRA_ENT_Experts:0 "[ENT.GetName]의 전문가들"
 
 nfa_ger_returned_nancy:0 "독일이 낭시를 반환함" #Country flag for Germany returning Nancy to France
-franco_german_thaw:0 "프랑스-독일 관계 해" #Localization for the opinion modifier
+franco_german_thaw:0 "프랑스-독일 관계 해빙" #Localization for the opinion modifier
 indestructible_bonds:0 "끈끈한 유대" #Localization for the opinion modifier
 
 # Post Return Political Trees #
