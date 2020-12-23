@@ -1848,11 +1848,11 @@ nfa.61.d:0 "Since the return of the reactionaries to France, all kinds of anti-s
 nfa.61.a:0 "그건 문제가 되지 않는다! 압제자들과 그 하수인들에게 죽음을!"
 
 nfa.62.t:0 "프랑스가 우릴 지지한다!"
-nfa.62.d:0 "The French government in Algiers has decided to support us in the ongoing civil war. It is possible that it is mainly because they hope to gain our support in retaking France back."
+nfa.62.d:0 "알제의 프랑스 망명정부가 현 내전에서 우릴 지지하기로 했습니다. 미래에 프랑스 본토를 탈환하는데 우리의 도움을 받으려는 것이 주된 이유로 보입니다."
 nfa.62.a:0 "좋다!"
 
 nfa.63.t:0 "프랑스가 우릴 지지한다!"
-nfa.63.d:0 "The French government in Algiers has decided to support our cause in the civil war. It is possible that it is only due to their Catholic roots but also because they hope to gain our support in retaking France."
+nfa.63.d:0 "알제의 프랑스 망명정부가 현 내전에서 우릴 지지하기로 했습니다. 같은 가톨릭 형제들이라 그런 것일지도 모르지만, 미래에 프랑스 본토를 탈환하는데 우리의 도움을 받으려는 의도도 있는 것 같습니다."
 nfa.63.a:0 "좋다!"
 
 nfa.64.t:0 "아프리카 내 전국노동연맹"
