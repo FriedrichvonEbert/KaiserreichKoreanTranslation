@@ -652,7 +652,7 @@ NATFRA_Comite_du_Salut_National_desc:0 "Henri Mordacq has formed with representa
 NATFRA_Commisariat_au_Plan:0 "종합계획위원회"
 NATFRA_Commisariat_au_Plan_desc:0 "To ensure that the homefront is perfectly well organised for the coming national effort, a commission made up of civilians and military men has been created to plan and coordinate the various initiatives for war readiness, the mobilisation of all the nation’s resources towards our sacred duty."
 NATFRA_War_Credits:0 "전쟁채권"
-NATFRA_War_Credits_desc:0 "There is a popular saying: \"l’argent est le nerf de la guerre\", \"money is the sinews of war\": indeed, the state must invest all that it can into the war effort and entice our people, rich or poor, to do the same, through war bonds and private investments. Our people must understand that this is after all a last ditch effort, and the full, enthusiastic participation of all is necessary."
+NATFRA_War_Credits_desc:0 "흔히들 말하는 속담이 하나 있습니다: \"l’argent est le nerf de la guerre\", \"돈은 곧 전쟁의 핏줄이다\": 옳은 말입니다. 국가는 투자할 수 있는 모든 것을 전쟁 준비에 투자해야만 하며, 그리고 전쟁채권과 민간투자의 방식으로 부유한 사람이건, 가난한 사람이건 이를 똑같이 따라하도록 만들어야 합니다. 프랑스 사람들은 이것이 최후의 필사적인 노력이며, 프랑스인 모두가 이에 총체적으로, 열정적으로 참여해야만 함을 깨달아야만 합니다."
 NATFRA_Army_Supervision:0 "군 감독"
 NATFRA_Army_Supervision_desc:0 "The Committee of National Salvation is a common effort between civilians and the armed forces, but who could better understand the needs of our armies than themselves? Some oversight from military men within the administration and industrial sector is to be expected, to ensure that full mobilisation can be implemented quickly whenever needed."
 NATFRA_Aim_For_SelfSustainability:0 "자급을 위한 목표"
@@ -2353,7 +2353,7 @@ nfa.253.d:0 "Long have we dreamed of this day. Even during some of the darkest d
 nfa.253.a:0 "우리 나라는 곧 통합될 것이다!"
 
 nfa.254.t:0 "파업을 시작한 노동자들"
-nfa.254.d:0 "Disgruntled over the continuation of lower pay and longer hours, groups of workers on the Trans-Sahara Railway have laid aside their tools in protest. They are demanding change in our treatment of them. If conditions were to improve, they would be happy to go back to work but we would need to bring conditions back to where they were before we cut resources devoted to the workers. Alternatively, we could stop shipments of supplies to the workers until they agree to go back to work."
+nfa.254.d:0 "계속된 저임금과 장시간의 노동에 불만을 품은 사하라 종단철도의 노동자들이 항의의 표시로 도구를 내려놓고 일을 멈추었습니다. 노동자들은 작업환경 개선을 요구하고 있으며, 요구대로 환경이 개선된다면 다시 일터로 돌아가겠지만, 우린 대신 노동자들에게 쓰는 자원을 예전 수준으로 늘려야 할 것입니다. 아니면 노동자들에게 가는 보급을 끊고, 다시 노동자들이 일터로 돌아갈때까지 기다리는 방법도 있습니다."
 nfa.254.a:0 "작업 환경을 개선하자"
 nfa.254.b:0 "기다려보자"
 
@@ -2364,8 +2364,8 @@ nfa.255.a:0 "이 차질을 이겨내자"
 # Spies Events 270 - 272 #
 
 nfa.270.t:0 "400번의 구타의 운명"
-nfa.270.d:0 "Eugène Deloncle, head of the terrorist organisation known as the Four Hundred Blows, close to the Action Française and notorious conspirator against the Republic, has been arrested as he was hurriedly planning an escape to Portugal. For years, he had been escaping the grasps of both police and our intelligence services, assassinating and bombing at will. His goal had apparently been to make his organisation’s schemes out to be Communard or Indigènes plots, to goad the Pétain regime into cracking down further, but few were still credulous enough to believe this. His reign of terror is over, but the question remains: what should be done with him? A military tribunal would certainly sentence him to death, but his skills are undeniable and he has offered to serve the Republic in exchange for his life."
-nfa.270.a:0 "우리들 사이에 배신자는 필요없다. 벽을 향해라 !"
+nfa.270.d:0 "400번의 구타라 불리는 테러조직의 수장이자, 악시옹 프랑세즈의 협력자이며 악명높은 반공화국 음모자인 외젠 들롱클이, 오늘 급하게 포르투갈로 도망치려던 중 검거되었습니다. 들롱클은 수년동안 경찰과 첩보부의 추적을 피해오며 암살과 폭탄 테러를 일삼아 온 자로, 듣자 하니 자신의 목표는 페탱 정권이 자기 조직의 활동을 더 조사하지 못하도록 하기 위해 조직의 활동을 코뮌, 아니면 원주민들의 계획인 것으로 보이도록 하려고 하는 것이였다고는 하지만 이를 믿는 사람은 얼마 없습니다. 이제 들롱클의 공포정치는 끝났으나, 문제가 아직 한가지 남아 있습니다: 들롱클을 어떻게 처리해야 할까요? 군사재판소에서 재판한다면 분명 사형이겠지만, 그래도 들롱클의 능력은 상당하며, 사형을 면하는 대가로 공화국을 위해 일하겠다고도 밝힌 상태입니다."
+nfa.270.a:0 "우리들 사이에 배신자는 필요없다. 벽을 향해라!"
 nfa.270.b:0 "그는 이제 그의 능력을 좋은 곳에, 빨갱이들에게 사용하게 될 것이다"
 
 nfa.271.t:0 "코르비뇰"
