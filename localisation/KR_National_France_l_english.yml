@@ -648,7 +648,7 @@ NFA_Young_Prince:0 "젊은 왕자"
 # CSN #
 
 NATFRA_Comite_du_Salut_National:0 "구국위원회"
-NATFRA_Comite_du_Salut_National_desc:0 "Henri Mordacq has formed with representatives from the democratic forces as well as the armed forces a Committee of National Salvation, a transitional authority before full restoration of democracy: indeed, we cannot allow our nation to be divided in this critical time, as the hour of reconquest grows ever closer."
+NATFRA_Comite_du_Salut_National_desc:0 "앙리 모르닥 장군이 민주주의 파벌과 군대의 대표자들로 구성된, 완전한 민주주의의 복귀가 이뤄지기 전까지 집권할 과도정부, 구국위원회를 결성했습니다: 그렇습니다. 본토 수복의 때가 다가오는 지금, 우린 우리 나라가 분열되도록 놓아둘 수는 없습니다."
 NATFRA_Commisariat_au_Plan:0 "종합계획위원회"
 NATFRA_Commisariat_au_Plan_desc:0 "To ensure that the homefront is perfectly well organised for the coming national effort, a commission made up of civilians and military men has been created to plan and coordinate the various initiatives for war readiness, the mobilisation of all the nation’s resources towards our sacred duty."
 NATFRA_War_Credits:0 "전쟁채권"
@@ -658,7 +658,7 @@ NATFRA_Army_Supervision_desc:0 "The Committee of National Salvation is a common 
 NATFRA_Aim_For_SelfSustainability:0 "자급을 위한 목표"
 NATFRA_Aim_For_SelfSustainability_desc:0 "Though our allies in the Entente have assured us of their full support, we cannot simply hope for the best and rely on their generosity: everything must be done so that France can fully equip its forces using its own resources. We will ensure that the vast natural riches of Africa are fully mobilised, and that as little of them are wasted as exports: now is not the time for profits."
 NATFRA_Dam_Construction:0 "댐 건설"
-NATFRA_Dam_Construction_desc:0 "Our access to coal is limited, and oil must be saved for the armed forces: to make sure our people and industries have access to power, we will greatly invest in hydroelectric power. Algeria is after a land of many contrasts and the Atlas mountains are perfect to develop this source of energy."
+NATFRA_Dam_Construction_desc:0 "우린 현재 석탄 공급이 꽤나 부족한 상황이며, 석유도 군대를 위해 모아놓아야 하는 상황입니다: 우리 시민들과 산업이 충분한 전력을 공급받을 수 있도록, 우린 수력발전에 상당한 투자를 할 것입니다. 게다가 알제리는 땅도 높고, 거대한 산도 많은 곳이니, 수력발전을 개발하기엔 정말 알맞은 지역일 겁니다."
 NATFRA_Companies_des_Forges:0 "단조회사"
 NATFRA_Companies_des_Forges_desc:0 "To make sure we are ready for the coming war, the government will meet representatives from the metallurgical industry, who had coordinated the armament industry during the Weltkrieg to great effect, to create a new, more centralised conglomerate dedicated entirely to serve the war effort."
 NATFRA_Societes_Nationales:0 "국영"
