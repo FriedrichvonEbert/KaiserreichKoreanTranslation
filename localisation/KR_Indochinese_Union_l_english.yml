@@ -36,7 +36,7 @@ INC_apathetic_people_idea_2_desc:0 "최근 인도차이나에서 농촌혁명이
 INC_apathetic_people_idea_3:0 "냉담한 대중들"
 INC_apathetic_people_idea_3_desc:0 "최근 인도차이나에서 농촌혁명이 급증했음에도 불구하고, 대부분 사람들은 혁명 국가에 대부분 무관심합니다. 결국 사람들이 무관심하지 않게 하고 자기 자신보다 더 큰 것을 생각하게 하려면 많은 노력이 필요할 것입니다."
 INC_internationale_support:0 "인터내셔널의 지원"
-INC_internationale_support_desc:0 "The revolution in Indochina received large sum of secret support from the Internationale. The influx of 인도차이나 Weltkrieg veterans and exiled revolutionaries from France is the motor of revolution and the pillar of revolutionary army."
+INC_internationale_support_desc:0 "인도차이나에서의 혁명은 인터내셔널로부터 많은 은밀한 지원을 받았습니다. 프랑스에서 온 대전쟁의 베테랑들과 추방당한 혁명가들의 유입은 혁명의 원동력이자 혁명군의 기둥입니다."
 INC_blockade:0 "봉쇄"
 INC_blockade_desc:0 "We are cut off from the support of the Internationale by the German blockade."
 INC_Edu_Reform_idea_1:0 "교육 개혁"
@@ -508,7 +508,7 @@ viet.74.a:0 "Excellent."
 #Anti-Tank Weapon: Firebomb and Lunge mine
 
 viet.79.t:0 "구정공세!"
-viet.79.d:0 "베트남 사람들이 음력 설을 축하하고 폭죽을 터뜨린 자정 직후 하노이 주재 독일 대사관에서 수류탄이 터졌습니다. 거대한 규모의 베트민 군대가 모든 도시와 마을을 상대로 대규모 공격을 감행하는 동안, 베트민 특공대가 하노이 시내에 나타났습니다. 베트민의 농노들이 주도하고, 마체테와 창으로 무장한 무명의 농민들이 여러 지역에서 일어나 '폭군들을 제거하라'라고 말했습니다. 우리는 완전히 허를 찔렸습니다!"
+viet.79.d:0 "베트남 사람들이 음력 설을 축하하고 폭죽을 터뜨린 자정 직후 하노이 주재 독일 대사관에서 수류탄이 터졌습니다. 거대한 규모의 비엣민 군대가 모든 도시와 마을을 상대로 대규모 공격을 감행하는 동안, 비엣민 특공대가 하노이 시내에 나타났습니다. 비엣민의 농노들이 주도하고, 마체테와 창으로 무장한 무명의 농민들이 여러 지역에서 일어나 '폭군들을 제거하라'라고 말했습니다. 우리는 완전히 허를 찔렸습니다!"
 viet.79.a:0 "Is this how Viet Minh celebrate Lunar New Year?"
 
 viet.80.t:0 "사이공 포격"
