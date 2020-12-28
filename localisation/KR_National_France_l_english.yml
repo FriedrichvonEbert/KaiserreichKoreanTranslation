@@ -660,13 +660,13 @@ NATFRA_Aim_For_SelfSustainability_desc:0 "협상국의 동맹들이 우리에게
 NATFRA_Dam_Construction:0 "댐 건설"
 NATFRA_Dam_Construction_desc:0 "우린 현재 석탄 공급이 꽤나 부족한 상황이며, 석유도 군대를 위해 모아놓아야 하는 상황입니다: 우리 시민들과 산업이 충분한 전력을 공급받을 수 있도록, 우린 수력발전에 상당한 투자를 할 것입니다. 게다가 알제리는 땅도 높고, 거대한 산도 많은 곳이니, 수력발전을 개발하기엔 정말 알맞은 지역일 겁니다."
 NATFRA_Companies_des_Forges:0 "단조회사"
-NATFRA_Companies_des_Forges_desc:0 "To make sure we are ready for the coming war, the government will meet representatives from the metallurgical industry, who had coordinated the armament industry during the Weltkrieg to great effect, to create a new, more centralised conglomerate dedicated entirely to serve the war effort."
+NATFRA_Companies_des_Forges_desc:0 "다가오는 전쟁에 완전히 대비할 수 있도록, 정부는 대전쟁 도중 군수 산업과 협력해 훌륭한 성과를 냈던 여러 금속 회사들의 대표자들과 만나, 전쟁 수행을 돕는 것만을 목적으로 하는 새로운 중앙화된 대기업을 만들 것입니다."
 NATFRA_Societes_Nationales:0 "국영"
-NATFRA_Societes_Nationales_desc:0 "For some essential industries, we cannot let anything get in the way of mobilisation: as such the government will start a wide policy of strategic nationalisation and investments, so that our forces have all the resources needed."
+NATFRA_Societes_Nationales_desc:0 "몇몇 중요한 산업은 무슨 일이 있어도 동원체제를 실시해야만 합니다: 따라서 정부는 군대가 필요로 하는 모든 자원을 얻을 수 있도록, 대규모의 전략적 국영화 및 투자 정책을 개시할 것입니다."
 NATFRA_War_in_our_Plates:0 "접시 위의 전쟁"
-NATFRA_War_in_our_Plates_desc:0 "All resources must be diverted towards the armed forces, for the liberation of France. This includes food, as before the war even starts we must create vast stockpiles of non-perishables goods: no soldier can fight on an empty stomach. As such a gradual rationing of essential goods will be implemented."
+NATFRA_War_in_our_Plates_desc:0 "프랑스의 해방을 위해선, 모든 자원이 군대에게 돌아가야만 합니다. 전쟁을 시작하기 전에도 충분한 양의 보존식품을 준비할 필요가 있는 만큼, 여기엔 음식도 포함됩니다: 그 어떤 병사도 빈 속으로 싸울 순 없는 법입니다. 따라서, 필수품에 대한 배급 제도가 점진적으로 시행될 것입니다."
 NATFRA_Policy_and_Strategy:0 "정책과 전략"
-NATFRA_Policy_and_Strategy_desc:0 "Many of our Members of Parliament and state officials have some military experience, France is after all a nation of citizen-soldiers. However, they need to fully understand the stakes of the effort that is being asked of us all : frequent reports from the armed forces, as well as briefings on strategy and logistics, will ensure they have the tools to best serve the nation."
+NATFRA_Policy_and_Strategy_desc:0 "프랑스는 원래부터 국민개병의 나라인 만큼, 우리 의원들과 고위 공무원들 대부분은 모두 군 복무 경험을 가지고 있습니다만, 아직 이 분들은 우리가 하는 것들이 왜 필요한지 완전히 이해할 필요가 있습니다 : 군대의 잦은 보고, 그리고 전략과 보급에 관한 브리핑은 이 분들이 국가를 최대한 도울 수 있도록 해 줄 것입니다.
 NATFRA_Our_Morale_Forces:0 "아군의 사기"
 NATFRA_Our_Morale_Forces_desc:0 "Unfortunately, towards the end of the Weltkrieg many soldiers felt betrayed by their commanders and their government, leading some to even rebel and embrace socialism. To prevent such a situation from happening again, a new department has been formed, entirely dedicated to keeping morale high and making sure even the lowest of the infantrymen knows exactly why he fights."
 NATFRA_Militarise_Society:0 "군사화된 사회"
@@ -1463,7 +1463,7 @@ nfa.3.d:0 "마치 대중의 지지 부족만으로는 충분치 않았던 것처
 nfa.3.a:0 "아마 다 괜찮을거야!"
 
 nfa.4.t:0 "친우의 죽음"
-nfa.4.d:0 "His Majesty George V, by the Grace of God, of the United Kingdom of Great Britain and Ireland and of the British Dominions beyond the Seas, King, Defender of the Faith, Emperor of India, friend of France, our great ally during the Great War and since our exile, as well as a personal friend of Marshal Pétain since the two met on the battlefields two decades ago has died today at 70 years old. Though the situation is unfortunately tense at home, given the magnitude of the event it is important for the Entente that the Lion attends the funeral of George V and the coronation of his son Edward, and more personally for Pétain it is important to mourn a friend and ally, who like him oversaw the exile of his people after bloody revolutions in their homelands, and like him was wholeheartedly dedicated to one day come back and retake what is rightfully theirs. And so Marshal Pétain embarked on a special Trans-Atlantic flight, ready to honour the memory of a friend but celebrate a new era of Anglo-French friendship."
+nfa.4.d:0 "하느님의 은총으로 그레이트브리튼 아일랜드 연합 왕국과 해외 영국 자치령의 왕, 신앙의 수호자, 인도의 황제이시자, 프랑스의 친구이며 대전쟁과 망명 도중 우리의 위대한 동맹이셨던 분, 동시에 20년 전 전장에서 만난 이래로 페탱 원수님의 절친한 친구셨던 조지 5세 폐하께서, 70세를 일기로 승하하셨습니다. 비록 여기 알제에서의 상황이 긴박하기는 하지만, 협상국에게 있어 원수님이 조지 5세 폐하의 장례식과 그분의 아들이신 에드워드 왕세자님의 대관식, 두 중대사에 참여한다는 것은 큰 의미가 있는데다, 원수님 사적으로도 원수님처럼 끔찍한 혁명으로 자신의 국민들이 고향에서 쫓겨나는 것을 보았으며, 언젠가 돌아가 자신의 것을 되찾을 날을 사력을 다해 준비하던 친구이자 동맹의 죽음을 애도한다는 것은 중요한 일인 만큼, 그렇게 원수님께선 친구의 과거를 기리고, 영국과 프랑스 동맹관계의 새로운 시대를 축하하기 위해, 특별한 대서양 횡단비행을 떠나셨습니다."
 nfa.4.a:0 "국왕 폐하께서 승하하셨다, 새로운 국왕 폐하 만세!"
 
 nfa.5.t:0 "캐나다의 사자"
