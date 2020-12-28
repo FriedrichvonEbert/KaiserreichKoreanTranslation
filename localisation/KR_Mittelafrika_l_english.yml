@@ -1,18 +1,18 @@
 ﻿l_english:
 
 ### Debug Event ###
-mittel.0.t:0 "MAF Pop Debug Event"
-mittel.0.d:0 "To make testing of the MAF pop easier, Zankoas created this debug event.\n\nThis event will do the following:\n- Set the 'MAF_pop_testing' global tag\n- Tag switch you to MAF\n- Have debug tag XXA (which doesn't get annexation events) annex every nation on earth apart from MAF, LIB and SOM\n- Stop XXA from getting any resistance\n- Make MAF annex LIB\n- Give MAF the POR and SPA colonies it can get\n- Finally, MAF will go pop in a weeks time.\n\nEnjoy the fireworks!"
-mittel.0.a:0 "Neato"
+mittel.0.t:0 "미텔아프리카 붕괴 디버그 이벤트"
+mittel.0.d:0 "미텔아프리카 붕괴를 더 쉽게 테스트하기 위해 Zankoas가 이 디버그 이벤트를 제작했습니다.\n\n이 이벤트는 다음의 효과를 가집니다.\n- 전 세계의 태그에 'MAF_pop_testing'을 설정\n- 당신이 MAF를 플레이하게 변경\n- 합병 이벤트를 띄우지 않는 디버그 태그 XXA가 미텔아프리카, 라이베리아, 소말리아를 제외한 세계의 모든 국가를 합병\n- XXA가 저항도를 가지지 않게 함\n- 미텔아프리카가 라이베리아를 합병\n- 미텔아프리카가 가질 수 있는 포르투갈과 스페인의 식민지를 미텔아프리카에 수여\n- 최종적으로 미텔아프리카가 1주일 이내에 붕괴\n\n불바다를 즐겨주세요!"
+mittel.0.a:0 "오홍홍, 조와용"
 
 mittleafrikan_focus:0 "독일령 중앙아프리카 중점계통도"
 
 ### Leaders ###
-POLITICS_GOERING_DESC:0 "폰 괴링은 독일에서 대전기의 가장 성공적인 전투기 파일럿으로써, 종전시까지 20회가 넘는 승리를 통해 수많은 훈장을 얻음으로 명성을 얻었습니다. \n\n그의 야망은 곧 정치적으로 변화하였으며 곧 1928년 선거에서 8%의 득표율을 보인 전독일연맹의 수장이 되었습니다. 이로써, 자신이 떠오르는 유능한 신예로 빌헬름 2세의 눈에 띄게 하였으며, 자신을 독일령 중앙아프리카의 총독으로 임명되도록 하였습니다. 폰 괴링은 이를 자신의 도약대로 보았으며, 식민지에서의 임기를 성공적으로 마친 뒤에 재상 자리의 공천권을 요구하는 기회로 여기고 있습니다."
+POLITICS_GOERING_DESC:0 "폰 괴링은 독일에서 대전기의 가장 성공적인 전투기 파일럿으로써, 종전시까지 20회가 넘는 승리를 통해 수많은 훈장을 얻음으로 명성을 얻었습니다. \n\n그의 야망은 곧 정치적으로 변화하였으며 곧 1928년 선거에서 8%의 득표율을 보인 전독일연맹의 수장이 되었습니다. 이것으로, 떠오르는 유능한 신예는 빌헬름 2세의 눈에 띄었으며, 독일령 중앙아프리카의 총독으로 임명되었습니다. 폰 괴링은 이를 자신의 도약대로 보았으며, 식민지에서의 임기를 성공적으로 마친 뒤에 총리직의 공천권을 요구하는 기회로 여기고 있습니다."
 
 ### Ideas ###
 MAF_Colonial_Nation:0 "식민지 정부"
-MAF_Colonial_Nation_desc:0 "소말리아 같은 아프리카의 이웃 국가와 비교해봐도 매우 제한적 자치 정도를 지니기는 했지만, 독일령 중앙아프리카는 식민지입니다; 전체적 정부 조직체는 독일 권력에 의해 조직되고 유지되며, 베를린에서 예산안이 준비되며, 화폐는 독일 마르크화로 정해져 있습니다."
+MAF_Colonial_Nation_desc:0 "소말리아 같은 아프리카의 이웃 국가와 상대할 때는 매우 제한적 자치권을 지니기는 하지만, 독일령 중앙아프리카는 식민지입니다; 전체적 정부 조직체는 독일 권력에 의해 조직되고 유지되며, 베를린에서 예산안이 준비되며, 화폐는 독일 마르크화로 정해져 있습니다."
 MAF_British_Influence:0 "영국의 영향"
 MAF_Strong_British_Influence:0 "강력한 영국의 영향"
 MAF_British_Condominium:0 "영국 공동통치"
