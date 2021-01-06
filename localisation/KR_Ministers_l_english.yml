@@ -4,7 +4,7 @@
 ##### 이 파일은 수동으로 변경하지 마십시오
 ##### 모든 장관들의 변경은 장관 전환 도구를 이용해 변경되어야만 합니다
 ##### 이 사항은 AUX에서 확인할 수 있습니다
-##### 이게 무슨말인지 모르겠다면; 이 파일을 건들지 마시고, 도움을 요청하십시오
+##### 이게 무슨 말인지 모르겠다면; 이 파일을 건들지 마시고, 도움을 요청하십시오
 
   ################################################################################################################################################################################################
   ### AFG
@@ -6973,40 +6973,40 @@
   ################################################################################################################################################################################################
 
 	### Head of Government ###
-	 ICE_Brynjolfur_Bjarnason_hog_tot:0 "Brynjólfur Bjarnason"
-	 ICE_Einar_Olgeirsson_hog_syn:0 "Einar Olgeirsson"
-	 ICE_Bjarni_Asgeirsson_hog_rso:0 "Bjarni Ásgeirsson"
-	 ICE_Jon_Baldvinsson_hog_sde:0 "Jon Baldvinsson"
-	 ICE_Stefan_Johann_Stefansson_hog_sde:0 "Stefán Jóhann Stefánsson"
-	 ICE_Jonas_Jonsson_hog_sli:0 "Jonas Jonsson"
-	 ICE_Olafur_Thors_hog_mli:0 "Ólafur Thors"
-	 ICE_Sveinn_Bjoernsson_hog_sco:0 "Sveinn Björnsson"
-	 ICE_Agnar_Hansen_hog_ade:0 "Agnar Hansen"
-	 ICE_Thor_Thors_hog_pau:0 "Thor Thors"
-	 ICE_Bjoern_Bjoernsson_hog_npo:0 "Björn Björnsson"
+	 ICE_Brynjolfur_Bjarnason_hog_tot:0 "브리니올뷔르 비아르드나손"
+	 ICE_Einar_Olgeirsson_hog_syn:0 "에이나르 올게이르손"
+	 ICE_Bjarni_Asgeirsson_hog_rso:0 "비아르드니 아우스게이르손"
+	 ICE_Jon_Baldvinsson_hog_sde:0 "욘 발드빈손"
+	 ICE_Stefan_Johann_Stefansson_hog_sde:0 "스테파운 요한 스테파운손"
+	 ICE_Jonas_Jonsson_hog_sli:0 "요나스 욘손"
+	 ICE_Olafur_Thors_hog_mli:0 "올라뷔르 소르스"
+	 ICE_Sveinn_Bjoernsson_hog_sco:0 "스베이든 비외르든손"
+	 ICE_Agnar_Hansen_hog_ade:0 "아그나르 한센"
+	 ICE_Thor_Thors_hog_pau:0 "소르 소르스"
+	 ICE_Bjoern_Bjoernsson_hog_npo:0 "비외르든 비외르든손"
 
 	### Person of Influence ###
 	## Foreign Minister
-	 ICE_Emil_Jonsson_for_syn:0 "Emil Jonsson"
-	 ICE_Stefan_Johann_Stefansson_for_sde:0 "Stefán Jóhann Stefánsson"
-	 ICE_Hannibal_Valdimarsson_for_sde:0 "Hannibal Valdimarsson"
-	 ICE_Bjarni_Benediktsson_for_sco:0 "Bjarni Benediktsson"
-	 ICE_Christian_Halldorson_for_pau:0 "Christian Halldorson"
+	 ICE_Emil_Jonsson_for_syn:0 "에밀 욘손"
+	 ICE_Stefan_Johann_Stefansson_for_sde:0 "스테파운 요한 스테파운손"
+	 ICE_Hannibal_Valdimarsson_for_sde:0 "한니발 발디마르손"
+	 ICE_Bjarni_Benediktsson_for_sco:0 "비아르드니 베네딕츠손"
+	 ICE_Christian_Halldorson_for_pau:0 "크흐리스티안 할도르손"
 	## Economy Minister
-	 ICE_Finnur_Jonsson_eco_syn:0 "Finnur Jónsson"
-	 ICE_Einar_Arnason_eco_rso:0 "Einar Árnason"
-	 ICE_Gisli_Gudmundsson_eco_sde:0 "Gísli Guðmundsson"
-	 ICE_Hermann_Jonasson_eco_sli:0 "Hermann Jonasson"
-	 ICE_Ingvar_Palmason_eco_sli:0 "Ingvar Pálmason"
-	 ICE_Sigurdur_Kristjansson_eco_mli:0 "Sigurður Kristjánsson"
-	 ICE_Gisli_Sveinsson_eco_sco:0 "Gísli Sveinsson"
-	 ICE_Sigurdur_E_Hlidar_eco_sco:0 "Sigurður E. Hlíðar"
-	 ICE_Bjoern_Olafsson_eco_sco:0 "Björn Ólafsson"
+	 ICE_Finnur_Jonsson_eco_syn:0 "핀뉘르 욘손"
+	 ICE_Einar_Arnason_eco_rso:0 "에이나르 아우르드나손"
+	 ICE_Gisli_Gudmundsson_eco_sde:0 "기슬리 그뷔드뮌손"
+	 ICE_Hermann_Jonasson_eco_sli:0 "헤르만 요나손"
+	 ICE_Ingvar_Palmason_eco_sli:0 "잉그바르 파울마손"
+	 ICE_Sigurdur_Kristjansson_eco_mli:0 "시귀르뒤르 크리스티아운손"
+	 ICE_Gisli_Sveinsson_eco_sco:0 "기슬리 스베인손"
+	 ICE_Sigurdur_E_Hlidar_eco_sco:0 "시귀르뒤르 E. 흘리다르"
+	 ICE_Bjoern_Olafsson_eco_sco:0 "비외르든 올라프손"
 	## Security Minister
-	 ICE_Hedinn_Valdimarsson_sec_syn:0 "Héðinn Valdimarsson"
-	 ICE_Bergur_Jonsson_sec_sde:0 "Bergur Jónsson"
-	 ICE_Olafur_Bjoernsson_sec_sco:0 "Ólafur Björnsson"
-	 ICE_Gunnar_Thorvaldson_sec_pau:0 "Gunnar Thorvaldson"
+	 ICE_Hedinn_Valdimarsson_sec_syn:0 "혜딘 발디마르손"
+	 ICE_Bergur_Jonsson_sec_sde:0 "베르귀르 욘손"
+	 ICE_Olafur_Bjoernsson_sec_sco:0 "올라뷔르 비외르든손"
+	 ICE_Gunnar_Thorvaldson_sec_pau:0 "귄나르 소르발손"
 
 	### Chief of Staff ###
 
