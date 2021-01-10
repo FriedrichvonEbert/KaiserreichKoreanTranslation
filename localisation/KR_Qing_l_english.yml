@@ -428,10 +428,10 @@ QIE_YGD_holy_fortresses:0 "Holy Fortresses"
 
 
 ### National Spirits / Ideas ###
-QIE_fractured_empire:0 "산산조각난 제국"
+QIE_fractured_empire:0 "산산이 조각난 제국"
 QIE_fractured_empire_desc:0 "청 제국은 이론적으로 만주, 티베트, 몽골 이외의 모든 중국을 지배하고 있습니다. 현실적으로 황제의 권력은 자금성 밖으로 간신히 뻗어 나가고, 차오쿤 총리는 관저를 벗어나지 못하는 대체로 무력한 상태입니다. 제위 이면의 실질적인 권력자인 우페이푸는 어떤 의미 있는 방법으로 나라를 발전시키는 것보다 뤄양에 있는 자신의 권력 기반을 공고히 하고 군벌 간의 균형을 맞추는 데 더 관심이 있습니다."
 QIE_big_debt:0 "막대한 국채"
-QIE_big_debt_desc:0 "중국의 국가 경제 발전을 위한 노력은 베이징 정부가 주도하는 막대한 무역 부채를 초래했습니다. 산업용 기계는 엄청난 비용으로 수입되고 있으며, 국내 제조업이 거의 존재하지 않아 세계시장에서 경쟁할 수 있는 상품의 품질과 양이 부족합니다. 따라서 중국의 주요 수출품은 대부분 농업이며, 심지어 생계보다 상품성이 짙은 현금작물도 담배나 라디오 같은 수입된 외국 사치품에 비해 낮은 가격에 팔리고 있습니다. 이 문제는 널리 퍼진 제도화된 부패와 번창하는 아편 거래로 인해 악화될 뿐입니다." 
+QIE_big_debt_desc:0 "중국의 국가경제 발전을 위한 노력은 베이징 정부가 주도하는 막대한 무역 부채를 초래했습니다. 산업용 기계는 엄청난 비용으로 수입되고 있으며, 국내 제조업이 거의 존재하지 않아 세계시장에서 경쟁할 수 있는 상품의 품질과 양이 부족합니다. 따라서 중국의 주요 수출품은 대부분 농업이며, 심지어 생계보다 상품성이 짙은 현금작물도 담배나 라디오 같은 수입된 외국 사치품에 비해 낮은 가격에 팔리고 있습니다. 이 문제는 널리 퍼진 제도화된 부패와 번창하는 아편 거래로 인해 악화될 뿐입니다." 
 QIE_black_monday:0 "검은 월요일"
 QIE_black_monday_desc:0 "중국 대부분이 검은 월요일로 인한 광범위한 경제적 여파를 피했지만, 중국 경제와 독일의 경제가 뒤얽혀 경제 생산에 경미한 타격을 입었습니다."
 QIE_leadership_crisis:0 "직예 지도부의 위기"
@@ -547,7 +547,7 @@ QIE_anqing_reconstruction_aid:0 "안경 재건 지원"
 QIE_anqing_reconstruction_aid_desc:0 "Anqing has been hit hard by the League war, with much of its country damaged significantly. However, we have come to their aid and are providing additional help with the reconstruction."
 
 ### Peking-Kommission Level ###
-QIE_german_influence_dynamic_modifier:0 "베이징위원회 영향력 단계\n§g베이징위원회는 베이징이 직접 통제하는 지역에 대한 독일의 주요한 대리인입니다. 그들은 독일의 산업 방식과 자유무역 채택을 추진하고 의회에서 몇몇 의석을 차지하는 로비단체인 번영연맹에 직접 자금을 지원합니다.\n\n(이 국민정신은 시장자유주의 인기도와 관련있습니다.)§!\n\n24시간마다 갱신"
+QIE_german_influence_dynamic_modifier:0 "베이징위원회 영향력 단계\n§g베이징위원회는 베이징이 직접 통제하는 지역에 대한 독일의 주요한 대리인입니다. 그들은 독일의 산업 방식과 자유무역 채택을 추진하고 의회에서 몇몇 의석을 차지하는 로비단체인 번영연맹에 직접 자금을 지원합니다.\n\n(이 국민정신은 시장자유주의 인기도와 관련 있습니다.)§!\n\n24시간마다 갱신"
 #QIE_german_influence_dynamic_modifier_desc:0 "The Peking-Kommission is Germany's primary agent for exerting control over areas directly controlled by Beijing. They directly fund the Prosperity League, a lobbying group that pushes for adoption of German industrial methods and free trade while also holding several seats in the Assembly.\n\n(This modifier is tied to the popularity of the Market Liberal party. Should it get too high, expect decreased industrial efficiency and resentment from those who dislike the Germans!)"
 
 #yiguandao influence
