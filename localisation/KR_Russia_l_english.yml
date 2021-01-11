@@ -71,8 +71,8 @@ RUS_social_conservative_party:0 "러시아 연맹"
 RUS_social_conservative_party_long:0 "러시아 연맹"
 RUS_authoritarian_democrat_party:0 "10월당"
 RUS_authoritarian_democrat_party_long:0 "10월 17일 연합"
-RUS_paternal_autocrat_party:0 "러시아 군사연합"
-RUS_paternal_autocrat_party_long:0 "러시아 군사연합"
+RUS_paternal_autocrat_party:0 "러시아 전군연합"
+RUS_paternal_autocrat_party_long:0 "러시아 전군연합"
 RUS_national_populist_party:0 "러시아 인민공화당"
 RUS_national_populist_party_long:0 "러시아 인민공화당"
 
@@ -93,7 +93,7 @@ RUS_unpopular_president:0 "인기 없는 대통령"
 RUS_bleeding_heart_socialist:0 "동정심 많은 사회주의자"
 RUS_eurasianist_ideologue:0 "유라시아주의 사상가"
 RUS_milyukov_of_the_dardanelles:0 "다르다넬스의 밀류코프"
-RUS_savvy_politician:0 "요령있는 정치 공작원"
+RUS_savvy_politician:0 "요령 있는 정치공작원"
 
 ### Leaders ###
 POLITICS_BORIS_SAVINKOV_DESC:0 "테러리스트, 폭력적인 미치광이, 살인자, 혁명가 그리고 독재자는 러시아 인민공화당의 지도자인 보리스 사빈코프에게 붙은 수많은 별명들 중 일부에 불과합니다. 그는 화려한 일생 동안 사회혁명당 전투조직의 일원으로서 많은 정적들을 암살했고, 1917년부터는 전쟁장관이자 유능한 책략가로 알렉산드르 케렌스키의 등 뒤에서 활약했으며, 은밀하게 러시아의 독재적 권력을 장악하려 시도했지만, 코르닐로프의 쿠데타가 실패하며 몰락했습니다. 그러나 그는 1919년 모스크바의 지하 저항 단체이자 도시를 전복한 기반이 된 '조국의 방위를 위한 연합'을 조직하며 스스로 재기에 성공했습니다.\n\n사빈코프는 한때 사회주의자였을지 모르지만, 수년 동안 자신에게 영향을 끼쳐온 수많은 사상들을 하나로 통합한 그는 이미 나약한 사회주의 혁명가들을 저버린 지 오래입니다 - 그의 모든 것은 전체주의적 독재 체제, 극도의 러시아 민족주의, 그리고 재현적 재건의 형태로 초점이 맞춰져 있습니다: 잿더미에서 솟아오르는 독수리처럼, '영도자'는 러시아의 영광을 되찾아 반동주의 패권국으로 변모시킬 것입니다. 테러리스트로 활동하던 시절 그는 당국과 그를 오흐라나에 넘길 가능성이 있는 모든 인물들로부터 숨어다녔으며, 이 때문에 사빈코프의 성격은 거의 편집증에 가깝습니다. 그는 아직도 건물이나 골목의 모든 구석을 확인하며 적을 경계하고, 일행이 있다면 단단히 긴장시키곤 합니다. 무엇보다도 그는 사회주의, 사회주의의 그 모든 형태를 경멸합니다."
@@ -140,7 +140,7 @@ POLITICS_NIKOLAY_VATUTIN_DESC:0 "§Y장군 약력\n§Y출생:§L\n1901년 12월 
 POLITICS_VLADIMIR_MANSHTEYN_DESC:0 "§Y장군 약력\n§Y출생:§L\n1894년 1월 3일, 러시아 제국 폴타바현 크레멘추크\n§Y군 경력:§L\nThe son of general Vladimir von Manstein, Manshteyn was born to a family of Russified Germans who accepted Orthodoxy and abandoned much of their heritage. When the Weltkrieg began, Manshteyn was a cadet in the Pavlovsky Military School in Petrograd, his class was released ahead of schedule and commissioned in the army due to a severe lack of officers on the front. Even before the war began to take its toll, the officer's peers caught note of him - he was certainly brave and fearless, but in his own way, with a complete lack of restraint, sympathy, and full of contempt towards his fellow man. The events of 1917 only aggravated these tendencies - the collapse of the Russian Empire, which he wholeheartedly believed in, and a brutal injury during the Civil War, after which his left arm was amputated.\n\nDuring the Russian Civil War, Manshteyn gained the nickname "One-Armed Devil". Claiming to be "possessed by Russia", he commanded units in the White Army with exceptional efficiency, showed no remorse to Bolsheviks, and personally executed numerous political commissars - his contemporaries described him being as cold as a machine, "a terrible invention of death and blood". And for that, the Whites respected him whole-heartedly. After the Civil War, however, Manshteyn's life fell to a slump. War is all he had ever known, his injury meant that he was unable to find any other job, and his marriage turned estranged - before they could get divorced, his wife mysteriously disappeared, and rumors say that Manshteyn shot her himself. The disillusioned officer found his salvation in Boris Savinkov's national populism - its call for national rebirth and vengeance against Germany spoke to him, and he became a card-carrying member of the NRPR. Only his German heritage, as much as Manshteyn might deny it, prevents him from becoming Savinkov's closest ally."
 
 ### Decisions ###
-RUS_Foreign_Policy_decisions:0 "대외 정책"
+RUS_Foreign_Policy_decisions:0 "대외정책"
 RUS_Foreign_Policy_decisions_desc:0 "지난 몇 십 년 동안, 러시아는 세계에서 웃음거리였습니다. 그러나, 최근 유럽의 연쇄적인 사건들과 그 영향들은 우리에게서 분리된 (불법적인)국가들을 다시금 되찾을 수 있는 기회로 찾아왔습니다. \n\n 이제, 러시아라는 곰이 깨어났습니다. 다만 우리가 옛 러시아 제국의 영토를 되찾아야만 우리는 진정으로 위대한 러시아가 될 수 있을 것입니다. 러시아여 영원하라! 러시아는 하나이리라!"
 
 RUS_Attack_Region:0 "[From.GetNameDef] 공격"
@@ -149,7 +149,7 @@ RUS_Attack_Central_Asia_desc:0 "[RUS_Attack_Central_Asia_desc_text]"
 RUS_Attack_Central_Asia_desc_ALO:0 "검은 월요일이 러시아를 강타하면서, 알라시 자치국은 우리의 통제에서 벗어났습니다. 카자흐 국경선을 되찾는 것은 러시아를 다시금 열강으로 올려놓기 위한 최우선 과제입니다."
 RUS_Attack_Central_Asia_desc_TRK:0 "투르케스탄 지역은 본래 러시아령으로, 세계대전 패전으로 인해 상실한 영토입니다. 카자흐 국경선이 우리의 통제하에 확고히 자리잡았으니, 이제 해당 지역을 수복하는 데 집중해야 합니다."
 
-RUS_Seize_Tuva:0 "Seize Tuva"
+RUS_Seize_Tuva:0 "투바 점령"
 RUS_Seize_Tuva_desc:0 "The lands of Tuva were formerly under the control of the Russian Empire. Now that we have consolidated our lands in the West and Mongolia is occupied elsewhere, we should retake this border region to provide additional security for the Trans-Siberian Railway."
 
 RUS_Demand_Karelia:0 "카렐리야 요구"
@@ -229,7 +229,7 @@ RUS_Kachkanar_Exploitation:0 "카흐카나르 개발"
 ### Zemstva Mechanic ###
 
 RUS_Zemstvo_Funding_decisions:0 "지역 젬스트보 투자"
-RUS_Zemstvo_Funding_decisions_desc:0 "젬스트보는 1861년 농노해방령 이후에 만들어진 농촌 자치 기관으로, 세금을 부과하고 이 세금을 교육, 의료, 도로 유지에 사용할 수 있는 권한을 부여받습니다. 하지만, 젬스트보 예산은 지방세만으로 충당되며, 따라서 대형 프로젝트를 하기엔 부족한 감이 있습니다. 만약 우리가 젬스트보의 효과를 향상시키고 싶다면, 우리는 그들에게 자금을 직접 지원해야 합니다."
+RUS_Zemstvo_Funding_decisions_desc:0 "젬스트보는 1861년 농노해방령 이후에 만들어진 농촌 자치기관으로, 세금을 부과하고 이 세금을 교육, 의료, 도로 유지에 사용할 수 있는 권한을 부여받습니다. 하지만, 젬스트보 예산은 지방세만으로 충당되며, 따라서 대형 프로젝트를 하기엔 부족한 감이 있습니다. 만약 우리가 젬스트보의 효과를 향상시키고 싶다면, 우리는 그들에게 자금을 직접 지원해야 합니다."
 RUS_funding_zemstva:0 "이미 다른 지역의 젬스트보에 자금을 지원 중임."
 
 RUS_Invest_In_The_Northern_Zemstva:0 "북부 젬스트보에 투자"
@@ -448,7 +448,7 @@ RUS_Reintroduce_Okhrannoye_Otdeleniye_desc:0 "러시아 전역에서 혁명운�
 RUS_Electronic_Warfare:0 "전자전"
 RUS_Electronic_Warfare_desc:0 "현대의 전쟁은 전쟁터에서의 부분적인 승리만을 의미하지 않습니다. 정보의 전송과 분석을 다루는 사람들도 전장에서 싸우문 병사만큼 중요합니다. 우리는 그들이 일을 더욱 수월하게 할 수 있도록 지원할 필요가 있습니다."
 
-RUS_Front_Line_Commissars:0 "전선의 정치 위원"
+RUS_Front_Line_Commissars:0 "전선의 정치위원"
 RUS_Front_Line_Commissars_desc:0 "오흐라나는 위험한 혁명가들이 군대를 선동해서 쿠데타를 일으키는 것을 막기 위해, 군 최고 사령부의 직책을 맡았습니다. 우리는 앞서 얘기한 비극이 일어나지 않도록 할 것입니다."
 
 RUS_Equipment_Modernisation:0 "장비 현대화"
@@ -472,7 +472,7 @@ RUS_The_ORT_System_desc:0 "오흐라나는 외국의 기술에서 영감을 받�
 RUS_Disorganisation:0 "해체"
 RUS_Disorganisation_desc:0 "적의 지상병력에 직접 개입하지 않고 공중에서 안전하게 격퇴할 수도 있습니다. 우리의 폭격기는 적의 보급선을 교란시키고 전선에서 멀리 떨어진 주요 산업을 제거하는데 효과적일 수 있습니다."
 
-RUS_Air_Superiority:0 "공중 우세"
+RUS_Air_Superiority:0 "공중우세"
 RUS_Air_Superiority_desc:0 "폭격기가 우리의 적에게 피해를 줄 수는 있지만, 우리 전투기의 충분한 보호 없이는 한 대의 폭격기도 목표물에 도달하지 못할 것입니다. 게다가 호위 임무 외에도 전투기들은 우리 군대와 산업을 보호할 수 있습니다."
 
 RUS_Wing_Formations:0 "비행 대형"
@@ -544,11 +544,11 @@ RUS_Death_From_Above_desc:0 "혁명 전에 우리 해군 참모 몇 명이 캐�
 RUS_Floating_Fortresses:0 "해상 요새"
 RUS_Floating_Fortresses_desc:0 "옛 학교의 수많은 장교들은 세계대전과 러시아 내전에서 겪은 경험을 바탕으로 규율과 장엄한 드레드노트급 전함의 힘을 믿습니다. 그들은 이 거대한 군함이 우리 해군의 중추로 남아 있어야 한다고 주장합니다."
 
-RUS_War_Under_The_Sea:0 "수중 전투"
+RUS_War_Under_The_Sea:0 "수중전투"
 RUS_War_Under_The_Sea_desc:0 "항공모함이나 전함이 미래일지도 모르지만, 우리의 신행 공화국이 이 거대한 함선을 건조하는데 집중하는 것은 그다지 현실적이지 않을지도 모릅니다. 대형 해군을 건조하는 사업은 비용이 많이 들고, [RUS.GetNameDef]에는 그런 거대한 함대를 건조할 수 있는 부두와 자원도 없습니다. 대신 적 선박을 괴롭히기 위한 값싸고 치명적인 잠수함에 집중해야 합니다."
 
 RUS_The_Invisible_Navy:0 "보이지 않는 해군"
-RUS_The_Invisible_Navy_desc:0 "세계 대전을 거치며 우리는 커다란 주포를 가진 쪽이 항상 전쟁에서 이기는 것은 아니라는 것을 알게 되었습니다. 값싸고 조용하며 치명적인 잠수함들은 제국 전체를 굴복시킬 수 있습니다. 브레스트-리토프스크 조약에 의해 우리의 조선능력이 제한되어 있기 때문에, 이러한 종류의 선박에 초점을 맞추면 우리는 심해에서의 공격능력을 신속하게 되찾을 수 있을 것입니다."
+RUS_The_Invisible_Navy_desc:0 "세계대전을 거치며 우리는 커다란 주포를 가진 쪽이 항상 전쟁에서 이기는 것은 아니라는 것을 알게 되었습니다. 값싸고 조용하며 치명적인 잠수함들은 제국 전체를 굴복시킬 수 있습니다. 브레스트-리토프스크 조약에 의해 우리의 조선능력이 제한되어 있기 때문에, 이러한 종류의 선박에 초점을 맞추면 우리는 심해에서의 공격능력을 신속하게 되찾을 수 있을 것입니다."
 
 RUS_Coastal_Defences:0 "해안 방어"
 RUS_Coastal_Defences_desc:0 "우리의 해군은 역사적으로 우리의 경쟁국에 비해 약했기 때문에, 많은 해군 이론가들은 적에 대한 방어적인 입장을 옹호하고 있습니다. 기뢰를 매설하는 데 주력함으로써, 우리는 바다에서 그들의 움직임을 제한하고 함대에 손실을 입히면서 우리 자신의 위험을 최소화할 수 있습니다."
@@ -623,8 +623,8 @@ RUS_Enemy_In_The_East:0 "동쪽의 적"
 RUS_Enemy_In_The_East_desc:0 "러일 전쟁 이후 러시아의 진정한 적은 해가 떠오르는 동쪽의 제국이었고, 앞으로도 그럴 것입니다. 중국의 부유하고 인구가 많은 지역을 차지하면 우리에게 도움이 될 것입니다."
 
 ### Tooltips ###
-RUS_Savinkov_is_HoG:0 "§H보리스 사빈코프§! 가 현재 지도자임"
-RUS_Savinkov_is_HoG_NOT:0 "§H보리스 사빈코프§! 가 현재 지도자가 아님"
+RUS_Savinkov_is_HoG:0 "§H보리스 사빈코프§!가 현재 지도자임"
+RUS_Savinkov_is_HoG_NOT:0 "§H보리스 사빈코프§!가 현재 지도자가 아님"
 
 RUS_has_black_monday:0 "국민정신 §H$RUS_economic_depression$§!을 가짐"
 RUS_has_black_monday_NOT:0 "국민정신 §H$RUS_economic_depression$§!을 가지지 않음"
@@ -684,7 +684,7 @@ RUS_paratrooper_tooltip:0 "One £nato_unit_paratrooper_icon_small  §HParatroope
 
 ### Events ###
 russia.1.t:0 "골치 아픈 역사"
-russia.1.d:0 "2월 혁명이 수백년간 계속된 차르정 전제주의를 종식시켰지만, 그 성과는 돌이킬 수 없는 지경에 이르렀습니다. 1917년 10월 레닌이 이끄는 볼셰비키가 겨울 궁전으로 들어닥쳐 러시아의 지배권을 장악했고, 세계 최초의 사회주의 혁명 국가인 소비에트 러시아의 건국을 선언했습니다. 군주주의자, 공화주의자, 중도 사회주의자의 광범위한 연합전선이 들고 일어섰고 외세도 소비에트에 저항하기 위해 개입을 개시했습니다. 볼셰비키 혁명은 결국 실패로 끝났습니다. 1918년 9월 불만을 품은 좌파 사회혁명당 당원이던 파니 카플란이 레닌을 암살했고, 볼셰비키는 해체되기 시작했습니다. 이런 와중에 독일에서 보낸 보급품이 내전 과정 전체에 걸쳐 백군 운동에 지원을 보냈고, 마침내 1920년대에는 혁명이 완전히 진압되기에 이릅니다.\n\n1922년 백군 장군들이 새로운 러시아 공화국을 위한 헌법을 작성했습니다. 이 헌법은 민주적이기는 했지만 여러 문제를 품고 있었고 모두를 만족시키는데 실패했습니다. 나약한 얼굴마담을 원했던 백군은 10월 쿠데타 이전 임시정부를 이끌었던 알렉산드르 케렌스키를 러시아 공화국 초대 대통령으로 내세웠습니다. 그러나 케렌스키는 자신의 능력을 증명하며 1925년 콜차크 음모에서 살아남았고 신경제정책을 펼쳐 경제를 재건해냈으며 최근 15년간 국가를 통치해왔습니다. 그는 중요한 정치적 반대파가 없다는 점과 광범위한 선거 조작을 통해 장기 집권을 그럭저럭 유지할 수 있었습니다.\n\n1936년까지 케렌스키 대통령은 정부 내 마지막 동맹 세력을 약화시켰고, 신경제정책은 더 이상 어떤 이익도 내놓지 못하게 되었습니다. 민족주의자들은 그가 독일에 굽실거린다고 바라보며, 민주주의자들은 그를 독재자라고 믿고, 사회주의자들은 단순히 이 체제 전체가 전복되기를 바라고 있습니다. 하지만 그들 모두가 공유하는 믿음이 단 하나 있습니다. 러시아가 여전히 세계에서 그 위치를 주장할 만한 잠재력을 가지고 있다는 점이지요..."
+russia.1.d:0 "2월 혁명이 수백 년간 계속된 차르정 전제주의를 종식시켰지만, 그 성과는 돌이킬 수 없는 지경에 이르렀습니다. 1917년 10월 레닌이 이끄는 볼셰비키가 겨울 궁전으로 들어닥쳐 러시아의 지배권을 장악했고, 세계 최초의 사회주의 혁명 국가인 소비에트 러시아의 건국을 선언했습니다. 군주주의자, 공화주의자, 중도 사회주의자의 광범위한 연합전선이 들고 일어섰고 외세도 소비에트에 저항하기 위해 개입을 개시했습니다. 볼셰비키 혁명은 결국 실패로 끝났습니다. 1918년 9월 불만을 품은 좌파 사회혁명당 당원이던 파니 카플란이 레닌을 암살했고, 볼셰비키는 해체되기 시작했습니다. 이런 와중에 독일에서 보낸 보급품이 내전 과정 전체에 걸쳐 백군 운동에 지원을 보냈고, 마침내 1920년대에는 혁명이 완전히 진압되기에 이릅니다.\n\n1922년 백군 장군들이 새로운 러시아 공화국을 위한 헌법을 작성했습니다. 이 헌법은 민주적이기는 했지만 여러 문제를 품고 있었고 모두를 만족시키는데 실패했습니다. 나약한 얼굴마담을 원했던 백군은 10월 쿠데타 이전 임시정부를 이끌었던 알렉산드르 케렌스키를 러시아 공화국 초대 대통령으로 내세웠습니다. 그러나 케렌스키는 자신의 능력을 증명하며 1925년 콜차크 음모에서 살아남았고 신경제정책을 펼쳐 경제를 재건해냈으며 최근 15년간 국가를 통치해왔습니다. 그는 중요한 정치적 반대파가 없다는 점과 광범위한 선거 조작을 통해 장기 집권을 그럭저럭 유지할 수 있었습니다.\n\n1936년까지 케렌스키 대통령은 정부 내 마지막 동맹 세력을 약화시켰고, 신경제정책은 더 이상 어떤 이익도 내놓지 못하게 되었습니다. 민족주의자들은 그가 독일에 굽실거린다고 바라보며, 민주주의자들은 그를 독재자라고 믿고, 사회주의자들은 단순히 이 체제 전체가 전복되기를 바라고 있습니다. 하지만 그들 모두가 공유하는 믿음이 단 하나 있습니다. 러시아가 여전히 세계에서 그 위치를 주장할 만한 잠재력을 가지고 있다는 점이지요..."
 russia.1.a:0 "하나이자 나눌 수 없는 러시아여, 영원하라!"
 
 russia.2.t:0 "1922년 러시아 헌법"
@@ -723,7 +723,7 @@ russia.7.b:0 "키릴 총대주교가 드미트리를 국민의 남자로 만들 
 russia.7.c:0 "민주주의자들을 달래자, 파벨 밀류코프."
 russia.7.e:0 "조언은 무의미하다. 드미트리의 소꿉친구 펠릭스 유수포프를 선택하라!"
 
-russia.8.t:0 "대통령 권한 대행 임명"
+russia.8.t:0 "대통령 권한대행 임명"
 russia.8.d:0 "마지막 순간, 체르노프의 노력 덕분에 입헌민주당의 왼쪽에 있는 모든 세력들, 즉 사회혁명당, 멘셰비키, 사회주의자들, 생디칼리스트들 그리고 수많은 다른 세력들 사이에서 헌법 수호를 위한 좌파 연정이 수립되었습니다. 앞으로 많은 일이 남았지만, 가장 힘든 단계는 지나쳤다고 해도 무방합니다.\n\n 좌파 연합은 헌법상의 임기 제한을 무시하고 총선을 위해 대통령을 선출하는 것을 꺼리고 있습니다. 따라서, 1937년 선거까지 오직 대통령 권한대행만이 임명될 것입니다. 좌우 여러 정당에서 이미 여러 후보가 나왔습니다. 하지만 지금은 혼란과 불안정의 시대로, 약소 정당 또한 강력한 동맹의 힘으로 권력을 차지할 수 있을 것입니다..."
 russia.8.a:0 "멘셰비키를 달래야 한다. 이라클리 체레텔리를 선출하자."
 russia.8.b:0 "빅토르 체르노프가 케렌스키의 유지를 잇는다!"
@@ -836,12 +836,12 @@ russia.24.d:0 "케렌스키 대통령 암살사건과 러시아의 불안한 정
 russia.24.a:0 "그들을 계속 주시하자!"
 russia.24.b:0 "함께하면 더 강하다!"
 
-russia.34.t:0 "각료위원회의 새 의장?"
-russia.34.d:0 "브란겔이 새로운 차르가 되었고 이제 그는 각료위원회의 새로운 의장을 지명해야 합니다."
+russia.34.t:0 "각료평의회의 새 의장?"
+russia.34.d:0 "브란겔이 새로운 차르가 되었고 이제 그는 각료평의회의 새로운 의장을 지명해야 합니다."
 russia.34.b:0 "파벨 샤틸로프 장군!"
 russia.34.e:0 "신성한 자 총대주교 키릴!"
 
-russia.35.d:0 "블라디미르가 차르위에 올랐고, 그는 각료위원회의 새로운 의장을 직접 지명하고 새로운 정부를 구성했습니다."
+russia.35.d:0 "블라디미르가 차르위에 올랐고, 그는 각료평의회의 새로운 의장을 직접 지명하고 새로운 정부를 구성했습니다."
 
 russia.1917.t:0 "혁명!"
 russia.1917.d.dmitriy:0 "'러시아 반혁명'이 일어난 후 아무도 사태가 곧 진정될 것이라고 예상하지 못했습니다. 가장 냉소적인 비관론자들만이 몇 주 안에 러시아가 다시 한번 혁명의 불길에 휩싸일 것이라고 상상할 수 있었습니다. 비록 코르닐로프의 문민정부로의 정권 이양 결정은 중도파가 우파와 갈라서는 것을 막아주기에는 충분했지만, 군대의 강압적인 집단 체포 방식이 이 나라의 좌파를 더 급진적인 정당으로 압도적으로 이동하게 했다는 점은 여전히 사실이었습니다. 개혁에 대한 어떤 희망도 케렌스키처럼 죽은 가운데, 많은 사람들이 거리로 나서는 것은 시간문제였습니다.\n\n페트로그라드와 모스크바에서 과격분자들에 의한 폭동으로 시작되었으며, 경찰이 그들을 진압할 수 없게 되면서 빠르게 힘을 얻었습니다. 드미트리보다 코르닐로프의 명령을 따르는 군대가 개입했을 때, 그 강압적인 조치는 사태를 악화시킬 뿐이었습니다. 날이 갈수록 더 많은 사람들이 적군의 편을 들면서 폭동이 격렬해졌습니다. 문민정부는 최선을 다했음에도 불구하고 이름뿐인 정부였습니다. 정부는 이미 한때 이 나라 인구의 많은 부분, 특히 코르닐로프의 가혹한 조치에 의해 희생된 사람들과 함께 있었을지도 모르는 어떤 정통성을 상실하고 있었습니다.\n\n폭동이 서부를 휩쓸기 시작한 지 얼마 되지 않아, 군대는 드미트리와 그의 내각을 수도에서 철수시킬 수밖에 없었습니다. 동쪽에 임시 수도가 마련되었고, 이미 서부를 되찾기 위해 싸울 준비가 되어 있었습니다. 옛 수도에서는 그 순간을 노린 혁명가들이 광범위한 대중의 지지없이 일 수도 있지만 권력을 잡았으며 모스크바와 페트로그라드를 둘러싼 많은 지역들이 곧 그들 대열에 합류하게 되습니다. 많은 농민들과 지식인들 모두가 개혁을 통해 결코 얻을 수 없는 것을 혁명으로 얻을 기회를 잡았기 때문입니다. 비록 새로운 사회주의 정부가 위태로운 위치에 있지만, 러시아가 또 한번의 피비린내 나는 내전을 향해 질주하는 것처럼 보이자 이미 민병대를 동원하고 대중의 지지를 모으기 위한 조치를 취하고 있습니다."
@@ -1147,7 +1147,7 @@ rusd.100.a:0 "메멘토 모리."
 
 rusd.101.t:0 "블라디미르 푸리시케비치의 죽음"
 rusd.101.d.not_monarchy:0 "보수주의 운동의 저명인사이자 러시아의 마지막 지주가 어제 그의 시골 별장에서 죽었습니다. 그의 죽음으로 우파 진영의 정치 지형이 크게 개편될 것입니다."
-rusd.101.d.monarchy:0 "보수주의 운동의 저명인사이자 러시아의 마지막 지주가 어제 그의 시골 별장에서 죽었습니다. 그의 죽음으로 우파 진영의 정치 지형이 크게 개편될 것입니다.\n\n그의 죽음으로 [ROOT.GetLeader] 차르는 각료위원회의 새 의장을 선출해야 하게 되었습니다."
+rusd.101.d.monarchy:0 "보수주의 운동의 저명인사이자 러시아의 마지막 지주가 어제 그의 시골 별장에서 죽었습니다. 그의 죽음으로 우파 진영의 정치 지형이 크게 개편될 것입니다.\n\n그의 죽음으로 [ROOT.GetLeader] 차르는 각료평의회의 새 의장을 선출해야 하게 되었습니다."
 rusd.101.a:0 "펠릭스 유수포프가 수상직을 이어받을 것이다."
 rusd.101.b:0 "전통파 장군 안톤 데니킨!"
 rusd.101.c:0 "개혁파 장군 표트르 브란겔!"
@@ -1227,7 +1227,7 @@ rusd.134.d:0 "국민경제달성박람회('Vystavka Dostizeniy Narodnogo Khozays
 rusd.134.a:0 "이것이 바로 러시아 재건의 모델이다."
 
 rusd.135.t:0 "최고추밀원"
-rusd.135.d:0 "사빈코프와 코르닐로프는 독재 정권을 수립했지만, 사빈코프의 인민공화당 공화주의자들과 코르닐로프의 젊은 장교들 사이의 분쟁은 새 정권의 안정을 깨뜨릴 수 있습니다. 우리는 국가두마의 좌익 급진주의자들과 상원의 군주주의자들이 군대와 러시아 인민공화당의 통치를 파괴할 목적으로 이 분쟁을 활용하게 둘 수는 없습니다. 사빈코프는 이런 원치 않는 사태를 막기 위해 한때 행정권과 입법권을 모두 소유하고, 가장 중요한 러시아 각료들로 구성된 최고 추밀원('Verkhovnyi Tainyi Sovet')의 재건을 제안했습니다. "베르호브니키"로 알려진 SPC 회원은 코르닐로프와 사빈코프를 지도자의 자리에 올려놓은 3명의 당원과 3명의 러시아 군 출신 옛 동료들로 구성될 것입니다. 이들은 행정명령을 내릴 수 있을 것이며, 이는 러시아 법보다 우위에 서게 될 것입니다."
+rusd.135.d:0 "사빈코프와 코르닐로프는 독재정권을 수립했지만, 사빈코프의 인민공화당 공화주의자들과 코르닐로프의 젊은 장교들 사이의 분쟁은 새 정권의 안정을 깨뜨릴 수 있습니다. 우리는 국가두마의 좌익 급진주의자들과 상원의 군주주의자들이 군대와 러시아 인민공화당의 통치를 파괴할 목적으로 이 분쟁을 활용하게 둘 수는 없습니다. 사빈코프는 이런 원치 않는 사태를 막기 위해 한때 행정권과 입법권을 모두 소유하고, 가장 중요한 러시아 각료들로 구성된 최고추밀원('Verkhovnyi Tainyi Sovet')의 재건을 제안했습니다. "베르호브니키"로 알려진 SPC 회원은 코르닐로프와 사빈코프를 지도자의 자리에 올려놓은 3명의 당원과 3명의 러시아 군 출신 옛 동료들로 구성될 것입니다. 이들은 행정명령을 내릴 수 있을 것이며, 이는 러시아 법보다 우위에 서게 될 것입니다."
 rusd.135.a:0 "역사가 반복되었다."
 
 rusd.136.t:0 "펠릭스 유수포프와 SPC"
@@ -1303,8 +1303,8 @@ rusd.152.t:0 "국가연합"
 rusd.152.d:0 "드미트리 로마노프는 아직 그의 새로운 의무와 권력에 익숙해지지 않았는데, 그 틈을 타 여러 파벌들이 그를 그들의 뜻대로 움직이기 위해 그의 주변에 모여들기 시작했습니다. 협상이 끝난 후, 10월 17일 연합과 다수의 소규모 정당들이 힘을 합치기로 선택했고, 국가연합이란 이름의 긴밀한 정치적 동맹을 형성했습니다. 그들은 러시아의 안정을 유지하고 급진적인 좌익 세력의 성장을 막기 위한 광범위한 정치적, 사회적 개혁을 주장하고 있고, 그들은 또한 몇몇 기업가 로비스트들의 자금 지원과 귀족들의 지지를 받고 있습니다.\n\n국가연합은 로마노프 대통령의 뒤를 받쳐, 그와 그의 정부가 의회의 양원 모두에서 안정적인 지지를 받도록 할 것입니다."
 rusd.152.a:0 "이제 정상으로 돌아갈 때다."
 
-rusd.153.t:0 "드미트리 로마노프가 권력을 장악하다"
-rusd.153.d:0 "모스크바 크렘린 궁전은 오랫동안 비어있지 않았습니다. 로마노프가의 대공이자 상원 의원인 드미트리 로마노프가 10월주의자, 러시아 민족주의자, 유라시아주의자, 우익 입헌혁명당원 등의 지지를 받아 근소한 차이로 러시아의 새 대통령으로 선출됐습니다. "모던 로마노프"의 역할을 맡은 드미트리는 보수공화주의자들과 입헌군주주의자들에게 그들의 구세주로 여겨지고 있습니다. 상원에 의해 대통령에 선출된 후, 대공은 그의 첫 번째 목표는 무너진 러시아 국가의 안정을 되찾는 것이라고 선언했습니다. 놀랍게도, 그는 민주주의를 보호하겠다는 어떤 약속도 하지 않았습니다. 그와 그의 등뒤에 서 있는 우파 상원의원들 중 어느 누구도 좌파의 민주적 통치를 찬성하지 않으며 단지 그들에게 립서비스를 해줄 뿐입니다.\n\n국민들은 신임 대통령의 첫 행보를 기다리고 있습니다."
+rusd.153.t:0 "권력을 장악한 드미트리 로마노프"
+rusd.153.d:0 "모스크바 크렘린 궁전은 오랫동안 비어있지 않았습니다. 로마노프 가문의 대공이자 상원 의원인 드미트리 로마노프가 10월주의자, 러시아 민족주의자, 유라시아주의자, 우익 입헌혁명당원 등의 지지를 받아 근소한 차이로 러시아의 새 대통령으로 선출됐습니다. "모던 로마노프"의 역할을 맡은 드미트리는 보수공화주의자들과 입헌군주주의자들에게 그들의 구세주로 여겨지고 있습니다. 상원에 의해 대통령에 선출된 후, 대공은 그의 첫 번째 목표는 무너진 러시아 국가의 안정을 되찾는 것이라고 선언했습니다. 놀랍게도, 그는 민주주의를 보호하겠다는 어떤 약속도 하지 않았습니다. 그와 그의 등뒤에 서 있는 우파 상원의원들 중 어느 누구도 좌파의 민주적 통치를 찬성하지 않으며 단지 그들에게 립서비스를 해줄 뿐입니다.\n\n국민들은 신임 대통령의 첫 행보를 기다리고 있습니다."
 rusd.153.a:0 "그야말로 신성한 러시아를 수호할 적임자이다."
 
 rusd.154.t:0 "'유나르미야' 여름 캠프"
