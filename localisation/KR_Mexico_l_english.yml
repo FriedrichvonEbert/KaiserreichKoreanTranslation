@@ -939,36 +939,36 @@ mexico.136.a:0 "흥미롭군"
 
 mexico.200.t:0 "[From.GetNameDefCap]이 인터내셔널에 가입하기를 원하다"
 mexico.200.d:0 "[From.GetNameDefCap]은 최근 사회주의 정부의 이익에 대해 알게 된 후, 우리에게 요청과 함께 접근해왔습니다. 그들은 정식으로 인터내셔널에 가입하기를 원합니다. 그런 머나먼 동맹이 가치가 있을까요?"
-mexico.200.a:0 "물론이지! 우리는 그들을 환영한다"
-mexico.200.b:0 "우리는 그들이 필요하지 않다"
+mexico.200.a:0 "물론이지! 우리는 그들을 환영하네."
+mexico.200.b:0 "우리는 그들이 필요하지 않다."
 
 mexico.201.t:0 "[From.GetNameDefCap]이 거절하다"
 mexico.201.d:0 "[From.GetAdjective] 정부는 그들의 동맹에 동참하려는 우리의 제안을 거절하였습니다. 아마도 우리는 그들이 판단하기에 충분히 생디칼리스트적이지 않거나 동맹국으로서 가치가 없는 것 같습니다. 어느 쪽이든 대답은 거절이었습니다."
-mexico.201.a:0 "그놈들 형편없는 결정이로군"
+mexico.201.a:0 "그놈들 형편없는 결정이로군."
 
 mexico.202.t:0 "[From.GetNameDefCap]이 협상국에 가입하기를 원하다"
 mexico.202.d:0 "[From.GetNameDefCap]은 협상국에 합류하려 폐하와 총리를 만날 대사를 [From.GetNameDefCap]에 파견하였습니다. 우리는 [From.GetAdjective]의 제안을 받아들여야 할까요?"
-mexico.202.a:0 "물론이지! 우리는 그들을 환영한다"
-mexico.202.b:0 "우리는 그들이 필요하지 않다"
+mexico.202.a:0 "물론이지! 우리는 그들을 환영하네."
+mexico.202.b:0 "우리는 그들이 필요하지 않다."
 
 mexico.203.t:0 "[From.GetNameDefCap]이 거절하다"
 mexico.203.d:0 "[From.GetAdjective] 정부는 그들의 동맹에 동참하려는 우리의 제안을 거절하였습니다. 아마도 우리는 그들의 판단하기에 우호적이지 않거나 동맹국으로서 가치가 없는 것 같습니다. 어느 쪽이든 대답은 거절이었습니다."
-mexico.203.a:0 "그놈들 형편없는 결정이로군"
+mexico.203.a:0 "그놈들 형편없는 결정이로군."
 
 mexico.206.t:0 "멕시코가 급진 좌파 정부를 선출하다"
 mexico.206.d:0 "멕시코는 급진적인 좌파 정부를 선출했고 이것은 미국 정부와 아메리카 국가 연맹의 목표에 받아들여지지 않습니다. 따라서 두 가지 선택지가 존재합니다. 우리는 좀 더 온건한 사회민주주의를 책임지도록 강요할 수도 있고, 아니면 그들을 아메리카 국가 연맹에서 쫓아낼 수도 있습니다. 어찌할까요?"
-mexico.206.a:0 "그들을 연맹에서 쫓아낸다"
-mexico.206.b:0 "정부를 바꾸도록 강요한다"
+mexico.206.a:0 "그들을 연맹에서 쫓아내라."
+mexico.206.b:0 "정부를 바꾸도록 강요하라."
 
 mexico.207.t:0 "미국이 우리의 정부를 바꾸길 원한다"
 mexico.207.d:0 "미국은 최근 멕시코 지도자들을 만나, 우리가 용인할 수 있는 정당으로 정부를 전환해야 한다고 통보해 왔습니다. 만약 우리가 거절한다면 미국의 지원을 받는 쿠데타나 제2차 멕시코-미국 전쟁을 직면하게 될 것입니다. 어찌할까요?"
-mexico.207.a:0 "우리는 미국의 요구에 동의할 것이다"
+mexico.207.a:0 "우리는 미국의 요구에 동의할 것이다."
 mexico.207.b:0 "우리는 대중의 의지에 반하지 않을 것이다!"
 
 mexico.208.t:0 "멕시코가 정부 교체를 거절하다"
 mexico.208.d:0 "멕시코인들은 온건한 정당이 국가를 운영하도록 허용해 달라는 우리의 합리적인 요청을 거부했습니다. 따라서 D.C 정부에서는 몇 가지 선택사항에 대해 토론하고 있습니다. 우리는 그들을 쫓아낼 수도 있고 아니면 이 모욕에 대한 전쟁을 선포할 수도 있습니다. 어찌할까요?"
-mexico.208.a:0 "그렇다면 전쟁이다"
-mexico.208.b:0 "그들을 쫓아내라"
+mexico.208.a:0 "그렇다면 전쟁이다."
+mexico.208.b:0 "그들을 쫓아내라."
 
 mexico.209.t:0 "미국이 우리를 미주연맹에서 쫓아냈다"
 mexico.209.d:0 "미국은 현 정부가 아메리카 국가 연맹에 적합하지 않다고 판단하여 우리를 연맹에서 쫓아냈습니다."
@@ -983,22 +983,22 @@ mexico.212.d:0 "멕시코의 새로운 시나키스트 정부에서는 중앙아
 mexico.212.a:0 "미쳤군, 전부 다."
 
 mexico.213.t:0 "멕시코와의 평화?"
-mexico.213.d:0 "멕시코가 코스타리카 지역에서 승리함에 따라, 황실 해병대 장교들은 미국에 대한 캠페인이 조국에게 아무런 이득 없이 많은 비용이 들 것이므로 분쟁에 대한 평화적인 해결방법을 찾을 것 을 우리에게 조언하였습니다. 어떻게 대응할까요?"
-mexico.213.a:0 "코스타리카에 수고할 필욘 없잖아?."
-mexico.213.b:0 "말도 안 돼! 제국은 동맹국을 보호한다!"
+mexico.213.d:0 "멕시코가 코스타리카 지역에서 승리하면서, 황립해군 장교들은 미 대륙에서의 군사작전이 조국에 아무런 이득도 없으며, 너무나 많은 비용이 들 것이므로 분쟁에 평화적인 해결법을 물색하길 조언했습니다. 어떻게 하시겠습니까?"
+mexico.213.a:0 "코스타리카에 그럴 가치는 없지."
+mexico.213.b:0 "말도 안 된다, 독일은 동맹을 보호하리라!
 
 mexico.214.t:0 "평화를 제안한 독일"
-mexico.214.d:0 "With our victory in Costa Rica, the Germans have finally seen the writing on the wall and have approached us to sign a peace deal, abandoning the conflict and leaving Costa Rica under our domain. How should we respond?"
-mexico.214.a:0 "Accept Their Terms"
-mexico.214.b:0 "No deals with the Germans!"
+mexico.214.d:0 "우리가 코스타리카에서 승리를 거두자, 독일 측이 마침내 벽에 쓰여진 글을 보았으며, 우리와의 분쟁을 끝냄과 동시에 코스타리카를 넘기고 떠나기 위한 평화협정에 서명하고자 접촉했습니다. 어떻게 하시겠습니까?"
+mexico.214.a:0 "조건에 동의하겠다."
+mexico.214.b:0 "독일놈과는 어떠한 거래도 없다!"
 
-mexico.215.t:0 "Mexico Refuses Peace"
-mexico.215.d:0 "Unexpectedly, the Mexicans have opted to refuse our peace offer, and have insisted that they shall remain in a state of war for the foreseable future. While it is extremelly unlikely they are planning on launching a trans-atlantic operation, we should still keep an eye out in case they decided to help our enemies..."
-mexico.215.a:0 "They Will Regret This."
+mexico.215.t:0 "멕시코 측에서의 평화제안 거부"
+mexico.215.d:0 "예상과는 다르게 멕시코는 우리의 평화 제의를 거부하기로 선택했고, 또한 곧 다가올 미래를 위해 전쟁상태를 지속해야 한다고 주장했습니다. 멕시코가 대서양 횡단작전을 개시할 가능성은 극히 희박하나, 그렇다 해도 놈들이 우리의 적을 돕기로 결정하는 경우를 대비해 지켜봐야 할 것입니다..."
+mexico.215.a:0 "놈들은 이 일을 후회하겠지."
 
-mexico.500.t:0 "Mexico Threatens Us"
-mexico.500.d:0 "As our young nation joins the international stage, we are already surrounded by opportunist vultures who seek to oppress us. The Mexican government refuses to recognize our government as legitimate, and our reports indicate that they are amassing their troops at our borders, clearly with the intention of waging war against us. We must prepare, if we wish to prevail..."
-mexico.500.a:0 "To Arms!"
+mexico.500.t:0 "멕시코의 위협"
+mexico.500.d:0 "새롭게 탄생한 우리나라가 국제 무대에 발을 딛자 마자, 우리는 우리를 억압할 기회를 노리는 독수리 떼에게 둘러싸였습니다. 멕시코 정부는 우리 정부를 합법적인 정부로 인정하길 거부했으며, 또한 보고에 따르면 멕시코가 우리와 전쟁을 할 목적으로 국경에 병력을 배치하고 있다고 합니다. 우리가 승리하기 위해선 준비를 해야 합니다..."
+mexico.500.a:0 "무기를 들어라!"
 
 ##Army Generals##
 
