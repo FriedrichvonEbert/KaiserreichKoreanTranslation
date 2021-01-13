@@ -2,7 +2,7 @@
 # Kaiserreich 한국어 번역 공지사항
 ## [Kaiserreich 한국어 번역](https://steamcommunity.com/sharedfiles/filedetails/?id=2098453801)은 공개 번역으로 진행됩니다.
 - 따라서 누구든지 Github 가입 후 자유롭게 참여하실 수 있습니다! 
-- 번역팀 디스코드 주소 : https://discord.gg/fGPdPFP
+- 번역팀 디스코드 주소 : https://discord.gg/JwxDFmRv6a
 ### [0.15.2 패치노트](https://www.reddit.com/r/Kaiserreich/comments/k3kohn/kaiserreich_beta_0152_is_out/)
 - 20.11.30. 기준 한국어 번역의 0.15.2 호환 작업이 완료되었습니다.
 ***
