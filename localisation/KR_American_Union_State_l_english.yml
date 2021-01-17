@@ -47,6 +47,9 @@ TEX_commonwealth_national_populist:0 "미연합국"
 TEX_commonwealth_national_populist_ADJ:0 "미국"
 TEX_commonwealth_national_populist_DEF:0 "미연합국"
 
+### Traits ###
+TEX_the_kingfish:0 "킹피쉬"
+
 ## American Union State ##
 POLITICS_GEORGE_VAN_HORN_MOSELEY:0 "필리핀의 기병 중위에서부터 워싱턴의 장성에 이르기까지 모즐리는 미 육군에서의 40년간의 복무동안 화려한 경력을 자랑합니다. 조지 패튼과 맥아더와 같은 장군들과 함께 복무한 경험은 휴이 롱을 지지하기로 한 그의 마지막 결정과 유대인 음모에 대한 그의 확고한 믿음에 영향을 주었습니다. 결국 모든 형태의 사회주의의 위험에 대한 그의 믿음은 그를 비상대권위원회의 완벽한 대변인으로 만들었습니다. 모즐리가 없었다면 세간에서 말하듯이 그가 연루되었다는 휴이 롱 실종사건에서 비상대권위원회가 휴이 롱을 계승하는 것은 불가능했을 것입니다."
 POLITICS_WILLIAM_DUDLEY_PELLEY:0 "39세의 윌리엄 펠리는 다소 상상력이 모자란 할리우드의 시나리오 작가이자 저널리스트였습니다. 그는 과거에 모험을 즐겼는데 그 대부분은 러시아를 방문하고 반유대주의 팸플릿의 내용을 흡수하는 것으로 이루어집니다. 1933년 그가 은색 군단을 설립했을 때, 펠리는 앵글로-색슨계 백인 우월주의 옹호자이자 호전적인 무당으로 변했습니다. 펠리의 신내림은 그 주변에 믿을 수 있는 동맹들만 남겨지게 했습니다. 그의 조직이 휴이 롱에게 지원받은 이후, 펠리는 같은 부류인 앵글로-색슨 우월주의자인 허버트 W 암스트롱을 만나 펠리-암스트롱 연대를 공식화했습니다. 묵인, 반사회주의, 그리고 기독교 정체성에 대한 믿음은 그의 정권의 근간을 이룹니다."
@@ -56,8 +59,6 @@ POLITICS_CHARLES_LINDBERGH_DESC:0 "애칭인 린디로 불리는 찰스 린드�
 
 ### Ideas ###
 TEX_righteous_nation:0 "적법한 대통령"
-TEX_industries_no_support:0 "산업계의 지지 없음"
-TEX_no_silver_legion:0 "은색 군단의 지원 없음"
 TEX_prohibition_bill:0 "금주법과 참전용사법"
 
 TEX_national_recovery_idea:0 "국가재건국"
@@ -141,7 +142,7 @@ TEX_airborne_experiments_desc:0 "숙련된 조종사를 양성하는 것이 새�
 ### Tooltips ###
 TEX_anti_syndicalist_pact_tooltip:0 "우리는 인터내셔널과 대립할 것입니다\n"
 TEX_fight_terrorists_tooltip:0 "§G우리는 역적들을 색출하고 궤멸시킬 것입니다!§!\n"
-TEX_silver_legion_raised:0 "민병대와 정규군 보병으로 이루어진 10개 사단이 남부지방에 걸쳐 소집될 것입니다"
+TEX_silver_legion_raised:0 "§H민병대와 정규군 보병으로 이루어진 10개 사단§!이 §H남부지방에 걸쳐§! 소집될 것입니다"
 TEX_unlock_bomber_1:0 "이 중점은 §HB-23 Dragon Tactical Bomber§!를 해금합니다"
 TEX_unlock_bomber_2:0 "이 중점은 §HB-25 Mitchell Tactical Bomber§!를 해금합니다"
 TEX_unlock_CAS:0 "이 중점은 §HA-24 Banshee Close Air Support Plane§!를 해금합니다"
@@ -160,8 +161,6 @@ TEX_arsenal_of_democracy_effect_1_tooltip:0 "Modify §H$TEX_arsenal_of_democracy
 TEX_arsenal_of_democracy_effect_2_tooltip:0 "Modify §H$TEX_arsenal_of_democracy_idea$§! by\n§HTroop convoy requirements§!: §G-10%§!\n§HNaval Invasion Capacity§!: §G+10§!"
 
 ### Decisions ###
-TEX_call_up_silver_legion:0 "은색 군단 호출"
-TEX_call_up_silver_legion_desc:0 "은색 군단이 제공하는 도움을 기꺼이 받는다는 것은 장기적으로는 우리에게 부담으로 작용할 수도 있겠지만은 현재의 내전 상황에서 이기기 위해서라면 우리는 뭐든지 해야 합니다."
 TEX_silver_legion_support:0 "은색 군단의 지지 이용"
 TEX_silver_legion_support_desc:0 "은색 군단은 상당한 추종자가 생겨났고, 미군과 국가기관 내에서도 지지자가 퍼졌습니다. 그들의 일치된 지지는 국민들이 지속적으로 전쟁을 수행하는 데 도움이 될 것이고, 이는 즉 패배와 승리가 그들에게 달렸다는 것입니다."
 TEX_civil_war_decisions:0 "내전 결정"
@@ -468,7 +467,7 @@ TEX_fighters_desc:0 "미국의 전투기 개발계획은 1920년대에 정부의
 TEX_le_may_reform:0 "르메이의 개편안"
 TEX_le_may_reform_desc:0 "커티스 르메이는 자신의 기량과 인맥을 통해 비교적 최근에 가까스로 지휘관이 된 인물입니다. 르메이는 과감한 공군 개혁안을 제안했습니다. 공군은 육해군을 보완할 목적으로 창설된 것이 아니라 적의 심장부를 타격하여 그들의 전쟁 수행능력을 무력화시켜야 한다면서 말입니다. 그의 이론적인 공군 접근법은 건전하다고 평가되지만 이 제안의 수용 여부에 대한 최종 결정은 전적으로 정부에게 달려 있습니다."
 TEX_air_field_expansion:0 "공군기지 확장"
-TEX_air_field_expansion_desc:0 ""
+TEX_air_field_expansion_desc:0 "There are thousands of acres of flat land across our nation, just waiting to be covered with tarmac and freshly produced, state-of-the-art planes. Let's not keep them waiting a moment longer!"
 TEX_naval_bombers:0 "해상폭격기 개발"
 TEX_naval_bombers_desc:0 "해상을 지키는 해군의 단점을 보완하는 공군은 우리 국토에 발을 들여놓는 적에게 어떤 희생을 치르더라도 해안을 사수할 의무가 있습니다. 해안 방어를 위해 함대가 산개할 동안 적 함정을 정찰하고 격침을 시도할 해군 폭격기로 해군 순찰력을 보완하는 방안을 모색하고 있습니다."
 TEX_Weyland_plan:0 "웨이랜드의 개편안"
@@ -671,7 +670,7 @@ unionstate.20.d:0 "'더이상 흑인이 아니야'라는 책이 서점에 등장
 unionstate.20.a:0 "나를 불쾌하게 만들지 않는다면야"
 
 unionstate.21.t:0 "휴이 롱과의 작별"
-unionstate.21.d:0 "휴이 롱 각하께서는 오늘 배턴루지에서 그의 가족과 공직으로부터 떠났습니다. 부통령이자 휴이 각하의 동생인 얼 롱이 지난 몇 주 동안 롱 대통령으로서 직무를 수행해 왔으며, 휴이 각하의 잔여 임기를 마치기 위해 대통령으로 취임했습니다. 미국 전역이 영도자의 죽음을 애도하는 동안에도, 망명중인 미국 정부는 휴이 정부가 불법이라는 주장을 계속하고 있습니다."
+unionstate.21.d:0 "휴이 롱 각하께서는 오늘 배턴루지에서 그의 가족과 공직으로부터 떠났습니다. 부통령이자 휴이 각하의 동생인 얼 롱이 지난 몇 주 동안 롱 대통령으로서 직무를 수행해 왔고, 그는 이미 휴이 각하의 잔여 임기를 마치기 위해 대통령으로 취임했습니다. 미국 전역이 영도자의 죽음을 애도하는 동안에도, 망명중인 미국 정부는 롱 정부가 불법이라는 주장을 계속하고 있습니다."
 unionstate.21.a:0 "훌륭했던 대통령이여, 안녕히 가시게!"
 
 ### Business Plot Events 31 - 50 ###

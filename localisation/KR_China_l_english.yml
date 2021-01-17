@@ -83,8 +83,8 @@ china_army_reform_tooltip_50:0 "£army_experience [?50|H0]"
 china_army_reform_tooltip_50_blocked:0 "£army_experience [?50|R0]"
 
 ### Form China
-form_republic_china_decision:0 "중화민국 형성"
-form_republic_china_decision_desc:0 "이제 우리가 수도를 장악했으니, 우린 중국의 신정부를 선언할 수 있습니다!"
+form_republic_china_decision:0 "[GetROCvsUPC] 형성"
+form_republic_china_decision_desc:0 "이제 우리가 수도를 장악했으니, 우린 중국을 위한 새로운 중앙 정부를 선언할 수 있습니다!"
 
 ### United Front
 china_united_front_decisions:0 "중국의 임시지도자"
@@ -213,14 +213,11 @@ JAP_Capture_tooltip:0 "§R중국 내륙으로 깊숙히 밀고 들어갈수로 �
 
 ### Ideas ###
 unite_china_justification_idea:0 "중화 통일!"
-unite_china_justification_idea_desc:0 "이제 우리는 중화민국으로 개혁했으며, 잔존한 군벌들을 토벌해야만 합니다."
-
-### War of the Five Provinces / Xiinjiang War Missions
-china_victory_imminent:0 "승리가 임박함"
-china_lost_momentum:0 "탄력을 잃어버리다"
-LEP_move_quickly:0 "빠르게 움직이다"
-LEP_victory_imminent_tooltip_FROM:0 "§H승리가 임박함§! 변동치를 §H90§! 일 동안 얻을 겁니다:\n   사단 속도: §G+10.00%§!\n   사단 회복률: §G+20.00%§!\n   전쟁 지지도: §G+20.00%§!\n   [From.GetFlag]§H[From.GetNameDefCap]§!에 대한 공격력 보너스: §G+25.0%§!\n   [From.GetFlag]§H[From.GetNameDefCap]§!에 대한 방어력 보너스: §G+25.0%§!\n"
-LEP_victory_imminent_tooltip_ROOT:0 "§H승리가 임박함§! 변동치를 §H90§! 일 동안 얻을 겁니다:\n   사단 속도: §G+10.00%§!\n   사단 회복률: §G+20.00%§!\n   전쟁 지지도: §G+20.00%§!\n   [From.GetFlag]§H[From.GetNameDefCap]§!에 대한 공격력 보너스: §G+25.0%§!\n   [From.GetFlag]§H[From.GetNameDefCap]§!에 대한 방어력 보너스: §G+25.0%§!\n"
+unite_china_justification_idea_desc:0 "Now that we have captured the capital and formed a new Chinese government, we must subjugate the remaining warlords."
+league_collapse_idea_1:0 "Revolutionary Fervor"
+league_collapse_idea_1_desc:0 "Now that the League has broken and open warfare has begun, the forces of Nanjing are in chaos and forced to fight on multiple fronts against their enemies. Now is the time for us to strike and lay claim to what is rightfully ours!"
+league_collapse_idea_2:0 "Nanjing Re-Organized"
+league_collapse_idea_2_desc:0 "The traitors have failed to break us despite our weaknesses, now the time has come for us to strike back and reclaim what is ours!"
 
 ### National Redoubt
 china_redoubt.1.t:0 "정부가 도망치다"
@@ -492,7 +489,7 @@ heilongjiang_province_state:0 "§Y헤이룽장성§!"
 heilongjiang_province_state_desc:0 ""
 taiwan_province_state:0 "§Y타이완성§!"
 taiwan_province_state_desc:0 ""
-concession_province_state:0 "§YFormer Concession§!"
+concession_province_state:0 "§Y옛 조차지§!"
 concession_province_state_desc:0 ""
 mongolia_province_state:0 "§Y몽골§!"
 mongolia_province_state_desc:0 ""
@@ -502,3 +499,7 @@ xinjiang_province_state:0 "§Y신장성§!"
 xinjiang_province_state_desc:0 ""
 tibet_province_state:0 "§Y티베트§!"
 tibet_province_state_desc:0 ""
+jehol_province_state:0 "§Y러허성§!"
+jehol_province_state_desc:0 ""
+chahar_province_state:0 "§Y차하얼성§!"
+chahar_province_state_desc:0 ""

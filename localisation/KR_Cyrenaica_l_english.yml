@@ -113,6 +113,8 @@ LBA_Move_Capital_Tripoli_desc:0 "The strongest and most populated city in Libya,
 LBA_Weapon_Smuggling_dc:0 "Masters of the Trans-Saharan Trade"
 LBA_Weapon_Smuggling_dc_desc:0 "Whilst Libya controls no real economic value to speak of, with arable land at less than 5% of its total territory, it plays a pivotal role in the Trans-Saharan trade network. Oases in Fezzan and Cyrenaica provide the necessities for the long trips to the Sahel whilst cities and towns along the Tripolitanian Coast guide traffic between Egypt and the Western Maghreb.\n\nThe arrival of European powers and the failure of the Ottomans to intervene pro-actively in their Arab territories however has greatly damaged these routes that form the lifeblood of our society. French colonists in the West closed their borders to our traders whilst punitive expeditions were fought out between the Senussis and the French garrisons in Chad and Niger.\n\nThe collapse of the French state and the subsequent British revolution would revitalise the network as interest to dismantle the remaining French colonies has risen dramatically whilst further South, the German state of Mittelafrika is a welcome supplier for smuggling and a happy recipient for black market arms deals.\n\n§gRewards will be based on distance travelled or on modifiers unlocked through the focus tree.\n\n§YAvailable Routes§!:\n§OBenghazi§! - [LBA.cyr_siwa]\n§OBenghazi§! - §OKufra§! - [LBA.cyr_murzuq] - [LBA.cyr_tuat]\n§OBenghazi§! - §OKufra§! - [LBA.cyr_murzuq] - [LBA.cyr_bilma] - [LBA.cyr_timbuktu]\n§OBenghazi§! - §OKufra§! - [LBA.cyr_wadai] - [LBA.cyr_nigeria]\n§OBenghazi§! - §OKufra§! - [LBA.cyr_wadai] - [LBA.cyr_cameroon]\n§OBenghazi§! - §OKufra§! - [LBA.cyr_wadai] - [LBA.cyr_congo]"
 
+lba_senussi_zawiya_modifier:0 "Senussi Zawiya Present"
+
 LBA_Benghazi_Harbour:0 "Port of Benghazi"
 LBA_Benghazi_Harbour_desc:0 "Once mostly known for sponge fishing, Benghazi now is the most important naval station on the African coast of the Ottoman Empire and the greatest harbour in all of Libya."
 LBA_Siwa_Oasis:0 "Oasis of Siwa"
@@ -363,7 +365,7 @@ LBA_Cooperate_Caliph_desc:0 "Whilst severly disgraced by his secular administrat
 LBA_Turkish_Military_Assistance:0 "Turkish Military Assistance"
 LBA_Turkish_Military_Assistance_desc:0 "Our army may be the master of the Green Mountain and the Cyrenaican deserts but we lack the modern training and equipment of the Porte. If we are to be the vanguard of decolonisation on the Maghrebi flank, we will need to verse ourselves in the new ways of warfare." 
 LBA_Maghrebi_Jihad:0 "Jihad against Imperialism"
-LBA_Maghrebi_Jihad_desc:0 "The poor peoples living under the booth of the despicable Frenchmen have suffered long enough. With their forces entangled in a vicious struggle to restore their metropolitan holdings, the time has come for the Muslims to free themselves. Allahu Akbar!"
+LBA_Maghrebi_Jihad_desc:0 "The poor peoples living under the boot of the despicable Frenchmen have suffered long enough. With their forces entangled in a vicious struggle to restore their metropolitan holdings, the time has come for the Muslims to free themselves. Allahu Akbar!"
 LBA_Unite_Libya:0 "Unite Libya"
 LBA_Unite_Libya_desc:0 "The Turks have betrayed the faith, falling into the pitfalls of secularisation and cooperation with the infidels of the European continent. It is up to the Senussi to take up the mantle and free the Maghreb from the shackles of colonialism"
 LBA_Cyrenaican_Egyptian_Cooperation:0 "Cyrenaican-Egyptian Cooperation"
@@ -589,7 +591,7 @@ libya.5.d:0 "That death would arrive in due time for the aging al-Mukhtar was un
 libya.5.a:0 "All of Cyrenaica salutes its hero!"
 
 libya.6.t:0 "Assassination Attempt on al-Mukhtar"
-libya.6.d:0 "Unrest is spreading through all of Cyrenaica as a plot to assassinate Umar al-Mukhtar was uncovered by close associates of the old guerilla fighter. Outraged by this attack on his person and explicitly offended due to the choice of weapon, poison, for its cowardness, the commander has openly attacked the Senussi princes for their scheming and despicable actions. It is no secret that al-Mukhtar didn't hold a high opinion of the Princes, who he saw as having betrayed the values of the Senussi in exchange for earthly posessions. Whether this attack will have rammifications is as of yet unclear but if Mukhtar seeks to enact revenge, the Princes may soon find themselves under severe fire."
+libya.6.d:0 "Unrest is spreading through all of Cyrenaica as a plot to assassinate Umar al-Mukhtar was uncovered by close associates of the old guerilla fighter. Outraged by this attack on his person and explicitly offended due to the choice of weapon, poison, for its cowardness, the commander has openly attacked the Senussi princes for their scheming and despicable actions. It is no secret that al-Mukhtar didn't hold a high opinion of the Princes, who he saw as having betrayed the values of the Senussi in exchange for earthly possessions. Whether this attack will have rammifications is as of yet unclear but if Mukhtar seeks to enact revenge, the Princes may soon find themselves under severe fire."
 libya.6.a:0 "An outrageous affair!"
 
 libya.7.t:0 "Sayyid ‘Abid al-Sanusi Invites Idris to Kufra"

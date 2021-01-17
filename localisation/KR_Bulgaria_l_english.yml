@@ -258,7 +258,6 @@ bulgaria.7.t:0 "재향군인회"
 bulgaria.7.d:0 "경제 위기 이전에도 정부 재정에 이미 물거품이 되었던 연금 축소를 위한 우리의 논란이 일고 있는 결정 때문에, 세계대전의 퇴역군인들이 정부에 항의하기 시작했습니다. 이것은 큰 위협이 되지는 않지만, 경제 불안 속에서 우리나라를 더 불안하게 만들 수 있습니다."
 bulgaria.7.a:0 "어, 음..."
 
-
 bulgaria.8.t:0 "사람들의 반응"
 bulgaria.8.d:0 "우리가 군인 연금을 유지하기로 결정했을 때, 그것은 군대의 지지자들과 세계대전 퇴역 군인들에게 우리를 사로 잡았습니다. 그리고 이것이 우리나라 안의 사기와 정부의 지원에 좋을지라도, 이것이 군대를 위해 평범한 사람을 희생시키는 행위로 보는 다양한 농민들과 공장 노동자들은 우리를 사랑하지 않습니다."
 bulgaria.8.a:0 "뭐든간에."
@@ -398,19 +397,6 @@ bulgaria.40.t:0 "[From.GetNameDefCap]의 거절!"
 bulgaria.40.d:0 "프랑스 대표단으로부터 나쁜 소식이 왔습니다! 분명히, 그들은 국내의 정치적 약속과 유럽에서의 긴장된 분위기를 언급하면서 우리의 우호 증진과 양국 간의 관계 심화를 받아들이지 않기로 결정했습니다. 이것은 나쁜 소식입니다. 이제 우리는 우리를 지지해줄 사람이 아무도 없고 발칸 반도의 생디칼리슴이 보호되고 있다는 것을 보증할 수 없습니다!"
 bulgaria.40.a:0 "망할 놈들!"
 
-bulgaria.41.t:0 "[BUL.GetAdjective](와)과의 유대 관계?"
-bulgaria.41.d:0 "흥미롭게도, [BUL.GetName](은)는 생디칼리스트의 권력 장악을 계기로 양국 간의 관계를 촉진시키기 위해 우리에게 다가오기로 결정했으며, 그 결과, 대화를 시작하고 관계를 심화시키는데 도움이 되고 있습니다. 생디칼리슴에 대한 지지 때문에 발칸 반도에서 정치적으로 고립되어 있으며 미래에는 동맹국이 필요하다는 것이 분명합니다. 이와 관련하여 두 가지 선택이 있는 것 같습니다. 우리는 [BUL.GetAdjective](을)를 지원하고 발칸 반도에서 생디칼리슴을 육성하는데 도움을 줄 수 있습니다. 아니면 우리 스스로 해산시킬 수 있습니다. 두 번째 선택은 이상적인 것과는 거리가 멀지만 약속해야 할 정치적 고려사항이 있습니다. 어떻게 해야 할까요?"
-bulgaria.41.a:0 "우리는 동포들을 도와야 한다."
-bulgaria.41.b:0 "우리는 어떤 원조도 할애할 수 없다."
-
-bulgaria.42.t:0 "[From.GetNameDefCap]의 동의!"
-bulgaria.42.d:0 "[From.GetAdjective] 대표단으로부터의 소식을 듣고 난 뒤, [Root.GetName] 정부 관료들은 안도의 한숨을 쉬었습니다. 그들은 우리의 제안을 받아들여 양국 우호 협력에 동의하였습니다. 우리의 러시아 형제들은 우리를 잊지 않았고, 생디칼리슴이 발칸을 지배할 것입니다..."
-bulgaria.42.a:0 "러시아 동지들을 위해 건배!"
-
-bulgaria.43.t:0 "[From.GetNameDefCap]의 거절!"
-bulgaria.43.d:0 "러시아 대표단이 안좋은 소식을 가져왔습니다! 보아하니 그들은 러시아 국내에서의 정치적 약속과, 증가하는 유럽의 긴장 때문에 더 이상의 군사동맹을 맺지 않기로 결정했고, 양국의 친선과 우호 증진이라는 우리의 제안을 거절했습니다. 이제 아무도 발칸 생디칼리슴의 수호자가 되어주지 않을 것입니다!"
-bulgaria.43.a:0 "망할 놈들!"
-
 bulgaria.44.t:0 "왕실의 문제"
 bulgaria.44.d:0 "왕실에게 해야 할 일은 광범위하게 생각해야 할 중요한 문제입니다. 그들이 국민들과 반동적인 정치인들에게 매우 인기가 있기 때문에, 새로운 제도에 관한 사람들의 불확실성과 함께, 우리가 조심할 필요가 있다는 것은 명백합니다. 그러나 불가리아에 남아있는 왕족들이 우리의 권력을 약화시키고 그들이 구 제도를 대표한다는 것도 고려할 가치가 있습니다. 우리는 모든 군주주의의 잔재를 없애는 데 전념하고 있고, 비용을 고려할 때, 왕실을 추방하는 것이 최선입니다. 하지만 이 일은 결과를 초래할 것입니다."
 bulgaria.44.a:0 "문제 없다."
@@ -449,8 +435,7 @@ bulgaria.56.d:0 "차르 보리스 3세와 그의 대의에 충성하는 강경�
 bulgaria.56.a:0 "충격적이군!"
 
 bulgaria.57.t:0 "불안정!"
-bulgaria.57.refused:0 "Following the government's refusal to further Stamboliyski's pan-Slavic dream, it seems the government has lost the support of many of its own members - a weakness that Stamboliyski's enemies have seized upon. A vote of no confidence has been received from not only the upper echelons of power, but also the people themselves. Thus, the Bulgarian Agrarian National Union is no longer in control. In their stead, one of four parties have taken power. The questions remains, however: which party has managed to take control?"
-bulgaria.57.yugoslavia:0 "스탐볼리스키의 범슬라브적 꿈을 돕고 범슬라브 국가 창설에 대한 도움을 유고슬라비아가 거부함에 따라 불가리아는 다시 한 번 혼란에 빠진 것처럼 보입니다. 정부는 국가의 고위층뿐만 아니라 일반 국민들로부터도 불신임 투표권을 받았습니다. 따라서 불가리아 농민연합은 더 이상 권력이 없습니다. 그 대신에 4개 정당 중 한 정당이 정권을 잡았습니다. 그러나 문제는 여전히 남아 있습니다 : 어느 당이 간신히 주도권을 잡았나요?"
+bulgaria.57.d:0 "Following the government's refusal to further Stamboliyski's pan-Slavic dream, it seems the government has lost the support of many of its own members - a weakness that Stamboliyski's enemies have seized upon. A vote of no confidence has been received from not only the upper echelons of power, but also the people themselves. Thus, the Bulgarian Agrarian National Union is no longer in control. In their stead, one of four parties have taken power. The questions remains, however: which party has managed to take control?"
 bulgaria.57.a:0 "포괄사회주의!"
 bulgaria.57.b:0 "급진민주당!"
 bulgaria.57.c:0 "절대주의자!"
@@ -698,7 +683,7 @@ bulgaria.117.a:0 "We absolutely will"
 bulgaria.117.b:0 "Back down and leave them to their fate"
 
 bulgaria.118.t:0 "The Bulgarian Coup"
-bulgaria.118.d:0 "It appears the failure of Stamboliyski's proposal to unite with [SER.GetNameDef] has led to disarray within the party, and thus a chance for the government's enemies to take advantage. They've couped the government, discarding [Root.GetAdjective] overlordship in the process. If we wish to re-assert control, we will have to do it by force."
+bulgaria.118.d:0 "It appears that our puppet regime in Bulgaria has fallen, and our government's enemies have received a chance to take advantage. They've couped the government, discarding [Root.GetAdjective] overlordship in the process. If we wish to re-assert control, we will have to do it by force."
 bulgaria.118.a:0 "Then we must attack!"
 bulgaria.118.b:0 "Leave them be"
 
