@@ -28,8 +28,8 @@ AUS_HEINRICH_PERGLER_NAVY_DESC:0 "§Y제독 약력\n출생:§W 1871년 3월 26�
 
 ### WIP ### (Isn't this whole file WIP...)
 
-BOM_ausgleich_slovak_state:0 "슬로바키아 수립을 약속"
-ILL_ausgleich_backan_claims:0 "바치카 할양을 약속"
+CZE_ausgleich_slovak_state:0 "슬로바키아 수립을 약속"
+CRO_ausgleich_backan_claims:0 "바치카 할양을 약속"
 GAL_ausgleich_transcarpathian_claims:0 "트란스카르파티아 할양을 약속"
 
 AUS_new_administration:0 "행정 개편"
@@ -49,13 +49,12 @@ AUS_a_new_Hungary:0 "헝가리는 개편되어 오스트리아 제국의 다른 
 
 AUS_syndicalist_menace_tooltip:0 "세계대전이 다시금 발발했으며, 이탈리아에서 인터내셔널에게 이권을 위협받는 중입니다."
 
-AUS_request_forces_puppets:0 "We may now request army divisions from our Cisleithinian component states."
+AUS_request_forces_puppets:0 "We may now request army divisions from our Cisleithanian component states."
 AUS_request_forces_hungary:0 "우리는 이제 헝가리로부터 육군 사단 지원을 요청할 수 있습니다."
 
-AUS_military_occupation_tooltip:0 "헝가리 영토를 계속 영유하게 될 것이지만, 모든 속국들이 이에 만족하지는 않을 것입니다. \n\n"
-AUS_danubian_federation_tooltip:0 ""도나우-알프스-아드리아 연방"이 수립될 것입니다. \n\n"
-AUS_united_states_tooltip:0 ""대 오스트리아 합중국"이 수립될 것입니다. \n\n"
-AUS_dualism_restored_tooltip:0 "헝가리는 통합될 것이고, 오스트리아-헝가리 제국이 재결성될 것입니다. \n\n"
+AUS_military_occupation_tooltip:0 "주를 계속 영유하게 될 것이지만, 당신의 모든 속국들이 기뻐하지 않을 것입니다."
+AUS_danubian_federation_tooltip:0 "\"도나우-알프스-아드리아 연방\"이 수립될 것입니다."
+AUS_united_states_tooltip:0 "\"대 오스트리아 합중국\"이 수립될 것입니다."
 
 ITA_bruh_why:0 "공화국이 우리의 외교적 접근을 거부함"
 ITA_bruh_yay:0 "공화국이 우리의 외교적 접근을 승낙함"
@@ -152,6 +151,10 @@ AUS_germany_on_the_ropes:0 "[FRA.GetNameDef](이)가 남독일 깊숙히 침투�
 AUS_syndicalism_winning_Italy:0 "동맹국 프랑스가 이탈리아 대부분을 통제하에 두고 있습니다"
 AUS_russia_penetrated_germany:0 "[RUS.GetNameDef] or its allies have take control of [5.GetName]"
 AUS_poland_fallen_to_russia:0 "[POL.GetNameDef] is in the Reichspakt and has fallen to [RUS.GetNameDef]"
+
+AUS_integration_of_germany:0 "독일 영토 통합"
+AUS_integrate_state:0 "[From.GetName] 통합"
+
 AUS_elections_decisions:0 "선거 결정"
 AUS_endorse_CS:0 "기독사회당을 지지"
 AUS_endorse_SDAP:0 "사회민주노동자당을 지지"
@@ -483,9 +486,6 @@ AUS_cisleithania_centralised_desc:0 "우리의 계속되는 개혁으로 제국�
 
 AUS_ausgleich_1947:0 "1947년 대타협"
 AUS_ausgleich_1947_desc:0 "대타협이 다시 한 번 재협상 될 예정이며, 이번에는 오스트리아 제국의 절반이 지난 협상보다 훨씬 더 우위에 있습니다. 우리는 지금 우리의 의지를 그들에게 강요할 것입니다."
-
-AUS_dualism_restored:0 "복원된 이원론"
-AUS_dualism_restored_desc:0 "마침내, 헝가리는 다시 오스트리아로 환영을 받으며 돌아왔습니다. 그들은 황제에게 복종했고, 제국은 진실로 자신을 "오스트리아-헝가리 제국"이라고 다시 부를 수 있게 되었습니다."
 
 ### Pluraism branch
 
@@ -1009,7 +1009,7 @@ ausgleich.new.801.t.germany:0 "Austria and Germany Sue For Peace"
 ausgleich.new.801.d.main:0 "The tyrannical Habsburg Monarchy's troops have been beaten on the field by our glorious liberating armies. Even the decrepit head of the rotten empire is seeing his inevitable demise and has sued for peace. They are willing to cede all of our claims, as they are desperate to salvage what is left. With our aims achieved, there is little reason to refuse this generous offer even if the prospect of marching through Vienna's Heldenplatz and finishing off the dying corpse of an Empire is indeed tempting."
 augleich.new.801.d.main.faction1:0 "The tyrannical Habsburg Monarchy's troops have been beaten on the field by our glorious liberating armies. Even the decrepit head of the rotten empire is seeing his inevitable demise and has sued for peace. They are willing to cede all of our claims, as they are desperate to salvage what is left. With our aims achieved, and [From.GetNameDef] having already agreed to their offer, there is little reason to refuse even if the prospect of marching through Vienna's Heldenplatz and finishing off the dying corpse of an Empire is indeed tempting."
 augleich.new.801.d.main.faction2:0 "The tyrannical Habsburg Monarchy's troops have been beaten on the field by our glorious liberating armies. Even the decrepit head of the rotten empire is seeing his inevitable demise and has sued for peace. They are willing to cede all of our claims, as they are desperate to salvage what is left. With our aims achieved, there is little reason to refuse - though [From.GetNameDef] has informed us that they will continue the war. Apparently, the thought of their troops marching through Vienna's Heldenplatz and finishing off the dying corpse of an Empire is too tempting."
-ausgleich.new.801.d.germany.main1:0 "The tyrannical Habsburg Monarchy's troops have been beaten on the field by our glorious liberating armies, enough that they not only wish to sue for peace but have also run to the Germans for protection. [GER.GetNameDefCap] has agreed to allow us any claims which do not impede on what they consider core Austrian lands, so long as we make peace. Failure to do so will mean war with the entire Reichspakt."
+ausgleich.new.801.d.germany.main1:0 "The tyrannical Habsburg Monarchy's troops have been beaten on the field by our glorious liberating armies, enough that they not only wish to sue for peace but have also run to the Germans for protection. [GER.GetNameDefCap] has agreed to allow us any claims which do not impede on what they consider 'core' Austrian lands, so long as we make peace. Failure to do so will mean war with the entire Reichspakt."
 ausgleich.new.801.d.germany.main2:0 "The tyrannical Habsburg Monarchy's troops have been beaten on the field by our glorious liberating armies, enough that they not only wish to sue for peace but have also run to the Germans for protection. [GER.GetNameDefCap] has dictated that no core Austrian lands will be annexed... which means we would get *nothing* from the treaty. This alone is an outrage, but if we refuse it means war with the entire Reichspakt."
 ausgleich.new.801.d.germany.main.faction1:0 "The tyrannical Habsburg Monarchy's troops have been beaten on the field by our glorious liberating armies, enough that they not only wish to sue for peace but have also run to the Germans for protection. [GER.GetNameDefCap] has agreed to allow us any claims which do not impede on what they consider core Austrian lands, so long as we join in with [From.GetNameDef], who has already agreed to the arrangement. Failure to do so will mean war with the entire Reichspakt."
 ausgleich.new.801.d.germany.main.faction2:0 "The tyrannical Habsburg Monarchy's troops have been beaten on the field by our glorious liberating armies, enough that they not only wish to sue for peace but have also run to the Germans for protection. [GER.GetNameDefCap] has agreed to allow us any claims which do not impede on what they consider core Austrian lands - an offer that [From.GetNameDef] has already hotly refused. Do we join in with [From.GetNameDef] and go to war with the Reichspakt itself, or do we break with them and accept the German-dictated peace?"

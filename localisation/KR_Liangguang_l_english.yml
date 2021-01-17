@@ -182,7 +182,7 @@ GXC_mobilize_gentry_militia:0 "농촌 민병대 동원"
 GXC_mobilize_gentry_militia_desc:0 "광시와 광둥 양쪽의 민병대의 상당 부분은 농촌 신사층의 지휘를 받고 있습니다. 두 성 사이의 계속되는 분쟁으로 그들의 이권이 위태로워지자, 신사층은 우리를 전적으로 지원하기로 결정했고 그들의 민병대는 이제 우리의 지휘하에 놓였습니다."
 
 sinkiang_civil_war:0 "서북 내전"
-sinkiang_civil_war_desc:0 "작성중"
+sinkiang_civil_war_desc:0 "We are currently aiding our ideological brethren in Xinjiang in their war against the seperatists there. If this war goes poorly for our ally, we should consider ending our involvement too.
 
 east_turkestan_war_ceasefire_with_feds:0 "쿠물 칸국과 튀르크에게 휴전 제안"
 east_turkestan_war_ceasefire_with_feds_desc:0 "신장의 우리 동맹이 패배했고 그 지역에 대한 우리의 접근 또한 제한적이기 때문에, 우리는 지역 군벌들과의 휴전을 고려해야 합니다." 
@@ -417,10 +417,10 @@ GXC_lost_momentum:0 "잃어버린 승기"
 GXC_lost_momentum_desc:0 "We have been unable to score a quick victory against [PRC.GetNameDef]. Morale is low has they have gained the momentum and our forces are quickly disintegrating."
 
 PRC_victory_imminent:0 "다가온 승리"
-PRC_victory_imminent_desc:0 "We have successfully seized the advantage in the war against [PRC.GetNameDef]. We expect the enemy to give up the fight shortly."
+PRC_victory_imminent_desc:0 "We have successfully seized the advantage in the war against [GXC.GetNameDef]. We expect the enemy to give up the fight shortly."
 
 PRC_lost_momentum:0 "잃어버린 승기"
-PRC_lost_momentum_desc:0 "We have been unable to score a quick victory against [PRC.GetNameDef]. Morale is low has they have gained the momentum and our forces are quickly disintegrating."
+PRC_lost_momentum_desc:0 "We have been unable to score a quick victory against [GXC.GetNameDef]. Morale is low has they have gained the momentum and our forces are quickly disintegrating."
 
 GXC_better_logistics:0 "개선된 보급"
 GXC_better_logistics_desc:0 ""
