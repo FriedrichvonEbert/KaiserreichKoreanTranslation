@@ -5,9 +5,9 @@
 # Part one은 바닐라에서 크게 변화(아예 새로운 의미를 가지게 되는 듯이)되므로 번역이 필요합니다.
 # Part two는 철자법과 문법 수정만 있으니 번역할 필요가 없습니다.
 
-################
-### Part One ###
-################
+###################################
+### Part One - 바닐라에서 크게 변경됨 ###
+###################################
 
 ### core_l_english
 MENU_HOMEPAGE:0 "카이저라이히 디스코드"
@@ -87,14 +87,14 @@ topple_government:0 "정부 전복"
 topple_government_desc:0 "정부를 실각시키십시오."
 topple_government_short_desc:0 "이 전쟁목표는 평화협정에서 정부 전복을 더 저렴하게 할 것 입니다."
 
-### frontend_l_english.yml ###
+### frontend_l_english
+CUSTOM_DIFFICULTY_GROUP_NAME:0 "사용자 지정 강화 설정"
 custom_diff_strong_ger:0 "£KR_game_rule_flag_GER   독일 제국 강화"
 custom_diff_strong_fra:0 "£KR_game_rule_flag_FRA   프랑스 코뮌 강화"
 custom_diff_strong_eng:0 "£KR_game_rule_flag_ENG   브리튼 연방 강화"
+custom_diff_strong_ita:0 "£KR_game_rule_flag_ITA   이탈리아 공화국 강화"
 custom_diff_strong_jap:0 "£KR_game_rule_flag_JAP   일본 제국 강화"
 custom_diff_strong_usa:0 "£KR_game_rule_flag_USA   미합중국 강화"
-custom_diff_strong_ott:0 "£KR_game_rule_flag_OTT   오스만 제국 강화"
-
 
 ### ideas_l_english
 government:0 "법률"
@@ -102,13 +102,6 @@ minister:0 "정부"
 military_staff:0 "군사 참모"
 mobilization_laws:0 "징병법"
 person_of_influence:0 "영향력 있는 인물"
-KR_mobilization_laws:0 "징병법"
-idea_group_KR_mobilization_laws:0 "징병법"
-KR_trade_laws:0 "무역법"
-KR_economy:0 "경제법"
-EFFECT_CHANGE_LAW_KR_mobilization_laws:0 "징병법을 '$NAME|Y$'(으)로 변경합니다. 변경시 효과 ($DESC$)."
-EFFECT_CHANGE_LAW_KR_economy:0 "경제법을 '$NAME|Y$'(으)로 변경합니다. 변경시 효과 ($DESC$)."
-EFFECT_CHANGE_LAW_KR_trade_laws:0 "무역법을 '$NAME|Y$'(으)로 변경합니다. 변경시 효과 ($DESC$)."
 aircraft_manufacturer:0 "항공기 제조사"
 materiel_manufacturer:0 "군수품 제조사"
 industry_concern:0 "산업 업체"
@@ -116,6 +109,16 @@ chief_of_staff:0 "참모총장"
 chief_of_army:0 "육군 참모"
 chief_of_navy:0 "해군 참모"
 chief_of_air_force:0 "공군 참모"
+
+### operatives_l_english
+upgrade_passive_defense:0 "수동적 방어"
+upgrade_anti_partisan:0 "반-게릴라"
+upgrade_blueprint_stealing:0 "청사진 훔치기"
+upgrade_portable_radios:0 "휴대용 라디오"
+upgrade_plastic_explosives:0 "플라스틱 폭약"
+upgrade_suicide_pills:0 "자살약"
+upgrade_training_centers:0 "현지화된 훈련소"
+upgrade_commando_training:0 "특공대 훈련"
 
 ### politics_l_english
 POLITICS_LEADER:0 "§T정부수반: $LEADER|H$§!"
@@ -132,8 +135,9 @@ CAN_JOIN_FACTIONS:0 "세력에 참여할 수 없습니다"
 
 
 ### state_l_english
-twelve:0 "거대 도시 지역"
-eleven:0 "주요 도시 지역"
+twelve:0 "거대 도시"
+eleven:0 "주요 대도시"
+ten:0 "주요 도시"
 nine:0 "인구밀도가 매우 높은 도시 지역"
 eight:0 "인구밀도가 높은 도시 지역"
 seven:0 "발전하고 있는 도시 지역"
@@ -151,12 +155,12 @@ zero_island:0 "아주 작은 섬"
 ### wtt_decisions_l_english
 improved_worker_conditions:0 "노동 환경 개선"
 improved_worker_conditions_desc:0 "공장일은 힘들고 위험요소가 가득합니다. 공장 노동자들의 환경을 개선한다면, 단기적 측면에선 생산량은 줄어들겠지만, 장기적 측면으론 그만한 가치가 있습니다."
-foreign_politics:0 "Foreign Policy"
-foreign_politics_desc:0 "Good foreign policy is vital to the survival of a nation, no matter its size. While some nations prefer to focus on building alliances, other, more aggressive, powers opt to challenge their opponents head-on in open conflict. Whatever we choose, we must not be foolhardy, for only through tactful foreign policy can we build friendships and destroy our enemies."
+foreign_politics:0 "외교정책"
+foreign_politics_desc:0 "좋은 외교정책은, 국가의 체급과는 상관없이 생존을 위해선 필수적입니다. 일부 국가가 동맹을 구축하려 공을 들이고 있지만, 공격적인 성향을 가진 경우엔 공공연한 갈등에서 상대국에 정면 도전을 선택하기도 합니다. 우리가 무엇을 선택하든 간에 어리석어서는 안 되며, 오로지 전략적인 외교정책만이 우리가 친선을 맺고 적을 짓밟을 수 있습니다."
 
-################
-### Part Two ###
-################
+############################################
+### Part Two - 바닐라와 비교시 미미한 변경만 존재 ###
+############################################
 
 ##Part two는 바닐라에서 채용해오는 문자열을 카이저라이히에서 철자법과 문법 수정을 한 것이라, 만약 남겨 놓는다면 번역을 했어도 part two로 인해 해당 내용이 영문으로 출력이 됩니다.
 ##때문에 번역할 필요가 없어 삭제하였습니다.
