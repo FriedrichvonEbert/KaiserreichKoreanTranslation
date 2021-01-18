@@ -103,10 +103,10 @@ SPA_state_support_high:0 "SPA Control: §OHigh§!"
 AFP_state_support_guaranteed:0 "AFP Control: §RTotal§!"
 SPA_state_support_guaranteed:0 "SPA Control: §RTotal§!"
 
-AFP_state_support_tooltip:0 "This state harbours support for the §LAmerica First Party§!. Its allegiance in case a civil conflict breaks out is not certain."
-AFP_guaranteed_state_tooltip:0 "This state is fully controlled by the §LAmerica First Party§!. Its allegiance to the Federal government is non-existent."
-SPA_state_support_tooltip:0 "This state harbours support for the §RSocialist Party of America§!. Its allegiance in case a civil conflict breaks out is not certain."
-SPA_guaranteed_state_tooltip:0 "This state is fully controlled by the §RSocialist Party of America§!. Its allegiance to the Federal government is non-existent."
+AFP_state_support_tooltip:0 "이 주는 §L미국 제일당§!을 지지하고 있습니다. 내전이 발발할 경우 어디에 합류할 지는 불확실합니다."
+AFP_guaranteed_state_tooltip:0 "이 주는 §L미국 제일당§!이 완전히 장악한 상태입니다. 연방 정부에 대한 충성심은 전무합니다."
+SPA_state_support_tooltip:0 "이 주는 §R미국 사회당§!을 지지하고 있습니다. 내전이 발발할 경우 어디에 합류할 지는 불확실합니다."
+SPA_guaranteed_state_tooltip:0 "이 주는 §R미국 사회당§!이 완전히 장악한 상태입니다. 연방 정부에 대한 충성심은 전무합니다."
 
 ### Decisions ####
 ACW_foreign_volunteer_decisions:0 "외국의 의용군"
@@ -906,11 +906,11 @@ amcivwar.616.d:0 "전쟁시기에 비상사태를 선포했었지만, 이제는 
 amcivwar.616.a:0 "용사들이여, 휴식을 취하시오."
 
 ### MacArthur's War ###
-amcivwar.700.t:0 "MacArthur's War Plan"
-amcivwar.700.d:0 "General MacArthur has long been preparing his plans for combatting civil unrest. The original War Plan White from the early '20s insisted on respecting the Constitution's provisions on states' rights. It said that only the governor could request federal troops to suppress a revolt. The situation in the nation now, unfortunately, requires stronger action. With President MacArthur's 30-day amnesty deadline yielding few results, it seems the United States needs to prepare for war. \n\nThere are three plans that have been proposed to the cabinet and chiefs of the military: \n\n1. War Plan White: Yorktown recommends abandoning the many military bases on the West Coast, in the Rockies, the Great Plains and the Midwest. With the withdrawal of Federal troops east of the Missisippi, the plan hopes the concentration of Federal troops on the eastern seaboard will be able to crush rebellions in Pennslyvania, the Carolinas, New England, and Georgia. \n\nWar Plan White: San Jacinto calls for relocating the government to the Great Plains, along with much of the military, in order to crush resistance in the Pacific states. If properly executed, this would allow us to recapture the mutineering Pacific fleet. \n\n Lastly, MacArthur's original War Plan White, drafted late last year, calls for holding a corridor from Virginia to whichever states remain loyal in the Midwest. We hope that our superior organization and mobility can quickly crush the rebellions before they can link up or begin war production. What should we choose?"
-amcivwar.700.a:0 "Abandon the Plains."
-amcivwar.700.b:0 "Washington is too vulnerable, retreat to Denver."
-amcivwar.700.c:0 "We will not cede an inch more to those traitors!"
+amcivwar.700.t:0 "맥아더의 전쟁계획"
+amcivwar.700.d:0 "맥아더 장군은 오래전부터 시민 소요를 진압하기 위한 계획을 준비해왔습니다. 20년대 초반 만들어진 원래의 백색 전쟁계획은 헌법에 규정된 각 주의 권리를 존중하며 만들어졌는데, 이를 따라 원래의 전쟁계획에는 오직 주지사만이 반란 진압을 위한 연방군의 개입을 요청할 수 있다고 명시되어 있습니다. 그렇지만 맥아더 대통령이 자수를 요구했음에도 불구하고 반란자들이 이를 받아들이지 않는 현 상황을 고려하면, 미국은 조만간 내전에 휩싸일 것이 분명하므로, 좀 더 강력한 행동이 필요할 것으로 보입니다. \n\n현재 내각과 군 참모들은 3가지의 계획을 제시한 상태입니다: \n\n먼저 백색 전쟁계획: 요크타운은 서해안과 로키 산맥, 대평원, 중서부 지역의 군 기지를 포기할 것을 제안하고 있습니다. 이 계획에 의하면 연방군을 미시시피 동쪽으로 철수시켜, 동해안 지역에 병력을 집중시킴으로써 펜실베이니아, 캐롤라이나, 뉴잉글랜드, 조지아 지역의 반란을 진압할 수 있을 것이라 설명하고 있습니다. \n\n백색 전쟁계획: 샌 자신토는 정부와 군 대부분을 대평원 지역으로 후퇴시켜, 태평양 주의 반란을 먼저 진압할 것을 제안하고 있습니다. 만약 계획이 제대로만 진행된다면, 반란을 일으킨 태평양 함대를 다시 차지할 수도 있을 것입니다. \n\n마지막으로, 맥아더 장군이 만든 기존의 백색 전쟁계획은, 버지니아에서 중서부의 남아있는 주로 이어지는 회랑을 방어하여, 아군의 우월한 조직력과 기동력을 이용해 반군이 한 곳으로 뭉치거나, 군수물품을 생산하기 전 빠르게 반군을 격파하는 것을 계획으로 하고 있습니다. 어떤 계획을 선택해야 할까요?"
+amcivwar.700.a:0 "대평원을 포기한다."
+amcivwar.700.b:0 "워싱턴은 너무 위험하다. 덴버로 후퇴하자."
+amcivwar.700.c:0 "저 반역자들한테 단 한치의 땅도 넘겨줄 수 없다!"
 
 amcivwar.701.t:0 "Evacuation of the Rocky Mountains"
 amcivwar.701.d:0 "The states of Arizona, New Mexico, Idaho, and Utah have long been thought of as America's true heartland, a place where invaders would rarely reach. As such, there were few military bases or commands in the area, and few depots or bases to evacuate. In Nevada, unfortunately, Hawthorne Army Depot has refused orders to move materiel east. However, the states of New Mexico and Arizona were different. Here, Forts Yuma and Huachaca, built in the last century to protect against Indian raids and Mexican bandits, remained strong. Happily, they also remained loyal, and the soldiers and men there are trucking north and east as quickly as they can. The citizens of these states are cautiously obeying the instructions of the governors to remain where they are until a regional decision is made."
