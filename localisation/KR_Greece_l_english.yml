@@ -462,7 +462,7 @@ GRE_join_reichspakt_desc:0 "일부 사람들은 세계대전 당시 우리를 �
 GRE_regaining_greece:0 "그리스를 되찾다"
 GRE_fight_for_macedonia:0 "마케도니아를 위해 싸우자!"
 GRE_fight_for_macedonia_desc:0 "[From.Owner.GetNameDefCap] holds [From.GetName], which is our rightful territory - and the time has come to get it back!"
-GRE_megali_war:0 "[From.GetNameDef]의 그리스 고토를 되찾자!"
+GRE_megali_war:0 "그리스 영토 재주장"
 GRE_megali_war_desc:0 "[From.GetAdjective](이)가 점령하고 있는 [GRE.GetNameDef] 고토수복의 시간이 왔습니다!"
 GRE_megali_make_peace:0 "[From.GetNameDef](와)과 평화협정"
 GRE_megali_make_peace_desc:0 "우리는 [From.GetNameDef](을)를 충분히 압도했습니다. 이제 [From.GetAdjective] 정부와 그들의 항복에 대해 논의할 시간입니다."

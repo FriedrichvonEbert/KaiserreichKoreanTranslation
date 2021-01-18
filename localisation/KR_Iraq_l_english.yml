@@ -11,7 +11,6 @@ irq_society_eradicating_illiteracy:0 "\nModify §YCrippling Poverty§! by \nRese
 irq_baghdad_university:0 "\nModify §YCrippling Poverty§! by \nResearch Speed: §G+5%§!\n"
 irq_reform_electoral_system:0 "\nModify §YRampant Corruption§! by \nDaily Political Power Gain: §R-0.05§!\nConsumer Goods: §Y-10%§!\nConstruction Speed: §G+5%§!\n"
 irq_family_law:0 "Modify §YSectarian Divide§! by \nStability: §G+5%§!\n\nModify §YRampant Corruption§! by \nConsumer Goods: §Y-5%§!"
-irq_sliding_scale_taxation:0 "Remove Modifier: §YRampant Corruption§!"
 irq_program_redistribution_land:0 "\nModify §YCrippling Poverty§! by \nFactory Output: §G+10%§!\nStability: §G+20%§!\n"
 irq_parks_and_hospitals:0 "Modify §YCrippling Poverty§! by \nStability: §G+10%§!\n"
 irq_tribal_civil_and_criminal_disputes_regulation:0 "\nModify §YRampant Corruption§! by \nDaily Political Power Gain: §G+0.25§!\nStability: §G+10%§!\n"
@@ -21,12 +20,12 @@ irq_law_governing_cultivators:0 "Modify §YCrippling Poverty§! by \nStability: 
 irq_kurdish_minority:0 "Modify §YSectarian Divide§! by \nStability: §G+3%§!\n"
 irq_makhmur_massacre:0 "Modify §YSectarian Divide§! by \nStability: §R-10%§!\n"
 irq_join_faction:0 "Based on the earlier choice, we will either join\n §Y[GER.GetNameWithFlag]§! or §Y[FRA.GetNameWithFlag]§! in their struggle for control over the European continent.\n\n"
-irq_league_arab_states:0 "\n\nUnlock £decision_icon_small §YDecisions§! to invite §C [JBS.GetNameWithFlag], [HEJ.GetNameWithFlag], [SYR.GetNameWithFlag], [SAU.GetNameWithFlag]§! and §C[YEM.GetNameWithFlag]§! to the §YLeague of Arab States§!"
-irq_league_arab_states_oma:0 "Unlock £decision_icon_small §YDecision§! to invite §C [OMA.GetNameWithFlag] §! to the §YLeague of Arab States§!"
-irq_memberstates_buff:0 "Every member of the §YLeague of Arab States§! gains the following:\n\n"
-irq_memberstates_puppet:0 "Every member of the §YLeague of Arab States§! will be puppeted\n\n"
-irq_memberstates_integration:0 "Every member of the §YLeague of Arab States§! will be annexed\n\n"
-refused_loa:0 "Refused to join the §CLeague of Arab States§!"
+irq_league_arab_states:0 "\n\nUnlock £decision_icon_small §YDecisions§! to invite §C [JBS.GetNameWithFlag], [HEJ.GetNameWithFlag], [SYR.GetNameWithFlag], [SAU.GetNameWithFlag]§! and §C[YEM.GetNameWithFlag]§! to the §Y아랍국가연맹§!"
+irq_league_arab_states_oma:0 "Unlock £decision_icon_small §YDecision§! to invite §C [OMA.GetNameWithFlag] §! to the §Y아랍국가연맹§!"
+irq_memberstates_buff:0 "Every member of the §Y아랍국가연맹§! gains the following:\n\n"
+irq_memberstates_puppet:0 "Every member of the §Y아랍국가연맹§! will be puppeted\n\n"
+irq_memberstates_integration:0 "Every member of the §Y아랍국가연맹§! will be annexed\n\n"
+refused_loa:0 "Refused to join the §C아랍국가연맹§!"
 
 irq_needs_eco_system:0 "§RECONOMY SYSTEM STILL PENDING§!"
 
@@ -89,17 +88,44 @@ IRQ_national_populist_party:0 "Nadi al-Muthanna"
 IRQ_national_populist_party_long:0 "Nadi al-Muthanna"
 
 ### Decisions ###
-IRQ_Arab_League:0 "The League of Arab States"
-IRQ_Arab_League_desc:0 "United by language, the Arab people have always formed a distinct group within the empires they inhabited. Some people however feel that this connection doesn't go far enough and that it's the destiny of the Arab world to reunite such as in the times of the great Caliphates. They believe that through the creation of such a united Arabia, the entire subcontinent will finally experience its true renaissance and retake its position in global politics.\n\nTo hasthen this unification, a supranational organisation (§YThe League of Arab States§!) has been created and granted significant power. Should the dream of a Pan-Arab state ever want to be realised however, we will need to convince the other Arab states to partake in this initiative and give up part of their sovereignty."
+IRQ_Arab_League:0 "아랍국가연맹"
+IRQ_Arab_League_desc:0 "United by language, the Arab people have always formed a distinct group within the empires they inhabited. Some people however feel that this connection doesn't go far enough and that it's the destiny of the Arab world to reunite such as in the times of the great Caliphates. They believe that through the creation of such a united Arabia, the entire subcontinent will finally experience its true renaissance and retake its position in global politics.\n\nTo hasthen this unification, a supranational organisation (§Y아랍국가연맹§!) has been created and granted significant power. Should the dream of a Pan-Arab state ever want to be realised however, we will need to convince the other Arab states to partake in this initiative and give up part of their sovereignty."
 
-IRQ_invite_LOA:0 "Invite [FROM.GetName] to the League of Arab States"
+IRQ_invite_LOA:0 "Invite [FROM.GetName] to 아랍국가연맹"
 IRQ_Integrate_Arab_Federation:0 "Integrate [From.GetName]"
 
 ### Dynamic Modifiers ###
-IRQ_Rampant_Corruption_dynamic_modifier:0 "Rampant Corruption\n§W--------------\n§!§gDeeply engrained within all echelons of life in Iraq, corruption is not just a nuissance but an absolute plague. The lack of oversight from Konstantiniyye has severly aggrevated the issue as many skilled bureaucrats and military supervisors were forced to leave for Turkey, making room for a largely uneducated and less disciplined next generation.§!"
-IRQ_Crippling_Poverty_dynamic_modifier:0 "Crippling Poverty\n§W--------------\n§!§gAlthough attempts were made by the Ottoman government to revitalise Iraq in the late 19th and early 20th century, the overall state of society in the former home of civilisation is utterly abysmal. Wealth is concentrated in the hands of the upper 10% whilst the vast majority of the population is either bordering on or destitute.§!"
-IRQ_Sectarian_Divide_dynamic_modifier:0 "Sectarian Divide\n§W--------------\n§!§gEven though most political power lies with the Sunni muslims, the nation of Iraq is home to a majority of Shi'ites and considerable minorities of Jews, Christians and Muslim off-shoots. Finding balance amongst these groups is nigh impossible and the lack of a desire to cooperate has resulted in an incapacitated government.§!"
-IRQ_League_of_Arab_States_dynamic_modifier:0 "Member of the League of Arab States"
+IRQ_Rampant_Corruption_dynamic_modifier:0 "£pol_idea Rampant Corruption"
+IRQ_Rampant_Corruption:0 "Rampant Corruption"
+IRQ_Rampant_Corruption_desc:0 "Deeply engrained within all echelons of life in Iraq, corruption is not just a nuisance but an absolute plague. The lack of oversight from Konstantiniyye has severely aggravated the issue as many skilled bureaucrats and military supervisors were forced to leave for Turkey, making room for a largely uneducated and less disciplined next generation.\n§W--------------\n[IRQ_corruption_pp][IRQ_corruption_consumer_goods][IRQ_corruption_stability][IRQ_corruption_construction_speed]§!"
+
+IRQ_corruption_pp_text:0 "$MODIFIER_POLITICAL_POWER_GAIN$: [?irq_pp_gain|+=2]\n"
+IRQ_corruption_pp_text_last:0 "$MODIFIER_POLITICAL_POWER_GAIN$: [?irq_pp_gain|+=2]"
+IRQ_corruption_consumer_goods_text:0 "$MODIFIER_CONSUMER_GOODS_FACTOR$: [?irq_consum|=%H0]\n"
+IRQ_corruption_consumer_goods_text_last:0 "$MODIFIER_CONSUMER_GOODS_FACTOR$: [?irq_consum|=%H0]"
+IRQ_corruption_stability_text:0 "$MODIFIER_STABILITY_FACTOR$: [?irq_stab_cor|+=%]\n"
+IRQ_corruption_stability_text_last:0 "$MODIFIER_STABILITY_FACTOR$: [?irq_stab_cor|+=%]"
+IRQ_corruption_construction_speed_text:0 "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?irq_constr|+=%]"
+
+IRQ_Crippling_Poverty_dynamic_modifier:0 "£pol_idea Crippling Poverty"
+IRQ_Crippling_Poverty:0 "Crippling Poverty"
+IRQ_Crippling_Poverty_desc:0 "Although attempts were made by the Ottoman government to revitalise Iraq in the late 19th and early 20th century, the overall state of society in the former home of civilisation is utterly abysmal. Wealth is concentrated in the hands of the upper 10% whilst the vast majority of the population is either bordering on or destitute.\n§W--------------\n[IRQ_poverty_stability][IRQ_poverty_construction_speed][IRQ_poverty_research_speed][IRQ_poverty_factory_output]§!"
+
+IRQ_poverty_stability_text:0 "$MODIFIER_STABILITY_FACTOR$: [?irq_stab_pov|+=%]\n"
+IRQ_poverty_stability_text_last:0 "$MODIFIER_STABILITY_FACTOR$: [?irq_stab_pov|+=%]"
+IRQ_poverty_construction_speed_text:0 "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?irq_constr_pov|+=%]\n"
+IRQ_poverty_construction_speed_text_last:0 "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?irq_constr_pov|+=%]"
+IRQ_poverty_research_speed_text:0 "$MODIFIER_RESEARCH_SPEED_FACTOR$: [?irq_researc|+=%]\n"
+IRQ_poverty_research_speed_text_last:0 "$MODIFIER_RESEARCH_SPEED_FACTOR$: [?irq_researc|+=%]"
+IRQ_poverty_factory_output_text:0 "$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?irq_factory|+=%]"
+
+IRQ_Sectarian_Divide_dynamic_modifier:0 "£pol_idea Sectarian Divide"
+IRQ_Sectarian_Divide:0 "Sectarian Divide"
+IRQ_Sectarian_Divide_desc:0 "Even though most political power lies with the Sunni Muslims, the nation of Iraq is home to a majority of Shiites and considerable minorities of Jews, Christians and Muslim off-shoots. Finding balance amongst these groups is nigh impossible and the lack of a desire to cooperate has resulted in an incapacitated government.\n§W--------------\n[IRQ_sectarian_conscription][IRQ_sectarian_stability]§!"
+
+IRQ_sectarian_conscription_text:0 "$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: [?irq_recruit_pop|+=%0]\n"
+IRQ_sectarian_conscription_text_last:0 "$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: [?irq_recruit_pop|+=%0]"
+IRQ_sectarian_stability_text:0 "$MODIFIER_STABILITY_FACTOR$: [?irq_stab_sect|+=%]"
 
 ### Traits ###
 bismarck_of_arabia:0 "The Bismarck of Arabia"
@@ -273,7 +299,7 @@ IRQ_Join_the_new_World_Order_desc:0 "It's time to take our place in the world st
 
 IRQ_Bismarck_of_the_Arabs:0 "The Bismarck of the Arabs"
 IRQ_Bismarck_of_the_Arabs_desc:0 "Cunning diplomacy in all its forms, would they be the subtle word or the sincerity of the firearm, are the unifiers of nations. The Arab world awaits liberation."
-IRQ_League_of_Arab_States:0 "Found the League of Arab States"
+IRQ_League_of_Arab_States:0 "아랍국가연맹 수립"
 IRQ_League_of_Arab_States_desc:0 "Our brothers across all the Arab world claim for their voices to be heard, their desires for independence and cooperation within the Arab world must be fulfilled."
 IRQ_Economic_Social_Council:0 "Found the Economic and Social Council"
 IRQ_Economic_Social_Council_desc:0 "As part of the program to help the Arab world rise again, matters of economy are of foremost importance. Cooperation and mutual prosperity are our key tenets."
@@ -391,8 +417,8 @@ irq.17.a:0 "Long live Rashid al-Gaylani!"
 
 irq.18.t:0 "Taha al-Hashimi attacks Baghdad"
 irq.18.d:0 "Outraged by the attack on his brother, Taha al-Hashimi has gathered the forces of Mosul and Kirkuk to launch an attack on the capital and depose the regime of al-Gaylani. Supported by a variety of local groups, especially amongst the Shi'ite tribes, he poses a veritable threat to disorganised forces in and around the capital.\n\nNonetheless, Rashid al-Gaylani has prepared as well as he could and has handed over full command to the relatively young general Kamil Shabib whose recent successes against the tribal insurrections have made him an important player within the armed forces and a rallying point for the wavering troops."
-irq.18.a:0 "Taha al-Hashimi defeats Kamil Shabib"
-irq.18.b:0 "The forces of al-Hashimi are defeated"
+irq.18.a:0 "The forces of al-Hashimi are defeated"
+irq.18.b:0 "Taha al-Hashimi defeats Kamil Shabib"
 
 irq.19.t:0 "al-Gaylani consolidates his position"
 irq.19.d:0 "After the heroic victory over the al-Hashimi loyalists, all significant military opposition to the new regime seems quelled. The new 'National Chief' who used to be a partner of the late Yasin al-Hashimi, follows closely the rhetoric of the al-Muthanna club who preach for the unification of Arabia with Iraq acting as the equivalent of Prussia during the 19th century.\n\nTheir harsh critique of the Turkoman and Assyrian minorities however show that their idea of an Arab state is one solely targeted at ethnic Arabs and that there is no place in there for the 'distractions' posed by these groups. Another clear target of the new regime is the substantial Jewish population of Baghdad who they see as nothing but a fifth column out to destroy the Arab soul and vultures praying on the livelihoods of honest Muslims."
@@ -465,7 +491,7 @@ irqfor.3.t:0 "Offer Refused"
 irqfor.3.d:0 "The despicable government of [FROM.GetName] has refused our offer, stating that we are but a useless medieval 'state' in the desert with disillusions of grandeur"
 irqfor.3.a:0 "SAD!"
 
-irqfor.4.t:0 "[IRQ.GetNameDef] invites us to participate in the League of Arab States"
+irqfor.4.t:0 "[IRQ.GetNameDef] invites us to participate in 아랍국가연맹"
 irqfor.4.d:0 "Founded as a counter to ever increasing influence of Egypt over the Arab world, the Iraqi government has invited us today to join their coalition and officiate our entrance to the League through a joint treaty of Eternal Friendship."
 irqfor.4.a:0 "We will support their endeavours"
 irqfor.4.b:0 "Who do they think they are?"

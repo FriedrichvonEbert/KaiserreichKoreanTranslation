@@ -346,7 +346,7 @@ SYR_syrian_naval_academy_desc:0 "While having the ships is nice, it is the quali
 # Leadership of the Arab Movement #
 SYR_arab_leadership:0 "Assume leadership of the Arab Movement"
 SYR_arab_leadership_desc:0 "While others may claim the mantle, we must make it clear that we are the true leaders of the Pan-Arab movement, we are already a nation composed of many different peoples, something that makes us more prepared than others to form into such a federation. While this step will undoubtedly win us few friends, and make many enemies, we are ready."
-SYR_League_of_Arab_States:0 "Found the League of Arab States"
+SYR_League_of_Arab_States:0 "아랍국가연맹 설립"
 SYR_League_of_Arab_States_desc:0 "The first step to unity will be bringing the various arab states into a similar political, economic and social alliance. To facilite this we will create the League of the Arab States to facilitate discussion and integration efforts."
 SYR_Economic_Social_Council:0 "Found the Economic and Social Council"
 SYR_Economic_Social_Council_desc:0 "The first step of our integration will be creating on economic and social council, this will focus on the elimination of trade barriers and ensuring integration does not leave the economically weaker states behind."
@@ -468,13 +468,13 @@ syr_roundtable_tt:0 "§YIf an agreement is reached, we will receive:\n§!"
 syr_restore_democracy_tt:0 "\nThe £manpower_texticon §gMilitary Government§! will be overthrown and replaced by a £pol_power §CSocial Conservative§! regime"
 syr_basic_principle_tt:0 "\nMarshal £army_experience §YHusni al-Za'im§! will be overthrown by £army_experience §YAdib Shishakli§! with the assistance of the §RSSNP§!"
 syr_join_faction:0 "Based on the earlier choice, we will either join\n §Y[GER.GetNameWithFlag]§! or §Y[EGY.GetNameWithFlag]§! in their struggless.\n\n"
-syr_league_arab_states:0 "\n\nUnlock £decision_icon_small §YDecisions§! to invite §C [JBS.GetNameWithFlag], [HEJ.GetNameWithFlag], [IRQ.GetNameWithFlag], [SAU.GetNameWithFlag]§! and §C[YEM.GetNameWithFlag]§! to the §YLeague of Arab States§!"
+syr_league_arab_states:0 "\n\n§C [JBS.GetNameWithFlag], [HEJ.GetNameWithFlag], [IRQ.GetNameWithFlag], [SAU.GetNameWithFlag]§! 및 §C[YEM.GetNameWithFlag]§!의 여러 국가를 §Y아랍국가연맹§!에 초대하는 £decision_icon_small §Y결정§!이 해금됨"
 yasin_in_da_house:0 "Yasin al-Hashimi is in exile in Damascus"
 syr_elections_30_days:0 "§YElections§! will be held within 30 days"
 autonomous_region_syr_tt:0 "will receive §YAutonomous Region§! status, granting us the following effects:\nRecruitable Population Factor: §R-35%§!\nAvailable Buildings Slots Factor: §R-35%§!"
 
 ### Dynamic Modifiers ###
-SYR_League_of_Arab_States_dynamic_modifier:0 "Member of the League of Arab States"
+SYR_League_of_Arab_States_dynamic_modifier:0 "아랍국가연맹의 회원국"
 autonomous_region_syr:0 "Autonomous Region"
  
 SYR_rebellion_decisions:0 "Great Syrian Revolt"

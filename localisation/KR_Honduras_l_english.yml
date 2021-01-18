@@ -141,6 +141,12 @@ HON_american_reinforcements:0 "우리나라를 지키기 위해 2개 해병 사�
 honduras_destroyers_tt:0 "1919년형 구축함 두 척이 태평양 연안에서 진수할 겁니다."
 honduras_submarines_tt:0 "1919년형 잠수함 두 척이 태평양 연안에서 진수할 겁니다."
 
+### Scripted Loc ###
+HONleadloc_scripted_morales:0 "Morales"
+HONleadloc_scripted_moncada:0 "Moncada"
+HONleadloc_scripted2_zuniga:0 "Zúñiga"
+HONleadloc_scripted2_galves:0 "Galves"
+
 #FOCII
 
 #Castro
@@ -182,10 +188,10 @@ HON_allow_free_press:0 "언론의 자유?"
 HON_allow_free_press_desc:0 "카스트로 장군은 당연히 언론과 출판의 자유를 옹호합니다. 그들이 정부에 관해 호의적인 글을 쓸 때만 말이지요."
 
 #DEMOCRATS
-HON_galvez:0 "갈베즈 의장"
-HON_galvez_desc:0 "갈베즈는 자유롭고 공정한 선거에서 당선되었고 이제 자유 시장 개혁 정책을 추진할 겁니다."
-chairman_galvez:0 "후안 마누엘 갈베즈가 의장입니다"
-chairman_moralez:0 "라몬 비예다 모랄레즈가 의장입니다"
+HON_galvez:0 "[HONleadloc_scripted2] 의장"
+HON_galvez_desc:0 ""[HONleadloc_scripted2]는 자유롭고 공정한 선거에서 당선되었고 이제 자유 시장 개혁 정책을 추진할 겁니다."
+chairman_galvez:0 "[HONleadloc_scripted2]가 의장입니다"
+chairman_moralez:0 "[HONleadloc_scripted]가 의장입니다"
 HON_better_coffee:0 "커피 산업 확대"
 HON_better_coffee_desc:0 "커피는 이미 다른 국가들에서 충분히 공급하고 있지만, 커피 산업에서 사업을 확장한다면 바나나에만 의존하는 경제를 다양화하는 출발점이 될 겁니다."
 HON_bigger_roads:0 "기반 시설 개선"
@@ -195,7 +201,7 @@ HON_lower_taxes_desc:0 "가장 가난한 사람부터 가장 부유한 사람까
 HON_cooperate_ufc:0 "과일 회사와 협력"
 HON_cooperate_ufc_desc:0 "과일 회사와 관계를 맺어야 합니다. 다만 착취와 적대감이 아닌 상호 존중과 교류에 기반한 관계여야만 합니다."
 HON_labor_regulations:0 "노동 규제"
-HON_labor_regulations_desc:0 "갈베즈 행정부는 아동과 여성을 위한 노동 제한 규정을 도입하고 온두라스 평의회에 하루 8시간 노동을 도입하도록 만들었습니다. 평의회가 모든 법안을 통과시킨다면 온두라스 노동법 조항에는 엄청난 변화가 생길 겁니다."
+HON_labor_regulations_desc:0 "[HONleadloc_scripted2] 행정부는 아동과 여성을 위한 노동 제한 규정을 도입하고 온두라스 평의회에 하루 8시간 노동을 도입하도록 만들었습니다. 평의회가 모든 법안을 통과시킨다면 온두라스 노동법 조항에는 엄청난 변화가 생길 겁니다."
 HON_agricultural_school:0 "범미 농업 학교"
 HON_agricultural_school_desc:0 "모든 아메리카 대륙민들이 최신 농업 기술을 배울 수 있는 학교를 건립한다면 농법을 향상시키고 국제 관계를 강화하며 화학 이해력을 재고할 수 있습니다."
 HON_press_freedom:0 "언론 자유 확대"
@@ -225,8 +231,8 @@ HON_callejas_revolution:0 "혁명"
 HON_church_property:0 "교회 재산 압류"
 HON_coffee_cash:0 "커피 이익"
 
-HON_morales:0 "모랄레스 의장"
-HON_morales_desc:0 "모랄레스는 자유롭고 공정한 선거전에서 승리를 거뒀고 이제 매우 중요한 사회 개혁 프로그램에 착수할 겁니다."
+HON_morales:0 "[HONleadloc_scripted] 의장"
+HON_morales_desc:0 "[HONleadloc_scripted]는 자유롭고 공정한 선거전에서 승리를 거뒀고 이제 매우 중요한 사회 개혁 프로그램에 착수할 겁니다."
 HON_agrarian_reform:0 "토지 개혁"
 HON_agrarian_reform_desc:0 "무상 토지 재분배는 보편적 복지를 보장하기 위해 중요한 조치입니다."
 HON_industrial_developement:0 "산업 발전"

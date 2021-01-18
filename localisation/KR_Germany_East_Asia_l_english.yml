@@ -284,14 +284,14 @@ Ostasien.7.d:0 ""베트남! 베트남! 베트남! 남방의 우리 고향! 나�
 Ostasien.7.a:0 "행운을 빈다, 인도차이나인 동지들!"
 Ostasien.7.b:0 "우리는 현대판 피뇨 드 베엔이 아니다."
 
-Ostasien.8.t:0 "인도차이나의 비극" # BHC
+Ostasien.8.t:0 "인도차이나의 비극" # HND
 Ostasien.8.d:0 ""베트남! 베트남! 베트남! 남방의 우리 고향! 나는 옌-바이의 교수대 앞에서 열세 번의 외침을 들었다. 열세 명의 남자가, 교수대를 타고 불과 일이 미터 떨어진 곳에서 죽음을 앞두고 소리치고 있었다."\n\n— 프랑스 언론인 루이 루보는 독일 식민주의의 극동 전초기지인 인도차이나에서 벌어진 독일의 잔혹한 탄압을 목격했습니다. 이제 캘커타의 인도차이나 혁명가들은 본인들을 지원해줄 세력을 찾고 있습니다. 만약 우리가 독일 경찰과 헌병들이 점령한 통킹에 군수물자와 자원병들을 보낸다면, 인도차이나 혁명가들은 코친차이나에서 봉기를 조직할 수 있을 것입니다. 이것은 독일 식민제국을 교란시킴과 동시에 세계 혁명에 한 발짝 더 다가갈 수 있는 길입니다."
 Ostasien.8.a:0 "도움을 보내자"
 Ostasien.8.b:0 "흥미 없다."
 
 # Bao Dai Reform
 Ostasien.9.t:0 "황제 바오 다이의 인도차이나로의 복귀"
-Ostasien.9.d:0 "안남의 군주인 바오 다이는 최근 독일에서 유학을 마치고 인도차이나로 돌아왔습니다. 불행하게도 그는 단지 종교 지도지의 역할에 만족하지 않고 있지만, 신중하게 통제된 군주제는 오히려 우리가 시골의 불안정을 완화하고 국민들의 지지를 얻게 해 줄 것입니다. 그러나 사이공에 정착한 유럽인 정착민들은 안남 현지인과 권력을 공유하려는 어떠한 시도도 단호히 반대하고 있습니다."
+Ostasien.9.d:0 "안남의 군주인 바오 다이는 최근 독일에서 유학을 마치고 인도차이나로 돌아왔습니다. 그는 단지 종교 지도지의 역할에 만족하지 않을 것이고, 신중하게 통제된 군주제는 오히려 우리가 시골의 불안정을 완화하고 국민들의 지지를 얻게 해 줄 것입니다. 그러나 사이공에 정착한 유럽인 정착민들은 안남 현지인과 권력을 공유하려는 어떠한 시도도 단호히 반대하고 있습니다."
 Ostasien.9.a:0 "환영하오, 우리 꼭두각시 황제 폐하"
 Ostasien.9.b:0 "그는 유학이나 계속해야 할 것이다"
 
@@ -319,6 +319,7 @@ Ostasien.14.t:0 "빈 딘 코뮌 운동"
 Ostasien.14.d:0 "타이 손 반란의 본거지인 빈 딘 지방은 최근 농민 봉기 움직임이 폭등하고 있었습니다. 시위자들은 처음에는 농노들의 강제 부역 중단을 요구했는데, 그들이 지방 관리들에 의해 무시되었을 때 분노한 농민들은 들고일어나 행정 건물, 시청, 철도 역들을 불 태우기 시작했습니다. 지방 행정부는 마비되었고 "코뮌" 이라 불리는 단체가 생겨났으며, 이 움직임은 남부 안남과 메콩 강의 다른 지방으로 확산되었습니다. 베트민들이 이 배후에 있는 것이 분명합니다!"
 Ostasien.14.a:0 "아마 우리는 평화롭게 해결할 수 있을 것이다"
 Ostasien.14.b:0 "병력을 파견하라!"
+Ostasien.14.c:0 "AI가 반란치트를 회피함 - 만약 이게 보이거든 신고바랍니다"
 
 Ostasien.15.t:0 "사이공 반란"
 Ostasien.15.d:0 "어제 통킹에서 코친차이나까지 조직된 반란이 동시에 일어났습니다. 노동 조합은 총파업에 돌입했고 시 청사를 점거하려고 시도했습니다. 대부분의 지역에서 질서가 회복되는 동안, 베트민은 빈 딘과 메콩 강의 농민 반란군들을 사이공으로 이동시켰습니다. 현지 기독교인들은 빠져나와 망명했고, 반군들이 사이공의 주요 통신 및 행정 시설을 장악했습니다!"
@@ -365,7 +366,7 @@ Ostasien.25.t:0 "바오 다이 해결책" # Extra
 Ostasien.25.d:0 "코친차이나가 베트민에 함락당하고 게릴라들이 도처에 출몰하면서, 인도차이나 전 지역이 비상 사태에 놓여 있습니다. 지역 엘리트들과 반-생디칼리슴 성향 민족주의자들은 바오 다이 황제를 지지하며 해결책을 제시했습니다: 만약 우리가 보호국 조약을 포기하고, 응우옌 왕조에게 안남 그리고 통킹 지역의 자치권을 부여한다면, 대신에 그들은 우리를 도와 농촌 지역을 안정시키고, 지역 자원을 활용하여 반란군을 격퇴할 것입니다. 그렇게 하지 않으면 널리 퍼진 반식민주의 정서가 베트민에게 힘을 실어줄 것입니다. 바오 다이의 편지는 독일이 베트남의 국민주의를 얕보았을 때 일어날 사태에 대한 불길한 예측으로 끝을 맺습니다. '모든 마을은 저항의 보금자리가 될 것이고, 옛 협력자들은 당신들의 적이 될 것입니다. 그리고 바로 그들이 여러분의 관리들과 식민지 주민들의 목을 조를 것입니다.'"
 Ostasien.25.b:0 "우리는 스스로 해결할 수 있다"
 Ostasien.25.a:0 "우리는 그의 도움이 필요하다."
-#Ostasien.16.c: "바오 다이는 안남을 평화와 질서로 이끌 것이다. (VIN를 해방시키고 플레이합니다)"
+#Ostasien.25.c: "바오 다이는 안남을 평화와 질서로 이끌 것이다. (VIN를 해방시키고 플레이합니다)"
 
 Ostasien.30.t:0 "하락하는 물가"
 Ostasien.30.d:0 "곡물과 고무의 가격이 식민지 전역에서 빠르게 떨어지고 있습니다. 곡물과 고무 수출에 의존하던 농부들과 플랜테이션 소유주들은 특히 두 주요 식민지인 인도차이나와 말라야에서 큰 타격을 입었습니다. 한 식민지에서 가격을 조절하는 것은 가능하지만, 우리의 자원은 한계가 있으며 다른 식민지는 희생을 치를 것입니다."
@@ -383,7 +384,7 @@ Ostasien.31.d:0 "검은 월요일의 경제적인 충격으로 많은 유럽 정
 Ostasien.31.a:0 "거부하라."
 Ostasien.31.b:0 "유럽인 특권을 강화하라."
 
-Ostasien.33.t:0 "빈 딘 코뮌 운동이 진정되다"
+Ostasien.33.t:0 "빈 딘 코뮌이 진정되다"
 Ostasien.33.d:0 "빈딘 지방의 농민 반란은 우리 병사들에 의해 진압되었습니다. 폭격기와 해상 사격은 베트남 농부들을 위협하는데 특히 효과적이었습니다. 베트남어로 빈 딘은 평화라는 의미이고, 이제는 정말 그 이름처럼 되길 바랍니다."
 Ostasien.33.a:0 "훌륭해!"
 
@@ -616,19 +617,23 @@ GEA_start_naval_blockade_desc:0 "인터내셔널의 수송선들이 남중국해
 GEA_shelling_on_Saigon:0 "사이공 포격"
 
 GEA_reorganize_north_malaya:0 "Reorganize North Malaya"
-GEA_reorganize_north_malaya_desc:0 ""
+GEA_reorganize_north_malaya_desc:0 "Now that we have gain control over the Northern Malay sultanates, a recreation of the \"Unfederated Malay States\" shall seever as a temporary legal and administrative framework to integrate the local civil services under each individual sultans into a single unit.\n\nThis will give us greater control over these newly annexed territories."
 GEA_reorganize_sumatra:0 "Reorganize Sumatra"
-GEA_reorganize_sumatra_desc:0 ""
+GEA_reorganize_sumatra_desc:0 "Now that we have gain control over Sumatra, an integration of the existing local civil services into our own is needed so that we canadminister these areas effectively."
 GEA_reorganize_java:0 "Reorganize Java"
-GEA_reorganize_java_desc:0 ""
+GEA_reorganize_java_desc:0 "Now that we have gain control over the whole of Java, an integration of the existing local civil services into our own is needed so that we can administer these areas effectively."
 GEA_reorganize_kalimantan:0 "Reorganize South Borneo"
-GEA_reorganize_kalimantan_desc:0 ""
+GEA_reorganize_kalimantan_desc:0 "Now that we have gain control over the southern half of the islannd of Borneo, an integration of the existing local civil services into our own is needed to administer these areas effectively."
 GEA_reorganize_sulawesi_sunda:0 "Reorganize Celebes & Lesser Sunda"
-GEA_reorganize_sulawesi_sunda_desc:0 ""
+GEA_reorganize_sulawesi_sunda_desc:0 "Now that we have gain control over the Celebes and Lesser Sunda isles, an integration of the existing local civil services into our own is needed so that we canadminister these areas effectively."
 GEA_reorganize_maluku_papua:0 "Reorganize West New Guinea and the Moluccas"
-GEA_reorganize_maluku_papua_desc:0 ""
+GEA_reorganize_maluku_papua_desc:0 "Now that we have gain control over the Molukkas and western half of Neu-Guinea, an integration of the existing local civil services into our own is needed so that we canadminister these areas effectively."
 GEA_reorganize_east_timor:0 "Reorganize East Timor"
-GEA_reorganize_east_timor_desc:0 ""
+GEA_reorganize_east_timor_desc:0 "Now that we have gain control over the Portuguese half of Timor, an integration of the existing local civil services into our own is needed so that we can administer these areas effectively."
+GEA_reorganize_cambodia:0 "Reorganize Cambodian Territories"
+GEA_reorganize_cambodia_desc:0 "Now that we have managed to gain control over the Cambodia, we nay be able to finally split Stung Treng areas from Cochinchina administration to recreate the \"Kingdom of Cambodia\" protectorate.\n\nThis will give us greater control over the newly annexed territories rather than just simply put them under Saigon's."
+GEA_reorganize_laos:0 "Reorganize Laotian Territories"
+GEA_reorganize_laos_desc:0 "Now that we have finally gain full control over Laos, we will need to expand our civil services to cover the newly annexed territories on the other side of Mekong river."
 
 ### Ideas ###
 GEA_colonial_nation:0 "식민 정부"

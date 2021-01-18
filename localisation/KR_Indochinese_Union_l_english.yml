@@ -191,10 +191,10 @@ INC_improved_recon_units_tech_effect:0 "Enables §H$INC_improved_recon_units_tec
 
 ### Opinion Modifiers ###
 INC_Liberation:0 "Our comrades support our revolutionary movement!"
-INC_BHC_Support:0 "The Bharatiya Commune chose to continue their support"
-INC_BHC_NoSupport:0 "Our request for closer ties has been refused."
-INC_BHC_Support_50:0 "The Bharatiya Commune supports 인도차이나 rebels!"
-INC_BHC_Support_75:0 "The Bharatiya Commune supports 인도차이나 rebels!"
+INC_HND_Support:0 "The Bharatiya Commune chose to continue their support"
+INC_HND_NoSupport:0 "Our request for closer ties has been refused."
+INC_HND_Support_50:0 "The Bharatiya Commune supports Indochinese rebels!"
+INC_HND_Support_75:0 "The Bharatiya Commune supports Indochinese rebels!"
 INC_ImperialistScum:0 "Damn those German Imperialists!"
 INC_closer_ties:0 "Closer Ties"
 ### Events ###
