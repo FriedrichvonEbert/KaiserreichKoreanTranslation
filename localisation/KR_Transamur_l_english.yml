@@ -477,7 +477,7 @@ TRM_Increase_Trade_With_Japan_desc:0 "우리는 일본인을 싫어하지만, �
 TRM_Aid_From_Japan:0 "일본으로부터의 원조"
 TRM_Aid_From_Japan_desc:0 "일본이 우리 산업에 투자하도록 요청할 수 있습니다. 투자는 우리가 나라를 더 빨리 발전시킬 수 있게 해줄 것입니다. 하지만, 일본과 우리 사이의 깊어지는 의존관계도 점점 더 분명해질 것이고, 우리 국민들은 이러한 상황에 불쾌해 할 수도 있습니다."
 
-TRM_Zaibatsu_Investments:0 "재벌의 투자"
+TRM_Zaibatsu_Investments:0 "자이바츠의 투자"
 TRM_Zaibatsu_Investments_desc:0 "일본의 거대 기업들은 우리를 그들의 상품을 거래하기에 유용한 시장으로 보고 있습니다. 그들에게 더 많은 재정적 투자를 요청할 수 있지만, 트란스아무르의 국민들은 우리가 도쿄와 가까워지는 것을 못마땅하게 여길 것입니다."
 
 TRM_Invite_Japanese_Instructors:0 "일본 학자 초청"
@@ -622,7 +622,7 @@ TRM_japanese_influence_desc:0 "러시아 국민들은 우리 정부를 합법적
 TRM_visit_from_japan:0 "우리의 스승으로부터의 방문"
 TRM_visit_from_japan_desc:0 "이런 힘든 시기에는 우리를 보호할 강력한 동맹이 필요합니다. 블라디보스토크에 있는 일본 정치인들은 가끔씩 우리를 방문하곤 했는데, 그들은 우리를 기꺼이 지원을 해 줄 용의가 있다고 말했습니다. 하지만 우리가 그들의 도움을 받아들일 때마다 대표단의 권한은 더 강해지고 야심차게 될 것입니다."
 
-TRM_zaibatsus:0 "재벌들의 인정을 받다"
+TRM_zaibatsus:0 "자이바츠들의 인정을 받다"
 TRM_zaibatsus_desc:0 "일본과의 경제적 제휴가 많은 돈과 투자를 끌어들인 것은 사실입니다. 오늘 블라디보스토크 주재 일본 대표단은 우리 지도부에게 트란스아무르에 새로운 조계를 두자고 직접 제안했습니다."
 
 TRM_support_anti_japanese_rally:0 "반일집단 지원"
