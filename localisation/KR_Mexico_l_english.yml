@@ -70,11 +70,7 @@ MEX_corportism_idea:0 "국가 협동조합"
 MEX_goldshirts_idea:0 "멕시코 혁명 운동"
 MEX_synarchismo_idea:0 "시나키즘 홍보"
 
-
-
 ### Tooltips ###
-MEX_reconquista_tooltip:0 "§G우리는 잃어버린 영토를 되찾을 것이다§!"
-MEX_yucatan_war_tooltip:0 "유카탄이 반란을 일으켰다"
 200_infantry_equipment_1:0 "£rifle_texticon §H200§!"
 200_infantry_equipment_1_blocked:0 "£rifle_texticon §R200§!"
 200_infantry_equipment_1_tooltip:0 "우리가 그들에게 보낼 수 있을 만큼 충분한 총이 필요할 것입니다"
@@ -115,20 +111,15 @@ MEX_junta_goldshirt_alliance:0 "우리는 황금셔츠단과 연정을 이루었
 ### Decisions ###
 MEX_central_american_intervention:0 "중앙아메리카 개입"
 MEX_central_american_intervention_desc:0 "멕시코는 중앙아메리카 지역에 상당히 많은 관심을 가지고 있습니다. 따라서, 우리는 멕시코를 위해 그 지역에 개입하는 것에 초점을 맞추어야 합니다."
+
 MEX_retake_yucatan_mission:0 "유카탄 재탈환"
 MEX_retake_yucatan_mission_desc:0 "반란군들과 반역자들은 유카탄의 지배권을 행사하고 있으며, 그것들은 파괴되어야만 합니다."
-MEX_support_nicaragua:0 "Supply our Nicaraguan allies"
-MEX_support_guatemalan_socialists:0 "과테말라의 사회주의자들을 지원한다"
-MEX_support_honduran_socialists:0 "온두라스의 사회주의자들을 지원한다"
-MEX_support_salvadoran_socialists:0 "엘살바도르의 사회주의자들을 지원한다"
-MEX_fight_reactionary_central_america:0 "중앙아메리카에 혁명을 가져오다"
-MEX_claim_central_america:0 "멕시코를 위한 중앙아메리카 영유권 주장"
-MEX_fight_guatemala:0 "과테말라와 싸우다"
-MEX_fight_el_salvador:0 "엘살바도르와 싸우다"
-MEX_fight_honduras:0 "온두라스와 싸우다"
-MEX_fight_nicaragua:0 "니카라과와 싸우다"
-MEX_fight_costa_rica:0 "코스타리카와 싸우다"
-MEX_fight_central_america:0 "중앙아메리카와 싸우다"
+
+MEX_support_socialists:0 "우리의 동맹인 [From.GetAdjective]에게 지원하기"
+MEX_fight_reactionary_central_america:0 "중앙아메리카에 혁명을 가져오기"
+
+MEX_claim_central_america:0 "중앙아메리카 영유권 주장"
+MEX_fight_central_america:0 "[From.GetNameDef] 공격"
 
 MEX_american_civil_war_intervention_decisions:0 "미국 내전에 개입하다"
 MEX_american_civil_war_intervention_decisions_descion:0 "우리의 북쪽 영토에서 전쟁이 격렬해지고 있는 가운데 우리는 멕시코의 이익을 보호할 아메리카 정부에 개입하고 지원해야 합니다."
@@ -142,10 +133,7 @@ MEX_reconquista_decisons:0 "멕시코의 레콩키스타"
 MEX_reconquista_decisons_descions:0 "멕시코는 1848년에 미국인들이 훔쳐 간 잃어버린 영토를 되찾아야만 합니다."
 MEX_reclaim_lost_territories_decisions:0 "잃어버린 영토를 되찾다"
 MEX_reclaim_lost_territories_decisions_desc:0 "우리가 북쪽에 있는 기만적인 미국인들과 전쟁을 하기 전에, 우리는 잃어버린 영토가 멕시코의 것이며 멕시코에 속한다는 우리의 주장을 세상에 내놓아야 합니다."
-MEX_reconquistia_usa:0 "미합중국으로부터 우리의 영토를 되찾는다"
-MEX_reconquistia_psa:0 "태평양 미합중국으로부터 우리의 영토를 되찾는다"
-MEX_reconquistia_csa:0 "미노조연합으로부터 우리의 영토를 되찾는다"
-MEX_reconquistia_aus:0 "미연합국으로부터 우리의 영토를 되찾는다"
+MEX_reconquista_decision:0 "[FROM.GetNameDef]에게서 우리의 영토를 되찾기"
 
 MEX_join_international:0 "인터내셔널에 가입"
 MEX_join_international_desc:0 "우리는 인터내셔널에 참여해야 하며, 세계 사회주의 투쟁에서 우리의 위치를 차지해야 합니다."
@@ -160,26 +148,14 @@ MEX_economic_decisions_desc:0 ""
 MEX_nationalize_oil:0 "석유 산업 국유화"
 MEX_nationalize_oil_desc:0 "우리는 석유를 국유화해야 하며, 그렇게 함으로써 우리는 석유산업을 통제하고 그 이익을 멕시코와 국가의 시민들을 발전시키는데 사용할 수 있을 것입니다."
 
+MEX_restore_order:0 "[From.GetName]에 질서 복원"
+
 MEX_cristero_war:0 "크리스테로 전쟁"
 MEX_cristero_war_desc:0 "가톨릭 반란군들은 정부와 우리의 법을 집행하라는 명령에 반대하여 전쟁을 벌이고 있습니다. 멕시코에 평화와 번영을 가져오기 위해서 그들은 가능한 한 빨리 사라져야 합니다.\n\n§R크리스테로§!의 세력: §Y[?MEX.MEX_cristero_power]§!"
-MEX_restore_order_oaxaca:0 "오악사카주의 지배권 회복"
-MEX_restore_order_veracruz:0 "베라크루스주의 지배권 회복"
-MEX_restore_order_mexico:0 "멕시코주의 지배권 회복"
-MEX_restore_order_guerrero:0 "게레로주의 지배권 회복"
-MEX_restore_order_jalisco:0 "할리스코주의 지배권 회복"
-MEX_restore_order_tamaulipas:0 "타마울리파스주의 지배권 회복"
-MEX_restore_order_durango:0 "듀랑고주의 지배권 회복"
 MEX_cristero_raid_mission:0 "크리스테로 토벌"
 
 MEX_campesinos_war:0 "농민 전쟁"
 MEX_campesinos_war_desc:0 "무정부주의 반란군들은 정부와 우리의 법을 집행하라는 명령에 반대하여 전쟁을 벌이고 있습니다. 멕시코에 평화와 번영을 가져오기 위해서 그들은 가능한 한 빨리 사라져야 합니다.\n\n§R농민§!의 세력: §Y[?MEX.MEX_campesinos_power]§!"
-MEX_restore_order_oaxaca1:0 "오악사카주의 지배권 회복"
-MEX_restore_order_veracruz1:0 "베라크루스주의 지배권 회복"
-MEX_restore_order_mexico1:0 "멕시코주의 지배권 회복"
-MEX_restore_order_guerrero1:0 "게레로주의 지배권 회복"
-MEX_restore_order_jalisco1:0 "할리스코주의 지배권 회복"
-MEX_restore_order_tamaulipas1:0 "타마울리파스주의 지배권 회복"
-MEX_restore_order_durango1:0 "듀랑고주의 지배권 회복"
 MEX_campesinos_raid_mission:0 "농민 토벌"
 
 ### Leader Descriptions ###
@@ -425,8 +401,8 @@ MEX_army_modernization_desc:0 "멕시코 군대는 여전히 1차 세계대전 �
 
 MEX_guerilla_warfare:0 "게릴라 육군"
 MEX_guerilla_warfare_desc:0 "멕시코의 지형은 다양한 사막, 산맥, 정글로 매우 험합니다. 멕시코 혁명 동안 게릴라 전술은 대규모, 중장비를 갖춘 군대를 허용하지 않는 그런 지역에서 매우 효과적인 것으로 이미 증명되었습니다."
-MEX_zapatas_training:0 "사파타의 유산"
-MEX_zapatas_training_desc:0 "우리가 반혁명분자들을 물리친 것은 에밀리아노 사파타의 훌륭한 군사 전술 덕분입니다. 그의 게릴라 전술은 연방군을 성공적으로 패배시켰으며, 만약 우리가 그의 유산을 축적한다면 우리는 어떠한 외국의 침략도 물리칠 수 있을 것입니다."
+MEX_zapatas_training:0 "Study the Mexican Revolution"
+MEX_zapatas_training_desc:0 "Guerrilla tactics have successfully defeated the federalist forces during the Mexican Revolution. If we build up and further refine these tactics, we shall be able to repel any foreign invasion."
 MEX_night_ambushes:0 "야간전"
 MEX_night_ambushes_desc:0 "게릴라전의 한 기둥은 공격이 시작되기 전에 보이지 않는 것입니다. 야간에는 눈에 띄지 않는 것이 쉬워서 우리 부대가 적에게 훨씬 더 가까이 다가감으로써 우리 매복의 효과를 높일 수 있을 것입니다."
 MEX_citizen_soldier:0 "민병대"
@@ -438,7 +414,7 @@ MEX_recon_scouts_desc:0 "영국 제국주의자들과의 끊임없는 전쟁에�
 MEX_small_unit_tactics:0 "소규모 전술"
 MEX_small_unit_tactics_desc:0 "매복 부대는 보통 분대나 소대와 같은 수준의 규모로 일반적인 부대 규모로는 좋은 매복을 만들지 못합니다. 우리 군대는 작은 부대를 기반으로 기능해야 하기 때문에, 우리의 전술과 지휘 체계를 재정비해야 합니다."
 MEX_die_standing:0 "서서 죽는다"
-MEX_die_standing_desc:0 "멕시코 땅은 단 1미터도 반혁명군과 제국주의자들에게 떨어지지 않아야 합니다! 우리의 영광스러운 병사들은 멕시코의 구석구석을 지키고, 그들은 결코 항복하지 않을 것입니다! 멕시코는 어떤 대가를 치르더라도 자유로워야 합니다."
+MEX_die_standing_desc:0 "멕시코 땅은 단 1미터도 침략자들에게 떨어지지 않아야 합니다! 우리의 영광스러운 병사들은 멕시코의 구석구석을 지키고, 그들은 결코 항복하지 않을 것입니다! 멕시코는 어떤 대가를 치르더라도 자유로워야 합니다."
 
 MEX_legacy_of_the_revolution:0 "혁명의 유산"
 MEX_legacy_of_the_revolution_desc:0 "멕시코 혁명은 우리 대륙의 최근 역사에서 가장 큰 군사 작전 중 하나였습니다. 거대한 규모와 더불어, 멕시코는 새로운 군사 전술과 무기를 도입했습니다. 우리는 전쟁에서 얻은 교훈에 따라 우리 군대를 증강해야 합니다."

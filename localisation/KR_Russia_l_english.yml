@@ -442,8 +442,8 @@ RUS_Resource_Prospection_desc:0 "러시아에는 광물이 많고 이를 이용�
 RUS_Army_Modernisation:0 "군 현대화"
 RUS_Army_Modernisation_desc:0 "우리가 어떤 교리에 따르든지 간에, 전술뿐만 아니라 실제로 우리의 군대가 사용하는 소총과 장비들을 현대화해야 합니다."
 
-RUS_Reintroduce_Okhrannoye_Otdeleniye:0 "오흐라나 재도입"
-RUS_Reintroduce_Okhrannoye_Otdeleniye_desc:0 "러시아 전역에서 혁명운동이 활발히 전개되고 있는 가운데, 두마의 일부 당원들은 옛 제정시대의 비밀경찰인 '오흐라나'를 도입하여 내부경찰의 전면적인 재조직을 시작하자고 주장하고 있습니다. 이 조직은 불순한 혁명분자를 찾아내 이들이 러시아 국가를 존중하도록 '재교육'할 것입니다!"
+RUS_Okhrannoye_Otdeleniye:0 "오흐라나"
+RUS_Okhrannoye_Otdeleniye_desc:0 "러시아 전역에서 혁명운동이 활발히 전개되고 있는 가운데, 두마의 일부 당원들은 옛 제정시대의 비밀경찰인 '오흐라나'를 도입하여 내부경찰의 전면적인 재조직을 시작하자고 주장하고 있습니다. 이 조직은 불순한 혁명분자를 찾아내 이들이 러시아 국가를 존중하도록 '재교육'할 것입니다!"
 
 RUS_Electronic_Warfare:0 "전자전"
 RUS_Electronic_Warfare_desc:0 "현대의 전쟁은 전쟁터에서의 부분적인 승리만을 의미하지 않습니다. 정보의 전송과 분석을 다루는 사람들도 전장에서 싸우문 병사만큼 중요합니다. 우리는 그들이 일을 더욱 수월하게 할 수 있도록 지원할 필요가 있습니다."
@@ -539,7 +539,7 @@ RUS_Navy_Modernisation:0 "해군 현대화"
 RUS_Navy_Modernisation_desc:0 "만약 우리가 유럽의 위대한 국가들 사이에 다시 한번 당당히 서려면, 우리는 유럽과 세계의 강대국에 도전할 수 있는 새롭고 현대적인 해군을 건설해야 합니다."
 
 RUS_Death_From_Above:0 "죽음의 폭격"
-RUS_Death_From_Above_desc:0 "혁명 전에 우리 해군 참모 몇 명이 캐나다 자치령을 방문하고는 해전의 미래는 항공모함에 있다고 주장하기 시작했습니다. 항공모함은 상당히 비싸고 드레드노트급 전함이 세계대전식 해전을 지배하고 있지만, 조만간 거대한 항공모합들과 해군 폭격기의 타격력이 이를 가릴 수 있을 것입니다."
+RUS_Death_From_Above_desc:0 "혁명 전에 우리 해군 참모 몇 명이 [RUS_naval_officers_target]에 방문하고는, 해전의 미래는 항공모함에 있다고 믿기 시작했습니다. 항공모함은 상당히 비싸고 드레드노트급 전함이 세계대전식 해전을 지배하고 있지만, 조만간 거대한 항공모합들과 해군 폭격기의 타격력이 이를 가릴 수 있을 것입니다."
 
 RUS_Floating_Fortresses:0 "해상 요새"
 RUS_Floating_Fortresses_desc:0 "옛 학교의 수많은 장교들은 세계대전과 러시아 내전에서 겪은 경험을 바탕으로 규율과 장엄한 드레드노트급 전함의 힘을 믿습니다. 그들은 이 거대한 군함이 우리 해군의 중추로 남아 있어야 한다고 주장합니다."
@@ -628,15 +628,6 @@ RUS_Savinkov_is_HoG_NOT:0 "§H보리스 사빈코프§!가 현재 지도자가 �
 
 RUS_has_black_monday:0 "국민정신 §H$RUS_economic_depression$§!을 가짐"
 RUS_has_black_monday_NOT:0 "국민정신 §H$RUS_economic_depression$§!을 가지지 않음"
-
-RUS_Okhrannoye_Otdeleniye_tooltip:0 "정부는 오흐라나를 재도입하기로 결정했습니다"
-RUS_okhrannoye_otdeleniye_unlocked:0 "Focus §H$RUS_Reintroduce_Okhrannoye_Otdeleniye$§! is now available"
-
-RUS_Army_Modernisation_tooltip:0 "군사 훈련이 끝났습니다"
-RUS_army_unlocked:0 "Focus §H$RUS_Army_Modernisation$§! is now available"
-
-RUS_Navy_Modernisation_tooltip:0 "해군 기동이 끝났습니다"
-RUS_navy_unlocked:0 "Focus §H$RUS_Navy_Modernisation$§! is now available"
 
 RUS_economic_tree_unlocked_ves:0 "Focus §H$RUS_Establish_The_VES$§! is now available"
 RUS_economic_tree_unlocked_zemstva:0 "Focus §H$RUS_Reinstitute_The_Zemstva$§! is now available"
@@ -854,6 +845,14 @@ russia.1918.t:0 "반사회주의 쿠데타"
 russia.1918.d:0 "[ROOT.GetLeader](이)가 러시아 임시 대통령이 되었음에도 불구하고 여전히 군대 구조를 구성하는 구성원 대부분은 그의 배경을 절대로 믿지 않는 백군 출신입니다. 수많은 민간 관리들과 좌파에게 분노를 느끼는 러시아 대중들도 같은 말을 합니다. 케렌스키 암살 사건 이후 질서를 회복하는데 완전히 실패한 정부가 무너지는건 시간문제일 뿐입니다. [ROOT.GetLeader](은)는 정권을 잡은 이래로 계속해서 우파에게 경멸받아왔고, 자유주의자들에게 타협할 수 있는 인물로 받아들여 지기에는 너무도 사회주의자였으며, 행정부가 완전히 마비되었기 때문에 좌파를 결집하는 것 조차 힘든 상황입니다.\n\n[ROOT.GetLeader]의 실패한 정권이 무너진 이후 생디칼리슴 정권이 수립될 지도 모른다고 우려한 반동적인 장교들 몇명과 라브르 코르닐로프는 새벽녘에 움직이기 시작했습니다. 군대와 정보기관, 그리고 민간 기관 속에 만연하게 퍼진 배반으로 인해, 그들은 충성파가 저항을 시도하기도 전에 수많은 주요 정부 건물과 전략적 기반시설을 장악하는데 성공했습니다. 스몰렌스크부터 캄챠카까지 전 러시아에 송출한 방송에서 코르닐로프는 무정부의 시대가 끝났고 군대가 빨갱이들로부터 러시아를 다시 한번 해방했다고 선언했습니다.\n\n정오가 되었고 임시정부는 이제 없어졌습니다. [ROOT.GetLeader](은)는 체포당했고 몇몇 주요 도시들의 방위군들이 유명한 좌파 정치인과 지지자들을 검거하기 시작했습니다. 수많은 러시아 보수주의자, 민족주의자 그리고 일부 자유주의자들까지 이런 상황에 환호하고 있지만, 다른 이들은 코르닐로프가 모든 정치적 개혁의 가능성을 잔인하게 파괴하는 모습을 공포에 질려 바라보았습니다. 코르닐로프가 여기서 어떤 행보를 보이든 간에, 러시아나 해외에서 이번 사태로 국가 혼란 상태가 끝나리라 믿는 이들은 아무도 없습니다.\n\n하지만 지금으로서 코르닐로프와 동료들은 러시아를 어떻게 통치할지 결정해야 합니다. 그가 통치력과 이런 시대에 필요한 강인한 정신력 양쪽에 자신이 있다고는 해도, 측근 조언자들은 러시아 사람들의 마음과 사고를 얻기 위해서는 상원을 부활시키고 선거를 발표해야 한다고 주장합니다. 그런 업무를 맡을 만한 최고의 후보는 반혁명의 열렬한 지지자이자 러시아에서 가장 영향력 있는 우파 정치인 중 한 명인 드미트리 로마노프입니다."
 russia.1918.a:0 "우리는 폭군이 아니다. 상원을 복원하자!"
 russia.1918.b:0 "볼셰비즘을 물리치기 위해선 강력한 힘이 필요하다. 군정을 유지하자!"
+
+russia.1920.t:0 "Russian Exiles Depart For Moscow"
+russia.1920.d:0 "When the working men of Britain rose up against the tyranny of the upper class in 1925, many generals of the failed Soviets in Russia offered their services to our fledging rebels. Since the revolution they had pledged their allegience to Britian and trained our own officers in exchange for safe harbour and to work towards the international cause. But today, Russia calls once more and they now depart to the battlefields of their homelands. After emotional farewells, the exiles have departed for Russia with the blessing and best regards of the whole TUC."
+russia.1920.a:0 "Godpseed gentleman."
+
+russia.1921.t:0 "Exiles Arrive From Britain"
+russia.1921.d:0 "When the British Revolution broke out in 1925, many Bolshevik officers offered their services to the British and since then had resided in the country serving and training the Republican Army. But with our own civil war in full swing, they have returned once more and are ready to help in the fight for a red Russia."
+russia.1921.a:0 "The revolution fights on."
 
 russia.1945.t:0 "러시아 해군의 반란"
 russia.1945.d:0 "제2차 러시아 내전의 발발이 러시아 해군을 분열시켰습니다. 그들 중 몇몇은 새 소비에트 정부에 충성을 맹세했습니다."
@@ -1428,6 +1427,8 @@ rusfor.17.d:0 "The resurgent Russian state has begun to eye the Don-Kuban Union 
 rusfor.17.a:0 "Russia will take Kuban if we don't. Accept it."
 rusfor.17.b:0 "No deals with the Russians."
 
+RUS_ukraine_will_join_war:0 "We shall join Russia in any offensive wars against Don-Kuban."
+
 rusfor.18.t:0 "The Ukrainians Accept"
 rusfor.18.d:0 "The Ukrainian government in Kiev has accepted, and will endorse our push into the Don-Kuban Union. Surrounded from all sides by hostile powers, Krasnov's regime has been completely isolated, and even if someone like Germany wanted to support him, they would have no means of ensuring its independence."
 rusfor.18.a:0 "Tomorrow in Rostov!"
@@ -1597,11 +1598,14 @@ rusfor.1231.t:0 "카렐리야 할양"
 rusfor.1231.d:0 "[From.GetNameDefCap] has agreed to transfer the larger part of Karelia in return for monetary and material compensation as well as the guarantee of the security of their new borders!"
 rusfor.1231.a:0 "러시아 외교의 또 다른 승리다!"
 
-rusfor.1232.t:0 "패배하는 우리!"
+rusfor.1232.t.defeat:0 "우리는 패배했다!"
+rusfor.1232.t.victory:0 "러시아가 패배했다!"
 rusfor.1232.d.defeat:0 "The armed forces of the Russian state have inflicted a series of great defeats upon us, and they encroach further upon our lands by the day. We must end this war before they manage to overrun our entire homeland."
 rusfor.1232.d.victory:0 "We have successfully routed the armed forces of the Russian state and inflicted a series of great defeats upon them. This is an opportunity to offer them peace in exchange for Karelia."
 rusfor.1232.a:0 "평화협정을 제안하라!"
-rusfor.1232.b:0 "아직 이길 수 있다!"
+rusfor.1232.b:0 "이 전쟁을 끝낼 때다."
+rusfor.1232.c:0 "아직 이길 수 있다!"
+rusfor.1232.d:0 "우리가 모스크바에 도달하기 전까진 평화란 없다!"
 
 rusfor.1233.t:0 "핀란드와의 평화협정?"
 rusfor.1233.d.victory:0 "카렐리야 재정복으로 핀란드 정부는 양국간의 평화협정을 제안하면서 우리의 카렐리야 영유권을 인정하겠다고 전해왔습니다. 어떻게 할까요?"

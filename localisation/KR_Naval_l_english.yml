@@ -1,12 +1,5 @@
 ﻿l_english:
 
-### Ship Namelist ###
-NAME_THEME_ISLANDS:0 "섬"
-NAME_THEME_ROYAL_BARGE:0 "왕실 요트"
-NAME_THEME_ROYAL_HOUSES:0 "왕가 & 귀족"
-NAME_THEME_MOUNTAINS:0 "산"
-NAME_THEME_INSPIRATIONAL:0 "영감적"
-
 ### Folders ###
 escort_ships_folder:0 "함선 설계"
 escort_ships_folder_desc:0 "해군은 모든 국가에서 중요합니다."

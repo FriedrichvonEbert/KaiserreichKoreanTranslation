@@ -169,7 +169,7 @@ kumul.11.d:0 "한족 침략자들에 대한 우리의 지속적인 지하드 덕
 kumul.11.a:0 "노인이 우리가 필요한 것을 찾기를."
 
 kumul.12.t:0 "시의 적절한 접선자"
-kumul.12.d:0 "율바르스 칸이 진영의 막사들 중 의심의 여지없이 가장 크게 보이는 마중잉의 텐트 안으로 들어서자 그는 아편의 악취를 맡게 되었습니다. 그것이 그를 거의 쫒아낼뻔 했지만, 그는 신이 바라시는 막중한 임무에서 도망칠 수는 없었습니다. 악취의 영향에도 천막 중앙에 있는 마중잉으로 보이는 사람에게 다가갔습니다.\n\n '쿠물의 호랑이가 이곳까지 나를 먹이감으로 삼기위해 왔소?' 마중잉은 껄껄 웃었습니다.\n\n '나는 간쑤의 도살자의 힘을 구하는 노인에 지나지 않소.'\n\n 각각 서로의 의도를 알고 있었기 때문에 격식은 차리지 않았습니다. 이번 방문은 깜짝 놀랄 만한 이벤트로 계획되었지만, 사실은 이전 몇 주 동안 많은 서신 왕래가 있어왔습니다. 마중잉은 국가는 없지만 군대를 가지고 있고, 율바스칸은 군대가 없지만 국가를 가지고 있습니다. 모든 준비가 잘되어 있는 것으로 보이자 마중잉은 재빨리 군대를 이끌고 출발했고, 율바르스도 그 뒤를 따랐습니다. 도살자인 그가 이 죽음의 전조 그 자체를 어찌 지나칠 수 있었겠습니까?"
+kumul.12.d:0 "율바르스 칸이 진영의 막사들 중 의심의 여지없이 가장 크게 보이는 마중잉의 텐트 안으로 들어서자 그는 아편의 악취를 맡게 되었습니다. 그것이 그를 거의 쫒아낼뻔 했지만, 그는 신이 바라시는 막중한 임무에서 도망칠 수는 없었습니다. 악취의 영향에도 천막 중앙에 있는 마중잉으로 보이는 사람에게 다가갔습니다.\n\n '쿠물의 호랑이가 이곳까지 나를 먹이감으로 삼기위해 왔소?' 마중잉은 껄껄 웃었습니다.\n\n '나는 간쑤의 도살자의 힘을 구하는 노인에 지나지 않소.'\n\n 각각 서로의 의도를 알고 있었기 때문에 격식은 차리지 않았습니다. 이번 방문은 깜짝 놀랄 만한 이벤트로 계획되었지만, 사실은 이전 몇 주 동안 많은 서신 왕래가 있어왔습니다. 마중잉은 국가는 없지만 군대를 가지고 있고, 율바르스칸은 군대가 없지만 국가를 가지고 있습니다. 모든 준비가 잘되어 있는 것으로 보이자 마중잉은 재빨리 군대를 이끌고 출발했고, 율바르스도 그 뒤를 따랐습니다. 도살자인 그가 이 죽음의 전조 그 자체를 어찌 지나칠 수 있었겠습니까?"
 kumul.12.a:0 "위태로운 동맹이군…"
 
 kumul.13.t:0 "죽음의 전조"
@@ -402,10 +402,10 @@ TAN_increased_constitutionalism:0 "입헌주의의 증가"
 TAN_increased_constitutionalism_desc:0 "중국 남부와 동부를 떠도는 광범위한 정치의 입헌주의가 쿠물까지 도달했습니다. 최소한, 그것들은 현대적인 방법으로 미래의 법을 쓰는 기초가 될 수 있습니다."
 
 TAN_working_advisory:0 "두명의 고문"
-TAN_working_advisory_desc:0 "두명의 고문인 율바스칸과 호자 니야즈는 나스르에게 그의 영지를 보호하라고 압박을 가해왔습니다. 우선 급진세력을 쿠물내에 명기하고 견제해야합니다. 혹시 모르는 일이니까요."
+TAN_working_advisory_desc:0 "두명의 고문인 율바르스칸과 호자 니야즈는 나스르에게 그의 영지를 보호하라고 압박을 가해왔습니다. 우선 급진세력을 쿠물내에 명기하고 견제해야합니다. 혹시 모르는 일이니까요."
 
 TAN_opening_reform:0 "권력 조정"
-TAN_opening_reform_desc:0 "마스쿠드 샤는 그의 변덕에 따라 그들의 역할을 수행하게하면서 그의 고문들에게 잠정적인 애매한 역할만을 남겼습니다. 고문관들의 보다 구체적인 역할은 칸과 호자 니야즈가 쿠물을 보호할 수 있게 해줄것입니다."
+TAN_opening_reform_desc:0 "마스쿠드 샤는 그의 변덕에 따라 그들의 역할을 수행하게하면서 그의 고문들에게 잠정적인 애매한 역할만을 남겼습니다. 고문관들의 보다 구체적인 역할은 율바르스칸과 호자 니야즈가 쿠물을 보호할 수 있게 해줄것입니다."
 
 TAN_niyaz_ideals:0 "니야즈의 아이디어"
 TAN_niyaz_ideals_desc:0 "호자 니야즈는 나스르의 아버지에 대한 반란이 실패했을 때, 그의 전사들이 이맘의 감독을 받고 매일 기도를 할 시간을 남겨두었을 때 더 잘싸웠다고 회상합니다. 이 정책 입안자 호자 니야즈는 쿠물의 수비스들을 노장의 정신으로 싸우게 만들 것입니다."
@@ -414,7 +414,7 @@ TAN_sideline_begs:0 "위구르 귀족회 배제"
 TAN_sideline_begs_desc:0 "쿠물의 21인 위구르 귀족회는 마스쿠드 샤의 고독한 모습과 술기운 때문에 동료 이슬람 교도들로부터 받은 소외감정의 부산물에 불과합니다. 고문관들은 베그스와 먼저 상의하지 않고 나스르와 만나는 것이 최선입니다."
 
 TAN_yulbars_doctrine:0 "율바르스 독트린"
-TAN_yulbars_doctrine_desc:0 "나스르의 할아버지 시절부터 칸국을 섬긴 율바르스 칸은 개혁을 위해 나서기에 충분한 경험을 갖추고 있습니다. 율바르스 칸은 병사들의 임금을 은에서 현물로 바꾸는 것은 더 신뢰하는 군인들이 생겨날 것이라고 믿습니다."
+TAN_yulbars_doctrine_desc:0 "나스르의 할아버지 시절부터 칸국을 섬긴 율바르스 칸은 개혁에 조언하는 것에 나서기에 충분한 경험을 갖추고 있습니다. 율바르스 칸은 병사들의 임금을 은에서 현물로 바꾸는 것은 더 신뢰하는 군인들이 생겨날 것이라고 믿습니다."
 
 TAN_lower_taxation:0 "세금 감면"
 TAN_lower_taxation_desc:0 "칸국은 마스쿠드의 가혹한 조세정책 떄문에 신해혁명 이후에도 여전히 정착민들은 끌어들이지 못하고 있습니다. 주택에 대한 세금을 낮추면 적어도 정착이 쉬워질 것입니다."
@@ -423,7 +423,7 @@ TAN_cavalry_horde:0 "쿠물 기병연대"
 TAN_cavalry_horde_desc:0 "고문관들은 회족 연대를 중심으로 임시 기병연대의 편성을 권고하고 있습니다. 고문관들은 이것이 나스르에게 가끔 쿠물에서 일어나는 소작료 반란을 신속하게 끝낼 수 있게 해줄 것이라고 주장합니다."
 
 TAN_strengthining_nasir:0 "칸의 권력을 유지"
-TAN_strengthining_nasir_desc:0 "고문관들은 나스르를 중국인들이 몰고오는 불확실성의 파도로부터 쿠물을 보호하는 자애로운 독재자라는 이미지를 투영합니다. 동시에 나스르를 티베트로부터 승리한 차가타이인같이 묘사합니다"
+TAN_strengthining_nasir_desc:0 "고문관들은 나스르를 중국인들이 몰고오는 불확실성의 파도로부터 쿠물을 보호할 자애로운 독재자라는 이미지를 투영합니다. 동시에 나스르를 티베트로부터 승리한 차가타이인같이 묘사합니다"
 
 TAN_maintaining_corvee:0 "부역제도 유지"
 TAN_maintaining_corvee_desc:0 "잔인하긴하지만, 고문관들은 범죄자들이 파지르가 되기 직전에 있다고 주장함으로서 이슬람법 밖에 있는 강제노동에 의한 처벌을 정당화했습니다. 이 일은 범죄를 저지르는데 사용될 그들의 정력을 소모시킬 것입니다."
@@ -537,7 +537,7 @@ TAN_reform_advisory:0 "자문단 개편"
 TAN_reform_advisory_desc:0 "The Khan has decided to show his gratitude to his two Advisors by restoring their prewar role."
 
 TAN_ensure_loyalty:0 "충성을 확인"
-TAN_ensure_loyalty_desc:0 "The Advisors promise that they have sufficient leverage in the cities to ensure the mullahs and radicals no following to oppose us. "
+TAN_ensure_loyalty_desc:0 "The Advisors promise that they have sufficient leverage in the cities to ensure the mullahs and radicals have no following to oppose us. "
 
 TAN_royal_guards:0 "왕실 근위대 창설"
 TAN_royal_guards_desc:0 "The Khan needs to be able to put down future insubordinate advisors or begs. This will be best achieved with a Royal Guard in Kumul, paid for and serving only the Khan."
@@ -576,19 +576,19 @@ TAN_keep_them_divided:0 "분리 유지"
 TAN_keep_them_divided_desc:0 "The ethnic segregation Masqud Shah promoted was actually benefitital to the survival of Kumul, and [TAN.GetLeader] will honor his ideals by preserving these laws."
 
 TAN_matters_of_state:0 "국가의 문제"
-TAN_matters_of_state_desc:0 "Years of incompetent and lazy foreign diplomacy may new be overturned. Matters of state and external policy may finally be unified under Hoja-Niyaz."
+TAN_matters_of_state_desc:0 "Years of incompetent and lazy foreign diplomacy may now be overturned. Matters of state and external policy may finally be unified under Hoja-Niyaz."
 
 TAN_cast_off_ideology:0 "이데올로기를 벗어던지다"
 TAN_cast_off_ideology_desc:0 "Though the would-be leaders of Central Asia command their people with ideology, at it's root it is the same message. To respond, we are willing to ally with any power in the region that guarentees a greater autonomy than Xinjiang gave us."
 
 TAN_hojas_republic:0 "호자의 공화국"
-TAN_hojas_republic_desc:0 "When Hoja-Niyaz fought against Masqud Shah, he didn't know what he was fighting for. With agre brings wisdom, and now [TAN.GetLeader] has realized that, given absolute power, he should serve as president to a Republic. "
+TAN_hojas_republic_desc:0 "When Hoja-Niyaz fought against Masqud Shah, he didn't know what he was fighting for. With age comes wisdom, and now [TAN.GetLeader] has realized that, given absolute power, he should serve as president to a Republic. "
 
 TAN_flexible_diplomacy:0 "유연한 외교"
 TAN_flexible_diplomacy_desc:0 "The foreign office in Kumul has been told to make no promises and no obligations to our neighbors. Keeping a flexible policy will enable us to control our alligence, and ultimately our destiny."
 
 TAN_let_them_pick_us:0 "우리의 손을 들어주다"
-TAN_let_them_pick_us_desc:0 "The foreign office has finally been conditioned towards affective indecision, and Hoja-Niyaz is now able to properly court the factions of China on his terms."
+TAN_let_them_pick_us_desc:0 "The foreign office has finally been conditioned towards effective indecision, and Hoja-Niyaz is now able to properly court the factions of China on his terms."
 
 TAN_fan_yaonan:0 "정부 관료"
 TAN_fan_yaonan_desc:0 "After escaping death, Fan Yaonan has maneuvered himself into a second once-in-a-lifetime opportunity as Governor of Xinjiang in Kumul."
@@ -600,10 +600,10 @@ TAN_request_administrators:0 "관료의 요구"
 TAN_request_administrators_desc:0 "Fan Yaonan is tapping into his legitimate powers as Governor to hire new administrators who passed the Civil Serivce Examination."
 
 TAN_safe_investment:0 "안전한 투자"
-TAN_safe_investment_desc:0 "The wealth that the corrupt Governors hoarded can now be invested properly into Xinjiang's economy. This will enable more people to reap short term benefit from our taxation than just the Governor."
+TAN_safe_investment_desc:0 "The wealth that the corrupt Governors hoarded can now be invested properly into Xinjiang's economy. This will enable more people to reap short term benefits from our taxation than just the Governor."
 
 TAN_open_the_gates:0 "문호 개방"
-TAN_open_the_gates_desc:0 "The western Gate is finally open again. Fan Yaonan is very aware of his responsibility to the people of Xinjiang to preserve the peace between Han, Hui, and Uyghur."
+TAN_open_the_gates_desc:0 "The western gate is finally open again. Fan Yaonan is very aware of his responsibility to the people of Xinjiang to preserve the peace between Han, Hui, and Uyghur."
 
 TAN_common_cause:0 "공통적인 문제"
 TAN_common_cause_desc:0 "The common cause of all of the races of Xinjiang is prosperity. From the miners of Khotan to the hunters of Duzingaria. A common currency. defense, and competing with common foes like Mongolia can unite us all."
@@ -621,7 +621,7 @@ TAN_punish_dissent:0 "반대 척결"
 TAN_punish_dissent_desc:0 "Modern autocracies need to recognize and intercept radical movements before they can build up steam. This is why Ma Zhongying has decided to rescind many of the pardons he promised to give to surrendering commanders."
 
 TAN_slash_and_burn:0 "학살과 초토화"
-TAN_slash_and_burn_desc:0 "The bandits of Duzingaria rely on the weakness of the people and their food stores. We cannot instill such Chinese values of resistance into them, so we should instead force them out and starve out our enemies."
+TAN_slash_and_burn_desc:0 "The bandits of Dzungaria rely on the weakness of the people and their food stores. We cannot instil such Chinese values of resistance into them, so we should instead force them out and starve out our enemies."
 
 TAN_army_with_state:0 "국가를 장악한 군대"
 TAN_army_with_state_desc:0 "The army of Ma Zhongying is paramount to a modern autocratic state. They should recieve top priority in taxation and quartering of officials."
@@ -630,7 +630,7 @@ TAN_traitor_kin:0 "친족 반역자"
 TAN_traitor_kin_desc:0 "The greatest threat to Hami is in the claims the Ma family makes against it. Their memory of [TAN.GetLeader] will lead to our diplomatic isolation if we do not strike out against them."
 
 TAN_mongol_subservience:0 "몽골을 굴종시키다"
-TAN_mongol_subservience_desc:0 "We cannot forget the Mongols that preyed on Duzingaria during our civil war. The Mongol Government is responsible for their presence and must pay restitution for their crimes."
+TAN_mongol_subservience_desc:0 "We cannot forget the Mongols that preyed on Dzungaria during our civil war. The Mongol Government is responsible for their presence and must pay restitution for their crimes."
 
 TAN_punish_tibet:0 "티베트 응징"
 TAN_punish_tibet_desc:0 "The Tibetans are the root cause of Hami's woes. Their Buddhist piety pollutes our repuation with the Indians, and their memory of Ma Zhongying's family means they will certainly seek revenge someday."

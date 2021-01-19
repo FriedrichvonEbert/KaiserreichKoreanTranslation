@@ -445,7 +445,7 @@ ROM_CZC_centralized:0 "Codreanu's power is secured."
 
 ROM_secure_tt:0 "§GCodreanu§! has the most influence."
 ROM_appoint_OG_tt:0 "§GOld Guard§! has the most influence."
-ROM_appoint_CML_tt:0 "§GLegionary Worker's Corps§! has the most influence."
+ROM_appoint_CML_tt:0 "§GLegionary Worker Corps§! has the most influence."
 ROM_appoint_CNTZ_tt:0 "§GThe Radicals§! has the most influence."
 
 ROM_legionary_stability_mission:0 "Legion Without Purpose"
@@ -476,7 +476,7 @@ ROM_IG_CZC_tt:0 "코드레아누가 군단의 §G통제력을 강화합니다§!
 ROM_IG_OG_tt:0 "The Old Guard §Rgains§! power."
 ROM_IG_OG3_tt:0 "The Old Guard §Rgreatly gains§! power."
 ROM_IG_CML_tt:0 "군단노동자군이 힘을 §R얻습니다§!."
-ROM_IG_CML3_tt:0 "Legionary Worker's Corps §Rgreatly gain§! power."
+ROM_IG_CML3_tt:0 "Legionary Worker Corps §Rgreatly gain§! power."
 ROM_IG_CNTZ_tt:0 "급진파가 힘을 §R얻습니다§!."
 ROM_IG_CNTZ3_tt:0 "The Radicals §Rgreatly gain§! power."
 ROM_IG_ALL_tt:0 "Codreanu's grip over the Legion §Rweakens.§!"
@@ -674,7 +674,7 @@ ROM_refine_the_refineries:0 "정유소 정제"
 ROM_refine_the_refineries_desc:0 "플로이에슈티 유전은 유럽에서 가장 풍부한 유전으로 알려져 있습니다. 하지만, 현재의 정유시설은 그 잠재력의 극히 일부에 불과합니다. 국가의 지원이 있으면 석유 산업을 더욱 확장하고 그 보상을 얻을 수 있습니다."
 
 ROM_assess_the_military:0 "군대 평가"
-ROM_assess_the_military_desc:0 "철위대가 집권한 이후 우리는 이미 징병제 도입을 통해 군대의 크기를 45000명으로 제한한 부쿠레슈티 조약을 위반했습니다. 이제 우리는 앞으로 일어날 분쟁에서 반드시 승리할 수 있도록 군대를 더 확충해야 합니다."
+ROM_assess_the_military_desc:0 "철위대가 집권한 이후 우리는 이미 징병제 도입을 통해 조약을 위반했습니다. 이제 우리는 앞으로 일어날 분쟁에서 반드시 승리할 수 있도록 군대를 더 확충해야 합니다."
 ROM_weapon_contracts:0 "무기 계약"
 ROM_weapon_contracts_desc:0 "루마니아가 미래의 전쟁에서 성공하려면 우리의 산업이 군대를 위한 충분한 장비를 생산할 준비가 되어 있는지를 확인해야 합니다."
 
@@ -707,7 +707,7 @@ ROM_offense_focus_desc:0 "Speed is everything. It means we can strike the enemy 
 ROM_mountain_hunters:0 "Carpathian Hunters"
 ROM_mountain_hunters_desc:0 "The \"Vanatori\", or Hunters, were formed in 1917, modelled after the French Chasseurs Alpin in response to Austria-Hungary's elite Kaiserschützen. Mountain warfare will be inevitable in the future and our mountaineers must be ready to fight a deadly modern war in the Carpathians."
 ROM_academia_tehnica_militara:0 "Academia Tehnica Militara"
-ROM_academia_tehnica_militara_desc:0 "Military Technical Academy 'Ferdinand I' was founded and organized to train much-needed specialists and engineers to support the modernization of Romanian Armed Forces."
+ROM_academia_tehnica_militara_desc:0 "Military Technical Academy 'Ferdinand I' was founded and organized to train much-needed specialists and engineers to support the modernisation of Romanian Armed Forces."
 ROM_mountaineer_corps:0 "Expand Mountaineer Corps"
 ROM_mountaineer_corps_desc:0 "The \"Corpul de Munte\" must be further expanded in order to properly defend our great mountains from the enemy. We need more, better trained mountaineers to ensure our success in our campaign to liberate Romanians across the Carpathians."
 ROM_high-altitude_training:0 "High-Altitude Training"
@@ -1013,7 +1013,7 @@ romania.18.b:0 "그들은 아직 젊다. 차차 배워나갈 것이다."
 romania.19.t:0 "반 군단 프로파간다"
 romania.19.d:0 "최근 전국에 걸쳐서 코드레아누와 군단에 대한 선동을 일삼는 신문이 생겨나고 있습니다. 녹색 셔츠단이 그들을 폐쇄하려 했을 때 그들은 국왕의 보호를 받는 사람들의 명단이 적힌 종이를 발견했으며, 그들이 밀어붙이려 들 때는 왕의 무장 단체들의 매복에 당했습니다. 당분간은 루마니아 전역에 정부에 대항하는 프로파간다가 성공적으로 퍼질 것으로 보입니다."
 romania.19.a:0 "망할 놈의 왕 같으니라고!"
-#Legionary Workers Corps
+#Legionary Worker Corps
 romania.20.t:0 "군단노동자군"
 romania.20.d:0 "군단노동자군은 코드레아누가 생디칼리스트들과 그의 지지자들을 그의 초국가주의 운동의 공동 협력자들로 만드려는 시도의 결과입니다. 본질적으로 군단은 노동조합을 대체하려는 철위대와 유사한 엄격한 계층의 루마니아 노동자들의 연합체이다. 노동자와 사업주의 평등을 목표로 한다고는 주장하지만, 이는 더 많은 도시 노동자들을 대규모로 군단에 끌어들여 군단 운동을 지원하는 또 다른 준군사 단체로 동원하려는 시도입니다."
 romania.20.a:0 "붉은 연맹보다는 녹색 연합이 낫다!"
@@ -1226,12 +1226,15 @@ romania.55.a:0 "We will miss them."
 
 #Romania funds separatist cells (for HUN)
 romania.121.t:0 "Increase in Separatist Activity"
-romania.121.d:0 ""
+romania.121.d:0 "It has came into our attention that Romanian government has started discreetly supplying Transylvanian separatists movements with arms and funding. While the Legionary government officially denies this, it is no surprise: their propaganda has called for conquest of Transylvania for years now. Our border guards and the police are well-equipped to handle these recent events, but we should be wary nonetheless. The madmen behind the Carpathians are surely plotting for our demise."
 romania.121.a:0 "We must keep an eye on this."
+ROM_HUN_transylvanian_resistance_tooltip:0 "§RResistance is enabled in Transylvania.§!"
+
 #Romania smuggles arms (for HUN)
-romania.122.t:0 "Growth in Arms Smuggling"
-romania.122.d:0 ""
+romania.122.t:0 "Arms Smuggling in Transylvania"
+romania.122.d:0 "We have captured a shipment of old Romanian rifles, smuggled into the country through distant Carpathian passes. Even though we have tightened the border controls, some shipments are bound to get through due to the disloyalty of the Transylvanian population. There's already numerous separatists active in the region, organizing what can only be an armed revolt."
 romania.122.a:0 "Crack down on these criminals!"
+
 #Romanian meddling in Transylvania (for HUN)
 romania.56.t:0 "Unrest in Transylvania"
 romania.56.d:0 "For several decades, the Romanian population of eastern Hungary has been unhappy with our rule. As the principalities of Wallachia and Moldavia united and secured their place as an independent state in the Balkans, many Transylvanians believe that their region is destined to be united with their brethren across the Carpathians regardless of our just, ancient historical claims over the region. During the Weltkrieg, Romania even attempted to take Transylvania by force, taking advantage of our weakness as we fought off the endless Russian hordes. Their defeat in the war has done little to weaken Romanian nationalism in the region.\n\nDespite the restrictions of the Treaty of Bucharest, the hostile regime in Bucharest has recently resumed propaganda efforts against us. Decrying our rule as tyrannical and oppressive, recent unrest in the cities of Arad, Kolozsvár and Nagyszeben have led to increased passive resistance against authorities. So far, the investigation has only found only ties with activists of the Romanian National Party (PNR), a legal party representing Romanian interests in Hungary, and not the hostile government in Bucharest. PNR leaders maintain that they wish to secure the autonomy of Transylvania and other Romanian-majority areas rather than separatism, claiming that they have no ties with the undemocratic regime in Bucharest."
@@ -1523,7 +1526,7 @@ romania.116.a:0 "[ROM_deal_refused_option]"
 
 ROM_deal_refused_option_RUS:0 "You can never trust Moscow, after all."
 ROM_deal_refused_option_NFA:0 "We looked up to you, imbeciles!"
-ROM_deal_refused_option_GRE:0 "That knife and my back hurts, Athens."
+ROM_deal_refused_option_GRE:0 "That knife in my back hurts, Athens."
 ROM_deal_refused_option_SER:0 "They will regret it when Austrian boots are back in Belgrade."
 
 #FROM asks for better terms
@@ -1789,7 +1792,7 @@ romania.183.b:0 "It's just liberal nonsense."
 romania.183.c:0 "Well... we already had women's organizations; it's just natural development."
 
 romania.184.t:0 "Women and the New Constitution"
-romania.184.d:0 "The road towards feminine emancipation in Romania has been long, with the movement especially picking up steam with the rampant, urban-driven modernization of the country in the antebellum and the nineteen-twenties, and in spite of its relatively recent spike in popularity it has grown very influential. So influential the King could not afford to simply ignore it any longer. Already somewhat mollified on the issue due to his appreciation of the fairer sex, the King's modernistic agenda and eye for opportunities spied a chance; granting women the right to vote in the Constitution would certainly increase his popularity and would increase Romania's standing in the world. And in his magnamity, he has granted the right to vote to women as well, enshrining it in his new Constitution, forever to stand as a monument of his generosity!"
+romania.184.d:0 "The road towards feminine emancipation in Romania has been long, with the movement especially picking up steam with the rampant, urban-driven modernisation of the country in the antebellum and the nineteen-twenties, and in spite of its relatively recent spike in popularity it has grown very influential. So influential the King could not afford to simply ignore it any longer. Already somewhat mollified on the issue due to his appreciation of the fairer sex, the King's modernistic agenda and eye for opportunities spied a chance; granting women the right to vote in the Constitution would certainly increase his popularity and would increase Romania's standing in the world. And in his magnamity, he has granted the right to vote to women as well, enshrining it in his new Constitution, forever to stand as a monument of his generosity!"
 romania.184.a:0 "Praise be to His Majesty King Carol, the Emancipator of Women!"
 
 romania.185.t:0 "Mota Releases a Book"

@@ -11,7 +11,15 @@ JAP_FNG_exploit:0 "경제적 착취"
 japan_research_name:0 "이화학연구소"
 japan_research_desc:0 "이화학연구소는 공영권 내의 식민지와 동맹국의 질적 향상을 꾀하는 과학기관입니다."
 
-### Tooltips ###
+### Naval Tooltips ###
+JAP_naval_investment:0 "£decision_icon_small New decisions to develop §YNaval building capacities§! of our allies will be unlocked."
+JAP_naval_prosperity_ships:0 "\n£decision_icon_small New decisions to develop the §YNaval Transport Capacities§! of our allies will be unlocked."
+JAP_naval_advisors:0 "£decision_icon_small New Decisions to develop the §YNaval Fighting Capacities§! of both us and our allies will be unlocked."
+JAP_naval_seize_docks:0 "£decision_icon_small New decisions to §YSeize Dockyards§! from our allies during wartime will be unlocked."
+JAP_invest_docks:0 "Has built dockyards in [From.GetNameDef]"
+JAP_not_send_advisor_last_180_days:0 "Not: We have already sent advisors to [From.GetNameDef] in the last six months."
+
+### Other Tooltips ###
 JAP_gain_claim_southern_islands:0 "§Y[JAP.GetNameDefCap]§!(은)는 §Y싱가포르§!, §Y[1020.GetName]§!, 공영권과 미합중국 소유가 아닌 모든 §Y태평양 제도§!에 영유권을 주장합니다.\n"
 can_blockade_kor:0 "우리는 반란군들을 봉쇄하기 위해 우리의 함대를 한반도에 전개하는 것을 고려해야 합니다."
 JAP_russia_trigger1:0 "당신은 괴뢰국이 되지는 않지만 러시아와 같은 세력에 속하게 됩니다."
@@ -24,8 +32,8 @@ HAW_resist_OOB_TOOLTIP:0 "§G우리는 군대를 동원하여 일본군에 대�
 KOR_pup_oob_tt:0 "§G우리는 새로운 보병과 민병대를 동원할 것입니다.§!\n"
 KOR_light_oob_tt:0 "§G우리는 새로운 보병과 기병 부대를 동원할 것입니다. 몇몇은 간단한 훈련을 마친 수준일 것입니다.§!\n"
 KOR_full_oob_tt:0 "§G우리는 새로운 보병과 기병 부대를 동원할 것입니다. 싸울 만반의 준비가 되어 있습니다.§!\n"
-JAP_offered_peace_and_I_want:0 "§G협상이 마무리되려면 2주정도 소요되겠지만, 우리는 일본의 평화협정을 받아들일 것입니다. 일본과 전쟁을 하고 있는 모든 사람들은 협상을 수락해야합니다...§!"
-JAP_offered_peace_and_I_hate_peace:0 "§R우리는 일본과의 평화를 거부할 것입니다. 이것은 우리뿐만 아니라 일본과의 전쟁 중인 모든 사람들의 평화를 가로막는 것입니다...§!"
+JAP_offered_peace_and_I_want:0 "§G우리는 일본의 평화협정을 받아들일 것입니다.§!"
+JAP_offered_peace_and_I_hate_peace:0 "§R우리는 일본과의 평화를 거부할 것이며, 어떠한 평화회담에도 참여하지 않을 것입니다.§!"
 
 JAP_agree_reconstruction_anqing_tt:0 "우리는 안경 군벌을 돕는데 동의합니다. 안경 군벌을 재건하기 위해 상당한 정치적, 경제적 자원이 투입될 것이고, 이로써 봉천 정부와 안경 군벌은 베이징으로 더 빨리 진출할 수 있을 것입니다.\n"
 JAP_disagree_anqing_strategy_tt:0 "우리는 여기엔 동의할 수 없습니다. 봉천 정부는 이제 다른 전략적 활로를 찾아봐야 할 것입니다.\n"
@@ -128,7 +136,7 @@ JAP_ally14_last:0 "§Y[?global.asian_economic_sphere^13.GetFlag][?global.asian_e
 JAP_ally15_last:0 "§Y[?global.asian_economic_sphere^14.GetFlag][?global.asian_economic_sphere^14.GetName]§!"
 JAP_ally_none:0 ""
 JAP_ally_no_sphere:0 "없음"
-JAP_not_invest_within_last_year:0 "지난 1년간 투자 대상이 되지 않음"
+JAP_invest_timer:0 "지난 1년간 투자 대상이 되지 않음"
 
 ### Ideas ###
 JAP_rising_sun_idea_1:0 "제국의 영광"
@@ -186,10 +194,8 @@ JAP_india_support:0 "일본의 자문단"
 JAP_trade_embargoed:0 "일본의 금수조치"
 
 ### Focuses - Foreign - Base ###
-JAP_rising_sun:0 "욱일"
-JAP_rising_sun_desc:0 "국내 정치가 어쨌던간에, 대일본 제국은 세계 무대에 당당히 서 있습니다. 일본군은 천황의 부름에 응할 준비가 되었으며, 우리 국민들은 일본의 영광을 위해서라면 기꺼이 모든 것을 희생할 것입니다. 현재 세계의 관심이 미국내전에 집중된 가운데, 우리는 어디로 나아가야 할까요?"
-JAP_fight_giants:0 "팔굉일우"
-JAP_fight_giants_desc:0 "'세계 무대에서 일본의 적절한 지위'란 오랫동안 군사학자들과 사상가들의 논쟁거리였지만, 모두가 동의하는 바 역시 있습니다. 천하는 한 지붕 아래 있어야 하지 않겠습니까?"
+JAP_rising_sun:0 "팔굉일우"
+JAP_rising_sun_desc:0 "'세계 무대에서 일본의 적절한 지위'란 오랫동안 군사학자들과 사상가들의 논쟁거리였지만, 모두가 동의하는 바 역시 있습니다. 천하는 한 지붕 아래 있어야 하지 않겠습니까?"
 
 ### Focuses - Nanshin-ron ###
 JAP_go_south:0 "남진론"
@@ -276,11 +282,20 @@ JAP_invest_in_sphere_member2:0 "[From.GetNameDef]에 투자 촉진"
 JAP_invest_in_sphere_member2_desc:0 "[From.GetNameDef]에 대한 투자를 시작해야 합니다. 이것은 그들과 더 쉽게 교역하게 해줄 뿐 아니라 일본의 자본을 상대국에 심어놓을 수도 있고, 결국 그들을 내부에서부터 잠식할 것입니다."
 JAP_invest_in_sphere_member3:0 "[From.GetNameDef]에 투자 촉진"
 JAP_invest_in_sphere_member3_desc:0 "[From.GetNameDef]에 대한 투자를 시작해야 합니다. 이것은 그들과 더 쉽게 교역하게 해줄 뿐 아니라 일본의 자본을 상대국에 심어놓을 수도 있고, 결국 그들을 내부에서부터 잠식할 것입니다."
+JAP_invest_in_sphere_member_docks:0 "Promote Naval Investment in [From.GetNameDef]"
+JAP_invest_in_sphere_member_docks_desc:0 "We should begin investment in [From.GetNameDef], which will not only give us easier access to their trade but will allow us to build a Japanese presence in the country and, eventually, take it over from the inside."
+JAP_invest_in_sphere_naval_advisors:0 "Send naval advisors to [From.GetNameDef]"
+JAP_invest_in_sphere_naval_advisors_desc:0 "We should send advisors to [From.GetNameDef], which will help with development of their naval base."
+JAP_invest_in_sphere_prosperity_ships:0 "Share prosperity ship plans with [From.GetNameDef]"
+JAP_invest_in_sphere_prosperity_ships_desc:0 "We should send "Prosperity" ship engineers to [From.GetNameDef], which will help with development of their naval transport base."
+JAP_invest_in_sphere_take_dockyards:0 "Take over [From.GetNameDef] dockyards"
+JAP_invest_in_sphere_take_dockyards_desc:0 "Our home production isn't able to cover needs of our navy, luckily we build dockyards all around our sphere according to our producing standarts, not it is time to use them."
 JAP_economic_sphere_takeover:0 "[From.GetNameDef] 장악"
 JAP_economic_sphere_takeover_desc:0 "[From.GetNameDef]에 대한 우리의 경제 침투력은 [Root.GetNameDef](을)를 완전히 지배할 정도까지 성장했습니다. [From.GetAdjective] 정부는 이미 우리의 꼭두각시입니다. 이제 남은 것은 독립할 수 있다는 그들의 환상을 체념하는 것 뿐입니다."
 JAP_co_prosperity_member_decisions:0 "일본의 공영권"
 JAP_co_prosperity_member_decisions_desc:0 "공영권은 [JAP.GetNameDef](이)가 주도하는 군사동맹이자 경제협력체이며, 특히 동아시아에 큰 영향력을 투사하고 있습니다. 일본인들은 스스로가 '약간' 제국주의자가 되어서라도 서구 제국주의자들의 침탈에 맞서 싸울 각오가 되었습니다."
 JAP_join_rikagaku_kenkyusho:0 "Join the Riken Research Group"
+JAP_request_nav_advisors:0 "Request Naval Advisors"
 JAP_withdraw_from_alliance:0 "군사동맹 탈퇴"
 JAP_withdraw_from_alliance_desc:0 "우리는 더 이상 [JAP.GetNameDef](와)과의 군사동맹이 필요하지 않습니다. 이제 끝낼 차례입니다."
 JAP_withdraw_from_sphere:0 "경제공영권 탈퇴"
@@ -345,8 +360,7 @@ harbin_chemical_research:0 "하얼빈 화학 연구소"
 changchun_industry_investment:0 "지린 공업 단지"
 
 ### Military ###
-JAP_ichigo_mission:0 "이치고 작전"
-JAP_ichigo_mission_desc:0 "The time has come for a campaign that will make or break the war effort; a decisive series of battles backed by the full might of the Imperial Japanese Army. There can no longer be any half-measures. Tennou Heika Banzai!"
+JAP_ichigo_tooltip:0 "Gains National Spirit §H$JAP_ichigo$§!, which grants\n   Attack bonus against §Hall Chinese countries§!: [?0.3|+=%1]\n   Defence bonus against §Hall Chinese countries§!: [?0.1|+=%1]"
 
 ### Events ###
 japfor.1.t:0 "만철의 역대 최고 수입 기록"
@@ -894,7 +908,6 @@ japfor.231.b:0 "필요 없다. 우리는 무조건 항복만을 요구한다!"
 
 japfor.232.t:0 "조건에 대한 우리의 대답"
 japfor.232.d:0 "다행히도 우리의 제안은 받아들여졌습니다. 많은 것을 잃었을지언정 일본은 죽지 않았습니다. 우리 시대에 어둠이 찾아왔지만, 천황 폐하 아래 단결합시다."
-japfor.232.nopeace:0 "우리의 제안은 거부되었습니다. 마침내 이 전쟁이 완전한 총력전으로 치달은 것입니다. 그들의 판단이 결과적으로 실수가 되기를 바랄 뿐입니다."
 japfor.232.a:0 "마침내 평화가 찾아왔군."
 japfor.232.b:0 "전쟁은 계속된다."
 
@@ -909,6 +922,10 @@ japfor.234.a:0 "이번에도 마찬가지일 것이다."
 japfor.235.t:0 "일본의 항복!"
 japfor.235.d:0 "사면초가에 빠지자, [JAP.GetNameDef](은)는 포트 아서에서 열린 2주 간의 협상 끝에 평화조약에 서명했습니다. 일본 본토는 침략에서 벗어났겠지만, [Root.GetNameDef](은)는 바람 앞의 등불이 되었습니다. 일본의 동맹들은 모두 쓰러졌고, 우리는 스스로 싸울 수 밖에 없습니다."
 japfor.235.a:0 "이보다는 강할 거라고 생각했는데..."
+
+japfor.237.t:0 "The Imperial Japanese Navy Seizes the Moment"
+japfor.237.d:0 "Due to the army's capitulation on the mainland, the IJN has been quick to assert its greatly increased relevance to the defense of the Home Islands. Army generals and their associates in the War Ministry have raised quite a fuss, but few disagree that the navy must stand guard as Japan rebuilds. It seems certain that they will receive a greater share of Japan's national resources than they might have previously."
+japfor.237.a:0 "The navy must become an impenetrable shield!"
 
 # Involving Anqing #
 
@@ -1031,6 +1048,42 @@ japfor.412.t:0 "일본 공영권 탈퇴"
 japfor.412.d:0 "[Root.GetFactionName]에 가입함에 따라 우리는 일본 경제공영권에서 탈퇴해야만 합니다."
 japfor.412.a:0 "그렇게 하자!"
 
+japfor.420.t:0 "Investors Build Dockyards"
+japfor.420.d:0 "The Japanese investors in [Root.GetNameDef] have been busy creating new dockyards - a measurable benefit from our participation in the Asian Co-Prosperity Sphere it seems."
+japfor.420.a:0 "Very nice!"
+
+japfor.421.t:0 "Japan Sends Naval Advisors"
+japfor.421.d:0 "As part of naval development program sponsored by Japanese Empire, group of Advisors came from Japan to aid us with our naval program. They are highly knowledgable in many aspects, so it is up to use to direct them to where would be most useful."
+japfor.421.a:0 "Direct them to assist our engineers."
+japfor.421.b:0 "We could use the help of their tactical expertise."
+japfor.421.c:0 "Some practical experience from training exercises would be best."
+
+japfor.422.t:0 "First Prosperity Ships"
+japfor.422.d:0 "The Japanese engineers which came to [Root.GetNameDef] have been busy teaching our dockyard workers how to build modern Japanese cargo ships, so called "Prosperity ships" - a measurable benefit from our participation in the Asian Co-Prosperity Sphere it seems."
+japfor.422.a:0 "Great news!"
+
+japfor.423.t:0 "Japan Wants Control of our Dockyards"
+japfor.423.d:0 "The Japanese army and naval official this morning officially demanded control of all dockyards built by their companies in our country. They are reasoning that during these hard wartimes, naval production must be unified under their command."
+japfor.423.a:0 "Very well."
+japfor.423.a:0 "Who do they think they are?"
+
+japfor.424.t:0 "Japan Returns Dockyards to Us"
+japfor.424.d:0 "As our common threat is no more there is no legal reason for Japan to have control over our dockyards any more and as such they have returned them to us."
+japfor.424.a:0 "A surprise to be sure, but a welcome one."
+
+japfor.425.t:0 "[From.GetNameDefCap] Asks for Naval Advisors"
+japfor.425.d:0 "This morning we received request from [From.GetNameDef] to send small number of our advisors to help in their naval development."
+japfor.425.a:0 "A worthy request."
+japfor.425.b:0 "Oh, I don't think so."
+
+japfor.426.t:0 "Japan Denies Our Request"
+japfor.426.d:0 "Sadly Japan has denied our request to send us naval advisors."
+japfor.426.a:0 "A shame."
+
+japfor.427.t:0 "[From.GetNameDefCap] Denies Control of Dockyards"
+japfor.427.d:0 "In a truly audacious move, we have been denied control of the very dockyards we worked to create. While it would be diplomatically ill-advised to react straight away, we will not forget this betrayal. They will regret this."
+japfor.427.a:0 "So much for being allies."
+
 japfor.450.t:0 "일본의 [Root.GetNameDef] 무역제제!"
 japfor.450.d:0 "수개월 간 우리는 남태평양을 향한 일본의 야망과 공격적인 움직임을 걱정해 왔고, 이제 그것이 현실로 드러난 것 같습니다. 그들은 공영권 세력 내에 [Root.GetNameDef](와)과의 교역을 즉시 끊으라는 지시를 내렸으며, 우리더러 '아시아의 서구 제국주의와 식민주의의 전초기지'라고 합니다. 이것이 우리 경제에 미칠 수 있는 부담을 과소평가해서는 안 될 것입니다."
 japfor.450.a:0 "우리는 견뎌낼 수 있다."
@@ -1119,3 +1172,34 @@ japfeng.3.d:0 "이제 결정할 때가 왔습니다. 과연 우리가 오랫동�
 japfeng.3.a:0 "...당장 죽여버릴 터다."
 japfeng.3.b:0 "...울게 만들어 보이마."
 japfeng.3.c:0 "...울 때까지 기다리마."
+
+JAP_treaty_totalist:0 "일본령 조차지"
+JAP_treaty_totalist_ADJ:0 "일본"
+JAP_treaty_totalist_DEF:0 "일본령 조차지"
+JAP_treaty_radical_socialist:0 "일본령 조차지"
+JAP_treaty_radical_socialist_ADJ:0 "일본"
+JAP_treaty_radical_socialist_DEF:0 "일본령 조차지"
+JAP_treaty_syndicalist:0 "일본령 조차지"
+JAP_treaty_syndicalist_ADJ:0 "일본"
+JAP_treaty_syndicalist_DEF:0 "일본령 조차지"
+JAP_treaty_social_democrat:0 "일본령 조차지"
+JAP_treaty_social_democrat_ADJ:0 "일본"
+JAP_treaty_social_democrat_DEF:0 "일본령 조차지"
+JAP_treaty_social_liberal:0 "일본령 조차지"
+JAP_treaty_social_liberal_ADJ:0 "일본"
+JAP_treaty_social_liberal_DEF:0 "일본령 조차지"
+JAP_treaty_market_liberal:0 "일본령 조차지"
+JAP_treaty_market_liberal_ADJ:0 "일본"
+JAP_treaty_market_liberal_DEF:0 "일본령 조차지"
+JAP_treaty_social_conservative:0 "일본령 조차지"
+JAP_treaty_social_conservative_ADJ:0 "일본"
+JAP_treaty_social_conservative_DEF:0 "일본령 조차지"
+JAP_treaty_authoritarian_democrat:0 "일본령 조차지"
+JAP_treaty_authoritarian_democrat_ADJ:0 "일본"
+JAP_treaty_authoritarian_democrat_DEF:0 "일본령 조차지"
+JAP_treaty_paternal_autocrat:0 "일본령 조차지"
+JAP_treaty_paternal_autocrat_ADJ:0 "일본"
+JAP_remnant_paternal_autocrat_DEF:0 "일본령 조차지"
+JAP_remnant_national_populist:0 "일본령 조차지"
+JAP_remnant_national_populist_ADJ:0 "일본"
+JAP_remnant_national_populist_DEF:0 "일본령 조차지"
