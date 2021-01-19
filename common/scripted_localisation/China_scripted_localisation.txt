@@ -370,7 +370,7 @@ defined_text = {
 				state = 728 #Guangzhouwan
 			}
 		}
-		localization_key = "Guangdong Province"
+		localization_key = "광둥성"
 	}
 	text = {
 		trigger = {
@@ -383,7 +383,7 @@ defined_text = {
 				state = 1056 #Qinlian
 			}
 		}
-		localization_key = "Guangxi Province"
+		localization_key = "광시성"
 	}
 	text = {
 		trigger = {
@@ -395,7 +395,7 @@ defined_text = {
 				state = 1063 #Cangzhou
 			}
 		}
-		localization_key = "Zhili Province"
+		localization_key = "즈리성"
 	}
 	text = {
 		trigger = {
@@ -406,7 +406,7 @@ defined_text = {
 				state = 1060 #Hebei
 			}
 		}
-		localization_key = "Henan Province"
+		localization_key = "허난성"
 	}
 	text = {
 		trigger = {
@@ -416,7 +416,7 @@ defined_text = {
 				state = 1049 #Shihe
 			}
 		}
-		localization_key = "Hubei Province"
+		localization_key = "후베이성"
 	}
 	text = {
 		trigger = {
@@ -425,7 +425,7 @@ defined_text = {
 				state = 1013 #Chenyuan
 			}
 		}
-		localization_key = "Hunan Province"
+		localization_key = "후난성"
 	}
 	text = {
 		trigger = {
@@ -436,7 +436,7 @@ defined_text = {
 				state = 1075 #Nantong (concession state)
 			}
 		}
-		localization_key = "Jiangsu Province"
+		localization_key = "장쑤성"
 	}
 	text = {
 		trigger = {
@@ -446,7 +446,7 @@ defined_text = {
 				state = 1045 #Xuyang
 			}
 		}
-		localization_key = "Jiangxi Province"
+		localization_key = "장시성"
 	}
 	text = {
 		trigger = {
@@ -455,7 +455,7 @@ defined_text = {
 				state = 799 #Guanzhong
 			}
 		}
-		localization_key = "Shaanxi Province"
+		localization_key = "산시(섬서)성"
 	}
 	text = {
 		trigger = {
@@ -465,7 +465,7 @@ defined_text = {
 				state = 1072 #Central Shanxi
 			}
 		}
-		localization_key = "Shanxi Province"
+		localization_key = "산시(산서)성"
 	}
 	text = {
 		trigger = {
@@ -479,7 +479,7 @@ defined_text = {
 				state = 996 #Weihaiwei
 			}
 		}
-		localization_key = "Shandong Province"
+		localization_key = "산둥성"
 	}
 	text = {
 		trigger = {
@@ -489,7 +489,7 @@ defined_text = {
 				state = 1050
 			}
 		}
-		localization_key = "Anhui Province"
+		localization_key = "안후이성"
 	}
 	text = {
 		trigger = {
@@ -503,7 +503,7 @@ defined_text = {
 				state = 746 #Ningbo
 			}
 		}
-		localization_key = "Zhejiang Province"
+		localization_key = "저장성"
 	}
 	text = {
 		trigger = {
@@ -516,7 +516,7 @@ defined_text = {
 				state = 747 #Fuzhou
 			}
 		}
-		localization_key = "Fujian Province"
+		localization_key = "푸젠성"
 	}
 	text = {
 		trigger = {
@@ -528,7 +528,7 @@ defined_text = {
 				state = 788 #Aba
 			}
 		}
-		localization_key = "Sichuan Province"
+		localization_key = "쓰촨성"
 	}
 	text = {
 		trigger = {
@@ -538,7 +538,7 @@ defined_text = {
 				state = 1052 #Zhenyuan
 			}
 		}
-		localization_key = "Guizhou Province"
+		localization_key = "구이저우성"
 	}
 	text = {
 		trigger = {
@@ -547,7 +547,7 @@ defined_text = {
 				state = 816 #Dali
 			}
 		}
-		localization_key = "Yunnan Province"
+		localization_key = "윈난성"
 	}
 	text = {
 		trigger = {
@@ -556,7 +556,7 @@ defined_text = {
 				state = 604 #Yushu
 			}
 		}
-		localization_key = "Qinghai Province"
+		localization_key = "칭하이성"
 	}
 	text = {
 		trigger = {
@@ -565,7 +565,7 @@ defined_text = {
 				state = 774 #Hexi Corridor
 			}
 		}
-		localization_key = "Gansu Province"
+		localization_key = "간쑤성"
 	}
 	text = {
 		trigger = {
@@ -573,7 +573,7 @@ defined_text = {
 				state = 348 #Ningxia
 			}
 		}
-		localization_key = "Ningxia Province"
+		localization_key = "닝샤성"
 	}
 	text = {
 		trigger = {
@@ -585,7 +585,7 @@ defined_text = {
 				state = 745 #Kwantung
 			}
 		}
-		localization_key = "Fengtian Province"
+		localization_key = "펑톈성"
 	}
 	text = {
 		trigger = {
@@ -595,7 +595,7 @@ defined_text = {
 				state = 886 #Jilin
 			}
 		}
-		localization_key = "Jilin Province"
+		localization_key = "지린성"
 	}
 	text = {
 		trigger = {
@@ -605,13 +605,13 @@ defined_text = {
 				state = 884 #Xing'an
 			}
 		}
-		localization_key = "Heilongjiang Province"
+		localization_key = "헤이룽장성"
 	}
 	text = {
 		trigger = {
 			state = 524
 		}
-		localization_key = "Taiwan Province"
+		localization_key = "타이완성"
 	}
 	text = {
 		trigger = {
@@ -626,7 +626,7 @@ defined_text = {
 				state = 729 #Macao
 			}
 		}
-		localization_key = "Former Concession"
+		localization_key = "옛 조차지"
 	}
 	text = {
 		trigger = {
@@ -636,7 +636,7 @@ defined_text = {
 				state = 1084 #West Mongolia (non-integrable)
 			}
 		}
-		localization_key = "Mongolia"
+		localization_key = "몽골"
 	}
 	text = {
 		trigger = {
@@ -645,7 +645,7 @@ defined_text = {
 				state = 616 #Ordos
 			}
 		}
-		localization_key = "Suiyuan Province"
+		localization_key = "쑤이위안성"
 	}
 	text = {
 		trigger = {
@@ -653,7 +653,7 @@ defined_text = {
 				state = 610 #Jehol
 			}
 		}
-		localization_key = "Jehol Province"
+		localization_key = "러허성"
 	}
 	text = {
 		trigger = {
@@ -662,7 +662,7 @@ defined_text = {
 				state = 612 #Xilingol (only by MON)
 			}
 		}
-		localization_key = "Chahar Province"
+		localization_key = "차하얼성"
 	}
 	text = {
 		trigger = {
@@ -676,7 +676,7 @@ defined_text = {
 				state = 1085 #Taklamakan Desert
 			}
 		}
-		localization_key = "Xinjiang Province"
+		localization_key = "신장성"
 	}
 	text = {
 		trigger = {
@@ -688,7 +688,7 @@ defined_text = {
 				state = 1086 #Changtang (only by TIB)
 			}
 		}
-		localization_key = "Tibet"
+		localization_key = "티베트"
 	}
 }
 
