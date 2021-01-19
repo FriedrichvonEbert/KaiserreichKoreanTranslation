@@ -149,6 +149,10 @@ tram.105.t:0 "봉천의 수락"
 tram.105.d:0 "봉천 정부는 하얼빈에서 우리 화폐의 사용을 허용하기로 동의했습니다. 양국 간의 경제적 유대를 강화할 수 있기를 희망합니다."
 tram.105.a:0 "훌륭해."
 
+tram.106.t:0 "The Fading Sun"
+tram.106.d:0 "With the collapse of the Empire of the Rising Sun, we have lost an important source of support - but we are now free from their meddling, for good or ill."
+tram.106.a:0 "A mixed blessing?"
+
 tram.120.t:0 "지휘관의 2인자"
 tram.120.d:0 "콜차크 암살과 성공적인 쿠데타 이후 일주일이 지났습니다. 이제 정치적 분위기가 다소 진정되면서, 마침내 보이체코프스키의 군사 내각 통치를 도울 부관을 선택할 기회가 왔습니다. 이 자리에는 세 명의 후보가 있습니다. 현 정부 수장인 세묘노프 장군, 젊고 야심찬 페플라예프 장군, 그리고 보수주의적인 스타크 제독입니다. 비록 젊은 피가 우리에게 새로운 기회를 줄지는 모르지만, 보이체코프스키와 페플라예프, 스타크 사이에는 심각한 이념적 차이가 존재하며, 더 자유분방한 페플라예프와 스타크는 나중에 잠재적인 긴장을 초래할 것입니다."
 tram.120.a:0 "그레고리 세묘노프는 사무실에 머무를 것이다."
@@ -521,8 +525,8 @@ TRM_Victory_For_Democracy_desc:0 "우리는 마침내 자유를 얻었습니다.
 TRM_Scientific_Investments:0 "과학분야 투자"
 TRM_Scientific_Investments_desc:0 "오늘날 과학이 세계에 미치는 영향은 부정할 수 없으며, 우리는 우리나라의 위대한 기술력을 위해 과학자들에게 약간의 돈을 투자해야 합니다. 그들을 위한 적절한 근무 조건이 만들어짐에 따라, 그들의 노력은 훨씬 더 효과적일 것입니다."
 
-TRM_Subsidise_Industrial_Expansion:0 "산업 확장 보조금"
-TRM_Subsidise_Industrial_Expansion_desc:0 "추가적인 투자를 통해 우리는 시설을 확장하고 역동적인 산업을 만들 수 있을 것입니다. 또한 많은 새로운 일자리가 만들어지면서 국민의 안정적 고용과 일자리 보장효과도 볼 수 있습니다."
+TRM_Encourage_Free_Trade:0 "Encourage Free Trade"
+TRM_Encourage_Free_Trade_desc:0 "Now that Kolchak is gone, we need to open the economy and bring free trade here. In this way, foreign investors will bring in prosperity and our investors will show to other countries the power of [Root.GetNameDef]. With this, we will appear as the legitimate government of Russia both to the eyes of our people and to the international community."
 
 TRM_Create_A_Welfare_State:0 "복지국가 건설"
 TRM_Create_A_Welfare_State_desc:0 "진정한 민주주의는 우리 나라의 모든 국민이 최고의 대우를 받을 자격이 있다는 것을 의미합니다. 복지제도를 도입함으로써 우리 정부는 국민들로부터 많은 지지를 받을 것입니다. 행복한 인구는 더 열심히 일하고 덜 불평할 것입니다. 결과적으로 우리 모두에게 더 많은 번영을 가져다 줄 것입니다."
@@ -636,8 +640,8 @@ TRM_russian_expansion_desc:0 "페트로그라드 정부라 불리는 것들이 �
 TRM_relocate_capital_1:0 "이르쿠츠크에 임시 수도 설립"
 TRM_relocate_capital_1_desc:0 "우리는 이르쿠츠크에 임시 수도를 세울 것입니다"
 
-TRM_relocate_capital_2:0 "노보시비르스크에 임시 수도 이전"
-TRM_relocate_capital_2_desc:0 "우리는 노보시비르스크로 임시 수도를 이전할 것입니다"
+TRM_relocate_capital_2:0 "[653.GetName]에 임시 수도 이전"
+TRM_relocate_capital_2_desc:0 "우리는 [653.GetName]로 임시 수도를 이전할 것입니다"
 
 TRM_relocate_capital_3:0 "모스크바를 수도로 결정"
 TRM_relocate_capital_3_desc:0 "모스크바는 이제 우리나라의 영구적인 수도가 될 것입니다"

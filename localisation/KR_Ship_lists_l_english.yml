@@ -2,6 +2,13 @@
 
 ### Ship Lists ###
 
+### Universal ###
+NAME_THEME_ISLANDS:0 "섬"
+NAME_THEME_ROYAL_BARGE:0 "왕실 요트"
+NAME_THEME_ROYAL_HOUSES:0 "왕가 & 귀족"
+NAME_THEME_MOUNTAINS:0 "산"
+NAME_THEME_INSPIRATIONAL:0 "영감적"
+
 ### Danubian Empire ###
 
 NAME_ZERSTORER:0 "구축함 (Z)"
@@ -46,6 +53,14 @@ NAME_THEME_HAW_ISLANDS:0 "하와이의 섬"
 NAME_THEME_HAW_MOUNTAINS:0 "하와이의 산"
 NAME_THEME_HAW_CITIES:0 "하와이의 도시"
 
+### JAPAN ###
+NAME_THEME_RIVERS:0 "Rivers"
+NAME_THEME_MOUNTAINS:0 "Mountains"
+NAME_THEME_IJN_CARRIERS:0 "Aircraft Carriers"
+NAME_THEME_IJN_LIGHT_CARRIERS:0 "Light/Escort Aircraft Carriers"
+NAME_THEME_IJN_SUBMARINES:0 "Submarines"
+NAME_THEME_IJN_MINELAYERS:0 "Minelayers"
+
 ### SWI ###
 
 NAME_SWI_SM:0 "U-Boot"
@@ -65,3 +80,11 @@ NAME_THEME_ISLANDS_OTT:0 "Ottoman Islands"
 NAME_THEME_KAPUDAN_PASHA_OTT:0 "Ottoman Kapudan Pashas"
 NAME_THEME_INSPIRATIONAL_OTT:0 "Inspiritional"
 NAME_THEME_SULTANS_OTT:0 "Ottoman Sultans"
+
+### BEL ###
+NAME_BEL_SM:0 "Sous Marins"
+NAME_BEL_RIVERS:0 "Rivers in Latin"
+NAME_BEL_CITIES:0 "Cities in Latin"
+NAME_BEL_LEADERSHIP:0 "Various Leaders and Great Heroes"
+NAME_BEL_REGIONS:0 "Regions"
+NAME_BEL_CARRIERS:0 "Porte Avions"

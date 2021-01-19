@@ -652,7 +652,8 @@ swe.45.a:0 "우리는 라이히스팍트에 가입해야 한다!"
 swe.45.b:0 "새로운 도전에 직면했다고 하더라도, 중립을 지켜야 한다!"
 
 swe.46.t:0 "스웨덴이 라이히스팍트 가입을 신청하다"
-swe.46.d:0 "스웨덴은 인접국 노르웨이가 생디칼리슴에 빠져 파리와 런던 정부와 공공연히 우방 관계를 다져오는 것을 바라보고만 있었습니다. 스웨덴 정부는 중립적 전통을 존중하지만, 노르웨이의 위협은 무시하기에는 너무 커졌습니다. 이제 그들은 붉은 위협에 대항하는 동맹 체제의 선봉으로 우리와 함께하기를 원합니다. 그 대신에 스웨덴산 강철을 가져갈 수 있겠지요."
+swe.46.d.NOR:0 "스웨덴은 인접국 노르웨이가 생디칼리슴에 빠져 파리와 런던 정부와 공공연히 우방 관계를 다져오는 것을 바라보고만 있었습니다. 스웨덴 정부는 중립적 전통을 존중하지만, 노르웨이의 위협은 무시하기에는 너무 커졌습니다. 이제 그들은 붉은 위협에 대항하는 동맹 체제의 선봉으로 우리와 함께하기를 원합니다. 그 대신에 스웨덴산 강철을 가져갈 수 있겠지요."
+swe.46.d.other:0 "The government of Sweden has been eyeing the recent developments in Europe with concern. While the Swedish nation has long prided itself on a tradition of neutrality, the growing threat of revolutionary socialists and the resurgent Russian state have ultimately pushed Stockholm to reconsider its isolationist stance. In a bid to secure its future, Sweden has petitioned to enter the Reichspakt - bringing their steel reserves with them."
 swe.46.a:0 "우리의 싸움에 함께한 것을 환영하오 스웨덴 형제여!"
 swe.46.b:0 "그들을 지키는 것이 더 힘들거다."
 
