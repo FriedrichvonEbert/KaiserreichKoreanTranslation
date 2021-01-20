@@ -194,7 +194,7 @@ SZC_behind_manchu_lines_idea:0 "만주 전선 후방에서"
 SZC_legation_aid_tooltip:0 "더 많은 곳에서 식량을 수입해 올 수 있게 됩니다."
 SZC_Ask_Legations_For_Help_tooltip:0 "상하이의 공사관 의회에 지원을 요청할 겁니다."
 
-SZC_importing_grain:0 "No grain imports are currently under way"
+SZC_importing_grain:0 "현재 곡물 수입을 진행중이지 않습니다"
 SZC_extra_import_unlocked:0 "두 번째 수입로를 감당할 수 있을 정도로 충분한 자금이 남아있습니다"
 
 SZC_famine_PP_30_tooltip:0 "£convoy_texticon [?30|H0]"
