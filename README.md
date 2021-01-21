@@ -4,7 +4,7 @@
 - 따라서 누구든지 Github 가입 후 자유롭게 참여하실 수 있습니다! 
 - 번역팀 디스코드 주소 : https://discord.gg/JwxDFmRv6a
 ### [0.16 패치노트](https://www.reddit.com/r/Kaiserreich/comments/kywh2u/kaiserreich_016_hindsight_is_2020/)
-- 21.01.17. 기준 한국어 번역의 0.16 호환 작업이 진행중입니다.
+- 21.01.20. 기준 한국어 번역의 0.16 호환 작업이 완료되었습니다.
 ***
 
 ## 번역 방법 [(이 곳을 눌러 이동)](https://github.com/skullbe/Kaiserreich-Korean-Translation/wiki/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%A0%80%EC%9E%A5%EB%B2%95)
