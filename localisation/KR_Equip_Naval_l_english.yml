@@ -81,18 +81,18 @@ dn_hull_module_four:0 "진보된 드레드노트 선체 부품"
 dn_hull_module_four_desc:0 ""
 
 interwar_heavy_carrier_hull_nonmtg:0 "개장된 중항공모함 선체"
-interwar_heavy_carrier_hull_nonmtg_desc:0 "The first large aircraft carriers, these ships were built on hulls that were originally intended for capital warships but, for various reasons, converted and completed as carriers. Only a handful of navies built such ships, and their designs varied greatly; their aircraft capacities ranged from the low sixties to over a hundred. There were constants though, such as retained heavily armoured belts and other gun-warship features. Semi-experimental and unreliable, they were still incredibly formidable weapons, and laid the foundations for following generations of fleet carriers."
+interwar_heavy_carrier_hull_nonmtg_desc:0 "최초의 대형 항공모함인 이 함선들은 원래 주력 전함으로 건조하려 했지만, 여러 가지 이유로 인해 항공모함으로 개조되어 완성되었습니다. 소수 열강의 해군만이 이러한 선박을 건조했으며, 항공기 수용능력은 60대 초반부터 100대 이상까지 매우 다양한 설계안들이 존재했습니다. 그러나 두꺼운 수선장갑대나 일반적인 군함들이 가지는 특성을 가지고 있었습니다. 이 함선들은 실험적이면서도 신뢰도가 낮았지만, 그들은 여전히 엄청난 무기였고, 다음 세대의 항공모함들을 위한 기초를 다졌습니다."
 interwar_heavy_carrier_hull:0 "개장된 중항공모함 선체"
-interwar_heavy_carrier_hull_desc:0 "The first large aircraft carriers, these ships were built on hulls that were originally intended for capital warships but, for various reasons, converted and completed as carriers. Only a handful of navies built such ships, and their designs varied greatly; their aircraft capacities ranged from the low sixties to over a hundred. There were constants though, such as retained heavily armoured belts and other gun-warship features. Semi-experimental and unreliable, they were still incredibly formidable weapons, and laid the foundations for following generations of fleet carriers."
+interwar_heavy_carrier_hull_desc:0 "최초의 대형 항공모함인 이 함선들은 원래 주력 전함으로 건조하려 했지만, 여러 가지 이유로 인해 항공모함으로 개조되어 완성되었습니다. 소수 열강의 해군만이 이러한 선박을 건조했으며, 항공기 수용능력은 60대 초반부터 100대 이상까지 매우 다양한 설계안들이 존재했습니다. 그러나 두꺼운 수선장갑대나 일반적인 군함들이 가지는 특성을 가지고 있었습니다. 이 함선들은 실험적이면서도 신뢰도가 낮았지만, 그들은 여전히 엄청난 무기였고, 다음 세대의 항공모함들을 위한 기초를 다졌습니다."
 
 ship_hull_heavy_carrier_1:0 "개장된 중항공모함 선체" #Experimental
-ship_hull_heavy_carrier_1_desc:0 "The first large aircraft carriers, these ships were built on hulls that were originally intended for capital warships but, for various reasons, converted and completed as carriers. Only a handful of navies built such ships, and their designs varied greatly; their aircraft capacities ranged from the low sixties to over a hundred. There were constants though, such as retained heavily armoured belts and other gun-warship features. Semi-experimental and unreliable, they were still incredibly formidable weapons, and laid the foundations for following generations of fleet carriers."
+ship_hull_heavy_carrier_1_desc:0 "최초의 대형 항공모함인 이 함선들은 원래 주력 전함으로 건조하려 했지만, 여러 가지 이유로 인해 항공모함으로 개조되어 완성되었습니다. 소수 열강의 해군만이 이러한 선박을 건조했으며, 함재기 수용능력은 60대 초반부터 100대 이상까지 매우 다양한 설계안들이 존재했습니다. 그러나 두꺼운 수선장갑대나 일반적인 군함들이 가지는 특성을 가지고 있었습니다. 이 함선들은 실험적이면서도 신뢰도가 낮았지만, 그들은 여전히 엄청난 무기였고, 다음 세대의 항공모함들을 위한 기초를 다졌습니다."
 ship_hull_heavy_carrier_2:0 "개선된 중항공모함 선체" #Early
-ship_hull_heavy_carrier_2_desc:0 "The first fleet carriers designed entirely to be such, most of these ships were significantly smaller than their predecessors, but, due to being intentionally centered on the requirements of naval aviation, were also far more reliable in that role. With better anti-aircraft defenses and properly designed runways, they generally carried around sixty aircraft."
+ship_hull_heavy_carrier_2_desc:0 "처음부터 항공모함으로 설계한 최초의 항공모함은 대부분 이전의 설계안보다 상당히 작았지만, 해군의 항공기 운용 요구 사항을 중심으로 설계되었기 때문에 이전의 함선이 수행한 역할에서 훨씬 더 신뢰성이 높았습니다. 더 나은 대공 방어체계와 적절하게 설계된 갑판 활주로를 가진 이 설계안은 일반적으로 약 60대의 함재기를 운용했습니다."
 ship_hull_heavy_carrier_3:0 "진보된 중항공모함 선체" #Improved
-ship_hull_heavy_carrier_3_desc:0 "Continued development of fleet carrier design led to much larger models, with even higher capacities. Increased range and better design of internal systems allowed them to function more effectively as not only part of the fleet, but the centre of one. They retained the features of previous heavy carriers, large secondary batteries to engage enemy vessels at close range and a heavily armoured belt for protection. Most carried around seventy aircraft and with the new deck-edge elevators they were highly efficient at getting those craft into combat as quickly as possible."
+ship_hull_heavy_carrier_3_desc:0 "함대형 항공모함 설계의 지속적인 발전은 훨씬 더 큰 크기와 수용량으로 이어졌습니다. 작전 범위가 넓어지고 내부 시스템의 설계가 개선되었기 때문에, 함대 지원의 역할을 넘어서 기함의 역할을 더욱 효과적으로 수행할 수 있었습니다. 이 설계안은 이전의 항모들보다 더 무거웠고, 근거리에서 적 함정과 교전할 수 있는 대구경 부포, 그리고 함체 보호를 위해 두꺼운 수선장갑대를 유지했습니다. 대부분 70대의 함재기를 싣고 다녔으며, 새롭게 개발된 갑판 승강기를 이용해서 함재기들을 최대한 빨리 전투에 투입할 수 있었습니다."
 ship_hull_heavy_carrier_4:0 "현대 중항공모함 선체"
-ship_hull_heavy_carrier_4_desc:0 "The final pre-nuclear evolution of fleet carrier design, these ships approached the size of the first fleet carriers, while incorporating all of the design improvements made in the intervening years. Most had significant armour protection and withering AA firepower, while also being highly mechanically reliable. However, they had given up their large calibre secondary armament in exchange for dual purpose 100-127mm guns. Their general aircraft capacity was, on average, around eighty."
+ship_hull_heavy_carrier_4_desc:0 "원자력 이전 단계의 항공모함 설계안으로, 이 선박들은 초기 항공모함의 크기와 비슷할 정도로 커졌고, 이전까지 적용되었던 설계 개선 사항들이 통합되어 적용되었습니다. 대부분의 설계안들은 상당한 대함 보호와 강력한 대공 화력을 가졌고, 기계적으로도 매우 신뢰할 수 있었습니다. 하지만, 100 ~ 127mm 포를 양용포로 사용하는 대가로 이전의 대구경 부무장을 포기해야했습니다. 일반적으로 함재기 수용량은 평균 80대 정도였습니다."
 
 heavy_secondaries:0 "중부포"
 heavy_secondaries_desc:0 ""
@@ -282,10 +282,10 @@ NFA_ship_heavy_battery_1:0 "340mm/45 Mle 1912"
 
 ### Kingdom of Sweden (SWE) ###
 # Tech
-SWE_cruiser_gun_module_one:0 "Bofors 15.2cm 연장포 M03"
-SWE_cruiser_gun_module_two:0 "Bofors 15.2cm 연장포 M30"
-SWE_cruiser_gun_module_three:0 "Bofors 15.2cm 연장포 M42"
-SWE_cruiser_gun_module_four:0 "Bofors 15.2cm 연장포 Auto"
+SWE_cruiser_gun_module_one:0 "보포스 15.2cm 연장포 M03"
+SWE_cruiser_gun_module_two:0 "보포스 15.2cm 연장포 M30"
+SWE_cruiser_gun_module_three:0 "보포스 15.2cm 연장포 M42"
+SWE_cruiser_gun_module_four:0 "보포스 15.2cm 연장포 Auto"
 
 # Module
 SWE_ship_light_medium_battery_1:0 "15.2 cm/50 Bofors M03"
