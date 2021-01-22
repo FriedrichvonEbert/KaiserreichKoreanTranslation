@@ -24,7 +24,7 @@ worldnews.6.a:0 "만약 저들이 성공한다면..."
 worldnews.7.t:0 "다뉴브 위기"
 worldnews.7.d.pluralism:0 "오스트리아-헝가리의 1937년 대타협에서, 오스트리아인들은 트란스라이타니아의 소수민족에게도 자치를 부여하겠노라고 제국 내의 자치주들에게 약속했습니다. 그러나 헝가리인들이 헝가리의 해체와 특권 회수에 동의할 리 없었습니다. 이에 맞서 오스트리아인들은 헝가리를 점령하고 슬로바키아인, 트란실바니아인, 루테니아인을 무력으로 해방시킬 것을 선언했으며, 이미 오스트리아와 헝가리 국경에서 교전이 시작되었습니다. 오직 시간만이 옛 이중군주국의 운명을 알려줄 것입니다."
 worldnews.7.d.illyria:0 "오스트리아-헝가리의 1937년 대타협에서, 오스트리아 대표단은 10여년 전 새로이 만들어진 일리리아 왕국에 더해 크로아티아의 역사적인 왕국을 제국의 절반인 트란스라이타니아로 되돌려 주겠다고 헝가리 대표단에 약속했습니다. 헝가리인들은 곧 크로아티아-슬라보니아로 진입을 시도했으나, 국경에서 일리리아 군과 맞닥드리게 되었고, 헝가리인이 자신들의 영토로 들어가는 걸 거부했습니다. 헝가리와 일리리아 간의 충돌은 이제 새로운 이원론을 걱정하는, 구 자치국 문제에 갈등하여 갈라진 오스트리아-헝가리 이중제국의 두 주도국 사이의 전쟁이라는 형태로 번졌습니다. 그렇지만, 갈리치아-로도메리아는 이웃에게로 눈을 돌리고 있습니다..."
-worldnews.7.d.hungary:0 "오스트리아-헝가리의 1937년 대타협에서, 오스트리아 대표단은 10여년 전 새로이 만들어진 일리리아 왕국에 더해 크로아티아의 역사적인 왕국을 제국의 절반인 트란스라이타니아로 되돌려 주겠다고 헝가리 대표단에 약속했습니다. 곧 헝가리인들이 비엔나는 합의의 결과를 이행하라며 요구했지만, 제국 정부는 돌연 거부했습니다. 분노한 헝가리인들은 무력을 앞세우며 크로아티아-슬라보니아의 재탈환을 시도했으나, 일리리아군에 의해 저지되었습니다. 이제 오스트리아는 일리리아의 편으로 분쟁에 참여했으며, 헝가리의 '제국을 지배한다'는 망상을 끝내겠다고 맹세했습니다."
+worldnews.7.d.hungary:0 "오스트리아-헝가리의 1937년 대타협에서, 오스트리아 대표단은 10여년 전 새로이 만들어진 일리리아 왕국에 더해 크로아티아의 역사적인 왕국을 제국의 절반인 트란스라이타니아로 되돌려 주겠다고 헝가리 대표단에 약속했습니다. 곧 헝가리인들이 빈에서는 합의의 결과를 이행하라며 요구했지만, 제국 정부는 돌연 거부했습니다. 분노한 헝가리인들은 무력을 앞세우며 크로아티아-슬라보니아의 재탈환을 시도했으나, 일리리아군에 의해 저지되었습니다. 이제 오스트리아는 일리리아의 편으로 분쟁에 참여했으며, 헝가리의 '제국을 지배한다'는 망상을 끝내겠다고 맹세했습니다."
 worldnews.7.a:0 "중유럽의 안정이 위협받고 있다."
 worldnews.7.b:0 "제국주의의 모순은 자명하다."
 
@@ -33,7 +33,7 @@ worldnews.9.d:0 "온 세계의 사회주의 국가들과 정치적 운동들의 
 worldnews.9.a:0 "흥미로운 사건이군."
 
 worldnews.10.t:0 "오스트리아-헝가리 연방"
-worldnews.10.d:0 "For the past few decades, the Austro-Hungarian Empire has decentralized authority from Vienna and Budapest, most prominently with the creation of Illyria in 1927. Now that process has taken another great leap forward, with the creation of [AUS.GetNameDef]. The Monarchy has restructured its internal structures to be more representative, while institutionally bringing its lands closer together. With the replacement of a decentralized, squabbling Empire with a unified state, the balance of power in Europe has shifted against all enemies of the status quo and the Habsburgs."
+worldnews.10.d:0 "지난 수십 년간, 오스트리아-헝가리 제국은 빈과 부다페스트로부터 권한을 분산시켜왔고, 1927년에 일리리아가 세워질 때 가장 두드러졌습니다. 이제 그 과정은 [AUS.GetNameDef]의 탄생과 함께, 또 하나의 거대하고도 큰 진일보를 했습니다. 군주국은 그 내부 구조를 개혁하여 더욱 대표성을 띠게 하면서도, 제도적으로는 지방들이 더욱더 가깝고도 함께하도록 했습니다. 분권적이며 서로 티격태격 하기 바쁘던 제국이 통합된 국가로 교체되면서, 유럽 내 힘의 균형은 현상유지 정책과 합스부르크의 모든 적을 겨누며 움직였습니다."
 worldnews.10.a:0 "이것이 정말 변화를 일으킬 수 있을까?"
 worldnews.10.b:0 "그들의 보수적인 \"개혁\"은 혁명을 막을 수 없다!"
 
@@ -50,8 +50,8 @@ worldnews.13.d:0 "영국의 정치인이자 전직 해군성 장관인 윈스턴
 worldnews.13.a:0 "어린애 같은 발상이군."
 
 worldnews.14.t:0 "오스트리아-헝가리 이원론의 종말"
-worldnews.14.d.puppets:0 "After the defeat of Hungary, the governments of Galicia-Lodomeria, Bohemia and Illyria expected the Austrian promises to give the Hungarian minorities autonomy to be fulfilled. Instead, the Austrians renounced any decentralization, and consequently the autonomous Slavic states have revolted against the Austrians. Now, with all other parts of the Empire occupied by Austrian troops or in open revolt, the government in Vienna has announced a return to the Austrian Empire as it was before 1867. Most observers predict the revolts will be crushed, and the return of reaction to Central Europe."
-worldnews.14.d.nopuppets:0 "After the defeat of Illyria and Bohemia, the Austro-Hungarian Empire looked set to return to the status quo of 1920. Instead, the Austrians refused to let the Hungarians reclaim Croatia-Slavonia, despite all their promises. When the angered Hungarians attempted to take it by force once again, they were promptly invaded by the Landwehr, and were soon defeated. Now, with all other parts of the Empire occupied by Austrian troops, the government in Vienna has announced a return to the Austrian Empire as it was before 1867 - centralized under Vienna, committed to the status quo and reaction. Though some continue to predict the collapse of the Empire, order has been restored for now."
+worldnews.14.d.puppets:0 "헝가리의 패전 이후, 갈리치아-로도메리아, 보헤미아와 일리리아 정부는 오스트리아가 헝가리의 소수민족에 자치권을 주겠단 약속을 이행할 것이라 기대했습니다. 대신, 오스트리아는 어떠한 지방분권도 포기했으며, 그 결과로 슬라브계 자치국들은 오스트리아를 향해 반란을 일으켰습니다. 현재, 제국의 다른 모든 곳이 오스트리아의 군대에 점령되거나 공공연한 반란을 일으키면서, 빈 정부는 1867년 이전의 오스트리아 제국으로 회귀함을 선언했습니다. 대부분의 평자는 반란이 진압될 것이며, 이에 따라 중부 유럽에 반작용이 되돌아올 것으로 예측합니다."
+worldnews.14.d.nopuppets:0 "일리리아와 보헤미아의 패전으로, 오스트리아-헝가리 제국은 1920년의 현상유지 체제로 돌아갈 듯 보였습니다. 대신, 오스트리아는 헝가리의 크로아티아-슬로베니아 탈환을 어떤 약속에도 불구하고 거부했습니다. 분노한 헝가리인들이 또다시 무력으로 점령하려 들자, 곧바로 란트베어의 침공을 받았고, 그리고 곧 패배했습니다. 현재, 제국의 다른 모든 곳이 오스트리아의 군대에 점령되었고, 빈 정부는 1897년 이전의 오스트리아 제국으로 회귀함을 선언하면서 빈으로의 중앙집권화와 현상유지 및 반작용에 전념하고 있습니다. 일각에서는 제국의 붕괴를 지속적으로 예측하나, 지금 당장은 질서가 회복되었습니다."
 worldnews.14.a:0 "퇴보인가?"
 worldnews.14.b:0 "궁여지책 따위로 혁명을 저지할 수는 없다!"
 
@@ -146,7 +146,7 @@ worldnews.43.plc:0 "세계대전에서 러시아 제국이 몰락한 후, 독일
 worldnews.43.a:0 "얼마나 버티는지 보자."
 
 worldnews.50.t:0 "사막의 전쟁"
-worldnews.50.d:0 "Arab nationalism and Turkish imperialism have finally found themselves at odds as talks over the Sinai-Palestine issue have collapsed after Egypt marched its army through the Sinai desert. Nominally united until 1914, the two leading powers in the Middle East are now set on a course to decide the destiny of the Middle East. Even as the Egyptians can count on an array of allies in the other Arab states, many fear that it won't be enough as the military and economic capacity of the Turkish Empire for now still vastly outclasses that of its rival.\n\nForeign investors look to the conflict with fear as well as the oil reservoirs of the Middle East have become more important than ever with the collapse of authority in the United States."
+worldnews.50.d:0 "이집트가 군을 시나이 사막을 지나 진군시킨 이후 시나이-팔레스타인 문제를 둘러싼 대화가 결렬되며 아랍 민족주의와 터키의 제국주의가 끝내 삐걱거리기 시작했습니다. 1914년까진 명목상으로 단합했던 중동의 두 주도 세력은, 이제 중동의 운명을 결정하는 길에 들어섰습니다. 이집트는 다른 아랍 동맹국의 군부대 배치를 기대할 수 있음에도, 현재로선 터키 제국의 군사 및 경제적 역량이 그 적들을 훨씬 웃돌고 있어 충분치 않을 것이라 걱정합니다. 외국인 투자자들은 미국 내 권위가 붕괴한 현재로선 중동의 석유 저유고가 어느 때보다 중요해진 만큼, 두려움으로 충돌을 바라보고 있습니다."
 worldnews.50.a:0 "석유는 어떻게 하고?"
 
 worldnews.51.t:0 "새로운 국왕을 선출한 폴란드"
