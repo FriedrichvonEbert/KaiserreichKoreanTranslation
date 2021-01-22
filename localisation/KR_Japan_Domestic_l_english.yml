@@ -156,7 +156,7 @@ JAP_naval_buildup:0 "마루 3계획"
 JAP_nav_mass:0 "조립식 건조"
 JAP_nav_mass_planes:0 "조립식 항공기"
 JAP_nav_qual:0 "우수한 설계"
-JAP_long_dong:0 "산소어뢰" #Long Lance, 장창, 산소어뢰의 별명
+JAP_long_dong:0 "장창 어뢰" #Long Lance, 장창, 산소어뢰의 별명
 JAP_nav_cvplanes_idea:0 "함재기 향상"
 
 JAP_Imperial_Family_dead:0 "황실 처형"
@@ -171,8 +171,8 @@ JAP_country_unrest_desc:0 "군주제의 폐지로 일본 사회는 혼란에 빠
 JAP_model_colony:0 "모범 식민지"
 JAP_model_colony_2:0 "모범 식민지"
 
-JAP_korean_military_administration:0 "조선군정청"
-JAP_korean_military_administration_2:0 "조선군정청"
+JAP_korean_military_administration:0 "조선총독부"
+JAP_korean_military_administration_2:0 "조선총독부"
 
 ### Army Tooltips ###
 
@@ -409,14 +409,14 @@ JAP_MIL_naval_start:0 "마루 2계획의 결과"
 JAP_MIL_naval_start_desc:0 "우리는 육군에만 집중해서는 안 됩니다. 우리의 해군 역시 개혁이 필요합니다."
 
 ### Focuses - Military - Army Selection ###
-JAP_MIL_AIR:0 "Victory Through Combined Arms"
-JAP_MIL_AIR_desc:0 "Our army needs to be like a tsunami: it must crush our enemies with an unstoppable advance, and we will obtain this result by achieving cooperation between the army and the air force. If this reform will prove itself successful, we will be able to rain hell on our enemies."
-JAP_MIL_WILL:0 "Supremacy of Will"
-JAP_MIL_WILL_desc:0 "The Japanese people must seek to embody \"Yamato-Damashii\", the \"Spirit of Old Japan", as wars are won by tenacity and the willingness of the Japanese soldier to die for the Emperor and Kokutai. In 1905 the Imperial Army lost nearly one hundred thousand soldiers to the Russians in Manchuria, and yet claimed victory nonetheless. Once again his Imperial Majesty calls upon Japan's noble sons to fight!"
-JAP_MIL_MASS:0 "Numerical Supremacy"
-JAP_MIL_MASS_desc:0 "The Weltkrieg clearly showed us one thing: numbers win wars. Although our industrial capacity can’t match that of Germany, we can create cheaper equipment in order to match their numbers. Its quality might not be excellent, but in the end, having cheap equipment is better than having no equipment at all."
-JAP_MIL_TECH:0 "Supremacy of Mind"
-JAP_MIL_TECH_desc:0 "Traditionally our military has focused on winning wars through numbers or sheer determination, in reality Japan's greatest victories have come through being more advanced than her opponents. Nowadays however we cannot rely on buying western equipment first, so if we wish to retain our advantage over our enemies we mush embrace technological supremacy to win the wars of tomorrow."
+JAP_MIL_AIR:0 "합동 작전을 통한 승리"
+JAP_MIL_AIR_desc:0 "우리 군대는 쓰나미처럼 멈출수 없는 진격으로 적을 무찔러야 합니다. 우리는 육군과 공군의 협력을 통해 이를 이뤄낼 수 있을 것입니다. 이 개혁이 성공적으로 작동한다면 적들에게 지옥을 선사할 수 있겠지요."
+JAP_MIL_WILL:0 "의지의 우월성"
+JAP_MIL_WILL_desc:0 "일본인은 승전을 위해 끈기와 죽음을 두려워않는 의지, 즉 '야마토정신'을 구현해내야 할 의무가 있습니다. 1905년 제국군은 만주에서 러시아군에게 거의 10만명의 목숨을 잃었지만 그럼에도 불구하고 전쟁에서 이겼습니다. 다시 한 번 천황폐하께선 일본의 고귀한 아들들에게 그리 싸울 것을 요청하십니다!"
+JAP_MIL_MASS:0 "수적 우월성"
+JAP_MIL_MASS_desc:0 "세계전쟁은 우리에게 분명한 전훈을 남겼습니다. 전쟁은 숫자로 승리한다는 사실 말입니다. 우리의 산업능력은 독일의 적수가 못 되지만, 더 저렴한 장비를 만들어 그 숫자를 맞출 수 있습니다. 품질에서 밀릴 수는 있겠지만, 결국 아무것도 없는 것보다는 값싼 장비라도 갖고 있는것이 백배 나을 것입니다."
+JAP_MIL_TECH:0 "두뇌의 우월성"
+JAP_MIL_TECH_desc:0 "전통적으로 우리 군대는 숫자가 아니면 순수한 결의를 통해 전쟁에서 승리해왔지만, 실제로 일본의 가장 큰 승리는 적들보다 기술적으로 진보했을때에 성취할 수 있었습니다. 그러나 오늘날 우리는 서구 장비를 적들보다 먼저 수입하는데에 의존할 수는 없으므로, 적보다 우위를 유지하고 미래의 전쟁에서 승리하기 위해 기술적 노력을 집중해야 합니다."
 
 ### Focuses - Military - Army Selection ###
 JAP_MIL_Mobility:0 "[JapanGetFocusArmyMobilityTitle]"
@@ -441,17 +441,17 @@ JAP_MIL_bigger_planes:0 "[JapanGetFocusArmyBombersTitle]"
 JAP_MIL_bigger_planes_desc:0 "[JapanGetFocusArmyBombersDescription]"
 
 ### Focuses - Military - Army Selection - Descriptions ###
-JAP_army_mob_description_air:0 "The ‘Aerial Exterminating Action’, in which enemy aircraft are located and destroyed before they can even strike, will be formalized as a part of IJAAS doctrine. With the opposition burning in their own airfields, or ruined shortly after take off, our own supporting aircraft will have free reign of the air."
-JAP_army_mob_description_will:0 "To ensure victory we must have our soldiers press foward, past our enemies defences into the heart their operations. Achieving such a feat will rout the enemy in quick order and bring victory! Tennoheika Banzai!"
-JAP_army_mob_description_mass:0 "What we need now is speed, something faster than normal leg infantry. The high command is pushing for us to invest in trucks transporting troops. However, our industrial capacity is still limited, so in some cases we will need to improvise and adopt other methods. One method could be using bicycles, that will temporarily replace trucks until we will be able to fully mechanize our army."
-JAP_army_mob_description_tech:0 "Speed is crucial to winning modern battles, whether that comes in the form of redeployments or exploiting breakthroughs. We must foster the expansion of motorised IJA units in order to bring such advances to Japan."
-JAP_army_mob_description_default:0 "The cavalry charges of the Weltkrieg were probably the last. The truck is no longer just a transport tool and rapidly integrates to mobile warfare tactics. We must shake off outdated thinking and use motorisation to speed up our offensives and reinforcements."
+JAP_army_mob_description_air:0 "적군 항공기가 공격을 실행하기 전에 위치를 파악하고 격파하는 '항공섬멸전'이야말로 대일본제국 육군 항공대를 나타내는 것입니다. 적들이 자신의 비행장에서 불타거나 이륙 직후 고철덩어리로 변하게 만듬으로써 우리의 지상지원 항공기들이 자유롭에 하늘을 누비고 다닐 수 있게 될 것입니다."
+JAP_army_mob_description_will:0 "승리를 보장하기 위해 우리 병사들은 적들의 방어를 정면으로 뚫고 놈들의 지휘부까지 밀어붙일 수 있어야만 합니다. 그러한 위업을 달성하면 적들을 빠르게 패배시키고 승리를 얻을 수 있습니다! 천황폐하 만세!"
+JAP_army_mob_description_mass:0 "지금 우리에게 필요한 것은 사람의 다리보다 빠른 속도입니다. 대본영에서는 우리가 병력을 수송하는 트럭에 예산을 투자하도록 압박하고 있습니다. 그러나 우리의 산업 능력은 제한적이므로 가끔 임기응변책을 채용해야 할 때가 있습니다. 한 가지 방법은 우리 군대의 기계화가 완료될때까지 임시로 자전거를 사용하는 것입니다."
+JAP_army_mob_description_tech:0 "재배치의 형태로든 돌파구를 형성하든 현대전에서 승리하기 위해서는 속도가 가장 중요합니다. 우리는 이러한 발전을 일본에 가져오기 위해 대일본제국 육군의 차량화 병력 확장을 촉진해야만 합니다."
+JAP_army_mob_description_default:0 "세계대전의 기병돌격은 아마 역사에 남을 기병의 마지막 장면일 것입니다. 트럭은 더 이상 단순한 수송차량이 아니며 기동전 전술의 요소로 빠르게 자리잡았습니다. 우리는 낡은 사고를 떨쳐내고 공격과 지원을 가속화하기 위해 차량을 사용해야 합니다."
 
-JAP_army_tank_description_air:0 "Our infantrymen, despite being the most skilled in the world, are still without protection against machine guns. In order to solve that, we shall allocate more funds for the research and development of a new weapon: armored vehicles called tanks. These steel monsters are capable of having high defensive and offensive capabilities, and they will help our infantry forces to rule the Asian ground."
-JAP_army_tank_description_will:0 "By including armour and motorized infantry in our breakthough forces we gain the ability to deal devistating damage in our assaults. We have become an unstoppable force and there is no immovable object."
-JAP_army_tank_description_mass:0 "Tanks are massive beasts made out of steel that can crush everything they will face, but they have a problem, a massive one: they are incredibly expensive to produce. If we want to be able to use them, we will need to cut angles wherever possible, otherwise we won’t be able to produce enough of them to win any war. This might affect their reliability, but we need numbers."
-JAP_army_tank_description_tech:0 "While some would argue that given our likely enemies and the terrain of Asia and the Pacific, tanks are a costly white elephant, the reality is that these new vehicles have the potential to transform warfare, and we must ride the crest of this wave."
-JAP_army_tank_description_default:0 "Tanks are the pinnacle of modern warfare. Mobile vehicles armed with cannons worthy of artillery, and impervious to the average rifle. Even if we only produce few, we will plow through our enemies with judicious use of those steel behemoths."
+JAP_army_tank_description_air:0 "우리 보병들은 세계에서 가장 숙력된 인재들임에도 불구하고 여전히 기관총으로부터 보호받지 못하고 있습니다. 이를 해결하기 위해 우리는 새로운 무기인 전차라고 하는 장갑차량의 연구 개발에 더 많은 자금을 할당할 것입니다. 이 무쇠 괴물들은 높은 방어력과 공격력을 가지고 있으며, 우리 보병 병력이 아시아 땅을 지배하는데 도움이 될 것입니다."
+JAP_army_tank_description_will:0 "돌파 병력에 장갑차량과 차량화 보병을 포함시킴으로써 우리는 공격으로 파괴적인 피해를 가할 수 있는 능력을 가지게 됩니다. 아무도 우리를 막을 수 없을 것입니다."
+JAP_army_tank_description_mass:0 "전차는 강철로 만들어진 거대한 맹수로, 마주치는 모든 것을 부술 수 있지만 생산 비용이 엄청나게 비싸다는 치명적 문제가 있습니다. 전차를 실용화시키기 위해서는 가능한 한 단순화시켜야만 하며, 그렇지 않으면 전쟁에서 이길 수 있을 만큼 충분한 수량을 확보할 수 없을 것입니다. 이는 신뢰성에 영향을 미치겠지만, 그럼에도 우리는 충분한 수의 전차가 필요합니다."
+JAP_army_tank_description_tech:0 "혹자는 우리가 싸울 아시아-태평양의 지형을 고려할 때 전차는 비싸기만 한 애물단지가 될 것이라고 주장하지만, 이 전차라는 발명품이 전쟁의 양상을 바꿀 잠재력을 가지고 있다는 것이 현실입니다. 그러므로 우리는 이 파도의 꼭대기에 타지 않을 수 없는 것입니다."
+JAP_army_tank_description_default:0 "포병이나 쓸 법한 대포로 무장하고 보병의 소총에는 끄떡도 않는 이동식 차량. 전차야말로 현대전의 정수입니다. 우리가 이를 충분히 많이 생산할 수는 없을지라도, 이 강철 괴물들을 신중하게 운용하여 적들을 뚫어내고야 말 것입니다."
 
 JAP_army_sup_description_air:0 "Radio will play an important role in our reform plan: by achieving instant communication, our land forces will be able to tell the air force where to focus their bombing efforts; in this way, our enemies won’t stand a chance to the combined might of the Imperial Japanese Army and the Imperial Japanese Air Force. "
 JAP_army_sup_description_will:0 "Imperial soldiers must be prepared to fight everywhere to secure the peace and prosperty of the Japanese Empire; we shall require that every soldier must be prepared to fight and win in every condition they may find themselves in."
@@ -511,16 +511,16 @@ JAP_MIL_ISLAND_BASES_desc:0 "항공모함은 강력한 기계이자 무기이지
 ### Focuses - Military - Naval - Decisive Battle ###
 JAP_MIL_NAV_DECISIVE:0 "마루 3계획 시작"
 JAP_MIL_NAV_DECISIVE_desc:0 "적과의 전쟁을 장기간 지속할 수는 없기 때문에, 우리의 유일한 선택은 현재의 해군력 구축을 계속하고 결정적인 전투에서의 궁극적인 승리에 집중하는 것 뿐입니다."
-JAP_MIL_SUPER_SHIPS:0 "Technological Supremacy"
-JAP_MIL_SUPER_SHIPS_desc:0 "Our dockyards and our industry have limited capacity compared to our rivals in Europe and North America, but our designers and engineers superior in every way to them. One ship of ours will be worth a dozen of their ships."
-JAP_MIL_LONG_DONG:0 "Long Lance Torpedo"
-JAP_MIL_LONG_DONG_desc:0 "Torpedoes, while small, are extremely deadly weapons able to sink even the mightiest battleship, as the pathetic Russian navy learnt during the Battle of Tsushima. However ships are much larger than 30 years ago, and so we should work to enlarge our torpedoes." 
-JAP_MIL_CV_PLANES:0 "Carrier Aviation Breakthroughs"
-JAP_MIL_CV_PLANES_desc:0 "Without planes our carriers are just metal boxes which can float. We must ensure that our carriers will always be equipped with only the best planes and pilots."
-JAP_MIL_BIG_SHIPS:0 "Cruiser Mastery"
-JAP_MIL_BIG_SHIPS_desc:0 "Each cruiser can take on many roles in a naval engagement. Finding enemy fleets but also preventing enemy scouts from find ours. Protect our supply routes same as harassing enemy ones. We can also modify them to very specific roles for hunting submarines, protecting our ships from enemy planes or even carrying large torpedo weaponry; the possibilities are nearly endless."
-JAP_MIL_VERY_BIG_SHIPS:0 "Leviathans of the Pacific"
-JAP_MIL_VERY_BIG_SHIPS_desc:0 "What sailors of old have often called sea monsters will soon pale before the leviathans which we are going build. May we name the first one after our great God and Emperor: the Okami!"
+JAP_MIL_SUPER_SHIPS:0 "기술적 우위"
+JAP_MIL_SUPER_SHIPS_desc:0 "우리의 조선소와 관련 산업은 유럽과 북미의 경쟁국들에 비해 용량은 적지만, 설계자와 기술자들의 역량은 모든 면에서 더욱 뛰어납니다. 우리의 배 한 척은 그들의 배 열 척의 가치를 지닐 것입니다."
+JAP_MIL_LONG_DONG:0 "장창 어뢰"
+JAP_MIL_LONG_DONG_desc:0 "어뢰는 작지만, 쓰시마 전투에서 한심한 러시아 해군들이 몸으로 배운 것 처럼 강력한 전함도 가라앉힐수 있는 대단히 치명적인 무기입니다. 그러나 함선 기술은 30년 전보다 훨씬 발전했으니, 우리는 어뢰 역시 그만큼 진보되도록 노력해야만 할 것입니다." 
+JAP_MIL_CV_PLANES:0 "항모 항공대 우선"
+JAP_MIL_CV_PLANES_desc:0 "함재기가 없는 항공모함은 그저 바다를 떠다니는 깡통에 불과합니다. 우리는 항공모함에 항상 최고의 항공기와 조종사들이 완비되어있도록 주의해야 합니다."
+JAP_MIL_BIG_SHIPS:0 "순양함 통달"
+JAP_MIL_BIG_SHIPS_desc:0 "각 순양함은 함대전에서 다양한 임무를 수행할 수 있습니다. 적 함대를 수색하거나, 적 정찰기가 우리 함대를 찾아낼 수 없도록 막을 수도 있습니다. 적의 보급 항로를 막고 아군의 항로를 지킬 수도 있고, 잠수함을 사냥하거나 적기로부터 함대를 보호하거나 또는 수많은 어뢰를 싣고 특수목적함으로 사용할 수도 있습니다. 거희 무한한 가능성을 가진 함급인 셈입니다."
+JAP_MIL_VERY_BIG_SHIPS:0 "태평양의 강철 괴수"
+JAP_MIL_VERY_BIG_SHIPS_desc:0 "옛날 선원들이 종종 바다 괴물이라고들 불렀던 것들은 우리가 건조할 진정한 강철 괴수 앞에서 죄다 벌벌 떨게 될 것입니다. 우리는 그 거함을 우리의 최고의 신이자 천황 폐하를 뜻하는 오카미라 이름붙이기로 했습니다!"
 
 ### Focuses - Military - Naval - Doctrinal Change ###
 JAP_MIL_NAV_NOT_SO_DECISIVE:0 "교리 토론 재개"
@@ -717,7 +717,7 @@ japdom.35.d:0 "검은 월요일 불황으로 인한 총체적 정치경제위기
 japdom.35.a:0 "잘 됐군."
 
 japdom.36.t:0 "자이바츠 부패 추문"
-japdom.36.d:0 "As we feared, today several high-ranking government officials with links to the Zaibatsu have been accused of corruption. This is not the first time such accusations have been made and we fear it will not be the last. While some say it is good they were caught, it nevertheless represents another blow to our government given our close support of the Zaibatsu.\n\nThe trial will start in a few days but given the vast amount of wealth these officials will be able to mobilise it will no doubt be a long and painful road to justice, if we ever even get there... "
+japdom.36.d:0 "오늘, 우리가 걱정했던대로 재벌과 관련된 고위 공무원 몇명에 부패 혐의가 걸렸습니다. 이런 의혹 문제가 불거진것은 이번이 처음도 아니며, 이것으로 마지막도 아닐 것이라는 점이 문제입니다. 혹자는 그들이 잡혀서 다행이라고 말하지만, 재벌에 대한 우리의 지원을 감안할때 이것은 우리 정부에 타격이 될 수 있습니다.\n\n 재판은 며칠 안으로 시작되겠지만, 이 고위직들과 관련된 엄청난 부를 감안할때 정의구현에 이르기까진 길고 고통스러운 길을 지나야만 할 것입니다. "
 japdom.36.a:0 "부끄러운 줄 알아야지!"
 
 japdom.39.t:0 "추가적인 한반도 통합"
@@ -833,7 +833,7 @@ japdom.64.a:0 "좋은 소식이다!"
 
 japdom.65.t:0 "천황과 민주주의"
 japdom.65.d:0 "정부의 힘은 아직 약했기 때문에, 천황 폐하의 지원이 절실히 필요한 상황이었습니다. 폐하께서는 의회에 자주 참석하시지는 않으시지만, 다행히도 우리 정부를 지지해 주셨습니다. 폐하의 말은 큰 힘이 있고, 우리 정부가 지속되는 데 도움이 될 것입니다. 폐하의 지원을 받아들여야 할까요?"
-japdom.65.a:0 "천황이 동의해 주어서 다행이군."
+japdom.65.a:0 "천황폐하께서 동의해 주시니 다행이군."
 japdom.65.b:0 "상관없다!"
 
 japdom.72.t:0 "천황과 민주주의"
