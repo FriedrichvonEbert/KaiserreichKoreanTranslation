@@ -146,7 +146,7 @@ worldnews.43.plc:0 "세계대전에서 러시아 제국이 몰락한 후, 독일
 worldnews.43.a:0 "얼마나 버티는지 보자."
 
 worldnews.50.t:0 "사막의 전쟁"
-worldnews.50.d:0 "이집트가 군을 시나이 사막을 지나 진군시킨 이후 시나이-팔레스타인 문제를 둘러싼 대화가 결렬되며 아랍 민족주의와 터키의 제국주의가 끝내 삐걱거리기 시작했습니다. 1914년까진 명목상으로 단합했던 중동의 두 주도 세력은, 이제 중동의 운명을 결정하는 길에 들어섰습니다. 이집트는 다른 아랍 동맹국의 군부대 배치를 기대할 수 있음에도, 현재로선 터키 제국의 군사 및 경제적 역량이 그 적들을 훨씬 웃돌고 있어 충분치 않을 것이라 걱정합니다. 외국인 투자자들은 미국 내 권위가 붕괴한 현재로선 중동의 석유 저유고가 어느 때보다 중요해진 만큼, 두려움으로 충돌을 바라보고 있습니다."
+worldnews.50.d:0 "이집트가 군을 시나이 사막을 지나 진군시킨 이후 시나이-팔레스타인 문제를 둘러싼 대화가 결렬되며 아랍 민족주의와 터키의 제국주의가 끝내 삐걱거리기 시작했습니다. 1914년까진 명목상으로 단합했던 중동의 두 주도 세력은, 이제 중동의 운명을 결정하는 길에 들어섰습니다. 이집트는 다른 아랍 동맹국의 군부대 배치를 기대할 수 있음에도, 현재로선 터키 제국의 군사 및 경제적 역량이 그 적들을 훨씬 웃돌고 있어 충분치 않을 것이라 걱정합니다.\n\n외국인 투자자들은 미국 내 권위가 붕괴한 현재로선 중동의 석유 저유고가 어느 때보다 중요해진 만큼, 두려움으로 충돌을 바라보고 있습니다."
 worldnews.50.a:0 "석유는 어떻게 하고?"
 
 worldnews.51.t:0 "새로운 국왕을 선출한 폴란드"
@@ -191,12 +191,12 @@ worldnews.61.d:0 "버마 정부의 타트마도가 학생들과 노동자들에�
 worldnews.61.a:0 "국가별로 혁명이 일어나고 있구나."
 
 worldnews.62.t:0 "성공한 란드 반란"
-worldnews.62.d:0 "The industrial base of South Africa, the Rand, has always been a hotbed for syndicalist ideas. However, until now, the interests of the white workers could never reconcile themselves with the needs of the native. Few therefore anticipated that South Africa's largest native interest group, the Industrial and Commercial Workers' Union, and largest white syndicalist organisation, the International Socialist League, would overcome their differences and topple South Africa's dominion government. Yet they did: and in Pretoria, a worker's state has been declared. Already friction is being reported between white socialists considering themselves more fit to guide South Africa to socialism, and non-white activists pursuing full participation in the new government. Time will tell if syndicalism can survive without compromising its identity in this hostile political environment."
+worldnews.62.d:0 "남아프리카의 산업기반인 란드는 항상 생디칼리스트 사상의 온상이었습니다. 하지만, 지금까지 백인 노동자의 이해관계는 원주민들의 요구와 결코 조화되지 못했습니다. 그렇기에 남아프리카의 거대 원주민 이익집단인 상공조합과 거대 백인 생디칼집단인 인터내셔널 사회주의 연맹이 서로의 차이점을 극복하고서 남아프리카의 자치령 정부를 무너뜨린다는 건 아무도 예상치 못한 일이었습니다. 허나 그들은 이뤄냈습니다. 그리고 프레토리아에서는 노동자 국가가 선언되었습니다. 본인들이 남아프리카를 사회주의로 인도하는 데에 더 적합하다고 여기고 있는 백인 사회주의자, 신정부에 완전한 참여를 추진하는 비-백인 운동가의 양측에서는 벌써 마찰이 빚어지고 있다고 전해집니다. 이런 적대적인 정치적 환경에서 생디칼리슴이 정체성을 훼손하지 않고 살아남을 수 있을지는 시간이 말해 줄 것입니다."
 worldnews.62.a:0 "사탄의 마수가 암흑대륙까지 뻗쳤다고?!"
 worldnews.62.b:0 "인터내셔널은 인류를 통합시킨다!"
 
 worldnews.63.t:0 "통과된 '유색인종'의 참정권 부여 법안"
-worldnews.63.d:0 "Surprising news from South Africa: their parliament, also known as the Volksraad, has approved a law pushed for by the government enfranchising South Africans of mixed heritage, known in the country as 'Coloureds'.\n\nFears that the deal would be torpedoed by the opposition and conservative elements among the government's ranks have not materialised. The liberal Afrikaner minister and author of the bill, Jan Hendrik Hofmeyr has commented that this is but the first step in a gradual transition to a South Africa which will be truly equitable towards all of its citizens. Other allies in the Volksraad were quick to add the caveat however that they are not about to compromise the interests of South Africa's white population in this process."
+worldnews.63.d:0 "남아프리카에서 온 놀라운 소식입니다. 흔히 폴크스라트라고 알려진 의회는, 행정부가 추진했던 남아프리카의 혼혈민족, 이른바 '유색인종'이라 일컬어지는 내국인에게 선거권을 주는 법안을 통과시켰습니다.\n\n야당과 정부 고위직 내 보수 세력에 의하여 협의가 결렬될 것이란 우려는 다행스럽게 현실로 이뤄지지 않았습니다. 진보적 성향의 아프리카너 장관이자 법안의 입안자, 얀 헨드릭 호프메이르는 이것은 단지 남아프리카의 점진적인 과도기의 첫걸음일 뿐이며, 전 국민에게 진정으로 공평할 것이라 설명했습니다. 다만 폴크스라트 내 다른 협력체들은 재빨리 이 과정에서 백인 주민의 이익은 타협하지 않겠다고 경고했습니다."
 worldnews.63.a:0 "남아프리카를 위한 대담하며 새로운 행보다."
 
 worldnews.64.t:0 "제3차 보어 전쟁의 발발"
@@ -208,13 +208,13 @@ worldnews.66.d:0 "에티오피아의 세계대전에서의 유일한 소득이�
 worldnews.66.a:0 "시간이 해결해줄 것이다."
 
 worldnews.67.t:0 "비오 11세의 선종"
-worldnews.67.d:0 "지난 몇 년 동안 쇠약해지시다, 검은 금요일로 인해 건강이 급격히 나빠지시며 끝내 심장마비로 서거하신 교황 비오 11세의 선종을 모든 기독교인이 애도합니다. 성하께서는 곧 다른 전임자 되시는 분들과 마찬가지로 교황의 묘소에 안치될 것입니다. 다음 교황이 선출될 때까지, 교황령은 로마의 추기경단에 의해 통치될 것입니다. 재탄생한 교황령 내 가톨릭교회의 역할 및 통치와 더불어, 이탈리아를 강제로 분열되게 만들고 다시금 반도를 통일시키려 드는 생디칼리슴을 향한 격렬한 반대 때문에라도 교황 성하의 승계는 중요한 과제입니다."
+worldnews.67.d:0 "지난 몇 년 동안 쇠약해지시다, 검은 금요일로 인해 건강이 급격히 나빠지시고는 끝내 심장마비로 서거하신 교황 비오 11세의 선종을 모든 기독교인이 애도합니다. 성하께서는 곧 다른 전임자 되시는 분들과 마찬가지로 교황의 묘소에 안치될 것입니다. 다음 교황이 선출될 때까지, 교황령은 로마의 추기경단에 의해 통치될 것입니다. 재탄생한 교황령 내 가톨릭교회의 역할 및 통치와 더불어, 이탈리아를 강제로 분열되게 만들고 다시금 반도를 통일시키려 드는 생디칼리슴을 향한 격렬한 반대 때문에라도 교황 성하의 승계는 중요한 과제입니다."
 worldnews.67.a:0 "세상에..."
 
 worldnews.70.t:0 "이탈리아 선거에서 승리한 이탈리아 국민연합"
 worldnews.70.d:0 "이탈리아 공화국은 15년 전 이탈리아 내전이 끝난 이래로 오스트리아의 보호 아래 있었습니다. 하지만 검은 월요일 이후 오스트리아가 이탈리아에서 영향력과 군대를 철수시켰고 이탈리가 공화국은 홀로 경제위기를 헤쳐나가야만 했습니다. 이바노에 보노미가 주도하는 여당 자유민주당은 검은 월요일을 맞닥트린 상황에서 의회 내에 더 많은 지지자를 얻기 위해 조기 총선을 개최했습니다. 선거는 오스트리아에 반대하는 이탈리아 국민연합의 승리로 끝났습니다. 새로운 수상 [ITA.GetLeader](은)는 오늘 밀라노에서 한 연설에서 위대한 이탈리아를 막는 장애물은 전혀 없으며, 검은 월요일은 새로운 이탈리아 군단이 뿌리뽑은 악랄한 오스트리아의 간섭과 식민주의가 직접적으로 낳은 결과라고 했습니다."
 worldnews.70.a:0 "흥미롭군."
-worldnews.70.b:0 "새로운 적이 된 것으로 보이는군"
+worldnews.70.b:0 "새로운 적이 된 것으로 보이는군."
 worldnews.70.c:0 "우리는 더욱 강해질 것이다!"
 
 worldnews.72.t:0 "자치령의 승리"
@@ -250,7 +250,7 @@ worldnews.80.d:0 "놀랍게도 바라티야 코뮌과 인도 자치령의 두 �
 worldnews.80.a:0 "글쎄, 이것은 예상치 못한 일이었는데."
 
 worldnews.81.t:0 "간디에 대항하여 들고 일어난 강경파"
-worldnews.81.d:0 "마하트마(모한다스 카람찬드 간디)가 평화적인 재결합을 위해 [RAJ.GetNameDef](와)과 대화를 시작한 지난주에 캘커타 주변에서 소용돌이 치고 소문이 있었습니다. 재결합이 실제로 일어날 지 여부는 말하기가 어렵습니다. 그 확률과 관계없이, [RAJ.GetNameDef]의 전체주의자들이 분노하여 들고 일어났고, 수바스 찬드라 보세(Subhas Chandra Bose)는 재결합이 실제로 일어나지 않도록 하기위해 강경파 파벌을 모아 간디와 농민당에 대항하여 파업을 일으켰습니다. 이미 벵골의 시골 지역에서 전투가 벌어졌지만 나머지 인도 지역들은 그 결과를 보고 기다릴 수밖에 없습니다."
+worldnews.81.d:0 "마하트마(모한다스 카람찬드 간디)가 평화적인 재결합을 위해 [RAJ.GetNameDef] 측과 대화를 시작한 지난주에 캘커타 주변에서 소용돌이 치고 소문이 있었습니다. 재결합이 실제로 일어날 지 여부는 말하기가 어렵습니다. 그 확률과 관계없이, [RAJ.GetNameDef]의 전체주의자들이 분노하여 들고 일어났고, 수바스 찬드라 보세(Subhas Chandra Bose)는 재결합이 실제로 일어나지 않도록 하기위해 강경파 파벌을 모아 간디와 농민당에 대항하여 파업을 일으켰습니다. 이미 벵골의 시골 지역에서 전투가 벌어졌지만 나머지 인도 지역들은 그 결과를 보고 기다릴 수밖에 없습니다."
 worldnews.81.a:0 "또 다른 내전이라니? 맙소사!"
 
 worldnews.82.t:0 "강경파의 캘커타 점령"
@@ -262,7 +262,7 @@ worldnews.83.d:0 "오랫동안 그의 평화주의적 방식으로 오랫동안 
 worldnews.83.a:0 "또 다른 내전이라니? 맙소사!"
 
 worldnews.84.t:0 "농민당의 캘커타 점령"
-worldnews.84.d:0 "모한다스 카람찬드 간디의 지휘 하에 있는 농민당이 오늘 캘커타의 심장부로 몰려갔습니다. 그들은 인도 국민회의 건물을 둘러쌌고, 소문에 의하면 전체주의 지도자들을 포위하고 있다고 합니다. 전체주의자들의 수장인 수바스 찬드라 보세의 소재는 현재 알려지지 않았지만, 간디와 농민당은 정부를 완전히 장악하고 질서를 회복했습니다. 강경파 정당은 불법으로 지정되었으며, 이는 [HND.GetNameDef](이)가 인도 전역과의 공개 전쟁을 향한 빠른 행보가 멈추었다는 것을 의미합니다."
+worldnews.84.d:0 "모한다스 카람찬드 간디의 지휘 하에 있는 농민당이 오늘 캘커타의 심장부로 몰려갔습니다. 그들은 인도 국민회의 건물을 둘러쌌고, 소문에 의하면 전체주의 지도자들을 포위하고 있다고 합니다. 전체주의자들의 수장인 수바스 찬드라 보세의 소재는 현재 알려지지 않았지만, 간디와 농민당은 정부를 완전히 장악하고 질서를 회복했습니다. 강경파 정당은 불법으로 지정되었으며, 이는 [HND.GetNameDef] 측이 인도 전역과의 공개 전쟁을 향한 빠른 행보가 멈추었다는 것을 의미합니다."
 worldnews.84.a:0 "이것은 그들을 약하게 할까 아니면 더 강하게 할까?"
 
 worldnews.85.t:0 "스페인 선거"
@@ -272,17 +272,17 @@ worldnews.85.d.car:0 "오늘, 폭력과 항의 속에서 열린 스페인 선거
 worldnews.85.a:0 "스페인에 평화가 찾아왔다!"
 
 worldnews.86.t:0 "스페인 내전의 종식"
-worldnews.86.d:0 "[SPR.GetNameDef](이)가 승리를 거머쥐면서 마침내 스페인 내전이 끝났습니다. 시골의 대부분은 폐허가 되었고 질서는 완전히 회복되지는 않았지만 [SPR.GetAdjective] 정부는 아나키스트와 생디칼리스트의 위협이 마침내 사라졌으며 다시는 발생하지 않을 것이라고 발표했습니다. 비록 내전이 일어나기 직전에 혼수 상태에 빠졌습니다만, 이것은 알폰소 13세의 승리입니다."
+worldnews.86.d:0 "[SPR.GetNameDef] 측이 승리를 거머쥐면서 마침내 스페인 내전이 끝났습니다. 시골의 대부분은 폐허가 되었고 질서는 완전히 회복되지는 않았지만 [SPR.GetAdjective] 정부는 아나키스트와 생디칼리스트의 위협이 마침내 사라졌으며 다시는 발생하지 않을 것이라고 발표했습니다. 비록 내전이 일어나기 직전에 혼수 상태에 빠졌습니다만, 이것은 알폰소 13세의 승리입니다."
 worldnews.86.a:0 "'현상 유지'라..."
 
-worldnews.87.d:0 "[CNT.GetNameDef](이)가 승리를 거머쥐면서 마침내 스페인 내전이 끝났습니다. 시골의 대부분은 폐허가 되었고 질서는 완전히 회복되지는 않았지만 [CNT.GetAdjective] 정부는 오래된 봉건제도가 마침내 끝났으며 스페인 사람들은 이제 생디칼리슴의 통치하에 질서 정연한 변화의 혜택을 볼 것이라고 발표했습니다. 돌아오는 민병대를 환영하고 새로운 평화가 영원히 지속되기를 기도하기 위해 바르셀로나에 대규모 군중이 모여들었습니다."
+worldnews.87.d:0 "[CNT.GetNameDef] 측이 승리를 거머쥐면서 마침내 스페인 내전이 끝났습니다. 시골의 대부분은 폐허가 되었고 질서는 완전히 회복되지는 않았지만 [CNT.GetAdjective] 정부는 오래된 봉건제도가 마침내 끝났으며 스페인 사람들은 이제 생디칼리슴의 통치하에 질서 정연한 변화의 혜택을 볼 것이라고 발표했습니다. 돌아오는 민병대를 환영하고 새로운 평화가 영원히 지속되기를 기도하기 위해 바르셀로나에 대규모 군중이 모여들었습니다."
 worldnews.87.a:0 "또 하나의 유럽 국가가 붉게 물들었구나."
 
 worldnews.88.d:0 "마침내 스페인 내전이 끝났고 카를로스파가 승리한 것으로 보입니다. 시골의 대부분은 폐허가 되었고 질서는 완전히 회복되지는 않았지만 오늘, 새로운 국왕인 하비에르 1세를 맞이하기 위해 거대한 군중이 부르고스에 모였습니다. 국왕은 이 날을 공휴일로 선언했고, 스페인의 위선자들에게 정의의 심판이 내려졌으며, 카를로스파 왕실은 정확히 있어야 할 곳에 서 있다고 이야기했습니다. 그는 전국적인 가톨릭 신앙의 회복뿐만 아니라 국가의 회복을 약속했습니다. 그의 약속은 교황의 승인을 받았으며, 교황은 스페인에 새로운 평화가 지속되길 바라는 기도를 했습니다."
 worldnews.88.a:0 "흥미롭군."
 
 worldnews.89.t:0 "포르투갈에서 아나키스트 쿠데타 발발!"
-worldnews.89.d:0 "스페인에서 있던 전국노동연맹-이베리아 아나키스트 연맹의 최근 성공에 고무받은 것으로 알려진 아나코-생디칼리스트 운동인 포르투갈 아나키스트 연합(União Anarquista Portuguesa)이 주도한 포르투갈의 수도 리스본의 폭동 다음날, 포르투갈 정부에 맞선 깜짝 쿠데타가 성공했습니다. 아나키스트 민병대가 수도의 건물로 이동했고, 혁명의 지도자인 네노 바스코(Neno Vasco)와 안토니오 핀토 쿼탄(António Pinto Quartin)이 임시 체제를 구축했습니다. 새로운 지도자들은 장래에 [CNT.GetNameDef](와)과 더 긴밀한 관계를 추구할 것으로 보입니다."
+worldnews.89.d:0 "스페인에서 있던 전국노동연맹-이베리아 아나키스트 연맹의 최근 성공에 고무받은 것으로 알려진 아나코-생디칼리스트 운동인 포르투갈 아나키스트 연합(União Anarquista Portuguesa)이 주도한 포르투갈의 수도 리스본의 폭동 다음날, 포르투갈 정부에 맞선 깜짝 쿠데타가 성공했습니다. 아나키스트 민병대가 수도의 건물로 이동했고, 혁명의 지도자인 네노 바스코(Neno Vasco)와 안토니오 핀토 쿼탄(António Pinto Quartin)이 임시 체제를 구축했습니다. 새로운 지도자들은 장래에 [CNT.GetNameDef] 측과 더 긴밀한 관계를 추구할 것으로 보입니다."
 worldnews.89.a:0 "혁명이 퍼지기 시작했다, 무서운 속도로!"
 
 worldnews.90.t:0 "브리튼의 선거 교착"
@@ -294,8 +294,8 @@ worldnews.91.d.a:0 "세계대전 이후 독일은 프랑스령 인도차이나�
 worldnews.91.d.b:0 "세계대전 이후 독일은 프랑스령 인도차이나를 점령했지만, 1926년 독일이 남중국의 혁명가들을 격파하기 전까지 안정은 회복되지 않았습니다.\n이제, 베트민이라는 연립정부 아래에서 인도차이나 국민주의자들과 좌파들이 식민 정권에 대항해 일어섰습니다. 베트민의 지도자인 응우옌안닌은 사이공에서 인도차이나의 독립을 선언하였습니다. 아시아인들의 저항심에 경의를 표한 뒤 그는 독일의 잔혹한 아시아인 탄압을 비난하고 인도차이나인들의 아시아 통합에 대한 헌신을 확인하였습니다.\n그러나 관측자들은 그들이 약한 소작농일 뿐이고 독일 주둔군이나 극동 지역의 경찰조차도 베트민으로 알려진 반군을 쉽게 진압할 수 있다는 독일 언론들의 의견에 동의합니다."
 worldnews.91.d.c:0 "세계대전 이후 독일은 프랑스령 인도차이나를 점령했지만, 1926년 독일이 남중국의 혁명가들을 격파하기 전까지 안정은 회복되지 않았습니다.\n이제, 베트민이라는 연립정부 아래에서 인도차이나 국민주의자들과 좌파들이 식민 정권에 대항해 일어섰습니다. 프랑스 인권 선언과 미국 독립선언문을 인용한 후, 베트민의 지도자인 응우옌안닌은 독일의 잔혹한 자유민 탄압을 비난하고 인도차이나 국가의 독립권을 단언했습니다.\n그러나 관측자들은 그들이 약한 소작농일 뿐이고 독일 주둔군이나 극동 지역의 경찰조차도 베트민으로 알려진 반군을 쉽게 진압할 수 있다는 독일 언론들의 의견에 동의합니다."
 worldnews.91.a:0 "오, 강력한 자들이 어떻게 쓰러졌는가."
-worldnews.91.b:0 "그들은 확실히 모범 식민지는 아니군."
-worldnews.91.c:0 "그들이 독립선언문을 어디서 배웠을까?"
+worldnews.91.b:0 "확실히 모범 식민지는 아니군."
+worldnews.91.c:0 "독립선언문을 어디서 배웠을까?"
 worldnews.91.g:0 "불복종은 용납되지 않을 것이다."
 
 worldnews.92.t:0 "인도차이나 혁명의 성공"
@@ -311,7 +311,7 @@ worldnews.94.d:0 "파리에서 개최된 제1차 생디칼리스트 인터내셔
 worldnews.94.a:0 "흥미롭군."
 
 worldnews.95.t:0 "백루테니아에서의 국민주의자 쿠데타"
-worldnews.95.d:0 "세계대전 이후, 독일인들은 비록 지역 주민들이 이전에는 단 하나의 국가라고 생각한 적은 없었지만, 백러시아 지역에 벨로루시 국가를 형성했습니다. 이러한 국민 정체성의 결여는 독일인들이 이 나라에 그들의 질서를 강요하는것을 멈추게 하지 못했으며, 이로 인해 긴장이 고조되었습니다. \n\n백루테니아의 벨라루스 국민주의자 지도자인 백루테니아의 왕자 지그문트 (Sigismund)는 전임 국왕이 극장 폭발로 사망한 후 이 나라를 장악했습니다. 지그문트 1세가 독일군에 반항할지, 아니면 독일이 이 새로운 질서를 받아들이기를 기대하면서 기다릴지의 여부는 알기 어렵습니다."
+worldnews.95.d:0 "세계대전 이후, 독일인들은 비록 지역 주민들이 이전에는 단 하나의 국가라고 생각한 적은 없었지만, 백러시아 지역에 벨로루시 국가를 형성했습니다. 이러한 국민 정체성의 결여는 독일인들이 이 나라에 그들의 질서를 강요하는것을 멈추게 하지 못했으며, 이로 인해 긴장이 고조되었습니다. \n\n백루테니아의 벨라루스 국민주의자 지도자인 백루테니아의 왕자 지그문트(Sigismund)는 전임 국왕이 극장 폭발로 사망한 후 이 나라를 장악했습니다. 지그문트 1세가 독일군에 반항할지, 아니면 독일이 이 새로운 질서를 받아들이기를 기대하면서 기다릴지의 여부는 알기 어렵습니다."
 worldnews.95.a:0 "흥미롭군."
 
 worldnews.96.t:0 "리투아니아에서의 친러시아 쿠데타"
@@ -319,11 +319,11 @@ worldnews.96.d:0 "매우 낮은 확률에도 불구하고 리투아니아 국민
 worldnews.96.a:0 "옛 지배자에서 다른 군대로..."
 
 worldnews.99.t:0 "이탈리아 사회당의 선거 승리"
-worldnews.99.d:0 "\n이탈리아 사회주의 공화국의 제5차 평의회는 [SRI.GetLeader](이)가 이끄는 이탈리아 사회당이 정부의 과반수 의석 수를 달성하며 끝났습니다. 그들의 승리는 공화국 내의 마르크스주의를 온건사회주의적 생디칼리슴으로 바꿀 것입니다."
+worldnews.99.d:0 "\n이탈리아 사회주의 공화국의 제5차 평의회는 [SRI.GetLeader]의 주도로 이끌어지는 이탈리아 사회당이 정부의 과반수 의석 수를 달성하며 끝났습니다. 그들의 승리는 공화국 내의 마르크스주의를 온건사회주의적 생디칼리슴으로 바꿀 것입니다."
 worldnews.99.a:0 "온건사회주의라? 지켜봐야겠군."
 
 worldnews.100.t:0 "이탈리아의 여당이 된 생디칼리슴 조합"
-worldnews.100.d:0 "\n이탈리아 사회주의 공화국의 제5차 평의회는 팔미오 토리아티가 이끄는 생디칼리슴 조합이 정부의 과반수 의석 수를 달성하여 계속해서 위임하는데 성공하는 것으로 끝났습니다. 생디칼리슴 조합은 세계대전이 끝난 후 공화국에서 통제권을 행사했으며, 이 체제가 지속되면 [FRA.GetNameDef](와)과의 동맹 관계가 확고해질 것이라고 보입니다."
+worldnews.100.d:0 "\n이탈리아 사회주의 공화국의 제5차 평의회는 팔미오 토리아티가 이끄는 생디칼리슴 조합이 정부의 과반수 의석 수를 달성하여 계속해서 위임하는데 성공하는 것으로 끝났습니다. 생디칼리슴 조합은 세계대전이 끝난 후 공화국에서 통제권을 행사했으며, 이 체제가 지속되면 [FRA.GetNameDef] 측과의 동맹 관계가 확고해질 것이라고 보입니다."
 worldnews.100.d.comp:0 "이탈리아 사회주의 공화국의 제5차 평의회의 오랜 교착 상태가 이탈리아 사회당과 생디칼리슴 연합이 타협에 성공하여 마침내 끝이 났습니다. 이탈리아의 생디칼리슴 조합의 팔미로 톨리아티는 의장직을 계속 지키겠지만 현상황은 여전히 정부의 안정에 큰 타격을 주고 있습니다."
 worldnews.100.a:0 "전혀 놀랍지 않은 일이다."
 
@@ -340,19 +340,19 @@ worldnews.106.d:0 "시암의 국왕 프라차티뽁은 옛 동남아시아 왕�
 worldnews.106.a:0 "시대에 뒤떨어지지는 않은 것 같군."
 
 worldnews.107.t:0 "남아프리카에서 승리한 국민당"
-worldnews.107.d:0 "남아프리카 연방을 둘로 나눈 선거 끝에, J. B. M. 헤르초크가 이끄는 국민당은 승리했습니다. 하지만 국민당은 의회에서 겨우 제1당을 차지했을 뿐입니다. 남아프리카에서 투표권은 주로 북쪽의 아프리카너와 남쪽의 영국인으로 나눌 수 있는 백인들에게만 있으며, 아프리카너들이 헤르초크를 열광적으로 지지한 끝에 우승을 차지할 수 있었습니다. 그러나 영국인 지역에서, 특히 국민당이 계획한 아파르트헤이트 정책을 두려워한 원주민들 사이에서 불안은 점점 커져가고 있으며 많은 사람들은 조만간 이 나라에서 유혈 사태나 심지어 내전이 벌어질 것이라고 예측하고 있습니다."
+worldnews.107.d:0 "남아프리카 연방을 둘로 나눈 선거 끝에, J. B. M. 헤르초크가 이끄는 국민당이 승리했습니다. 하지만 국민당은 의회에서 겨우 제1당을 차지했을 뿐입니다. 남아프리카에서 투표권은 주로 북쪽의 아프리카너와 남쪽의 영국인으로 나눌 수 있는 백인들에게만 있으며, 아프리카너들이 헤르초크를 열광적으로 지지한 끝에 우승을 차지할 수 있었습니다. 그러나 영국인 지역에서, 특히 국민당이 계획한 아파르트헤이트 정책을 두려워한 원주민들 사이에서 불안은 점점 커져가고 있으며 많은 사람들은 조만간 이 나라에서 유혈 사태나 심지어 내전이 벌어질 것이라고 예측하고 있습니다."
 worldnews.107.a:0 "흥미롭군."
 
 worldnews.108.t:0 "남아프리카에서 승리한 자치당"
-worldnews.108.d:0 "남아프리카 연방을 둘로 나눈 선거 끝에, 얀 크리스티안 스뮈츠가 이끄는 자치당은 승리했습니다. 하지만 자치당은 의회에서 겨우 제1당을 차지했을 뿐입니다. 남아프리카에서 투표권은 주로 북쪽의 아프리카너와 남쪽의 영국인으로 나눌 수 있는 백인들에게만 있으며, 영국인들이 스뮈츠를 열광적으로 지지한 끝에 우승을 차지할 수 있었습니다. 그러나 아프리카너 지역에서, 특히 협상국에 다시 접촉하려는 자치당의 계획을 두려워한 아프리카너들 사이에서 불안은 점점 커져가고 있으며 많은 사람들은 조만간 이 나라에서 유혈 사태나 심지어 내전이 벌어질 것이라고 예측하고 있습니다."
+worldnews.108.d:0 "남아프리카 연방을 둘로 나눈 선거 끝에, 얀 크리스티안 스뮈츠가 이끄는 자치당이 승리했습니다. 하지만 자치당은 의회에서 겨우 제1당을 차지했을 뿐입니다. 남아프리카에서 투표권은 주로 북쪽의 아프리카너와 남쪽의 영국인으로 나눌 수 있는 백인들에게만 있으며, 영국인들이 스뮈츠를 열광적으로 지지한 끝에 우승을 차지할 수 있었습니다. 그러나 아프리카너 지역에서, 특히 협상국에 다시 접촉하려는 자치당의 계획을 두려워한 아프리카너들 사이에서 불안은 점점 커져가고 있으며 많은 사람들은 조만간 이 나라에서 유혈 사태나 심지어 내전이 벌어질 것이라고 예측하고 있습니다."
 worldnews.108.a:0 "흥미롭군."
 
 worldnews.109.t:0 "보오라데트의 반란"
-worldnews.109.d:0 "최근의 시암 혁명은 겉으로는 성공했을지 몰라도 이에 대한 대중의 지지는 곤두박질친 것 같습니다. 논란이 되는 "황색 서류봉투" - 국가의 경제 시스템을 뜯어고치고 다수의 산업을 국유화하기 위한 고안된 계획의 별칭-를 계기로, 대중들 사이에는 소위 "붉은 공포"가 촉발되었습니다.\n\n그동안 육군 수장인 루앙 피분송크람은 국회에 충성을 바치겠다고 선언했고, 보오라데트 왕세자는 나라의 북부에서 군사반란을 일으켜 자신과 부하들을 '카나 구반 구무앙(국가교화당)'이라고 주장하면서 방콕을 향해 행군하기 시작했습니다. 이는 결국 정부군의 신속한 이동과 함께 양측의 전면전으로 확대되어 이틀 동안의 대치상황으로 이어졌습니다."
+worldnews.109.d:0 "최근의 시암 혁명은 겉으로는 성공했을지 몰라도 이에 대한 대중의 지지는 곤두박질친 것 같습니다. 논란이 되는 "황색 서류봉투" - 국가의 경제 시스템을 뜯어고치고 다수의 산업을 국유화하기 위한 고안된 계획의 별칭-를 계기로, 대중들 사이에는 소위 "붉은 공포"가 촉발되었습니다.\n\n그동안 육군 수장인 루앙 피분송크람은 국회에 충성을 바치겠다고 선언했고, 보오라데트 왕세자는 북부지방에서 군사반란을 일으키곤 자신과 부하들을 '카나 구반 구무앙(국가교화당)'이라고 주장하면서 방콕을 향해 행군하기 시작했습니다. 이는 결국 정부군의 신속한 이동과 함께 양측의 전면전으로 확대되어 이틀 동안의 대치상황으로 이어졌습니다."
 worldnews.109.a:0 "시암 내전이 시작되었군..."
 
-worldnews.110.t:0 "Thamrongnawasawat의 반란"
-worldnews.110.d:0 "최근의 시암 혁명은 겉으로는 성공했을지 몰라도 이에 대한 대중의 지지는 곤두박질친 것 같습니다. 논란이 되고 있는 "황색 서류봉투" - 국가의 경제 시스템을 뜯어고치고 다수의 산업을 국유화하기 위한 고안된 계획의 별칭-를 계기로, 대중들 사이에는 소위 "붉은 공포"가 촉발되었습니다.\n\nChief of the Army, Luang Phibunsongkhram, swore allegiance to the king. Luang Thamrongnawasawat and some disgruntled naval officers on the other hand organised an armed mutiny in the south of the country. After proclaiming themselves the 'Khana Pokpong Prachathipatai'(Democracy Protection Party) they marched on Bangkok. The collapse of the military establishment marks the start of all-out civil war in Siam."
+worldnews.110.t:0 "탐롱나와사왓의 반란"
+worldnews.110.d:0 "최근의 시암 혁명은 겉으로는 성공했을지 몰라도 이에 대한 대중의 지지는 곤두박질친 것 같습니다. 논란이 되고 있는 "황색 서류봉투" - 국가의 경제 시스템을 뜯어고치고 다수의 산업을 국유화하기 위한 고안된 계획의 별칭-를 계기로, 대중들 사이에는 소위 "붉은 공포"가 촉발되었습니다.\n\n육군참모총장, 루앙 피분송크람은 왕에게 충성을 맹세했습니다. 반면에 루앙 탐롱나와사왓과 몇몇 불만을 품은 해군 장교는 남부지방에서 조직적인 무장반란을 일으켰습니다. 이후 자신들을 '카나 폭퐁 프라차티파타이(민주수호당)'이라 선언하고 방콕으로 행진했습니다. 군사조직의 붕괴는 곧 시암의 전면적인 내전이 시작되었음을 의미합니다."
 worldnews.110.a:0 "이건 도움이 될 수 없는걸."
 
 worldnews.111.t:0 "피분송크람의 쿠데타"
@@ -360,7 +360,7 @@ worldnews.111.d:0 "최근의 시암 혁명은 겉으로는 성공했을지 몰�
 worldnews.111.a:0 "언제 한다는 것일까?"
 
 worldnews.112.t:0 "제37차 시암-버마 전쟁"
-worldnews.112.d:0 "The new National-Populist regime of Plaek Phibunsongkhram in Siam has issued a declaration of war to the Burmese government in Yangon today, citing Burmese agitation in Morlamaeng as an act of war.\n\nThe Siamese themselves are clearly the aggressor here, as they had previously occupied lands up to the Salween river, violating the Stresemann treaty dictating the border between them and Burma back in 1929. For the Burmese the situation looks pretty bleak, should Siam emerge victorious it is likely that this will mark the rise of a new Thai hegemony in South East Asia, one European powers will have to be cautious of."
+worldnews.112.d:0 "시암에 있는 쁠랙 피분송크람의 새로운 국민대중주의 정권은 양곤의 버마 정부에게 전쟁 선포를 으며했 몰라맹에서 벌어진 버마의 소요가 곧 전쟁행위라고 언급했습니다.\n\n시암 본인들은 이전에 샐윈강까지 땅을 점령하였기에 1929년에 버마와 시암간의 국경을 규정한 슈트레제만 조약을 위반하였으므로, 이 상황에서 그들은 명백한 침략자입니다. 버마인들의 상황은 상당히 암담해 보입니다만, 시암이 승리를 거두게 된다면 이는 곧 새로이 태국의 패권이 떠오르는 것을 의미하기에, 유럽의 어느 한 강대국은 이를 조심해야 할 것입니다."
 worldnews.112.a:0 "실익보다는 증오에 의한 전쟁이다."
 
 worldnews.113.t:0 "소말리아 정권을 탈취한 시아드 바레!"
@@ -369,15 +369,15 @@ worldnews.113.a:0 "혁명은 전세계로 퍼지리라!"
 worldnews.113.b:0 "붉은 물결이 드디어 홍해에 다다랐군..."
 
 worldnews.114.t:0 "시암에서 승리한 의회파"
-worldnews.114.d:0 "Sporadic fighting died down on the streets of Bangkok today as the Parliamentarians finally took control of the city. King Rama VII was confirmed to have been evacuated to Singapur mere hours ago and the whereabouts of other major government figures is still unknown.\n\nBack in the city a triumphant Pridi Phanomyong (formerly Luang Praditmanutham) proclaimed himself the new premier after a unanimous vote from Parliament. In a speech the new premier declared the begining of a 'National Rebuilding' programme, marking a probable turn inward for Siam. The rise of a new Syndicalist power marks a shift away from the German-Japanese power games that have dominated the region."
+worldnews.114.d:0 "오늘, 의회파가 마침내 방콕을 장악하며 거리의 산발적인 전투가 차츰 잦아들었습니다. 국왕 라마 7세가 불과 몇 시간 전에 싱가포르로 피난 간 것이 확인되었으며, 다른 정부 내 주요 인사들은 여전히 행방을 알 수 없습니다.\n\n다시 도시로 돌아와서, 큰 승리를 거둔 (과거 '루앙 쁘라딧마누탐'직을 지낸) 쁘리디 파놈용이 의회에서 만장일치의 표결을 거쳐 본인 스스로 새로운 총리임을 선언했습니다. 새 총리는 연설에서 '국가재건' 계획의 시작을 선언했으며, 시암을 위해 내정에 집중하겠다는 뜻으로 거의 확실시 받아들여집니다. 신흥 생디칼리스트 정권의 등장은 한편으로 이 지역을 지배해왔던 독일-일본의 힘 싸움 구도에서 벗어났음을 뜻합니다."
 worldnews.114.a:0 "새로운 공화국이 잿더미에서 일어서는구나"
 
 worldnews.115.t:0 "시암에서 승리한 왕당파"
-worldnews.115.d:0 "Sporadic fighting died down on the streets of Bangkok today as the Royalists finally took control of the city, forcing Luang Praditmanutham and other republicans to hastily board a ship bound for Saigon.\n\nWhile prominent members of the royal family who previously dominated government have officially refused to take office this time, they do continue to hold immense power. They are likely to increase their control over King Prajadhipok after the disaster of his failed democratic reform. Prajadhipok and future Siamese monarchs will almost certainly be 'guided' away from democracy in future."
+worldnews.115.d:0 "오늘, 왕당파가 마침내 방콕을 장악하며 거리의 산발적인 전투가 차츰 잦아들었고, 루앙 쁘라딧마누탐과 다른 공화주의자들은 서둘러 사이공행 선박에 몸을 싣도록 강제되었습니다.\n\n과거 정부를 장악하였던 왕실의 고위인사들이 이번엔 공식적으로 취임을 거부했으나, 그들은 여전히 엄청난 권력을 가지고 있습니다. 국왕 프라차티뽁의 민주적 개혁의 실패란 재앙 이후에 국왕에 대한 통제력을 키울 듯합니다. 프라차티뽁과 미래의 시암 군주들은 민주주의의 미래로부터 동떨어진 방향으로 '지도'될 것이 거의 확실합니다."
 worldnews.115.a:0 "전제군주정으로 한 걸음 돌아간 것인가?"
 
 worldnews.116.t:0 "회복된 시암의 질서"
-worldnews.116.d:0 "The forces under Luang Phibunsongkhram, nicknamed 'The Iron Marshall' have utterly destroyed the last rebel holdouts in Siam today. After turning the rebels back outside Bangkok, government troops marched swiftly on their strongholds and rounded up everyone they could find.\n\nMany of thse prisoners will find their way to Tarutao Prison, an island surrounded by shark-infested waters, away from the mainland. Meanwhile the temporary Khana Ratsadon has stepped down, declaring the time ripe for business within the nation to return to normal."
+worldnews.116.d:0 "'철의 원수'라는 별명을 지닌 루앙 피분송크람의 휘하 부대가 오늘 시암 내 마지막 반란군 주둔지를 완전히 파괴했습니다. 반군들을 방콕의 외곽으로 되돌려 보낸 후, 정부 군대는 빠르게 반란군의 요새로 진군하여 가능한 모든 인물을 체포했습니다.\n\n이 죄수들의 대다수는, 본토에서 멀리 떨어지고 물속엔 상어가 들끓는 섬에 있는 타루타오 감옥으로 가는 길을 찾게 될 것입니다. 한편 인민당은 일시적으로 사임하였고, 국내의 상거래가 정상으로 돌아갈 시기가 무르익었다고 선언했습니다."
 worldnews.116.a:0 "상황이 회복되었군."
 
 worldnews.117.t:0 "세르비아 왕위에 오른 알렉산다르 2세"
