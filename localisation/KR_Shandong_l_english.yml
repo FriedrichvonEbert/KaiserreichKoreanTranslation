@@ -746,21 +746,21 @@ shandong.992.t:0 "산동 청 복권에 뒤이은 혼란"
 shandong.992.d:0 "쑹저위안이 산동으로 대단하게 귀환화면서 청 정부는 공식적으로 장쭝창 군벌 잔당에게 현 정권에 항복하라고 명령했습니다. 다행히도 쑹저위안은 군대 대부분을 굴복시키기 위해서는 뇌물을 줘야 한다는 산동 군대의 전통에 익숙합니다. 놀랍게도 그의 귀인회는 산둥 남부를 통제하던 반도적 농민군의 충성맹세를 받기도 했씁니다. 안타깝게도 장쭝창 군벌 지도자들과 여태까지 일관도에 헌신하는 이들은 다른 계획을 세웠습니다. 이 새로 등장한 사악한 군벌들로부터 산동 마을 주민들을 보호해야 합니다."
 shandong.992.a:0 "자비를 회복하는 것은 결코 쉽지 않다"
 
-shandong.21.t:0 "Song Zheyuan asks Qing for help against riots"
-shandong.21.d:0 "After the magistrates of Beijing arrested the vile warlord Zhang Zongchang, they were assigned to gather a report on his crimes for the prosecution. It therefore came as a suprise when the new Governor of Shandong, Song Zheyuan, sent a copy of these witness accounts directly to the Emperor. These eyewitness accounts not only condemn Zhang Zongchang further, but point strongly towards ongoing instability in Shandong that resulted from Zhang Zongchang's regime. Song Zheyuan has used this to heavily imply that further military assistance is needed to secure Shandong for Beijing. We are inclined to assist Song Zheyuan once again, save for the numerous other very important uses of our gendarmerie that the Chief of the Army has already planned out. What are we to do?"
-shandong.21.a:0 "No, we have more pressing concerns"
-shandong.21.b:0 "Fine, send a division to help"
+shandong.21.t:0 "쑹저위안이 청에 반군을 막기 위한 도움을 요청하다"
+shandong.21.d:0 "베이징에서 온 치안판사가 사악한 군벌 장쭝창을 체포한 이후, 그의 범죄를 고발하기 위해 보고서를 작성하라는 임무를 받았습니다. 그렇기 때문에 새로 부임한 산동성장 쑹저위안이 목격자들의 증언을 정리한 사본을 황제에게 직접 보낸 일은 상당히 놀라운 사건이었습니다. 목격 증언은 장쭝창의 죄를 한층 더 늘릴 뿐만 아니라, 장쭝창 정권이 초래해 현재 산동이 직면하게 된 불안정을 강력하게 지적하고 있습니다. 쑹저위안은 이번 증언록을 통해 산동을 안전하게 확보하기 위해서는 베이징에서 군사적 지원을 추가로 보내야 한다고 강력하게 시사했습니다. 다시 한번 쑹저위안을 돕고자 합니다만, 그러기 위해서는 군 사령관이 이미 계획해 둔 매우 중요한 용도에 사용하기 위해 할당해둔 헌병대를 사용해야 합니다. 어떻게 해야 할까요?"
+shandong.21.a:0 "안돼. 더 중요한 현안이 있다"
+shandong.21.b:0 "좋아, 한개 사단을 파견해 돕도록 해라"
 
 ### 400 - 409 Natpop Flavor Events
 
-shandong.400.t:0 "Zhao Matriarch Joins Zhang Tianran"
-shandong.400.d:0 "In the sea of refugees that flee northeastern China, many promises are made to the Homored Master Zhang Tianran. Many peasants have entrusted Zhang with their lives possessions, others have sworn themselves to fight in the Red Spears for Shandong. On a sunny day, a woman wearing winter garb from Beijing approached Zhang Tianran. The Yiguandao guards claim she is a matriarch like Tianran's wife, Sun Suzhen, but she stands before him with two pistols on her belt. Zhao Hong Wenguo, mother of Beijing student leader Zhao Dong, is here to offer her families services to the Yiguandao. Zhao Hong Wenguo claims to do this not out of religious loyalty or financial need, but because the Yiguandao appears to her the essential resistance against Japanese aggression that threatens her home. The Honored Master agrees, and reiterates his promise to never cooperate with the Japanese in exchange for her families financial and tactical services. Zhao Hong Wenguo also insits in leading Red Spears and Big Sword divisions as a full fledged Field Marshall."
-shandong.400.a:0 "Her resolve leaves us no doubt of her ability."
+shandong.400.t:0 "자오 가문 가주가 장톈란과 합류하다"
+shandong.400.d:0 "중국 동북지역에서 도망치는 난민들의 파도 속에서 많은 이가 장톈란 천사에게 충성을 맹세했습니다. 수많은 소작농이 천사에게 자신의 생명까지 맡겼고, 다른 이들은 산동을 위해 홍창회에서 싸우겠다고 맹세했습니다. 어느 화창한 날, 베이징에서 온 겨울옷을 입은 한 여인이 장톈란에게 다가왔습니다. 일관도 경비병은 그녀가 장톈란의 아내 쑨쑤전과 같은 여성 가주라고 주장했지만, 그녀는 허리춤에 권총 두 정을 차고 장톈란 앞에 섰습니다. 베이징 학생 지도자 자오둥의 어머니인 자오훙원궈는 가족들과 함께 일관도를 찾아왔습니다. 자오훙원궈는 일관도와 함께 일하고자 하는 이유가 종교적 충성이나 돈 때문이 아니고, 일관도가 그녀의 고향을 위협하는 일본의 침략 야욕에 저항하는 핵심적인 집단이기 때문이라고 주장했습니다. 천사는 동의했습니다. 그리고 그녀의 가문이 재정적, 군사적 복무를 제공하는 대가로 일본과 절대로 협력하지 않겠다는 약속을 재확인했습니다. 또한 자오훙원궈는 자신이 홍창회와 대도회를 지휘할 수 있도록 완전한 자격을 갖춘 야전 사령관이 되어야 한다고 고집했습니다."
+shandong.400.a:0 "그녀의 다짐을 보아하니 능력에 한점 의심이 없겠구나."
 
-shandong.401.t:0 "Tianran publishes Provisional Etiquette"
-shandong.401.d:0 "Tianran has long pushed that the teachings of Buddhism and Confucius are integral aspects of Chinese society that can never be questioned. Within the inner circle of the Yiguandao, a debate rages between Zhang Tianran and Sun Suzhen over how to best engage the literati in Shandong. Tianran and Suzhen have both collaborated on a book entitled 'Provisional Etiquette', intended to demonstrate how the Yiguandao respects the spiritual lineage of chinese leadership. To Zhang Tianran, who was once a minor bureaucrat under Yuan Shikai, the spiritual lineage of China's dictator went from the the Regent Zaifeng to Yuan Shikai, then finally to the enthroned Puyi. To Sun Suzhen however, spiritual lineage in China belonged to Sun Yat-Sen, and through Sun Yat-Sen's death there is no true spiritual leader of China currently. Zhang's interpretation appears to hold to his agreement to promote Puyi as Emperor within the Yiguandao, but ignores the wellspring of spiritual support for the southern idealists."
-shandong.401.a:0 "Zhang is right, praise Puyi"
-shandong.401.b:0 "Sun is right, praise Sun Yat-Sen"
+shandong.401.t:0 "장톈란이 '상관준칙'을 출판하다"
+shandong.401.d:0 "장톈란은 예로부터 불교와 유교의 가르침은 의심의 여지가 전혀 없이 중국 사회의 필요불가결한 부분이라고 주장했습니다. 일관도 내 핵심층 내에서 장톈란과 쑨쑤젠 사이에 산동의 문인들을 끌어들이기 위한 최선의 방책이 무엇일지에 관한 논쟁이 불붙었습니다. 장톈란과 쑨쑤젠은 일관도가 중국 지도력의 영적 혈통을 어떤 방식으로 존경하는지 보여주기 위해 함께 '상관준칙'이라는 제목의 책을 공동으로 작성했습니다. 한때 위안스카이 아래에서 하급 관료를 맡은 바 있던 장톈란은  중국 독재자의 영적 혈통은 섭정왕 왕짜이펑에서 위안스카이로 이어졌고, 결국 황위를 계승한 푸이에게로 이어졌다고 주장합니다. 하지만 쑨쑤젠은 중국의 영적 혈통은 쑨원에게 속하며 쑨원이 죽은 이후 현재 중국에는 진정한 영적 지도자가 존재하지 않는다고 말합니다. 장톈란의 해석은 일관도 내에서 푸이를 황제로 인정하겠다는 약속을 내포하고 있습니다만, 남부 이상주의자들의 영적 지지를 포기하는 선택이기도 합니다."
+shandong.401.a:0 "장톈란이 옳다. 푸이를 찬양하자"
+shandong.401.b:0 "쑨쑤젠이 옳다. 쑨원을 찬양하자"
 
 shandong.402.t:0 "Tianran Warns Public of Maha-Kalpa"
 shandong.402.d:0 "Spoken often within the temples and schools, but elusive to the secular public, Zhang Tianran has decided to reveal the existence of the Maha-Kalpa prophecy a public rally. To Zhang Tianran and the Yiguandao, the history of the world is divided into three periods by three periods of peace and barbarism, represented by Three Suns. The last aeon, that of the Red Sun, ended with the Xinhai Revolution. The Confucian legend Kang Yuowei is refenced in Zhang Tianran's speech, which agreed that the third age, Datong, or Maha-Kalpa was dawning. Soon, claims Tianran, the Chinese people will be perfected racially or be destroyed by foreigners like the Japanese Emperor or the British Empire.\n\nTo the uncertain people of Shandong, the only concrete suggestion out of so much esoteric ado is that they should work harder towards national unification, and reinforces the already-prevelant feeling of existential struggle they feel."
