@@ -108,11 +108,11 @@ SER_naval_investments:0 "해군 투자"
 SER_naval_investments_desc:0 "정부는 조선업에 박차를 가하기 위해 예산의 상당 부분을 차지하는 엄청난 자금을 투자하는 중입니다."
 
 ### Tech Sharing ###
-balkan_research_name:0 "발칸 연구 이니셔티브"
+balkan_research_name:0 "발칸 연구 계획"
 balkan_research_desc:0 ""
 
-SER_balkan_research_idea:0 "발칸 연구 이니셔티브"
-SER_balkan_research_idea_tooltip:0 "§H발칸 연구 이니셔티브§!에 가입합니다\n    연구 속도: [?0.05|+=%]"
+SER_balkan_research_idea:0 "발칸 연구 계획"
+SER_balkan_research_idea_tooltip:0 "§H발칸 연구 계획§!에 가입합니다\n    연구 속도: [?0.05|+=%]"
 
 ### Decisions ###
 SER_Economic_Development_decisions:0 "경제 발전"
@@ -131,7 +131,7 @@ SER_Ultimatum_To_Bulgaria:0 "[BUL.GetNameDef]에 최후통첩"
 SER_End_The_Occupation_Of_Bulgaria:0 "불가리아 점령 종결"
 SER_Attack_Austria:0 "[AUS.GetNameDef] 공격"
 
-SER_Balkan_Research_Initiative_decisions:0 "발칸 연구 이니셔티브"
+SER_Balkan_Research_Initiative_decisions:0 "발칸 연구 계획"
 SER_Invite_Country:0 "[From.GetNameDef] 초대"
 
 SER_economic_council_decision:0 "조직 협약"
@@ -205,8 +205,8 @@ SER_One_Vojvoda_One_Nation_One_State_desc:0 "개혁을 시행해 새로운 번�
 SER_The_Congress_Of_Belgrade:0 "베오그라드 회의"
 SER_The_Congress_Of_Belgrade_desc:0 "불가리아 패권주의를 무너트리는 대업은 홀로 진행할 수 없습니다. 불가리아와 두드러진 문제를 겪는 중인 다른 국가들을 도울 필요가 있습니다. 불가리아가 약화되고 외교적으로 고립된 지금이야말로 문제를 해결할 최선의 기회입니다. 우리의 분투에 우방국들을 연계해 세르비아 남부를 해방해야 합니다."
 
-SER_The_Balkan_Research_Initiative:0 "발칸 연구 이니셔티브"
-SER_The_Balkan_Research_Initiative_desc:0 "발칸 반도의 여러 이질적인 국가들을 하나의 깃발 아래에 모으기 위해서는 많은 노력이 필요하겠지만, 장기적으로 본다면 상당히 유익한 결과를 가져올 것입니다. 발칸 지역은 서유럽이나 중앙유럽에 비해 저개발지역이기 때문에, 적에게 저항할 기회를 쟁취하기 위해서는 우리의 과학 기술 자원을 한데 모을 필요가 있습니다."
+SER_The_Balkan_Research_Initiative:0 "발칸 연구 계획"
+SER_The_Balkan_Research_Initiative_desc:0 "발칸반도의 여러 이질적인 국가들을 하나의 깃발 아래에 모으기 위해서는 많은 노력이 필요하겠지만, 장기적으로 본다면 상당히 유익한 결과를 가져올 것입니다. 발칸 지역은 서유럽이나 중앙유럽에 비해 저개발지역이기 때문에, 적에게 저항할 기회를 쟁취하기 위해서는 우리의 과학 기술 자원을 한데 모을 필요가 있습니다."
 
 SER_Together_Against_Austria:0 "다함께 오스트리아에 저항하자"
 SER_Together_Against_Austria_desc:0 "불가리아의 위협이 사라졌으니, 지금이야 말로 우리의 관심을 다음이자 가장 거대한 적에게로 돌려야 할 때입니다. 오스트리아는 수백년동안 동포 세르비아 민족들을 억압해왔고, 여태까지 우리가 시도했던 모든 노력들은 실패로 끝났습니다. 이런 역사적 부정을 바로 잡을 기회가 왔습니다. 합스부르크 가문은 고립되어 있습니다. 죽어가는 껍데기밖에 남지 않은 저 국가를 한번 때려 눕힐 때가 되었습니다!"
@@ -254,10 +254,10 @@ SER_Invest_In_Zadrugar:0 "자드루가르에 투자"
 SER_Invest_In_Zadrugar_desc:0 "농업기계화 과정의 일환으로 트랙터, 예비 부품, 정비에 대한 수요가 급격히 증가하며 산업이 이를 지원할 필요가 있습니다. 다행히도 세르비아의 자드루가르가 이 산업 분야를 전문적으로 다룹니다. 국가의 추가적인 지원을 통해, 증가 중인 수요를 더욱 쉽게 충족할 수 있을 것입니다."
 
 SER_Rural_Credit_Banks:0 "지방신용은행"
-SER_Rural_Credit_Banks_desc:0 "각설해서, 시골지역의 신용은 부족한 대신, 도심지에 흔히 집중됩니다. 지방신용은행은 농업국가에서 성장하며 그 존재감을 드러냈는데, 세르비아 또한 예외는 아닙니다. 이런 은행 시스템은 가난한 농민들에게 절실히 필요한 금융지원과 신용을 제공하기 위해 만들어졌으며, 이러한 은행 시스템은 시골 경제의 성장을 돕기 위해 늘어난 정부지원을 필요로 합니다."
+SER_Rural_Credit_Banks_desc:0 "각설해서 시골지역의 신용은 부족한 대신, 도심지에 흔히 집중됩니다. 지방신용은행은 농업국가에서 성장하며 그 존재감을 드러냈는데, 세르비아 또한 예외는 아닙니다. 이런 은행 시스템은 가난한 농민들에게 절실히 필요한 금융지원과 신용을 제공하기 위해 만들어졌으며, 이러한 은행 시스템은 시골 경제의 성장을 돕기 위해 늘어난 정부지원을 필요로 합니다."
 
 SER_Emergency_Economic_Relief:0 "비상 경제 구제"
-SER_Emergency_Economic_Relief_desc:0 "검은 월요일은 유럽 전역을 강타했으며 세르비아 또한, 슬프게도, 예외는 아니었습니다. 어떤 잘못도 저지르지 않았는데 힘든 시기에 굴러떨어진 불쌍한 세르비아 사람들을 돕기 위한 긴급조치가 신속히 제정되어야 합니다. 경제가 회복될 때까지, 우리는 반드시 최대한 많은 사람이 길거리에서 굶주려 죽는 일이 없게 해야만 합니다."
+SER_Emergency_Economic_Relief_desc:0 "검은 월요일은 유럽 전역을 강타했으며 세르비아 또한, 슬프게도 예외는 아니었습니다. 어떤 잘못도 저지르지 않았는데 힘든 시기에 굴러떨어진 불쌍한 세르비아 사람들을 돕기 위한 긴급조치가 신속히 제정되어야 합니다. 경제가 회복될 때까지, 우리는 반드시 최대한 많은 사람이 길거리에서 굶주려 죽는 일이 없게 해야만 합니다."
 
 SER_Modernise_Belgrade:0 "베오그라드 현대화"
 SER_Modernise_Belgrade_desc:0 "수도가 대전쟁으로 인한 파괴에서 회복되었으나, 베오그라드는 유럽의 다른 수도와 비교해 계속 낙후된 상태입니다. 위대한 도시를 현대세계로 이끌어오려면 더 많은 노력과 투자가 요구됩니다."
@@ -373,7 +373,7 @@ SER_Focus_On_Light_Ships_desc:0 "We would be deluded to think that we can afford
 SER_Shipbuilding_Investments:0 "건함 투자"
 SER_Shipbuilding_Investments_desc:0 "Our shipbuilders are inexperienced and lacking funds; they will need further help from the government to rectify these issues. We will need to order more ships from them and expand our naval budget to accomodate the project's difficulties in acquiring tools, experienced specialists, missing components, and so on."
 
-SER_First_Naval_Exercises:0 "첫번째 해군 훈련"
+SER_First_Naval_Exercises:0 "첫 번째 해군 훈련"
 SER_First_Naval_Exercises_desc:0 "The Serbian flag will be, for the first time in history, seen floating on ships out at sea. It will not be easy to create traditions for our new navy and we have relatively few experienced seamen in Serbia, but this is the first step, and the Serbian people will show that it is capable of overcoming any challenge."
 
 ### Events ###
@@ -382,11 +382,11 @@ serbia.0.d:0 "1914년에 일어난 세르비아 민족주의자의 페르디난�
 serbia.0.a:0 "세르비아는 다시 위대해질 것이다!"
 
 serbia.1.t:0 "검은 월요일이 세르비아를 강타하다!"
-serbia.1.d:0 "세계대전 종식 이후 우리 경제는 문제가 많았습니다. 그 엄청난 참상은 우리가 채울 수 없는 거대한 공백을 남겼습니다. 산업은 흔적도 없어졌고 한 세대 전체가 전쟁의 참혹함으로 인해 사라졌습니다. 그럼에도 불구하고 주로 전쟁 전에 우리를 지탱해 준 수익성 있는 작물 수출에 기초한 쇠약한 경제이지만 우리는 부분적으로 회복할 수 있었고 페타르 보요비치 휘하에서 안정을 찾았습니다.\n\n독일 증시의 붕괴는 그 모든 일을 끝마쳤습니다. 우리 생산물의 가장 큰 시장이 증발하며 가장 큰 경제 부문이 붕괴하기 시작했습니다. 산업화 부족은 최근 경제 개혁의 근본적인 약점을 폭로하고 있습니다. 세르비아의 상대적인 고립 덕분에 독일과 같은 완전한 붕괴는 막아냈으며 일부 핵심 산업을 보호할 수 있었습니다. 재무장관이자 베오그라드 증권거래소 부소장인 밀란 스토야디노비치는 디나르화를 안정시키고 경제를 정상 궤도에 올려놓기 위한 일련의 엄격한 비상조치를 준비하고 있는데, 이 조치가 준비되면 섭정의 승인을 받을 것으로 예상됩니다."
+serbia.1.d:0 "세계대전 종전 이후 우리 경제는 문제가 많았습니다. 그 엄청난 참상은 우리가 채울 수 없는 거대한 공백을 남겼습니다. 산업은 흔적도 없어졌고 한 세대 전체가 전쟁의 참혹함으로 인해 사라졌습니다. 그럼에도 불구하고 주로 전쟁 전에 우리를 지탱해 준 수익성 있는 작물 수출에 기초한 쇠약한 경제이지만 우리는 부분적으로 회복할 수 있었고 페타르 보요비치 휘하에서 안정을 찾았습니다.\n\n독일 증시의 붕괴는 그 모든 일을 끝마쳤습니다. 우리 생산물의 가장 큰 시장이 증발하며 가장 큰 경제 부문이 붕괴하기 시작했습니다. 산업화 부족은 최근 경제개혁의 근본적인 약점을 폭로하고 있습니다. 세르비아의 상대적인 고립 덕분에 독일과 같은 완전한 붕괴는 막아냈으며 일부 핵심 산업을 보호할 수 있었습니다. 재무장관이자 베오그라드 증권거래소 부소장인 밀란 스토야디노비치는 디나르화를 안정시키고 경제를 정상 궤도에 올려놓기 위한 일련의 엄격한 비상조치를 준비하고 있는데, 이 조치가 준비되면 섭정의 승인을 받을 것으로 예상됩니다."
 serbia.1.a:0 "재앙이로군!"
 
 serbia.2.t:0 "오스트리아가 국경에서 물러나다"
-serbia.2.d:0 "점령은 1926년에 끝났지만, 오스트리아군의 위협은 여전했습니다. 빈은 범슬라브 반란이 일리리아 설립으로 외교적으로 종결된 이후 줄곧 우리 국경에 군대를 배치했습니다. 무장해제 국가인 세르비아는 합스부르크의 분노를 불러일으킬 엄두를 내지 못한 채 침묵을 지킬 수밖에 없었습니다. 하지만 이 위협은 바뀌었습니다...\n검은 월요일로 인해 이중 제국 내 권력 균형이 완전히 뒤엎어졌고, 오늘 오스트리아군이 몇 주 전 이탈리아에서 그랬던 것처럼 세르비아 국경에서 군 대부분을 철수하기 시작했습니다. 우리는 아직 왜 철수를 했는지 완전히 알지 못합니다. 인종 갈등이 20년대처럼 불거지기 시작했을까요, 아니면 뭔가 더 불길한 일이 있을까요? 이유가 무엇이든 세르비아의 연약한 독립이 그만큼 더 안전하다는 것을 알면서, 보이보다는 밤에 조금 더 편하게 숨을 쉬었습니다."
+serbia.2.d:0 "점령은 1926년에 끝났지만, 오스트리아군의 위협은 여전했습니다. 빈은 범슬라브 반란이 일리리아 설립으로 외교적으로 종결된 이후 줄곧 우리 국경에 군대를 배치했습니다. 무장해제 국가인 세르비아는 합스부르크의 분노를 불러일으킬 엄두를 내지 못한 채 침묵을 지킬 수밖에 없었습니다. 하지만 이 위협은 바뀌었습니다...\n검은 월요일로 인해 이중제국 내 권력 균형이 완전히 뒤엎어졌고, 오늘 오스트리아군이 몇 주 전 이탈리아에서 그랬던 것처럼 세르비아 국경에서 군 대부분을 철수하기 시작했습니다. 우리는 아직 왜 철수를 했는지 완전히 알지 못합니다. 인종 갈등이 20년대처럼 불거지기 시작했을까요, 아니면 뭔가 더 불길한 일이 있을까요? 이유가 무엇이든 세르비아의 연약한 독립이 그만큼 더 안전하다는 것을 알면서, 보이보다는 밤에 조금 더 편하게 숨을 쉬었습니다."
 serbia.2.a:0 "아마도 기회 아닐까?"
 
 serbia.3.t:0 "전선의 고요"
