@@ -532,6 +532,7 @@ NATFRA_granted_indemnities_idea:0 "보장받은 보상"
 NATFRA_granted_indemnities_idea_desc:0 "망명자들은 이전에 가졌던 모든 것을 되찾는 대신 추가 정부 보조금으로 만족할 것입니다. 만약 우리가 과거 망명자들의 소유였던 모든 재산을 압류하려고 한다면, 우린 거센 저항을 맞닥뜨리게 될겁니다."
 NATFRA_compromise_committee_idea:0 "타협 위원회"
 NATFRA_compromise_committee_idea_desc:0 "우리는 망명자들이 과거에 소유했던 자산에 대한 청구를 감독하는 위원회를 만들어 귀환한 망명자들과 메트로폴에 남아있던 사람들 사이의 미묘한 균형을 유지해야 합니다."
+
 ##Second Political Trees Ideas
 
 #AF
@@ -545,6 +546,7 @@ NATFRA_Expand_Camelots_idea:0 "카멜롯 확충"
 NATFRA_Expand_Camelots_idea_desc:0 "카멜롯은 새로운 세대들이 사회주의적 오염에서 벗어나 신, 왕실, 그리고 국가를 섬기는 교육을 받을는 대중적 청소년 단체로써 성공적으로 변모했습니다."
 NATFRA_Social_Doctrine_idea:0 "강제된 사회 교리"
 NATFRA_Social_Doctrine_idea_desc:0 "천주교의 사회 교리는 국가와 신자들이 인간의 존엄성을 지키도록 하고 있습니다. 사회 교리를 강제함으로써 왕은 개인적인 경건함을 보여주고 오랫동안 고통 받아온 우리 민족을 더 거룩한 삶으로 이끌 뿐만 아니라, 그들이 다시는 신의 없는 사회주의에 유혹되지 않도록 하고 있습니다."
+NATFRA_Integral_Monarch_idea:0 "통일주의적 군주"
 NATFRA_Integral_Monarch_idea_desc:0 "Much work remains to be done, it will take years to undo the damage done by the revolutions, but we are finally on the right track. France is once again led by a pious monarch, who has restored the Pays Réel and is ready to guide us towards further glory. France is no longer held down by the Gueuse or the Reds: the rightful Sacramental Kingdom is reborn."
 
 #Redressment
