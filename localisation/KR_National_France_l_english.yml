@@ -529,23 +529,23 @@ NATFRA_War_GER_idea:0 "베르사유의 복수"
 NATFRA_Never_Fall_idea:0 "우린 다시는 무너지지 않으리"
 
 NATFRA_granted_indemnities_idea:0 "보장받은 보상"
-NATFRA_granted_indemnities_idea_desc:0 "While some may have wished for everything to be returned to them, this government stipend must satisfy them instead. We would otherwise face an emboldened resistance if we were to attempt to seize all the previous owned possessions of the Exiles."
+NATFRA_granted_indemnities_idea_desc:0 "망명자들은 이전에 가졌던 모든 것을 되찾는 대신 추가 정부 보조금으로 만족할 것입니다. 만약 우리가 과거 망명자들의 소유였던 모든 재산을 압류하려고 한다면, 우린 거센 저항을 맞닥뜨리게 될겁니다."
 NATFRA_compromise_committee_idea:0 "타협 위원회"
-NATFRA_compromise_committee_idea_desc:0 "We shall set up committees to oversee claims made on previously owned property to ensure that a delicate balance is maintained between the returning exiles and the population who have remained in the Métropole."
+NATFRA_compromise_committee_idea_desc:0 "우리는 망명자들이 과거에 소유했던 자산에 대한 청구를 감독하는 위원회를 만들어 귀환한 망명자들과 메트로폴에 남아있던 사람들 사이의 미묘한 균형을 유지해야 합니다."
 
 ##Second Political Trees Ideas
 
 #AF
 NATFRA_Return_Monarch_1_idea:0 "군주의 귀환"
 NATFRA_Return_Monarch_1_idea_desc:0 "우리가 되돌려 놓은 프랑스는 우리가 수십년 전 잃었던 그 프랑스와는 다릅니다. 코뮌 정부는 프랑스를 오늘날의 국가로 세워낸 사람들이 누구인지, 국민들이 알지 못하도록 몇 년이나 선동하고 있습니다! 왕가는 과거부터 프랑스를 세워냈고, 이제 왕가는 다시 프랑스를 재건할 것입니다!"
-NATFRA_Cercle_Proudhon_1_idea:0 "Cercle Proudhon"
-NATFRA_Cercle_Proudhon_1_idea_desc:0 "The Cercle Proudhon, a think-tank made up of pre-war national-syndicalist leaders is now working with the Crown to help our people understand that national integralism and the King are the true way to fulfill the destiny of France."
+NATFRA_Cercle_Proudhon_1_idea:0 "프루동 서클"
+NATFRA_Cercle_Proudhon_1_idea_desc:0 "전쟁 전 국가 생디칼리스트 지도자들로 구성된 싱크탱크인 프루동 서클은 이제 국가 인테그랄리즘만이 진정한 프랑스의 운명을 실현하는 유일한 길이라는 것을 우리 국민들이 이해할 수 있도록 왕실과 협력하고 있습니다."
 NATFRA_Province_Parliament_idea:0 "지방의회 복원"
-NATFRA_Province_Parliament_idea_desc:0 "The 1789 Revolution had stripped away the autonomy of the French provinces, denying their rights, privileges, and local identities. The newly restored parliaments will make sure that each province is governed as it should be, with suitable autonomy and concern for their particularities."
+NATFRA_Province_Parliament_idea_desc:0 "1789년의 혁명은 프랑스 지방들의 권리, 특권, 그리고 지역 정체성을 부정하면서 그들의 자치권을 박탈했습니다. 이제 새롭게 복원된 지방의회는 각 지방이 적절한 자치와 특수성을 고려하여 통치되도록 할 것입니다."
 NATFRA_Expand_Camelots_idea:0 "카멜롯 확충"
-NATFRA_Expand_Camelots_idea_desc:0 "The Camelots have successfully transformed into a mass youth organisation, ensuring that a new generation is educated free from socialist corruption, ready to serve God, Crown and Country."
-NATFRA_Social_Doctrine_idea:0 "Enforced Social Doctrine"
-NATFRA_Social_Doctrine_idea_desc:0 "The Social Doctrine of the Catholic Church demands that the state and the faithful ensure human dignity. By enforcing it, the King is not only showing his personal piety and leading our long-suffering people towards holier lives, but also making sure that they are not tempted ever again by godless socialism."
+NATFRA_Expand_Camelots_idea_desc:0 "카멜롯은 새로운 세대들이 사회주의적 오염에서 벗어나 신, 왕실, 그리고 국가를 섬기는 교육을 받을는 대중적 청소년 단체로써 성공적으로 변모했습니다."
+NATFRA_Social_Doctrine_idea:0 "강제된 사회 교리"
+NATFRA_Social_Doctrine_idea_desc:0 "천주교의 사회 교리는 국가와 신자들이 인간의 존엄성을 지키도록 하고 있습니다. 사회 교리를 강제함으로써 왕은 개인적인 경건함을 보여주고 오랫동안 고통 받아온 우리 민족을 더 거룩한 삶으로 이끌 뿐만 아니라, 그들이 다시는 신의 없는 사회주의에 유혹되지 않도록 하고 있습니다."
 NATFRA_Integral_Monarch_idea:0 "통일주의적 군주"
 NATFRA_Integral_Monarch_idea_desc:0 "Much work remains to be done, it will take years to undo the damage done by the revolutions, but we are finally on the right track. France is once again led by a pious monarch, who has restored the Pays Réel and is ready to guide us towards further glory. France is no longer held down by the Gueuse or the Reds: the rightful Sacramental Kingdom is reborn."
 
