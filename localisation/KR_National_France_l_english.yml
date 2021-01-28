@@ -1894,7 +1894,7 @@ nfa.111.b:0 "우리가 어떤 저항을 할 수 있을지 보자..."
 nfa.111.c:0 "우리는 약할지 모르지만 프랑스인들에게는 굴복하지 않을 것이다. 어떤 침략에도 저항하라."
 
 nfa.112.t:0 "모로코가 우리의 것이다!"
-nfa.112.d:0 "The falling German Empire has bowed to our demands and ceded the colony of Morocco to us. However, some rogue units refused to follow the orders of the Kaiser himself and are ready to resist the new French administration."
+nfa.112.d:0 "몰락해가는 독일 제국이 우리 요구를 받아들이고는 모로코의 식민지를 우리에게 내어주었습니다. 그렇지만, 몇몇 병력은 황제가 직접 내린 명령을 따르기를 거부하고 새로운 프랑스 행정부에 저항하려 하고 있습니다."
 nfa.112.a:0 "흠, 그것 참 이상하군."
 
 nfa.113.t:0 "모로코가 우리의 것이다!"
@@ -2617,12 +2617,12 @@ nfa.439.t:0 "이드 알피트르"
 nfa.439.d:0 "오늘은 라마단, 해가 뜰 때부터 질 때까지는 무슬림들이 그 무엇도 먹거나 마실 수 없는 성스러운 한 달이 끝나는 날입니다. 이 날이 되면 전 이슬람 세계의 신실한 신도들은 하루에서 사흘동안 이드 알피트르, '금식을 끝내는 축제'를 축하하는데, 무슬림들은 특별한 기도와 의식, 자선활동과 날 중의 축하행사, 가족 간의 만남, 특별한 간식과 선물 교환, 축제를 위한 집 장식, 그리고 가족과 친구들을 위한 성대한 새벽 만찬 준비 등, 다양한 활동으로 이를 축하합니다.\n\n이드 알아드하 다음으로 성스러운 축일로 여겨지는 이드 알피트르는, 우리나라의 원주민들 대부분이 중요히 여기는 날로, 라마단 금식의 끝을 알리는 축포 발사는 대부분의 대도시에선 관례가 되었으며, 우리 식민정부 또한 축제 준비에 함께하기도 합니다. 또, 우리 유럽계 국민들에게 있어선, 이슬람 종교와 의식에 대해 배우는 기회가 되기도 하지요."
 nfa.439.a:0 "이드 무바라크!"
 
-nfa.440.t:0 "Dispute from Sanekui"
+nfa.440.t:0 "사네쿠이에서의 분쟁"
 nfa.440.d:0 "Word has reached us regarding a conflict between two churches in the province of French Sudan. Recently, a Protestant missionary couple set out for the village of Sanekui after hearing about a small community of young converts who had come under attack by their pagan neighbours. Since their arrival, much work has been undertaken to convert more indigènes. However, this has attracted the attention of a nearby Catholic mission just a few miles away from where the missionaries have already begun building their church. Local authorities had already approved of the construction much to the anguish of the long-established Catholic missionaries seeing their Protestant neighbours leading growing numbers away from the Church. They reached out to colonial authorities, requesting that we overturn the local ruling and force the missionaries to move elsewhere, arguing that this couple seeks to sow dissent in the region."
 nfa.440.a:0 "개신교도들이 활동할 수 있도록 하라"
 nfa.440.b:0 "교회의 편에 서자"
 
-nfa.441.t:0 "From Persecution to Prospering"
+nfa.441.t:0 "박해에서 번영으로"
 nfa.441.d:0 "The road was never one free of suffering for the young church at Sanekui. First attacked by their pagan neighbours, Panca and his new converts struggled in their faith until their prayers were answered with the deliverance of a missionary couple. Next, the young church would be pressured by a nearby Catholic mission but the Protestant mission was allowed to stay and preach the word. The Apostle Paul's message from his epistle to the Romans that \"I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us,\" became a central message of the new church. These challenges pushed many to delve deep into the scriptures and diligently reinforce their faith.\n\nRecently, a large effort has been undertaken by the local population to reach across language barriers to their fellow Bobo people. Red Bobo Christians have reached out to Black Bobos living in their district to bring the gospel to them. Villages with a Christian presence have risen dramatically across the last few years and plans are beginning to form to found another mission closer to the Black Bobo people."
 nfa.441.a:0 "We are to be the light for the nations!"
 
@@ -2641,17 +2641,17 @@ nfa.473.d:0 "After the defeat of Napoléon the Third in the Franco-Prussian War 
 nfa.473.a:0 "금지시켜라, 우리는 동방의 '지혜'를 필요로 하지 않는다"
 nfa.473.b:0 "철저한 감시하에 출판을 허용해라"
 
-nfa.480.t:0 "Rise in Senussi resistance in [senussi_resistance_state.GetName]"
-nfa.480.d:0 "Our forces in [senussi_resistance_state.GetName] have reported that something seems to be agitating the senussi in the region to become bolder in their resistance against our colonial rule. Garrison commanders have requested an increase in the forces stationed in the region to help keep our French citizens safe."
-nfa.480.a:0 "We can't let these camel herders intimidate our people!"
+nfa.480.t:0 "[senussi_resistance_state.GetName]의 세누시 저항군이 강해지다"
+nfa.480.d:0 "[senussi_resistance_state.GetName]의 우리 병력이 무언가가 지역 내의 세누시들이 우리 식민통치를 상대로 더욱더 대담하게 저항하도록 선동하고 있다고 보고해왔습니다. 주둔군 사령관들은 프랑스인 시민들을 안전히 보호할 수 있도록 해당 지역에 더 많은 병력을 배치할 것을 요청했습니다."
+nfa.480.a:0 "이 낙타 몰이꾼들이 우리 사람들을 위협하게 둬서는 안된다!"
 
-nfa.481.t:0 "Rise in Senussi activity in [senussi_zawiya_state.GetName]"
-nfa.481.d:0 "Our forces in [senussi_zawiya_state.GetName] have reported increased sightings of the camel trains running out of Cyrenaica. While this is only a mild inconvenience at the moment, the increased presence could be a sign of further troubles to come."
-nfa.481.a:0 "We must remain ever vigilant!"
+nfa.481.t:0 "[senussi_zawiya_state.GetName]에서의 세누시의 활동이 활발해지다"
+nfa.481.d:0 "[senussi_zawiya_state.GetName]의 우리 병력이 키레나이카에서 오는 낙타 행렬이 더 많아졌다고 보고해왔습니다. 현재로서는 작고 하찮은 일에불과하겠지만, 이는 조만간 더 많은 문제가 닥쳐올 것이라는 신호일지도 모릅니다."
+nfa.481.a:0 "우린 경계를 게을리해선 안된다!
 
-nfa.482.t:0 "French Attack Zawiya"
-nfa.482.d:0 "In a brazen move, aimed at stopping senussi influence amongst our subjects, we have sent a detachement of the French army deep into the Sahara to raid their oases. Supported with modern rifles and air support, their Ikhwan stood no chance at stopping us but they were able to harass the French columns before retreating back into the deserts."
-nfa.482.a:0 "And don't come back!"
+nfa.482.t:0 "프랑스군의 자위야 공격"
+nfa.482.d:0 "세누시가 우리 사람들에게 영향을 끼치는 것을 막기 위해, 우린 대담하게도 놈들의 오아시스를 습격하도록 군부대를 사하라 깊은 곳에 파견했습니다. 놈들의 이크완 전사들은 현대식 소총과 공중지원을 갖춘 우리 병력과 상대가 되지 않았지만, 놈들은 사막으로 후퇴하기 전 아군 대열을 습격하는 덴 성공했습니다."
+nfa.482.a:0 "이제 다신 돌아오지 마라!"
 
 nfa.500.t:0 "A Traitor?"
 nfa.500.d:0 "'En Terre d’Islam', a monthly academic magazine dedicated to Islamic studies, has enjoyed a well-deserved success even among relatively mainstream audience, at least for this kind of publication. Our current exile has led many, particularly academics and clergymen, to seek a better understanding of the faith of so many of our countrymen. Some out of genuine interest or hope of interfaith dialogue, while others dream of large-scale conversion of the indigènes to Christianity. A recent open letter published anonymously in \"En Terre d’Islam\" is threatening the fragile religious equilibrium, however. The letter, calling for the formation of a \"Friday Prayer League for the Conversion of the Muslims\" to \"pray for our estranged brothers\" was well received within Catholic circles and would have likely not reached Muslim audiences if not for the identity of its author, leaked to the wider press in the following days: Father Jean-Mohamed Ben Abdejlil.\n\nThe man was recently ordained to the priesthood, becoming a professor at the Catholic Institute of Algiers last year. And yet, ten years ago, he was its first Muslim student. Coming from a prominent Morrocan family, a brilliant youth, fervent in his faith, he came under the protection of Marshal Lyautey, who encouraged him to further his studies in Algiers. There, he met famed orientalist Louis Massignon and Catholic philosopher Jacques Maritain. He had joined hoping to \"study the enemy\", a year later he would convert, two and he joined the Fransciscan Order. This high profile conversion had largely been swept under the rug due to fears of unrest, apostasy being a particularly severe act in Islam: such fears have been confirmed. The letter, translated and mistranslated, was widely shared in mosques and madrassas, and overwhelmingly received with contempt, if not anger, with even threats being directed towards Father Jean-Mohamed, who has gone into hiding."
@@ -2922,7 +2922,7 @@ nfa.459.a:0 "우린 그를 체포해야 한다, 어떤 위험도 감수할 수 �
 nfa.459.b:0 "그를 놔주되, 왕좌에 절대 접근하지 못하게 하자"
 
 nfa.460.t:0 "튀니지 철도 테러!"
-nfa.460.d:0 "'Kaboom!' resonating as if the Communards had just bombed the city, the detonation woke up a lot of inhabitants of the suburbs of the city. Terrorists had planted a bomb on the railway line passing by to Tunis. This line is instrumental to the supply of the region and even though the reparation won't take too long, the message sent stays clear: in case of war the terrorists could cut our supply lines with a simple explosion."
+nfa.460.d:0 "'콰광!' 폭발이 마치 코뮌놈들의 폭격과도 같은 소리를 내며, 도시 교외의 수많은 시민들을 깨웠습니다. 테러리스트들이 튀니스행 선로에 폭탄을 설치했던 것입니다. 이 선로는 지역 보급에 매우 중요한 역할을 하며, 이 선로의 수리는 얼마 걸리지 않겠지만, 확실한 것이 하나 있습니다: 만약 전쟁이 일어난다면, 테러리스트들이 폭탄 하나만 가지고 우리 보급선을 차단할 수도 있다는 겁니다."
 nfa.460.a:0 "망할놈들!"
 
 nfa.461.t:0 "튀니지의 민족주의 전단지"
