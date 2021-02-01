@@ -4,8 +4,8 @@ serbia_focus: "세르비아 중점계통도"
  
 ### Leaders ###
 POLITICS_SLOBODAN_JOVANOVIC_DESC:0 "세르비아의 법학자, 역사학자, 사회학자, 언론인이자 문학 평론가인 슬로보단 요바노비치는 유난히 분명하고 날카롭게 세상을 바라봅니다. 그의 유일한 관심은 세르비아 국민들과 헌법을 권위주의로부터 보호하는 것입니다."
-POLITICS_PETAR_BOJOVIC_DESC:0 "세르비아-오스만 전쟁, 세르비아-불가리아 전쟁, 발칸전쟁, 그리고 세계대전까지 군 사령관을 맡았던 보요비치는 세계대전 이후 오스트리아로부터 독립한 세르비아의 보이보다이자 통치자입니다."
-POLITICS_ALEXANDER_II_DESC:0 "발칸전쟁과 세계대전에서 군 사령관을 맡았던 예전의 세르비아 왕세자는 이제 국왕이 되었습니다. 그는 세르비아 카라조르제비치 왕조의 일원으로 그의 아버지에 이은 두 번째 왕입니다."
+POLITICS_PETAR_BOJOVIC_DESC:0 "세르비아-오스만 전쟁, 세르비아-불가리아 전쟁, 발칸 전쟁, 그리고 세계대전까지 군 사령관을 맡았던 보요비치는 세계대전 이후 오스트리아로부터 독립한 세르비아의 보이보다이자 통치자입니다."
+POLITICS_ALEXANDER_II_DESC:0 "발칸 전쟁과 세계대전에서 군 사령관을 맡았던 예전의 세르비아 왕세자는 이제 국왕이 되었습니다. 그는 세르비아 카라조르제비치 왕조의 일원으로 그의 아버지에 이은 두 번째 왕입니다."
 
 ### Parties ###
 SER_totalist_party:0 "중앙노동조합"
@@ -137,7 +137,7 @@ SER_Invite_Country:0 "[From.GetNameDef] 초대"
 SER_economic_council_decision:0 "조직 협약"
 SER_economic_council_decision_desc:0 "동맹국 사이의 유대를 강화하고 발칸 지역 전체의 경제 상황을 개선하기 위해 경제 연합체 구성을 제안할 수 있습니다. 각 회원국에서 차출한 무역 및 금융 전문가들로 구성된 베오그라드 조약 가담국 지도자들에게 조언할 경제위원회를 창설할 것입니다. 더 많은 회원국들의 동의를 얻을 수록 더 큰 혜택을 얻게 될 것입니다."
 SER_economic_council_expansion:0 "경제적 연대 강화"
-SER_economic_council_expansion_desc:0 "여태까지 경제 연합은 모든 가담국에게 매우 유익한 효과를 가져다 주는 것으로 판명되었으며, 경제위원회가 제시한 새로운 정책을 입안하여 이를 더욱 개선해야 할 입장에 있습니다."
+SER_economic_council_expansion_desc:0 "여태까지 경제 연합은 모든 가담국에 매우 유익한 효과를 가져다 주는 것으로 판명되었으며, 경제위원회가 제시한 새로운 정책을 입안하여 이를 더욱 개선해야 할 입장에 있습니다."
 SER_economic_council_application:0 "Apply to the Pact of Organization"
 SER_economic_council_application_desc:0 "We missed out on the original creation of the Pact of Organization because of war, but now that peace has returned, we can apply to the organization yet again."
 
@@ -147,9 +147,9 @@ SER_diplomatic_action:0 "Already in contact with a faction"
 ### Tooltips ###
 SER_founded_belgradepact:0 "베오그라드 조약 창설"
 joined_belgradepact:0 "베오그라드 조약 가입"
-balkan_war_started:0 "제4차 발칸전쟁 발발"
+balkan_war_started:0 "제4차 발칸 전쟁 발발"
 
-SER_will_declare_war_tooltip:0 "§R이 달 내로 베오그라드 조약의 모든 회원국들이 우리에게 전쟁을 선포할 것입니다!§!"
+SER_will_declare_war_tooltip:0 "§R이 달 내로 베오그라드 조약의 모든 회원국들이 우리에 전쟁을 선포할 것입니다!§!"
 SER_will_declare_war_allies_tooltip:0 "§R세르비아는 2주 내로 오스트리아에 전쟁을 선포할 것이며, 우리도 그렇게 하도록 유도할 것입니다.§!"
 
 SER_Encourage_Yugoslavism_tooltip:0 "§H통합§! 선택 비용 감소"
@@ -158,8 +158,8 @@ SER_Local_Designs_tooltip:0 "항공기 설계사 해금: §H아에로푸트§!, 
 SER_The_Serbian_Airforce_tooltip_RUS:0 "§H$SER_russian_aerial_expertise$§!와 §H$SER_local_designs_idea$§!를 §H$SER_airforce_idea$§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
 SER_The_Serbian_Airforce_tooltip_NFA:0 "§H$SER_french_aerial_expertise$§!와 §H$SER_local_designs_idea$§!를 §H$SER_airforce_idea$§!로 대체\n효과 변경:\n요격기 공격: [?0.1|+=%]\n요격기 방어: [?0.1|+=%]\n요격기 속도: [?0.1|+=%]"
 
-SER_the_dream_of_yugoslavia_tooltip:0 "다음의 효과를 가지는 §H$SER_the_dream_of_yugoslavia$§! 국민 정신을 획득합니다\n매일 정치력 획득: [?0.25|-=]\n§H[AUS.GetNameDefCap]§!:\n     해당 국가에 대한 공격력 보너스: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]\n§H[CRO.GetNameDefCap]§!:\n     Attack bonus against country: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]\n§H[HUN.GetNameDefCap]§!:\n     해당 국가에 대한 공격력 보너스: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]"
-SER_the_dream_of_yugoslavia_tooltip_no_AUS:0 "Gains National Spirit §H$SER_the_dream_of_yugoslavia$§!, which grants\nDaily Political Power Cost: [?0.25|-=]\nDivision Limit: [?12|+=0]\n§H[CRO.GetNameDefCap]§!:\n     Attack bonus against country: [?0.1|+=%1]\n     Defence bonus against country: [?0.1|+=%1]\n§H[HUN.GetNameDefCap]§!:\n     Attack bonus against country: [?0.1|+=%1]\n     Defence bonus against country: [?0.1|+=%1]"
+SER_the_dream_of_yugoslavia_tooltip:0 "다음의 효과를 가지는 §H$SER_the_dream_of_yugoslavia$§! 국민정신을 획득합니다\n매일 정치력 획득: [?0.25|-=]\n§H[AUS.GetNameDefCap]§!:\n     해당 국가에 대한 공격력 보너스: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]\n§H[CRO.GetNameDefCap]§!:\n     해당 국가에 대한 공격력 보너스: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]\n§H[HUN.GetNameDefCap]§!:\n     해당 국가에 대한 공격력 보너스: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]"
+SER_the_dream_of_yugoslavia_tooltip_no_AUS:0 "다음의 효과를 가지는 §H$SER_the_dream_of_yugoslavia$§! 국민정신을 획득합니다\n매일 정치력 획득: [?0.25|-=]\n사단 한계: [?12|+=0]\n§H[CRO.GetNameDefCap]§!:\n     해당 국가에 대한 공격력 보너스: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]\n§H[HUN.GetNameDefCap]§!:\n     해당 국가에 대한 공격력 보너스: [?0.1|+=%1]\n     해당 국가에 대한 방어력 보너스: [?0.1|+=%1]"
 SER_The_Dream_Fulfilled_tooltip:0 "§H$SER_the_dream_of_yugoslavia$§! 변동치\n매일 정치력 획득: [?0.35|+=]\n사단 회복률: [?0.05|+=%1]\n안정도: [?0.05|+=%]"
 
 SER_has_black_monday:0 "§H$SER_black_monday$§! 국민정신을 가짐"
@@ -170,7 +170,7 @@ SER_if_ENT_agrees:0 "만약 §H[ENT.GetFlag] [ENT.GetNameDef]§! (이)가 승인
 
 ### Focuses ###
 SER_Return_Of_The_Crown_Prince:0 "왕세자의 귀환"
-SER_Return_Of_The_Crown_Prince_desc:0 "전쟁영웅 알렉산다르 카라조르제비치가 십 년이 넘는 망명 생활을 끝내고 베오그라드로 귀환했습니다. 왕세자가 세르비아 왕위에 오르면서 전국이 환호를 부르고 있습니다. 현대주의자이자 군국주의자인 그의 자애로운 통치가 있어야만 왕국이 부강해질 수 있습니다. 국왕 폐하 만세!"
+SER_Return_Of_The_Crown_Prince_desc:0 "전쟁 영웅 알렉산다르 카라조르제비치가 10년이 넘는 망명생활을 끝내고 베오그라드로 귀환했습니다. 왕세자가 세르비아 왕위에 오르면서 전국이 환호를 부르고 있습니다. 현대주의자이자 군국주의자인 그의 자애로운 통치가 있어야만 왕국이 부강해질 수 있습니다. 국왕 폐하 만세!"
 
 SER_Alexanders_Vision:0 "알렉산다르의 목표"
 SER_Alexanders_Vision_desc:0 "위대한 우리나라가 현대에 들어서기 위해서는 급진적인 정치판 개선이 필요합니다. 완벽한 조화를 이루며 함께 일하는 국왕과 지브코비치는 보요비치의 헌법을 유예하고 잿더미 속에서 모든 국민들이 자랑스러워 할 정도로 강력한 정부를 세울 계획을 세웠습니다. 그 무엇도 진보와 수복이라는 페하의 고귀한 목표를 방해할 수 없습니다!"
@@ -320,7 +320,7 @@ SER_Expand_The_Serbian_Aviation_Command:0 "세르비아 공군 사령부 확장"
 SER_Expand_The_Serbian_Aviation_Command_desc:0 "The Serbian "Airforce" for a lack of a better term had no real chance against the Austrian/Hungarian Luftfahrtruppen. Now with those bastards reeling back, the Serbian High command has deemed it fit to expand it's air wing... now to find pilots to fly the damn things."
 
 SER_Seek_New_Expertise:0 "신식 항공 기술 탐색"
-SER_Seek_New_Expertise_desc:0 "세르비아에게는 숙련된 조종사가 있으나, 외국의 전문가들을 구해야만 합니다만... 진짜 문제는 누구를 불러올지...?"
+SER_Seek_New_Expertise_desc:0 "세르비아에는 숙련된 조종사가 있으나, 외국의 전문가들을 구해야만 합니다만... 진짜 문제는 누구를 불러올지...?"
 
 SER_Local_Munition_Efforts:0 "장비 국산화 시도"
 SER_Local_Munition_Efforts_desc:0 "세르비아는 보다 자립하고자 지역의 장인들에게 군수품과 무기 생산에 인센티브를 준다는 제안을 시작했습니다. 이 노력이 결실을 맺으려면 규격화가 필요하겠지만, 장기적으는 엄청난 이익이 될 것입니다."
@@ -359,7 +359,7 @@ SER_Connect_The_Railways:0 "철로 연결"
 SER_Connect_The_Railways_desc:0 "Owing to the mutual hatred of Vienna and us, gaps in our railways exist along the former Montenegrin border. Lets bridge the gap and bring our country together."
 
 SER_Revive_The_Serbian_Navy:0 "세르비아 해군 창설"
-SER_Revive_The_Serbian_Navy_desc:0 "여태까지 육지에 둘러싸여 있던 현대 세르비아 국가는 해군을 한번도 가져본 적이 없습니다. 새 해안선을 지키기 위한 해군을 건설하는 작업은 오랜 작업이 될 것입니다. 그러므로 해군의 기초를 세우기 위해 새로 획득한 영토와 기존에 운영하던 하천 해군에게 도움을 받아야 합니다."
+SER_Revive_The_Serbian_Navy_desc:0 "여태까지 육지에 둘러싸여 있던 현대 세르비아 국가는 해군을 한번도 가져본 적이 없습니다. 새 해안선을 지키기 위한 해군을 건설하는 작업은 오랜 작업이 될 것입니다. 그러므로 해군의 기초를 세우기 위해 새로 획득한 영토와 기존에 운영하던 하천 해군에 도움을 받아야 합니다."
 
 SER_Dockyard_Construction:0 "조선소 건설"
 SER_Dockyard_Construction_desc:0 "우리 해안선은 군용 함선 건조 능력이 부족합니다. 조선 수요를 충족시킬 수 있도록 해군 산업을 활성화하기 위해서는 정부에서 진지하게 투자에 참여해야 합니다."
@@ -391,7 +391,7 @@ serbia.2.a:0 "아마도 기회 아닐까?"
 
 serbia.3.t:0 "전선의 고요"
 serbia.3.d:0 "지난 달, 오스트리아군의 느린 철수는 많은 사람들을 놀라게 했고 혼란스럽게 만들었으며, 새로운 준비가 되어있는 것 같습니다. 합스부르크는 국가 불안이 가중되고 있다는 명분으로 국경을 지키는데 최소한의 인원만을 남겨두었습니다. 오스트리아의 영원한 감시가 움직인 것은 분명하고, 우리는 20년간의 억압 끝에 마침내 빈의 멍에에서 벗어났습니다!\n\n그러나 이 새로 얻은 자유를 어떻게 해야 할까요? 오랜 섭정이자 보이보다인 페타르 보요비치는 수많은 질문을 받았지만 거의 대답할 수 없었습니다. 그는 오스트리아가 대규모의 군을 데리고 돌아온다는 것을 알고 있으며 기회의 창구는 작습니다. 그 창구는 검은 월요일의 충격으로 더 줄어들었고, 그 충격으로 우리 또한 약해졌습니다. 그는 이 절호의 기회 앞에서 약하고 비효율적인 것처럼 보일 수 없으며 따라서 세르비아의 독립을 공고히 하기 위해 앞으로 몇 주 안에 보요비치가 정치적인 움직임을 보일 것입니다."
-serbia.3.a:0 "우리는 오스트리아에게서 해방되었다. 적어도 지금은."
+serbia.3.a:0 "우리는 오스트리아에서 해방되었다. 적어도 지금은."
 
 serbia.4.t:0 "몬테네그로에서 커져가는 불안"
 serbia.4.d.CRO:0 "우리 일리리아인 국가가 수립된 이래로, 우리는 줄곧 남슬라브 지역에서 불필요한 민족 갈등이 소멸되기를 바라왔습니다. 실제로 불미스러운 급진운동이 해체되고, 반오스트리아 단체가 입장을 바꾸는 등 가시적인 성과를 목도하기도 했습니다. 그러나 오랫동안 친세르비아 선전에 시달려온 몬테네그로 지역의 경우에는 그렇지 않은 것이 분명합니다.\n\n지난 몇 년간, 세르비아-몬테네그로계 조합주의 정당인 인민당의 활동이 조직을 탄압하려는 우리의 시도에도 불구하고 늘어났습니다. 그들은 크로아티아 주도의 일리리아 의회에 반대하며, 이후 국정에 있어 목소리를 내지 못하는 상황에 맞서 싸우고 있습니다. 게다가, 그들은 최근 지역 의회에 대한 통제권을 확고히 함으로써 좀 더 심기를 건드렸습니다. 최근의 소요사태를 세르비아가 사주했다고 암시하는 증거는 없지만, 만약 사태가 훨씬 더 악화된다면 세르비아는 분명히 소요사태를 이용하려고 시도할 것입니다."
@@ -408,7 +408,7 @@ serbia.6.d:0 "몬테네그로는 카드로 쌓은 집과도 같았습니다. 약
 serbia.6.a:0 "몬테네그로와 세르비아!"
 
 serbia.7.t:0 "혼란에 빠진 포드고리차!"
-serbia.7.d.CRO:0 "우리는 몬테네그로의 불안이 좋지 않다는 것은 알고 있었지만, 그 지역 전체가 카드집이었던 것 같습니다. 아주 작은 위기에도 무너질 준비가 되어 있었습니다.\n\n며칠 전 생디칼리슴에 동조한 크로아티아인 군인이 세르비아인 가족을 살해하고 자살한 사건은 포드고리차를 혼란에 빠뜨렸습니다. 이 사건의 배후로 지목된 군대는 시위를 진압하는 데 거의 효과가 없었고, 결국 수도에서 질서가 무너졌습니다. 몬테네그로 인민당의 원로인 안드리야 라도비치는 몬테네그로의 일리리아 연방 탈퇴를 선언했습니다. 몇 시간 후, 세르비아와 몬테네그로 사이에 공식적인 남-슬라브 연합을 창설하기 위한 법안이 도입되었으며, 일리리아군은 현재 세르비아 영토에서 빠져나갈 수 있도록 허용되었습니다. 몬테네그로는 불과 6시간 만에 합법적으로 세르비아에 병합되었습니다.\n\n그 사건들은 매우 의심스럽지만, 이탈과 연합에 관한 모든 것이 합법적인 것처럼 보이며, 어쩐 때는 세르비아인들의 무모한 개입보다는 중립적인 것으로 보입니다. 그럼에도 불구하고 이 사건 전체가 일리리아에 터무니없는 일입니다. 비록 크로아티아-세르비아 동맹의 경쟁국들에게 정치적으로 힘을 실어주더라도, 우리가 국가를 유지하려면 즉시 우리 국경 안에 있는 세르비아인에게 양보를 해야 한다는 것은 분명합니다."
+serbia.7.d.CRO:0 "우리는 몬테네그로의 불안이 좋지 않다는 것은 알고 있었지만, 그 지역 전체가 카드집이었던 것 같습니다. 아주 작은 위기에도 무너질 준비가 되어 있었습니다.\n\n며칠 전 생디칼리슴에 동조한 크로아티아인 군인이 세르비아인 가족을 살해하고 자살한 사건은 포드고리차를 혼란에 빠뜨렸습니다. 이 사건의 배후로 지목된 군대는 시위를 진압하는 데 거의 효과가 없었고, 결국 수도에서 질서가 무너졌습니다. 몬테네그로 인민당의 원로인 안드리야 라도비치는 몬테네그로의 일리리아 연방 탈퇴를 선언했습니다. 몇 시간 후, 세르비아와 몬테네그로 사이에 공식적인 남-슬라브 연합을 창설하기 위한 법안이 도입되었으며, 일리리아군은 현재 세르비아 영토에서 빠져나갈 수 있도록 허용되었습니다. 몬테네그로는 불과 6시간 만에 합법적으로 세르비아에 병합되었습니다.\n\n그 사건들은 매우 의심스럽지만, 이탈과 연합에 관한 모든 것이 합법적인 것처럼 보이며, 어쩐 때는 세르비아인들의 무모한 개입보다는 중립적인 것으로 보입니다. 그럼에도 불구하고 이 사건 전체가 일리리아에 터무니없는 일입니다. 비록 크로아티아-세르비아 동맹의 경쟁국들에 정치적으로 힘을 실어주더라도, 우리가 국가를 유지하려면 즉시 우리 국경 안에 있는 세르비아인에게 양보를 해야 한다는 것은 분명합니다."
 serbia.7.d.AUS:0 "우리는 몬테네그로의 불안이 좋지 않다는 것은 알고 있었지만, 그 지역 전체가 카드집이었던 것 같습니다. 아주 작은 위기에도 무너질 준비가 되어 있었습니다.\n\n며칠 전 생디칼리슴에 동조한 크로아티아인 군인이 세르비아인 가족을 살해하고 자살한 사건은 포드고리차를 혼란에 빠뜨렸습니다. 이 사건의 배후로 지목된 군대는 시위를 진압하는 데 거의 효과가 없었고, 결국 수도에서 질서가 무너졌습니다. 몬테네그로 인민당의 원로인 안드리야 라도비치는 몬테네그로의 일리리아 연방 탈퇴를 선언했습니다. 몇 시간 후, 세르비아와 몬테네그로 사이에 공식적인 남-슬라브 연합을 창설하기 위한 법안이 도입되었으며, 일리리아군은 현재 세르비아 영토에서 빠져나갈 수 있도록 허용되었습니다. 몬테네그로는 불과 6시간 만에 합법적으로 세르비아에 병합되었습니다.\n\n그럼에도 불구하고 그 사건들은 매우 의심스럽지만, 이탈과 연합에 관한 모든 것이 합법적인 것처럼 보이며, 어쩐 때는 세르비아인들의 무모한 개입보다는 중립적인 것으로 보입니다. 그럼에도 불구하고, 그 사건 전체가 터무니없고, 확실히 대응이 필요합니다. 예상대로 군대는 세르비아 문제를 해결하기 위해 전면적인 동원을 제안하고 있습니다. 이는 끌리는 제안입니다. 세르비아는 검은 월요일로 약해졌고 정보 보고에 따르면, 군대가 매우 부족한 상태라고 합니다. 그러나 카이저는 또 다른 전쟁이 오스트리아와 헝가리를 함께 붙잡고 있는 취약한 체제를 붕괴시킬 수 있다는 사실에 질려 그러한 작전을 승인하기를 거부하고 있습니다. 대신 그는 우리에게 엄중한 외교 고발을 요청하는 한편 제국의 내부 문제가 해결되면 연합을 해체하는 작전을 준비했습니다."
 serbia.7.a:0 "질서를 되찾아야 한다!"
 serbia.7.b:0 "이 일은 언젠가 갚고야 말겠다!"
