@@ -131,7 +131,7 @@ SIC_may_now_acquire_cores:0 "시칠리아 지역 외에 영유권 주장을 한 
 SIC_form_italian_confed:0 "이탈리아 연방 수립"
 SIC_form_italian_confed_desc:0 "이탈리아 반도 대부분이 우리의 지배하에 들어왔고, 이제 옛 질서의 회복을 선언할 때가 왔습니다: 자비로운 우리가 이끄는 이탈리아 연방이 바로 그것입니다. 이탈리아 협력의 정신으로, 이 협정은 더욱 밀접한 동반자 관계로 발전할 것입니다."
 SIC_invite_into_confed:0 "[From.GetNameDef](을)를 연방에 초청"
-SIC_invite_into_confed_desc:0 "마침내 사회주의 공화국의 위협이 사라졌고 [Root.Adjective]의 아래 이탈리아 연방이 확고히 수립되었습니다. 이제 우리는 [From.GetNameDef]에 접촉해서 [From.GetAdjective] 정부로 하여금 이탈리아에 재합류하도록 협상해야 합니다."
+SIC_invite_into_confed_desc:0 "마침내 사회주의 공화국의 위협이 사라졌고 [Root.GetAdjective]의 아래 이탈리아 연방이 확고히 수립되었습니다. 이제 우리는 [From.GetNameDef]에 접촉해서 [From.GetAdjective] 정부로 하여금 이탈리아에 재합류하도록 협상해야 합니다."
 SIC_three_italian_subjects:0 "적어도 3개의 이탈리아 국가가 [Root.GetAdjective]의 종속국입니다(§Y[2.GetName]§!(을)를 소유하는 것은 이 합계에 포함됩니다)"
 SIC_join_entente:0 "협상국 가입"
 SIC_join_entente_desc:0 "우리가 프랑스 친구들의 생득권을 되찾는 데 도움을 준 것처럼, 그들 또한 우리의 북부 해방을 도울 것입니다. 우리는 고토를 되찾고 지중해를 통제하기 위해 다함께 힘을 합쳐야 합니다."
@@ -670,7 +670,7 @@ sic.121.a:0 "그렇다면 알겠다"
 sic.121.b:0 "두고보자!"
 
 sic.122.t:0 "[From.GetNameDefCap](이)가 제안에 동의하다"
-sic.122.d:0 "그들은 우리가 [From.GetFactionName]에 가입하라는 제안을 거절한데 상당히 실망한 것으로 보이지만, [From.Adjective] 정부가 협상을 계획대로 진행하지 못하도록 막을 수 없다고 장담했습니다. [From.GetFactionName](이)가 있든지 없던지 간에 이탈리아 통일을 위해 달려갈 겁니다."
+sic.122.d:0 "그들은 우리가 [From.GetFactionName]에 가입하라는 제안을 거절한데 상당히 실망한 것으로 보이지만, [From.GetAdjective] 정부가 협상을 계획대로 진행하지 못하도록 막을 수 없다고 장담했습니다. [From.GetFactionName](이)가 있든지 없던지 간에 이탈리아 통일을 위해 달려갈 겁니다."
 sic.122.a:0 "비바 리탈리아!"
 
 sic.123.t:0 "[From.GetNameDefCap](이)가 재고를 요청하다"
@@ -687,7 +687,7 @@ sic.125.t:0 "[From.GetNameDefCap](이)가 우리의 제안에 거부하다"
 sic.125.d:0 "[From.GetAdjective] 정부는 몇주간 심사숙고했습니다. 초기에는 우리의 제안을 받아들이려 했지만 [From.From.GetAdjective] 정부가 그들을 [From.From.GetFactionName] 세력에 남아있도록 붙들어 놓는데 성공한 모양입니다. 심지어 그들은 향후 회담 가능성에 대한 의사도 밝히지 않았습니다. 보아하니 저들은 [From.From.GetFactionName](을)를 등에 업고 독립을 지킬 생각인 듯 합니다."
 
 sic.126.t:0 "[From.GetNameDefCap](이)가 우리의 제안에 동의하다"
-sic.126.d:0 "[From.From.GetAdjective] 정부가 [From.From.GetFactionName] 세력에 남아달라고 간절히 요청했지만, [From.Adjective] 정부는 모든 이탈리아인의 단결이라는 목표를 위해 우리의 제안을 계획대로 승인하는 과정을 누구도 막지 못하리라고 보증했습니다."
+sic.126.d:0 "[From.From.GetAdjective] 정부가 [From.From.GetFactionName] 세력에 남아달라고 간절히 요청했지만, [From.GetAdjective] 정부는 모든 이탈리아인의 단결이라는 목표를 위해 우리의 제안을 계획대로 승인하는 과정을 누구도 막지 못하리라고 보증했습니다."
 sic.126.a:0 "비바 리탈리아!"
 
 sic.127.t:0 "[From.GetNameDefCap](이)가 축복하다"

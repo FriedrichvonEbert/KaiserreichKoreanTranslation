@@ -1362,7 +1362,7 @@ worldnews.412.a:0 "위대한 업적이다!"
 worldnews.412.b:0 "우리는 준비해야 한다."
 worldnews.412.c:0 "흥미롭군."
 
-worldnews.413.t:0 "[FROM.GetLeader]의 [FROM.GetNameDef] 선언"
+worldnews.413.t:0 "[FROM.GetNameDefCap]의 선언"
 worldnews.413.d:0 "Few things are certain in the twisting labyrinth of Chinese politics, but even renowned political analysts have utterly failed to predict the rise of [FROM.GetLeader] from the outlying provinces of China to the leader of the nation. Nevertheless, he has done it, and with Beijing and much of the North China Plain under his rule, as well as his heartland, he has a base of operations, substantial enough, perhaps, to fully reunify all of China. Western nations have already recognized the new [FROM.GetName], and any remaining Chinese cliques are undoubtedly preparing for a new assault on their power."
 worldnews.413.a:0 "중국의 나머지 지역도 곧 우리 것이 될 것이다!"
 worldnews.413.b:0 "우리는 새로운 맹공에 대비해야 한다."
@@ -1446,7 +1446,8 @@ worldnews.435.d:0 "War hero and celebrated commander of the Ottoman army, Fevzi 
 worldnews.435.a:0 "미래가 어떻게 될까?"
 
 worldnews.436.t:0 "대재상으로 임명된 사바하틴 왕자"
-worldnews.436.d:0 "1935년 선거 승리에도 불구하고 자신의 계획을 실행할 수 없었던, 전 대재상 무스타파 케말은 몇 달 전 오스만 칼리프에게 사표를 제출했습니다. 그가 필요로 하는 과반수와 국민의 신임을 그에게 가져다줄 조기선거에 걸었는데, 1935년에 패배한 자유민주 연합이 권력을 강화했을 때 전직 장군은 심각하게 오판한 것 같았습니다.\n\n선거 승리 이후, 사바하틴 왕자(자유와 합의당의 지도자)가 오늘 아침 그의 의제인 지방분권 및 민간 주도를 촉진할 것을 약속하면서 칼리프에 의해 임명되었습니다."
+worldnews.436.d.kemal_dead:0 "With Grand Vizier Mustafa Kemal assassinated in Izmir, [OTT.GetNameDef] was forced to call emergency elections to fill the leadership vacuum - which have now seen the liberal coalition, defeated earlier in 1935 by Kemal's OHF, gain an absolute majority and thus cement their power.\n\nFollowing his electoral victory, Prince Sabahattin, the leader of the HIF, was appointed Grand Vizier earlier today by the Caliph, promising to fulfil his agenda of decentralisation and promoting private initiative."
+worldnews.436.d.kemal_out:0 "1935년 선거 승리에도 불구하고 자신의 계획을 실행할 수 없었던, 전 대재상 무스타파 케말은 몇 달 전 오스만 칼리프에게 사표를 제출했습니다. 그가 필요로 하는 과반수와 국민의 신임을 그에게 가져다줄 조기선거에 걸었는데, 1935년에 패배한 자유민주 연합이 권력을 강화했을 때 전직 장군은 심각하게 오판한 것 같았습니다.\n\n선거 승리 이후, 사바하틴 왕자(자유와 합의당의 지도자)가 오늘 아침 그의 의제인 지방분권 및 민간 주도를 촉진할 것을 약속하면서 칼리프에 의해 임명되었습니다."
 worldnews.436.a:0 "행운을 비네!"
 
 worldnews.437.t:0 "숭고한 오스만 연방 선포"

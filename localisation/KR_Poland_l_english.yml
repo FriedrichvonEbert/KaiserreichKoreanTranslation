@@ -97,6 +97,7 @@ POL_technical_college_idea:0 "New Technical Colleges"
 polands_future:0 "섭정 의회는 지난 20년 동안 했던 것처럼, 폴란드의 새로운 왕을 선출하려 할 것입니다."
 POL_must_own_coast:0 "이 중점이 효과를 가지려면 항구가 있어야 합니다."
 POL_elections_suspended:0 "Elections are suspended indefinitely."
+POL_germany_refused_demands:0 "Germany refused demands\n"
 
 ### Focuses ###
 POL_the_great_debate:0 "대논쟁"
@@ -379,9 +380,9 @@ poland.2.t:0 "바르샤바 폭탄 테러"
 poland.2.d:0 "어제 바르샤바에서의 폭탄 테러로 인해 50명 이상이 숨졌고 200여 명의 사람들이 부상당했습니다. 경찰은 아직 확실한 범인을 찾아내지는 못했지만, 지하의 아나키스트 조직이 부르주아에 대한 공격으로써 폭탄 테러를 감행했다는 것이 유력합니다."
 poland.2.a:0 "끔찍한 날이군!"
 
-poland.3.t:0 "미슐레니체에서의 행진"
-poland.3.d:0 "지역 민족주의 지도자인 아담 도보신스키가 그의 '폴란드 구출을 위한 애국자들' 조직의 지부를 동원하여 폴란드를 행진하기로 결정했습니다. 그러나 생디칼리스트들이 그의 부하들을 공격한 후 도보신스키가 지역 경찰을 무장해제하기로 결정함에 따라 일이 꼬였습니다. 이는 우리나라에 심각한 문제입니다."
-poland.3.a:0 "군대를 보내 이 사건과 연루된 모두를 감옥에 쳐넣어라!"
+poland.3.t:0 "미슐레니체의 습격"
+poland.3.d:0 "On the warm summer night of the June 22nd, a hundred armed men arrived to small town of Myslenice in the Galician side of the border. They cut the telephone lines and took control of the police depot in the cover of the darkness - and then turned towards their real goal: the sizable Jewish settlement. Jewish shops were raided and plundered, with their entire stocks burnt at the town square. Even the synagogue was set on fire. The militiamen beat the Jews who tried to oppose them.\n\nThey were acting under the orders of Adam Doboszynski, merely 22-year old National Democracy activist. 'Raid of Myslenice' would make him into the hero of the Polish far right, man who was not afraid to do what he considered to be right. After ransacking through the Jewish property Doboszynski's men fled to nearby forest, leaving burning and scared Myslenice behind them.\n\nMultiple police units where dispatched immediately. They clashed with the raiders multiple times during days-long ride towards the Bohemian border. Most of them did not make it - one particularly harsh fight with the Galician cavalry cracked Doboszynski's troop. Over half of them were arrested. Doboszynski himself was involved in a shootout with Bohemian border guards, but escaped nonetheless."
+poland.3.a:0 "Radicals like him are a threat to the nation."
 
 poland.4.t:0 "지방에서의 지속적인 불안"
 poland.4.d:0 "우리나라의 수출량이 급갑하면서, 우리 경제는 나락으로 떨어지고 있습니다. 물가는 요동치고 수많은 농부들이 정부에 경제위기에 대한 대책을 요구하고 나섰습니다. 이 소식이 정부 당국에도 전해졌고, 경찰들은 농촌 치안유지에 어려움을 겪고 있다고 보고해 왔습니다."

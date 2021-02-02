@@ -1,104 +1,15 @@
 ﻿l_english:
 
-### World Tension ###
-occupy_ger:0 "독일 점령"
-occupy_rhine:0 "라인란트 점령"
-
-### Opinion Modifiers ###
-GER_accept_deal_rus:0 "러시아가 거래를 받아들임"
-GER_refuse_deal_rus1:0 "러시아가 거래를 거부함"
-GER_refuse_deal_rus2:0 "러시아가 거래를 거부함"
-chose_our_hos:0 "우리의 국가원수를 선택함"
-let_us_choose_our_hos:0 "국가원수를 선택하도록 내버려둠"
-SWI_gave_back_romandy:0 "로망디 반환을 거부함"
-SWI_not_gave_back_romandy:0 "로망디 반환을 거부함"
-BEL_forced_eupen1:0 "외펜을 빼앗음"
-BEL_forced_eupen2:0 "외펜을 빼앗음"
-FRP_forced_alsace1:0 "알자스-로렌을 빼앗음"
-FRP_forced_alsace2:0 "알자스-로렌을 빼앗음"
-FRP_forced_alsace3:0 "알자스-로렌을 빼앗음"
-GER_left_us_luxembourg:0 "룩셈부르크를 저버림"
-GER_free_order_luxembourg:0 "룩셈부르크가 해방됨"
-DEN_forced_schleswig1:0 "북부 슐레히비히를 빼앗음"
-DEN_forced_schleswig2:0 "북부 슐레히비히를 빼앗음"
-DDR_forced_thuringia1:0 "튀링겐을 빼앗음"
-DDR_forced_thuringia2:0 "튀링겐을 빼앗음"
-GER_liberated_UK:0 "독일이 영국을 해방시킴"
-GER_created_republic_GBR:0 "독일이 브리튼 공화국을 세움"
-NFA_refused_deal_GER1:0 "국민 프랑스가 거래를 거부함"
-NFA_refused_deal_GER2:0 "국민 프랑스가 거래를 거부함"
-NFA_accepted_deal_GER:0 "국민 프랑스가 거래를 받아들임"
-GER_supported_flawa_claim:0 "벨기에의 영유권 주장을 지지함"
-GER_ceded_flawa_claim:0 "프랑스령 플랑드르 할양"
-GER_refused_flawa_claim:0 "프랑스령 플랑드르 할양 거절"
-BEL_ceded_flanders1:0 "프랑스령 플랑드르 할양"
-BEL_ceded_flanders2:0 "프랑스령 플랑드르 할양"
-GER_asked_join_entente:0 "독일이 협상국 가입을 원함"
-GER_joined_entente_op:0 "독일이 협상국에 가입함"
-
-### Tooltips ###
-GER_gerindrus_tt:0 "18개 보병사단이 출현할 것입니다."
-GER_bavindrus_tt:0 "6개 보병사단이 출현할 것입니다."
-GER_ddrindrus_tt:0 "8개 보병사단이 출현할 것입니다."
-GER_wgrindrus_tt:0 "4개 보병사단이 출현할 것입니다."
-GER_gruindsov_tt:0 "20개 보병사단이 출현할 것입니다."
-GER_ddrindsov_tt:0 "10개 보병사단이 출현할 것입니다."
-GBP_gdpindger_tt:0 "국내와 독일의 비축물자와 인력으로 새로운 군대가 형성될 것입니다."
-
 ### Events ###
 part.16.t:0 "독일의 새로운 국가원수"
 part.16.d:0 "우리는 로마노프 가문의 일원을 새로운 독일 황제로 앉힐 수 있습니다. 그러나 독일인들이 알아서 하도록 하는 것이 더 현명할 것입니다."
 part.16.a:0 "보리스 대공이 빌헬름 5세로 추대될 것이다!"
 part.16.b:0 "독일인들이 충성하는한, 알아서 선택하게 둬라."
 
-part.17.t:0 "새로운 황제!"
-part.17.d:0 "러시아 제국이 보리스 대공을 새로운 독일 황제로 추대했습니다. 우리가 할 수 있는 일은 없으며, 독일은 다시 제국이 되었습니다."
-part.17.a:0 "빌헬름 5세 만세!"
-
-part.18.t:0 "남독일 연방의 독립"
-part.18.d:0 "...아무도 보지 못할 것입니다..."
-part.18.a:0 "남독일 연방은 또 다시 독립하였다!"
-
-part.19.t:0 "프로이센의 독립"
-part.19.d:0 "...아무도 보지 못할 것입니다..."
-part.19.a:0 "새로운 시작."
-
-part.20.t:0 "라인란트의 독립"
-part.20.d:0 "...아무도 보지 못할 것입니다..."
-part.20.a:0 "모스크바가 이들을 조종할 것이다!"
-
-part.21.t:0 "북독일의 독립"
-part.21.d:0 "...아무도 보지 못할 것입니다..."
-part.21.a:0 "마침내 노르드도이칠란드가 독립했다!"
-
 part.22.t:0 "프로이센의 새로운 국가원수"
 part.22.d:0 "우리는 로마노프 가문의 일원을 새로운 프로이센 국왕으로 앉힐 수 있습니다. 그러나 프로이센인들이 알아서 하도록 하는 것이 더 현명할 것입니다."
 part.22.a:0 "대공 보리스가 빌헬름 5세가 될 것이다!"
 part.22.b:0 "프로이센인들이 충성하는한, 결정하게 냅둬라"
-
-part.23.t:0 "새로운 국왕!"
-part.23.d:0 "러시아 제국이 보리스 대공을 새로운 프로이센 국왕으로 추대했습니다. 우리가 할 수 있는 일은 없으며, 독일은 다시 왕국이 되었습니다."
-part.23.a:0 "빌헬름 5세 만세!"
-
-part.49.t:0 "적군이 일어선다!"
-part.49.d:0 "전우여 일어서라!"
-part.49.a:0 "군대를 소집해라!"
-
-part.50.t:0 "남독일 코뮌"
-part.50.d:0 "...아무도 보지 못할 것이다..."
-part.50.a:0 "군주정을 폐지시키고 무역조합이 통치하게 하자!"
-
-part.51.t:0 "프로이센 코뮌"
-part.51.d:0 "...아무도 보지 못할 것이다..."
-part.51.a:0 "적기 아래에서 프로이센이 부활했다!"
-
-part.52.t:0 "라인란트 코뮌"
-part.52.d:0 "...아무도 보지 못할 것이다..."
-part.52.a:0 "우리가 질서를 가져왔다!"
-
-part.53.t:0 "북독일 코뮌"
-part.53.d:0 "...아무도 보지 못할 것이다..."
-part.53.a:0 "마침내 노르드도이칠란드가 독립했다!"
 
 part.571.t:0 "북독일 연방 통제"
 part.571.d:0 "우리 군대는 독일 제국에 대항하여 용감하게 싸웠습니다. 그리고 우리의 집중적인 전쟁 참여는 우리로 하여금 독일을 점령하고 생디칼리슴을 전파하도록 해주었습니다."
@@ -109,32 +20,6 @@ part.572.t:0 "프로이센 통제"
 part.572.d:0 "우리 군대는 독일 제국에 대항하여 용감하게 싸웠습니다. 그리고 우리의 집중적인 전쟁 참여는 우리로 하여금 독일을 점령하고 생디칼리슴을 전파하도록 해주었습니다."
 part.572.a:0 "프로이센인들을 가르칠 차례다."
 part.572.b:0 "우리는 이러한 분쟁을 피해야 한다!"
-
-part.58.t:0 "튀링겐"
-part.58.d:0 "프로이센은 독일의 심장부인 튀링겐 주를 지배하고 있습니다. 만약 우리가 강력한 프로이센에 대항하여 그 땅을 차지하고자 한다면 프랑스의 도움을 받아야 할 것입니다."
-part.58.a:0 "튀링겐의 영유권을 주장하자!"
-part.58.b:0 "우리가 가진 자원은 그들이 가진 것을 뛰어넘는다."
-
-part.59.t:0 "라인란트가 튀링겐을 요구하다."
-part.59.d:0 "우리의 라인란트 괴뢰정부는 프로이센이 소유하고 있는 튀링겐의 영유권을 주장하고 있습니다."
-part.59.a:0 "프로이센에게 튀링겐 할양을 압박하자."
-part.59.b:0 "누가 국경을 그렸어?!"
-
-part.60.t:0 "프랑스의 라인란트 지원"
-part.60.d:0 "에센의 개자식들이 우릴 약화시키려 합니다! 그들은 프로이센의 정당한 영토인 튀링겐의 영유권을 주장했고, 그 문제에 있어서 파리의 지원까지 받았습니다."
-part.60.a:0 "선택의 여지가 없다. 영토를 할양하자."
-
-part.4.t:0 "브리튼 분할"
-part.4.d:0 "After defeating the Union of Britain we now control Great Britain. While the obvious choice would be put to recreate our own Britain, some members of the High Command have proposed crippling Britain by partitioning it into smaller constituent states. Of course we could just occupy it all."
-part.4.a:0 "충성스러운 브리튼을 만들어라."
-part.4.b:0 "독립된 스코틀랜드와 잉글랜드 정부를 만들어라."
-part.4.c:0 "섬을 잉글랜드와 스코틀랜드, 웨일스로 분할하라."
-part.4.e:0 "전 지역의 점령을 유지하라."
-part.4.f:0 "충성스러운 잉글랜드를 만들어라"
-
-part.61.t:0 "런던의 괴뢰정부"
-part.61.d:0 "런던의 신정부는 우리 통제 하에 있습니다."
-part.61.a:0 "팍스 유로파!"
 
 part.62.t:0 "브리튼 군주정 문제"
 part.62.d:0 "With the Union of Britain thoroughly defeated, the time has come to establish a new administration for the isles. The most natural choice is to reestablish a monarchy with Carl Eduard of Saxe-Coburg and Gotha on the throne though it could be a wiser choice to install a puppet republic than the so-called 'traitor prince'."
@@ -174,66 +59,3 @@ part.70.t:0 "잉글랜드 정부"
 part.70.d:0 "With England under our control, it has been decided to create a new independent English nation and loyal member of the Reichspakt. Carl Eduard, the so-called 'traitor prince' is the obvious candidate for the throne but it has been proposed it may be better to establish a a republic instead. Regardless England shall raise its fist against the Vaterland no more!"
 part.70.a:0 "A German king shall sit on St. Edward's Throne!"
 part.70.b:0 "An English republic would be more amicable."
-
-part.5.t:0 "파리 함락"
-part.5.d:0 "프랑스의 수도이자 생디칼리슴 운동의 중심지, 파리가 함락되었습니다. 민간인들의 저항이 거세지만, 우리 군은 곧 시 전체를 장악할 것입니다."
-part.5.a:0 "오래 걸리진 않을 것이다!"
-
-part.71.t:0 "파리의 괴뢰정부"
-part.71.d:0 "프랑스의 신정부는 우리의 통제 하에 있으며, 프랑스는 이제 라이히스팍트의 일원입니다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바랍니다."
-part.71.a:0 "팍스 유로파!"
-
-part.72.t:0 "프랑스의 충성스러운 정부"
-part.72.d:0 "프랑스의 신정부는 우리 통제 하에 있으며, 그 국가는 이제 라이히스팍트의 일원입니다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바랍니다."
-part.72.a:0 "팍스 유로파!"
-
-part.73.t:0 "프랑스의 충성스러운 정부"
-part.73.d:0 "프랑스의 신정부는 우리 통제 하에 있으며, 그 국가는 이제 우리 동맹의 일원입니다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바랍니다."
-part.73.a:0 "팍스 유로파!"
-
-part.74.t:0 "파리의 괴뢰정부"
-part.74.d:0 "프랑스의 신정부는 우리 통제 하에 있으며, 프랑스는 이제 우리 동맹의 일원입니다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바랍니다."
-part.74.a:0 "팍스 유로파!"
-
-part.75.t:0 "파리의 괴뢰정부?"
-part.75.d:0 "우리는 프랑스 본토에서 옥시타니아, 노르망디, 브르타뉴를 분리시켰습니다. 남은 프랑스 땅은 어떻게 할까요? 괴뢰 프랑스국을 설립해서 간접적으로 지배할까요? 아니면 위의 3국으로 하여금 남은 땅을 분할하도록 할까요?"
-part.75.a:0 "친선 프랑스 정부를 세워라."
-part.75.b:0 "프랑스를 더 많은 국가로 나눠라!"
-part.75.c:0 "완전히 점령하는 것이 더 좋다."
-
-part.76.t:0 "파리의 괴뢰정부"
-part.76.d:0 "프랑스의 신정부는 우리의 통제 하에 있으며, 프랑스는 이제 라이히스팍트의 일원입니다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바랍니다."
-part.76.a:0 "팍스 유로파!"
-
-part.77.t:0 "프랑스의 영유권 재천명"
-part.77.d:0 "우리는 플란데런-왈로니 그리고 독일이 점령하고 있는 우리의 정당한 영토의 영유권을 재천명하였습니다."
-part.77.a:0 "우리는 따라야 한다."
-
-part.78.t:0 "프랑스의 영유권 재천명"
-part.78.d:0 "우리는 브르타뉴 그리고 독일이 점령하고 있는 우리의 정당한 영토의 영유권을 재천명하였습니다."
-part.78.a:0 "우리는 따라야 한다."
-
-part.79.t:0 "프랑스군"
-part.79.d:0 "프랑스군을 설립하자!"
-part.79.a:0 "군대를 소집하자!"
-
-part.80.t:0 "프랑스의 영유권 재천명"
-part.80.d:0 "우리는 브르타뉴, 옥시타니아, 노르망디, 그리고 독일이 점령하고 있는 우리의 정당한 영토의 영유권을 재천명하였습니다."
-part.80.a:0 "우리는 따라야 한다."
-
-part.85.t:0 "프랑스의 새로운 국가원수"
-part.85.d:0 "우리는 독일 황실의 일원을 새로운 프랑스 국왕으로 앉힐 수 있습니다. 그러나 그들 스스로 결정하도록 하는 것이 현명할지도 모릅니다."
-part.85.a:0 "하노버의 조지가 프랑수아 3세가 될 것이다!"
-part.85.b:0 "그들이 충성하는 한 그들 스스로 결정하게 하자."
-
-part.86.t:0 "새로운 국왕"
-part.86.d:0 "독일이 프랑수아 3세를 새로운 프랑스 국왕으로 추대했습니다. 우리가 할 수 있는 일은 없으며, 프랑스는 다시 왕국이 되었습니다."
-part.86.a:0 "프랑수아 3세 만세!"
-
-part.87.t:0 "새로운 대통령"
-part.87.d:0 "독일은 우리가 새로운 대통령을 선택하도록 허용하기로 결정했습니다. 우리를 대표할 수 있는 자는 알베르 르브룅 뿐입니다. 또한 피에르 라발이 내각을 이끌 것입니다."
-part.87.a:0 "알베르 르브룅이 국가를 이끌 것이다!"
-
-part.88.t:0 "신정부"
-part.88.d:0 "독일 덕분에 신정부가 생겼습니다!"
-part.88.a:0 "새로운 시작."

@@ -45,8 +45,6 @@ PSA_the_big_push_westwards:0 "빙하 작전"
 PSA_the_big_push_westwards_desc:0 "수개월간의 준비와 병참 계획 끝에, 빙하 작전이 적의 승리를 막기 위해 로키 강을 건너 가능한 한 많은 땅을 차지하려는 목적으로 시작되었습니다."
 PSA_military_industrial_production_1:0 "군수산업 생산"
 PSA_military_industrial_production_1_desc:0 "전국의 많은 무기 공장이 적들의 통제를 받고 있는 상황에서, 우리는 군의 수요를 충족시키기 위해 지역 기업들과 접촉할 수밖에 없었습니다. 다행히도, 국내의 많은 공장들이 우리의 대의에 동참했고, 적절한 지원이 이루어지면 생산량을 증대시킬 수 있을 것입니다. 다른 경제 부문에서 자금을 끌어옴으로써 우리는 이 기업들에게 지원을 제공할 수 있고, 우리 군인들이 전쟁에 대비하고 준비하도록 할 수 있습니다."
-PSA_military_industrial_production_1:0 "군수산업 생산"
-PSA_military_industrial_production_1_desc:0 "전국의 많은 무기 공장이 적들의 통제를 받고 있는 상황에서, 우리는 군의 수요를 충족시키기 위해 지역 기업들과 접촉할 수밖에 없었습니다. 다행히도, 국내의 많은 공장들이 우리의 대의에 동참했고, 적절한 지원이 이루어지면 생산량을 증대시킬 수 있을 것입니다. 다른 경제 부문에서 자금을 끌어옴으로써 우리는 이 기업들에게 지원을 제공할 수 있고, 우리 군인들이 전쟁에 대비하고 준비하도록 할 수 있습니다."
 PSA_military_industrial_production_3:0 "군수산업 생산"
 PSA_military_industrial_production_3_desc:0 "내전에서의 우리의 엄청난 승리와 함께, 가공할 만한 군수산업 단지가 우리 손에 들어왔습니다. 평시에는 이 공장들을 민간 용도로 쓰는 것이 바람직하며, 전세계에 먹구름이 드리울 때, 위대한 우리나라는 또다시 전쟁에 휘말리게 될 것입니다. 그 때, 우리가 맺은 무기 계약과 군사 부문 투자는 분명 큰 도움이 될 것입니다."
 PSA_defense_logistics_agency_idea:0 "국방부 군수국"
@@ -379,10 +377,10 @@ PSA_peace_at_last_desc:0 "우리의 노력은 결실을 맺었고, 마침내 미
 
 ### Events ###
 pacificstates.1.t:0 "새로운 [GetYear]년 선거"
-pacificstates.1.d:0 "샌디에이고에서의 혼란이 현재진행형임에도 불구하고, 태평양 연안의 많은 도시들에서 선거는 질서정연히 치뤄졌고, 소요사태는 극히 일부에 불과했습니다. 맥아더 장군은 이 법질서의 신성함을 공공연히 과시하는 것에 대해 격분하였고, 태평양 정부가 즉각적으로 연방정부에 항복하지 않는다면 새로운 '유사 대통령'이 휴이 롱, 잭 리드 등과 같은 처벌을 받게 될 것이라고 선언하였습니다. 서부의 분위기는 저항하는 분위기인 가운데, 서부 미국인들이 미국정부의 합법적인 수장으로 선출한 지도자는..."
+pacificstates.1.d:0 "샌디에이고에서의 혼란이 현재진행형임에도 불구하고, 태평양 연안의 많은 도시들에서 선거는 질서정연히 치뤄졌고, 소요사태는 극히 일부에 불과했습니다. 맥아더 장군은 이 법질서의 신성함을 공공연히 과시하는 것에 대해 격분하였고, 태평양 정부가 즉각적으로 연방정부에 항복하지 않는다면 새로운 '유사 대통령'이 휴이 롱, 잭 리드 등과 같은 처벌을 받게 될 것이라고 선언하였습니다. 서부의 분위기는 저항하는 분위기인 가운데, 서부 미국인들이 미국정부의 임시 수장으로 선출한 지도자는..."
 pacificstates.1.a:0 "캘리포니아 상원의원인 하이럼 존슨."
-pacificstates.1.b:0 "워싱턴 부주지사인 존 아서 래틀리."
-pacificstates.1.c:0 "캘리포니아 주지사인 프랭크 메리엄."
+pacificstates.1.b:0 "캘리포니아 주지사인 프랭크 메리엄."
+pacificstates.1.c:0 "전 애리조나 주지사인 로버트 테일러 존스."
 
 pacificstates.2.t:0 "[GetYear]년 농민노동당 경선"
 pacificstates.2.d:0 "[GetYear]년 농민노동당 대선 경선이 열렸습니다. 논란의 여지 없이, 헨리 월리스가 농민노동당 대선 후보로 선출되었습니다."
@@ -395,15 +393,14 @@ pacificstates.3.b:0 "컬버트 올슨!"
 pacificstates.3.c:0 "찰스 L. 맥너리!"
 
 pacificstates.4.t:0 "[GetYear]년 공화당 경선"
-pacificstates.4.d:0 "3명의 후보가 공화당 [GetYear] 대선 경선에 나왔습니다: 워싱턴 상원의원 에밋 T. 앤더슨, 워싱턴 주지사 존 아서 겔래틀리, 기업가이자 공장주 하워드 휴즈가 바로 그들입니다. 누가 공화당의 대선후보가 될까요?"
-pacificstates.4.a:0 "에밋 T. 앤더슨!"
+pacificstates.4.d:0 "3명의 후보가 공화당 [GetYear] 대선 경선에 나왔습니다: 캘리포니아 주지사인 프랭크 메리엄, 워싱턴 주지사인 존 아서 겔래틀리, 기업가이자 공장주 하워드 휴즈가 바로 그들입니다. 누가 공화당의 대선후보가 될까요?"
+pacificstates.4.a:0 "프랭크 메리엄!"
 pacificstates.4.b:0 "존 아서 겔래틀리!"
 pacificstates.4.c:0 "하워드 휴즈!"
 
 pacificstates.5.t:0 "[GetYear]년 민주당 경선"
-pacificstates.5.d:0 "2명의 후보가 민주당 [GetYear] 대선 경선에 나왔습니다: 캘리포니아 상원의원 프랭크 메리엄, 애리조나 주지사 로버트 테일러 존스가 바로 그들입니다. 누가 민주당의 대선후보가 될까요?"
-pacificstates.5.a:0 "로버트 테일러 존스!"
-pacificstates.5.b:0 "프랭크 메리엄!"
+pacificstates.5.d:0 "The [GetYear] Democratic Party Primary is here. In a nearly uncontested vote, former Arizona Governor Robert Taylor Jones has won the nomination as the candidate for the Democratic Party."
+pacificstates.5.a:0 "축하드립니다, 존스씨!"
 
 pacificstates.6.t:0 "[GetYear]년 대선"
 pacificstates.6.d:0 "[GetYear] 대통령 선거 투표가 방금 마감되었습니다. 대통령과 의회 과반수석을 모두 거머쥔 당은 바로..."
@@ -432,7 +429,8 @@ pacificstates.9.d.president:0 "공화당은 현직 대통령인 [PSA.GetLeader]�
 pacificstates.9.d.not_president:0 "2명의 후보가 공화당 [GetYear] 대선 경선에 나왔습니다: 찰스 A. 스프레이그 전 오리건 주지사와 랄프 로렌스 칼 전 콜로라도 주지사가 바로 그들입니다. 누가 공화당의 대선후보가 될까요?"
 pacificstates.9.a:0 "찰스 A. 스프레이그!"
 pacificstates.9.b:0 "랄프 로렌스 칼!"
-pacificstates.9.c:0 "[PSA.GetLeader]씨, 축하드립니다!"
+pacificstates.9.c:0 "에밋 T. 앤더슨!"
+pacificstates.9.e:0 "[PSA.GetLeader]씨, 축하드립니다!"
 
 pacificstates.10.t:0 "[GetYear]년 민주당 경선"
 pacificstates.10.d.president:0 "민주당은 현직 대통령인 [PSA.GetLeader]를 만장일치로 대통령 후보로 재선출했습니다."
@@ -810,6 +808,16 @@ pacificstates.203.b:0 "탱크로 적진을 휘젓고 다닐 수 있다면 신뢰
 pacificstates.204.t:0 "Progressives and Farmer-Labor See Massive Gains"
 pacificstates.204.d:0 "Local newspapers have reported a massive increase in activity by the Progressive Party and Farmer-Labor parties. While this shift would be understated in previous years, the existence of dictatorial powers in the Federal Governnment has unsettled many reliable voters in the Pacific States. This shift has reached the provisional Congress in Sacramento, where several minor Representatives have made public statements endorsing the Progressives and Farmer-Labor. To the observers in the rest of the US, this shift validates their concerns that the establishment Democrats and Republicans have become totally estranged from the two party system."
 pacificstates.204.a:0 "Let's Focus on more Reliable Voters"
+
+pacificstates.205.t.CSA_TEX:0 "Rebuilding Democracy"
+pacificstates.205.t.USA:0 "The Triumph of Democracy"
+pacificstates.205.d.CSA_TEX:0 "With the defeat of the dictators in the east, our government - the righteous government - stands tall over the American continent once more. Just like Abraham Lincoln seventy-five years ago, President [PSA.GetLeader] has saved democracy and the Union. Now that the war is over, the lessons learned from the Crisis of '37 and the war must be studied and applied. While there is indeed much willingness in the government to reform the system, there is no consensus on how to proceed.\n\n Was the independent military administration responsible for the descent into chaos, or too-close civilian-military cooperation? Was the Electoral College and House of Representatives presidential selection the obsolete technicality that caused the war, or were the Founding Fathers right about the biddable common people, who needed to be contained and channelled by the elites? Clearly both Huey Long and Jack Reed tapped into populist strands of thought, but was there deep popular anger with the old democratic government, or have we forgotten our fear of the easily stirred mob? All these questions and others must now be answered, but by the grace of Almighty God America now has a government ready to try."
+pacificstates.205.d.USA:0 "With the final defeat of General MacArthur's junta, our government - the righteous government - stands tall over the American continent once more. Just like Abraham Lincoln seventy-five years ago, President [PSA.GetLeader] has saved democracy and the Union. Now that the war is over, the lessons learned from the Crisis of '37 and the war must be studied and applied. While there is indeed much willingness in the government to reform the system, there is no consensus on how to proceed.\n\nSome question whether Presidents Reed and Long should be propagandized as martyrs against the dictatorship of Douglas MacArthur - who all agree was the prime villain of the Civil War - or if they should be dismissed as radical dictators-in-the-making themselves. There are still many sympathizers of both men in the Farmer-Labor, Democratic, and Progressive parties, despite declaring both men traitors back in 1937.\n\nWhat is clear is that the military had grown too powerful in pre-war America, even in peacetime, but few know how to reconcile this issue with national defense, and especially with the popularity of General Marshall, who has been offered several government positions already. All these questions and others must now be answered, but by the grace of Almighty God America now has a government ready to try."
+pacificstates.205.a:0 "Democracy in America is not dead yet.\n§L(Keep map colour)§!"
+pacificstates.205.b:0 "Democracy in America is not dead yet.\n§L(Switch map colour)§!"
+pacificstates.205.c:0 "A more perfect union.\n§L(Keep map colour)§!"
+pacificstates.205.d:0 "A more perfect union.\n§L(Switch map colour)§!"
+
 ###############################################
 #PSA's Army General Descriptions by Drozdovite#
 ###############################################

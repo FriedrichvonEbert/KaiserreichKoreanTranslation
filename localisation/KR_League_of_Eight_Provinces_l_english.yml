@@ -72,6 +72,8 @@ LEP_back_to_league_tooltip:0 "§G우리는 다시 한번 팔성연합으로 알�
 
 LEP_CP_25:0 "£command_power §Y25§!"
 LEP_CP_25_blocked:0 "£command_power §R25§!"
+LEP_PP_25:0 "§Y25§!"
+LEP_PP_25_blocked:0 "§R25§!"
 
 lep_has_widespread_destruction:0 "국민정신 §Y광범위한 파괴§!가 있음\n"
 lep_has_damaged_industry:0 "국민정신 §Y피해를 입은 산업§이 있음\n!"

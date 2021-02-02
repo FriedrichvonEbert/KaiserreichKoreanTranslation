@@ -181,12 +181,6 @@ GXC_mobilize_merchant_corps_desc:0 "약칭인 상인단으로 알려진 광저�
 GXC_mobilize_gentry_militia:0 "농촌 민병대 동원"
 GXC_mobilize_gentry_militia_desc:0 "광시와 광둥 양쪽의 민병대의 상당 부분은 농촌 신사층의 지휘를 받고 있습니다. 두 성 사이의 계속되는 분쟁으로 그들의 이권이 위태로워지자, 신사층은 우리를 전적으로 지원하기로 결정했고 그들의 민병대는 이제 우리의 지휘하에 놓였습니다."
 
-sinkiang_civil_war:0 "서북 내전"
-sinkiang_civil_war_desc:0 "We are currently aiding our ideological brethren in Xinjiang in their war against the seperatists there. If this war goes poorly for our ally, we should consider ending our involvement too.
-
-east_turkestan_war_ceasefire_with_feds:0 "쿠물 칸국과 튀르크에게 휴전 제안"
-east_turkestan_war_ceasefire_with_feds_desc:0 "신장의 우리 동맹이 패배했고 그 지역에 대한 우리의 접근 또한 제한적이기 때문에, 우리는 지역 군벌들과의 휴전을 고려해야 합니다." 
-
 GXC_KMT_national_revolution:0 "국민혁명"
 GXC_KMT_national_revolution_desc:0 ""
 
@@ -1373,19 +1367,6 @@ lngraids.14.a:0 "젠장!"
 lngraids.15.t:0 "매우 성공적인 약탈"
 lngraids.15.d:0 "Our daring raid has borne fruit. Not only did they totally crush local resistance, but our raiders left with a large amount of equipment, including a number of artillery pieces. This will definitely help us reinforce our own armies while our enemies lay humiliated."
 lngraids.15.a:0 "영광스럽군!"
-
-fedsturkwp.1.t:0 "연성주의자들이 휴전을 제안하다"
-fedsturkwp.1.d:0 "After the devious Governor of Xinjiang had convinced the attendants of the Shantou Conference, we thought our cause doomend. Through the willpower of our loyal divisions, we were able to finally eject the Governor from Xinjiang, and are still prepared to defend our homeland. However, the Federalists are now making overtures towards a ceasefire. This could be due to the tenuous legitimacy the final Xinjiang Governor could claim, or due to our might. Either way, we can choose to play along to this proposal or venture forward to conquest."
-fedsturkwp.1.a:0 "현명한 선택이군."
-fedsturkwp.1.b:0 "우린 두려울 게 없다!"
-
-fedsturkwp.2.t:0 "연성주의자들이 서방의 중립을 인정하다"
-fedsturkwp.2.d:0 "연성주의자들은 신장성장의 어리석은 행동을 공식적으로 인정했고, 우리를 향한 그의 공격 행위를 비난했습니다. 이러한 선언에 이어, 우리 영토에 대한 군사 행동을 중지하라는 명령이 내려졌습니다. 우리는 그의 평화에 대한 고마움을 보여주었고, 하서회랑의 주민들은 아군으로부터 잠시 한숨을 돌리게 되었습니다."
-fedsturkwp.2.a:0 "이러한 양해가 참 기쁘군."
-
-fedsturkwp.3.t:0 "연성주의자들이 평화 제안을 거절하다"
-fedsturkwp.3.d:0 "연성주의자들은 우리 정부를 신장에서의 중국의 통치권을 전복하려는 반란 세력이라고 비난했습니다. 심지어 합중국 대총통은 국민들에게 신장에 중국의 적법한 성장직이 되돌아올 것을 약속했고, 이 성에서 외지인의 영향력이 분명히 끝맺을 것임을 약속했습니다. 이 선언에 이어 우리에 대한 반복적인 군사 행동이 이어졌으며, 우리의 지도자는 결국 다른 모든 남중국의 애송이들과 다를 바 없는 교활한 연성자치운동을 고발했습니다."
-fedsturkwp.3.a:0 "농담하는 거지?"
 
 lngkmt.1.t:0 "국민당이 우리의 복속을 요구하다"
 lngkmt.1.d:0 "Li Zongren's Kuomintang in Guangzhou has began mobilizing his forces against us. His impossible demands were formally given to us today: Our government would submit to the KMT's Central Committee, armies absorbed into the National Revolutionary Army. In exchange, we would stay as governor of our province and its army, albeit under their supervision."

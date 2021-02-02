@@ -306,7 +306,7 @@ GBR_rebuild_the_fleet_desc:0 "새로운 영국 해군을 만들어내는 것은 
 GBR_dockyards_1:0 "신규 조선소 투자"
 GBR_dockyards_1_desc:0 "우리가 옛 함대의 명성을 조금이라도 되찾고 싶다면 전국에 새로운 조선소를 세울 필요가 있습니다."
 GBR_shipbuilding_deal:0 "국가적 조선 정책"
-GBR_shipbuilding_deal_desc:0 "우리는 우리 힘만으로 새 함선들을 모두 건설할 수는 없습니다. we will require the assistance of "
+GBR_shipbuilding_deal_desc:0 "우리는 우리 힘만으로 새 함선들을 모두 건설할 수는 없습니다. we will require the assistance of the empire's dominions in order to restore the great British navy."
 GBR_reform_air_force:0 "왕립 공군 재편"
 GBR_reform_air_force_desc:0 "왕립 공군(RAF, The Royal Airforce)는 가장 자랑스러운 전통을 가진 군 중 하나이며, 어느 순간부터 가장 큰 공군이 됐었습니다. 이제 그 전례없이 강력한 왕립 공군을 재건할 때가 됐습니다!"
 GBR_take_to_the_air:0 "창공을 향해"
@@ -715,7 +715,7 @@ uk.119.d:0 "[From.GetAdjective] 정부는 우리 요청에 동의했으며 [colo
 uk.119.a:0 "훌륭해"
 
 uk.120.t:0 "[From.GetNameDefCap] 거절"
-uk.120.d:0 "[From.GetAdjective] 정부가 우리 요청을 거부했습니다. [colony_country.GetNameDef](은)는 그들의 영토라고 합니다."
+uk.120.d:0 "The [From.GetAdjective] government has refused our request. They say that [colony_country.GetNameDef] was territory that was hard-won, and until they decide otherwise it should be considered a [From.GetAdjective] colony."
 uk.120.a:0 "실망이군"
 
 uk.121.t.ally:0 "[From.GetAdjective] 요청"
@@ -731,7 +731,7 @@ uk.122.d:0 "[From.GetAdjective] 정부는 우리 요청에 동의했으며 [colo
 uk.122.a:0 "훌륭해"
 
 uk.123.t:0 "[From.GetNameDefCap] 거절"
-uk.123.d:0 "[From.GetAdjective] 정부가 우리 요청을 거부했습니다. [colony_country.GetNameDef](은)는 그들의 영토라고 합니다."
+uk.123.d:0 "The [From.GetAdjective] government has refused our request. They say that those territories were hard-won, and until they decide otherwise they should be considered a [From.GetAdjective] colony."
 uk.123.a:0 "실망이군"
 uk.123.b:0 "그럼 우리도 선택의 여지가 없다."
 
