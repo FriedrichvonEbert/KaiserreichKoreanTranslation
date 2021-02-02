@@ -76,7 +76,7 @@ longhai_railway:0 "룽하이 철도"
 ANQ_peace:0 "5개 성에 평화를 가져오다"
 ANQ_chen_alone:0 "안경군벌이 독립하다"
 ANQ_is_proqing:0 "안경군벌이 [QIE.GetName] 측을 합법적이라 인정함"
-ANQ_is_profengtian:0 "안경군벌이 [FNG.GetName] 측을 합법적이라 인정함"
+ANQ_is_profengtian:0 "안경군벌이 봉천을 합법적이라 인정함"
 ANQ_friendly_japan:0 "일본과 우호 관계에 있음"
 ANQ_is_reconstructing:0 "재건 프로젝트를 이미 완료함"
 ANQ_abandons_reclamation:0 "안경군벌이 수복전쟁 참여를 포기하다."
@@ -94,6 +94,7 @@ ANQ_can_prospect_resources_qing:0 "Has decided mineral rights"
 ANQ_can_prospect_resources_alone:0 "Has decided mineral rights"
 
 LEP_collapse_SQI_out:0 "Shandong has withdrawn from the War of the Five Provinces"
+ANQ_sqi_is_ally:0 "Formed an alliance with §Hthe Shandong Clique§!"
 
 ## Tooltips ##
 anq_25_army_xp_doctrine_tt:0 "§Y25§! £army_experience"

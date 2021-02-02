@@ -218,7 +218,7 @@ FIN_reorganise_the_mobilisation_structure_desc:0 "언제라도 장정들의 빠�
 FIN_cold_weather_training:0 "혹한기 훈련"
 FIN_cold_weather_training_desc:0 "핀란드에서 가장 무서운 것은 핀란드군이 아닙니다. 바로 핀란드의 기후입니다. 따라서 우리 군이 어떠한 혹한에도 견딜 수 있도록 조치를 취하고 방어전에서 훨씬 큰 이점을 가지게 만드는 것이 현명합니다."
 FIN_sisu:0 "시수"
-FIN_sisu_desc:0 "핀란드의 국가정신인 '시수'는 힘든 시기에야말로 반드시 용기, 체력, 인내, 결단력을 가져야 한다는 정신입니다. 우리는 핀란드군에 시수정신을 주입시켜, 그들에게 국가 방어의 진정한 의미를 깨닫게 해야 합니다."
+FIN_sisu_desc:0 "핀란드의 국가정신인 '시수'는 힘든 시기에야말로 반드시 용기, 체력, 인내, 결단력을 가져야 한다는 정신입니다. 우리는 더 나아가 핀란드군에 시수정신을 주입시켜, 그들에게 국가 방어의 진정한 의미를 깨닫게 해야 합니다."
 FIN_total_defence:0 "총력 방어"
 FIN_total_defence_desc:0 "우리는 우리 땅을 한뼘이라도 침략한 외국놈들과 싸우기 위한 총력 방어태세를 갖추어야 합니다. 우리는 절대로 우리 영토를 그냥 내어줄 수 없으며, 또한 적들에게 우리의 약한 모습도 보여줘선 안됩니다."
 FIN_special_forces:0 "특수부대"
@@ -1000,8 +1000,8 @@ FIN_reorganised_mobilisation_structure_idea:0 "동원구조 재조직"
 FIN_reorganised_mobilisation_structure_idea_desc:0 ""
 FIN_cold_weather_training_idea:0 "혹한기 훈련"
 FIN_cold_weather_training_idea_desc:0 ""
-FIN_sisu_idea:0 "악과 깡"
-FIN_sisu_idea_desc:0 ""
+FIN_sisu_idea:0 "시수"
+FIN_sisu_idea_desc:0 "Sisu is the uniquely Finnish expression for the resilience of the nation's people. Finland has faced harsh odds and will do so again."
 FIN_total_defence_idea:0 "총체적 방위"
 FIN_total_defence_idea_desc:0 ""
 FIN_kaiserliche_werft_kiel_idea:0 "킬 황립 조선소"
@@ -1038,6 +1038,7 @@ FIN_progressive_taxation_idea:0 "누진세"
 FIN_progressive_taxation_idea_desc:0 ""
 FIN_constitution_of_finland_idea:0 "공화주의 헌법"
 FIN_constitution_of_finland_idea_desc:0 ""
+FIN_german_weapon_imports:0 "독일제 무기 수입"
 
 ### Flags ###
 FIN_rebellion_prevented:0 "예방된 반란"
@@ -1092,6 +1093,9 @@ fin_join_nordic_federation_desc:0 "우리의 덴마크, 노르웨이, 스웨덴 
 FIN_join_reichspakt:0 "라이히스팍트 가맹 신청"
 fin_join_internationale:0 "인터내셔널 가맹 신청"
 fin_join_internationale_desc:0 "핀란드 노동자들은 스스로를 해방시켰지만, 적국에 있는 수십억명의 노동자들은 반동적인 자본주의의 탄압을 받고 땀을 흘리고 있습니다. 우리는 그들을 위해 인터내셜에 가입하여 함께 투쟁해야합니다!"
+
+FIN_integration_decisions:0 "영토 통합"
+FIN_integrate_state:0 "[From.GetName] 통합"
 
 ### Tags ###
 FIN_totalist:0 "핀란드 사회주의 노동자 공화국"

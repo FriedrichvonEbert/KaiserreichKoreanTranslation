@@ -13,7 +13,8 @@ RECALL_VOLUNTEERS_ACTION_SEND_DESC:0 "§Y[FROM.GetNameDef]§!측에 보낸 모�
 
 ### Regular Tooltips ###
 is_actual_major_tt:0 "세계의 주된 열강으로 여겨짐"
-if_FROM_agrees:0 "만일 §H[From.GetFlag] [From.GetNameDef]§! 측이 등의시:"
+if_FROM_agrees:0 "만일 §H[From.GetFlag] [From.GetNameDef]§! 측이 등의할 시:"
+needs_approval:0 "만일 §H[This.GetNameDef]§! 측이 동의할 시:"
 upon_selecting_focus:0 "국가중점 선택 시:"
 tooltip_white_line:0 "   \n"
 integration_tooltip:0 "통합되지 않은 지역 보기"
@@ -40,7 +41,7 @@ INTELLIGENCE_AGENCY_BLOCK_TOOLTIP:0 "[!intelligence_agency_blocker_button_click_
 
 ### Splash Screen ###
 KR_SPLASH_TITLE:0 "환영합니다!"
-KR_SPLASH_CREDITS:0 "§Y카라 개발팀 일동:§!\nAdrianator2, Alpinia, Arvidus, Augenis, Blackfalcon501, DSFDarker, Carmain, Chazem, Conor, Dr. Njitram, Drozdovite, Eragaxshim, Flamefang, Fort, Gideones, JazzyHugh, Jeankedezeehond, Jonjon428, Jonny BL, Krco, Liegnitz, Maltesefalcon, Matoro, Nijato, NukeGaming, OperationsManagementDecisions, PPsyrius, Pietrus, Rei VL, Rylock, SPQR, Starguard, Telcontar101, The Alpha Dog, The Irredentista, Thomahawk2k, Vidyaország, WordZero, Yard1, Zankoas and Zimbabwe Salt Co."
+KR_SPLASH_CREDITS:0 "§Y카라 개발팀 일동:§!\nAdrianator2, Alpinia, Arvidus, Asratius, Augenis, Blackfalcon501, DSFDarker, Carmain, Chazem, Conor, Dr. Njitram, Drozdovite, Eragaxshim, Flamefang, Fort, Gideones, JazzyHugh, Jeankedezeehond, Jonjon428, Jonny BL, Krco, Liegnitz, Maltesefalcon, Matoro, Nijato, NukeGaming, OperationsManagementDecisions, PPsyrius, Pietrus, Rei VL, Retrocognition, Rnk, Rylock, SPQR, Starguard, Telcontar101, The Alpha Dog, The Irredentista, Vidyaország, WordZero, Yard1, Zankoas and Zimbabwe Salt Co."
 
 ### Autonomy Levels ###
 kr_integrated_puppet:0 "동화된 괴뢰국"
@@ -189,13 +190,19 @@ mtg_exile_government.5.a:0 "그들은 동맹의 이익보다 스스로의 자존
 mtg_generic.1.title:0 "[From.GetName]에서 정부 변화를 강요하다"
 mtg_generic.1.desc:0 "[From.GetNameDef](은)는 우리 현 정부에 대한 낮은 지지율을 근거로 들며, 정부 개혁을 요구했습니다."
 mtg_generic.1.a:0 "받아들일 수 밖에 없군."
-mtg_exile_leader_added.1.t:1 "[exile_nation.GetAdjective]의 망명 지도자가 복무를 원하다"
-mtg_exile_leader_added.1.desc:1 "적에게 점령당한 영토와 여러 중립국들을 통한 길고 위험한 여정 끝에, [From.GetName]의 고위 군 장교 중 한 명이 드디어 수도에 도착했습니다. 짧은 회복 시간 후, [From.GetSheHe](은)는 우리의 공동투쟁에서의 [From.GetHerHis]의 군복무를 원합니다.\n\n소문에 의하면 [From.GetSheHe](은)는 "사람을 죽이고 물품을 파괴하는 업무로 복귀"하는 데에 꽤나 열정적이라고 합니다."
-mtg_exile_leader_added.1.a:1 "당신의 싸움은 아직 끝나지 않았습니다."
 
 ### Land Units ###
 militia:0 "민병대"
 category_mounted_inf:0 "기마 보병"
+
+### Sub-unit Modifiers ###
+modifier_army_sub_unit_category_bicycle_battalion_attack_factor:0 "Bicycle Attack" 
+modifier_army_sub_unit_category_bicycle_battalion_defence_factor:0 "Bicycle Defence"
+modifier_army_sub_unit_category_bicycle_battalion_speed_factor:0 "Bicycle Speed"
+
+modifier_army_sub_unit_category_militia_attack_factor:0 "Militia Attack" 
+modifier_army_sub_unit_category_militia_defence_factor:0 "Militia Defence"
+modifier_army_sub_unit_category_militia_speed_factor:0 "Militia Speed"
 
 ### Tech ###
 military_police_tech:0 "헌병"

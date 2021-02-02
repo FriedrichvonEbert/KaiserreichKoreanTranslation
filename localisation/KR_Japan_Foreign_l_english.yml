@@ -18,6 +18,7 @@ JAP_naval_advisors:0 "£decision_icon_small New Decisions to develop the §YNava
 JAP_naval_seize_docks:0 "£decision_icon_small New decisions to §YSeize Dockyards§! from our allies during wartime will be unlocked."
 JAP_invest_docks:0 "Has built dockyards in [From.GetNameDef]"
 JAP_not_send_advisor_last_180_days:0 "Not: We have already sent advisors to [From.GetNameDef] in the last six months."
+JAP_asked_to_send_advisor_last_365_days:0 "We have already asked for advisors to [From.GetNameDef] in the last year."
 
 ### Other Tooltips ###
 JAP_gain_claim_southern_islands:0 "§Y[JAP.GetNameDefCap]§!(은)는 §Y싱가포르§!, §Y[1020.GetName]§!, 공영권과 미합중국 소유가 아닌 모든 §Y태평양 제도§!에 영유권을 주장합니다.\n"
@@ -289,7 +290,7 @@ JAP_invest_in_sphere_naval_advisors_desc:0 "We should send advisors to [From.Get
 JAP_invest_in_sphere_prosperity_ships:0 "Share prosperity ship plans with [From.GetNameDef]"
 JAP_invest_in_sphere_prosperity_ships_desc:0 "We should send "Prosperity" ship engineers to [From.GetNameDef], which will help with development of their naval transport base."
 JAP_invest_in_sphere_take_dockyards:0 "Take over [From.GetNameDef] dockyards"
-JAP_invest_in_sphere_take_dockyards_desc:0 "Our home production isn't able to cover needs of our navy, luckily we build dockyards all around our sphere according to our producing standarts, not it is time to use them."
+JAP_invest_in_sphere_take_dockyards_desc:0 "Our naval yards in the Home Islands currently struggle to fulfill the IJA's needs. Now we must make use of the facilities we built for our junior partners in the Co-Prosperity Sphere. All for their own protection, of course."
 JAP_economic_sphere_takeover:0 "[From.GetNameDef] 장악"
 JAP_economic_sphere_takeover_desc:0 "[From.GetNameDef]에 대한 우리의 경제 침투력은 [Root.GetNameDef](을)를 완전히 지배할 정도까지 성장했습니다. [From.GetAdjective] 정부는 이미 우리의 꼭두각시입니다. 이제 남은 것은 독립할 수 있다는 그들의 환상을 체념하는 것 뿐입니다."
 JAP_co_prosperity_member_decisions:0 "일본의 공영권"
@@ -1065,7 +1066,7 @@ japfor.422.a:0 "좋은 소식이군!"
 japfor.423.t:0 "일본이 우리 조선소의 통제권을 요구하다"
 japfor.423.d:0 "오늘 아침 일본 육군과 해군 대표들이 일본 기업이 우리 나라에 건설한 조선소의 통제권을 공식적으로 요구했습니다. 그들은 힘겨운 전시 기간동안 해군 생산이 그들의 지휘 아래 통합되어야 한다고 주장하고 있습니다."
 japfor.423.a:0 "그래, 좋다."
-japfor.423.a:0 "지들이 우리 주인님이라도 되는 줄 아나 보지?"
+japfor.423.b:0 "지들이 우리 주인님이라도 되는 줄 아나 보지?"
 
 japfor.424.t:0 "일본이 조선소 통제권을 돌려주다"
 japfor.424.d:0 "공공의 위협이 제거되었으므로, 일본은 더 이상 우리 조선소를 관리할 법적 근거가 사라졌다며 통제권을 우리에게 돌려주었습니다."

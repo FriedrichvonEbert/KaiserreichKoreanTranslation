@@ -148,14 +148,11 @@ CSA_reconstruction_armies:0 "재건군"
 CSA_continental_red_guards:0 "대륙육군 적위대"
 CSA_motor_production_idea:0 "자동차 생산량 증대"
 CSA_motor_production_idea_2:0 "미 자동차 산업"
-CSA_big_red_fleet:0 "대적색함대"
-CSA_sea_hunters:0 "바다의 사냥꾼들"
-CSA_decentralized_command:0 "탈중앙화 지휘부"
 CSA_unprofessional_officers:0 "비숙련 장교"
 CSA_continental_marines:0 "대륙 해병대"
 
 CSA_market_socialism_idea:0 "시장 사회주의"
-CSA_syndicalist_economics:0 "생디칼리스트 경제"
+CSA_syndicalist_economics_idea:0 "생디칼리스트 경제"
 CSA_foster_economic_policy_idea:0 "포스터의 경제 정책"
 CSA_browders_economic_policy_idea:0 "브라우더의 경제 "
 CSA_social_revolution:0 "사회혁명"
@@ -182,8 +179,8 @@ CSA_demobilization:0 "§RUntil the demobilization is completed, the workers and 
 
 CSA_new_american_dockyards_tooltip:0 "Replace §H$CSA_revolutionary_naval_industry$§! with §H$CSA_martime_industry$§!\nEffective Change:\nDaily Political Power Gain: [?0.1|+=]\nStability: [?0.05|+=%]\nDockyard Output: [?0.1|+=%]\n§HNaval Base§! construction speed: [?0.2|+=%]\n§HDockyard§! construction speed: [?0.1|+=%]\n§HEscort Cruiser§!: £production_cost  Production Cost:  [?-0.1|-=%]\n§HCruiser§!: £production_cost  Production Cost:  [?-0.1|-=%]"
 
-CSA_new_naval_plan_tooltip:0 "Replace §H$CSA_big_red_fleet$§! with §H$CSA_second_continental_navy$§!\nEffective Change:\nNavy Organisation: [?0.05|+=%1]\nNaval max range factor: [?0.1|+=%]"
-CSA_american_peoples_navy_tooltip:0 "Replace §H$CSA_big_red_fleet$§! with §H$CSA_american_peoples_navy$§!\nEffective Change:\nNaval max range factor: [?-0.05|+=%]\nNavy Fuel Consumption: [?-0.2|-=%]"
+CSA_new_naval_plan_tooltip:0 "Modify §H$CSA_second_continental_navy$§! by\nNavy Organisation: [?0.05|+=%1]\nNaval max range factor: [?0.1|+=%]"
+CSA_american_peoples_navy_tooltip:0 "Modif §H$CSA_american_peoples_navy$§! by\nNaval max range factor: [?-0.05|+=%]\nNavy Fuel Consumption: [?-0.2|-=%]"
 
 CSA_refit_old_ships_tooltip_continental_navy:0 "Modify §H$CSA_second_continental_navy$§! by\nNaval Equipment Refitting Speed: [?0.1|+=%0]\nNaval Equipment Refitting Cost: [?-0.1|-=%0]\nShip Repair Speed: [?0.05|+=%0]"
 CSA_refit_old_ships_tooltip_peoples_navy:0 "Modify §H$CSA_american_peoples_navy$§! by\nNaval Equipment Refitting Speed: [?0.1|+=%0]\nNaval Equipment Refitting Cost: [?-0.1|-=%0]\nShip Repair Speed: [?0.05|+=%0]"
@@ -238,7 +235,6 @@ CSA_delay_canadian_intervention_desc:0 "캐나다인들이 내전에 개입하�
 ### Reconstruction Focuses ###
 CSA_rebuilding_the_country:0 "국가 재건"
 CSA_rebuilding_the_country_desc:0 "혁명은 끝났으나, 신속한 조치가 이루어지지 않는다면 제2차 미국 내전으로 찢어진 상처는 계속 곪고 피를 흘리게 될 것입니다. 우리는 낡은 폐허에서 평등하고 영속적인 미국을 건설하기 위해 서둘러야만 합니다."
-CSA_social_revolution:0 "사회혁명"
 CSA_social_revolution_desc:0 "자유의 땅과 용감한 이들의 고향이 무엇이든 간에, 우리는 미국을 부패, 인종주의와 우월주의로부터 해방시키기 위해 노력해야 합니다. 하지만 우선 우리는 이 모든 것의 핵심인 자본주의 체제 자체를 무너뜨려야만 합니다!"
 CSA_redistribute_wealth:0 "재산 재분배"
 CSA_redistribute_wealth_desc:0 "아무 것도 하지 않고도 수백만 달러를 가지고 있는 자와, 하루 종일 일하면서도 겨우 비참한 삶을 연장하는 수백만의 무산자 계급의 공존을 옹호하는 사회 질서를 우리는 더 이상 용인하지 않을 것입니다. 은행과 자본가 그리고 기업가들의 미소는 이제 끝났습니다."
@@ -495,7 +491,6 @@ CSA_martime_industry_desc:0 "Most shipyards were damaged or lost their workers d
 CSA_new_naval_plan:0 "신해군계획"
 CSA_new_naval_plan_desc:0 "With the victory in the Civil War, the American fleet was harshly damaged - many officers and sailors joined the reactionary forces and fought against the will of the people. In the end, when they were defeated, they damaged and destroyed their ships. Our oldest naval commanders propose starting the restoration of the American fleet to its former status."
 
-CSA_american_peoples_navy:0 "미 인민해군"
 CSA_american_peoples_navy_desc:0 "With the Civil War over, some politicians say that our current need is to protect the american people. The idea was proposed to reintroduce the old American naval doctrine - but an additional proposal was made by former members of the Naval Militia who joined our side - сreation of a new American Navy based on states command, which would united under leadership of the central command only in wartime."
 
 CSA_refit_old_ships:0 "구식 함선 개장"
@@ -865,7 +860,7 @@ csa.62.a:0 "드디어"
 
 csa.63.t:0 "장관들이 실종되다"
 csa.63.d.foster:0 "A number of ministers in Congress have disappeared without a trace. Notably, most of them have been associated with Earl Browder in the past. It is assumed by most people that they are only going on an extended vacation."
-csa.63.d.browder:0 "A number of ministers in Congress have disappeared without a trace. Notably, most of them have been associated with  William Z Foster in the past. It is assumed by most people that they are only going on an extended vacation."
+csa.63.d.browder:0 "A number of ministers in Congress have disappeared without a trace. Notably, most of them have been associated with William Z. Foster in the past. It is assumed by most people that they are only going on an extended vacation."
 csa.63.a:0 "그들에게는 조금 긴 휴가가 필요하다."
 
 csa.64.t:0 "육군의 개편"

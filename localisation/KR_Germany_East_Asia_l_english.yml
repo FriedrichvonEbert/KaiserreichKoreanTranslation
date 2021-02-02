@@ -540,7 +540,7 @@ GEA_reintegrate_Cochinchina_decision:0 "코친차이나 재합병"
 GEA_German_vietnamese_reconciliation_decision:0 "독일-베트남 화해"
 GEA_German_vietnamese_reconciliation_decision_desc:0 "인도차이나 반란 진압의 기억이 헬무트 폰 뮈케 제독을 계속 괴롭히고 있고, 이제 그는 그러한 잔혹한 학살에 대해 사과하고 화해해야 한다고 느꼈습니다. 그는 독일-베트남 화해를 위해 식민지에 폭넓은 자치권을 부여하는 것을 고려하고 있습니다. 그렇게 함으로서 그는 코친차이나 주민들의 민심을 다시 얻고 싶어합니다."
 GEA_take_east_asian_navy:0 "동아시아 함대 지휘권 인수"
-GEA_take_east_asian_navy_desc:0 "동아시아 함대는 황립해군의 가장 귀중한 전략적 자산입니다. 베를린이 직접 지휘할 수 있도록 지휘체계를 통합하는 편이 나을 것입니다."
+GEA_take_east_asian_navy_desc:0 "동아시아 함대는 동아시아에서 가장 귀중한 우리의 전략적 자산입니다. 베를린이 직접 지휘할 수 있도록 지휘체계를 통합하는 편이 나을 것입니다."
 blow_singapore_causeway:0 "[GetNameGEAJohore]-[GetNameGEASingapore] 방죽길 파괴"
 blow_singapore_causeway_desc:0 "본토와 [GetNameGEASingapore] 사이의 유일한 육로가 파괴되었고, 우리는 이 틈을 타 섬을 요새화할 수 있지만, 그렇게 하는 것은 본토를 적의 손에 넘겨주는 것과 마찬가지일 것이고, 전쟁의 양상에 부정적인 영향을 끼칠 것입니다..."
 

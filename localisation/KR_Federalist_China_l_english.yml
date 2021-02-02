@@ -162,7 +162,6 @@ UPC_integrate_allies_desc:0 ""
 ### Flags ###
 UPC_dealt_with_feds:0 "[ROOT.GetName](이)가 중화합중국과 협상함"
 UPC_refused_compromise:0 "[ROOT.GetName](이)가 중화합중국과의 협상을 거부함"
-UPC_built_to_nanning:0 "광저우-난닝 철도 부설"
 
 ### Missions ###
 
