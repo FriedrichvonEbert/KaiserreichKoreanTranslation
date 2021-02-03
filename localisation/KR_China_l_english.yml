@@ -245,9 +245,9 @@ JAP_Capture_tooltip:0 "§R중국 내륙으로 깊숙히 밀고 들어갈수로 �
 
 ### Ideas ###
 unite_china_justification_idea:0 "중화 통일!"
-unite_china_justification_idea_desc:0 "Now that we have captured the capital and formed a new Chinese government, we must subjugate the remaining warlords."
-league_collapse_idea_1:0 "Revolutionary Fervor"
-league_collapse_idea_1_desc:0 "Now that the League has broken and open warfare has begun, the forces of Nanjing are in chaos and forced to fight on multiple fronts against their enemies. Now is the time for us to strike and lay claim to what is rightfully ours!"
+unite_china_justification_idea_desc:0 "이제 우리는 수도를 점령하고 새로운 중국 정부를 구성했으니, 남은 군벌들을 복속시켜야 합니다."
+league_collapse_idea_1:0 "혁명의 열정"
+league_collapse_idea_1_desc:0 "연합이 무너지고 전면적인 전쟁이 시작된 지금, 난징의 군대는 혼란에 빠진 데다가 그들의 적들과 맞서 여러 전선에서 싸울 수밖에 없습니다. 지금이 바로 우리가 공격하고 정당하게 우리의 것을 주장할 때입니다!"
 league_collapse_idea_2:0 "Nanjing Re-Organized"
 league_collapse_idea_2_desc:0 "The traitors have failed to break us despite our weaknesses, now the time has come for us to strike back and reclaim what is ours!"
 
@@ -258,7 +258,7 @@ china_redoubt.1.a:0 "빠르게!"
 china_redoubt.1.b:0 "(보루로 플레이한다)"
 
 china_redoubt.2.t:0 "정부가 [china_national_redoubt.GetCliqueShortName]에 도착하다"
-china_redoubt.2.d:0 "중앙 정부 생존자들은 시체와 거지들로 꽉 막힌 산길과 비좁은 도로를 따라 수천 킬로미터를 가로질러 힘겨운 여정을 마쳤고 마침내 [china_national_redoubt.GetCliqueShortName]에 도착했습니다. 지금 당장은 안전할지도 모르지만, 황제의 손이 여기까지 도달하는데 얼마나 걸릴지는 아무도 모릅니다. 길고 지리한 전쟁이 기다립니다."
+china_redoubt.2.d:0 "중앙정부 생존자들은 시체와 거지들로 꽉 막힌 산길과 비좁은 도로를 따라 수천 킬로미터를 가로질러 힘겨운 여정을 마쳤고 마침내 [china_national_redoubt.GetCliqueShortName]에 도착했습니다. 지금 당장은 안전할지도 모르지만, 황제의 손이 여기까지 도달하는데 얼마나 걸릴지는 아무도 모릅니다. 길고 지리한 전쟁이 기다립니다."
 china_redoubt.2.a:0 "어서오시오!"
 
 china_redoubt.3.t:0 "정부가 고향에 돌아오다"
