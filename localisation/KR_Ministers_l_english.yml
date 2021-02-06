@@ -435,28 +435,28 @@
   ################################################################################################################################################################################################
 
 	### Head of Government ###
-	 ANQ_Chen_Yi_hog_ade:0 "Chen Yi"
-	 ANQ_Shangguan_Yunxiang_hog_pau:0 "Shangguan Yunxiang"
-	 ANQ_Wang_Pu_hog_pau:0 "Wang Pu"
+	 ANQ_Chen_Yi_hog_ade:0 "천이"
+	 ANQ_Shangguan_Yunxiang_hog_pau:0 "상관윈샹"
+	 ANQ_Wang_Pu_hog_pau:0 "왕푸"
 
 	### Person of Influence ###
 	## Foreign Minister
-	 ANQ_Chen_Lu_for_sco:0 "Chen Lu"
-	 ANQ_Jiang_Weiqiao_for_sco:0 "Jiang Weiqiao"
-	 ANQ_Wu_Yinchan_for_sco:0 "Wu Yinchan"
+	 ANQ_Chen_Lu_for_sco:0 "천루"
+	 ANQ_Jiang_Weiqiao_for_sco:0 "장웨이차오"
+	 ANQ_Wu_Yinchan_for_sco:0 "우인찬"
 	## Economy Minister
-	 ANQ_Wu_Zhuozhi_eco_mli:0 "Wu Zhuozhi"
-	 ANQ_Leng_Yu_eco_sco:0 "Leng Yu"
-	 ANQ_Wei_Yanshou_eco_sco:0 "Wei Yanshou"
-	 ANQ_Lu_Gongwang_eco_ade:0 "Lu Gongwang"
+	 ANQ_Wu_Zhuozhi_eco_mli:0 "우쭤즈"
+	 ANQ_Leng_Yu_eco_sco:0 "렁위"
+	 ANQ_Wei_Yanshou_eco_sco:0 "웨이옌서우"
+	 ANQ_Lu_Gongwang_eco_ade:0 "뤼궁왕"
 	## Security Minister
-	 ANQ_Shi_Liangcai_sec_sco:0 "Shi Liangcai"
-	 ANQ_Zhang_Yilin_sec_sco:0 "Zhang Yilin"
-	 ANQ_Xia_Chao_sec_ade:0 "Xia Chao"
+	 ANQ_Shi_Liangcai_sec_sco:0 "스량차이"
+	 ANQ_Zhang_Yilin_sec_sco:0 "장이린"
+	 ANQ_Xia_Chao_sec_ade:0 "샤차오"
 
 	### Chief of Staff ###
-	 ANQ_Gao_Shidu_cos:0 "Gao Shidu"
-	 ANQ_Lin_Wei_cos:0 "Lin Wei"
+	 ANQ_Gao_Shidu_cos:0 "가오스두"
+	 ANQ_Lin_Wei_cos:0 "린웨이"
 	 ANQ_Liu_Fengtu_cos:0 "Liu Fengtu"
 	 ANQ_Ma_Xiangbin_cos:0 "Ma Xiangbin"
 	 ANQ_Wang_Geng_cos:0 "Wang Geng"
@@ -464,18 +464,18 @@
 
 	### Chief of Army ###
 	 ANQ_Li_Erkang_carm:0 "Li Erkang"
-	 ANQ_Liu_Heding_carm:0 "Liu Heding"
+	 ANQ_Liu_Heding_carm:0 "류허딩"
 	 ANQ_Ma_Baohang_carm:0 "Ma Baohang"
 	 ANQ_Qian_Zongze_carm:0 "Qian Zongze"
 	 ANQ_Xu_Peigen_carm:0 "Xu Peigen"
-	 ANQ_Zhang_Daohong_carm:0 "Zhang Daohong"
-	 ANQ_Zhang_Pei_carm:0 "Zhang Pei"
+	 ANQ_Zhang_Daohong_carm:0 "장다오훙"
+	 ANQ_Zhang_Pei_carm:0 "장페이"
 
 	### Chief of Navy ###
 	 ANQ_Lu_Deyuan_cnav:0 "Lu Deyuan"
 	 ANQ_Wang_Shouting_cnav:0 "Wang Shouting"
 	 ANQ_Wu_Zhennan_cnav:0 "Wu Zhennan"
-	 ANQ_Zhang_Quan_cnav:0 "Zhang Quan"
+	 ANQ_Zhang_Quan_cnav:0 "장취안"
 	 ANQ_Zhou_Xianzhang_cnav:0 "Zhou Xianzhang"
 
 	### Chief of Air Force ###
@@ -1788,10 +1788,10 @@
 	 BRM_Saya_San_carm_ade:0 "Saya San"
 
 	### Chief of Navy ###
-	 BRM_Sao_Shwe_Thaik_cnav_ade:0 "Sao Shwe Thaik"
+	 BRM_Sao_Shwe_Thaik_cnav_ade:0 "사오쉐타익"
 
 	### Chief of Air Force ###
-	 BRM_Hmu_Aung_cair_ade:0 "Hmu Aung"
+	 BRM_Hmu_Aung_cair_ade:0 "흐무 아웅"
 
   ################################################################################################################################################################################################
   ### BUL
@@ -5858,91 +5858,91 @@
   ################################################################################################################################################################################################
 
 	### Head of Government ###
-	 GXC_Chen_Mingshu_hog_sde:0 "Chen Mingshu"
-	 GXC_Chen_Yansheng_hog_sde:0 "Chen Yansheng"
-	 GXC_Lee_Kong_Chian_hog_sde:0 "Lee Kong Chian"
-	 GXC_Liu_Enchu_hog_sli:0 "Liu Enchu"
-	 GXC_Chen_Lianzhong_hog_mli:0 "Chen Lianzhong"
-	 GXC_Huang_Shaohong_hog_ade:0 "Huang Shaohong"
-	 GXC_Lu_Rongting_hog_pau:0 "Lu Rongting"
-	 GXC_Lu_Yugang_hog_pau:0 "Lu Yugang"
+	 GXC_Chen_Mingshu_hog_sde:0 "천밍수"
+	 GXC_Chen_Yansheng_hog_sde:0 "천옌성"
+	 GXC_Lee_Kong_Chian_hog_sde:0 "리광첸"
+	 GXC_Liu_Enchu_hog_sli:0 "류언추"
+	 GXC_Chen_Lianzhong_hog_mli:0 "천롄중"
+	 GXC_Huang_Shaohong_hog_ade:0 "황사오훙"
+	 GXC_Lu_Rongting_hog_pau:0 "루룽팅"
+	 GXC_Lu_Yugang_hog_pau:0 "루위광"
 
 	### Person of Influence ###
 	## Foreign Minister
-	 GXC_Huang_Dingchen_for_sde:0 "Huang Dingchen"
-	 GXC_Huang_Qixiang_for_sde:0 "Huang Qixiang"
-	 GXC_Yi_Qixi_for_sli:0 "Yi Qixi"
-	 GXC_Xu_Liang_for_mli:0 "Xu Liang"
+	 GXC_Huang_Dingchen_for_sde:0 "황딩천"
+	 GXC_Huang_Qixiang_for_sde:0 "황치샹"
+	 GXC_Yi_Qixi_for_sli:0 "이치첸"
+	 GXC_Xu_Liang_for_mli:0 "쉬량"
 	 GXC_Yang_Yongtai_for_ade:0 "양융타이"
-	 GXC_Zheng_Yanfen_for_ade:0 "Zheng Yanfen"
-	 GXC_Shen_Hongying_for_pau:0 "Shen Hongying"
+	 GXC_Zheng_Yanfen_for_ade:0 "정옌펀"
+	 GXC_Shen_Hongying_for_pau:0 "선훙잉"
 	## Economy Minister
-	 GXC_Luo_Lie_eco_sde:0 "Luo Lie"
-	 GXC_Ye_Zaifu_eco_sde:0 "Ye Zaifu"
-	 GXC_Zhong_Xiunan_eco_sde:0 "Zhong Xiunan"
-	 GXC_Lu_Guanli_eco_sli:0 "Lu Guanli"
-	 GXC_Li_Songshao_eco_mli:0 "Li Songshao"
-	 GXC_Li_Renren_eco_ade:0 "Li Renren"
-	 GXC_Wu_Tingyang_eco_ade:0 "Wu Tingyang"
-	 GXC_Zeng_Yangfu_eco_ade:0 "Zeng Yangfu"
-	 GXC_Tan_Haoming_eco_pau:0 "Tan Haoming"
+	 GXC_Luo_Lie_eco_sde:0 "뤄례"
+	 GXC_Ye_Zaifu_eco_sde:0 "예짜이푸"
+	 GXC_Zhong_Xiunan_eco_sde:0 "중슈난"
+	 GXC_Lu_Guanli_eco_sli:0 "루관리"
+	 GXC_Li_Songshao_eco_mli:0 "리쑹사오"
+	 GXC_Li_Renren_eco_ade:0 "리런런"
+	 GXC_Wu_Tingyang_eco_ade:0 "우팅양"
+	 GXC_Zeng_Yangfu_eco_ade:0 "청양푸"
+	 GXC_Tan_Haoming_eco_pau:0 "탄하오밍"
 	## Security Minister
-	 GXC_Li_Zhangda_sec_sde:0 "Li Zhangda"
-	 GXC_Lu_Zhide_sec_sde:0 "Lu Zhide"
-	 GXC_Wei_Bangping_sec_sde:0 "Wei Bangping"
-	 GXC_Zhao_Dingrong_sec_sli:0 "Zhao Dingrong"
-	 GXC_Deng_Jieshi_sec_mli:0 "Deng Jieshi"
-	 GXC_Huang_Xuchu_sec_ade:0 "Huang Xuchu"
-	 GXC_Li_Guojun_sec_ade:0 "Li Guojun"
-	 GXC_Li_Yuri_sec_ade:0 "Li Yuri"
-	 GXC_Chen_Bingkun_sec_pau:0 "Chen Bingkun"
+	 GXC_Li_Zhangda_sec_sde:0 "리장다"
+	 GXC_Lu_Zhide_sec_sde:0 "루즈더"
+	 GXC_Wei_Bangping_sec_sde:0 "웨이방핑"
+	 GXC_Zhao_Dingrong_sec_sli:0 "자오딩룽"
+	 GXC_Deng_Jieshi_sec_mli:0 "덩제스"
+	 GXC_Huang_Xuchu_sec_ade:0 "황쉬추"
+	 GXC_Li_Guojun_sec_ade:0 "리궈쥔"
+	 GXC_Li_Yuri_sec_ade:0 "리위르"
+	 GXC_Chen_Bingkun_sec_pau:0 "천빙쿤"
 
 	### Chief of Staff ###
-	 GXC_Hai_Jingqiang_cos:0 "Hai Jingqiang"
-	 GXC_Han_Hanying_cos:0 "Han Hanying"
-	 GXC_Han_Weiyong_cos:0 "Han Weiyong"
-	 GXC_He_Zhuguo_cos:0 "He Zhuguo"
-	 GXC_Hu_Zongduo_cos:0 "Hu Zongduo"
-	 GXC_Huang_Guoshu_cos:0 "Huang Guoshu"
-	 GXC_Li_Duo_cos:0 "Li Duo"
-	 GXC_Lin_Xunnan_cos:0 "Lin Xunnan"
-	 GXC_Ma_Xiaojun_cos:0 "Ma Xiaojun"
-	 GXC_Mo_Shujie_cos:0 "Mo Shujie"
-	 GXC_Xie_Yingbai_cos:0 "Xie Yingbai"
-	 GXC_Zou_Hong_cos:0 "Zou Hong"
+	 GXC_Hai_Jingqiang_cos:0 "하이징창"
+	 GXC_Han_Hanying_cos:0 "한한잉"
+	 GXC_Han_Weiyong_cos:0 "한웨이융"
+	 GXC_He_Zhuguo_cos:0 "허주궈"
+	 GXC_Hu_Zongduo_cos:0 "후쭝둬"
+	 GXC_Huang_Guoshu_cos:0 "황궈수"
+	 GXC_Li_Duo_cos:0 "리둬"
+	 GXC_Lin_Xunnan_cos:0 "린쉰난"
+	 GXC_Ma_Xiaojun_cos:0 "마샤오쥔"
+	 GXC_Mo_Shujie_cos:0 "모수제"
+	 GXC_Xie_Yingbai_cos:0 "셰잉바이"
+	 GXC_Zou_Hong_cos:0 "쩌우흥"
 
 	### Chief of Army ###
-	 GXC_Chen_Tingjia_carm:0 "Chen Tingjia"
-	 GXC_Fan_Hanjie_carm:0 "Fan Hanjie"
-	 GXC_He_Weizhen_carm:0 "He Weizhen"
-	 GXC_He_Xuan_carm:0 "He Xuan"
-	 GXC_Hu_Jingxian_carm:0 "Hu Jingxian"
-	 GXC_Jiang_Chuou_carm:0 "Jiang Chuou"
-	 GXC_Li_Zhangda_carm:0 "Li Zhangda"
-	 GXC_Su_Tingxun_carm:0 "Su Tingxun"
-	 GXC_Wan_Yaohuang_carm:0 "Wan Yaohuang"
-	 GXC_Wang_Jingsong_carm:0 "Wang Jingsong"
-	 GXC_Wang_Jun_carm:0 "Wang Jun"
-	 GXC_Yan_Sengwu_carm:0 "Yan Sengwu"
-	 GXC_Ye_Ju_carm:0 "Ye Ju"
-	 GXC_Zhang_Quan_carm:0 "Zhang Quan"
+	 GXC_Chen_Tingjia_carm:0 "천팅자"
+	 GXC_Fan_Hanjie_carm:0 "판한제"
+	 GXC_He_Weizhen_carm:0 "허웨이전"
+	 GXC_He_Xuan_carm:0 "허쉬안"
+	 GXC_Hu_Jingxian_carm:0 "후징셴"
+	 GXC_Jiang_Chuou_carm:0 "장추어우"
+	 GXC_Li_Zhangda_carm:0 "리장다"
+	 GXC_Su_Tingxun_carm:0 "쑤팅쉰"
+	 GXC_Wan_Yaohuang_carm:0 "완야오황"
+	 GXC_Wang_Jingsong_carm:0 "왕징쑹"
+	 GXC_Wang_Jun_carm:0 "왕쥔"
+	 GXC_Yan_Sengwu_carm:0 "옌썽우"
+	 GXC_Ye_Ju_carm:0 "예쥐"
+	 GXC_Zhang_Quan_carm:0 "장취안"
 
 	### Chief of Navy ###
-	 GXC_Chen_Zhaoying_cnav:0 "Chen Zhaoying"
-	 GXC_Lin_Zhenxiong_cnav:0 "Lin Zhenxiong"
-	 GXC_Ouyang_Ge_cnav:0 "Ouyang Ge"
-	 GXC_Qian_Dajun_cnav:0 "Qian Dajun"
-	 GXC_Zhang_Chentong_cnav:0 "Zhang Chentong"
-	 GXC_Zhang_Zhiying_cnav:0 "Zhang Zhiying"
+	 GXC_Chen_Zhaoying_cnav:0 "천자오잉"
+	 GXC_Lin_Zhenxiong_cnav:0 "린전슝"
+	 GXC_Ouyang_Ge_cnav:0 "어우양거"
+	 GXC_Qian_Dajun_cnav:0 "첸다쥔"
+	 GXC_Zhang_Chentong_cnav:0 "장천퉁"
+	 GXC_Zhang_Zhiying_cnav:0 "장즈잉"
 
 	### Chief of Air Force ###
-	 GXC_Feng_Heng_cair:0 "Feng Heng"
-	 GXC_Huang_Zhenqiu_cair:0 "Huang Zhenqiu"
-	 GXC_Li_Xueyan_cair:0 "Li Xueyan"
-	 GXC_Lin_Weicheng_cair:0 "Lin Weicheng"
-	 GXC_Tan_Gen_cair:0 "Tan Gen"
-	 GXC_Zhang_Huichang_cair:0 "Zhang Huichang"
-	 GXC_Zhong_Ji_cair:0 "Zhong Ji"
+	 GXC_Feng_Heng_cair:0 "펑황"
+	 GXC_Huang_Zhenqiu_cair:0 "황전추"
+	 GXC_Li_Xueyan_cair:0 "리쉐옌"
+	 GXC_Lin_Weicheng_cair:0 "린웨이청"
+	 GXC_Tan_Gen_cair:0 "탄건"
+	 GXC_Zhang_Huichang_cair:0 "장후이창"
+	 GXC_Zhong_Ji_cair:0 "중지"
 	 GXC_Zhu_Zhuowen_cair:0 "Zhu Zhuowen"
 
   ################################################################################################################################################################################################
@@ -6311,10 +6311,10 @@
   ################################################################################################################################################################################################
 
 	### Head of Government ###
-	 HNN_Tang_Shengzhi_hog_sde:0 "Tang Shengzhi"
-	 HNN_Cheng_Qian_hog_sli:0 "Cheng Qian"
-	 HNN_Zhao_Hengti_hog_sco:0 "Zhao Hengti"
-	 HNN_Chen_Quzhen_hog_pau:0 "Chen Quzhen"
+	 HNN_Tang_Shengzhi_hog_sde:0 "탕성즈"
+	 HNN_Cheng_Qian_hog_sli:0 "청첸"
+	 HNN_Zhao_Hengti_hog_sco:0 "자오헝티"
+	 HNN_Chen_Quzhen_hog_pau:0 "천취전"
 
 	### Person of Influence ###
 	## Foreign Minister
@@ -6348,7 +6348,7 @@
 
 	### Chief of Staff ###
 	 HNN_Fang_Dingying_cos:0 "Fang Dingying"
-	 HNN_He_Xuan_cos:0 "He Xuan"
+	 HNN_He_Xuan_cos:0 "허쉬안"
 	 HNN_Men_Bingyue_cos:0 "Men Bingyue"
 	 HNN_Tang_Xing_cos:0 "Tang Xing"
 	 HNN_Zhang_Zhen_cos:0 "Zhang Zhen"
@@ -11763,15 +11763,15 @@
   ################################################################################################################################################################################################
 
 	### Head of Government ###
-	 SHA_Sao_Shwe_Thaik_hog_sco:0 "Sao Shwe Thaik"
+	 SHA_Sao_Shwe_Thaik_hog_sco:0 "사오 쉐 타익"
 
 	### Person of Influence ###
 	## Foreign Minister
-	 SHA_U_Tun_Myint_for_sco:0 "U Tun Myint"
+	 SHA_U_Tun_Myint_for_sco:0 "우 튠 민"
 	## Economy Minister
-	 SHA_Sao_Hom_Hpa_eco_sco:0 "Sao Hom Hpa"
+	 SHA_Sao_Hom_Hpa_eco_sco:0 "사오 홈 파"
 	## Security Minister
-	 SHA_Sao_Yang_Wen_Pin_sec_sco:0 "Sao Yang Wen Pin"
+	 SHA_Sao_Yang_Wen_Pin_sec_sco:0 "사오 양 웬 핀"
 
 	### Chief of Staff ###
 
@@ -11786,8 +11786,8 @@
   ################################################################################################################################################################################################
 
 	### Head of Government ###
-	 SHX_He_Qigong_hog_ade:0 "He Qigong"
-	 SHX_Jia_Jingde_hog_pau:0 "Jia Jingde"
+	 SHX_He_Qigong_hog_ade:0 "허치궁"
+	 SHX_Jia_Jingde_hog_pau:0 "자징더"
 
 	### Person of Influence ###
 	## Foreign Minister
@@ -11843,13 +11843,13 @@
 	 SHX_Zhu_Shouguang_carm:0 "Zhu Shouguang"
 
 	### Chief of Navy ###
-	 SHX_Sui_Youlin_cnav:0 "Sui Youlin"
+	 SHX_Sui_Youlin_cnav:0 "쑤이유린"
 
 	### Chief of Air Force ###
 	 SHX_Cao_Baoqing_cair:0 "Cao Baoqing"
-	 SHX_Deng_Jianzhong_cair:0 "Deng Jianzhong"
-	 SHX_Xie_Wenda_cair:0 "Xie Wenda"
-	 SHX_Zhong_Jihan_cair:0 "Zhong Jihan"
+	 SHX_Deng_Jianzhong_cair:0 "덩젠중"
+	 SHX_Xie_Wenda_cair:0 "셰원다"
+	 SHX_Zhong_Jihan_cair:0 "중지한"
 
   ################################################################################################################################################################################################
   ### SIA
@@ -13534,13 +13534,13 @@
   ################################################################################################################################################################################################
 
 	### Head of Government ###
-	 SZC_Yang_Shukan_hog_sde:0 "Yang Shukan"
-	 SZC_Dan_Maoxin_hog_sli:0 "Dan Maoxin"
+	 SZC_Yang_Shukan_hog_sde:0 "양수칸"
+	 SZC_Dan_Maoxin_hog_sli:0 "단마오신"
 	 SZC_Du_Luqian_hog_sco:0 "Du Luqian"
 	 SZC_Huang_Yin_hog_sco:0 "Huang Yin"
-	 SZC_Lai_Xinhui_hog_ade:0 "Lai Xinhui"
+	 SZC_Lai_Xinhui_hog_ade:0 "라이신후이"
 	 SZC_Yang_Hanlie_hog_ade:0 "Yang Hanlie"
-	 SZC_Liu_Xiang_hog_pau:0 "Liu Xiang"
+	 SZC_Liu_Xiang_hog_pau:0 "류샹"
 
 	### Person of Influence ###
 	## Foreign Minister
@@ -13548,7 +13548,7 @@
 	 SZC_Xiang_Chuanyi_for_sli:0 "Xiang Chuanyi"
 	 SZC_Chen_Li_for_sco:0 "Chen Li"
 	 SZC_Leng_Yindong_for_sco:0 "Leng Yindong"
-	 SZC_Liu_Chengxun_for_ade:0 "Liu Chengxun"
+	 SZC_Liu_Chengxun_for_ade:0 "류청쉰"
 	 SZC_Yang_Hanyu_for_ade:0 "Yang Hanyu"
 	 SZC_Kang_Baiqing_for_pau:0 "Kang Baiqing"
 	## Economy Minister
@@ -13573,13 +13573,13 @@
 	 SZC_Chai_Yixin_cos_sco:0 "Chai Yixin"
 	 SZC_Guo_Xunqi_cos_sco:0 "Guo Xunqi"
 	 SZC_Li_Jiayu_cos_sco:0 "Li Jiayu"
-	 SZC_Tang_Shizun_cos_sco:0 "Tang Shizun"
+	 SZC_Tang_Shizun_cos_sco:0 "탕스쭌"
 	 SZC_Wang_Mingzhang_cos_sco:0 "Wang Mingzhang"
 	 SZC_Xiao_Yisu_cos_sco:0 "Xiao Yisu"
 
 	### Chief of Army ###
 	 SZC_Chen_Guodong_carm_sco:0 "Chen Guodong"
-	 SZC_Chen_Yi_carm_sco:0 "Chen Yi"
+	 SZC_Chen_Yi_carm_sco:0 "천이"
 	 SZC_Li_Weiru_carm_sco:0 "Li Weiru"
 	 SZC_Rao_Guohua_carm_sco:0 "Rao Guohua"
 	 SZC_Sun_Zhen_carm_sco:0 "Sun Zhen"
