@@ -83,25 +83,25 @@ china_army_reform_tooltip_50:0 "£army_experience [?50|H0]"
 china_army_reform_tooltip_50_blocked:0 "£army_experience [?50|R0]"
 
 ### League War Support
-china_league_collapse_war_support_decisions:0 "League War Support"
-china_request_infantry_equipment:0 "Request [FROM.GetAdjective] Rifles" 
-china_request_artillery_equipment:0 "Request [FROM.GetAdjective] Artillery" 
-china_request_support_equipment:0 "Request [FROM.GetAdjective] Support Equipment" 
+china_league_collapse_war_support_decisions:0 "연합 전쟁 지원"
+china_request_infantry_equipment:0 "[FROM.GetAdjective]에 소총 요청" 
+china_request_artillery_equipment:0 "[FROM.GetAdjective]에 야포 요청" 
+china_request_support_equipment:0 "[FROM.GetAdjective]에 지원 장비 요청" 
 china_request_refused:0 "Not: §H[FROM.GetNameDefCap]§! has refused a request in the last three months."
 china_awaiting_request:0 "Awaiting response from another request."
 
-china_redoubt.7.t:0 "[FROM.GetNameDefCap] Requests Equipment"
+china_redoubt.7.t:0 "[FROM.GetNameDefCap](이)가 장비를 요청하다"
 china_redoubt.7.d:0 "[FROM.GetLeader] has sent an appeal for additional equipment to supply his efforts in the League War, specifically [?FROM.china_requested_quantity] [?FROM.china_requested_equipment.GetTokenLocalizedKey]. Now that he has had some time to consolidate his position, and at least one of his competitors is out of the picture, this may be seen as a worthwhile investment, and less likely to be a lost cause. Of course, our strategic aims must come first. Should we count [From.GetLeader] among them?"
-china_redoubt.7.a:0 "Send them what they need."
-china_redoubt.7.b:0 "We cannot spare the resources."
+china_redoubt.7.a:0 "그들이 필요한 것을 보내줘라."
+china_redoubt.7.b:0 "우리는 자원을 나눠줄 수 없다."
 
-china_redoubt.8.t:0 "[FROM.GetNameDefCap] Sends Equipment"
+china_redoubt.8.t:0 "[FROM.GetNameDefCap](이)가 장비를 보내주다"
 china_redoubt.8.d:0 "[FROM.GetName] has fulfilled our request for equipment, and despite its journey through a region still gripped by chaos most of the equipment appears to remain intact. [?FROM.china_requested_quantity] additional [?FROM.china_requested_equipment.GetTokenLocalizedKey] are at our disposal."
-china_redoubt.8.a:0 "Thank you!"
+china_redoubt.8.a:0 "감사할 따름이네!"
 
-china_redoubt.9.t:0 "[FROM.GetNameDefCap] Refuses Our Request"
+china_redoubt.9.t:0 "[FROM.GetNameDefCap](이)가 우리의 요청을 거부하다"
 china_redoubt.9.d:0 "Despite our best efforts, [FROM.GetName] has refused our request for [?FROM.china_requested_quantity] [?FROM.china_requested_equipment.GetTokenLocalizedKey]."
-china_redoubt.9.a:0 "So much for their promises."
+china_redoubt.9.a:0 "그들의 약속은 이것으로 끝이군."
 
 ### League War Scavenging
 china_league_collapse_scavenging_decisions:0 "League War Scavenging"
@@ -179,7 +179,7 @@ china_shared.12.a:0 "So much for unity."
 
 china_shared.13.t:0 "중화통일전선 출범"
 china_shared.13.d.pro_JAP:0 "최근 우리가 거둔 승리를 인정하고 싶지 않아하는 일부 동포 중국 군벌이 우리나라와 우리의 동맹 일본을 상대하기 위해 뭉치기로 결정한 모양입니다. 도쿄 정권은 최후의 발악과도 같은 이번 동맹관계를 그다지 대수롭지 않게 여기지만, 일본에 비해 중국에 관해 더 많이 알고 있는 우리 정부는 기나긴 싸움이 목전에 놓여있다는 사실을 눈치챘습니다." #Pro-Japan Chinese POV
-china_shared.13.d.anti_JAP:0 "몇주간 일련의 비밀 회담이 오간 후, 우리 정부를 포함한 몇몇 중국 군벌들이 다가오는 일본의 침략에 맞서 함께 싸우기로 합의했습니다. 수십년간 단결이 불발되었었지만 이번에 중화통일전선이 형성되었으니, 지금에야말로 침략자 일본과 일본과 연대한 반역자들을 쳐부술 때가 왔습니다." #Anti-Japan Chinese POV
+china_shared.13.d.anti_JAP:0 "몇 주간 일련의 비밀 회담이 오간 후, 우리 정부를 포함한 몇몇 중국 군벌들이 다가오는 일본의 침략에 맞서 함께 싸우기로 합의했습니다. 수십년간 단결이 불발되었었지만 이번에 중화통일전선이 형성되었으니, 지금에야말로 침략자 일본과 일본과 연대한 반역자들을 쳐부술 때가 왔습니다." #Anti-Japan Chinese POV
 china_shared.13.d.JAP:0 "최근 우리가 거둔 승리와 군사력에서의 압도적인 우위를 인정하고 싶지 않아하는 일부 중국 군벌이 우리나라를 상대하기 위해 뭉치기로 결정한 모양입니다. 항상 다툼을 일삼고 당파성이 강한 중국인들이 실제로 한 가지 대의를 위해 뭉치는 모습을 상상하기는 어려우며, 아군 지휘관들은 저들의 연합이 궁극적으로 헛된 조치에 불과하다고 장담했습니다. 이번 연말에는 저들의 본부가 무너진 폐허 속에서 사케를 홀짝거리며 보낼 겁니다." #Japanese POV
 china_shared.13.d.others:0 "중국인들이 필사적으로 일본의 침략을 막기 위해 동맹체를 구성한 모양입니다. 항상 다툼을 일삼고 당파성이 강하던 중국 군벌들이 이런 행보를 보이리라고 예상한 사람은 전혀 없었습니다. 이제 많은 이들이 상당한 관심을 품고 중국의 미래를 지켜볼 겁니다." #Foreign POV
 china_shared.13.a:0 "돌격."
