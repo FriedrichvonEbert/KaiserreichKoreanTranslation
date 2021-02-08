@@ -13536,74 +13536,74 @@
 	### Head of Government ###
 	 SZC_Yang_Shukan_hog_sde:0 "양수칸"
 	 SZC_Dan_Maoxin_hog_sli:0 "단마오신"
-	 SZC_Du_Luqian_hog_sco:0 "Du Luqian"
-	 SZC_Huang_Yin_hog_sco:0 "Huang Yin"
+	 SZC_Du_Luqian_hog_sco:0 "두뤼첸"
+	 SZC_Huang_Yin_hog_sco:0 "황인"
 	 SZC_Lai_Xinhui_hog_ade:0 "라이신후이"
-	 SZC_Yang_Hanlie_hog_ade:0 "Yang Hanlie"
+	 SZC_Yang_Hanlie_hog_ade:0 "양한례"
 	 SZC_Liu_Xiang_hog_pau:0 "류샹"
 
 	### Person of Influence ###
 	## Foreign Minister
-	 SZC_Xie_Chi_for_sde:0 "Xie Chi"
-	 SZC_Xiang_Chuanyi_for_sli:0 "Xiang Chuanyi"
-	 SZC_Chen_Li_for_sco:0 "Chen Li"
-	 SZC_Leng_Yindong_for_sco:0 "Leng Yindong"
+	 SZC_Xie_Chi_for_sde:0 "셰츠"
+	 SZC_Xiang_Chuanyi_for_sli:0 "샹촨이"
+	 SZC_Chen_Li_for_sco:0 "천리"
+	 SZC_Leng_Yindong_for_sco:0 "렁인둥"
 	 SZC_Liu_Chengxun_for_ade:0 "류청쉰"
-	 SZC_Yang_Hanyu_for_ade:0 "Yang Hanyu"
-	 SZC_Kang_Baiqing_for_pau:0 "Kang Baiqing"
+	 SZC_Yang_Hanyu_for_ade:0 "양한위"
+	 SZC_Kang_Baiqing_for_pau:0 "캉바이칭"
 	## Economy Minister
-	 SZC_Zhou_Junshi_eco_sde:0 "Zhou Junshi"
-	 SZC_Yu_Peidi_eco_sli:0 "Yu Peidi"
-	 SZC_Hu_Ziang_eco_sco:0 "Hu Ziang"
-	 SZC_Lan_Yaoqu_eco_sco:0 "Lan Yaoqu"
-	 SZC_Yang_Cansan_eco_sco:0 "Yang Cansan"
-	 SZC_Liu_Hangchen_eco_ade:0 "Liu Hangchen"
-	 SZC_Xia_Jiong_eco_ade:0 "Xia Jiong"
-	 SZC_Deng_Hanxiang_eco_pau:0 "Deng Hanxiang"
+	 SZC_Zhou_Junshi_eco_sde:0 "저우쥔스"
+	 SZC_Yu_Peidi_eco_sli:0 "위페이디"
+	 SZC_Hu_Ziang_eco_sco:0 "후쯔앙"
+	 SZC_Lan_Yaoqu_eco_sco:0 "란야오취"
+	 SZC_Yang_Cansan_eco_sco:0 "양찬싼"
+	 SZC_Liu_Hangchen_eco_ade:0 "류항천"
+	 SZC_Xia_Jiong_eco_ade:0 "샤중"
+	 SZC_Deng_Hanxiang_eco_pau:0 "덩한샹"
 	## Security Minister
-	 SZC_Mei_Shuzeng_sec_sde:0 "Mei Shuzeng"
-	 SZC_Yan_Deji_sec_sli:0 "Yan Deji"
-	 SZC_Huang_Jinao_sec_sco:0 "Huang Jinao"
-	 SZC_Xia_Shouxun_sec_sco:0 "Xia Shouxun"
-	 SZC_Yang_Gancai_sec_ade:0 "Yang Gancai"
-	 SZC_Yin_Changheng_sec_ade:0 "Yin Changheng"
-	 SZC_Yu_Yuan_sec_pau:0 "Yu Yuan"
+	 SZC_Mei_Shuzeng_sec_sde:0 "메이수청"
+	 SZC_Yan_Deji_sec_sli:0 "옌더지"
+	 SZC_Huang_Jinao_sec_sco:0 "황진아오"
+	 SZC_Xia_Shouxun_sec_sco:0 "샤서우쉰"
+	 SZC_Yang_Gancai_sec_ade:0 "양간차이"
+	 SZC_Yin_Changheng_sec_ade:0 "인창헝"
+	 SZC_Yu_Yuan_sec_pau:0 "위위안"
 
 	### Chief of Staff ###
-	 SZC_Chai_Yixin_cos_sco:0 "Chai Yixin"
-	 SZC_Guo_Xunqi_cos_sco:0 "Guo Xunqi"
-	 SZC_Li_Jiayu_cos_sco:0 "Li Jiayu"
+	 SZC_Chai_Yixin_cos_sco:0 "차이이신"
+	 SZC_Guo_Xunqi_cos_sco:0 "궈쉰치"
+	 SZC_Li_Jiayu_cos_sco:0 "리자위"
 	 SZC_Tang_Shizun_cos_sco:0 "탕스쭌"
-	 SZC_Wang_Mingzhang_cos_sco:0 "Wang Mingzhang"
-	 SZC_Xiao_Yisu_cos_sco:0 "Xiao Yisu"
+	 SZC_Wang_Mingzhang_cos_sco:0 "왕밍장"
+	 SZC_Xiao_Yisu_cos_sco:0 "샤오이쑤"
 
 	### Chief of Army ###
-	 SZC_Chen_Guodong_carm_sco:0 "Chen Guodong"
+	 SZC_Chen_Guodong_carm_sco:0 "천궈둥"
 	 SZC_Chen_Yi_carm_sco:0 "천이"
-	 SZC_Li_Weiru_carm_sco:0 "Li Weiru"
-	 SZC_Rao_Guohua_carm_sco:0 "Rao Guohua"
-	 SZC_Sun_Zhen_carm_sco:0 "Sun Zhen"
-	 SZC_Xu_Guozhang_carm_sco:0 "Xu Guozhang"
-	 SZC_Zhao_Weibin_carm_sco:0 "Zhao Weibin"
-	 SZC_Luo_Zezhou_carm:0 "Luo Zezhou"
+	 SZC_Li_Weiru_carm_sco:0 "리웨이루"
+	 SZC_Rao_Guohua_carm_sco:0 "라오궈화"
+	 SZC_Sun_Zhen_carm_sco:0 "쑨전"
+	 SZC_Xu_Guozhang_carm_sco:0 "쉬궈장"
+	 SZC_Zhao_Weibin_carm_sco:0 "자오웨이빈"
+	 SZC_Luo_Zezhou_carm:0 "뤄쩌저우"
 
 	### Chief of Navy ###
-	 SZC_Jiang_Kui_cnav_sco:0 "Jiang Kui"
-	 SZC_Li_Yuxi_cnav_sco:0 "Li Yuxi"
-	 SZC_Yu_Jitang_cnav_sco:0 "Yu Jitang"
-	 SZC_Zhang_Chong_cnav_sco:0 "Zhang Chong"
+	 SZC_Jiang_Kui_cnav_sco:0 "장쿠이"
+	 SZC_Li_Yuxi_cnav_sco:0 "리위시"
+	 SZC_Yu_Jitang_cnav_sco:0 "위지탕"
+	 SZC_Zhang_Chong_cnav_sco:0 "장충"
 
 	### Chief of Air Force ###
-	 SZC_Jiang_Kui_cair_sco:0 "Jiang Kui"
-	 SZC_Yue_Yiqin_cair_sco:0 "Yue Yiqin"
-	 SZC_Zheng_Shaoyu_cair_sco:0 "Zheng Shaoyu"
+	 SZC_Jiang_Kui_cair_sco:0 "장쿠이"
+	 SZC_Yue_Yiqin_cair_sco:0 "웨이친"
+	 SZC_Zheng_Shaoyu_cair_sco:0 "정사오위"
 
   ################################################################################################################################################################################################
   ### TAJ
   ################################################################################################################################################################################################
 
 	### Head of Government ###
-	 TAJ_Bobodzhan_Gafurov_hog_syn:0 "Bobodzhan Gafurov"
+	 TAJ_Bobodzhan_Gafurov_hog_syn:0 "보보잔 가푸로프"
 	 TAJ_Shadan_Lavrenets_hog_sli:0 "Shadan Lavrenets"
 	 TAJ_Yevgenij_Mamedov_hog_ade:0 "Yevgenij Mamedov"
 
@@ -13630,10 +13630,10 @@
 	 TAJ_Mamtun_Kurbanov_sec_sli:0 "Mamtun Kurbanov"
 	 TAJ_Alexander_Berkmann_sec_ade:0 "Alexander Berkmann"
 	 TAJ_Father_Gennadij_sec_ade:0 "Father Gennadij"
-	 TAJ_Mahasti_Gafurov_sec_ade:0 "Mahasti Gafurov"
+	 TAJ_Mahasti_Gafurov_sec_ade:0 "마하스티 가푸로프"
 
 	### Chief of Staff ###
-	 TAJ_Ara_Gafurov_cos_syn:0 "Ara Gafurov"
+	 TAJ_Ara_Gafurov_cos_syn:0 "아라 가푸로프"
 	 TAJ_Nikilai_Provotvorov_cos_syn:0 "Nikilai Provotvorov"
 	 TAJ_Yurij_Perminov_cos_sli:0 "Yurij Perminov"
 	 TAJ_Urunboy_Ushorov_cos_ade:0 "Urunboy Ushorov"
@@ -13642,7 +13642,7 @@
 	 TAJ_Neelufar_Kazachestevo_carm_syn:0 "Neelufar Kazachestevo"
 	 TAJ_Veniamin_Protopopov_carm_syn:0 "Veniamin Protopopov"
 	 TAJ_Nikita_Proskuriakov_carm_sli:0 "Nikita Proskuriakov"
-	 TAJ_Ara_Gafurov_carm_ade:0 "Ara Gafurov"
+	 TAJ_Ara_Gafurov_carm_ade:0 "아라 가푸로프"
 
 	### Chief of Navy ###
 	 TAJ_Pendar_Ryndenko_cnav_syn:0 "Pendar Ryndenko"
@@ -13659,36 +13659,36 @@
   ################################################################################################################################################################################################
 
 	### Head of Government ###
-	 TAN_Fan_Yaonan_hog_sde:0 "Fan Yaonan"
-	 TAN_Ma_Hushan_hog_ade:0 "Ma Hushan"
-	 TAN_Hoja_Niyaz_Haji_hog_pau:0 "Hoja Niyaz Haji"
-	 TAN_Long_Xielin_hog_pau:0 "Long Xielin"
-	 TAN_Nasir_Shah_hog_pau:0 "Nasir Shah"
-	 TAN_Yulbars_Khan_hog_pau:0 "Yulbars Khan"
+	 TAN_Fan_Yaonan_hog_sde:0 "판야오난"
+	 TAN_Ma_Hushan_hog_ade:0 "마후산"
+	 TAN_Hoja_Niyaz_Haji_hog_pau:0 "호자 니야즈 하지"
+	 TAN_Long_Xielin_hog_pau:0 "룽셰린"
+	 TAN_Nasir_Shah_hog_pau:0 "나스르 샤"
+	 TAN_Yulbars_Khan_hog_pau:0 "율바르스 칸"
 
 	### Person of Influence ###
 	## Foreign Minister
-	 TAN_Mildred_Cable_for_sde:0 "Mildred Cable"
-	 TAN_Ma_Fuyuan_for_ade:0 "Ma Fuyuan"
-	 TAN_Mexsut_Muhiti_for_pau:0 "Mexsut Muhiti"
+	 TAN_Mildred_Cable_for_sde:0 "밀드레드 케이블"
+	 TAN_Ma_Fuyuan_for_ade:0 "마푸위안"
+	 TAN_Mexsut_Muhiti_for_pau:0 "멕수트 무히티"
 	## Economy Minister
-	 TAN_Zhang_Fengjiu_eco_sde:0 "Zhang Fengjiu"
-	 TAN_Ma_Zhancang_eco_ade:0 "Ma Zhancang"
-	 TAN_Dalelkhan_Sugirbayev_eco_pau:0 "Dalelkhan Sugirbayev"
+	 TAN_Zhang_Fengjiu_eco_sde:0 "장펑주"
+	 TAN_Ma_Zhancang_eco_ade:0 "마잔창"
+	 TAN_Dalelkhan_Sugirbayev_eco_pau:0 "달렐칸 수기르바예브"
 	## Security Minister
-	 TAN_Zhang_Chunxi_sec_sde:0 "Zhang Chunxi"
-	 TAN_Luo_Wengan_sec_ade:0 "Luo Wengan"
-	 TAN_Ospan_Batyr_sec_pau:0 "Ospan Batyr"
+	 TAN_Zhang_Chunxi_sec_sde:0 "장춘시"
+	 TAN_Luo_Wengan_sec_ade:0 "뤄원간"
+	 TAN_Ospan_Batyr_sec_pau:0 "오스판 바티르"
 
 	### Chief of Staff ###
-	 TAN_Hoja_Niyaz_Haji_cos:0 "Hoja Niyaz Haji"
-	 TAN_Ma_Zhongying_cos:0 "Ma Zhongying"
-	 TAN_Yulbars_Khan_cos:0 "Yulbars Khan"
+	 TAN_Hoja_Niyaz_Haji_cos:0 "호자 니야즈 하지"
+	 TAN_Ma_Zhongying_cos:0 "마중잉"
+	 TAN_Yulbars_Khan_cos:0 "율바르스 칸"
 
 	### Chief of Army ###
-	 TAN_Ma_Hushan_carm:0 "Ma Hushan"
-	 TAN_Mahmut_Muhiti_carm:0 "Mahmut Muhiti"
-	 TAN_Ospan_Batyr_carm:0 "Ospan Batyr"
+	 TAN_Ma_Hushan_carm:0 "마후산"
+	 TAN_Mahmut_Muhiti_carm:0 "마흐무트 무히티"
+	 TAN_Ospan_Batyr_carm:0 "오스판 바티르"
 
 	### Chief of Navy ###
 
