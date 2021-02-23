@@ -37,13 +37,13 @@ POLITICS_HNN_SONG_XILIAN_ARMY_DESC:0 ""
 ### Decisions ###
 
 HNN_elections_category:0 "후난성 선거"
-HNN_elections_category_desc:0 "Zhao Hengti, the governor of Hunan, is unlike other Chinese warlords. He is a fierce believer in legal legitimacy and wants to use 'legal' procedures. With provincial autonomy back in his hands, he has opened up elections, of which the three most popular candidates are Himself, Tang Shengzhi 'The Buddhist General', and Cheng Qian, the Nationalist-aligned general.\n\nSupport for Zhao Hengti: §Y[?HNN.hnn_zhao_popularity]§!\n\nSupport for Tang Shengzhi: §Y[?HNN.hnn_tang_popularity]§!\n\nSupport for Cheng Qian: §Y[?HNN.hnn_chen_popularity]§!"
+HNN_elections_category_desc:0 "호남 총독 자오헝티는 여타 중국 군벌들과는 다른 인물입니다. 그는 법적 정통성을 확고하게 믿고 있으며 '합법적' 절차를 활용하기를 원합니다. 성 자치권을 다시 손 안에 넣은 그는 선거를 개최했습니다. 가장 유력한 세 후보는 자오헝티 본인과 '불교 장군' 탕성즈, 그리고 국민당과 연계한 장군 청첸입니다.\n\n자오헝티 지지도: §Y[?HNN.hnn_zhao_popularity]§!\n\n탕성즈 지지도: §Y[?HNN.hnn_tang_popularity]§!\n\n청첸 지지도: §Y[?HNN.hnn_chen_popularity]§!"
 HNN_remove_chen_votes:0 "청첸 지지표 제거"
-HNN_remove_chen_votes_desc:0 "Cheng Qian has garnered far too much support for his own good. We have drafted a plan to secretly remove a portion of his vote share during the election while maintaining the facade of legitimacy. We should commit to putting that plan in action.\nIt is also worth noting that while appropriate measures have been taken to avoid accusations of vote rigging, should we too heavily affect the results of the election, its legitimacy could come under question."
-HNN_remove_tang_votes:0 "자오헝티 지지표 제거"
-HNN_remove_tang_votes_desc:0 "Tang Shengzhi has garnered far too much support for his own good. We have drafted a plan to secretly remove a portion of his vote share during the election while maintaining the facade of legitimacy. We should commit to putting that plan in action.\nIt is also worth noting that while appropriate measures have been taken to avoid accusations of vote rigging, should we too heavily affect the results of the election, its legitimacy could come under question."
+HNN_remove_chen_votes_desc:0 "청첸은 너무 많은 인기를 끌고 있습니다. 선거의 합법성을 유지하면서 비밀리에 청첸이 획득한 표를 없애버리는 계획을 작성했습니다. 그 계획을 실행에 옮기도록 승인해야 합니다.\n부정선거 의혹을 피하기 위해 충분한 조치를 취하기는 했지만, 선거 결과에 너무 큰 영향력을 끼친다면 정통성에 의문이 제기될 수 있다는 점도 염두에 두어야 합니다."
+HNN_remove_tang_votes:0 "탕성즈 지지표 제거"
+HNN_remove_tang_votes_desc:0 "탕성즈는 너무 많은 인기를 끌고 있습니다. 선거의 합법성을 유지하면서 비밀리에 탕성즈가 획득한 표를 없애버리는 계획을 작성했습니다. 그 계획을 실행에 옮기도록 승인해야 합니다.\n부정선거 의혹을 피하기 위해 충분한 조치를 취하기는 했지만, 선거 결과에 너무 큰 영향력을 끼친다면 정통성에 의문이 제기될 수 있다는 점도 염두에 두어야 합니다."
 HNN_add_zhao_votes:0 "자오헝티 지지표 추가"
-HNN_add_zhao_votes_desc:0 "Zhao Hengti is underperforming. We have drafted a plan to secretly increase his vote share during the election while maintaining the facade of legitimacy. We should commit to putting that plan in action.\nIt is also worth noting that while appropriate measures have been taken to avoid accusations of vote rigging, should we too heavily affect the results of the election, its legitimacy could come under question."
+HNN_add_zhao_votes_desc:0 "자오헝티가 예상보다 기량을 발휘하지 못하고 있습니다. 선거의 합법성을 유지하면서 비밀리에 자오헝티가 획득한 표를 늘리는 계획을 작성했습니다. 그 계획을 실행에 옮기도록 승인해야 합니다.\n부정선거 의혹을 피하기 위해 충분한 조치를 취하기는 했지만, 선거 결과에 너무 큰 영향력을 끼친다면 정통성에 의문이 제기될 수 있다는 점도 염두에 두어야 합니다."
 
 HNN_buddsoc_category:0 "혁명적 불교"
 HNN_buddsoc_category_desc:0 "불교도 장군 탕성즈가 후난에서 정권을 잡았습니다. 그는 불교화 계획을 재개했으며, 후난성을 현대적이고 사회주의적이며 훌륭한 성으로 탈바꿈시키는 것을 목표로 하고 있습니다. 이제야말로 처음부터 다시 시작해서 인민과 종교를 위한 새로운 후난성을 건설할 때입니다!\n\n§Y현재 불교화 정치력:§! [?HNN.hnn_buddhisisation_progress_var]"
@@ -440,7 +440,7 @@ HNN_betrayal:0 "청첸은 국민당 좌파를 배신했다."
 ### Events ###
 
 hnn.1.t:0 "후난성"
-hnn.1.d:0 "The Xiang Clique in Hunan was once a major clique in Southern China. Under the leadership of the two cliques of Tan Yankai and Tang Xiangming, the province of Hunan was influential in Southern Chinese and Tongmenghui politics.\n\nIn 1916, Tang Jiyao declared the independence of Yunnan, leading to multiple other provinces declaring independence along with it - Guangxi, Guizhou, Guangdong, Zhejiang, and many others. Hunan found itself under siege, and the National Protection Alliance put as its governor Tang Shengzhi, the Buddhist General. He enacted his Buddhisisation Program, but was pushed back a few years later, being replaced by the Federalist Zhao Hengti as governor. After the end of the Zhili victory over Southern China, it was incorporated into the League of Eight Provinces, with Zhao Hengti declaring his personal alliegiance to lie with Sun Chuanfang in Nanjing.\n\nWith Sun Chuanfang's death, however, Hunan, one of the already autonomous provinces of the League of Eight Provinces, has regained full provincial autonomy under Zhao Hengti once again. The time ahead is a turbulent one - The brother of Tang Shengzhi, Tang Shengming, is making attempts to bring his brother back to Hunan and into power once again. Cheng Qian, the Nationalist-KMT supporter, also looks to take over the province.\n\nTo the south is the Liangguang Clique, led by Chen Jiongming. Even though Zhao Hengti claims to be a federalist, Chen shows it. To the west are the Cliques of Sichuan and Yunnan, eyeing us with hungry looks. To the North are Hunan's friends - the Northern Zhili, but their power may not last forever."
+hnn.1.d:0 "호남 상군벌은 한때 중국 남부의 주요 군벌이었습니다. 탄옌카이와 탕샹밍 두 군벌의 통치 아래에서 호남성은 중국 남부와 동맹회 정치에 영향을 끼쳤습니다.\n\n1916년 탕지야오가 운남에서 독립을 선언했을 때, 다른 성들도 뒤따라 독립을 선언했습니다. 광서, 귀주, 광동, 절강이 그들입니다. 호남은 포위당했고 호국동맹은 불교 장군 탕성즈를 성장으로 앉혔습니다. 그는 자신만의 독특한 불교화 계획을 입안했지만 몇년 지나지 않아 연성주의적 신념을 품은 자오헝티가 성장이 되면서 계획은 무너졌습니다.중국 남부 전역이 직예군벌의 승리로 끝나면서 호남은 팔성연맹에 편입되었고, 자오헝티는 난징의 쑨촨팡과 개인적 동맹을 선언했습니다.\n\n하지만 쑨촨팡이 죽은 이후, 팔성연맹 아래에서도 자치권을 갖고 있던 호남은 다시 한번 자오헝티 아래에서 완전한 자치 성이 되었다고 선언했습니다. 호남 앞에 놓인 길은 험난합니다. 탕성즈의 형제 탕성밍은 형제를 호남으로 보내 다시 권력을 되찾고자 하고 있습니다. 민족주의자이자 국민당 지지자인 청첸 또한 성을 손에 넣을 기회를 노리고 있습니다.\n\n남쪽에는 천중밍이 이끄는 양광군벌이 있습니다. 자오헝티가 스스로를 연성주의자로 칭하고는 있지만, 천중밍은 행동으로 보여줬습니다. 서쪽에 위치한 사천군벌과 운남군벌은 굶주린 늑대처럼 호남을 호시탐탐 노리고 있습니다. 북쪽에는 호남의 친우 북직예가 위치하고 있습니다만, 저들의 힘은 영원하지 않을 것입니다."
 hnn.1.a:0 "행동할 때다."
 
 #Choosing Path Events
@@ -452,11 +452,11 @@ hnn.2.b:0 "풋, 누가 법적절차가 필요하다고 그래?"
 
 hnn.3.t:0 "헌법이 복원되다"
 hnn.3.d:0 "We have decided to restore the constitution. We are now, in name and in some way in government, a democracy. We shall keep our land free and safe, and all our citizens will know the freedom of Hunan."
-hnn.3.a:0 "Three Cheers for Hunan!"
+hnn.3.a:0 "호남을 위해 만세 삼창!"
 
 hnn.4.t:0 "헌법이 거부되다"
 hnn.4.d:0 "We have decided to reject the restoration of the constitution. We are a province, not a republic. There is no need for us to do so, to repeat the mistakes of our past that led to us becoming part of the League. Governor Zhao has teared up the Constitution with his hands and left it to burn. It has been decided - Hunan will no longer be democratic."
-hnn.4.a:0 "Three Cheers for Hunan!"
+hnn.4.a:0 "호남을 위해 만세 삼창!"
 
 hnn.5.t:0 "선거를 선언하다"
 hnn.5.d:0 "With the restoration of the Hunan Provincial Constitution, Governor Zhao Hengti has decided to announce the new Hunan provincial elections. Candidates will need to announce themselves to run, and the people will be allowed to choose between them, depending on how they would like Hunan to be run and under what sort of governorship. All Hunanese can run, but not many are actually interested in politics. It is also suspected by many that Zhao Hengti has some tricks up his sleeve regarding the elections..."
