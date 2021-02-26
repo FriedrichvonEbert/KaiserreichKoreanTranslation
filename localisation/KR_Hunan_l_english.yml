@@ -440,7 +440,7 @@ HNN_betrayal:0 "청첸은 국민당 좌파를 배신했다."
 ### Events ###
 
 hnn.1.t:0 "후난성"
-hnn.1.d:0 "호남 상군벌은 한때 중국 남부의 주요 군벌이었습니다. 탄옌카이와 탕샹밍 두 군벌의 통치 아래에서 호남성은 중국 남부와 동맹회 정치에 영향을 끼쳤습니다.\n\n1916년 탕지야오가 운남에서 독립을 선언했을 때, 다른 성들도 뒤따라 독립을 선언했습니다. 광서, 귀주, 광동, 절강이 그들입니다. 호남은 포위당했고 호국동맹은 불교 장군 탕성즈를 성장으로 앉혔습니다. 그는 자신만의 독특한 불교화 계획을 입안했지만 몇년 지나지 않아 연성주의적 신념을 품은 자오헝티가 성장이 되면서 계획은 무너졌습니다.중국 남부 전역이 직예군벌의 승리로 끝나면서 호남은 팔성연맹에 편입되었고, 자오헝티는 난징의 쑨촨팡과 개인적 동맹을 선언했습니다.\n\n하지만 쑨촨팡이 죽은 이후, 팔성연맹 아래에서도 자치권을 갖고 있던 호남은 다시 한번 자오헝티 아래에서 완전한 자치 성이 되었다고 선언했습니다. 호남 앞에 놓인 길은 험난합니다. 탕성즈의 형제 탕성밍은 형제를 호남으로 보내 다시 권력을 되찾고자 하고 있습니다. 민족주의자이자 국민당 지지자인 청첸 또한 성을 손에 넣을 기회를 노리고 있습니다.\n\n남쪽에는 천중밍이 이끄는 양광군벌이 있습니다. 자오헝티가 스스로를 연성주의자로 칭하고는 있지만, 천중밍은 행동으로 보여줬습니다. 서쪽에 위치한 사천군벌과 운남군벌은 굶주린 늑대처럼 호남을 호시탐탐 노리고 있습니다. 북쪽에는 호남의 친우 북직예가 위치하고 있습니다만, 저들의 힘은 영원하지 않을 것입니다."
+hnn.1.d:0 "호남 상군벌은 한때 중국 남부의 주요 군벌이었습니다. 탄옌카이와 탕샹밍 두 군벌의 통치 아래에서 호남성은 중국 남부와 동맹회 정치에 영향을 끼쳤습니다.\n\n1916년 탕지야오가 운남에서 독립을 선언했을 때, 다른 성들도 뒤따라 독립을 선언했습니다. 광서, 귀주, 광동, 절강이 그들입니다. 호남은 포위당했고 호국동맹은 불교 장군 탕성즈를 성장으로 앉혔습니다. 그는 자신만의 독특한 불교화 계획을 입안했지만 몇년 지나지 않아 연성주의적 신념을 품은 자오헝티가 성장이 되면서 계획은 무너졌습니다.중국 남부 전역이 직예군벌의 승리로 끝나면서 호남은 팔성연맹에 편입되었고, 자오헝티는 난징의 쑨촨팡과 개인적 동맹을 선언했습니다.\n\n하지만 쑨촨팡이 죽은 이후, 팔성연맹 아래에서도 자치권을 갖고 있던 호남은 다시 한번 자오헝티 아래에서 완전한 자치 성이 되었다고 선언했습니다. 호남 앞에 놓인 길은 험난합니다. 탕성즈의 동생 탕성밍은 형을 호남으로 보내 다시 권력을 되찾고자 하고 있습니다. 민족주의자이자 국민당 지지자인 청첸 또한 성을 손에 넣을 기회를 노리고 있습니다.\n\n남쪽에는 천중밍이 이끄는 양광군벌이 있습니다. 자오헝티가 스스로를 연성주의자로 칭하고는 있지만, 천중밍은 행동으로 보여줬습니다. 서쪽에 위치한 사천군벌과 운남군벌은 굶주린 늑대처럼 호남을 호시탐탐 노리고 있습니다. 북쪽에는 호남의 친우 북직예가 위치하고 있습니다만, 저들의 힘은 영원하지 않을 것입니다."
 hnn.1.a:0 "행동할 때다."
 
 #Choosing Path Events
@@ -463,7 +463,7 @@ hnn.5.d:0 "호남성 헌법이 복원되면서 자오헝티 성장은 새로 호
 hnn.5.a:0 "입헌주의의 승리로다!"
 
 hnn.6.t:0 "탕성즈가 후난성으로 돌아오다"
-hnn.6.d:0 "전직 호남 성장이었던 불교장군 탕성즈가 오늘 성으로 돌아왔습니다. 헌정이 복원되었다는 소문을 들은 불교장군은 짐을 싸고 홍콩에서 호남으로 돌아오기로 결정했습니다. 형제 탕성밍 장군의 도움에 힘입어 탕성지는 당분간 창사에 위치한 여관에 머무르고 있습니다. 그가 아직까지 뭔가 행보를 보인 바는 없지만 많은 사람들은 전 성장이 성장 선거에 출마하기 위해 돌아왔다고 생각합니다. 실제로 그가 제시한 '혁명적 사회주의'와 불교화 정책이 군부와 일반 대중 사이에서 상당한 인기를 끌고 있으며, 만약 출마한다면 자오헝티의 통치권에 상당한 위협으로 작용할 것입니다."
+hnn.6.d:0 "전직 호남 성장이었던 불교장군 탕성즈가 오늘 성으로 돌아왔습니다. 헌정이 복원되었다는 소문을 들은 불교장군은 짐을 싸고 홍콩에서 호남으로 돌아오기로 결정했습니다. 동생 탕성밍 장군의 도움에 힘입어 탕성지는 당분간 창사에 위치한 여관에 머무르고 있습니다. 그가 아직까지 뭔가 행보를 보인 바는 없지만 많은 사람들은 전 성장이 성장 선거에 출마하기 위해 돌아왔다고 생각합니다. 실제로 그가 제시한 '혁명적 사회주의'와 불교화 정책이 군부와 일반 대중 사이에서 상당한 인기를 끌고 있으며, 만약 출마한다면 자오헝티의 통치권에 상당한 위협으로 작용할 것입니다."
 hnn.6.a:0 "그가 어떤 계획을 가지고 있을까?"
 
 hnn.7.t:0 "청첸이 후난성으로 떠나다"
@@ -497,70 +497,70 @@ hnn.12.b:0 "탕성즈가 지지를 지켜냈다."
 hnn.12.c:0 "청첸이 불길을 키웠다."
 
 hnn.13.t:0 "농촌으로"
-hnn.13.d:0 "Through the efforts of Tang Shengzhi's brother, Tang Shengming, Tang Shengzhi has redoubled his support in the countryside, particularly the highly populous the countryside around Changsha. Unwilling to cede the peasantry, the vast majority of the population though not a particularly politicized group, Zhao Hengti and Cheng Qian have also gone down to the countryside to campaign. Who finds the greatest support?"
-hnn.13.a:0 "Zhao Hengti"
-hnn.13.b:0 "Tang Shengzhi"
-hnn.13.c:0 "Cheng Qian"
+hnn.13.d:0 "탕성즈의 동생 탕성밍의 노력에 힘입어 탕성지는 시골 지역, 그 중에서도 특히 창사 인근의 인구 밀집 지역에서 지지를 높여갔습니다. 비록 농민층 대부분이 특별히 정치화된 집단은 아니긴 하지만 그렇다고 해서 농민층의 지지를 빼앗기고 싶지는 않았던 자오헝티와 청첸 또한 유세를 위해 시골로 향했습니다. 누가 가장 큰 지지를 얻게 되었을까요?"
+hnn.13.a:0 "자오헝티"
+hnn.13.b:0 "탕성지"
+hnn.13.c:0 "청첸"
 
 hnn.14.t:0 "사오산 사건"
-hnn.14.d:0 "Angered by Tang Shengzhi's land policies during his governorship and the apathy of Zhao Hengti, a group of intermediaries from the small backwater of Shaoshan havve started an uproar which is now reverberating throughout the countryside. They demand that whatever may come, actually bring grains and cash crops grown by large estates to market which has long been seen as immoral, be given state recognition. Because many of these intermediaries themselves also run large farms stocked with hired laborers, their impact has been particularly large."
-hnn.14.a:0 "Zhao Hengti promises them what they want."
-hnn.14.b:0 "Tang Shengzhi agrees to incorporate them into his land reform policies."
-hnn.14.c:0 "Cheng Qian promises them what they want."
+hnn.14.d:0 "탕성즈가 성장 재직 중에 시행한 토지 정책과 자오헝티가 보여준 무관심으로 인해 분노한 후미진 사오산 지역에서 온 중개상 단체가 소동을 일으키기 시작했고, 지금 그 소동은 시골 전역으로 퍼져나가고 있습니다. 그들은 예로부터 부도덕한 존재로 여겨져 왔던 곡물과 상품작물을 대규모 농작지에서 시장으로 이동시키는 사업을 국가에서 인정할 것을 요구합니다. 이 중개업자 단체 구성원 중 많은 이들이 노동자를 고용해 운영하는 대규모 농장 보유자들이기 때문에 그들이 끼친 영향력은 특별히 컸습니다."
+hnn.14.a:0 "자오헝티가 요구사항을 들어주기로 약속했다."
+hnn.14.b:0 "탕성즈가 토지개혁 정책에 저들을 포함시키자는 제안에 동의했다."
+hnn.14.c:0 "청첸이 저들이 원하는 바를 약속했다."
 
 hnn.15.t:0 "창사의 빈민가"
-hnn.15.d:0 "Changsha has grown greatly in recent years, spurred by economic change and the beginnings of industrialisation, especially as many peasants have sought protection from campaigns which have ravaged their billages. The shanties on the edge of the city have become substantial, and while considered a blight their residents must at least be pandered to if the illusion of universal male suffrage is to be maintained. Who best appeals to them?"
-hnn.15.a:0 "Zhao Hengti"
-hnn.15.b:0 "Tang Shengzhi"
-hnn.15.c:0 "Cheng Qian"
+hnn.15.d:0 "창사는 최근 몇년간 경제적 변화와 산업화 과정에 힘입어 대단한 성장을 기록했습니다. 수많은 농민들이 마을을 파괴하는 변화로부터 보호를 요청했습니다. 도시 주변부에 위치한 판자촌이 상당히 확장되었습니다. 이로 인해 보편적인 남성 참정권이라는 환상을 유지시켜 주기 위해서는 역병처럼 치부되는 판자촌 거주민들이라도 이용해야만 합니다. 누가 그들에게 가장 잘 호소했습니까?"
+hnn.15.a:0 "자오헝티"
+hnn.15.b:0 "탕성즈"
+hnn.15.c:0 "청첸"
 
 #hnn.16 removed
 
 hnn.17.t:0 "투표가 시작되다"
-hnn.17.d:0 "It is time for the people of Hunan to cast their votes as to who they think should lead the province. People from all over Hunan now gather at voting booths to cast their vote into the ballot, and Hunan will see the democratic dream of Zhao Hengti come true."
-hnn.17.a:0 "A new chapter in our history begins..."
+hnn.17.d:0 "호남 사람들이 누가 성을 이끌 적임자인지 선택하는 선거일이 마침내 다가왔습니다. 호남 전역에서 사람들이 투표소에 모여 표를 투표함에  넣었고, 자오헝티가 꿈꾸던 민주적인 호남이라는 꿈이 마침내 실현되었습니다."
+hnn.17.a:0 "우리 역사의 새로운 장이 시작한다..."
 
 #hnn.18 removed
 
 hnn.19.t:0 "성장"
-hnn.19.d:0 "There has been a shocking turn of events as Zhao Hengti has stripped the province of Hunan of most of its legal procedures. He has rebounded on his promises of elections for governorship. The cries of the people were not heard, and Zhao promises prosperity and a new Hunan."
+hnn.19.d:0 "자오헝티가 호남 법적 절차 대부분을 철폐하는 충격적인 사건이 벌어졌습니다. 그는 성장 선거를 열겠다는 약속을 저버렸습니다. 인민의 외침은 더 이상 들리지 않고, 자오헝티는 번영과 새로운 호남을 약속했습니다."
 hnn.19.a:0 "만수무강 하십시오, 성장님!"
 
 hnn.20.t:0 "창사 시위"
-hnn.20.d:0 "On the streets of Changsha, the sky clouded by mist, one could barely see past the mountains and seas of people protesting. One could barely hear across the noise they were making. It was clear that the people were not for the new policies of the governor, and are calling out for a return of democracy to the province.\n\nZhao Hengti, however, has remained calm, lounging in his office chair all day, sending more and more guards out to crack down on the protestors."
-hnn.20.a:0 "So this is how democracy dies..."
+hnn.20.d:0 "안개와 구름이 자욱한 하늘 아래의 창사 거리에서 시위하는 사람들의 모습은 거의 보이지 않습니다. 그들이 외치는 소리 또한 거의 들리지 않습니다. 사람들이 성장의 새로운 정책에 동의하지 않는 것이 확실하며, 성 민주주의 회복을 외치고 있습니다.\n\n하지만 자오헝티는 대답을 거부했고, 하루 종일 사무실 책상에 걸터앉아 시위대를 진압하라면서 점점 더 많은 경비대를 파견하고만 있습니다."
+hnn.20.a:0 "결국 이렇게 민주주의가 죽었구나..."
 
 hnn.21.t:0 "우페이푸가 우리를 지지하다"
-hnn.21.d:0 "In the North, Marshal Wu Peif has sent a letter to us, promising to help us in our cause and to help Zhao Hengti. With the Hunan-Hubei border becoming ever so militarized, it seems as if Wu Peifu will retaliate to the anti-Zhao Hengti protests with force if they get too out of hand."
-hnn.21.a:0 "In times of need, we need a helping hand."
+hnn.21.d:0 "북부에서 우페이푸 원수가 편지를 한장 보내 우리의 대의와 자오헝티를 도와주겠다고 약속했습니다. 호남-화북 국경이 전례없이 군사화되면서 반 자오헝티 시위가 걷잡을 수 없이 흘러간다면 우페이푸가 직접 무력을 투입해 보복을 가할 것으로 보입니다."
+hnn.21.a:0 "필요한 때에는 도움의 손이 절실하다."
 
 hnn.22.t:0 "불교도 장군이 돌아오다"
-hnn.22.d:0 "Amidst the rising tensions between the people and the Governor, General Tang Shengming managed to bring back his brother from Guizhou, where he was hiding in a small mountain village. Tang Shengzhi, the Buddhist General, entered Changsha today, his face instantly recognizable by the local citizens from his Buddhisisation propaganda back when he was a governor. He became a topic of hot debate overnight, with family dinners interrupted by provincial politics.\n\nHe is currently staying at his brother's residence in Changsha, and rumors have been circulating about a potential plot to restore him to power."
-hnn.22.a:0 "What plans does he have going on in his mind?"
+hnn.22.d:0 "사람들과 성장 사이에 긴장이 고조되는 가운데 탕성밍 장군은 구이저우의 한 작은 산골 마을에 숨어서 살던 형을 데리고 오는데 성공했씁니다. 불교 장군 탕성즈가 오늘 창사에 도착했고, 그가 성장이던 시절 배포한 불교주의 선전물로 인해 수많은 사람들이 그의 얼굴을 알아볼 수 있었습니다. 그는 하룻밤 사이에 갑자기 여러 가족의 저녁 식사를 방해할 정도로 뜨거운 논쟁거리로 떠올랐습니다.\n\n그는 현재 창사에 위치한 동생의 자택에서 머무르고 있으며, 그에게 권좌를 되돌려주기 위한 음모를 꾸미고 있다는 소문이 돌아다니고 있습니다."
+hnn.22.a:0 "무슨 계획을 꾸미고 있는 거지?"
 
 hnn.23.t:0 "탕성즈의 공개발언"
-hnn.23.d:0 "The recently returned General Tang Shengzhi has spoken out against the revoking of the Provincial Constitution, calling it un-democratic and a betrayal of the province and her people. Along with his brother, Tang Shengming, Tang Shengzhi has been incredibly vocal about Zhao Hengti and his actions. It is even suspected that the General has sent spies to sabotage the acts of the Governor."
-hnn.23.a:0 "He is nothing but trouble..."
+hnn.23.d:0 "최근에 돌아온 탕성즈 장군은 성 헌법이 비민주적일 뿐더러 성과 주민들을 배신했다고 선언하며 헌법에 반대한다는 의사를 밝혔습니다. 동생 탕성민과 함께 탕성즈는 믿기 힘들 정도로 자오헝티와 그의 행보에 관해 목소리를 높였습니다. 장군이 성장의 행동을 방해하기 위해 스파이를 보냈다는 의심까지 제기되는 수준입니다."
+hnn.23.a:0 "별 일은 아니지만 귀찮군..."
 
 hnn.24.t:0 "성장 암살시도!"
-hnn.24.d:0 "As the assassin entered the room, clutching the pistol in his pocket, he knew that he had two options - to succeed, or to fail. His comrades would have told him that he could step back and turn away at any moment, that he still had a long life to live. But the decision had already been made. There was no turning back.\n\nZhao Hengti must die."
-hnn.24.a:0 "It's time."
+hnn.24.d:0 "암살자가 주머니에 든 권총을 움켜쥐고 방으로 들어갔을 때 그는 자신의 앞에 놓인 선택지가 둘 밖에 없다는 사실을 잘 알고 있었습니다. 성공하거나 아니면 실패하거나. 그의 동지들은 아직 살 날이 많이 남았다며 언제라도 물러서고 되돌아올 수 있다고 말했습니다. 하지만 그는 벌써 결단을 내린 상태입니다. 되돌릴 수는 없습니다.\n\n자오헝티는 죽어야만 합니다."
+hnn.24.a:0 "때가 되었다."
 
 hnn.25.t:0 "자오헝티 암살실패!"
-hnn.25.d:0 "The assassin's dead body was burned this morning. No one knew who he was, and no one cared for him. He had died, four shots in his chest, the blood long dried up.\n\nGovernor Zhao went up to the podium to deliver a speech today. He has shockingly had an attempt on his life performed on him, but he valiantly fought the assassin, killing him. He has displayed the assassin's body as a threat to all those who dare to oppose him."
-hnn.25.a:0 "How could someone do this to our governor?"
+hnn.25.d:0 "오늘 아침 암살자의 사체가 불탔습니다. 누구도 그가 어떤 사람인지 알지 못하고, 관심 보이는 이 조차 없었습니다. 그는 가슴에 총 네 대를 맞고 죽었고 오랜 시간이 지나면서 피가 말라붙었습니다.\n\n자오헝티 성장은 오늘 연설을 하기 위해 연단에 올라섰습니다. 충격적이게도 오늘 그의 목숨을 빼앗으려는 시도가 있었지만, 그는 용맹하게 암살자와 싸웠고 그를 죽였습니다. 성장은 자신에게 반하는 모든 사람들에게 위협하려는 목적으로 암살자의 시신을 공개했습니다."
+hnn.25.a:0 "누가 우리 성장에게 이런 짓을 할 수 있단 말인가?"
 
 hnn.26.t:0 "군대가 탕성즈에게 모이다"
-hnn.26.d:0 "As a very popular figure in the military, the Buddhist General Tang Shengzhi has garnered much support amongst the divisions of Hunan, riling up many generals and corporals to take his side. It seems that a military resistance is building, one that may threaten Zhao Hengti's rule over Hunan."
-hnn.26.a:0 "Troubling..."
+hnn.26.d:0 "군 내에서 매우 유명한 인물인 불교 장군 탕성즈는 호남 사단 사이에서 많은 지지를 끌어모았고 수많은 장군과 병사가 그의 편을 들게 만들었습니다. 자오헝티의 호남 지배력을 위협할 수 있는 군부 저항 세력이 형성되고 있는 것으로 보입니다."
+hnn.26.a:0 "사단났군..."
 
 hnn.27.t:0 "친헌법시위의 확산"
-hnn.27.d:0 "More protests have been springing up over the province lately, with the local people very much angry at the constitution being teared up and revoked. There was a large protest in front of the Hunan Provincial Council building yet again today, and another one in Hengyang a few days ago. Over time, these protests have become much bigger and louder, gathering many people each day. Some have reported even seeing Pro-Tang Shengzhi banners being used in the protests."
-hnn.27.a:0 "Are they really that angry about some useless paper?"
+hnn.27.d:0 "최근 성 내에서 헌법이 유린당하고 폐지당하는데 분노한 지역민들이 더 많은 시위를 벌이고 있습니다. 오늘도 호남 성의회 건물 앞에서 대규모 시위가 열렸고, 며칠 전에는 헝양에서도 시위가 벌어졌습니다. 시간이 지나면서 시위는 더욱 커지고 시끄러워졌으며 매일 더 많은 사람들이 모이고 있습니다. 일각에서는 시위대가 친 탕성즈 문구가 쓰인 현수막을 사용하는 모습을 목격했다는 보도도 나왔습니다."
+hnn.27.a:0 "진짜로 그 쓸데없는 종이쪼가리 때문에 화가 났다고?"
 
 hnn.28.t:0 "폭동 발발"
-hnn.28.d:0 "A riot occurred today in Changsha. It started as a normal protest, but after a spat between a Constitutionalist and a Provincial Council member escalated too far, a full-on riot broke out, with people punching in the air. The local army was sent in, managing to push back the rioters down the streets and putting an end to the temporary chaos."
-hnn.28.a:0 "Damn it, we need to keep this under control!"
+hnn.28.d:0 "오늘 창사에서 폭동이 일어났습니다. 평범한 시위로 시작했지만 입헌주의자와 성의회 의원 사이에 논쟁이 엄청나게 격화되면서 사람들이 공중에 주먹질하기 시작했고, 조만간 전면적인 폭동으로 비화했습니다. 지역 군부대가 투입되어 폭도를 거리로 몰아냈고 일시적으로 벌어진 혼란을 정리했습니다."
+hnn.28.a:0 "젠장, 통제해야만 한다!"
 
 hnn.29.t:0 "거리에서의 폭력"
 hnn.29.d:0 "Changde and Changsha were hit with another wave of protests this week, with one of them ending bloodily. A guard opened fire on the protestors in Changde, prompting the crowd to go wild and an almost full-blown battle to be fought between the rioters and the guards, resulting in casualties on both sides. Over the past week, protests have become increasingly violent, resulting in serious injuries and even deaths in some cases. With each passing day, it becomes harder to restore order to the province and stop the people from protesting."
