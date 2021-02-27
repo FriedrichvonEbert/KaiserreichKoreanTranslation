@@ -328,7 +328,7 @@ worldnews.100.d.comp:0 "이탈리아 사회주의 공화국의 제5차 평의회
 worldnews.100.a:0 "전혀 놀랍지 않은 일이다."
 
 worldnews.101.t:0 "이탈리아의 여당이 된 국민주의 조합"
-worldnews.101.d:0 "\n이탈리아 사회주의 공화국의 제5차 평의회는 베니토 무솔리니가 이끄는 국민주의 조합이 정부의 과반수 의석 수를 달성하며 끝났습니다. 정권 교체는 이탈리아 내 적국에게 공화국이 더욱 강경하고 군국주의적인 입장으로 나아가는 것을 의미합니다."
+worldnews.101.d:0 "\n이탈리아 사회주의 공화국의 제5차 평의회는 베니토 무솔리니가 이끄는 국민주의 조합이 정부의 과반수 의석 수를 달성하며 끝났습니다. 정권 교체는 이탈리아 내 적국에 공화국이 더욱 강경하고 군국주의적인 입장으로 나아가는 것을 의미합니다."
 worldnews.101.a:0 "흥미롭군."
 
 worldnews.105.t:0 "시암에서의 쿠데타"
@@ -353,7 +353,7 @@ worldnews.109.a:0 "시암 내전이 시작되었군..."
 
 worldnews.110.t:0 "탐롱나와사왓의 반란"
 worldnews.110.d:0 "최근의 시암 혁명은 겉으로는 성공했을지 몰라도 이에 대한 대중의 지지는 곤두박질친 것 같습니다. 논란이 되고 있는 "황색 서류봉투" - 국가의 경제 시스템을 뜯어고치고 다수의 산업을 국유화하기 위한 고안된 계획의 별칭-를 계기로, 대중들 사이에는 소위 "붉은 공포"가 촉발되었습니다.\n\n육군참모총장, 루앙 피분송크람은 왕에게 충성을 맹세했습니다. 반면에 루앙 탐롱나와사왓과 몇몇 불만을 품은 해군 장교는 남부지방에서 조직적인 무장반란을 일으켰습니다. 이후 자신들을 '카나 폭퐁 프라차티파타이(민주수호당)'이라 선언하고 방콕으로 행진했습니다. 군사조직의 붕괴는 곧 시암의 전면적인 내전이 시작되었음을 의미합니다."
-worldnews.110.a:0 "이건 도움이 될 수 없는걸."
+worldnews.110.a:0 "이건 도움이 될 수 없는 걸."
 
 worldnews.111.t:0 "피분송크람의 쿠데타"
 worldnews.111.d:0 "최근의 시암 혁명은 겉으로는 성공했을지 몰라도 이에 대한 대중의 지지는 곤두박질친 것 같습니다. 논란이 되고 있는 "황색 서류봉투" - 국가의 경제 시스템을 뜯어고치고 다수의 산업을 국유화하기 위한 고안된 계획의 별칭-를 계기로, 대중들 사이에는 소위 "붉은 공포"가 촉발되었습니다.\n\n육군 수장인 루앙 피분송크람은 적시에 개입하여 전국에 계엄령을 선포했는데, 이 조치는 국가를 내전 이전의 상황으로 되돌린 것으로 여겨집니다. 분명하게도 이 "철의 장군"은 국가가 민주주의로의 이행의 '준비'가 되어 있을 때까지 독재자로써 시암을 통치할 계획입니다."
@@ -381,12 +381,12 @@ worldnews.116.d:0 "'철의 원수'라는 별명을 지닌 루앙 피분송크람
 worldnews.116.a:0 "상황이 회복되었군."
 
 worldnews.117.t:0 "세르비아 왕위에 오른 알렉산다르 2세"
-worldnews.117.d:0 "1920년대에 오스트리아의 점령이 끝난 후 세르비아는 공식적으로는 왕국이 되었습니다. 오스트리아의 재침공을 고려한 세르비아는 저자세를 유지할 수 밖에 없었으며, 감히 국왕을 추대하지 못했습니다. 거의 20년 간 세르비아의 섭정으로 지내왔고 왕당파로 유명한 페타르 보요비치는 이제 군주제를 복원하기로 결정했습니다. 전 국왕 페타르 1세의 아들인 알렉산다르 2세가 왕관을 받아들였고 오늘 세르비아의 국왕으로 추대되었습니다. 이 논란 많은 행동은 오스트리아와 불가리아 정부를 격분케 할 수도 있습니다."
+worldnews.117.d:0 "1920년대에 오스트리아의 점령이 끝난 후 세르비아는 공식적으로는 왕국이 되었습니다. 오스트리아의 재침공을 고려한 세르비아는 저자세를 유지할 수밖에 없었으며, 감히 국왕을 추대하지 못했습니다. 거의 20년 간 세르비아의 섭정으로 지내왔고 왕당파로 유명한 페타르 보요비치는 이제 군주제를 복원하기로 결정했습니다. 전 국왕 페타르 1세의 아들인 알렉산다르 2세가 왕관을 받아들였고 오늘 세르비아의 국왕으로 추대되었습니다. 이 논란 많은 행동은 오스트리아와 불가리아 정부를 격분케 할 수도 있습니다."
 worldnews.117.a:0 "섭정이나 국왕이나, 뭐가 다르다는 거지?"
 worldnews.117.b:0 "이건 부당하다!"
 
 worldnews.118.t:0 "세르비아의 공화국 선포"
-worldnews.118.d:0 "1920년대에 오스트리아의 점령이 끝난 후 세르비아는 공식적으로는 왕국이 되었습니다. 오스트리아의 재침공을 고려한 세르비아는 저자세를 유지할 수 밖에 없었으며, 감히 국왕을 추대하지 못했습니다. 거의 20년 간 세르비아의 섭정으로 지낸 페타르 보요비치는 그의 억압적인 정권에 대해 내부 압력이 증가하자 이에 굴복해 자발적으로 물러났습니다. 이제 슬로보단 요바노비치가 선거가 치러질 때까지의 대행으로 세르비아의 첫 대통령이 되었습니다."
+worldnews.118.d:0 "1920년대에 오스트리아의 점령이 끝난 후 세르비아는 공식적으로는 왕국이 되었습니다. 오스트리아의 재침공을 고려한 세르비아는 저자세를 유지할 수밖에 없었으며, 감히 국왕을 추대하지 못했습니다. 거의 20년 간 세르비아의 섭정으로 지낸 페타르 보요비치는 그의 억압적인 정권에 대해 내부 압력이 증가하자 이에 굴복해 자발적으로 물러났습니다. 이제 슬로보단 요바노비치가 선거가 치러질 때까지의 대행으로 세르비아의 첫 대통령이 되었습니다."
 worldnews.118.a:0 "발칸의 민주주의? 신선하군."
 
 worldnews.119.t:0 "세르비아의 유고슬라비아 선포"
@@ -396,7 +396,7 @@ worldnews.119.a:0 "발칸에 평화가 지속되기를 희망하자."
 worldnews.120.t:0 "독일령 중앙아프리카의 붕괴"
 worldnews.120.d:0 "독일의 지배 하에 있는 아프리카의 여러 곳에서 불안한 보고서들이 쏟아져 나오고 있습니다; 독일령 중앙아프리카 정부가 완전히 붕괴한 듯 합니다! 왜 무너졌는지, 어떻게 무너졌는지는 불분명하지만, 독일령 중앙아프리카 정부는 효율적인 통치가 이루어지지도 수익이 나지도 않았습니다. 지휘 계통은 카드 탑이 무너지듯이 쓰러졌고, 황제가 아직 아프리카를 보호하고 있다는 막연한 생각 외에는 더 이상 이 지역에 족장, 관리자, 국왕은 없습니다. 중앙 정부가 움직일 수 없게 되면서, 이제 대륙 전역에서 왕국, 부족, 보호국들이 영토 주장과 오래된 원한을 두고 전쟁을 벌이고 있고, 원주민 군벌과 독일 식민지 관리들은 아직 정상적인 것처럼 보이려고 합니다. 이 상황이 그저 지나가는 것인지, 아프리카에서 어두운 폭력의 시대의 진정한 시작을 알리는 것인지 확실하지 않습니다. 하지만, 독일 제국의 식민지 사업은 실패했다고 봐도 과언이 아닙니다."
 worldnews.120.a:0 "독일의 아프리카 지배력은 우리 생각보다 훨씬 약한 것 같군..."
-worldnews.120.b:0 "헤르만, 내 부대를 돌려 다오!"
+worldnews.120.b:0 "헤르만, 내 부대를 돌려다오!"
 worldnews.120.c:0 "훈족 놈들이 온다."
 worldnews.120.e:0 "아프리카 인민들은 제국주의로부터의 자유를 갈망했다!"
 
@@ -455,8 +455,8 @@ worldnews.130.d:0 "[AST.GetAdjective] 연방의 막대한 불온은 결국 생�
 worldnews.130.a:0 "걱정스럽군."
 
 worldnews.131.t:0 "뉴질랜드 위기"
-worldnews.131.d.synd:0 "[AST.GetNameDef]에서 위기가 심화되고 있는 것으로 보입니다. 통신사들은 [AST.GetAdjective]의 뉴질랜드 주와 본토 간의 관계의 단절을 보도했습니다. 뉴질랜드에서 새로운 생디칼리슴 정부에 대한 지지도는 결코 높다고 할 수 없으며 보도에 의하면 최근의 쿠데타 시도에서 캔버라 정부를 전복하는데 실패한 후 본토에서 도망쳐온 신 수비대라는 준군사조직에게 안전한 도피처를 제공했다고 합니다. [AST.GetAdjective] 해군과 육군의 일부가 이미 뉴질랜드로 탈주하며 전운이 고조되고 있습니다...... 협상국이 [AST.GetAdjective]의 생디칼리스트들과 최종적인 결전에 들어가게 될 수도 있다는 점이 우려됩니다."
-worldnews.131.d.afm:0 "[AST.GetNameDef]에서 위기가 심화되고 있는 것으로 보입니다. 통신사들은 [AST.GetAdjective]의 뉴질랜드 주와 본토 간의 관계의 단절을 보도했습니다. 특히 협상국 동맹과의 관계 단절 이후 뉴질랜드에서 새로운 AFM 정부에 대한 지지도는 결코 높다고 할 수 없으며 보도에 의하면 최근의 쿠데타 시도에서 캔버라의 정부를 전복하는데 실패한 후 본토에서 도망쳐온 신 수비대라는 준군사조직에게 안전한 도피처를 제공했다고 합니다. [AST.GetAdjective] 해군과 육군의 일부가 이미 뉴질랜드로 탈주하며 전운이 고조되고 있습니다...... 협상국이 [AST.GetAdjective]의 공화주의자들과 최종적인 결전에 들어가게 될 수도 있다는 점이 우려됩니다."
+worldnews.131.d.synd:0 "[AST.GetNameDef]에서 위기가 심화되고 있는 것으로 보입니다. 통신사들은 [AST.GetAdjective]의 뉴질랜드주와 본토 간의 관계의 단절을 보도했습니다. 뉴질랜드에서 새로운 생디칼리슴 정부에 대한 지지도는 결코 높다고 할 수 없으며 보도에 의하면 최근의 쿠데타 시도에서 캔버라 정부를 전복하는 데 실패한 후 본토에서 도망쳐온 신 수비대라는 준군사조직에 안전한 도피처를 제공했다고 합니다. [AST.GetAdjective] 해군과 육군의 일부가 이미 뉴질랜드로 탈주하며 전운이 고조되고 있습니다... 협상국이 [AST.GetAdjective]의 생디칼리스트들과 최종적인 결전에 들어가게 될 수도 있다는 점이 우려됩니다."
+worldnews.131.d.afm:0 "[AST.GetNameDef]에서 위기가 심화되고 있는 것으로 보입니다. 통신사들은 [AST.GetAdjective]의 뉴질랜드주와 본토 간의 관계의 단절을 보도했습니다. 특히 협상국 동맹과의 관계 단절 이후 뉴질랜드에서 새로운 AFM 정부에 대한 지지도는 결코 높다고 할 수 없으며 보도에 의하면 최근의 쿠데타 시도에서 캔버라의 정부를 전복하는 데 실패한 후 본토에서 도망쳐온 신 수비대라는 준군사조직에 안전한 도피처를 제공했다고 합니다. [AST.GetAdjective] 해군과 육군의 일부가 이미 뉴질랜드로 탈주하며 전운이 고조되고 있습니다... 협상국이 [AST.GetAdjective]의 공화주의자들과 최종적인 결전에 들어가게 될 수도 있다는 점이 우려됩니다."
 worldnews.131.a:0 "걱정스럽군."
 
 worldnews.132.t:0 "뉴질랜드 독립 투표"
@@ -501,7 +501,7 @@ worldnews.143.a:0 "무슨 일이 일어날지 지켜보자."
 
 worldnews.144.t:0 "불가리아의 [From.GetRulingParty] 쿠데타"
 worldnews.144.d:0 "It seems that not even the status-quo of the democratic parties within Bulgaria were sustainable. Following the election of the new regime, it seemed as though Bulgaria was on the way to normalising relations with its neighbours, and even perhaps bringing about a constitutional monarchy. Unfortunately, this was not the case, as the [From.GetRulingParty] saw the weakness within the democratic regime and managed to exploit it, consolidating their power and beginning to institute their own programmes. What happens next is yet to be seen, though it certainly is a turbulent time for both the Bulgarian people and the Bulgarian nation."
-worldnews.144.a:0 "또? 도무지 겉잡을 수가 없는데..."
+worldnews.144.a:0 "또? 도무지 걷잡을 수가 없는데..."
 
 worldnews.145.t:0 "라이히스팍트의 붕괴"
 worldnews.145.d.africa:0 "생각지도 못한 일이 일어난 것 같습니다! 독일의 카이저와 그의 내각, 그리고 상당수의 공무원들과 주요 장군들이 배와 비행기를 통해 독일령 중앙아프리카로 탈출했다는 소식이 퍼졌습니다. 독일의 나머지 영토와 그의 유럽 내 동맹국들은 이제 라이히스팍트의 동맹구조가 완전히 증발하면서 그들의 운명에 내팽개쳐졌습니다. 독일 정부가 아직 존재하고 있는 와중에 유럽 내 독일군은 며칠 안에 최후의 항복을 할 것으로 예상되며, 제1차 세계대전의 종전 이후 존재해 온 세계질서가 불타오르기 일보 직전이라는 것은 분명합니다."
@@ -737,7 +737,7 @@ worldnews.198.a:0 "푸른 언덕 위에 유혈이 낭자할 것이다."
 worldnews.199.t:0 "아렐 회담"
 worldnews.199.d:0 "최근 독일로부터의 벨기에의 독립과 함께 피할 수 없는 단순한 질문이 생겼습니다 - 그 다음에는? 양국 정부는 왈로니아 남부 국경 근처의 독일령 룩셈부르크내의 작은 아르덴 도시 아렐에 대표단을 파견했고, 그곳에서 유럽 속 벨기에의 향후 진로가 결정되었습니다.\n\n벨기에와 독일 제국은 카이저가 브뤼셀 정부의 공식적인 독립과 독일령 왈로니아의 반환을 인정하는 대가로, 벨기에는 라이히스팍트에 재가입하여 독일이 프랑스 코뮌의 공격을 방어하는 것을 허용하기로 합의했습니다. 벨기에 사람들은 자신들의 미래를 지키기 위해 신생 독립을 기꺼이 양보할 것으로 보입니다."
 worldnews.199.d.failed:0 "최근 독일로부터의 벨기에의 독립과 함께 피할 수 없는 단순한 질문이 생겼습니다 - 그 다음에는? 양국 정부는 왈로니아 남부 국경 근처의 독일령 룩셈부르크내의 작은 아르덴 도시 아렐에 대표단을 파견했고, 그곳에서 유럽 속 벨기에의 향후 진로가 결정되었습니다.\n\n독일은 라이히스팍트 가입을 전제로 벨기에 독립을 공식적으로 인정함과 동시에 독일령 왈로니아를 반환하겠다고 제안했지만, 벨기에는 응하지 않았습니다. 협상가들이 제국이 룩셈부르크 또한 넘겨야 한다는 요구가 우습게 여겨졌든 아니든 간에 아렐에서의 협상은 빠르게 결렬되었고 독일인들은 물러났습니다. 적어도 현재 벨기에는 독립했습니다."
-worldnews.199.a:0 "벨기에가 국제 무대로 돌아왔군."
+worldnews.199.a:0 "벨기에가 국제무대로 돌아왔군."
 
 worldnews.200.t:0 "왈로니아 위기"
 worldnews.200.d:0 "플랜더스-왈로니아에서의 봉기는 최근 몇 주간의 대대적인 전투와 왈로니아 코뮌의 등장으로 인해 악순환을 겪어왔습니다. 그러나 독일군 및 왕당파 군대가 신속한 반격을 위해 뫼즈에 집결하면서, 왈로니아에서의 생디칼리슴이 생존할 수 있을 지의 여부는 온전히 파리에게 달려있었습니다.\n잠시 독일 제국과 코뮌 사이에서 긴장이 고조되었으나, 이내 프랑스가 먼저 눈을 내리깔았습니다. 프랑스는 독일의 분노가 그들에게까지 미치는 것을 원치 않은 것 같습니다. 왈로니아 반군들에게 보증을 제공하는 것을 계속 꺼리고 있는 그들의 행동이 이를 뒷받침합니다. 독립운동의 생존이 벼랑 끝에 몰려있는 지금, 아델베르트 국왕의 정권이 붕괴될 것이라고 믿는 사람은 거의 없습니다. 그래도 최소한, 강대국들간의 전쟁은 당분간 피할 수 있었습니다."
@@ -766,7 +766,7 @@ worldnews.210.d.venwaus:0 "Aided by Austria in their successful revolt against I
 worldnews.210.d.tuscnoaus:0 "Successful in their revolt against Italo Balbo and the radical ANI, Venetian leaders today announced the restoration of the Italian Federation - the system of government put into place by Austria after the end of the civil war but allowed to lapse in 1929. This time the Consiglio della Federazione Italiana, or Federation Council, will not be led by the Republicans in Milan. Too many, it is said, have lost faith in democracy, and thus the council will hold full power and be led by a leader of one of the states that comprise the Federation. The Head of the Federation Council is once more the Habsburg Grand Duke Pietro Ferdinando of Tuscany, a move that will be sure to please neighboring Austria."
 worldnews.210.d.lombnoaus:0 "Successful in their revolt against Italo Balbo and the radical ANI, Venetian leaders today announced the restoration of the Italian Federation - the system of government put into place by Austria after the end of the civil war but allowed to lapse in 1929. This time the Consiglio della Federazione Italiana, or Federation Council, will not be led by the Republican Whites. Too many, it is said, have lost faith in democracy, and thus the council will hold full power and be led by a leader of one of the states that comprise the Federation. The Head of the Federation Council is Count Adriano Visconti of Lombardy. While this is a surprising move to some, anti-Austrian sentiment remains high in the country and the government did not wish to return to Austrian influence."
 worldnews.210.d.vennoaus:0 "Successful in their revolt against Italo Balbo and the radical ANI, Venetian leaders today announced the restoration of the Italian Federation - the system of government put into place by Austria after the end of the civil war but allowed to lapse in 1929. This time the Consiglio della Federazione Italiana, or Federation Council, will not be led by the Republican Whites. Too many, it is said, have lost faith in democracy, and thus the council will hold full power and be led by a leader of one of the states that comprise the Federation. While some assumed the Head of the Federation Council would, once again, be the Habsburg Grand Duke of Tuscany, the Venetians instead opted to put their own Prime Minister, Giuseppe Volpi, in the seat. Considering his instrumental role in the revolt against the ANI, many in Italy consider him a national hero."
-worldnews.210.a:0 "이번엔 얼마나 갈 지 보자고."
+worldnews.210.a:0 "이번엔 얼마나 갈지 보자고."
 
 worldnews.211.t:0 "이탈리아 공화국의 해체"
 worldnews.211.d:0 "Successful in their revolt against Italo Balbo and the radical ANI, Venetian leaders today announced that they would not restore the Italian Republic, and that instead both it and the new state of Lombardy would go their separate ways as independent nations. Lombardy is currently under military rule, though the government is being assisted by Count Adriano Visconti and most expect he will take the reins as the country's leader. This is unsurprising, considering that faith in democracy has been severely shaken, and the military is concerned that ANI support has not yet been crushed. Whether this move will mean a new status quo of Venetian leadership in the region or leave both nations vulnerable to foreign threats remains to be seen."
@@ -774,7 +774,7 @@ worldnews.211.a:0 "구체제가 무너졌을 뿐."
 
 worldnews.212.t:0 "이탈리아 연방 재수립을 강요한 오스트리아"
 worldnews.212.d:0 "While the Consiglio della Federazione Italiana, the governing body of the Italian Federation, had lapsed in 1929, today the [AUS.GetAdjective] government announced its restoration as the official government of Italy... though this time without the Republicans, the leader of which the Austrians had been forced to accept as the Federation's head following the civil war. Though demonstrations throughout Italy signify this as an unpopular move, elections have been suspended and all power placed in the hands of the Council and its aristocratic members - with the Habsburg Grand Duke of Tuscany, Pietro Ferdinando, becoming the new Head of the Council. While Austria claims that it does not consider the Federation a puppet government, this does very much signify a restoration of Austrian influence in the nation, lost after the events of Black Monday in 1936."
-worldnews.212.a:0 "이번엔 얼마나 갈 지 보자고."
+worldnews.212.a:0 "이번엔 얼마나 갈지 보자고."
 
 worldnews.213.t:0 "오스트리아의 최후통첩을 무시한 [ITA.GetNameDefCap]"
 worldnews.213.d:0 "While the Consiglio della Federazione Italiana, or Federation Council, had lapsed in 1929, [AUS.GetNameDef] has given Milan an ultimatum, insisting that the Council's rule in [ITA.GetNameDef] be restored - with or without the Republicans at the Council's head, as it was before the dissolution. The ultimatum has now expired, and it is clear the Italians mean to keep their newfound freedom. Already, Austrian and Italian troops have begun skirmishing at the borders, and Italian Prime Minister [ITA.GetLeader] has held a speech in Milan, calling on all true Italians to fight the Habsburg Empire’s ‘blatant imperialism’."
