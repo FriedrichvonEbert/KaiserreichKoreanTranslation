@@ -159,7 +159,7 @@ RULE_OPTION_POL_THE_GREAT_DEBATE_RANDOM_DESC:0 "섭정의회가 다음 폴란드
 RULE_OPTION_POL_THE_GREAT_DEBATE_REPUBLIC:0 "£KR_game_rule_flag_POL_REPUBLIC   공화국 선포"
 RULE_OPTION_POL_THE_GREAT_DEBATE_REPUBLIC_DESC:0 "수 번의 테러와 경제 반붕괴상태가 일어나고 난 뒤, 많은 폴란드 고위 공무원이 새로운 '폴란드 공화국'을 선포합니다."
 RULE_OPTION_POL_THE_GREAT_DEBATE_MILITARY:0 "£KR_game_rule_flag_POL   군부의 정권 장악"
-RULE_OPTION_POL_THE_GREAT_DEBATE_MILITARY_DESC:0 "정부의 총체적 붕괴를 막기 위해, 폴란드 군부가 경제 및 정치 사태를 안정화 시킬 때까지의 새로운 정부의 구성을 요청받습니다"
+RULE_OPTION_POL_THE_GREAT_DEBATE_MILITARY_DESC:0 "정부의 총체적 붕괴를 막기 위해, 폴란드 군부가 경제 및 정치 사태를 안정화할 때까지의 새로운 정부의 구성을 요청받습니다."
 RULE_OPTION_POL_THE_GREAT_DEBATE_SYNDIE:0 "£KR_game_rule_flag_POL_totalist   생디칼리슴 폴란드"
 RULE_OPTION_POL_THE_GREAT_DEBATE_SYNDIE_DESC:0 "폴란드 정부의 완전 붕괴 이후에, 생디칼리스트들이 국가를 완전히 통제합니다."
 RULE_OPTION_POL_THE_GREAT_DEBATE_NATIONALISTS:0 "£KR_game_rule_flag_POL_national_populist   국민주의 폴란드"
