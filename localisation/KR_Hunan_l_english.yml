@@ -624,44 +624,44 @@ hnn.42.d:0 "아군 병사들은 청더에 주둔한 불교 장군의 부대에�
 hnn.42.a:0 "너희들은 선택받은 이들이었다!"
 
 hnn.43.t:0 "수상쩍은 음모"
-hnn.43.d:0 "Military officers were overheard during their conversations today, talking about a plot to potentially overthrow the Governor. When news arrived at the Governor's office, he merely nodded and said that he had been expecting such a thing to happen. The Provincial Government has been told not to worry, although fears are brewing that the Governor has underestimated the threat..."
-hnn.43.a:0 "It'll be fine... Right?"
+hnn.43.d:0 "군 장교들이 오늘 회의를 열었는데, 성장 정권을 전복시키려는 음모를 꾸미는 모습을 엿들은 이가 있었습니다. 성장 사무실에 보고가 들어갔지만 그는 조용히 고개를 끄덕이면서 언젠가 이런 일이 벌이질 줄 알았다고 말할 뿐이었습니다. 임시성장은 크게 걱정하지 말라는 지시를 내렸지만, 성장이 위험을 과소평가하고 있다는 우려도 제기되었습니다..."
+hnn.43.a:0 "별일 없을거야... 맞지?"
 
 hnn.44.t:0 "탕성즈의 자오헝티 비난"
-hnn.44.d:0 "The Buddhist General has once again spoken out, now with much fiercer anger against the Governor. He came onto a balcony in Changde with thousands of people watching him as he listed the many things he accused the current provincial government of. He was seen flanked by his brother, Tang Shengming, among other members of the military. Many concerns have been raised that the general has connections with the plot against Zhao Hengti."
-hnn.44.a:0 "The absolute bastard..."
+hnn.44.d:0 "성장에 대한 분노가 더욱 거세지는 지금, 불교 장군이 다시 한번 목소리를 냈습니다. 그는 청더에서 발코니에 올라서 수천명의 청중 앞에서 현 성 정부가 저지른 수많은 악행을 나열했습니다. 옆에서는 남동생 탕성밍과 다른 군부 인사들이 그를 지켜주고 있었습니다. 그가 자오헝티를 노린 음모와 연관되어 있을지도 모른다는 우려를 많은 이들이 제기했습니다."
+hnn.44.a:0 "정말 개같은 새끼로군..."
 
 #Tang Victory Events
 
 hnn.45.t:0 "탕성즈가 선거에서 승리하다"
-hnn.45.d:0 "Tang Shengzhi, the Buddhist General, has won the provinicial election, and become Hunan's governor, the de-facto head of state."
-hnn.45.a:0 "Victory!"
+hnn.45.d:0 "불교 장군 탕성즈가 성 선거에서 승리했고 실질적 국가원수인 호남성장 자리에 올랐습니다."
+hnn.45.a:0 "승리했다!"
 
 HNN_zhao_flees:0 "§H자오헝티§!가 장군이 됨"
 
 hnn.46.t:0 "후난성을 장악한 탕성즈"
-hnn.46.d:0 "Tang Shengzhi has, once again, established full control over the province of Hunan. Earlier today, Tang Shengzhi and his men entered the Governor's house and ousted him from his position, installing Tang as the new governor. Zhao Hengti was reported to have fled across the provincial border to Hubei, a province under Northern Zhili control. Tang Shengzhi has started his spreading of 'Buddhist Socialism', and Hunan will see a new age, better or worse, under Tang Shengzhi. For now, we must see what he does."
-hnn.46.a:0 "The Governor is gone, long live the new Governor!"
+hnn.46.d:0 "탕성즈가 또 다시 호남을 완전히 손에 넣었습니다. 오늘 아침 탕성즈와 그 동료들이 성장의 자택에 들어닥쳐 성장을 쫓아냈고 탕성즈가 새로운 성장에 취임했습니다. 자오헝티는 성 경계선을 넘어 북직예군벌이 지배하는 후페이로 도망쳤습니다. 탕성즈는 자신이 주장하던 '불교 사회주의'를 확장시키기 시작했습니다. 호남은 탕성즈의 아래에서 더 좋을지 더 나쁠지는 아직 모르겠지만, 아무튼 새로운 시대를 맞게 될 것입니다. 일단 지금으로서는 그가 하는 행보를 가만히 지켜볼 수 밖에 없습니다."
+hnn.46.a:0 "성장은 떠나갔다. 새 성장 만세!"
 
 hnn.47.t:0 "탕성즈의 혁명적 불교"
-hnn.47.d:0 "The new governor, Tang Shengzhi, has put forth his new ideology into Hunanese society once again. Calling it 'Revolutionary Buddhism', Governor Tang seeks to combine the best parts of many ideologies. He takes his inspiration from the Kuomintang socialists and their message of equality, from the National Protection Alliance and their patriotism, from the ideologies of the Third Internationale, and from the Buddhism of himself and his comrades. Tang Shengzhi combines all these elements to create his perfect new ideology.\n\nEven though some devout Buddhists and right-wingers are opposed to it, many in Hunan accept it, as they believe that it is the right way forward for the modernization of the province. In order for Hunan to step upon the stage of China again, she must first revolutionize."
-hnn.47.a:0 "For Buddhism! For Revolution!"
+hnn.47.d:0 "신임 성장 탕성즈는 자신의 새로운 이념을 또 다시 호남 사회에 투사했습니다. '혁명적 불교'라고 불리는 이 이념은 탕성즈 성장이 수많은 이념이 가진 최고의 장점만을 얻어내기 위해 쏟아부은 노력의 결과물입니다. 그는 국민당 사회주의자들과 그들이 주장하는 평등주의에서, 호국전쟁과 그 과정에서 보여진 애국주의에서, 그리고 자신과 동지들이 지키던 불교사상에서 큰 영감을 받았습니다. 탕성즈는 이 모든 요소를 하나로 합쳐 완벽한 자신만의 이념을 만들어냈습니다.\n\n일부 독실한 불교도들과 우익 지지자들은 그의 이념에 반대하지만, 대부분의 호남 사람들은 그의 이념이 성을 현대화할 가장 정당한 방향이라고 믿기 때문에 혁명적 불교를 수용했습니다. 호남이 다시 한번 중국이라는 무대에 모습을 드러내기 위해서는 가장 먼저 혁명화해야 합니다."
+hnn.47.a:0 "불교여! 혁명이여!"
 
 hnn.48.t:0 "지주 문제"
-hnn.48.d:0 "There is quite a contentious problem in Hunan - the problem of what to do with our landlords. As Tang Shengzhi is a socialist, he must know how to deal with them effectively. There are three ways to deal with them - to kill them, to give them hard labor ten times the work of an ordinary farmer, or to set them free and tell them to not come back again. Which should the general choose?"
-hnn.48.a:0 "Kill them!"
-hnn.48.b:0 "Make them work!"
-hnn.48.c:0 "Set them free!"
+hnn.48.d:0 "호남에는 꽤 논쟁적인 문제가 남아있습니다. 국내 지주들을 어떻게 처리해야 하느냐는 문제입니다. 탕성즈가 사회주의자인 만큼 이 문제를 효과적으로 처리할 방법을 알아야 합니다. 저들을 처리하는 방법은 크게 세 가지가 있습니다. 그냥 죽여버리거나, 평범한 농부 열명분의 무거운 노동형을 부과하거나, 그냥 놓아주고 다시는 돌아오지 말라고 말하는 것입니다. 장군은 어떤 방법을 선택했을까요?"
+hnn.48.a:0 "다 죽여버려!"
+hnn.48.b:0 "노동하게 만들어라!"
+hnn.48.c:0 "자유롭게 놓아줘라!"
 
 hnn.49.t:0 "여성문제"
-hnn.49.d:0 "Women constitute a large part of our population. Most adult women in Hunan are simple farmers or housewifes, and do not have any say. However, influential women have begun to push their agenda, to have them working more in factories in big cities and to help women raise their statuses. Their demands are to have women be equal to men in work and pay, and for discrimination against females to be wiped out. However, there has been much opposition from the provincial council and the local men, as they do not wish to give up a large part of their power to women. They want to keep their positions and their male social and economic superiority as best they can. If we promise equality, it will be good for women, but it is a surefire way to anger the men of Hunan. How do we respond?"
-hnn.49.a:0 "Social and economic equality now!"
-hnn.49.b:0 "Promise to elevate the status of women"
-hnn.49.c:0 "Back to the kitchen, fools."
+hnn.49.d:0 "여성은 우리 인구의 많은 부분을 차지하고 있습니다. 호남 성인 여성 대부분은 단순한 농부거나 아니면 주부이며, 발언권을 전혀 가지지 못하고 있습니다. 하지만 영향력 있는 여성들이 대도시에 위치한 공장에서 더 많이 일하게 해서 여성들의 지위를 높여야 한다는 자신들의 주장을 밀어붙이기 시작했습니다. 그들은 남성과 같은 노동 임금을 요구하고 여성에 대한 차별을 일소해야 한다고 주장합니다. 하지만 여성에게 자신이 가진 권력의 많은 부분을 넘겨주고 싶지 않았던 지역 남성들과 성 의회에서 많은 반대 의견이 나오고 있습니다. 그들은 자신의 위치와 가능한 한 최대한 남성의 사회 경제적 우세를 지키고자 합니다. 평등을 약속한다면 여성에게는 좋겠지만, 호남의 남성들을 확실히 분노케 만들 것입니다. 어떻게 대답해야 할까요?"
+hnn.49.a:0 "지금 당장 사회적 경제적 평등을 제공해라!"
+hnn.49.b:0 "여성의 지위를 향상시켜 주겠다고 약속해라"
+hnn.49.c:0 "멍청한 년들. 부엌에나 들어가라 그래."
 
 hnn.50.t:0 "요상서원 설립"
-hnn.50.d:0 "Today, near his home county of Dong'an, Tang Shengzhi announced that he would be opening a new secondary school, named the Yaoxiang Academy after his father. The academy, initially intended to be a university, will not have a board of directors, and Tang Shengzhi will be the chairman of the school, with Gu Chou as the principal. The Yaoxiang Academy, being a private school, is aimed at educating relatively wealthy teenagers. The academy has no specific focus, and it will open in the next year."
-hnn.50.a:0 "A noteworthy effort to improve education!"
+hnn.50.d:0 "오늘, 탕성즈는 고향 둥안현 인근에 새로운 중등학교를 개교하고 아버지의 이름을 따 '요상학원' 이라고 이름붙일 것이라고 발표했습니다. 당초 대학 설립을 목표로 추진되었던 이 학교는 이사회를 두지 않고 탕성즈를 이사장으로, 구처우를 교장으로 둘 예정입니다. 요상학원은 상대적으로 부유한 학생들을 교육할 목적으로 세워진 사립학교입니다. 그 외에는 뭔가 특별한 목적성을 가지고 있지는 않습니다. 개교일은 내년으로 예정되어 있습니다."
+hnn.50.a:0 "교육 향상을 위한 의미있는 시도로다!"
 
 hnn.51.t:0 "수도원에서의 시위"
 hnn.51.d:0 "Some Buddhist monasteries in Hunan have expressed outrage at Tang Shengzhi's new Buddhisisation program, claiming that it took away their way of life and adapted their religion to a harmful political agenda. Tang Shengzhi responded to these monks by saying 'Buddhism is nothing without socialism or politics. If you're concerned about politics being involved in religion, you should look at the Western provinces.'"
