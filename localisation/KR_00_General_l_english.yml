@@ -196,13 +196,13 @@ militia:0 "민병대"
 category_mounted_inf:0 "기마 보병"
 
 ### Sub-unit Modifiers ###
-modifier_army_sub_unit_category_bicycle_battalion_attack_factor:0 "Bicycle Attack" 
-modifier_army_sub_unit_category_bicycle_battalion_defence_factor:0 "Bicycle Defence"
-modifier_army_sub_unit_category_bicycle_battalion_speed_factor:0 "Bicycle Speed"
+modifier_army_sub_unit_category_bicycle_battalion_attack_factor:0 "자건거 대대 공격" 
+modifier_army_sub_unit_category_bicycle_battalion_defence_factor:0 "자전거 대대 방어"
+modifier_army_sub_unit_category_bicycle_battalion_speed_factor:0 "자전거 대대 속도"
 
-modifier_army_sub_unit_category_militia_attack_factor:0 "Militia Attack" 
-modifier_army_sub_unit_category_militia_defence_factor:0 "Militia Defence"
-modifier_army_sub_unit_category_militia_speed_factor:0 "Militia Speed"
+modifier_army_sub_unit_category_militia_attack_factor:0 "민병대 공격" 
+modifier_army_sub_unit_category_militia_defence_factor:0 "민병대 방어"
+modifier_army_sub_unit_category_militia_speed_factor:0 "민병대 속도"
 
 ### Tech ###
 military_police_tech:0 "헌병"
@@ -326,7 +326,7 @@ received_equipment_1000:0 "그 나라에서 §G1000§! 보병 장비를 받을 �
 received_equipment_1500:0 "그 나라에서 §G1500§! 보병 장비를 받을 것입니다\n"
 received_equipment_2000:0 "그 나라에서 §G2000§! 보병 장비를 받을 것입니다\n"
 received_equipment_5000:0 "그 나라에서 §G5000§! 보병 장비를 받을 것입니다\n"
-generic_research_advances:0 "Research Advances"
+generic_research_advances:0 "연구 발전"
 generic_head_of_intelligence:0 "정보부장"
 recruit_generic_spymaster:0 "정보부장 고용"
 recruit_generic_spymaster_desc:0 "유능한 국장이 될 법한 사람을 우리 정보기관에 배치해야 할 것입니다."
@@ -347,7 +347,7 @@ marshal_of_the_palace:0 "왕실원수"  # ROM
 minister_of_native_affairs:0 "원주민부 장관"  # SAF, SFR
 national_philosopher:0 "국가철학자"   # NFA
 faction_minister:0 "내부 파벌"   # JBS
-kings_trusted_councillor:0 "King's Trusted Councillor"      # POL
+kings_trusted_councillor:0 "왕이 신뢰하는 의원"      # POL
 
 ### Company Traits ###
 
@@ -504,7 +504,7 @@ cat_light_armor_research:0 "경기갑 연구 속도"
 cat_light_spg:0 "경자주포"
 cat_medium_spg:0 "중형자주포"
 cat_heavy_spg:0 "중자주포"
-tank_destroyer_tech:0 "Tank Destroyers"
+tank_destroyer_tech:0 "구축전차"
 efficiency_tech:0 "생산 효율 기술"
 excavation_tech_research:0 "굴착 연구 속도"
 construction_tech_research:0 "건설 연구 속도"
