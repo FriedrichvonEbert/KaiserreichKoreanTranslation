@@ -409,8 +409,8 @@ worldnews.121.c:0 "제국주의자들과 싸우자!"
 worldnews.121.e:0 "프랑스는 파괴될 것이다."
 
 worldnews.122.t:0 "스위스의 생디칼리스트 혁명가들"
-worldnews.122.d:0 "작은 산 나라 스위스에서 들려오는 혼란스런 소식에 따르면 생디칼리스트 혁명가들이 수도 베른에 입성했다고 합니다. 스위스는 오랜 기간 동안 오토사부아와 로만디의 프랑스어 사용 지역에서 벌어지는 생디칼리스트 활동에 시달리고 있었습니다. 하지만 혁명군이 스위스 정부에 대항해 공공연한 행동을 보인 적은 없었습니다.\n\n많은 이들은 혁명군의 속도와 효율을 근거로 프랑스 코뮌의 직접적인 개입이 있었다고 의심하는 중입니다. 프랑스 코뮌은 오랜 기간 동안 프랑스어 사용 지역의 양도를 선동해왔습니다.\n\n스위스의 다른 지역에서는 전투가 계속되고 있지만 지금 수도를 점령한 이들은 생디칼리스트 군대인 것으로 보입니다."
-worldnews.122.enemies:0 "Chaotic reports are coming from the small mountain republic of Switzerland stating that Syndicalist revolutionaries have seized the western regions of the Romandie and occupied haute-Savoie following a Swiss military crackdown in the region. Supporting the successful Swiss revolutionaries, French troops have quickly moved in to occupy the region, and the Swiss military has held a defensive posture, unwilling to advance into the French guns. It seems that the speed of the revolutionary action has caught the Swiss government off guard, and they are unwilling to escalate the violenece into a full war with France. It remains to be seen what the Swiss will do next."
+worldnews.122.d:0 "조그만 산 위의 공화국인 스위스에서 들려오는 혼란스러운 소식에 따르면 생디칼리스트 혁명가들이 수도 베른에 입성했다고 합니다. 스위스는 오랜 기간 동안 오트사부아와 로만디의 프랑스어 사용 지역에서 벌어지는 생디칼리스트 활동에 시달리고 있었습니다. 하지만 혁명군이 스위스 정부에 대항해 공공연한 행동을 보인 적은 없었습니다.\n\n많은 이들은 혁명군의 속도와 효율을 근거로 프랑스 코뮌의 직접적인 개입이 있었다고 의심하는 중입니다. 프랑스 코뮌은 오랜 기간 동안 프랑스어 사용 지역의 양도를 선동해왔습니다.\n\n스위스의 다른 지역에서는 전투가 계속되고 있지만 지금 수도를 점령한 이들은 생디칼리스트 군대인 듯 보입니다."
+worldnews.122.enemies:0 "조그만 산 위의 공화국인 스위스에서 들려오는 혼란스러운 소식에 따르면 생디칼리스트 혁명가들이 지역 내에서 벌어진 스위스군의 강경 진압 이후 로만디 서부지역과 점령된 오트사부아를 장악했다고 합니다. 성공적인 스위스의 혁명가들을 지원하면서, 프랑스의 병력이 지역을 점령하려 재빨리 이동했고, 스위스군은 수비태세를 취하였으나 프랑스 총부리를 향해 진군하기는 꺼리고 있습니다. 혁명적인 행동의 속도가 스위스 정부의 허를 찌른 듯 보이며, 충돌이 프랑스와의 전면전으로 확대되는 것을 원치 않아 보입니다. 스위스가 이어서 어떻게 할지는 지켜봐야 합니다."
 worldnews.122.a:0 "이게 어떻게 가능하지?"
 worldnews.122.b:0 "사슬을 끊어라!"
 worldnews.122.c:0 "멋지군!"
@@ -464,10 +464,10 @@ worldnews.132.d:0 "최근의 논란을 불러온 주민투표 끝에 오스트�
 worldnews.132.a:0 "흥미롭군."
 
 worldnews.133.t:0 "오스트랄라시아 민주주의의 복원"
-worldnews.133.d:0 "[AST.GetNameDefCap](은)는 대영제국의 긴급 조치의 발효 이후로 윌리엄 버드우드 총독의 권위주의적인 통치 아래에 있었습니다. 국가의 많은 사람들은 이를 멜버른 생디칼리스트 반란에 대한 대응으로는 너무 가혹한 것으로 여겼습니다. 버드우드는 마침내 공공선거의 요청을 승인했고 스탠리 브루스의 오스트랄라시아 연합당이 캔버라의 의회에서 다수파 정부를 형성하며 예측된 결과를 낳았습니다. 브루스는 앞으로 노동쟁의의 증가와 버드우드가 실시한 개인의 자유에 대한 지독한 제한조치의 철회를 처리하느라 힘든 시간을 보낼 것으로 예측됩니다."
+worldnews.133.d:0 "[AST.GetNameDefCap] 정부는 대영제국의 긴급 조치의 발효 이후로 윌리엄 버드우드 총독의 권위주의적인 통치 아래에 있었습니다. 국가의 많은 사람들은 이를 멜버른 생디칼리스트 반란에 대한 대응으로는 너무 가혹한 것으로 여겼습니다. 버드우드는 마침내 공공선거의 요청을 승인했고 스탠리 브루스의 오스트랄라시아 연합당이 캔버라의 의회에서 다수파 정부를 형성하며 예측된 결과를 낳았습니다. 브루스는 앞으로 노동쟁의의 증가와 버드우드가 실시한 개인의 자유에 대한 지독한 제한조치의 철회를 처리하느라 힘든 시간을 보낼 것으로 예측됩니다."
 worldnews.133.a:0 "흥미롭군."
-worldnews.134.d:0 "[AST.GetNameDefCap](은)는 대영제국의 긴급 조치의 발효 이후로 윌리엄 버드우드 총독의 권위주의적인 통치 아래에 있었습니다. 국가의 많은 사람들은 이를 멜버른 생디칼리스트 반란에 대한 대응으로는 너무 가혹한 것으로 여겼습니다. 버드우드는 마침내 공공선거의 요청을 승인했고 얼 페이지의 농민당이 캔버라의 의회에서 소수파 정부를 형성하는 놀라운 결과를 낳았습니다. 페이지는 앞으로 노동쟁의의 증가와 버드우드가 실시한 개인의 자유에 대한 지독한 제한 조치의 철회를 처리하느라 힘든 시간을 보낼 것으로 예측됩니다."
-worldnews.135.d:0 "[AST.GetNameDefCap](은)는 대영제국의 긴급 조치의 발효 이후로 윌리엄 버드우드 총독의 권위주의적인 통치 아래에 있었습니다. 국가의 많은 사람들은 이를 멜버른 생디칼리스트 반란에 대한 대응으로는 너무 가혹한 것으로 여겼습니다. 버드우드는 마침내 공공선거의 요청을 승인했고 존 커틴의 노동당이 의회에서 아슬아슬하게 다수를 형성하는 결과를 낳았습니다. 오스트랄라시아 노동조합협의회와 협력하고 있는 당내 급진파는 노동당을 장악하는데 실패하고 순차적으로 출당되었습니다. 커틴은 앞으로 노동 쟁의의 재개와 즉각적으로 생디칼리슴 활동을 억누르고자 하는 강성파 의원들의 압력을 처리하느라 고된 시간을 보낼 것으로 예측됩니다."
+worldnews.134.d:0 "[AST.GetNameDefCap] 정부는 대영제국의 긴급 조치의 발효 이후로 윌리엄 버드우드 총독의 권위주의적인 통치 아래에 있었습니다. 국가의 많은 사람들은 이를 멜버른 생디칼리스트 반란에 대한 대응으로는 너무 가혹한 것으로 여겼습니다. 버드우드는 마침내 공공선거의 요청을 승인했고 얼 페이지의 농민당이 캔버라의 의회에서 소수파 정부를 형성하는 놀라운 결과를 낳았습니다. 페이지는 앞으로 노동쟁의의 증가와 버드우드가 실시한 개인의 자유에 대한 지독한 제한 조치의 철회를 처리하느라 힘든 시간을 보낼 것으로 예측됩니다."
+worldnews.135.d:0 "[AST.GetNameDefCap] 정부는 대영제국의 긴급 조치의 발효 이후로 윌리엄 버드우드 총독의 권위주의적인 통치 아래에 있었습니다. 국가의 많은 사람들은 이를 멜버른 생디칼리스트 반란에 대한 대응으로는 너무 가혹한 것으로 여겼습니다. 버드우드는 마침내 공공선거의 요청을 승인했고 존 커틴의 노동당이 의회에서 아슬아슬하게 다수를 형성하는 결과를 낳았습니다. 오스트랄라시아 노동조합협의회와 협력하고 있는 당내 급진파는 노동당을 장악하는데 실패하고 순차적으로 출당되었습니다. 커틴은 앞으로 노동 쟁의의 재개와 즉각적으로 생디칼리슴 활동을 억누르고자 하는 강성파 의원들의 압력을 처리하느라 고된 시간을 보낼 것으로 예측됩니다."
 
 worldnews.136.t:0 "벨기에의 독립선언"
 worldnews.136.d:0 "독일의 억압과 검은 월요일 재앙을 뒤이어, 벨기에 독립운동이 벨기에 전역에서 일어났으며 독일군을 상대로 게릴라전을 벌이고 있습니다. 독일 제국 자신의 회복으로 인해 아델베르트 1세를 완전히 지지하지 못했으며 상황은 독일의 통제를 벗어나 악화되었습니다. 독립군이 몽스와 앤트워프를 공동 공격한 이후 마침내 플랜더스-왈로니아 군은 브뤼셀로 물러났으며, 그곳에서의 격렬한 전투 끝에 독일인 국왕이 항복했습니다. 독일 제국에서의 명확한 대답은 아직 없는 가운데, 많은 사람들은 독립 벨기에가 특히 프랑스 코뮌과 제국 사이의 긴장이 고조되고 그 나라의 전략적 위치가 악화되면서 얼마 가지 않을 수도 있다고 우려합니다."
@@ -478,8 +478,8 @@ worldnews.137.d:0 "프랑스 코뮌이 독일 제국에게 선전포고한 직�
 worldnews.137.a:0 "이것은 뫼즈 방어선에 결정적인 타격이다."
 
 worldnews.138.t:0 "불가리아 정부의 전복"
-worldnews.138.d:0 "Following their overwhelming loss in the Balkan War against the powerful Belgrade Pact, it seems as though the issue of selecting a new government was a hot debate within chaotic Bulgaria. As it stood, the Bulgarian people themselves had three candidates who would lead the nation: the liberal Radical Democrat and Broad Socialist parties and the conservative Aleksandar Stamboliyski's Bulgarian Agrarian National Union. In the end, it seems as though the [From.GetRulingParty] were effectively able to seize power and cement their reign..."
-worldnews.138.d.nowar:0 "Following their humiliating surrender of territory to Serbia and its allies, it seems as though the issue of selecting a new government was a hot debate within chaotic Bulgaria. As it stood, the Bulgarian people themselves had three candidates who would lead the nation: the liberal Radical Democrat and Broad Socialist parties and the conservative Bulgarian Agrarian National Union, led by Aleksandar Stamboliyski. In the end, it seems as though the [From.GetRulingParty] were effectively able to seize power and cement their reign..."
+worldnews.138.d:0 "강력한 베오그라드 협약에 맞서 싸웠던 발칸 전쟁의 압도적인 패배에 이어, 새로운 정부를 선출하는 문제가 혼란한 불가리아 내에서 뜨거운 화두였던 듯합니다. 현재까지는, 불가리아 시민에게는 국가를 이끌어 갈 세 후보가 있었습니다. 급진민주당과 포괄사회주의자의 정당, 그리고 보수적인 알렉산더르 스탐볼리스키의 불가리아 농민연합 말입니다. 마침내, [From.GetRulingParty] 측이 사실상 정권을 잡아 통치를 공고히 할 수 있었던 것으로 보입니다..."
+worldnews.138.d.nowar:0 "세르비아와 동맹국들에 대한 굴욕적인 항복에 이어, 새로운 정부를 선출하는 문제가 혼란한 불가리아 내에서 뜨거운 화두였던 듯합니다. 현재까지는, 불가리아 시민에게는 국가를 이끌어 갈 세 후보가 있었습니다. 급진민주당과 포괄사회주의자의 정당, 그리고 알렉산더르 스탐볼리스키가 이끄는 보수적인 불가리아 농민연합 말입니다. 마침내, [From.GetRulingParty] 측이 사실상 정권을 잡아 통치를 공고히 할 수 있었던 것으로 보입니다..."
 worldnews.138.a:0 "흥미롭군..."
 
 worldnews.139.t:0 "보리스 3세의 쿠데타"
