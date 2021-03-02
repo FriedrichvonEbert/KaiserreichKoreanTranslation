@@ -303,12 +303,12 @@ ott_parliament_add_tooltip:0 "Add Modifier: §H$ott_parliament_idea$§!\n$ott_pa
 # Decisions #
 #############
 ### Foreign Policy
-OTT_Invite_Istanbul_Pact:0 "이스탄불 조약에 [FROM.GetName] 초청"
+OTT_Invite_Istanbul_Pact:0 "이스탄불 협약에 [FROM.GetName] 초청"
 OTT_Invite_Istanbul_Pact_desc:0 ""
 OTT_Invite_AMN:0 "이슬람 국가연합에 [FROM.GetName] 초청"
 OTT_Invite_AMN_desc:0 ""
 OTT_demand_western_thrace:0 "서부 트라키아 요구"
-OTT_demand_western_thrace_desc:0 "우리는 재앙적이던 발칸 전쟁의 결과로 튀르크계 무슬림이 다수 거주하던 서트라키아의 땅을 빼앗겼습니다. 불가리아 정부에 의한 그들에 대한 탄압의 보고와 함께 발칸의 반불가리아 정서가 고조되는 가운데, 정부는 이 튀르크 인들을 위해 개입하여 그들이 오스만 정부의 보호를 받을 수 있도록 압력을 가하고 있습니다."
+OTT_demand_western_thrace_desc:0 "우리는 재앙적이던 발칸 전쟁의 결과로 튀르크계 무슬림이 다수 거주하던 서트라키아의 땅을 빼앗겼습니다. 불가리아 정부에 의한 그들에 대한 탄압의 보고와 함께 발칸의 반불가리아 정서가 고조되는 가운데, 정부는 이 튀르크인들을 위해 개입하여 그들이 오스만 정부의 보호를 받을 수 있도록 압력을 가하고 있습니다."
 OTT_leave_edirne_accords:0 "에디르네 협정 탈퇴"
 
 ### AMN
@@ -325,9 +325,9 @@ OTT_Emergency_Mobilisation:0 "긴급 동원"
 OTT_Fortify_Aleppo:0 "알레포 요새화"
 OTT_Fortify_Bagdhad:0 "바그다드 요새화"
 OTT_Flood_the_Euphrates_Plain:0 "유프라테스 티그리스 평원 범람"
-OTT_Invite_Istanbul_Pact_Azerbaijan:0 "이스탄불 조약에 [FROM.GetName] 초청"
+OTT_Invite_Istanbul_Pact_Azerbaijan:0 "이스탄불 협약에 [FROM.GetName] 초청"
 OTT_Invite_Istanbul_Pact_Azerbaijan_desc:0 "우리가 사방으로 둘러싸여 있다는 것을 깨달으며, 과거의 조약과 우정을 다시 평가할 때가 왔습니다. [FROM.GetName] (은)는 모든 무슬림의 칼리프와 함께할까요? 아니면 독수리가 레반트의 신성한 땅을 우리의 시체에서 뜯어내는 것을 지켜볼까요?"
-#OTT_Invite_Istanbul_Pact_Afghanistan:0 "이스탄불 조약에 [FROM.GetName] 초청"
+#OTT_Invite_Istanbul_Pact_Afghanistan:0 "이스탄불 협약에 [FROM.GetName] 초청"
 #OTT_Invite_Istanbul_Pact_Afghanistan_desc:0 "우리가 사방으로 둘러싸여 있다는 것을 깨달으며, 과거의 조약과 우정을 다시 평가할 때가 왔습니다. [FROM.GetName] (은)는 모든 무슬림의 칼리프와 함께할까요? 아니면 독수리가 레반트의 신성한 땅을 우리의 시체에서 뜯어내는 것을 지켜볼까요?"
 
 Cairo_Pact_decisions:0 "중동 캠페인"
