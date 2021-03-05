@@ -27,9 +27,9 @@ SYR_radical_socialist_party_long:0 "시리아 생디칼리슴당" #Party of Khal
 SYR_social_democrat_party:0 "시리아 생디칼리슴당"
 SYR_social_democrat_party_long:0 "시리아 생디칼리슴당" #Party of Khalid Bakdash (doesn't have a portrait) ... could potentially use Radwan al-Hilu of the Palestinian Communist Party?
 SYR_social_liberal_party:0 "인민당"
-SYR_social_liberal_party_long:0 "인민당" #Palestinian/Damascene wing of the People's Party. This wing represents al-Nashashibi (Jerusalem) and al-Jazairi (Damascus)
+SYR_social_liberal_party_long:0 "인민당 (다마스쿠스 파벌)" #Palestinian/Damascene wing of the People's Party. This wing represents al-Nashashibi (Jerusalem) and al-Jazairi (Damascus)
 SYR_market_liberal_party:0 "인민당"
-SYR_market_liberal_party_long:0 "인민당" #Aleppo wing of the Party of Nazim al-Kudsi (doesn't have a portrait) and Rushdi al-Kikhiya (doesn't have a portrait but will use Hananus portrait due to similarities between the two). Supports closer relations with Iraq and is the main anti-Damascene bloc in Aleppo/Northern Syria.
+SYR_market_liberal_party_long:0 "인민당 (알레포 파벌)" #Aleppo wing of the Party of Nazim al-Kudsi (doesn't have a portrait) and Rushdi al-Kikhiya (doesn't have a portrait but will use Hananus portrait due to similarities between the two). Supports closer relations with Iraq and is the main anti-Damascene bloc in Aleppo/Northern Syria.
 SYR_social_conservative_party:0 "국민연합"
 SYR_social_conservative_party_long:0 "국민연합" #Party of Hashim al-Atassi and Shukri al-Quwaitli 
 SYR_authoritarian_democrat_party:0 "알라위야 왕조" 
