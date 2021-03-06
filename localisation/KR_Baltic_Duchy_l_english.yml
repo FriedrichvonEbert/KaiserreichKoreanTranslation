@@ -641,7 +641,7 @@ KRBAT.118.b:0 "자치구의 권리를 침해해선 안 된다"
 KRBAT.119.t:0 "새로운 주의회 구성"
 KRBAT.119.d:0 "Following the promulgation of the Constitution, new elections are being held to the Baltic Landtag across the provinces. Having successfully transformed the nation according to their liberal vision and promulgated a constitution, the DbDP is likely to win a majority of the vote and form a government all by themselves - however, their traditional competitors in the form of Progressive, Reform and State Parties have not died down just yet, and may force the party to cooperate with one of them in a coalition."
 KRBAT.119.a:0 "발트 독일계 민주당이 과반수를 차지했다!"
-KRBAT.119.b:0 "The DbDP needs to work across the bench..."
+KRBAT.119.b:0 "발트 독일계 민주당은 연정을 구성해야 할 것이다..."
 
 KRBAT.120.t:0 "또다른 적!"
 KRBAT.120.d:0 "The area south of Dünaburg, the Ilūkste region is home to sizable Polish minority that has been living there since times of the Commonwealth. Until Partitions of Poland, Dünaburg and its surroundings were an integral part of the Polish-Lithuanian Commonwealth: the Catholic Church had a strong influence here, which contributed to a significant Polonization of the region, especially its elites.\n\nThe Polish gentry has traditionally been supportive towards Latvian independence. They helped to arm Latvian militias during the 1905 revolution against the Tsar, whom both saw as an enemy. Due to their position on the edge of the duchy and bordering area of Russian controlled Dünaburg, there has been rising activity in arms smuggling and support is being organised in aid of the Forest Brothers uprising we are fighting against.\n\nSome accounts suggest Polish minority places hope that independent Latvia will allow them the right to develop Polish social, cultural, religious and political life and safeguard Polish nobility estates."
@@ -1083,53 +1083,53 @@ BAT_GER_thousand_years_desc:0 "자유로워지고, 부활한 독일의 상징인
 
 ### Ideas ###
 
-BAT_byzantine_government:0 "비잔틴 정치체제"
-BAT_byzantine_government_desc:0 "발트 연합공국의 정치체제는 리보니아 연방에서 또는 어쩌면, 더 일찍부터 유래한 수 세기의 전통에 기초하고 있습니다. 주의회를 통한 반직접 대표제, 주의 오스티(발트해의 독일어명) 민법에 항구적인 충성심, 발트 기사단의 자율성은 모두 의심할 여지없이 발트 독일인 정체성의 일부입니다. 하지만, 그것은 개혁이 절실한 시스템입니다."
+BAT_byzantine_government:0 "구식 정치체제"
+BAT_byzantine_government_desc:0 "발트 연합공국의 정치체제는 리보니아 연방에서 또는 어쩌면, 더 일찍부터 유래한 수 세기의 전통에 기초하고 있습니다. 주의회를 통한 반직접 대표제, 주의 오스티(발트해) 민법에 항구적인 충성심, 발트 기사단의 자율성은 모두 의심할 여지없이 발트 독일인 정체성의 일부입니다. 하지만, 그것은 개혁이 절실한 시스템입니다."
 
-BAT_byzantine_government_2:0 "비잔틴 정치체제"
-BAT_byzantine_government_2_desc:0 "발트 연합공국의 정치체제는 리보니아 연방에서 또는 어쩌면, 더 일찍부터 유래한 수 세기의 전통에 기초하고 있습니다. 주의회를 통한 반직접 대표제, 주의 오스티(발트해의 독일어명) 민법에 항구적인 충성심, 발트 기사단의 자율성은 모두 의심할 여지없이 발트 독일인 정체성의 일부입니다. 하지만, 그것은 개혁이 절실한 시스템입니다."
+BAT_byzantine_government_2:0 "구식 정치체제"
+BAT_byzantine_government_2_desc:0 "발트 연합공국의 정치체제는 리보니아 연방에서 또는 어쩌면, 더 일찍부터 유래한 수 세기의 전통에 기초하고 있습니다. 주의회를 통한 반직접 대표제, 주의 오스티(발트해) 민법에 항구적인 충성심, 발트 기사단의 자율성은 모두 의심할 여지없이 발트 독일인 정체성의 일부입니다. 하지만, 그것은 개혁이 절실한 시스템입니다."
 
-BAT_byzantine_government_3:0 "비잔틴 정치체제"
-BAT_byzantine_government_3_desc:0 "발트 연합공국의 정치체제는 리보니아 연방에서 또는 어쩌면, 더 일찍부터 유래한 수 세기의 전통에 기초하고 있습니다. 주의회를 통한 반직접 대표제, 주의 오스티(발트해의 독일어명) 민법에 항구적인 충성심, 발트 기사단의 자율성은 모두 의심할 여지없이 발트 독일인 정체성의 일부입니다. 하지만, 그것은 개혁이 절실한 시스템입니다."
+BAT_byzantine_government_3:0 "구식 정치체제"
+BAT_byzantine_government_3_desc:0 "발트 연합공국의 정치체제는 리보니아 연방에서 또는 어쩌면, 더 일찍부터 유래한 수 세기의 전통에 기초하고 있습니다. 주의회를 통한 반직접 대표제, 주의 오스티(발트해) 민법에 항구적인 충성심, 발트 기사단의 자율성은 모두 의심할 여지없이 발트 독일인 정체성의 일부입니다. 하지만, 그것은 개혁이 절실한 시스템입니다."
 
-BAT_byzantine_government_4:0 "비잔틴 정치체제"
-BAT_byzantine_government_4_desc:0 "발트 연합공국의 정치체제는 리보니아 연방에서 또는 어쩌면, 더 일찍부터 유래한 수 세기의 전통에 기초하고 있습니다. 주의회를 통한 반직접 대표제, 주의 오스티(발트해의 독일어명) 민법에 항구적인 충성심, 발트 기사단의 자율성은 모두 의심할 여지없이 발트 독일인 정체성의 일부입니다. 하지만, 그것은 개혁이 절실한 시스템입니다."
+BAT_byzantine_government_4:0 "구식 정치체제"
+BAT_byzantine_government_4_desc:0 "발트 연합공국의 정치체제는 리보니아 연방에서 또는 어쩌면, 더 일찍부터 유래한 수 세기의 전통에 기초하고 있습니다. 주의회를 통한 반직접 대표제, 주의 오스티(발트해) 민법에 항구적인 충성심, 발트 기사단의 자율성은 모두 의심할 여지없이 발트 독일인 정체성의 일부입니다. 하지만, 그것은 개혁이 절실한 시스템입니다."
 
 BAT_parliamentary_control_idea:0 "의회 통제"
-BAT_parliamentary_control_idea_desc:0 "Decision-making power in the Duchy has been centralized in the Landtag, allowing it to exert control over the Landeswehr and the Convent of Land Administrators, thus eroding the power of the Baltic Knighthoods."
+BAT_parliamentary_control_idea_desc:0 "공국의 의사 결정권한이 주 의회에 집중되어, 향토방위군과 주 행정관 수도회에 대한 통제력을 행사할 수 있게 되었습니다. 이는 발트 기사단협회의 영향력을 약화시켰습니다."
 
 BAT_landeswehr:0 "발트 향토방위군"
-BAT_landeswehr_desc:0 "The Baltic Territorial Army is the volunteer defense force of the United Baltic Duchy, formed in 1918 under the guidance of German commander Rüdiger von der Goltz. It is ethnically segregated between Baltic German, Latvian, Estonian and Russian units, and unpopular with the native majority population. This has pressed the Landeswehr to reform and modernize to make up for its manpower shortages. Largely independent of civilian oversight, and for good reason, it is efficient and innovative, considered to be the most elite force in the Reichspakt."
+BAT_landeswehr_desc:0 "발트 향토방위군은 1918년 독일 제국군 사령관 뤼디거 폰 데어 골츠의 지휘 아래 설립된 자원병들로, 발트 연합공국의 방어 병력이었습니다. 향토방위군은 발트 독일계, 라트비아계, 에스토니아계, 러시아계로 분리되어 있으며 현지인들에게는 인기가 없습니다. 이로 인해 향토방위군은 인력난을 보완하기 위해 개혁과 현대화를 추진하게 되었습니다. 타당한 이유로 민간 감독에서 상당히 독립해 효율적이고 혁신적이며, 라이히스팍트에서 가장 정예부대로 간주됩니다."
 
 RIG_landeswehr:0 "새로운 발트 향토방위군"
-RIG_landeswehr_desc:0 "The old Baltische Landeswehr was rife with Baltic German supremacism, unpopular with the general population, yet effective. Now that the Baltics are once again reunited nder our guidance, we have restored the Landeswehr with all of the efficiency and none of the hatred."
+RIG_landeswehr_desc:0 "구 발트 향토방위군은 발트 독일계 우대주의가 넘쳐났고, 그것이 현지인들에게 인기가 없었지만 효과적이었습니다. 이제 발트가 우리의 지도 아래 다시 하나가 되었으니, 우리는 다시 향토방위군을 효율적이고 증오의 대상이 되지 않도록 복원해야 합니다."
 
 BAT_landeswehr_professional_1:0 "발트 향토방위군"
-BAT_landeswehr_professional_1_desc:0 "The Baltic Territorial Army is the volunteer defense force of the United Baltic Duchy, formed in 1918 under the guidance of German commander Rüdiger von der Goltz. It is ethnically segregated between Baltic German, Latvian, Estonian and Russian units, and unpopular with the native majority population. This has pressed the Landeswehr to reform and modernize to make up for its manpower shortages. Largely independent of civilian oversight, and for good reason, it is efficient and innovative, considered to be the most elite force in the Reichspakt."
+BAT_landeswehr_professional_1_desc:0 "발트 향토방위군은 1918년 독일 제국군 사령관 뤼디거 폰 데어 골츠의 지휘 아래 설립된 자원병들로, 발트 연합공국의 방어 병력이었습니다. 향토방위군은 발트 독일계, 라트비아계, 에스토니아계, 러시아계로 분리되어 있으며 현지인들에게는 인기가 없습니다. 이로 인해 향토방위군은 인력난을 보완하기 위해 개혁과 현대화를 추진하게 되었습니다. 타당한 이유로 민간 감독에서 상당히 독립해 효율적이고 혁신적이며, 라이히스팍트에서 가장 정예부대로 간주됩니다."
 
 BAT_landeswehr_professional_2:0 "발트 향토방위군"
-BAT_landeswehr_professional_2_desc:0 "The Baltic Territorial Army is the volunteer defense force of the United Baltic Duchy, formed in 1918 under the guidance of German commander Rüdiger von der Goltz. It is ethnically segregated between Baltic German, Latvian, Estonian and Russian units, and unpopular with the native majority population. This has pressed the Landeswehr to reform and modernize to make up for its manpower shortages. Largely independent of civilian oversight, and for good reason, it is efficient and innovative, considered to be the most elite force in the Reichspakt."
+BAT_landeswehr_professional_2_desc:0 "발트 향토방위군은 1918년 독일 제국군 사령관 뤼디거 폰 데어 골츠의 지휘 아래 설립된 자원병들로, 발트 연합공국의 방어 병력이었습니다. 향토방위군은 발트 독일계, 라트비아계, 에스토니아계, 러시아계로 분리되어 있으며 현지인들에게는 인기가 없습니다. 이로 인해 향토방위군은 인력난을 보완하기 위해 개혁과 현대화를 추진하게 되었습니다. 타당한 이유로 민간 감독에서 상당히 독립해 효율적이고 혁신적이며, 라이히스팍트에서 가장 정예부대로 간주됩니다."
 
 BAT_landeswehr_professional_3:0 "발트 향토방위군"
-BAT_landeswehr_professional_3_desc:0 "The Baltic Territorial Army is the volunteer defense force of the United Baltic Duchy, formed in 1918 under the guidance of German commander Rüdiger von der Goltz. It is ethnically segregated between Baltic German, Latvian, Estonian and Russian units, and unpopular with the native majority population. This has pressed the Landeswehr to reform and modernize to make up for its manpower shortages. Largely independent of civilian oversight, and for good reason, it is efficient and innovative, considered to be the most elite force in the Reichspakt."
+BAT_landeswehr_professional_3_desc:0 "발트 향토방위군은 1918년 독일 제국군 사령관 뤼디거 폰 데어 골츠의 지휘 아래 설립된 자원병들로, 발트 연합공국의 방어 병력이었습니다. 향토방위군은 발트 독일계, 라트비아계, 에스토니아계, 러시아계로 분리되어 있으며 현지인들에게는 인기가 없습니다. 이로 인해 향토방위군은 인력난을 보완하기 위해 개혁과 현대화를 추진하게 되었습니다. 타당한 이유로 민간 감독에서 상당히 독립해 효율적이고 혁신적이며, 라이히스팍트에서 가장 정예부대로 간주됩니다."
 
 BAT_landeswehr_manpower_1:0 "발트 향토방위군"
-BAT_landeswehr_manpower_1_desc:0 "The Baltic Territorial Army is the volunteer defense force of the United Baltic Duchy, formed in 1918 under the guidance of German commander Rüdiger von der Goltz. It is ethnically segregated between Baltic German, Latvian, Estonian and Russian units, and unpopular with the native majority population. This has pressed the Landeswehr to reform and modernize to make up for its manpower shortages. Largely independent of civilian oversight, and for good reason, it is efficient and innovative, considered to be the most elite force in the Reichspakt."
+BAT_landeswehr_manpower_1_desc:0 "발트 향토방위군은 1918년 독일 제국군 사령관 뤼디거 폰 데어 골츠의 지휘 아래 설립된 자원병들로, 발트 연합공국의 방어 병력이었습니다. 향토방위군은 발트 독일계, 라트비아계, 에스토니아계, 러시아계로 분리되어 있으며 현지인들에게는 인기가 없습니다. 이로 인해 향토방위군은 인력난을 보완하기 위해 개혁과 현대화를 추진하게 되었습니다. 타당한 이유로 민간 감독에서 상당히 독립해 효율적이고 혁신적이며, 라이히스팍트에서 가장 정예부대로 간주됩니다."
 
 BAT_landeswehr_manpower_2:0 "발트 향토방위군"
-BAT_landeswehr_manpower_2_desc:0 "The Baltic Territorial Army is the volunteer defense force of the United Baltic Duchy, formed in 1918 under the guidance of German commander Rüdiger von der Goltz. It is ethnically segregated between Baltic German, Latvian, Estonian and Russian units, and unpopular with the native majority population. This has pressed the Landeswehr to reform and modernize to make up for its manpower shortages. Largely independent of civilian oversight, and for good reason, it is efficient and innovative, considered to be the most elite force in the Reichspakt."
+BAT_landeswehr_manpower_2_desc:0 "발트 향토방위군은 1918년 독일 제국군 사령관 뤼디거 폰 데어 골츠의 지휘 아래 설립된 자원병들로, 발트 연합공국의 방어 병력이었습니다. 향토방위군은 발트 독일계, 라트비아계, 에스토니아계, 러시아계로 분리되어 있으며 현지인들에게는 인기가 없습니다. 이로 인해 향토방위군은 인력난을 보완하기 위해 개혁과 현대화를 추진하게 되었습니다. 타당한 이유로 민간 감독에서 상당히 독립해 효율적이고 혁신적이며, 라이히스팍트에서 가장 정예부대로 간주됩니다."
 
 BAT_landeswehr_manpower_3:0 "발트 향토방위군"
-BAT_landeswehr_manpower_3_desc:0 "The Baltic Territorial Army is the volunteer defense force of the United Baltic Duchy, formed in 1918 under the guidance of German commander Rüdiger von der Goltz. It is ethnically segregated between Baltic German, Latvian, Estonian and Russian units, and unpopular with the native majority population. This has pressed the Landeswehr to reform and modernize to make up for its manpower shortages. Largely independent of civilian oversight, and for good reason, it is efficient and innovative, considered to be the most elite force in the Reichspakt."
+BAT_landeswehr_manpower_3_desc:0 "발트 향토방위군은 1918년 독일 제국군 사령관 뤼디거 폰 데어 골츠의 지휘 아래 설립된 자원병들로, 발트 연합공국의 방어 병력이었습니다. 향토방위군은 발트 독일계, 라트비아계, 에스토니아계, 러시아계로 분리되어 있으며 현지인들에게는 인기가 없습니다. 이로 인해 향토방위군은 인력난을 보완하기 위해 개혁과 현대화를 추진하게 되었습니다. 타당한 이유로 민간 감독에서 상당히 독립해 효율적이고 혁신적이며, 라이히스팍트에서 가장 정예부대로 간주됩니다."
 
 BAT_emigration:0 "이민"
-BAT_emigration_desc:0 "All citizens of the United Baltic Duchy are able to move to and work in the German Empire without inhibition, and vice versa. Two decades ago, it was believed that this would foster German colonization of the Baltic states via immigrants from the Heimat. It has had the opposite result, however - young Baltic Germans move to Berlin, Saxony and the Ruhr in search of a living, abandoning their family homes."
+BAT_emigration_desc:0 "발트 연합공국의 모든 시민은 독일 제국으로 자유롭게 이동하며 일할 수 있으며, 그 반대의 경우도 마찬가지입니다. 20년 전에는, 이것이 독일 본토에서 온 이민자들을 통해 발트의 독일 식민화가 촉진될 것으로 믿어졌습니다. 그러나 발트 독일계 젊은이들이 고향을 떠나 생계를 위해 베를린, 작센, 루르로 이주하는 등 정반대의 결과를 낳았습니다."
 
 BAT_emigration_2:0 "대이민"
-BAT_emigration_2_desc:0 "All citizens of the United Baltic Duchy are able to move to and work in the German Empire without inhibition, and vice versa. Now that an economic crisis has set in our country, thousands are making their way to the Empire in search of a living, deepening our already crippling labor force problems."
+BAT_emigration_2_desc:0 "발트 연합공국의 모든 시민은 독일 제국으로 자유롭게 이동하며 일할 수 있으며, 그 반대의 경우도 마찬가지입니다. 우리나라에 경제 위기가 닥친 지금, 수천 명의 사람들이 생계를 찾아 독일 제국으로 나가고 있으며, 이는 가뜩이나 심각한 노동력 부족 문제를 심화시키고 있습니다."
 
 BAT_emigration_3:0 "통제된 이민"
-BAT_emigration_3_desc:0 "All citizens of the United Baltic Duchy are able to move to and work in the German Empire without inhibition, and vice versa. Because of this, young Baltic Germans move to Berlin, Saxony and the Ruhr in search of a living, abandoning their family homes - however, this process has been somewhat put under control."
+BAT_emigration_3_desc:0 "발트 연합공국의 모든 시민은 독일 제국으로 자유롭게 이동하며 일할 수 있으며, 그 반대의 경우도 마찬가지입니다. 이 때문에 발트 독일계 젊은이들이 고향을 떠나 생계를 위해 베를린, 작센, 루르로 이주하게 되었습니다. 이 과정은 어느 정도 통제되고 있습니다."
 
 BAT_black_monday:0 "검은 월요일"
 BAT_black_monday_desc:0 "검은 월요일 주식시장 붕괴로 촉발된 경제위기가 우리 나라에 심각한 영향을 미치고 있습니다."
