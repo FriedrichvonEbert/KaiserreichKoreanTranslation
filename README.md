@@ -12,7 +12,7 @@
 - 카이저라이히는 아직 BETA 단계이므로 계속 문법/단어 수정이 이뤄지고 있습니다. 번역하려는데 문장이 이상하다고 생각하신다면 재량에 따라 의역하셔도 됩니다.
 - **[단어사전](단어사전.md)** 을 지켜주시며 본문 수정 부탁드립니다.
 - 한번도 번역되지 않은 지명, 인명들은 적당히 발음나는 대로 적어주시면 됩니다.
-  - 필요시 [한글라이즈](https://hangulize.org)나 [한어병음/일문가나 한글표기 변환 도구](https://boncho.kiom.re.kr/tool/index.htm), [키릴문자-라틴어 변환 도구](https://www.lexilogos.com/keyboard/russian_conversion.htm), 그리고 `Issue`탭을 활용해 주세요.
+  - 필요시 [한글라이즈](https://hangulize.org)나 [한어병음/일문가나 한글표기 변환 도구](https://herba.kr/boncho/tool.php), [키릴문자-라틴어 변환 도구](https://www.lexilogos.com/keyboard/russian_conversion.htm), 그리고 `Issue`탭을 활용해 주세요.
 - 이 외에 번역과 관련된 토론은 상단 `Issues` 탭에 올려주시면 답해드리겠습니다.
 - **번역기를 사용한 문장을 그대로 붙여넣지 마십시오. 1차 경고 이후에 지속될 경우, Block 등의 조치를 취하겠습니다.**
 - **이미 [Pull requests](https://github.com/FriedrichvonEbert/KaiserreichKoreanTranslation/pulls)에 대기 중인 파일을 번역하셨다면, 얼마나 더 하시든 관리자가 가장 최근에 수락한 것만 적용됩니다. `Pull requests`에서 해당 파일이 사라지기 이전까지 다른 파일을 작업해주세요.**
@@ -57,7 +57,7 @@
   - [구글 번역](https://translate.google.co.kr/)
 - **원문 한글 표기와 문장교정**
   - [한글라이즈](https://hangulize.org) - 각 언어에 맞는 글자를 넣어야 정상적으로 출력됩니다.
-  - [한어병음/일문가나 한글표기 변환 도구](https://boncho.kiom.re.kr/tool/index.htm) - 중국어를 로마자로 표기한 것을 넣으면 변환이 됩니다.
+  - [한어병음/일문가나 한글표기 변환 도구](https://herba.kr/boncho/tool.php) - 중국어를 로마자로 표기한 것을 넣으면 변환이 됩니다.
   - [키릴문자-라틴어 변환 도구](https://www.lexilogos.com/keyboard/russian_conversion.htm) - 영문으로 적힌 러시아어를 변환하는데 도움이 됩니다. 그 역에도 도움이 됩니다.
   - [한국어 맞춤법/문법 검사기](http://speller.cs.pusan.ac.kr/) - 번역 후에 어색한 느낌이 든다면 사용해보세요. 강한 규칙 적용을 권장드립니다.
 ***
