@@ -1420,8 +1420,8 @@ worldnews.429.t:0 "바르잔지 반란"
 worldnews.429.d:0 "Leader of two failed attempts in Sulaymanyiah to carve out a Kurdish kingdom, the infamous Sheikh Mahmud Barzinji has once more declared the independence of his Kurdish state, drawing support from various tribes in Sulaymaniyah. Although a ceasefire was brokered between Teheran and Konstaniniyye, limiting support for Kurdish movements on either side of the border, it seems Iran has pulled out of the agreement.\n\nDespite foreign support, it seems unlikely that Mahmuds revolt will succeed as even amongst the Kurdish tribes, few see him as the legitimate ruler of Kurdistan."
 worldnews.429.a:0 "행운을 비네!"
 
-worldnews.430.t:0 "샤트알아랍강을 둘러 싼 전쟁"
-worldnews.430.d:0 "Signed in 1913 under the guidance of the British and Russian attaches to Konstantiniyye and Teheran, the Shatt-al-Arab protocol was supposed to solve the centuries old border conflict between the Ottoman and Persian Empire by delineating the Tigris-Euphrates delta.\n\nClaiming the treaty as unjust and favouring the Ottomans, Iran has issued an ultimatum to the Turks demanding a large swath of land 'to secure Persian interests'. Konstaniniyye has ignored the ultimatum, claiming the 1913 protocols were already too generous. Receiving no answer, Persian troops subsequently started the bombardment of Fao Fortress, initiating open war against the Turks."
+worldnews.430.t:0 "샤트알아랍 강을 둘러싼 전쟁"
+worldnews.430.d:0 "1913년 콘스탄티니예와 테헤란에 대한 영국과 러시아의 지원 하에 체결된 샤트알아랍 조약은 티그리스-유프라테스 삼각주에 대해 기술함으로써 수 세기 동안의 국경 분쟁을 해결하기로 되어 있었습니다.\n\n이란은 이 조약이 오스만에게 유리한 부당 조약이라고 주장하면서, '페르시아의 이익을 확보하기 위해' 더 넓은 영토를 요구하는 최후통첩을 터키인들에게 보냈습니다. 콘스탄티니예는 1913년의 조약이 충분히 관대했다고 주장하며 최후통첩을 무시했습니다. 아무런 답장을 받지 못한 페르시아군은 포 요새에 포격을 시작하였고, 터키에 공식적으로 선전포고하였습니다."
 worldnews.430.a:0 "역사책을 위한 또 하나의 페르시아-오스만 전쟁이라..."
 
 worldnews.431.t:0 "라쉬디 에미르국의 함락"
@@ -1463,7 +1463,7 @@ worldnews.439.d:0 "Long divided into two distinct political entities: the Imamat
 worldnews.439.a:0 "무스카트가 정말 또다른 성과를 거둘 수 있을까?"
 
 worldnews.440.t:0 "이크완 반란"
-worldnews.440.d:0 "Openly declaring their revolt for the restoration of true Islamic rule as defined by the Wahabbist preachers, a coalition of various Arab tribal leaders have bound together in opposition of their suzerain in the hopes of breaking the central power of the state and restoring the decentralised fiefdoms of old. Although there has reportedly been an agreement concerning the future ownership of the various Arab provinces, few expect the fragile alliance to survive a possible victory in their Jihad."
+worldnews.440.d:0 "와하브 설교단에 의해 정의된 진정한 이슬람 통치의 회복을 위한 반란을 공공연히 선언하면서, 다양한 아랍 부족 지도자들은 국가 중심 권력을 깨고 오래된 지방의 절대적인 지배권을 회복하기 위한 희망으로 모여들었습니다. 보도에 따르면 아랍 여러 지방의 소유에 관한 합의가 있었다고 하지만, 이 미약한 동맹이 지하드에서 승리할 것이라 생각하는 사람은 거의 없습니다."
 worldnews.440.a:0 "네 처자식을 숨겨라, 이크완이 여기 있나니!"
 
 worldnews.441.t:0 "아시리아의 독립 선언"
@@ -1471,7 +1471,7 @@ worldnews.441.d:0 "In response to the Ottoman decision to abolish the Assyrian L
 worldnews.441.a:0 "이게 아시리아 민중에게 새로운 시작임을 의미할까?"
 
 worldnews.442.t:0 "러시아-오스만 조약"
-worldnews.442.d:0 "Stunning the observers from all across the world, the hitherto top secret Russo-Ottoman Convention was activated tonight as the Russian bear embarked on its war of reclamation in Eastern Europe. The Pact, whose details remain secret even as of today, reportedly includes the division of the Middle East, Central Asia and the Caucasus in Ottoman and Russian spheres of influence and includes a non-aggression pact between Moscow and Constantinople.\n\nAlthough the temporary alliance between the two powers comes as a surprise, observers have already been quick to note that it is unlikely to survive very long, as the centuries-old rivals are bound to end up at war eventually."
+worldnews.442.d:0 "전세계를 놀라게 한 러시아-오스만 조약은 러시아라는 곰이 동유럽 정복 전쟁에 나서면서 오늘 밤 효력을 발휘했습니다. 아직까지도 구체적인 내용이 비밀에 부쳐져있는 이 조약은 러시아와 오스만 세력권의 중동, 중앙아시아, 코카서스 분할과 모스크바-콘스탄티노플 간의 불가침 조약을 포함하고 있는 것으로 알려졌습니다.\n\n비록 두 강대국 간의 일시적인 동맹은 놀라운 것이지만, 세계는 이미 수 세기 동안 지속되어 온 두 국가 간의 경쟁이 결국 전쟁을 일으킬 것이기에 오래 유지되지 않을 것임을 빠르게 알아차렸습니다."
 worldnews.442.a:0 "가장 충격적인 전개다."
 
 worldnews.443.t:0 "프랑스 통일주의자들의 왕정복고"
@@ -1499,24 +1499,24 @@ worldnews.446.b:0 "군정은 일시적인 것이 아니었나?"
 worldnews.446.c:0 "프랑스는 항상 강력한 통치가 필요하다."
 
 worldnews.447.t:0 "망명 프랑스의 승리"
-worldnews.447.d:0 "After two decades, the fires of revolution have once and for all been extinguished. Despite overwhelming odds the French exiles have successfully retaken the Métropole. Thanks to the cooperation of their allies and an incredible national mobilisation effort, they have outmaneuvered those who stood in their way. Immense celebrations are being planned, particularly in Paris where a parade on the Champs-Élysées for troops of the whole Entente will take place. However, the French people remain deeply divided: some welcome the exiles as liberators, others lament the fall of the Commune, and most are simply in shock, exhausted by the war, their lives upended for the second time in a generation: this civil war is only nominally over, the wounds it opened will take many years to heal."
+worldnews.447.d:0 "20년이 지난 후, 혁명의 불꽃은 완전히 꺼져버렸습니다. 엄청난 역경에도 불구하고 망명 프랑스는 성공적으로 본토를 수복했습니다. 동맹국들의 협력과 믿을 수 없을 정도의 국가적 동원 덕분에, 그들은 그들을 막아서던 적들을 쓰러트렸습니다. 거대한 기념행사가 계획되고 있는데, 특히 파리에서는 모든 협상국 군대를 위한 샹젤리제 퍼레이드가 열릴 것입니다. 하지만 프랑스인들은 여전히 깊게 분열되어 있습니다. 일부는 해방자로서의 망명자들을 환영하고, 또 다른 일부는 코뮌의 멸망을 슬퍼하며, 대부분의 프랑스인들은 그들의 삶을 두 번째로 뒤흔들어 놓은 전쟁으로 인해 지쳤고, 충격에 빠져 있습니다. 내전은 명목상으로 끝났을 뿐이고 이 상처가 회복되려면 수 년은 족히 걸릴 것입니다."
 worldnews.447.a:0 "비극이로다."
 worldnews.447.b:0 "마침내 끝났구나."
 worldnews.447.c:0 "모든 혁명가는 같은 운명을 맞이하지."
 
 worldnews.448.t:0 "망명 프랑스의 귀환"
-worldnews.448.d:0 "After two decades, the fires of revolution have once and for all been extinguished. Despite overwhelming odds the French exiles have successfully retaken part of the Métropole thanks to the cooperation of their allies and an incredible national mobilisation effort. Immense celebrations are being planned, particularly in Marseille where a parade for troops of the whole Entente will take place. However, the French people remain deeply divided: some welcome the exiles as liberators, others lament the fall of the Commune, and most are simply in shock, exhausted by the war, their lives upended for the second time in a generation: this civil war is only nominally over, the wounds it opened will take many years to heal. Furthermore, the national territory of France remains disunited: already, the seeds of future conflict are being sown."
+worldnews.448.d:0 "20년이 지난 후, 혁명의 불꽃은 완전히 꺼져버렸습니다. 엄청난 역경에도 불구하고 망명 프랑스는 성공적으로 본토의 일부를 수복했습니다. 동맹국들의 협력과 믿을 수 없을 정도의 국가적 동원 덕분에, 그들은 그들을 막아서던 적들을 쓰러트렸습니다. 거대한 기념행사가 계획되고 있는데, 마르세유에서 모든 협상국 군대를 위한 퍼레이드가 열릴 것입니다. 하지만 프랑스인들은 여전히 깊게 분열되어 있습니다. 일부는 해방자로서의 망명자들을 환영하고, 또 다른 일부는 코뮌의 멸망을 슬퍼하며, 대부분의 프랑스인들은 그들의 삶을 두 번째로 뒤흔들어 놓은 전쟁으로 인해 지쳤고, 충격에 빠져 있습니다. 내전은 명목상으로 끝났을 뿐이고 이 상처가 회복되려면 수 년은 족히 걸릴 것입니다. 게다가 프랑스의 국토는 여전히 분열되어 있으며 이미, 미래의 분쟁의 씨앗이 뿌려지고 있습니다."
 worldnews.448.a:0 "비극이로다."
 worldnews.448.b:0 "마침내 끝났구나."
 worldnews.448.c:0 "모든 혁명가는 같은 운명을 맞이하지."
 
 worldnews.449.t:0 "제5차 발칸 전쟁"
-worldnews.449.d:0 "Although Serbia was defeated in the Weltkrieg and occupied by Austria for almost a decade, they were not crushed forever. Having defeated their enemies in Bulgaria and retaken Montenegro and Macedonia, [SER.GetNameDef] looked towards the Southern Slavic lands of the Austro-Hungarian Empire. Alongside their allies in Romania and Eastern Europe, the Serbians have now issued Austria-Hungary with an ultimatum to turn over all of their claimed territories to them. The Monarchy has naturally refused, and so the Austrians are once again at war with Serbia. Only time will tell if they will prevail once again, or if the Empire will collapse beneath the weight of its internal and external enemies."
+worldnews.449.d:0 "비록 세르비아가 세계대전에서 패배하고 오스트리아에게 10년 동안 점령당했지만, 그들은 영원히 무너져있지 않았습니다. 그들의 적인 불가리아를 물리치고 몬테네그로와 마케도니아를 탈환했으며, [SER.GetNameDef](은)는 오스트리아-헝가리 제국의 남슬라브 영토를 바라보고 있습니다. 루마니아와 동유럽의 동맹국들과 함께, 세르비아인들은 이제 오스트리아-헝가리에게 영토를 넘겨주라는 최후통첩을 보냈습니다. 제국은 당연히 거부했으며, 오스트리아인들은 다시 한번 세르비아와 전쟁을 치르고 있습니다. 그들이 다시 한번 승리할 것인지, 아니면 제국이 내부와 외부의 적에게 짓눌려 무너질 것인지는 시간이 지나야 알 수 있을 것입니다."
 worldnews.449.a:0 "화약고가 다시금 폭발했다."
 worldnews.449.b:0 "자유가 아니면 죽음을!"
 worldnews.449.c:0 "우리가 무서워 해야하나?"
 
 worldnews.450.t:0 "제6차 발칸 전쟁"
-worldnews.450.d:0 "With the defeat of Austria-Hungary at the hands of the Belgrade Pact, the winners began to squabble amongst themselves like they did after the First Balkan War. There are many unsolved questions - West Banat, the Adriatic Coast - and the unstated aim of Balkan dominance shared by the Romanian and the Serbian governments. Once again a war in the Balkans has broken out, and only time will tell who will prevail and draw the map of the region for years to come."
+worldnews.450.d:0 "베오그라드 조약에게 오스트리아-헝가리가 패배하면서, 승자는 제1차 발칸 전쟁때처럼 그들끼리 말다툼을 시작했습니다. 서바나트, 아드리아 해안, 루마니아 정부와 세르비아 정부가 공유하고 있는 무언의 발칸 지배 목표 등 풀리지 않는 의문점이 많습니다. 다시 한번 발칸 반도에서 전쟁이 일어났고, 오직 시간만이 누가 승리할 것이고, 앞으로 몇 년 동안 이 지역의 지도를 그릴 수 있는 게 누구인지 말해줄 것입니다."
 worldnews.450.a:0 "계속되잖아!"
 worldnews.450.b:0 "우리의 조국은 통일되리라!"
