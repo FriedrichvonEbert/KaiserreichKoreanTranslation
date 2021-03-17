@@ -264,8 +264,8 @@ npa_faction:0 "호국동맹" #National Protection Alliance
 NRF_faction:0 "국민혁명전선" #National Revolutionary Front
 pacification_faction:0 "안국군" #National Pacification Army
 polukr_faction:0 "생디칼리슴 인테르마리움" #Syndicalist Intermarium
-Qing_faction:0 "대청제국" #Qing Empire
-qing_sphere_faction:0 "대청세력권" #Qing Sphere
+Qing_faction:0 "대청국" #Qing Empire
+qing_sphere_faction:0 "대청국 권역" #Qing Sphere
 SA_socialist_states:0 "남미 사회주의 국가연맹" #South American Socialist States
 SA_dismantle_patagonia:0 "안데시아 해체동맹" #Coalition to Dismantle Andesia
 Scandinavian_Pact:0 "스칸디나비아 협약" #Scandinavian Pact
