@@ -133,7 +133,7 @@ worldnews.36.t:0 "프랑스의 선거 교착"
 worldnews.36.d:0 "프랑스 코뮌은 세계 생디칼리스트의 주도 국가이며, 도시 공동체(코뮌)의 연합체로서 공안위원회가 이끌고 있습니다. 그러나 창립 이래로 제2코뮌은 그 정책에서 통일된것이 아니었습니다. 많은 진영이 생겨났고, 각 진영마다 프랑스가 취해야 할 경로에 대한 자신만의 아이디어가 있었습니다. 독일에 대한 복수와 세계혁명의 시간이 다가옴에 따라 1936년 노동총동맹 선거는 매우 중요하게 되었습니다... \n\n 4개의 파벌 중 누구도 다수석을 얻지 못했습니다. 선거 전과 마찬가지로 연정이 설립되어야 하지만, 코뮌의 정치 형태는 어떻게 변할지는 공안위원회에 있는 사람들만이 알고 있습니다."
 worldnews.36.a:0 "흥미롭군."
 
-worldnews.37.t:0 "제4차 발칸전쟁"
+worldnews.37.t:0 "제4차 발칸 전쟁"
 worldnews.37.d:0 "세계대전 이후 불가리아인들이 거주하는 모든 영토와 그 주변 영토를 통합한 결과, 발칸반도의 거인이라 불리는 불가리아가 재탄생했습니다. 모든 불가리아인들을 위한 이 왕국은 세계대전에서 세르비아, 그리스, 루마니아를 패배시키면서 유혈과 전쟁 속에서 태어났고, 이 세 국가의 움직임은 오늘날에도 여전히 불가리아에게 적대적입니다. \n\n이 긴장은 베오그라드 협약의 형성으로 이어졌고, 발칸 국가들의 이 동맹은 이제 차르국에 대한 전쟁을 선포함으로써 이 지역은 다시 전쟁 속으로 빠져버렸습니다. [BUL.GetLeader](은)는 이 압도적인 힘에서 자신의 나라를 구할 수 있을까요? 아니면 그의 왕국은 다시 한 번 나뉠까요?"
 worldnews.37.d.bulgaria:0 "세계대전 이후 불가리아인들이 거주하는 모든 영토와 그 주변 영토를 통합한 결과, 발칸반도의 거인이라 불리는 불가리아가 재탄생했습니다. 모든 불가리아인들을 위한 이 왕국은 세계대전에서 세르비아, 그리스, 루마니아를 패배시키면서 유혈과 전쟁 속에서 태어났고, 이 세 국가의 움직임은 오늘날에도 여전히 불가리아에게 적대적입니다. \n\n이 긴장은 베오그라드 협약의 형성으로 이어졌지만, 그들이 행동하기도 전에 불가리아가 주도권을 쥐고 조약 전체에 선전포고를 함으로써 이 지역은 다시 전쟁 속으로 빠져버렸습니다. [BUL.GetLeader](은)는 이 압도적인 힘에서 자신의 나라를 구할 수 있을까요? 아니면 그의 왕국은 다시 한 번 나뉠까요?"
 worldnews.37.a:0 "발칸은 왜 항상 전쟁이 일어나는 거지?"
@@ -723,7 +723,7 @@ worldnews.195.d.juliana:0 "In an astonishing sequence of events by Dutch standar
 worldnews.195.a:0 "유럽의 군주가 또 한 명 사라지는구나."
 
 worldnews.196.t:0 "베이루트 조약"
-worldnews.196.d:0 "중동지역에서 벌어진 잔인한 충돌 후 오스만 제국은 국제 사회에 상당한 충격으로 다가온 승리로 경쟁자들을 물리치고 카이로 조약을 무너뜨리는 데 성공했습니다.\n\n 세계대전에서 승리한 측면에도 불구하고 내분, 고질적인 부패, 그리고 열악한 군사 구조들로 인해, 숭고한 터키 정부가 이웃들의 공격 앞에서 살아남을 수 있는 능력을 가지고 있다고 믿는 사람은 거의 없었습니다. 이집트 지도부와 다른 조약 회원들이 베이루트에서 평화조약에 서명함에 따라, 동방의 상황이 변했다는 것이 명백해졌습니다. 오스만 가문은 또 다른 하루를 더 살아가기 위해 싸우며 살아갑니다."
+worldnews.196.d:0 "중동지역에서 벌어진 잔인한 충돌 후 오스만 제국은 국제 사회에 상당한 충격으로 다가온 승리로 경쟁자들을 물리치고 카이로 협약을 무너뜨리는 데 성공했습니다.\n\n 세계대전에서 승리한 측면에도 불구하고 내분, 고질적인 부패, 그리고 열악한 군사 구조들로 인해, 숭고한 터키 정부가 이웃들의 공격 앞에서 살아남을 수 있는 능력을 가지고 있다고 믿는 사람은 거의 없었습니다. 이집트 지도부와 다른 조약 회원들이 베이루트에서 평화조약에 서명함에 따라, 동방의 상황이 변했다는 것이 명백해졌습니다. 오스만 가문은 또 다른 하루를 더 살아가기 위해 싸우며 살아갑니다."
 worldnews.196.a:0 "'환자'의 생명은 아직 끊어지지 않았다."
 
 worldnews.197.t:0 "일본 제국의 몰락"
@@ -891,11 +891,11 @@ worldnews.236.t:0 "공사관 도시의 붕괴"
 worldnews.236.d:0 "Disturbing news has come from Shanghai of the total collapse of the rule of the Legation Council. This news comes on the heels of earlier reports detailing how several unwise financial choices lead to a devastating lack of economic confidence in the Legation Cities, and ultimately the Legation Cities' bankruptcy. Now the powers that formerly made up the Legation Council have all withdrawn from the institution, and many, primarily the Japanese, Germans, and British, have sent in troops to protect their concessions from the approaching Chinese forces. The Shanghai Municipal Council has assumed control of Shanghai and its former neutral region, but the city is now little more than a prize for the great powers, and there are ongoing fights between German- and Japanese-backed Chinese troops in the streets."
 worldnews.236.a:0 "중국은 더더욱 분열된다."
 
-worldnews.237.t:0 "공사관 위원회에서 퇴출된 일본"
+worldnews.237.t:0 "공사관위원회에서 퇴출된 일본"
 worldnews.237.d:0 "Today, the Legation Council removed [JAP.GetNameDef] from their proceedings and confiscated their formal Chinese concessions. High Commissioner [LEC.GetLeader] justified these actions to the world in a formal statement several days ago, as these proceedings were still ongoing. ‘The Empire of Japan has proven to be a bad actor in China,’ he said. ‘They have on numerous occasions showed themselves detrimental to Asian peace.’ A formal Japanese response has not yet been issued, but when it comes it will surely be vitriolic, and an attack on the Legation Cities by Tokyo is not out of the question. Whatever may come, it seems the Legation Cities have failed in their role as a peacekeeper in the Far East."
 worldnews.237.a:0 "이런 결과를 예상했어야지."
 
-worldnews.238.t:0 "공사관 위원회에서 퇴출된 독일"
+worldnews.238.t:0 "공사관위원회에서 퇴출된 독일"
 worldnews.238.d:0 "Today, the Legation Council removed [GER.GetNameDef] from their proceedings and confiscated their formal Chinese concessions. This drastic action comes in the wake of a hard turn against Germany in the Cities, following an overall retreat of their influence in China. The Legation Council has issued an explanatory statement elaborating on their decision. It states that the Germans have clearly violated the provisions of the Beijing Treaty, and that they are no longer a reliable actor in China. The Germans have denounced the action, and an attack by the Kaiserliche Marine may be forthcoming. Whatever may come, it seems the Legation Cities have failed in their role as a peacekeeper in the Far East."
 worldnews.238.a:0 "극동이 더욱 불안정해졌군."
 
@@ -920,7 +920,7 @@ worldnews.242.d:0 "With China largely under the control of Chen Jiongming's Nati
 worldnews.242.a:0 "중국에 민주주의가 뿌리내릴 수 있을까?"
 worldnews.242.b:0 "천중밍과 공화국 만세!"
 
-worldnews.243.t:0 "불평등 조약의 파기"
+worldnews.243.t:0 "불평등조약의 파기"
 worldnews.243.d:0 "The Foreign Ministry of the United Provinces of China announced the nullification of all unequal treaties with China. Chen Jiongming and the Public Interest Party had called for the unilateral end of these treaties since the 1920s and it appears that the UPC has gone through with that promise. This is serious shift in international diplomacy, one that is likely to cause a serious rift between China and the European colonial powers. However, with the West's power at an all-time low in the Far East, the new Chinese government has taken the chance to reassert itself on the world stage as it seeks an end to what they call the \"Century of Humiliation\", hoping to negotiate new \"equal\" treaties with the great European powers as China marches into the modern world with renewed confidence."
 worldnews.243.a:0 "중국이 다시 일어서고 있구나."
 
@@ -1018,7 +1018,7 @@ worldnews.257.c:0 "지브롤터의 바위가 함락된 것인가?"
 worldnews.258.t:0 "리스본 함락"
 worldnews.258.d:0 "리스본으로부터의 보고에 따르면 [old_controller.GetAdjective] 도시가 세라 드 몬산토와 타구스 강 입구를 향한 빠른 전투 이후 [new_controller.GetAdjective] 군대에 의해 점령되었다고 합니다. [old_controller.GetAdjective] 군대는 가능한 한 오랫동안 [new_controller.GetAdjective] 군대를 지연시키기를 바라면서 완강히 저항했으나, 결국 격퇴되었습니다.\n\n리스본에 대한 싸움은 [old_controller.GetAdjective] 수비대들이 리스본의 다리를 의도적으로 파괴하여 공격자들이 그 도시를 완전히 점령하기 위해 강 건너편으로 몰려들도록 강요했기 때문에 복잡했습니다. 코메르시우 광장에서 [new_controller.GetAdjective] 군대가 산허리에 남아있는 모든 [old_controller.GetAdjective] 병사들의 항복을 요구하며 기념식이 열렸습니다."
 worldnews.258.a:0 "우리는 끝까지 싸울 것이다!"
-worldnews.258.b:0 "마침내, 리스본이 우리 통제 하에 있다."
+worldnews.258.b:0 "마침내, 리스본이 우리 통제하에 있다."
 worldnews.258.c:0 "그렇군..."
 
 worldnews.259.t:0 "시카고 함락"
@@ -1517,6 +1517,6 @@ worldnews.449.b:0 "자유가 아니면 죽음을!"
 worldnews.449.c:0 "우리가 무서워 해야하나?"
 
 worldnews.450.t:0 "제6차 발칸 전쟁"
-worldnews.450.d:0 "베오그라드 조약에게 오스트리아-헝가리가 패배하면서, 승자는 제1차 발칸 전쟁때처럼 그들끼리 말다툼을 시작했습니다. 서바나트, 아드리아 해안, 루마니아 정부와 세르비아 정부가 공유하고 있는 무언의 발칸 지배 목표 등 풀리지 않는 의문점이 많습니다. 다시 한번 발칸 반도에서 전쟁이 일어났고, 오직 시간만이 누가 승리할 것이고, 앞으로 몇 년 동안 이 지역의 지도를 그릴 수 있는 게 누구인지 말해줄 것입니다."
+worldnews.450.d:0 "베오그라드 협약에 오스트리아-헝가리가 패배하면서, 승자는 제1차 발칸 전쟁처럼 그들끼리 말다툼을 시작했습니다. 서바나트, 아드리아 해안, 루마니아 정부와 세르비아 정부가 공유하고 있는 무언의 발칸 지배 목표 등 풀리지 않는 의문점이 많습니다. 다시 한번 발칸반도에서 전쟁이 일어났고, 오직 시간만이 누가 승리할 것이고, 앞으로 몇 년 동안 이 지역의 지도를 그릴 수 있는 게 누구인지 말해줄 것입니다."
 worldnews.450.a:0 "계속되잖아!"
 worldnews.450.b:0 "우리의 조국은 통일되리라!"
