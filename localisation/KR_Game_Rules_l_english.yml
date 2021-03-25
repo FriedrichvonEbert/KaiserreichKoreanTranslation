@@ -1115,7 +1115,7 @@ RULE_OPTION_FNG_CONFEREENCE_FAIL_DESC:0 "Fengtian's attempt at shoring legitimac
 RULE_OPTION_FNG_CONFEREENCE_AGREE:0 "£GFX_KR_game_rule_flag_ROC   장쭤린의 협상 시도"
 RULE_OPTION_FNG_CONFEREENCE_AGREE_DESC:0 "Zhang Zoulin will attempt to accommodate the demands of most conference memebers, though it's not guaranteed he will reach out to the Federalists, nor that the conference will succeed.\n\n§ONOTE:§! §YThis game rule merely increases the chance of the conference succeeding, but does not guarantee it - there still need to be enough cliques that side with Fengtian for it to work out.§!"
 RULE_OPTION_FNG_CONFEREENCE_FEDS:0 "£GFX_KR_game_rule_flag_ROC    £KR_game_rule_flag_GXC   연성주의자와의 타협"
-RULE_OPTION_FNG_CONFEREENCE_FEDS_DESC:0 "Zhang Zoulin will attempt to reach out and make a compromise with the Federalists and with Song Qingling if possible, though it is not guaranteed that the conference as a whole will succeed.\n\n§RRequires:§!\n§CFederalist Guangdong§! in £KR_game_rule_flag_GXC   §YLiangguang Civil War§!  or a £KR_game_rule_flag_SZC  Federalist Sichuan!\n\n§ONOTE:§! §YThis game rule merely increases the chance of the conference succeeding, but does not guarantee it - there still need to be enough cliques that side with Fengtian for it to work out.§!"
+RULE_OPTION_FNG_CONFEREENCE_FEDS_DESC:0 "회의 전체가 성공할지 장담할 수 없지만, 장쭤린은 가능하면 연성주의자들 그리고 쑹칭링과 타협을 시도할 것입니다.\n\n§R다음이 필요:§!\n £KR_game_rule_flag_GXC   §Y양광 내전§!에서 §C연성주의자의 광동§! 또는 a £KR_game_rule_flag_SZC  연성주의 사천!\n\n§O참고:§! §Y이 게임 규칙은 회의가 성공할 가능성을 높여줄 뿐이며, 완전히 보장하지는 않습니다. 회의가 잘 되려면 봉천의 편인 군벌들이 충분하여야 합니다.§!"
 
 LEC_PATH:0 "£KR_game_rule_flag_LEC   공사관 도시"
 RULE_OPTION_LEC_DEFAULT:0 "기본값"
@@ -1145,8 +1145,8 @@ RULE_OPTION_SQI_DEFAULT_DESC:0 "AI는 일반적인 기회 기반 시스템을 �
 RULE_OPTION_SQI_ZHONGCHANG:0 "£KR_game_rule_flag_SQI   장쭝창의 생존"
 RULE_OPTION_SQI_ZHONGCHANG_DESC:0 "장쭝창은 살아남고 그의 부패한 통치는 계속 될 것입니다."
 RULE_OPTION_SQI_TIANRAN:0 "£KR_game_rule_flag_SQI_natpop   일관도의 정권탈취"
-RULE_OPTION_SQI_TIANRAN_DESC:0 "장톈란의 일관도는 장쭝창을 축출하고 지복천년설에 따라 성을 개편할 겁니다."
-RULE_OPTION_SQI_SONG:0 "£KR_game_rule_flag_SQI_song   쑹저위안의 정권탈취"
+RULE_OPTION_SQI_TIANRAN_DESC:0 "장톈란의 일관도는 장쭝창을 축출하고 지복천년설에 따라 성을 개편할 것입니다."
+RULE_OPTION_SQI_SONG:0 "£KR_game_rule_flag_SQI_song   쑹저위안의 정권 탈취"
 RULE_OPTION_SQI_SONG_DESC:0 "쑹저위안은 장쭝창을 축출하고 청나라에 협력할 것입니다."
 
 TIB_PATH:0 "£KR_game_rule_flag_TIB   티베트"   
@@ -1167,11 +1167,11 @@ RULE_OPTION_GXC_KMT_RKMT_DESC:0 "리쭝런은 마지의 구광서군벌을 성�
 RULE_OPTION_GXC_KMT_OLDG:0 "£KR_game_rule_flag_GXC_OLDG   구광서군벌의 승리"
 RULE_OPTION_GXC_KMT_OLDG_DESC:0 "리쭝런의 침공이 격퇴되고 구광서군벌이 정권을 유지했습니다. 광서와 광동 사이의 내전이 발발할 것입니다."
 
-GXC_GNG_PATH:0 "£KR_game_rule_flag_GXC   양광 - 내전" 
+GXC_GNG_PATH:0 "£KR_game_rule_flag_GXC   양광 내전" 
 RULE_OPTION_GXC_GNG_DEFAULT:0 "기본값"
 RULE_OPTION_GXC_GNG_DEFAULT_DESC:0 "AI는 일반적인 기회 기반 시스템을 통해 경로를 선택하게 됩니다."
 RULE_OPTION_GXC_GNG_FED:0 "£KR_game_rule_flag_GXC   연성주의자의 광동"
-RULE_OPTION_GXC_GNG_FED_DESC:0 "Chen Jiongming leads Guangdong in the civil war against the winner of Guangxi."
+RULE_OPTION_GXC_GNG_FED_DESC:0 "천중밍은 내전에서 광서의 지배자와 대항하여 광동을 이끕니다."
 RULE_OPTION_GXC_GNG_MER:0 "£KR_game_rule_flag_GXC_MER   상인단의 광동"
 RULE_OPTION_GXC_GNG_MER_DESC:0 "Chen Jiongming is assassinated in Nanning by Ma Ji. Chen Lianbo seizes power in the subsequent power vacuum.\n\n§RRequires:§!\n§COld Guangxi Clique Victory§! in £KR_game_rule_flag_GXC   §YThe Invasion of Guangxi§!"
 RULE_OPTION_GXC_GNG_LKMT:0 "£KR_game_rule_flag_GXC_LKMT   국민당 좌파의 광동"
