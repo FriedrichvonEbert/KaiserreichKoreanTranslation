@@ -17,12 +17,12 @@ SCO_social_conservative_party:0 "연합당"
 SCO_social_conservative_party_long:0 "연합당"
 SCO_authoritarian_democrat_party:0 "스코틀랜드 국민당 (우익)"
 SCO_authoritarian_democrat_party_long:0 "스코틀랜드 국민당 (우익)"
-SCO_paternal_autocrat_party:0 "Council of State"
-SCO_paternal_autocrat_party_long:0 "Council of State" 
+SCO_paternal_autocrat_party:0 "국가의회"
+SCO_paternal_autocrat_party_long:0 "국가의회" 
 SCO_paternal_autocrat_party2:0 "독일 동조자"
 SCO_paternal_autocrat_party_long2:0 "독일 동조자" 
-SCO_national_populist_party:0 "Fringe Nationalists"
-SCO_national_populist_party_long:0 "Fringe Nationalists"
+SCO_national_populist_party:0 "프린지 국민주의자"
+SCO_national_populist_party_long:0 "프린지 국민주의자"
 
 ### Leaders ###
 
