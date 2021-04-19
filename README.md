@@ -1,13 +1,14 @@
 
 # Kaiserreich 한국어 번역 공지사항
 ## [Kaiserreich 한국어 번역](https://steamcommunity.com/sharedfiles/filedetails/?id=2098453801)은 공개 번역으로 진행됩니다.
-- 따라서 누구든지 Github 가입 후 자유롭게 참여하실 수 있습니다! 
 - 번역팀 디스코드 주소 : https://discord.gg/JwxDFmRv6a
-### [0.16.1 패치노트](https://www.reddit.com/r/Kaiserreich/comments/l9llyi/kaiserreich_beta_0161_is_out/)
-- 21.02.02 기준 한국어 번역의 0.16.1 호환 작업이 완료되었습니다.
+### [0.17 패치노트](https://www.reddit.com/r/Kaiserreich/comments/mswyzz/kaiserreich_017_springtime_for_kaiser/)
+- 21.04.19 기준 한국어 번역의 0.17 호환 작업이 완료되었습니다.
 ***
 
-## 번역 방법 [(이 곳을 눌러 이동)](https://github.com/skullbe/Kaiserreich-Korean-Translation/wiki/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%A0%80%EC%9E%A5%EB%B2%95)
+## 번역 방법 
+- 21년 4월부로 앞으로의 번역 작업은 유로파카페와 같이 [Pontoon](https://translate.readingsnail.pe.kr/ko/)에서 진행됩니다.
+- 
 ### 안내 및 경고
 - 카이저라이히는 아직 BETA 단계이므로 계속 문법/단어 수정이 이뤄지고 있습니다. 번역하려는데 문장이 이상하다고 생각하신다면 재량에 따라 의역하셔도 됩니다.
 - **[단어사전](단어사전.md)** 을 지켜주시며 본문 수정 부탁드립니다.
