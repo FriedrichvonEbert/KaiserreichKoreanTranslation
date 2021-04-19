@@ -1,95 +1,59 @@
 ﻿l_english:
-
-### Parties ###
-LAT_totalist_party:0 "라트비아 사회민주당"
-LAT_totalist_party_long:0 "라트비아 사회민주당"
-LAT_syndicalist_party:0 "라트비아 노동조합 중앙국"
-LAT_syndicalist_party_long:0 "라트비아 노동조합 중앙국"
-LAT_radical_socialist_party:0 "라트비아 사회민주당"
-LAT_radical_socialist_party_long:0 "라트비아 사회민주당"
-LAT_social_democrat_party:0 "라트비아 사회민주노동자당"
-LAT_social_democrat_party_long:0 "라트비아 사회민주노동자당"
-LAT_social_liberal_party:0 "노동당"
-LAT_social_liberal_party_long:0 "노동당"
-LAT_market_liberal_party:0 "신농민연합"
-LAT_market_liberal_party_long:0 "라트비아 신농민연합"
-LAT_social_conservative_party:0 "농민연합"
-LAT_social_conservative_party_long:0 "라트비아 농민연합"
-LAT_authoritarian_democrat_party:0 "라트비아 향토방위군-파르티잔 협회"
-LAT_authoritarian_democrat_party_long:0 "라트비아 향토방위군-파르티잔 협회"
-LAT_paternal_autocrat_party:0 "라트비아 향토방위군-파르티잔 협회"
-LAT_paternal_autocrat_party_long:0 "라트비아 향토방위군-파르티잔 협회"
-LAT_national_populist_party:0 "불십자"
-LAT_national_populist_party_long:0 "라트비아 민족협회 “불십자” "
-
-### Leaders ###
-
-### Opinions ###
-
-### Events ###
-
-lat.1.t:0 "Bittersweet Victory"
-lat.1.d:0 "Explains Latvia's history, their war of resistance, and that they couldn't quite get Riga."
-lat.1.a:0 "Latvians, never forget Riga!"
-
-lat.2.t:0 "Dual Rule in Latvia"
-lat.2.d:0 "Explains that Latvia is divided between nationalists in the east and socialists in the west, and the two are challenging each other's authority. A convention is being held, but nobody recognizes it."
-lat.2.a:0 "There can only be one regime in Latvia."
-
-lat.3.t:0 "Manteuffel's Insurgency"
-lat.3.d:0 "Manteuffel is fighting a war of resistance in Livland, will he succeed?"
-lat.3.a:0 "The resistance is destroyed!"
-lat.3.b:0 "The resistance storms Valmiera!"
-
-lat.4.t:0 "Kurelis's Latvia"
-lat.4.d:0 "Kurelis defeats Manteuffel, dissolves the Convention, defeats Iskolat."
-lat.4.a:0 "Latvia for Latvians!"
-
-lat.5.t:0 "Peterss's Latvia"
-lat.5.d:0 "Manteuffel wins in Valmiera, but his win is short-lived and the Iskolat kicks him out."
-lat.5.a:0 "Now we build real socialism!"
-
-lat.6.t:0 "Latvia wishes to join the Third Internationale"
-lat.6.d:0 "We have received a diplomatic message from our comrades in Eastern Europe - Latvia, also known as the Iskolat Republic, wishes to finally put an end to their enforced neutrality and join the Third Internationale as an equal partner. Should we accept the Latvian Leninists into the worldwide Syndicalist community?"
-lat.6.a:0 "Of course!"
-lat.6.b:0 "We'd rather not."
-
-lat.7.t:0 "We are accepted"
-lat.7.d:0 "The Internationale has written back at us, accepting our fledgling republic into their alliance."
-lat.7.a:0 "Hurrah!"
-
-lat.8.t:0 "We have been denied"
-lat.8.d:0 "The Internationale has written back at us, informing us that we shall not be accepted into their alliance."
-lat.8.a:0 "Shit"
-
-lat.9.t:0 "The Wind Blows"
-lat.9.d:0 "When the Second Weltkrieg began, the loss of the Baltic German birthright ironically became a sigh of relief. The two states, Latvia and Estonia, served as a neutral bulwark which protected Riga from the full force of the Russian invasion. Despite this, however, the Riga defense forces and their commanders were very well aware that this was merely a brief calm before the storm. Patrols in the surroundings of the city became more frequent, supplies are being stored and secured, a system of food rationing implemented for the average citizens.\n\nAnd then, the first signs came. Increasing Latvian military movement in the surroundings of the city, sometimes even in the range of Rigan artillery outposts - although the German troops opted to not fire upon them just yet. Enemy artillery stationed in the surroundings of the city, preparing to bombard hastily assembled barricades and fortifications. Utter silence from Latvian diplomacy, as if they have forgotten that Riga exists entirely.\n\nBoth sides had something to finish from their last engagements in 1936. The Latvians - to evict the Germans from their homeland at last, to reclaim Riga, their one and only capital. The Baltic Germans - to destroy this insurgency for good, and reclaim their birthright.\n\nA chilling wind blows across the streets of Riga, and with it, follows a barrage of yells, all shouting the same thing."
-lat.9.a:0 "To the barricades!"
-
-### Focuses ###
-
-### Ideas ###
-
-LAT_dualism:0 "이중 지배"
-LAT_dualism_desc:0 "라트비아 공화국은 독일의 재앙에 대항하는 취약한 동맹에 참여한 두 조직과 두 야심가들 사이에서 태어났습니다. 라트비아 게릴라들은 라트비아를 위해 싸웠지만, 그들이 생각하는 라트비아는 사람마다 다릅니다. 어떤 이들은 인정된 지도자 아래에 국가적이고 애국적인 국가를 원하며, 다른 이들은 사회주의적인 이스콜라트(Iskolat)를 우러러봅니다. 이제 독일인들은 쫓겨났기 때문에, 이런 차이점들은 그들 스스로 무너지게 합니다."
-
-LAT_remember_riga:0 "Latvieši, neaizmirstiet Rīgu!"
-LAT_remember_riga_desc:0 "The beating heart of Latvia, its eternal capital, has been stolen away from us - our partisans have failed to secure the city and a “Free City of Riga” now stands on its soil, a constant reminder that our fight with the Baltic Germans is not yet finished. Latvians, never forget Riga!"
-
-### Flags ###
-
-### Tooltips ###
-
-LAT_will_attack_in_two_weeks:0 "Latvia will attack in two weeks!"
-
-### Decisions ###
-
-LAT_attack_riga:0 "Finish the Fight" # temporary decision to patch the Latvia-Riga war until Latvia gets a tree. Can be kept around if wished
-LAT_attack_riga_desc:0 "Mr. Kurelis, may I ask you what you are doing on that tank?\n\n"Sir. Finishing this fight.""
-
-LAT_join_internationale:0 "Join the Third Internationale"
-LAT_return_to_riga:0 "Move the Capital to Riga"
-
-### OOBs ###
-
-### Cosmetic Tags ###
+ LAT_totalist_party:0 "라트비아 사회민주당"
+ LAT_totalist_party_long:0 "라트비아 사회민주당"
+ LAT_syndicalist_party:0 "라트비아 노동조합 중앙국"
+ LAT_syndicalist_party_long:0 "라트비아 노동조합 중앙국"
+ LAT_radical_socialist_party:0 "라트비아 사회민주당"
+ LAT_radical_socialist_party_long:0 "라트비아 사회민주당"
+ LAT_social_democrat_party:0 "라트비아 사회민주노동자당"
+ LAT_social_democrat_party_long:0 "라트비아 사회민주노동자당"
+ LAT_social_liberal_party:0 "노동당"
+ LAT_social_liberal_party_long:0 "노동당"
+ LAT_market_liberal_party:0 "신농민연합"
+ LAT_market_liberal_party_long:0 "라트비아 신농민연합"
+ LAT_social_conservative_party:0 "농민연합"
+ LAT_social_conservative_party_long:0 "라트비아 농민연합"
+ LAT_authoritarian_democrat_party:0 "라트비아 향토방위군-파르티잔 협회"
+ LAT_authoritarian_democrat_party_long:0 "라트비아 향토방위군-파르티잔 협회"
+ LAT_paternal_autocrat_party:0 "라트비아 향토방위군-파르티잔 협회"
+ LAT_paternal_autocrat_party_long:0 "라트비아 향토방위군-파르티잔 협회"
+ LAT_national_populist_party:0 "불십자"
+ LAT_national_populist_party_long:0 "라트비아 민족협회 “불십자”"
+ lat.1.t:0 "달콤씁쓸한 승리"
+ lat.1.d:0 "라트비아의 역사, 저항전쟁, 그리고 리가를 제대로 차지할 수 없었다는 것을 설명합니다."
+ lat.1.a:0 "라트비아인들이여, 리가를 잊지 말라!"
+ lat.2.t:0 "라트비아의 이중통치"
+ lat.2.d:0 "라트비아는 동쪽의 민족주의자들와 서쪽의 사회주의자들로 분열되어 있으며, 양측은 서로의 권위에 대항하였습니다. 협의회가 열리고는 있지만 누구도 공인하지 않았습니다."
+ lat.2.a:0 "라트비아에는 오직 하나의 정권만 존재할 수 있다."
+ lat.3.t:0 "만토이펠의 반란"
+ lat.3.d:0 "만토이펠이 리보니아에서 저항전쟁을 벌이고 있습니다. 과연 성공할 수 있을까요?"
+ lat.3.a:0 "저항이 분쇄되다!"
+ lat.3.b:0 "저항군이 발미에라를 습격했다!"
+ lat.4.t:0 "쿠렐리스의 라트비아"
+ lat.4.d:0 "Kurelis defeats Manteuffel, dissolves the Convention, defeats Iskolat."
+ lat.4.a:0 "라트비아인을 위한 라트비아!"
+ lat.5.t:0 "페테르스의 라트비아"
+ lat.5.d:0 "만토이펠은 발미에라에서 승리하지만, 그의 승리는 오래가지 못하고 이스콜라트가 그를 쫓아냅니다."
+ lat.5.a:0 "이제 우리는 진정한 사회주의를 이룩하리라!"
+ lat.6.t:0 "라트비아가 제3인터내셔널 가입을 원하다"
+ lat.6.d:0 "우리는 동유럽에 있는 동지들로부터 외교적 메시지를 받았습니다. 이스콜라트 공화국으로도 알려진 라트비아는 마침내 그들의 강제적인 중립을 끝내고 제3인터내셔널에 동등한 파트너로 가입하기를 희망합니다. 라트비아의 레닌주의자들을 세계 생디칼리스트 공동체에  받아주어야 할까요?"
+ lat.6.a:0 "물론이지!"
+ lat.6.b:0 "받아들이지 않는 것이 낫겠군."
+ lat.7.t:0 "제3인터내셔널에 가입되다"
+ lat.7.d:0 "인터내셔널이 우리 신생 공화국을 동맹으로 받아들이겠다는 답장을 보내왔습니다."
+ lat.7.a:0 "만세!"
+ lat.8.t:0 "가입을 거부당하다"
+ lat.8.d:0 "인터내셔널이 우리를 동맹으로 받아들이지 않겠다는 답장을 보내왔습니다."
+ lat.8.a:0 "젠장."
+ lat.9.t:0 "바람이 분다"
+ lat.9.d:0 "제2차 세계대전이 시작되었을 때, 발트 독일인의 생득권 상실은 역설적으로 안도의 한숨이 되었습니다. 라트비아와 에스토니아라는 두 국가는 러시아의 침공으로부터 리가를 보호하는 중립의 방벽 역할을 했습니다. 하지만 그럼에도 불구하고, 리가의 방위군과 그들의 지휘관들은 이것이 단지 폭풍 전의 잠깐의 고요일 뿐이라는 것을 매우 잘 알고 있었습니다. 도시 주변 순찰이 잦아지고, 보급품들이 저장되고 확보되고 있으며, 식품들이 일반 시민들에게 배급되고 있습니다.\n\n그리고 나서, 첫 번째 조짐이 나타났습니다. 독일군이 아직 공격하지 않기로 결정했지만, 도시 주변, 때로는 리가 포병 초소까지 라트비아군의 군사적 움직임이 증가하고 있습니다. 적의 포병은 서둘러 바리케이드를 모아 요새를 포격하기 위해 도시 주변에 배치되었습니다. 라트비아 외교의 완전한 침묵은 마치 그들이 리가가 존재한다는 것을 완전히 잊은 것처럼 보입니다.\n\n양측 모두 1936년 마지막 교전에서 끝내야 할 일이 있었습니다. 라트비아인들은 마침내 독일인들을 그들의 고국에서 쫓아내고 그들의 유일한 수도인 리가를 되찾기 위해. 발트 독일인들은 영원히 이 반란을 파괴하고 그들의 생득권을 되찾기 위해.\n\n리가의 거리에는 차가운 바람이 불고, 그 바람과 함께 고함소리가 울려 퍼지고, 모두 같은 소리를 외칩니다."
+ lat.9.a:0 "바리케이드를 향하여!"
+ LAT_dualism:0 "이중 지배"
+ LAT_dualism_desc:0 "라트비아 공화국은 독일의 재앙에 대항하는 취약한 동맹에 참여한 두 조직과 두 야심가들 사이에서 태어났습니다. 라트비아 게릴라들은 라트비아를 위해 싸웠지만, 그들이 생각하는 라트비아는 사람마다 다릅니다. 어떤 이들은 인정된 지도자 아래에 국가적이고 애국적인 국가를 원하며, 다른 이들은 사회주의적인 이스콜라트(Iskolat)를 우러러봅니다. 이제 독일인들은 쫓겨났기 때문에, 이런 차이점들은 그들 스스로 무너지게 합니다."
+ LAT_remember_riga:0 "라트비아인이여, 리가를 잊지 말라!"
+ LAT_remember_riga_desc:0 "라트비아의 살아숨쉬는 심장이자 영원한 수도를 빼앗겼습니다. 우리 파르티잔들이 도시를 장악하는데 실패했고 그 자리에는 '리가 자유시'가 들어섰지만 이는 발트의 독일인들과의 싸움이 아직 끝나지 않았음을 끊임없이 상기시켜 줄 것입니다. 라트비아인이여, 리가를 잊지마라!"
+ LAT_will_attack_in_two_weeks:0 "라트비아가 2주 안에 공격할 것입니다!"
+ LAT_attack_riga:0 "싸움 종결 # temporary decision to patch the Latvia-Riga war until Latvia gets a tree. Can be kept around if wished"
+ LAT_attack_riga_desc:0 "쿠렐리스 씨, 그 탱크에서 무엇을 하고 계신지 여쭤봐도 될까요?"
+ LAT_join_internationale:0 "제3인터내셔널 가입"
+ LAT_return_to_riga:0 "리가로 수도 이전"
