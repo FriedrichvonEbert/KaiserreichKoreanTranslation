@@ -1,8 +1,5 @@
 ﻿l_english:
- #This file is needed in order to allow the vanilla main theme to work alongside the kr one. The game doesnt seem to like loading the theme, having it overwritten then loading the same song under a new name. It leads to broken loc for said song.
- maintheme:0 "Marching Through Georgia"
-
- # HOI4 Soundtrack
+ maintheme:0 "El Pilon"
  main_vanilla:0 "주제곡 - 연합국 (Main Theme - Allies)"
  axis_war_1:0 "추축국 주제곡 (Axis Theme)"
  allies_peace_1:0 "디데이의 아침 (Morning of D-day)"
@@ -25,8 +22,6 @@
  allies_peace_2:0 "여행의 끝 (End of the Tour)"
  comintern_peace_3:0 "러시아의 승리 (Russian Victory)"
  general_peace_2:0 "종전 (The War Ends)"
-
- # HOI2 Soundtrack
  achtungpanzer:0 "전차 앞으로! (Tank forward!)"
  astateofgrace:0 "하느님의 은총 (A State of Grace)"
  happymarch:0 "Happy March"
@@ -43,8 +38,6 @@
  the101stairborne:0 "The 101st Airborne"
  war:0 "전쟁"
  variationsontherussianthem:0 "Variations on the Russian Theme"
-
- # HOI3 Soundtrack
  alliesfaction:0 "Allies Faction"
  alotofseactions:0 "Sea Action"
  axis1march:0 "추축국 행군 (Axis March)"
