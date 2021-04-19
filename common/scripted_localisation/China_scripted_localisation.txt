@@ -36,7 +36,7 @@ defined_text = {
 			tag = QIE
 			QIE = { has_country_flag = QIE_manchu_restoration }
 		}
-		localization_key = "¸¸ÁÖ ÁöµµÀÚ"
+		localization_key = "ë§Œì£¼ ì§€ë„ì"
 	}
 	text = {
 		trigger = {
@@ -51,13 +51,13 @@ defined_text = {
 				}
 			}
 		}
-		localization_key = "Á÷¿¹ ÁöµµÀÚ"
+		localization_key = "ì§ì˜ˆ ì§€ë„ì"
 	}
 	text = {
 		trigger = {
 			tag = FNG
 		}
-		localization_key = "¾È±¹±º ÁöµµÀÚ"
+		localization_key = "ì•ˆêµ­êµ° ì§€ë„ì"
 	}
 	text = {
 		trigger = {
@@ -70,7 +70,7 @@ defined_text = {
 				}
 			}
 		}
-		localization_key = "±¹¹Î´ç ÁÂÆÄ ÁöµµÀÚ"
+		localization_key = "êµ­ë¯¼ë‹¹ ì¢ŒíŒŒ ì§€ë„ì"
 	}
 	text = {
 		trigger = {
@@ -87,13 +87,13 @@ defined_text = {
 				}
 			}
 		}
-		localization_key = "±¹¹Î´ç ¿ìÆÄ ÁöµµÀÚ"
+		localization_key = "êµ­ë¯¼ë‹¹ ìš°íŒŒ ì§€ë„ì"
 	}
 	text = {
 		trigger = {
 			tag = NPA
 		}
-		localization_key = "È£±¹µ¿¸Í ÁöµµÀÚ"
+		localization_key = "í˜¸êµ­ë™ë§¹ ì§€ë„ì"
 	}
 	text = {
 		trigger = {
@@ -108,7 +108,7 @@ defined_text = {
 				}
 			}
 		}
-		localization_key = "¿¬¼ºÁÖÀÇ ÁöµµÀÚ"
+		localization_key = "ì—°ì„±ì£¼ì˜ ì§€ë„ì"
 	}
 
 ###################
@@ -134,32 +134,32 @@ defined_text = {
 			}
 			is_ruled_by_pro_manchu = yes
 		}
-		localization_key = "¸¸ÁÖ °¡¸Í"
+		localization_key = "ë§Œì£¼ ê°€ë§¹"
 	}
 	text = {
 		trigger = {
 			is_in_faction_with = NPA
 		}
-		localization_key = "È£±¹µ¿¸Í ¼Ò¼Ó"
+		localization_key = "í˜¸êµ­ë™ë§¹ ì†Œì†"
 	}
 	text = {
 		trigger = {
 			is_ruled_by_pro_zhili = yes
 		}
-		localization_key = "Á÷¿¹ °¡¸Í"
+		localization_key = "ì§ì˜ˆ ê°€ë§¹"
 	}
 	text = {
 		trigger = {
 			is_ruled_by_pro_fengtian = yes
 		}
-		localization_key = "¾È±¹±º °¡¸Í"
+		localization_key = "ì•ˆêµ­êµ° ê°€ë§¹"
 	}
 	text = {
 		trigger = {
 			is_ruled_by_federalists = yes
 			is_ruled_by_kmt = yes
 		}
-		localization_key = "±¹¹Î´ç °¡¸Í"
+		localization_key = "êµ­ë¯¼ë‹¹ ê°€ë§¹"
 	}
 	text = {
 		trigger = {
@@ -171,7 +171,7 @@ defined_text = {
 		trigger = {
 			is_ruled_by_federalists = yes
 		}
-		localization_key = "¿¬¼ºÁÖÀÇ °¡¸Í"
+		localization_key = "ì—°ì„±ì£¼ì˜ ê°€ë§¹"
 	}
 	text = {
 		trigger = {
@@ -181,7 +181,7 @@ defined_text = {
 			}
 			is_subject = no
 		}
-		localization_key = "µ¶¸³"
+		localization_key = "ë…ë¦½"
 	}
 	text = {
 		trigger = {
@@ -191,10 +191,10 @@ defined_text = {
 			}
 			is_subject = yes
 		}
-		localization_key = "[OVERLORD.GetAdjective]ÀÇ ¼Ó±¹"
+		localization_key = "[OVERLORD.GetAdjective]ì˜ ì†êµ­"
 	}
 	text = {
-		localization_key = "ºñ°¡¸Í"
+		localization_key = "ë¹„ê°€ë§¹"
 	}
 }
 
@@ -219,7 +219,7 @@ defined_text = {
 				state = 728 #Guangzhouwan
 			}
 		}
-		localization_key = "±¤µÕ¼º"
+		localization_key = "ê´‘ë‘¥ì„±"
 	}
 	text = {
 		trigger = {
@@ -231,7 +231,7 @@ defined_text = {
 				state = 1055 #Liujiang
 			}
 		}
-		localization_key = "±¤½Ã¼º"
+		localization_key = "ê´‘ì‹œì„±"
 	}
 	text = {
 		trigger = {
@@ -243,7 +243,7 @@ defined_text = {
 				state = 1063 #Cangzhou
 			}
 		}
-		localization_key = "Áî¸®¼º"
+		localization_key = "ì¦ˆë¦¬ì„±"
 	}
 	text = {
 		trigger = {
@@ -254,7 +254,7 @@ defined_text = {
 				state = 1060 #Hebei
 			}
 		}
-		localization_key = "Çã³­¼º"
+		localization_key = "í—ˆë‚œì„±"
 	}
 	text = {
 		trigger = {
@@ -264,7 +264,7 @@ defined_text = {
 				state = 1049 #Shihe
 			}
 		}
-		localization_key = "ÈÄº£ÀÌ¼º"
+		localization_key = "í›„ë² ì´ì„±"
 	}
 	text = {
 		trigger = {
@@ -273,7 +273,7 @@ defined_text = {
 				state = 1013 #Chenyuan
 			}
 		}
-		localization_key = "ÈÄ³­¼º"
+		localization_key = "í›„ë‚œì„±"
 	}
 	text = {
 		trigger = {
@@ -284,7 +284,7 @@ defined_text = {
 				state = 1075 #Nantong (concession state)
 			}
 		}
-		localization_key = "Àå¾¥¼º"
+		localization_key = "ì¥ì‘¤ì„±"
 	}
 	text = {
 		trigger = {
@@ -294,7 +294,7 @@ defined_text = {
 				state = 1045 #Xuyang
 			}
 		}
-		localization_key = "Àå½Ã¼º"
+		localization_key = "ì¥ì‹œì„±"
 	}
 	text = {
 		trigger = {
@@ -303,7 +303,7 @@ defined_text = {
 				state = 799 #Guanzhong
 			}
 		}
-		localization_key = "»ê½Ã(¼¶¼­)¼º"
+		localization_key = "ì‚°ì‹œ(ì„¬ì„œ)ì„±"
 	}
 	text = {
 		trigger = {
@@ -313,7 +313,7 @@ defined_text = {
 				state = 1072 #Central Shanxi
 			}
 		}
-		localization_key = "»ê½Ã(»ê¼­)¼º"
+		localization_key = "ì‚°ì‹œ(ì‚°ì„œ)ì„±"
 	}
 	text = {
 		trigger = {
@@ -327,7 +327,7 @@ defined_text = {
 				state = 996 #Weihaiwei
 			}
 		}
-		localization_key = "»êµÕ¼º"
+		localization_key = "ì‚°ë‘¥ì„±"
 	}
 	text = {
 		trigger = {
@@ -337,7 +337,7 @@ defined_text = {
 				state = 1050
 			}
 		}
-		localization_key = "¾ÈÈÄÀÌ¼º"
+		localization_key = "ì•ˆí›„ì´ì„±"
 	}
 	text = {
 		trigger = {
@@ -351,7 +351,7 @@ defined_text = {
 				state = 746 #Ningbo
 			}
 		}
-		localization_key = "ÀúÀå¼º"
+		localization_key = "ì €ì¥ì„±"
 	}
 	text = {
 		trigger = {
@@ -364,7 +364,7 @@ defined_text = {
 				state = 747 #Fuzhou
 			}
 		}
-		localization_key = "ÇªÁ¨¼º"
+		localization_key = "í‘¸ì  ì„±"
 	}
 	text = {
 		trigger = {
@@ -376,7 +376,7 @@ defined_text = {
 				state = 788 #Aba
 			}
 		}
-		localization_key = "¾²ÃÓ¼º"
+		localization_key = "ì“°ì´¨ì„±"
 	}
 	text = {
 		trigger = {
@@ -386,7 +386,7 @@ defined_text = {
 				state = 1052 #Zhenyuan
 			}
 		}
-		localization_key = "±¸ÀÌÀú¿ì¼º"
+		localization_key = "êµ¬ì´ì €ìš°ì„±"
 	}
 	text = {
 		trigger = {
@@ -395,7 +395,7 @@ defined_text = {
 				state = 816 #Dali
 			}
 		}
-		localization_key = "À©³­¼º"
+		localization_key = "ìœˆë‚œì„±"
 	}
 	text = {
 		trigger = {
@@ -404,7 +404,7 @@ defined_text = {
 				state = 604 #Yushu
 			}
 		}
-		localization_key = "ÄªÇÏÀÌ¼º"
+		localization_key = "ì¹­í•˜ì´ì„±"
 	}
 	text = {
 		trigger = {
@@ -413,7 +413,7 @@ defined_text = {
 				state = 774 #Hexi Corridor
 			}
 		}
-		localization_key = "°£¾¥¼º"
+		localization_key = "ê°„ì‘¤ì„±"
 	}
 	text = {
 		trigger = {
@@ -421,7 +421,7 @@ defined_text = {
 				state = 348 #Ningxia
 			}
 		}
-		localization_key = "´×»ş¼º"
+		localization_key = "ë‹ìƒ¤ì„±"
 	}
 	text = {
 		trigger = {
@@ -433,7 +433,7 @@ defined_text = {
 				state = 745 #Kwantung
 			}
 		}
-		localization_key = "ÆãÅã¼º"
+		localization_key = "í‘í†ˆì„±"
 	}
 	text = {
 		trigger = {
@@ -443,7 +443,7 @@ defined_text = {
 				state = 886 #Jilin
 			}
 		}
-		localization_key = "Áö¸°¼º"
+		localization_key = "ì§€ë¦°ì„±"
 	}
 	text = {
 		trigger = {
@@ -453,13 +453,13 @@ defined_text = {
 				state = 884 #Xing'an
 			}
 		}
-		localization_key = "ÇìÀÌ·îÀå¼º"
+		localization_key = "í—¤ì´ë£½ì¥ì„±"
 	}
 	text = {
 		trigger = {
 			state = 524
 		}
-		localization_key = "Å¸ÀÌ¿Ï¼º"
+		localization_key = "íƒ€ì´ì™„ì„±"
 	}
 	text = {
 		trigger = {
@@ -474,7 +474,7 @@ defined_text = {
 				state = 729 #Macao
 			}
 		}
-		localization_key = "¿¾ Á¶Â÷Áö"
+		localization_key = "ì˜› ì¡°ì°¨ì§€"
 	}
 	text = {
 		trigger = {
@@ -484,7 +484,7 @@ defined_text = {
 				state = 1084 #West Mongolia (non-integrable)
 			}
 		}
-		localization_key = "¸ù°ñ"
+		localization_key = "ëª½ê³¨"
 	}
 	text = {
 		trigger = {
@@ -493,7 +493,7 @@ defined_text = {
 				state = 616 #Ordos
 			}
 		}
-		localization_key = "¾¥ÀÌÀ§¾È¼º"
+		localization_key = "ì‘¤ì´ìœ„ì•ˆì„±"
 	}
 	text = {
 		trigger = {
@@ -501,7 +501,7 @@ defined_text = {
 				state = 610 #Jehol
 			}
 		}
-		localization_key = "·¯Çã¼º"
+		localization_key = "ëŸ¬í—ˆì„±"
 	}
 	text = {
 		trigger = {
@@ -510,7 +510,7 @@ defined_text = {
 				state = 612 #Xilingol (only by MON)
 			}
 		}
-		localization_key = "Â÷ÇÏ¾ó¼º"
+		localization_key = "ì°¨í•˜ì–¼ì„±"
 	}
 	text = {
 		trigger = {
@@ -524,7 +524,7 @@ defined_text = {
 				state = 1085 #Taklamakan Desert
 			}
 		}
-		localization_key = "½ÅÀå¼º"
+		localization_key = "ì‹ ì¥ì„±"
 	}
 	text = {
 		trigger = {
@@ -536,7 +536,7 @@ defined_text = {
 				state = 1086 #Changtang (only by TIB)
 			}
 		}
-		localization_key = "Æ¼º£Æ®"
+		localization_key = "í‹°ë² íŠ¸"
 	}
 }
 
@@ -1274,13 +1274,13 @@ defined_text = {
 		trigger = {
 			is_ruled_by_federalists = yes
 		}
-		localization_key = "ÁßÈ­ÇÕÁß±¹"
+		localization_key = "ì¤‘í™”í•©ì¤‘êµ­"
 	}
 	text = {
 		trigger = {
 			is_ruled_by_federalists = no
 		}
-		localization_key = "ÁßÈ­¹Î±¹"
+		localization_key = "ì¤‘í™”ë¯¼êµ­"
 	}
 }
 
