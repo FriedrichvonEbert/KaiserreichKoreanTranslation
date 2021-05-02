@@ -13,7 +13,7 @@
  gitmo_active_yes:0 "§YGuantanamo Bay§!\n§W(§Y[820.owner.GetNameWithFlag]§!) Civilian Industry from target country:§! [?0.05|+%]"
  mole_active_yes:0 "§YMôle Saint-Nicolas§!\n§W(§Y[318.owner.GetNameWithFlag]§!) Civilian Industry from target country:§! [?0.02|+%]"
  samana_active_yes:0 "§YSamaná§!\n§W(§Y[319.owner.GetNameWithFlag]§!) Civilian Industry from target country:§! [?0.02|+%]"
- treatyport_whichisit_gitmo:0 "Guantanamo Bay"
+ treatyport_whichisit_gitmo:0 "관타나모 만"
  treatyport_whichisit_mole:0 "Môle Saint-Nicolas"
  treatyport_whichisit_samana:0 "Samaná"
  treatyport_whichisit_multiple:0 "Multiple Leased Territories"
