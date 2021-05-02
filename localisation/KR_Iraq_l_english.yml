@@ -1,5 +1,5 @@
 ﻿l_english:
- irq_extra_oob_tt:0 "£nato_unit_infantry_icon_small Gain 2 §YInfantry Division§! units with Regular training and 1936-year infantry equipment in §YBaghdad§!\n£army_experience Gain a §GLevel 2 General§! named §YTaha al-Hashimi§!.\n"
+ irq_extra_oob_tt:0 ""
  irq_conscription_law:0 "Modify §YSectarian Divide§! by \nRecruitable Population: §G+50%§!\n\n"
  irq_resadiye_reorganisation:0 "\nModify §YSectarian Divide§! by \nRecruitable Population: §G+5%§!\n\nModify §YCrippling Poverty§! by \nResearch Speed: §G+5%§!"
  irq_national_education:0 "\nModify §YCrippling Poverty§! by \nResearch Speed: §G+5%§!\nFactory Output: §G+5%§!"
