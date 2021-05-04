@@ -180,3 +180,7 @@ foreign_politics_desc:0 "좋은 외교정책은, 국가의 체급과는 상관�
 
 ##Part two는 바닐라에서 채용해오는 문자열을 카이저라이히에서 철자법과 문법 수정을 한 것이라, 만약 남겨 놓는다면 번역을 했어도 part two로 인해 해당 내용이 영문으로 출력이 됩니다.
 ##때문에 번역할 필요가 없어 삭제하였습니다.
+
+low_economic_mobilisation:0 "초기 동원령"
+partial_economic_mobilisation:0 "부분 동원령"
+tot_economic_mobilisation:0 "총 동원령"
