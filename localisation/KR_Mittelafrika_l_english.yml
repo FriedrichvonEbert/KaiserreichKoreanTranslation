@@ -121,7 +121,7 @@
  MAF_Bush_War_start_tt:0 "§RThe Bush War will start.§!\n§H[Root.GetNameDef]§! declares war on §H$POR_national_populist$§!."
  MAF_Bush_War_MAF_victory_requirement_tt:0 "§PMittelafrika§! §Lwill win should they manage to take control over any three the following states owned by§! §CPortugal§!§L:§! §gCentral Angola, Zambezia, Southern Angola§! §Land§! §gInhambane-Gaza.§!"
  MAF_Bush_War_POR_victory_requirement_tt:0 "§CPortugal§! §Lwill win should they get Mittelafrika to over§! §m50§!§g%§! §Lcapitulation score.§!"
- MAF_Bush_War_POR_advantage_tt:0 ""§CPortugal§! currently has the advantage."
+ MAF_Bush_War_POR_advantage_tt:0 "§CPortugal§! currently has the advantage."
  MAF_Bush_War_MAF_advantage_tt:0 "§PMittelafrika§! currently has the advantage."
  MAF_Bush_War_NO_advantage_tt:0 "§LNo One§! has the advantage."
  MAF_take_mittelafrikan_navy:0 "중앙아프리카의 해군 통제권 인수"
