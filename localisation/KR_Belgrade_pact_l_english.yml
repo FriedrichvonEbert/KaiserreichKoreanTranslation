@@ -292,7 +292,7 @@
  pact.204.t:0 "[FROM.GetNameDefCap] Agrees to Attend"
  pact.204.d:0 "The foreign ministry of [FROM.GetNameDef] has written back to us, informing us that they agree to join our common cause against Austria."
  pact.204.a:0 "Excellent."
- pact.205.t:0 "The Delegates Arrive"
+ pact.205.t:0 "The Delegates Arrive" #use GetCongressMembers for the list"
  pact.205.d:0 "Today, a multi-national throng of diplomats, observers and military officials descended on Belgrade to attend the opening ceremony of the Second Congress of Belgrade. In a short speech, the Prime Minister thanked all of the delagates for attending, and then gave a toast to our certain victory over our mutual enemies in Vienna. Tomorrow, the serious discussions will begin, concerning everyone's claims on Habsburg territory and our approach to dealing with them. But today is a day to cherish this rare-celebration of pan-national unity!"
  pact.205.a:0 "Let the Congress begin!"
  CongressMembers_Pact_minus_one:0 "[?SER_attending_congress^0.GetNameDef]"

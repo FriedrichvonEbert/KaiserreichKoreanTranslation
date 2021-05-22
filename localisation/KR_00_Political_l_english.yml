@@ -50,7 +50,7 @@
  KR_left_wing_democracy:0 "좌익 민주주의임"
  KR_left_wing_democracy_NOT:0 "좌익 민주주의가 아님"
  has_scripted_peace:0 "우리는 전쟁 중임"
- has_scripted_peace_desc:0 "국가가 전쟁 중이며, 승리를 목표로 하고 있습니다 - 기회가 있지만 우리의 저항력은 생각보다 조금 더 취약합니다. (안내: 이것은 평화 이벤트가 존재하는 전쟁을 위한 것이며, 항복율 한계가 거의 도달했을 때 발동됩니다. 이점을 알아두세요.)"
+ has_scripted_peace_desc:0 "국가가 전쟁 중이며, 승리를 목표로 하고 있습니다.기회가 있지만 우리의 저항력은 생각보다 조금 더 취약합니다.(안내: 이것은 평화 이벤트가 존재하는 전쟁을 위한 것이며, 항복도 한계가 거의 도달하였을 때 발동됩니다. 이 점을 알아두세요.)"
  mobilisation_penalty_modifier:0 "사단 한계 도달"
  unit_limit_count:0 "[unit_limit_count_loc]/[?max_divisions|H0]"
  unit_limit_count_red:0 "[?num_actual_divisions|R0]"
