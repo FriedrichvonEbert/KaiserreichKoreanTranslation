@@ -314,7 +314,7 @@
  HOL_limited_working_week_2:0 "주당 근무 시간 제한"
  HOL_limited_working_week_2_desc:0 "The minimum working week is too long, and as a result, employers cannot afford to hire as many as they otherwise could. By shortening the working week, employers will be forced to hire more people, thus allowing more people to earn a living."
  hol_finish_afsluitdijk:0 "대제방 보수"
- hol_finish_afsluitdijk_desc:0 "The Afsluitdijk was finished in the early thirties and closes off the Zuiderzee, turning the Ijsselmeer into an inland bay. The risk of the dike breaking could have disastrous effects however, so investing in securing its structural integrity could hardly hurt. Furthermore, it would also deliver much-needed work for unemployed people."
+ hol_finish_afsluitdijk_desc:0 "아프슬라위트데이크는 30년대 초반에 완성되었는데, 이 제방은 자위더르 해를 북해로부터 분리해 에이설 호로 만들었습니다. 그러나 제방이 무너질 때의 위험은 재앙적 영향을 미칠 수 있으므로 제방의 구조 보강에 투자하는 것은 전혀 해로울 것이 없는 일입니다. 또한 이에 투자함으로써 우리는 실업자들이 절실히 필요로 하고 있는 대규모의 일자리를 제공할 것입니다."
  HOL_west_indies_as_tradepost:0 "서인도제도 무역"
  HOL_west_indies_as_tradepost_desc:0 "서인도제도는 서반구와의 이상적인 교역소가 될 수 있습니다. 독일의 영향권에서 거리가 먼 미국이 현재 제국과의 무역에 지나치게 집중하고 있는 우리의 수출을 다양화할 기회를 제공해 줄 것입니다."
  HOL_loan_to_SBM:0 "SBM에 대출"
