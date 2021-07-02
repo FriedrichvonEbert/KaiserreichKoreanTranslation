@@ -794,7 +794,7 @@
  RULE_OPTION_ARG_CHRISTMAS_COUP_AUTHORITARIAN_DEMOCRAT_RAMIREZ_DEMOCRACY_DESC:0 "피비린내 나는 투쟁에 이어, 육군은 로사리오에서 결정적인 승리를 거두어 카를레스에게 충성하는 군대를 퇴각하도록 만듭니다. 라미레스와 육군이 대통령 거처를 향하여 행진하자, 마누엘 카를레스는 자살하거나 우루과이로 도망친 채 사라집니다. 수도를 점령히여 질서를 회복한 라미레스는 민주주의를 회복하고 선거를 치르기로 결심합니다."
  RULE_OPTION_ARG_CHRISTMAS_COUP_AUTHORITARIAN_DEMOCRAT_RAMIREZ_JUNTA:0 "라미레스의 군부 설립"
  RULE_OPTION_ARG_CHRISTMAS_COUP_AUTHORITARIAN_DEMOCRAT_RAMIREZ_JUNTA_DESC:0 "피비린내 나는 투쟁에 이어, 육군은 로사리오에서 결정적인 승리를 거두어 카를레스에게 충성하는 군대를 퇴각하도록 만듭니다. 라미레스와 육군이 대통령 거처를 향하여 행진하자, 마누엘 카를레스는 자살하거나 우루과이로 도망친 채 사라집니다. 수도를 점령하여 질서를 회복한 라미레스는 군사정부를 세우기로 결심합니다."
- FOP_TRADE_UNION_CONGRESS:= "£KR_game_rule_flag_FOP_syndicalist   첫 번째 국민노동의회"
+ FOP_TRADE_UNION_CONGRESS: "£KR_game_rule_flag_FOP_syndicalist   첫 번째 국민노동의회"
  RULE_OPTION_FOP_TRADE_UNION_CONGRESS_RANDOM:0 "기본값"
  RULE_OPTION_FOP_TRADE_UNION_CONGRESS_RANDOM_DESC:0 "Coming from a tradition of Republican democracy, Argentina had never had a Trade Union Congress up to this point, and while many are anxious to see this historical events, many are wary of it being simply a masquerade for a dictatorial regime. As the gates to the old Congress open to the Union delegates, the fate of the nation hangs in the balance..."
  RULE_OPTION_FOP_TRADE_UNION_CONGRESS_RADANS:0 "£KR_game_rule_flag_FOP_syndicalist   아나키스트 급진파"
