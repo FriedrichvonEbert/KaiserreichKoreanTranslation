@@ -52,7 +52,7 @@
  GXC_border_raids_tt:0 "Unlocks £decision_icon_small §HBorder Raiding Decisions§!."
  GXC_secure_south_tt:0 "Unlocks £decision_icon_small §HDecisions to Secure Southern China§!."
  raiding_in_progress:0 "Raid in Progress"
- secured_border_with_GXC: "도적질에 맞서 보호받는 국경"
+ secured_border_with_GXC:= "도적질에 맞서 보호받는 국경"
  securing_border_with_GXC_tt:0 "Our §Hborders§! will be protected from §Rbandits§! coming from §HLiangguang§!."
  GXC_join_factions:0 "Unlocks §HDecisions to Join a Chinese Faction§!"
  GXC_integrate_provinces_tt:0 "Unlocks £decision_icon_small §HDecisions§! to §HIntegrate Provinces§!"
