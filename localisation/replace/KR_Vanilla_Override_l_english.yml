@@ -10,6 +10,7 @@
 ###################################
 
 ### core_l_english
+MENU_BAR_GAME_WIKI:0 "카이저라이히 위키"
 MENU_HOMEPAGE:0 "카이저라이히 디스코드"
 MENU_FORUM:0 "카이저라이히 포럼\n패러독스 포럼에 로그인 한 후 열람할 수 있습니다"
 MENU_FACEBOOK:0 "카이저라이히 스팀"
@@ -88,7 +89,7 @@ topple_government_desc:0 "정부를 실각시키십시오."
 topple_government_short_desc:0 "이 전쟁목표는 평화협정에서 정부 전복을 더 저렴하게 할 것 입니다."
 
 ### frontend_l_english
-CUSTOM_DIFFICULTY_GROUP_NAME:0 "사용자 지정 강화 설정"
+CUSTOM_DIFFICULTY_GROUP_NAME:0 "국력 강화"
 custom_diff_strong_ger:0 "£KR_game_rule_flag_GER   독일 제국 강화"
 custom_diff_strong_fra:0 "£KR_game_rule_flag_FRA   프랑스 코뮌 강화"
 custom_diff_strong_eng:0 "£KR_game_rule_flag_ENG   브리튼 연방 강화"
@@ -142,6 +143,11 @@ volkssturm:0 "인민 민병대"
 volkssturm_desc:0 "여전히 인력이 절실한 상황에서, 일각에서는 노년층과 아동 및 청소년, 혹은 정규군 복무에 부적합한 사람들로 구성된 '인민 민병대'를 설립하자고 제안합니다.\n\n "
 werwolf_guerillas:0 "레지스탕스 게릴라"
 werwolf_guerillas_desc:0 "조직된 레지스탕스 단체는 점령국과의 싸움에서 우리의 마지막 희망입니다. 비록 우리나라가 전장에서 패배했을지언정, 국민들의 마음 속에서는 계속 살아있을 것입니다."
+basic_heavy_armor_scheme:0 "경사수선장갑대 설계"
+basic_heavy_armor_scheme_desc:1 "수선장갑대에 경사를 둔다면 같은 무게와 두께의 장갑이지만 관통을 훨씬 더 어렵게 할 수 있습니다.\n\n이 모듈을 §Y대형함§!에 장착하면 §Y적들이 가하는 피해를 버틸 수 있는 능력이 향상됩니다§!. §Y전함§!과 §Y순양함§!은 그들의 서로 다른 §Y장갑설계§!로 구분됩니다."
+improved_heavy_armor_scheme:0 "집중방어 장갑 설계"
+improved_heavy_armor_scheme_desc:1 "이 설계는 함선의 가장 중요한 부분만을 보호하고 불필요한 부분의 보호는 무시하는 데에 중점을 둡니다.\n\n이 모듈을 §Y대형함§!에 장착하면 §Y적들이 가하는 피해를 버틸 수 있는 능력이 향상됩니다§!. §Y전함§!과 §Y순양함§!은 그들의 서로 다른 §Y장갑설계§!로 구분됩니다."
+heavy_armor_advice_tt:0 "\n더 나은 §Y장갑 모듈§!을 §Y대형함§!에 장착할 경우 피해를 버티는 능력이 향상됩니다. §Y전함§!과 §Y순양함§!은 그들의 서로 다른 §Y장갑설계§!로 구분되어지는데, 순양함은 보통 전함보다 더 약한 장갑을 지니고 있습니다."
 
 ### peace_l_english
 PEACE_CONFERENCE_WHITE_PEACE:0 "\n@$ACTOR_TAG$$ACTOR_COUNTRY|Y$ 및 $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$ \n양 측은 §Y평화협정§!을 체결하며 상호 교전에 마침표를 찍었습니다."
@@ -184,3 +190,6 @@ foreign_politics_desc:0 "좋은 외교정책은, 국가의 체급과는 상관�
 low_economic_mobilisation:0 "초기 동원령"
 partial_economic_mobilisation:0 "부분 동원령"
 tot_economic_mobilisation:0 "총 동원령"
+
+FE_HISTORICAL:0 "역사적 AI - §R비활성 권장§!"
+FE_HISTORICAL_TOOLTIP:0 "§R카이저라이히에서 활용하지 않는 기능이지만, 활성화되면 AI에게 문제가 발생할 수 있습니다. 카이저라이히를 즐길 때는 항상 비활성화를 유지해주세요.§!"
