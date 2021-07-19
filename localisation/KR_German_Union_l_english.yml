@@ -1,4 +1,11 @@
 ﻿l_english:
+ gru.1.t:0 "행정부 민주화"
+ gru.1.desc:0 "낡아빠진 반동정권과 결별하기 위해서는 새로운 나라의 구석구석에서 그들의 영향을 제거해야 합니다. 정부는 민주화되고, 교사는 재교육받고, 군대는 개편되어야 합니다. 이 과정의 일부로 오토 폰 비스마르크와 파울 폰 힌덴부르크와 같은 주전파 학살자들에게 수여된, 예를 들어 힌덴부르크 시와 이 나라 곳곳에 박혀있는 수많은 비스마르크 기념탑같은 훈장들을 모두 몰수할 것입니다. 우리 총통은 카를 마르크스를 기리기 위해 그의 이름을 따자고 했지만 지역 주민들은 그 터무니없는 반동들의 이름을 유지하길 원하고 있습니다."
+ gru.1.a:0 "Rename it in honour of Karl Marx"
+ gru.1.b:0 "A name to represent its industrial background"
+ gru.2.t:0 "Restoring the old order"
+ gru.2.desc:0 "After defeating our socialist foes it is time to restore order on the local level as well. Their regime changed the names of the places, streets and boulevards named after heroes of our nation, because they were deemed unrepresentative or counter-revolutionary. Their original names shall be restored."
+ gru.2.a:0 "It shall be Hindenburg forever"
  GRU_totalist_party:0 "BK"
  GRU_totalist_party_long:0 "공산주의자 연맹"
  GRU_syndicalist_party:0 "KAPD/KAUD"
