@@ -52,7 +52,7 @@
  nuke_dropped.4.b:0 "우리의 적들이 국가의 심장을 강타했다!"
  nuke_dropped.5.t:0 "런던에 핵폭격"
  nuke_dropped.5.d.ENG:0 "오늘날 핵 폭발이 런던의 도시를 파괴했습니다. 도시의 대공 방어에도 불구하고, [From.From.Owner.GetName](은)는 이 공격에 대한 준비가 되지 않았습니다. [GetDateText]에 빅 벤은 폭발에 의해 녹기 전 마지막 종소리를 울렸습니다. 초기 보고서는 노동조합총회는 완전히 평평해 졌으며 현재 정부의 행방은 알 수 없다고 밝혔습니다.\n\n[From.From.Owner.GetLeader](은)는 그럼에도 불구하고 생존한 것으로 확인 된 이후 금일 라디오로 격려 연설을 준비하고 있습니다. 사상 최저 사기로, 브리튼 연방 사람들은 이것 - 또는 매우 유창한 항복문이 필요할 것 입니다."
- nuke_dropped.5.d.GBR:0 "A nuclear explosion has devastated the city of London today. Despite the city's anti-air defences, [From.From.Owner.GetName] was not prepared for this attack. At [GetDateText], Big Ben chimed for the last time, having been melted by the blast. Early reports suggest Buckingham Palace has been completely levelled and the whereabouts of the royal family are currently unknown.\n\n[From.From.Owner.GetLeader] has nevertheless been confirmed to have survived and is preparing a rousing speech for the radio later today. With morale at an all-time low, the British people is in dire need of this - or a very eloquent surrender."
+ nuke_dropped.5.d.GBR:0 "핵폭발이 오늘 런던을 파괴했습니다. 도시에는 대공 방어 체계가 있었지만, [From.From.Owner.GetName] 측에선 이러한 공격에 대비하지 못했습니다. [GetDateText], 빅 벤은 마지막 종을 울리며 폭발에 녹아내리고 말았습니다. 버킹엄 궁도 그와 다를 것이 없다는 보고가 있었고 왕실의 행방과 현재 상황은 완전히 알 수 없습니다.\n\n반면 [From.From.Owner.GetLeader]의 생존은 확인되었고 오늘 늦게 있을 라디오 연설을 준비하고 있습니다. 사기는 어느 때보다 낮으며, 영국인들에겐 그의 한 마디 혹은 유창한 항복 선언이 절실히 필요할 것입니다."
  nuke_dropped.5.a:0 "핵폭풍에 맞서 공산주의의 망령을 완전히 몰아내자."
  nuke_dropped.5.b:0 "우리는 잿더미에서 다시 일어설 것이다!"
  nuke_dropped.5.c:0 "핵폭풍의 여파 속에서 불굴의 의지를 지키기는 어렵도다."

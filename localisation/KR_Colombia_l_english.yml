@@ -157,7 +157,7 @@
  COL_infrastructure:0 "철도망 확장"
  COL_infrastructure_desc:0 "수출입 능력은 사실상 없다고 봐도 무방한 도로망에 달려 있습니다. 어떻게든 손을 써야 합니다."
  COL_ports_airports:0 "Modern Drydocks"
- COL_ports_airports_desc:0 "We rely primarily on archaic facilities or naval production capable only of handling small and outmoded vessles. The state should thus establish a more modern dockyard."
+ COL_ports_airports_desc:0 "We rely primarily on archaic facilities or naval production capable only of handling small and outmoded vessels. The state should thus establish a more modern dockyard."
  COL_infrastructure2:0 "광범위한 기반 시설 증강"
  COL_infrastructure2_desc:0 "아군에게 충분한 보급망을 연결하여 모든 필요한 물품이 부대까지 도달할 수 있도록 근본적인 인프라를 정비해야 합니다."
  COL_academical_reforms:0 "학술 개혁"
