@@ -2,8 +2,8 @@
 # Kaiserreich 한국어 번역 공지사항
 ## [Kaiserreich 한국어 번역](https://steamcommunity.com/sharedfiles/filedetails/?id=2098453801)은 공개 번역으로 진행됩니다.
 - 번역팀 디스코드 주소 : https://discord.gg/JwxDFmRv6a
-### [0.17.1a 패치노트](https://www.reddit.com/r/Kaiserreich/comments/nrgwjk/kaiserreich_beta_0171a_is_out/)
-- 21.06.05 기준 한국어 번역의 0.17.1a 호환 작업이 완료되었습니다.
+### [0.18 패치노트](https://www.reddit.com/r/Kaiserreich/comments/ojtf6l/kaiserreich_018_forest_brothers/)
+- 21.07.20 기준 한국어 번역의 0.18 호환 작업이 완료되었습니다.
 ***
 
 ## 번역 방법 
