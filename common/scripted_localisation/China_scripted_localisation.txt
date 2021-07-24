@@ -31,6 +31,16 @@ defined_text = {
 
 defined_text = {
 	name = GetFactionAlignment
+	### Puppets ###
+	text = {
+		trigger = {
+			is_subject = yes
+			overlord = { is_han_chinese_tag = no }
+		}
+		localization_key = "Puppet of [Overlord.GetNameDef]"
+	}
+
+	### Leaders ###
 	text = {
 		trigger = {
 			tag = QIE
@@ -111,10 +121,7 @@ defined_text = {
 		localization_key = "연성주의 지도자"
 	}
 
-###################
-### Non-Leaders ###
-###################
-
+	### Non-Leaders ###
 	text = {
 		trigger = {
 			count_triggers = {
@@ -159,7 +166,7 @@ defined_text = {
 			is_ruled_by_federalists = yes
 			is_ruled_by_kmt = yes
 		}
-		localization_key = "국민당 가맹"
+		localization_key = "공화주의 가맹"
 	}
 	text = {
 		trigger = {
@@ -184,24 +191,8 @@ defined_text = {
 					has_country_leader = { name = "Hoja-Niyaz" }
 				}
 			}
-			is_subject = no
 		}
 		localization_key = "독립"
-	}
-	text = {
-		trigger = {
-			OR = {
-				tag = MON
-				tag = TIB
-				tag = ETS
-				AND = {
-					tag = KUM
-					has_country_leader = { name = "Hoja-Niyaz" }
-				}
-			}
-			is_subject = yes
-		}
-		localization_key = "[OVERLORD.GetAdjective]의 속국"
 	}
 	text = {
 		localization_key = "비가맹"
