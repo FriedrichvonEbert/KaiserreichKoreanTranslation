@@ -265,7 +265,7 @@
  NAME_THEME_HISTORICAL_NTYPE_SUBMARINES:0 "역사적 N급 잠수함"
  NAME_THEME_HISTORICAL_X1TYPE_SUBMARINES:0 "역사적 X1급 잠수함"
  NAME_THEME_PROVINCES:0 "지역"
- CAN_autocratic_tendencies:0 "전제군주적 성향"
+ CAN_autocratic_tendencies:0 "독재적인 성향"
  CAN_unpopular_monarch:0 "인기 없는 군주"
  CAN_humble:0 "겸허한"
  CAN_popular_figurehead:0 "인기 있는 얼굴마담"

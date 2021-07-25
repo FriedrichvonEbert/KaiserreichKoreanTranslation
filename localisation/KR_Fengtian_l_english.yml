@@ -230,7 +230,7 @@
  FNG_foreign_policy:0 "재수복으로의 길"
  FNG_foreign_policy_desc:0 "1928년 마지막 직봉 전쟁의 종결은 퍼져나가던 중국의 민국화 열기가 동북지역에 유폐됐음을 알리는 일이었습니다. 그 이후로 우리군은 산해관에서 [QIE.GetAdjective]의 군대와 마주하게 되었고, 독일과 일본은 해안가 도시들에서 은밀한 첩보전을 해왔습니다. 미래의 언젠가는, 중국은 다시 하나가 될 것입니다..."
  FNG_Proclaim_the_ROC:0 "중화민국 선포"
- FNG_Proclaim_the_ROC_desc:0 "May it live ten thousand years!"
+ FNG_Proclaim_the_ROC_desc:0 "중화민국 만세!"
  FNG_Integrate_Faction_Members:0 "[From.GetCliqueShortName] 통합"
  FNG_Integrate_Faction_Members_desc:0 "Together we will rebuild China, so long as they toe the line."
  FNG_National_Irredentism:0 "민족통일주의 고조"
