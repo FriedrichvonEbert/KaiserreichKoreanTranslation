@@ -314,7 +314,7 @@
  GBR_priority_air:0 "공군 집중"
  GBR_priority_air_desc:0 "3군중에 공군은 가장 큰 관심이 필요합니다. 하늘을 통제한다면 영국 방위에 빈틈이 사라질 것입니다."
  GBR_porton_down:0 "Reopen Porton Down"
- GBR_porton_down_desc:0 "Porton Down was a chemical research labotorary, founded during the First Weltkrieg. During syndicalist rule it was appropriated for their own nefarious purposes but with order restored we can reopen the facility and make it the centre of our military research."
+ GBR_porton_down_desc:0 "Porton Down was a chemical research laboratory, founded during the First Weltkrieg. During syndicalist rule it was appropriated for their own nefarious purposes but with order restored we can reopen the facility and make it the centre of our military research."
  GBR_foreign_office:0 "외무부 재건"
  GBR_foreign_office_desc:0 "우리 경제와 정부가 회복되면서 세계 속의 영국의 지위를 되찾을 때가 왔습니다."
  GBR_entente_leadership:0 "협상국의 지휘를 맡다"
