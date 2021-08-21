@@ -99,7 +99,7 @@
  ASY_Assyrian_Army:0 "아시리아군 창설"
  ASY_Assyrian_Army_desc:0 "조직되지 않은 민병대는 국가를 보호하는데 그다지 좋은 방식이 아닙니다. 끝없이 계속되는 수많은 자원 입대자 숫자에 감사를 느끼면서도, 다가오는 폭풍에 맞서기 위해서는 전문적인 군대를 발전시켜야 합니다."
  ASY_expanded_levies_tt:0 "§Y바스라§! 에서 훈련병 숙련도와 1918년형 보병장비를 갖춘 £nato_unit_cavalry_icon_small 1개 §Y기병 사단§!을 획득합니다.\n§Y바스라§! 에서 훈련병 숙련도와 1918년형 보병장비를 갖춘 £nato_unit_cavalry_icon_small 1개 §Y보병 사단§!을 획득합니다.\n\n£GFX_army_experience §G레벨 1 장군§! §YOdisho Moshe§!를 획득합니다."
- ASY_madan_resistance_tt:0 "§Y마다안 저항군§!의 효과가 다음과 같이 변화합니다:\n징집 가능한 인구 양: §G+5%§!\n사용 가능한 건설 공간 수량: §G+15%§!\n사용 가능한 지역 자원: §G+15%§!\n지역 건설 속도: §G+5%§!"
+ ASY_madan_resistance_tt:0 "§Y마다안 저항군§!의 효과가 다음과 같이 변화합니다:\n징병 가능 인구 획득치: §G+5%§!\n사용 가능한 건설 슬롯 변동치: §G+15%§!\n사용 가능한 현지 자원: §G+15%§!\n현지 건설 속도: §G+5%§!"
  ASY_canadian_help_tt:0 "£GFX_army_experience §G레벨 2 장군§! §YHarold Bernard Charles Jones§!를 획득합니다."
  ASY_trucial_state_tt:0 "우리에게 다음과 같은 효과를 부여합니다:\n징집 가능한 인구 양: §G+15%§!\n사용 가능한 건설 공간 수량: §G+50%§!\n사용 가능한 지역 자원: §G+65%§!"
  ASY_land_reclamation_decisions:0 "토지 개간 사업"
