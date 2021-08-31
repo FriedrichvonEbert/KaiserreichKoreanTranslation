@@ -9,6 +9,9 @@
 ### Part One - 바닐라에서 크게 변경됨 ###
 ###################################
 
+### bftb_decisions_l_english
+conscription_exemptions_granted:0 "병역면제"
+
 ### core_l_english
 MENU_BAR_GAME_WIKI:0 "카이저라이히 위키"
 MENU_HOMEPAGE:0 "카이저라이히 디스코드"
@@ -34,7 +37,7 @@ LOAD_GFX:0 "아시아에서 지상전을 치르는 중"
 LOADING_MAIN_MENU:0 "쓰러져가는 제국을 받치는 중"
 PRECALC_NAVAL_DIST:0 "케렌스키를 암살하는 중"
 EXITING_TO_FRONTEND:0 "군주제를 복원하는 중"
-LOAD_INIT:0 "황제 해군을 배치시키는 중"
+LOAD_INIT:0 "황립 해군을 배치시키는 중"
 LOAD_FLAGS:0 "미국의 민주주의를 구원하는 중"
 PROC_FLAGS:0 "중화제국을 재건하는 중"
 INIT_MAP_LOGIC:0 "아프리카로 탈출하는 중"
