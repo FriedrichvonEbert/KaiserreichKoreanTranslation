@@ -1,7 +1,7 @@
 ﻿l_english:
  received_attache:0 "주재무관 허가"
  received_attache_desc:0 "외국의 주재무관이 우리나라에 거주합니다."
- ATTACHE_LIST:0 "$LIST$(이)가 우리에게 주재무관을 파견하였습니다. 우리가 받고 있는 영향:"
+ ATTACHE_LIST:0 "$LIST$에서 우리에게 주재무관을 파견하였습니다. 우리가 받고 있는 영향:"
  undisturbed_isolation:0 "평온한 고립주의"
  undisturbed_isolation_desc:0 "국가가 아직도 대공황과 모래 폭풍으로 인한 기근에서 회복 중이며, 천천히 기반시설을 재건하고 있습니다. 미국의 산업은 대부분 절반의 능률을 보이고 있으며, 무기력에서 국가를 일깨우지 않는 이상 현 상태에 머무르게 될 것입니다."
  isolation:0 "고립주의"

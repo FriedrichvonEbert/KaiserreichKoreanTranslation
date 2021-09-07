@@ -128,7 +128,6 @@
  SPA_workers_rise:0 "광부와 도로 인부들이 대의를 위해 일어서다!\n"
  SPA_foreign_unit_arrives:0 "해외연수부대가 바르셀로나에 도착\n"
  SPA_supplied_unit_arrives:0 "공급된 민병대가 부르고스에 도착함\n"
- SPA_become_republic:0 "국명이 §Y스페인 공화국§!으로 변경되었습니다\n"
  SPA_no_civil_war_tt:0 "스페인 내전이 아직 시작되지 않았다\n"
  SPA_civil_war_happened:0 "스페인 내전이 시작되었다\n"
  SPA_civil_war_over:0 "스페인 내전이 끝났다\n"
