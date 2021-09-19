@@ -9,6 +9,8 @@
  CEN_middle_option_army:0 "§Y혼합편대군이 의회에서 채택되었습니다.§!"
  CEN_federal_army:0 "§Y연방군이 의회에서 채택되었습니다.§!"
  CEN_the_conflict_begins:0 "Preparing a war of unification for Central America"
+ CEN_social_democrat_liberal:0 "PT"
+ CEN_social_democrat_liberal_long:0 "Partido del Trabajo"
  CENdem_Lux_good_econ:0 "사치품 경제"
  CENdem_Disorganized_Economy:0 "날림 경제"
  CENdem_New_Union:0 "불안정한 연맹"
