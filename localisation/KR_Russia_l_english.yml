@@ -462,7 +462,7 @@
  RUS_Machine_And_Tractor_Stations_tooltip:0 "§H최고경제위원회§! 변동치 효과\n징집 가능한 인구: [?-0.05|%+0]\n£prod_eff_cap  생산 효율성 한도: [?0.15|%+]\n"
  RUS_Railway_Nationalisation_tooltip:0 "§H최고경제위원회§! 변동치 효과\n징집 가능한 인구: [?-0.05|%+0]\n건설 속도: [?0.1|%+]\n"
  RUS_Industrial_Draft_Scheme_tooltip:0 "§H최고경제위원회§! 변동치 효과\n징집 가능한 인구: [?-0.05|%+0]\n소비재 공장: [?-0.0.5|%H1]\n"
- RUS_Mass_Mobilisation_tooltip:0 "§H대규모 징집§! 변동치 효과\n핵심 주에서 사단 방어력: [?0.2|+1%]\n적이 점령한 우리측 주에 주둔한 방위군에 피해량: [?0.2|+%]"
+ RUS_Mass_Mobilisation_tooltip:0 "§H대규모 징집§! 변동치\n핵심 영토에서 사단 방어: [?0.2|+1%]\n적이 점령한 우리 주의 적 주둔군에 대한 피해: [?0.2|+%]"
  RUS_A_Well_Equipped_Force_tooltip:0 "§H대규모 징집§! 변동치 효과\n보병 장비 연구 속도: [?0.1|+0%]"
  RUS_Local_Training_Barracks_tooltip:0 "§H대규모 징집§! 변동치 효과\n사단 훈련 속도: [?-0.2|H1%]\n징집 가능한 인구: [?0.01|H%]"
  SOV_cores_on_RUS:0 "Cores of the §H[RUS.GetFlag][RUS.GetName]§! will become our cores again when reaching §H40% compliance§!."

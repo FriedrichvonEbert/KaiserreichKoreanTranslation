@@ -420,7 +420,7 @@
  FNG_prevent_resistance_events:0 "Prevents further §REnemy Resistance§! events.\n"
  FNG_unlock_attack_decisions:0 "§GUpon completion of the focus you will unlock a §YSeries§! of decisions to §YUnify§! China.§!"
  FNG_sqi_won_league_tt:0 "산동이 연합 전쟁에서 승리를 거두었습니다"
- FNG_finish_irrendentism_anqing_tt:0 "안경이 승리한 지금 수복전쟁을 어떻게 진행할지를 논의하기 위해 민족 통일주의 결정 사항을 완료해야만 합니다.\n"
+ FNG_finish_irrendentism_anqing_tt:0 "안경이 승리한 지금 수복전쟁을 어떻게 진행할지를 논의하기 위해 민족통일주의 결정 사항을 완료해야만 합니다.\n"
  FNG_can_shenyang_conference_tt:0 "\n참가할 가능성이 있는 중국 동맹들을 초청해 중요한 문제와 수복전쟁 참전 가능성을 논의하기 위해 가능한 한 빨리 선양에서 §H회의§!를 개최할 것입니다.\n"
  FNG_ask_reconstruction_jap_anqing_tt:0 "안경을 돕는데 합의하고 일본에 요청 사항을 전달할 것입니다. 그들도 역시 수용한다면 안경 재건을 위해 상당한 정치 경제적 자원을 투입하여 최대한 빨리 베이징을 공격할 수 있도록 하겠습니다.\n"
  FNG_more_strategies_anqing_tt:0 "여기에 동의하지 말고 다른 전략을 제안하십시오.\n"

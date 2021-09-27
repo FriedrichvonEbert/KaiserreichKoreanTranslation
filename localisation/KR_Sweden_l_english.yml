@@ -322,7 +322,7 @@
  SWE_hms_karl_xii_desc:0 "전설적인 카롤루스 렉스의 이름을 달고 항해하는 신형 전함 건조에 투자한다면 우리 해군의 미래가 더욱 안전해질 겁니다."
  SWE_naval_college:0 "스웨덴 [SWE.GetSWEprefixSW] 해군사관학교"
  SWE_naval_college_desc:0 "스웨덴 [SWE.GetSWEprefixSW] 해군사관학교는 하급 장교 육성에 초점이 맞추어져 있습니다. 해사에 투자한다면 이 시대에 걸맞는 해군 교리 형성에 도움이 될 겁니다."
- SWE_destroyers:0 "모드급 구축함"
+ SWE_destroyers:0 "모데급 구축함"
  SWE_destroyers_desc:0 "가장 작은 소형함인 구축함은 특히 대잠전에서 대형함을 보호하는데 결정적인 역할을 수행합니다. 국방력을 보장하기 위해 구축함 개발에 투자해야 합니다."
  SWE_marines_focus:0 "해병대"
  SWE_marines_focus_desc:0 "상륙작전에 대비하는 특수 훈련을 받은 수륙양용부대를 창설한다면 도하나 상륙과 같이 보통 까다로운 작전으로 여겨지는 상황에서 우위를 점할 수 있습니다."
