@@ -1752,7 +1752,7 @@
  nfa.210.t:0 "베르됭 회의의 합의"
  nfa.210.d:0 "After the important declarations of our respective foreign ministers, a few days was enough to reach an agreement with the French. An official pact of non-aggression was signed between our two countries, making the Congress of Verdun a resounding success. We can rejoice that the Western front is finally going quiet."
  nfa.210.a:0 "우리 시대의 평화다!"
- nfa.211.t:0 "알자스-로렌 혹은 전쟁 뿐!"
+ nfa.211.t:0 "알자스-로렌이냐 전쟁이냐!"
  nfa.211.d.halifaxbroke:0 "Despite promises at [ENT.GetConferenceLocation] during the Second Weltkrieg, the French have sent an ultimatum to Berlin. They are demanding that we hand over the Imperial Province of Elsass-Lothringen which hasn't been controlled by the French since 1871. The French are threatening with war if we refuse. This is the moment we must stand up to the French and resist their ambitions of world domination!"
  nfa.211.d:0 "The French have sent an ultimatum to Berlin. They are demanding that we hand over the Imperial Province of Elsass-Lothringen which hasn't been controlled by the French since 1871. The French are threatening with war if we refuse. This is the moment we must stand up to the French and resist their ambitions of world domination!"
  nfa.211.a:0 "그들이 미쳤나? 전쟁이다!"

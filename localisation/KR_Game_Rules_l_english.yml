@@ -778,7 +778,7 @@
  RULE_OPTION_ROM_PATH_GREEN_DESC:0 "그레이트 게임이 참상으로 끝난 후, 군단 운동은 가장 급진적인 분파로부터 새로운 지도자를 찾아냅니다. §N녹색 대공§!이 일어섭니다..."
  OTT_PATHS:0 "£KR_game_rule_flag_OTT   오스만 개혁"
  RULE_OPTION_OTT_PATHS_RANDOM:0 "기본값"
- RULE_OPTION_OTT_PATHS_RANDOM_DESC:0 "오스만은 정치적 경로를 무작위로 선택할 것입니다."
+ RULE_OPTION_OTT_PATHS_RANDOM_DESC:0 "오스만은 정치 노선을 무작위로 선택할 것입니다."
  RULE_OPTION_OTT_PATHS_KEMAL:0 "£KR_game_rule_flag_OTT  무스타파 케말"
  RULE_OPTION_OTT_PATHS_KEMAL_DESC:0 "무스타파 케말 파샤는 §g오스만 인민당§!을 중심으로 권력을 중앙화하고, 당을 오스만 제국을 20세기로 이끄는 혁명의 선봉대로 만들 것입니다."
  RULE_OPTION_OTT_PATHS_SOCLIB:0 "£KR_game_rule_flag_OTT_federation  사바하틴 에펜디 - 자유와 합의당"
