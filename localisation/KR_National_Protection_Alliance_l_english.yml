@@ -189,4 +189,4 @@
  CHS_NPA_mopping_up:0 "Reuniting the Country"
  CHS_NPA_mopping_up_desc:0 "The National Protection Alliance has restored the Republic. Now, it is time to consolidate and reintegrate the country by destroying rebellious provinces and dismantling opposing paramilitaries."
  CHS_NPA_mop_up_tag:0 "[From.GetFlag] Ultimatum to [From.GetNameDef]"
- CHS_NPA_integrate_allies:0 "[From.GetFlag] Integrate [From.GetNameDef]"
+ CHS_NPA_integrate_allies:0 "[From.GetFlag] [From.GetNameDef] 통합"

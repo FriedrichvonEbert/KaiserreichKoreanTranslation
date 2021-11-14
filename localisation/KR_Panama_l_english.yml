@@ -398,7 +398,7 @@
  PAN_study_foreign_designs_desc:0 "외국산 항공기의 설계를 연구하여 국산 항공기 설계에 영향을 줄 수 있습니다."
  PAN_purchase_aircraft:0 "외국산 항공기 구매"
  PAN_purchase_aircraft_desc:0 "예산의 일부를 외국산 항공기를 구입하는데 투자해야 합니다. 그들의 설계도면을 연구할 수도 있고, 우리 공군의 첫 항공기로 사용할 수도 있습니다."
- PAN_CAS_focus:0 "근접항공지원에 집중"
+ PAN_CAS_focus:0 "근접항공지원기 중점"
  PAN_CAS_focus_desc:0 "아군 공군력의 일부를 지상 병력 지원에 사용해야 합니다."
  PAN_logistics_improvement:0 "병참의 발전"
  PAN_logistics_improvement_desc:0 "로 빠르게 가도록 개선한다면 아군은 훨씬 효율적이 될 겁니다."
