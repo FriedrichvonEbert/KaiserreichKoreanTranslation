@@ -1,5 +1,5 @@
 ﻿l_english:
- BM_HISTORY_TITLE:0 "약력"
+ BM_HISTORY_TITLE:0 "간략한 역사"
  KR_SCENARIO_NAME:0 "세계대전의 유산"
  KR_SCENARIO_DESC:0 "1936년의 여명이 밝아오고, 세계대전의 유산은 새로운 세대의 어깨 위에 올려진 무거운 짐이 되었습니다. 독일 제국은 세계의 중심에 서 있으며 비길 데 없는 강대국이지만, 서서히 그 세력이 부상하고 있는 프랑스의 생디칼리스트 인터내셔널, 옛 협상국들, 분열되지 않은 러시아, 완고한 욱일에 이르기까지, 오랜 적들과 새로운 적들이 독일의 발 밑에서 암약하고 있습니다. 독일 제국은 광대한 영향력을 얻었으나 동시에 위험할 정도로 과다 팽창하고 말았고, 콘스탄티노플을 비롯해 빈의 동맹국들과는 그 관계가 소원해졌으며 대서양 건너편에서는 미국이라는 거인이 흔들리고 있습니다. 전쟁이 끝난지 17년이 지났고, 이번 새해가 전환점이 될 것이라 기대하는 사람은 거의 없지만, 곧 자그마한 불꽃이 화약고에 다시 불을 붙일지도 모릅니다..."
  GER_KR_GATHERING_STORM_DESC:0 "1919년, 5년의 전쟁 만에 독일군은 마침내 프랑스에서 협상국의 방어선을 무너뜨렸습니다. 그리고 1921년, 영국의 항복이 뒤따랐습니다. 세계대전은 독일을 유일무이한 강대국으로 만들어 주었지만, 1930년대 이후로 독일은 내리막길을 걷고 있습니다. 후퇴하는 세계경제로 독일의 산업력이 약화된 반면 다른 국가들의 제조업은 회복되었고, 독일의 동부 위성국들에서는 민족주의가 퍼져 제국에서 떠나가기를 원하고 있습니다. 1936년, 독일은 갈림길에 서 있고, 우리는 과거의 적들이 예전의 힘을 되찾는 동안 강대한 제국에 이미 금이 가고 있는 것을 볼 수 있습니다..."
@@ -12,4 +12,4 @@
  OTHER_KR_GATHERING_STORM_DESC:0 "세계의 크고 작은 국가들은 세계에서 주요한 역할로 등장할 기회를 기다리고 있습니다. 자신의 제국을 유지하려는 주요 국가들부터 세계대전에서 잃은 자신의 것들을 되찾으려는 많은 국가들까지, 모든 국가들은 어려운 결정들을 내려야만 할 것이고 현실과 이상 사이의 균형을 잘 맞추어 세계의 미래에 영향을 미쳐야 할 것입니다..."
  SER_KR_GATHERING_STORM_DESC:0 "1925년의 다른 유명한 혁명에서, 세르비아인들은 마침내 군주제를 전복하고 발칸에서 자유와 민주주의의 밝은 빛인 세르비아 공화국을 세웠습니다. 지난 10년 동안, 공화국은 바르톨츠 조약의 제한을 겪어왔지만, 오스트리아가 약해진다는 첫 번째 징후는 확실히 그 족쇄가 던져지는 것을 보게 될 것입니다. 세르비아인들은 마침내 이루어낸 자유를 지키면서 세계대전에서 잃었던 것을 되찾고 유고슬라비아의 횃불을 다시 밝힐 수 있을까요?"
  BUL_KR_GATHERING_STORM_DESC:0 "'발칸의 프로이센'은 1919년 최후의 전투에서 승리하였습니다. 차르 페르디나트의 수는 성공적이었고 대불가리아는 영원히 통일되었습니다. 그러나 지난 20년은 불가리아에 친절하지 않았습니다. 위기와 민족 갈등으로 동요되어 불가피한 다음 전쟁을 대비하지 못하고, 민주주의에 대한 희망이 빠르게 희미해지고 있습니다. 페트코 스타이노프 총리가 의장을 맡는 새로운 자유주의 집중이 형성되었고, 타르노보 헌법을 수호하거나 아니면 어둠 속에서 내버려 둘 마지막 기회를 얻었습니다."
- HAI_KR_GATHERING_STORM_DESC:0 "Four years after the official end of the American occupation, Haiti rests on a precipice. General D.P. Calixte seized the presidency in a bloodless coup from corrupt American puppet Louis Borno just two years ago. Claiming to govern in the name of the working class black populace, the mixed-race elite has rallied behind Elie Lescot, who leads a broad coalition in opposition to Calixte. Will President Calixte lead Haiti into a new era of equality and prosperity? Or will Haiti be in perpetual darkness..."
+ HAI_KR_GATHERING_STORM_DESC:0 "미국의 공식적인 점령이 끝난 지 4년 후, 아이티는 벼랑 끝에 놓였습니다. D.P. 칼릭스테 장군은 2년 전 부패한 미국의 꼭두각시였던 루이 보르노 정부를 무너뜨리고 대통령직을 장악했습니다. 흑인 노동계급의 이름으로 현 정부에 반대하는 혼혈 엘리트 세력은 반 칼릭스테 연합을 이끄는 엘리 레스코 아래 결집했습니다. 칼릭스테 대통령은 아이티를 평화와 번영의 새 시대로 이끌 수 있을까요? 아니면 영원한 어둠 속으로 사라지게 될까요?"

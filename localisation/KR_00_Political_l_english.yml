@@ -34,7 +34,7 @@
  KR_factional_rivalry:0 "당파 경쟁"
  head_of_gov_available:0 "§R정부수반은 직접 고용하거나 해고할 수 없습니다.§! 이벤트나 국가중점, 혹은 결정을 통해서 정해집니다.\n\n이 목록에는 국가수반으로 배정될 수 있는 모든 이들을 보여주기 때문에, 현재 정부수반과 관계가 좋지 않은 인물, 다른 국가에 있는 인물, 혹은 사망한 인물이 있을 수도 있습니다."
  minister_available:0 "§R장관진은 직접 고용하거나 해고할 수 없습니다.§! 이벤트나 국가중점, 혹은 결정을 통해서 정해집니다.\n\n이 목록에는 국가수반으로 배정될 수 있는 모든 이들을 보여주기 때문에, 현재 정부수반과 관계가 좋지 않은 인물, 다른 국가에 있는 인물, 혹은 사망한 인물이 있을 수도 있습니다."
- military_staff_available: "This member of the Military staff is alive and ready to serve the government."
+ military_staff_available: "이 군사 참모는 살아 있으며, 정부에 헌신할 준비가 되어있습니다."
  KR_is_socialist:0 "사회주의 정부임"
  KR_is_socialist_NOT:0 "사회주의 정부를 가지고 §R있지 않음§!"
  KR_is_elected:0 "민주주의와 선출된 정부를 가지고 있음"

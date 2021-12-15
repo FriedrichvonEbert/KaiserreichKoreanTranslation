@@ -48,7 +48,7 @@
  GRP_defense_core_desc:0 "The army of Guararapes is structured mostly as a collection of militias under a unified command structure. A particular emphasis is placed on mastery of the nation's varied terrain."
  GRP_federal_navy:0 "Confederate Navy"
  GRP_dockyard:0 "Naval Production"
- GRP_dubmarina:0 "Submarine Technology"
+ GRP_dubmarina:0 "잠수함 기술"
  GRP_more_dockyards:0 "Intensified Naval Production"
  GRP_naval_doctrine_focus:0 "Confedrate High Admiralty"
  GRP_destroyers:0 "Anti Submarine Flotillas"
