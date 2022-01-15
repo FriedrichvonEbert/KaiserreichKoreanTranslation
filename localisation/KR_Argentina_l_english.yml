@@ -500,7 +500,7 @@
  ARG_German_Tanks:0 "BMW 전차 수입"
  ARG_Dutch_Planes:0 "포커 비행기 수입"
  ARG_FRC:0 "결정 £decision_icon_small §H$ARG_Belgian_Artillery$§! 완료"
- ARG_Mauser:0 "결정 £decision_icon_small §H$ARG_German_Guns$§! 완료"
+ ARG_Mauser:0 "£decision_icon_small §H$ARG_German_Guns$§! 결정을 완료함"
  ARG_BMW:0 "결정 £decision_icon_small §H$ARG_German_Guns$§! 완료"
  ARG_Fokker:0 "결정 £decision_icon_small §H$ARG_Dutch_Planes$§! 완료"
  ARG_please_die_less:0 "Emergency Decisions"

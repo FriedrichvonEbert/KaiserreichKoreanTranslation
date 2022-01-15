@@ -351,7 +351,7 @@
  WHR_import_planes_desc:0 "We may have the facilities to repair and refuel planes, but building them from scratch is a whole other matter. If we are to defend our airspace, we will need some fighters. Hopefully, the Germans have some old biplanes to spare to give us SOMETHING to fight with!"
  WHR_import_support_equipment:0 "지원 장비 수입"
  WHR_import_support_equipment_desc:0 "From radios to surgical equipment, military technology has developed leaps and bounds in the last decades. We are lacking a lot of specific pieces of equipment to help support our troops behind and at the frontlines that aren't weapons or vehicles."
- WHR_import_motorised:0 "Import Trucks"
+ WHR_import_motorised:0 "트럭 수입"
  WHR_import_motorised_desc:0 "Motor vehicles have secured an important place on the modern battlefield from troop transports to ambulances. While we do have a fledging tractor industry, well, that may help the farmer in his field, but not likely our brave soldiers on the battlefield. Unless..."
  WHR_integrate_state_easy_desc:0 "The majority of the population of [FROM.GetName] recognise themselves as Belarusians, or are clearly Belarusians and will quickly realise that fact. It will be relatively easy to integrate the region into [ROOT.GetNameDef]."
  WHR_integrate_state_medium_desc:0 "A plurality of the population of [FROM.GetName] recognise themselves as Belarusians, or a good part of the population has been de-Belarusianised in recent years. It will take some time to integrate the region into [ROOT.GetNameDef]."

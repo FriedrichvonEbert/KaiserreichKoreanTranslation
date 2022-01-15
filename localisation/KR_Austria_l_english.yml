@@ -750,7 +750,7 @@
  ausgleich.new.823.t:0 "[FROM.GetNameDefCap]의 강화 승낙"
  ausgleich.new.823.d:0 "Our choice to refuse the peace offer from the Austrians seems to have greatly angered our erstwhile allies in [FROM.GetNameDef]. Their ambassador has declared our refusal a \"betrayal\" of the Pact's raison d'être, saying there is no point in continuing the war now that our aims have been achieved. It appears our alliance with [FROM.GetNameDef] is at an end."
  ausgleich.new.823.a:0 "They will regret this."
- ausgleich.new.824.t:0 "오스트리아의 라이히스팍트 가입"
+ ausgleich.new.824.t:0 "라이히스팍트에 가입한 오스트리아"
  ausgleich.new.824.d:0 "As a result of the failing war, the Austrians have turned to [GER.GetNameDef] for protection. They will join the Reichspakt alliance in full, and have asked us to join them. Should we refuse, we will be on our own."
  ausgleich.new.824.a:0 "당연히 함께해야지!"
  ausgleich.new.824.b:0 "우리 혼자가 더 나을 것이다."

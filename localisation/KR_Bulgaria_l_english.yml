@@ -1220,7 +1220,7 @@
  BUL_Join_Reichspakt:0 "Join the Reichspakt"
  BUL_Join_Austria:0 "Alliance with Austria"
  BUL_Join_Russia:0 "Alliance with Russia"
- BUL_Join_Internationale:0 "Join the Internationale"
+ BUL_Join_Internationale:0 "인터내셔널 가입"
  BUL_Opportunistic_Strike:0 "Strike [FROM.GetName]"
  BUL_Invade_Ottomans:0 "Conquer Adrianople"
  BUL_YUG_Subjugate_Balkan_States:0 "Subjugate [FROM.GetName]"
