@@ -93,13 +93,13 @@
 
 ### frontend_l_english
  CUSTOM_DIFFICULTY_GROUP_NAME:0 "국력 강화"
- custom_diff_strong_ger:0 "£KR_game_rule_flag_GER   독일 제국 강화"
- custom_diff_strong_fra:0 "£KR_game_rule_flag_FRA   프랑스 코뮌 강화"
- custom_diff_strong_eng:0 "£KR_game_rule_flag_ENG   브리튼 연방 강화"
- custom_diff_strong_ita:0 "£KR_game_rule_flag_ITA   이탈리아 공화국 강화"
- custom_diff_strong_jap:0 "£KR_game_rule_flag_JAP   일본 제국 강화"
- custom_diff_strong_usa:0 "£KR_game_rule_flag_USA   미합중국 강화"
- custom_diff_strong_sov:0 "£KR_game_rule_flag_SOV   러시아 사회주의 공화국 강화"
+ custom_diff_strong_ger:0 "£KR_game_rule_flag_GER  독일 제국 강화"
+ custom_diff_strong_fra:0 "£KR_game_rule_flag_FRA  프랑스 코뮌 강화"
+ custom_diff_strong_eng:0 "£KR_game_rule_flag_ENG  브리튼 연방 강화"
+ custom_diff_strong_ita:0 "£KR_game_rule_flag_ITA  이탈리아 공화국 강화"
+ custom_diff_strong_jap:0 "£KR_game_rule_flag_JAP  일본 제국 강화"
+ custom_diff_strong_usa:0 "£KR_game_rule_flag_USA  미국 강화"
+ custom_diff_strong_sov:0 "£KR_game_rule_flag_SOV  사회주의 러시아 강화"
  
 ### ideas_l_english
  government:0 "법률"
@@ -111,9 +111,9 @@
  materiel_manufacturer:0 "군수품 제조사"
  industry_concern:0 "산업 업체"
  chief_of_staff:0 "참모총장"
- chief_of_army:0 "육군 참모"
- chief_of_navy:0 "해군 참모"
- chief_of_air_force:0 "공군 참모"
+ high_command:0 "육군 참모"
+ navy_chief:0 "해군 참모"
+ air_chief:0 "공군 참모"
 
 ### operatives_l_english
  upgrade_passive_defense:0 "수동적 방어"
