@@ -1,10 +1,7 @@
-﻿ l_english:
- 
-### Country Names ###
+﻿l_english:
  SIB:0 "시베리아"
  SIB_ADJ:0 "시베리아"
  SIB_DEF:0 "시베리아"
-
  SIB_totalist:0 "시베리아 공화국"
  SIB_totalist_ADJ:0 "시베리아"
  SIB_totalist_DEF:0 "시베리아 공화국"
@@ -14,8 +11,6 @@
  SIB_radical_socialist:0 "시베리아 공화국"
  SIB_radical_socialist_ADJ:0 "시베리아"
  SIB_radical_socialist_DEF:0 "시베리아 공화국"
-
- ### Parties ###
  SIB_totalist_party:0 "볼셰비키"
  SIB_totalist_party_long:0 "볼셰비키 지지자"
  SIB_syndicalist_party:0 "멘셰비키"
@@ -36,3 +31,6 @@
  SIB_paternal_autocrat_party_long:0 "러시아 보즈로즈데니야 연방"
  SIB_national_populist_party:0 "러시아 보즈로즈데니야 연방"
  SIB_national_populist_party_long:0 "러시아 보즈로즈데니야 연방"
+ SIB_vadim_podbelsky:0 "Vadim Podbelsky"
+ SIB_nikolay_avksentyev:0 "Nikolay Avksentyev"
+ SIB_aleksey_grishin_almazov:0 "Aleksey Grishin-Almazov"

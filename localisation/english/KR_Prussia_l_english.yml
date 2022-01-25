@@ -1,17 +1,11 @@
-﻿ l_english:
- 
- ### Moving the Capital ###
- 
- 
- 
- 
- 
- 
-### Country Names ###
+﻿l_english:
+ ddr.1.t:0 "Finding a new capital"
+ ddr.1.d:0 "Due to enemy occupation of our natural capital in Berlin, we are forced to choose an alternative."
+ ddr.1.a:0 "Königsberg has always been our capital"
+ ddr.1.b:0 "Breslau is a good temporary choice"
  DDR:0 "프로이센"
  DDR_ADJ:0 "프로이센"
  DDR_DEF:0 "프로이센"
-
  DDR_totalist:0 "프로이센 공화국"
  DDR_totalist_ADJ:0 "프로이센"
  DDR_totalist_DEF:0 "프로이센 공화국"
@@ -21,8 +15,6 @@
  DDR_radical_socialist:0 "프로이센 공화국"
  DDR_radical_socialist_ADJ:0 "프로이센"
  DDR_radical_socialist_DEF:0 "프로이센 공화국"
-
- ### Parties ###
  DDR_totalist_party:0 "사회주의 단결연대"
  DDR_totalist_party_long:0 "사회주의 단결연대"
  DDR_radical_socialist_party:0 "프로이센 농부노동자연맹"

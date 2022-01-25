@@ -1,12 +1,8 @@
-﻿ l_english:
- 
+﻿l_english:
  PSA_focus:0 "미태평양합중국 중점계통도"
- 
-### Country Names ###
  PSA:0 "미국"
  PSA_ADJ:0 "미국"
  PSA_DEF:0 "미국"
-
  PSA_totalist:0 "미태평양합중국"
  PSA_totalist_ADJ:0 "미국"
  PSA_totalist_DEF:0 "미태평양합중국"
@@ -37,12 +33,9 @@
  PSA_national_populist:0 "미태평양합중국"
  PSA_national_populist_ADJ:0 "미국"
  PSA_national_populist_DEF:0 "미태평양합중국"
-
  PSA_ACW:0 "미태평양합중국"
  PSA_ACW_ADJ:0 "태평양"
  PSA_ACW_DEF:0 "미태평양합중국"
-
- ### Parties ###
  PSA_totalist_party:0 "사회당"
  PSA_totalist_party_long:0 "미국 사회당"
  PSA_syndicalist_party:0 "사회당"
@@ -58,38 +51,39 @@
  PSA_social_conservative_party:0 "민주당 보수파"
  PSA_social_conservative_party_long:0 "민주당 (보수)"
  PSA_authoritarian_democrat_party:0 "제일당"
- PSA_authoritarian_democrat_party_long:0 "미국제일당"
+ PSA_authoritarian_democrat_party_long:0 "미국 제일당"
  PSA_paternal_autocrat_party:0 "군사정부"
  PSA_national_populist_party:0 "은색군단"
  PSA_national_populist_party_long:0 "은색군단"
- 
-### Leaders ###
+ PSA_world_planner:0 "World Planner"
+ PSA_legacy_of_progressivism:0 "Legacy of Progressivism"
+ PSA_the_singing_cowboy:0 "The Singing Cowboy"
+ PSA_inward_reformer:0 "Inward Reformer"
+ PSA_proud_atheist:0 "Proud Atheist"
+ PSA_taming_the_west:0 "Taming the West"
+ PSA_proactive_interventionist:0 "Proactive Interventionist"
+ PSA_champion_of_the_establishment:0 "Champion of the Establishment"
+ PSA_electrify_america:0 "Electrify America"
+ PSA_small_government_firebrand:0 "Small Government Firebrand"
+ PSA_crusader_of_justice:0 "Crusader of Justice"
+ PSA_political_pragmatist:0 "Worldly Anti-Internationalist"
+ PSA_tricky_dick:0 "Tricky Dick"
+ PSA_smiling_oilman:0 "Smiling Oilman"
  POLITICS_FRANK_MERRIAM_DESC:0 "남북전쟁 참전용사의 아들인 프랭크 메리엄은 아이오와에서 태어나 미국 중서부에서 법조 경력을 쌓기로 계획하였습니다. 캘리포니아 공화당의 부상을 보자마자 프랭크는 경력을 서부로 옮겼습니다. 메리엄은 캘리포니아에서 미국 사회당과 부두 노동자의 파업을 물리쳐냈고, 심지어 업턴 싱클레어가 민주당 주지사 후보자로 지명되었을 때 퇴짜를 놓았습니다. 이에도 불구하고, 전통적으로 공화당 신문들은 메리엄의 세제 개혁에 저항하였습니다. 맥아더가 취임하자, 대부분의 공화당 신문들은 허스트에게 모든 공화당원들을 매도하라는 명령받았습니다. 메리엄은 허스트와 맥아더에 대한 대중의 항의를 이용하여 행정부 수반이 될 수 있었습니다."
-
  POLITICS_CULBERT_OLSON_DESC:0 "컬버트 올슨은 생전 모르몬교 정치인으로 출마한 것과 무신론자로 출마한 경력 때문에 양쪽 모두 오명을 쓰게 되었습니다. 컬버트는 캘리포니아 주지사로서 오랜 기간 동안 모르몬교가 미국 정부와 철천지원수가 되었다는 식의 지속적인 루머에 대처해야 했지만, 그의 임기 동안 보여준 탁월한 행보는 의료개혁법의 통과와 비사회당계열 사회주의자들의 단결권 허용에서 여실히 드러났습니다. 대통령 후보 경선이 끝나갈 무렵, 컬버트는 무신론자라는 것을 아우팅당했고 고된 싸움에 두 번째로 직면했지만, 당은 그의 편에 섰으며 결국 그의 경력이 백악관으로 입성하는 것을 성사시켰습니다."
-
  POLITICS_CLARENCE_MARTIN_DESC:0 "클래런스 마틴은 1932년 워싱턴 주 선거에서 두각을 드러냈는데, 당시 이 선거는 많은 공화당원들을 주의 공직에서 물러나게 만들었습니다. 클래런스는 어쩌면 그저 대규모 변혁 과정에서 자리를 잡은 것일수도 있지만, 워싱턴에서의 그의 경력은 중소기업 육성과 유별나게 존경받을 만한 담화 등을 포함했습니다. 클래런스는 선거 운동에서 포퓰리즘적 성향에 의한 과장이나 호소를 원칙적으로 거부했으며, 워싱턴 주 상원에서 주가 필요로 하는 토목 공사 프로젝트를 후원함으로써 특출함을 보였습니다. 민주당이 서부 전역에서 공화당의 토목 공사에 대한 주도권을 빼앗아올 수 있게 되자 클래런스는 정치적인 이익을 챙겼고, 36년도엔 워싱턴 주에서 가너보다도 더 많은 표를 얻었습니다. 일부 민주당원들이 맥아더에게로 탈주한 것은 클래런스의 충성심을 돋보이게 했을 뿐이며, 그가 대통령의 자리에 임명될 가능성을 그만큼 커지게 했을 뿐입니다."
-
  POLITICS_JOSEPH_LEE_DESC:0 "조셉 브라켄 리는 모르몬교도가 의회에 허용된 직후에 선출된 최초의 극우파 유타 공화당원 중 한 명입니다. 다른 사람들은 종교적인 이유로 징병에 저항하는 동안, 리는 군에 입대했고 결국 퇴역연금이 고갈된 이후로 힘든 시기에 빠졌습니다. 공화당원으로 주지사 선거에 출마하고 퇴역연금의 인상을 약속하면서, 이 대통령은 노인들 사이에서도 인기를 얻게 되었습니다. 이러한 인기는 그가 미국제일당 지지자인 W. 스코슨 보안관에게 불법 도박 소굴에서 붙잡힌 후 그를 해고로 이끌 뻔 했습니다. 리는 재정보수주의와 모든 종교 우익 단체의 공화당 입당을 계속해서 주장했고, 결국 그는 최고 공직에 지명되었습니다."
-
  POLITICS_RICHARD_NIXON_DESC:0 "캘리포니아 출신의 완고한 퀘이커교도였던 닉슨은 대학 졸업 이후 FBI에 입사하려 시도했습니다. 그 시도가 좌절된 이후, 닉슨은 캘리포니아의 주요 석유회사들의 변호사가 되었습니다. 닉슨은 거국적인 정세를 고수하던 동료 공화당원인 얼 워런과 불화를 만들기 시작했고, 태평양합중국에서 급진주의 때문에 의심받는 정치인들을 기소하는 직업을 택했으며, 사회주의자들을 상대로 좋은 승률을 기록했습니다. 마침내 닉슨은 공화당 내에서 워런을 꺾었으며, 그에게 자신이 대통령직 후보 자리를 갖는 대가로 캘리포니아 주지사의 자리를 약속했습니다."
-
  POLITICS_HIRAM_JOHNSON_DESC:0 "정치인 가문의 일원인 하이럼 존슨은 캘리포니아주 새크라멘토 중부에서 태어났습니다. 하이럼의 아버지인 그로브 존슨은 정치적으로 실패한 주의회 의원이였고, 그의 어머니는 미국 애국 여성회와 상당히 밀접한 관계를 맺고 있었습니다. 하이럼의 초반 정치 이력은 이러한 배경에 힘입어 발전하게 되었으며 1902년에는 샌프란시스코에서 유능한 지방검사로 발돋움하게 되었습니다. 1910년에 주지사 경선을 치르게 된 하이럼은 공화당 내의 자유주의 성향 단체인 '링컨-루스벨트 연맹'으로부터 자금 지원을 받았습니다. 존슨의 주지사 선거 유세는 주로 남태평양 철도회사에 대한 비판으로 점철되었는데, 그 이유는 바로 이 철도회사가 공화당원들로 하여금 하이럼을 지지하지 못하도록 로비를 했기 때문이였습니다. 주지사로서 당선된 하이럼은 반이민법안을 지지했고 이후 국회로 진출하기 위해 자신의 길을 닦아나갔습니다. 1932년에 하이럼은 대선후보인 허버트 후버에 대한 지지의사를 거두었고, 이로 인해 캘리포니아 공화당은 일대 혼란이 일었습니다. 이렇듯이 동부의 공화당에 대해 개인적인 혐오를 보인 하이럼은 1936년의 정치적 혼란에도 거리를 두었습니다."
-
  POLITICS_CHARLES_MCNARY_DESC:0 "찰스 맥너리는 1936년에 알프 랜던의 러닝메이트가 되어 공화당이 사방에서 공격받는 와중에도 당을 지켰습니다. 가슴 속에 공화당의 신념이 자리잡았으나 동시에 실용주의자인 맥너리는 당 내에서 북서부 지역이 급진주의로 빠지지 않게 막는 보험으로 여겨졌고, 이로 인해 그는 북아메리카에서 협상국의 이익과 동맹을 맺게 되었습니다. 사실, 그의 회사는 이런 관계에 기반해 1940년대까지 서부 캐나다에 전기를 공급했습니다."
-
  POLITICS_HENRY_WALLLACE_DESC:0 "아이오와의 찢어지게 가난한 농부라는 사회적 위치는 결코 헨리 월리스가 어린 나이에 세상을 보고 통찰력을 얻는 것을 단념시키지 못했습니다. 월리스는 주요 혁신인 하이브레드 옥수수 품종을 발명하여 막대한 부를 얻었고, 그렇게 얻은 재산으로 월리스는 세계 일주를 하게 됩니다. 헨리는 인도를 방문했고 그곳에서 당시 러시아에서 인기 있던 기독교 아나키즘과 사회주의의 요소를 이끌어냈던 힌두교 사상인 신지학(견신론)을 알게 되었습니다. 이러한 사상은 결국 월리스를 주류 사회주의로부터 멀어지게 했고 그는 미국으로 돌아와서는 농민노동당에 입당했습니다. 월리스는 그 누구보다도 실용적인 경제학자이자 미국에 절실히 필요한 농업개혁을 시행할 수 있는 농업전문가입니다."
-
  POLITICS_PHILIP_LA_FOLLETTE_DESC:0 "위스콘신 주의 전문적인 농민노동당원인 필립은 주로 정치적 분야에서 활동한 라폴레트 가문에서 가장 큰 성공을 거둔 인물입니다. 플로이드 올슨의 전직 스승이자 친구로서, 그는 어려움에 처한 주를 계속해서 돕기 위해 농민노동당에 가입해야 한다고 확신했습니다. 필립의 아버지 로버트가 표방했던 고립주의의 망령이 있었지만, 필립은 미국을 위해서는 크고 강한 국가와 강력한 군대가 필요하다는 농민노동당의 의견을 지지합니다."
-
  POLITICS_GLEN_TAYLOR_DESC:0 "글렌 테일러의 대통령 당선은 대중이 직접 선거하는 것 만큼이나 놀라운 결과였습니다. 한때 순회 설교자나 컨트리 가수가 되기를 원했던 이 남자는 마침내 자신의 기량을 펼쳐 보일 수 있는 자리에 다다랐습니다. 테일러는 의회에서 연민 어린 경제학자이자 진보 정책 옹호자, 그리고 의회 계단에서 아이들에게 노래 불러주는 사람으로 알려졌습니다. 테일러는 동정심에서 우러나오는 인종차별 반대 의견을 주장했습니다. 이런 기행에도 불구하고 그는 미국 사람들에게 사랑받고 있습니다. 그가 원했던 것은 단지 이것 뿐이지요."
-
-
-
- ### Ideas ###
+ POLITICS_SHERIDAN_DOWNEY_DESC:0 "Sheridan Downey, born on March 11, 1884 in Laramie, Wyoming, went to law school at the University of Michigan and was soon afterwards elected as the district attorney of Wyoming's Albany County in 1908 - as a Republican. In 1912, when he made a bold move of backing Theodore Roosevelt and his “Bull Moose” third-party revolt, and led the movement's efforts in Wyoming, indirectly helping the Democrats winning the state. The next year, he moved to California with his brother, Stephen, and dedicated the next few years of his life to their law firm and his own real estate ventures. In 1924, re-entered politics in the same way that he left it - by supporting another Progressive's bid for the presidency, this time with Robert La Follette, Sr. By 1932, he had decided to change his party registration to Democratic, and before the end of 1933 declared his intent to run for Governor of California. After his announcement, he was approached by the famous writer Upton Sinclair, who had his own plans to run for governor and was attracted to Downey's progressive past - however, Downey was unwilling to abandon the Democrats for the Socialist Party, and so Sinclair ran without him, while Downey narrowly edged out the Democratic nomination. Both candidates were defeated by the Republican incumbent, Frank Merriam.\n\nDowney's progressive tendencies left him unwilling to tolerate MacArthur’s coup, and so he eagerly backed the Sacramento government - but the years went on, and he became more formally involved with the political scene, his own politics began to shift. While the once-dedicated progressive remained a supporter of pensions, old-age insurance, and racial justice, he nonetheless grew increasingly conservative and friendly with the oil, corporate agriculture, and film industries. By the time of the 1944 campaign, his transformation was complete - he sought and won the Democratic nomination and the presidency as a moderate conservative Democrat, with the mission statement of leading a return to normalcy for a still war-torn nation."
+ POLITICS_WARREN_MAGNUSON_DESC:0 "While it's known that Warren Grant Magnuson was born in Moorhead, Minnesota in 1905, the exact details of his birth are a mystery - he never knew his birth parents, and was given his name by a pair of second-generation Scandinavian immigrants. Magnuson spent two years studying in North Dakota, before spending a brief stint in Canada working jobs with threshing crews. At the behest of a high school girlfriend, he moved to Seattle, Washington, where he would earn his law degree in 1929, and spent the next few years working in various government jobs. He first entered the world of politics by supporting Al Smith's 1928 bid for the presidency and remained active as a Democrat since then, championing opposition to prohibition and eventually entering the Washington House of Representatives in 1933 as a Seattle delegate. Magnuson was then elected to fill a vacancy in the national House, taking his seat in January 1937 - mere months before the country was torn apart by civil war. Opposing MacArthur's takeover, Magnuson defied the odds and escaped Washington, D.C. with the aid of anti-coup elements in the Navy - in return, he would volunteer for the war effort and serve in the Navy for much of the war.\n\nIn 1944, Magnuson entered the Senate on the back of his war record and progressive credentials, famously spearheading efforts to repeal the Chinese Exclusion Act and quickly becoming a poster boy of the Democratic reformist wing. When he announced his intent to run for the presidency in 1952, he was seen as an ideal candidate - nobody, the Democrats argued, better embodied the Pacific cause than a veteran who has dedicated his life to the cause of democracy. With the turn of the decade, many look to President Magnuson as the harbinger of a new era of American progressivism."
+ POLITICS_HARRY_CAIN_DESC:0 "Harry Pulliam Cain was born with his twin brother on January 10, 1906 in Nashville, Tennessee to a two with a strong Southern heritage, something they made sure that Cain remembered well and took pride in even after the family moved to Tacoma, Washington in 1911. Despite losing his mother at age 11 and developing a case of Bell's palsy that temporarily restrained his ability to speak, he overcame both and enrolled in Hill Military Academy and later The University of the South in Sewanee, Tennessee, developing an affinity for the 18th-century Anglo-Irish conservative philosopher and statesman, Edmund Burke. His studies also drew him towards the field of journalism, which led to him taking a job offer for The New York Times after graduating in 1929.\n\nCain's life, like the rest of America's, was completely upended by the news of MacArthur's coup and the following Californian revolt. Finding MacArthur's actions to be a sick perversion of conservativism, Cain quickly joined up with the fledgling Pacific army, where his previous military schooling was a welcome asset and helped him find a talent for military government, a skill in great demand when dealing with the unprecedented humanitarian crisis brought on by the civil war. Following his service, he returned to Tacoma to run for its largely nonpartisan mayoral office, winning the election handily by virtue of his war record and public campaign style. After a largely successful term, the conservative Democrat, long falling out of love with the party, changed his registration to Republican and made a run for the Senate, creating his first brush with controversy by accusing his Democratic opponent of having ties to Socialist front organisations. It would not be his last - the senator rapidly became notorious for his inflammatory conservative stances throughout his term.\n\nCain's rails against the tripartite threat of Socialism, Longism, and MacArthurism carried him to the Republican nomination and the presidency - but now that he's privy to the inner workings of the ongoing committees dedicated to investigating "subversive activities", Cain has shocked everyone by coming out against many of the procedures as violations of civil liberties and due process of law. President Cain is quickly earning a reputation as a man at odds with his past - and a man prepared to make a stand for any opinion, no matter how controversial."
  PSA_last_bastion_of_american_democracy:0 "미국 민주주의 최후의 보루"
- 
- 
+ PSA_last_bastion_of_american_democracy_desc:0 "America has fallen into chaos. Split into all sides among radicals and reactionaries, we shall regroup and build upon the west coast. With patience and fortitude, we will emerge victoriously. Like our forefathers who fought to keep the union, so shall we once again unite this dear country of liberty from falling into permanent anarchy."
  PSA_laissez_faire_idea:0 "자유방임주의 경제"
  PSA_immigration_act_idea:0 "이민제한법"
  PSA_moral_education_idea:0 "도덕 교육"
@@ -114,31 +108,22 @@
  PSA_arsenal_of_democracy_idea:0 "민주주의의 병기창"
  PSA_failed_operation_liberty:0 "빙하 작전의 여파"
  PSA_failed_operation_liberty_desc:0 "빙하 작전의 실패로 인해 패배주의가 우리 군대에 만연하게 되었고, 대중은 불안해하고 있습니다. 우리의 사기는 떨어졌지만, 전선에서 많은 교훈을 얻었습니다. 우리 최고사령부는 급진주의에서 국가를 지키기 위해 이러한 교훈들을 가슴 깊이 새기고 새로운 계획을 준비할 것입니다."
- 
- 
- 
- 
- ### Tooltips ###
+ PSA_arnolds_reform_plan:0 "Arnold's Reform Plan"
+ PSA_ACTS:0 "Air Corps Training School"
+ PSA_airborne_experiments:0 "Airborne Experiments"
  PSA_civil_war_victor:0 "내전에서 승리했지만, 포성은 여전히 울리고 있습니다."
- 
- 
- 
- 
- 
- ##Mission##
+ PSA_defense_contracts_tooltip:0 "Modify §H$PSA_military_industrial_production_1$§! by\n§H$infantry_equipment$§!: £production_cost  Production Cost:  [?-0.1|-%]"
+ PSA_increase_military_spending_tooltip:0 "Modify §H$PSA_military_industrial_production_1$§! by\nDaily Political Power Gain: [?-0.25|+]\nFactory Output: [?0.2|+%]"
+ PSA_bring_the_complex_west_tooltip:0 "Modify §H$PSA_military_industrial_production_1$§! by\n§HMilitary Factory§! construction speed: [?0.15|+%]"
+ PSA_officer_instruction_idea_swap:0 "Modify §H$PSA_Marshall_plan_idea$§! by\n$MODIFIER_ARMY_ORG_FACTOR$: [?0.1|+%1]"
+ PSA_start_operation_glacier_idea_swap:0 "Modify §H$PSA_Marshall_plan_idea$§! by\n$MODIFIER_ARMY_SPEED_FACTOR$: [?0.1|+%]\n$MODIFIERS_ARMY_ATTACK_FACTOR$: [?0.05|+%1]\n$MODIFIERS_ARMY_CORE_ATTACK_FACTOR$: [?-0.05|+%1]\n\n"
  PSA_Operation_Liberty_mission:0 "빙하 작전"
  PSA_Operation_Liberty_mission_desc:0 "내전이 로키 산맥 반대쪽에서 치열하게 벌어지고 있는 가운데, 서부방위사령부의 고위참모부는 전쟁에서 이기기 위해서는 대초원에 도달하기 위한 결정적인 한방이 필요하다고 결단을 내렸습니다. 마셜 최고사령관은 우리가 목표를 달성한다면 승기를 잡게 될 것이라고 장담하였습니다. 하지만 이 목표를 달성하지 못한다면, 사기가 저하될 것이고, 어쩌면 우리를 완전한 패배의 길로 가게 만들지도 모릅니다..."
- 
- ### Flags ###
  PSA_reunited_america_flag:0 "미국이 재통일되었음"
- 
- ### Decisions ###
  USA_civil_war_decisions:0 "내전 결정"
  USA_civil_war_decisions_desc:0 "우리는 미국의 미래를 위해 싸우고 있습니다. 반역자들을 무찌르고 깃발을 드높이 올립시다!"
- 
  PSA_join_japan:0 "일본과의 제휴"
- 
- ### Army Focuses ###
+ PSA_join_japan_desc:0 "The great Pacific is not the only thing we share with the Japanese, for they have shown themselves to uphold the same values of democracy that we hold so dear. After they aided us in the Civil War, it would be only just for us to join the Japanese in their goal of spreading stability, democracy and liberty in the Pacific."
  PSA_activate_the_Western_Defense_Command:0 "서부방위사령부 창설"
  PSA_activate_the_Western_Defense_Command_desc:0 "우리는 진짜 미국을 자처하고 있고, 우리 육군은 공식적으로 미합중국 육군이기 때문에, 지휘 계통이 불분명한 상태입니다. 따라서, 우리는 서부방위사령부를 신설해 군대를 정부의 간섭을 받지 않게 독립시키고, 내전에서 승리하면 다시 합칠 것입니다."
  PSA_prepare_the_artillery:0 "포병 준비"
@@ -199,8 +184,6 @@
  PSA_war_bonds_desc:0 "이 전쟁에서 이기려면 충분한 자금이 필요합니다. 채권은 인기 있는 모금 방법이며, 만화, 영화, 그리고 다른 인기 매체를 통해 쉽게 홍보할 수 있습니다."
  PSA_walkie_talkies:0 "워키토키"
  PSA_walkie_talkies_desc:0 "흔히 '워키토키'라고 불리는 휴대용 라디오는 유용한 도구입니다. 군은 이를 이용해 야포 사격, 공습 그리고 다른 많은 것들을 조율할 수 있을 것입니다."
- 
- ### Navy Focuses ###
  PSA_navy:0 "미 해군"
  PSA_navy_desc:0 "한때 미 해군은 세계의 자랑이었습니다. 하지만 이들 중 대다수가 동부의 반역자들에게 넘어갔습니다. 우리는 우리 정부에 충성하는 함대를 확인해봐야 합니다. 그래야만이 이들이 이 전쟁에서 뭘 할 수 있는지 결정할 수 있습니다."
  PSA_great_white_fleet:0 "대백색함대"
@@ -237,54 +220,36 @@
  PSA_naval_training_desc:0 "아나폴리스에 있는 해군사관학교는 내전 중 전투로 파괴되었지만, 우리는 여전히 신세대 장교들과 선원들을 훈련시킬 수 있는 많은 시설들을 가지고 있습니다."
  PSA_urban_warfare:0 "해병대 증강"
  PSA_urban_warfare_desc:0 "우리는 해병대를 확장해서 그들이 우리의 힘을 전세계에 보여줄 수 있도록 해야 합니다."
- 
+ PSA_sempre_fi:0 "Semper Fi"
  PSA_sempre_fi_desc:0 "Semper Fidelis는 '언제나 충성'을 의미합니다. 해병대는 언제나 미국의 자유와 민주주의를 위한 보루가 될 것입니다. 그리고 이들은 세계 각지에 자유를 흩뿌릴 것입니다."
  PSA_columbia_gem_of_the_ocean:0 "바다의 진주 컬럼비아"
  PSA_columbia_gem_of_the_ocean_desc:0 "해군 연구와 선박 건조에 대한 우리의 광범위한 투자를 통해 우리는 세계 최고의 해군 강국 중 하나의 자리를 되찾았습니다. 닻을 내려라!"
- 
- ### Air Force Focuses ###
  PSA_Create_The_USAF:0 "USAF 창설"
  PSA_Create_The_USAF_desc:0 "전쟁 전에, 미 육군 항공대는 이름에서 알 수 있듯이, 육군의 한 분과에 지나지 않았습니다. 지금 우리는 이들을 육군에서 독립시켜 지원해주어야 합니다."
- 
  PSA_Re_Establish_The_ACTS:0 "항공단전술학교 재설립"
- 
- 
- 
- 
- 
+ PSA_Re_Establish_The_ACTS_desc:0 "The Air Force Tactical School was the officer training school for the old Army Air Corps. Given the results of the civil war, it is clear that we must rebuild the ACTS in order to better prepare our air forces."
+ PSA_Expand_The_WASPs:0 "Expand the WASPs"
+ PSA_Expand_The_WASPs_desc:0 "Women can fly a plane just as well as a man can, and can provide many valuable auxiliary tasks, freeing up men for other duties. While socially controversial, this will be an invaluable step in winning the war."
  PSA_The_Screaming_Eagles:0 "포효하는 독수리"
  PSA_The_Screaming_Eagles_desc:0 "공수부대는 신개념 부대이고, 우리에게 상당한 이득을 가져다 줄 것입니다. 우리는 공수부대를 창설해야 합니다."
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ PSA_Airfield_Expansion:0 "Airfield Expansion"
+ PSA_Airfield_Expansion_desc:0 "The range of our fighters and bombers are limited by the airfields to which they are attached. By improving both the quality and quantity of these airfields, we will be able to strike more targets more frequently."
+ PSA_Bomber_Development:0 "Bomber Development"
+ PSA_Bomber_Development_desc:0 "Our Air Force leadership led by Harold Arnold is convinced that a strong bomber force can bring our enemies to their knees. Following their advice, we shall"
+ PSA_New_Fighter_Models:0 "New Fighter Models"
+ PSA_New_Fighter_Models_desc:0 "While many are confident that the bomber will always get through, we must hedge our bets on that. New fighters will serve us well on both offence and defence."
+ PSA_Naval_Support:0 "Naval Support"
+ PSA_Naval_Support_desc:0 "Our navy is not invulnerable, and there is a genuine concern that they might not be able to win every high seas battle that they need to win. By investing in some naval bombers, we can even the odds by striking any hostile ships in range of our air bases."
  PSA_RADAR:0 "레이더"
  PSA_RADAR_desc:0 "스탠포드와 칼텍의 두뇌들이 연구하고 있는 레이더 기술은 공중전의 양상을 영원히 바꿀 것입니다."
- 
- 
- 
- 
- 
- #Intentionally playing up 'The Bomber Always Gets Through' here.:
- 
- 
- 
- #We are as dwarves seated upon the shoulders of giants.:
- 
- 
- 
- 
- 
- ### Political Focuses ###
+ PSA_Long_Range_Interceptors:0 "Long Range Interceptors"
+ PSA_Long_Range_Interceptors_desc:0 "While having better bombers is vital to win the war of tomorrow at the enemy's doorstep, these bombers can seldom operate on their own. They will need an escort capable of facing off enemy fighters and come back in one piece. Luckily for us, plane designer Kelly Johnson has contacted us with a new and innovative design: The P-38, dubbed 'The Lightning'."
+ PSA_Strategic_Bomber_Development:0 "Strategic Bomber Development"
+ PSA_Strategic_Bomber_Development_desc:0 "Tactical bombers are all well and good for supporting the men on the ground, but the true potential of bombers lies in Strategic Bombers. When they get through, enemy cities and industry are left in ruins, and the will of the enemy to continue the war is shattered. A large fleet of strategic bombers will make us very powerful."
+ PSA_Strategic_Disruption:0 "Strategic Disruption"
+ PSA_Strategic_Disruption_desc:0 "Now that we have the bombers we need, we must develop theories and training to make the best use of them. Hap Arnold and the old Bomber Mafia have formed a solid foundation for our theories, now we shall develop their theories and see more and further than they."
+ PSA_Expand_The_Bomber_Force:0 "Expand the Bomber Force"
+ PSA_Expand_The_Bomber_Force_desc:0 "Our early experiments in developing a Bomber Force has proven promising. Now is the time to go all in on bombing the enemy into submission! Leave nothing but rubble!"
  PSA_last_bastion:0 "미국 민주주의의 마지막 보루"
  PSA_last_bastion_desc:0 "우리는 미국의 자유와 민주주의의 마지막 보루입니다. 워싱턴은 폭군에게 넘어갔고 남부와 강철 벨트에서는 급진주의자 반란이 일어났습니다. 이제 자유의 민주주의의 횃불을 든 이는 우리 하나 뿐입니다."
  PSA_social_conservatives_in_power:0 "옛 민주당의 승리"
@@ -311,8 +276,6 @@
  PSA_moral_education_desc:0 "고등교육은 오래전부터 엘리트층의 보루였고, 이대로 유지되어야 합니다. 아이비 리그의 영광스러운 홀들은 준비되지 않은 사람들을 위한 장소가 아닙니다. 이 장소들은 미래의 미국 지도자들이 최고의 교육을 받는 장소로 남겨져야 합니다."
  PSA_new_american_century:0 "새로운 미국의 세기"
  PSA_new_american_century_desc:0 "현 대통령의 당선 이후 우리는 미국을 재건하는 걸 목적으로 하는 재단을 설립했습니다. 내전에서 재기하는 것은 시간이 걸리겠지만, 우리는 위대한 첫 걸음을 다시 내딛을 준비가 되어 있습니다."
- 
- ### Market Liberals ###
  PSA_social_gospel:0 "사회복음"
  PSA_social_gospel_desc:0 "부가 부자에서 가난한 자들로 흘러간다는 사실은 경제학의 간단한 법칙입니다. 우리 시민들이 이 사회적 진리를 깨닫게 해야 합니다."
  PSA_soften_regulations:0 "규제 완화"
@@ -337,10 +300,8 @@
  PSA_education_philanthropy_desc:0 "가장 부유한 사업가들은 보통 아이비리그, 스탠퍼드, 시카고 대학과 같은 소규모 엘리트 대학에 다녔습니다. 우리는 불우한 사람들도 이러한 학문의 상아탑에 들어갈 수 있도록 해야 합니다."
  PSA_new_liberalism:0 "신자유주의 시대"
  PSA_new_liberalism_desc:0 "공화당이 집권한 이후 미국의 경제가 정점에 이르렀습니다. 실업률은 낮고, 주가는 계속 오르고 있습니다. 미국과 자본주의에 신의 축복이 있기를!"
- 
- ### Social Liberals ###
  PSA_progressive_taxation:0 "자유 조세"
- 
+ PSA_progressive_taxation_desc:0 "Ideally, taxation should strike a balance between allowing people to still have enough money to spend on consumer and luxury goods, and supporting government programs. The Progressive Party's tax plan ensures this will be the case."
  PSA_securities_act:0 "증권법"
  PSA_securities_act_desc:0 "많은 사람들은 내전 동안 미노조연맹과 미연합국이 수행한 대규모 재산 몰수를 두려워하고 있습니다. 우리는 국민들의 사유재산을 인정해주는 법률을 제정하여 그들을 안심시켜야 합니다."
  PSA_gospel_of_wealth:0 "배금주의 풍토"
@@ -363,10 +324,8 @@
  PSA_liberal_unions_desc:0 "모든 노동조합이 생디칼리슴의 소굴은 아닙니다. 몇몇은 진정으로 노동자들의 권리 향상에 관심을 가지고 있고, 우리는 이들을 지원하여 노동자들을 보호함과 동시에 국내에 아직도 숨어있는 생디칼리스트들을 제거해야 합니다."
  PSA_new_progressive_era:0 "새 진보의 시대"
  PSA_new_progressive_era_desc:0 "선거가 끝나고 미국은 역사상 유례없는 성장의 시기를 누렸습니다. 내전의 잿더미에서 솟아나온 우리는 이제 전세계에 진보의 가치를 퍼뜨려야 합니다."
- 
- ### Social Democrats ###
  PSA_new_nationalism:0 "뉴내셔널리즘"
- 
+ PSA_new_nationalism_desc:0 "This New Nationalism regards the executive power as the steward of the public welfare. It demands of the judiciary that it shall be interested primarily in human welfare rather than in property, just as it demands that the representative body shall represent all the people rather than any one class or section of the people."
  PSA_strengthen_democracy:0 "민주주의 강화"
  PSA_strengthen_democracy_desc:0 "민주주의 자체는 결함이 없지만, 내전으로 인해 낡은 엉터리 자본주의의 실태가 드러나게 되었습니다. 우리는 이제 모두에게 민주주의가 유용하다는 것을 보여야 합니다."
  PSA_labor_relations_act:0 "노동관계법"
@@ -399,22 +358,20 @@
  PSA_resettlement_adminstration_desc:0 "내전 당시 대규모 난민들이 전국 각지로 피난갔습니다. 인종차별주의자들의 소굴 남부를 벗어나는 흑인들부터 캐나다와 캘리포니아로 도망치는 부유층까지, 우리는 이들이 그들의 집이나 적어도 안전한 곳에 정착할 수 있도록 보장해야 합니다."
  PSA_bread_and_roses:0 "빵과 장미"
  PSA_bread_and_roses_desc:0 "미국은 농민노동당 지도하에 번창해 왔습니다. 경제가 호황을 누리고 있고, 정부의 복지 프로그램으로 인해 어느 누구도 급진적인 생디칼리슴과 다른 좌파 이념들에 관심이 없습니다. 미국의 새로운 시작입니다."
- 
- ### Foreign Policy ###
  PSA_back_in_business:0 "사업 재개"
- 
+ PSA_back_in_business_desc:0 "The nation has seen some troubles which meant it could not act as an international power, not as it deserves to be - but that has now changed. America is ready to re-enter the world stage."
  PSA_rebuild_monroe:0 "먼로 독트린 재건"
- 
+ PSA_rebuild_monroe_desc:0 "The troubles in Europe and elsewhere are not ours. America belongs to the New World, and to that end we must endeavour to stake out our place in it. It is our destiny to be the master of North America and protector of South America, and woe betide those who would stand in our way."
  PSA_diplomatic_corps:0 "미국 외교단"
- 
+ PSA_diplomatic_corps_desc:0 "The first step in achieving dominance is to ensure that our future enemies and allies are fully aware of our intentions. Welcome our presence or not, however, we are coming."
  PSA_rightful_domain:0 "정당한 영역"
- 
+ PSA_rightful_domain_desc:0 "North America is our first and foremost concern. We will not condone hostile nations on America's borders, and we must prepare our military to guard our domain by both land and sea."
  PSA_cooperaton_treaties:0 "협력 조약"
- 
+ PSA_cooperaton_treaties_desc:0 "The League of American States will be an organisation of friendly neutrals in North and South America, one where the United States is both protector and kindly guide."
  PSA_propping_up_allies:0 "신 아메리카 제국주의"
- 
+ PSA_propping_up_allies_desc:0 "Americans are not imperialists - we go only where we are welcomed, and enforce our will only where it is necessary to maintain order in the West. For the benefit of all."
  PSA_pax_americana:0 "팍스 아메리카나"
- 
+ PSA_pax_americana_desc:0 "The great struggle of this continent is now over, and a new sense of wholeness has come. Economic cooperation and social order will now reign and another great ambition of America's is complete."
  PSA_enter_the_fray:0 "설전 가담"
  PSA_enter_the_fray_desc:0 "미국은 세계의 일원입니다. 우리는 전세계 곳곳의 우리를 향한 위협을 제거하기 위해 외국의 동맹에 끌려들어가는 것을 주저하지 않을 것입니다."
  PSA_arsenal_of_democracy:0 "민주주의의 병기창"
@@ -439,254 +396,190 @@
  PSA_leap_forward_desc:0 "우리의 노력이 결실을 맺고 한 곳에 집중하는 데 성공함에 따라, 미국은 다음 세기로 도약하게 되었습니다 - 나머지 세계보다 훨씬 앞선 상태로요."
  PSA_peace_at_last:0 "마지막 평화"
  PSA_peace_at_last_desc:0 "우리의 노력은 결실을 맺었고, 마침내 미국은 힘과 희생만이 가져올 수 있는 진정한 평화를 깨달았습니다.."
- 
- ### Events ###
- 
- 
- 
- 
- 
- 
+ pacificstates.0.t:0 "Vice President Sworn in as President"
+ pacificstates.0.d.roosevelt:0 "With election violence deepening, in the eyes of Governor of California Frank Merriam, there was only one choice to make to ensure the legitimacy of the pro-democracy uprising. His fellow Republican Vice President Quentin Roosevelt, having successfully pacified the longshoremen's unions and reaffirmed Progressive and Farmer-Labor support for the National Unity Party, had to be sworn in as President.\n\nIn an emergency conference in Sacramento on the first of March, the governors of California, Oregon, and Washington insisted an inauguration take place the next day. Bowing to pressure, Quentin Roosevelt was duly sworn in as the 32nd President of the United States on [?global.date.GetDateStringNoHourLong]. At the moment, only the west coast is loyal to his administration, but it is hoped more of the country will soon follow."
+ pacificstates.0.d.mcnary:0 "With election violence deepening, in the eyes of Governor of California Frank Merriam, there was only one choice to make to ensure the legitimacy of the pro-democracy uprising. His fellow Republican Vice President Charles McNary, having successfully pacified the longshoremen's unions and reaffirmed support for democracy in his home state of Oregon as well as Washington, had to be sworn in as President.\n\nIn an emergency conference in Sacramento on the first of March, the governors of California, Oregon, and Washington insisted an inauguration take place the next day. Bowing to pressure, McNary was duly sworn in as the 32nd President of the United States on [?global.date.GetDateStringNoHourLong]. At the moment, only the west coast is loyal to his administration, but it is hoped more of the country will soon follow."
+ pacificstates.0.d.smith:0 "With election violence deepening, in the eyes of Governor of California Frank Merriam, there was only one choice to make to ensure the legitimacy of the pro-democracy uprising - Vice President Al Smith had to be sworn in as President.\n\nIn an emergency conference in Sacramento on the first of March, the governors of California, Oregon, and Washington insisted an inauguration take place the next day. Bowing to pressure, Smith was duly sworn in as the 32nd President of the United States on [?global.date.GetDateStringNoHourLong]. At the moment, only the west coast is loyal to his administration, but it is hoped more of the country will soon follow."
+ pacificstates.0.a:0 "... so help me God."
  pacificstates.1.t:0 "새로운 [GetYear]년 선거"
  pacificstates.1.d:0 "샌디에이고에서의 혼란이 현재진행형임에도 불구하고, 태평양 연안의 많은 도시들에서 선거는 질서정연히 치뤄졌고, 소요사태는 극히 일부에 불과했습니다. 맥아더 장군은 이 법질서의 신성함을 공공연히 과시하는 것에 대해 격분하였고, 태평양 정부가 즉각적으로 연방정부에 항복하지 않는다면 새로운 '유사 대통령'이 휴이 롱, 잭 리드 등과 같은 처벌을 받게 될 것이라고 선언하였습니다. 서부의 분위기는 저항하는 분위기인 가운데, 서부 미국인들이 미국정부의 임시 수장으로 선출한 지도자는..."
  pacificstates.1.a:0 "캘리포니아 상원의원인 하이럼 존슨."
  pacificstates.1.b:0 "캘리포니아 주지사인 프랭크 메리엄."
- 
-### Domestic Policy Events 40 - 75 ###
  pacificstates.40.t:0 "미국의 새로운 수도?"
  pacificstates.40.d:0 "미국이 재통합됨에 따라, 어느 곳이 미국의 수도가 되어야 하는지가 의회의 쟁점으로 떠올랐습니다. 어느 곳이 미국의 수도가 되어야 할까요?"
  pacificstates.40.a:0 "워싱턴 D.C."
  pacificstates.40.b:0 "샌프란시스코."
  pacificstates.40.c:0 "새크라멘토."
  pacificstates.40.e:0 "세인트루이스."
- 
  pacificstates.50.t:0 "HUAC 설립"
  pacificstates.50.d:0 "정부에 적대적인 체제 전복적 세력들을 심판하는 위원회를 만들자는 제안이 의회에 올라왔습니다. 위원회는 '반미국행위위원회'으로 불릴 것이며, 미국의 반역자들을 색출해 낼 것입니다. 하지만, 정부 내 일부 사람들은 그것의 효용성에 의문을 제기하고 있고 헌법에 위배된다고 주장하고 있습니다. 의회는 어떻게 해야 할까요?"
  pacificstates.50.a:0 "위원회를 조직하자."
  pacificstates.50.b:0 "위원회를 조직하지 말자."
- 
  pacificstates.51.t:0 "헤이스 코드와 영화"
  pacificstates.51.d:0 "할리우드는 미국 영화협회 회장 윌 H.헤이스의 이름을 딴 소위 '헤이스 코드'를 만들기로 결정했습니다. 많은 사람들은 이 법안의 실제 목표를 생디칼리슴적 색채의 영화를 몰아내는 것이라 보고 있지만, 이 법안의 명시적인 목표는 영화에서의 '도덕성'을 보장하는 것입니다. 그러나 많은 감독들은 지금까지 규정을 아슬아슬하게 넘지 않고 영화를 만들어 왔고, 앞으로도 그럴 것으로 예상됩니다."
  pacificstates.51.a:0 "이를 통해 영화의 발전이 이루어질 것이다."
- 
  pacificstates.52.t:0 "미국의 국가"
  pacificstates.52.d:0 "미국은 공식 국가가 없었습니다. 현재 의회에서 국가로 선포할 노래를 토론하고 있습니다. 노래 네 곡이 가능한 후보로 뽑혔습니다. 의회가 어떤 노래를 뽑아야할까요?"
  pacificstates.52.a:0 "컬럼비아, 대양의 보배"
  pacificstates.52.b:0 "컬럼비아 만세"
  pacificstates.52.c:0 "자유의 함성"
  pacificstates.52.e:0 "별이 빛나는 깃발"
- 
  pacificstates.53.t:0 "아동 노동법 개정안"
- 
+ pacificstates.53.d:0 "Congress has recently proposed an amendment to outlaw child labour throughout the country. The proposed amendment reads as followed:\n\nSection 1. The Congress shall have power to limit, regulate, and prohibit the labor of persons under eighteen years of age.\n\nSection 2. The power of the several States is unimpaired by this article except that the operation of State laws shall be suspended to the extent necessary to give effect to legislation enacted by the Congress.\n\nAs per the constitution of the United States it has to be ratified by either: The legislatures of three-fourths of the states or State ratifying conventions in three-fourths of the states. What shall happen with the amendment?"
  pacificstates.53.a:0 "개정안이 비준되었다."
  pacificstates.53.b:0 "개정안이 비준되지 못했다."
- 
  pacificstates.54.t:0 "평등법 개정안"
- 
+ pacificstates.54.d:0 "The Amendment had been conceived up in the early 1920s following the passage of the Eighteenth amendment to allow women the right to vote. The amendment would follow up on the 19th and further protect the rights of women throughout the United States of America. The Amendment reads as followed:\n\nSection 1. Equality of rights under the law shall not be denied or abridged by the United States or by any State on account of sex.\n\nSection 2. The Congress shall have the power to enforce, by appropriate legislation, the provisions of this article.\n\nSection 3. This amendment shall take effect two years after the date of ratification.\n\nAs per the constitution of the United States it has to be ratified by either: The legislatures of three-fourths of the states or State ratifying conventions in three-fourths of the states. What shall happen with the amendment?"
  pacificstates.54.a:0 "개정안이 비준되었다."
  pacificstates.54.b:0 "개정안이 비준되지 못했다."
- 
  pacificstates.55.t:0 "중국인 배제법"
  pacificstates.55.d:0 "1800년대 이후 중국인은 미국에서 배제받았습니다. 이들은 미국 시민권자가 될 수도 없었고 미국으로 이민갈 수도 없었습니다. 현재 의회는 이 법률들이 폐지되어야 하는지 아니면 계속 존치시켜야 하는지 논의 중입니다."
  pacificstates.55.a:0 "법을 폐지해라."
  pacificstates.55.b:0 "법을 남겨둬라."
- 
  pacificstates.56.t:0 "반 클랜 법안"
  pacificstates.56.d:0 "제1차 내전 이후 그랜트 대통령은 첫번째 클랜과 이들의 테러를 막기 위해 많은 법을 통과시켰습니다. 윌슨 행정부와 맥아두 행정부 시기 클랜은 다시 부활했고 미래의 폭군 휴이 롱에게 합류했습니다. 우리는 이 테러리스트 반역자들이 미국 내에서 보이지 않도록 이 법을 이용해야합니다."
  pacificstates.56.a:0 "클랜에게 죽음을!"
- 
  pacificstates.57.t:0 "노동법"
  pacificstates.57.d:0 "최저임금과 주당 최대 근로시간에 대한 일련의 법률이 최근 의회에 발의되었습니다. 최저임금법은 시간당 25센트의 최저임금을 보장하고, 최대 근로시간법은 주당 40시간 근무제를 보장합니다. 이 법률들은 국회에서 하나로 묶어서 논의되고 있는데, 하나가 통과되거나 통과되지 못하면 다른 하나도 그렇게 될 것입니다. 의회의 선택은?"
  pacificstates.57.a:0 "법안을 통과시켜라."
  pacificstates.57.b:0 "법안을 통과시키지 마라."
- 
  pacificstates.61.t:0 "국립공원재정비법"
  pacificstates.61.d:0 "모든 국립공원, 국립기념관, 국립묘지, 국립군사공원, 국립수도공원 등을 국립공원관리청의 산하에 통합해 이를 재정비하자는 법안이 의회에서 발의됐습니다. 이 법을 통해 국립공원관리청의 관할이 넓어질 것입니다."
  pacificstates.61.a:0 "국립공원을 재정비하자."
- 
  pacificstates.62.t:0 "이민 논쟁"
- 
+ pacificstates.62.d:0 "The situation the Federal Government arrived at when the Pacific States was created did not offer us time to clarify the policy of immigration. This meant that a deal being planned by the Department of Labor to allow for Mexican labour temporary work rights in the United States was frozen for a time. Now that elections have been held and Democrat power retained, we can now address this concern. This program proposed by the Department of Labor was meant to alleviate the west's employment shortage and was supported by the Republicans. Now traditionally our party line is to respect the Alien Exclusion act and the rights of natural born American workers to determine the direction of the economy, but our employment shortage is that much greater as we struggle to reclaim America. Perhaps we should allow this through?"
  pacificstates.62.a:0 "우리는 노동력이 필요하다."
  pacificstates.62.b:0 "아니, 우리의 이상이 우선이다."
- 
  pacificstates.63.t:0 "할리우드 부기"
- 
+ pacificstates.63.d:0 "The decision to promote true American values with a closer relationship with Hollywood seemed smart initially. However, the glitz and glamour of Hollywood shady accounting practices that confound our ability to measure returns. Patriotic productions privately financed receive royalties out of gross sales, which have been very high. However, the deal we accepted was on profits, which appear to be next to nothing. This inconsistency needs to be renegotiated, and the studios be told that such creative accounting cannot fly with the American government!"
  pacificstates.63.a:0 "팝콘에도 세금을 매길 수 있지 않을까?"
- 
  pacificstates.64.t:0 "동양 태평양주의 운동"
- 
+ pacificstates.64.d:0 "We initially thought that our intelligence service was overreactive when they warned us of Japanese infiltration, but this revelation justifies the time spent. Our of our new West Coast operations, agents uncovered pamphlets sent to prominent Japanese and African American leaders questioning the validity of our government. These pamphlets were traced to an organisation called the Pacific Movement of the Eastern World, whose leadership appears to advocate in favour of a Pacific Japanese Alliance that advocates for unrestricted imperial growth of Japan in Asia. This organisation appears to target non-Chinese ethnic minorities with promises of greater social freedom. We have arrested the conspirators, but we were unable to tie them to the Japanese embassy surprisingly."
  pacificstates.64.a:0 "이상한 조직이군."
- 
  pacificstates.65.t:0 "커뮤널리즘과 예수 그리스도 후기성도 교회"
- 
+ pacificstates.65.d:0 "The Church of Jesus Christ and Latter-Day Saints, better known as Mormons, have expressed sentiments in recent months to strengthen the ideals of Communalism within the church in order to counter the sway of syndicalism. Notably the Church has come out with a faith-based welfare program, called coincidentally enough the Church Welfare Program, to help provide for support for fellow Mormons, furthermore the program calls for more Bishop Storehouses to be created. Due to the churches influence in the western states, this has also translated into increased support for the Progressive and Farmer-Labor Parties."
  pacificstates.65.a:0 "커뮤널리즘을 해결책으로 지지하자."
- 
  pacificstates.66.t:0 "군수 기업 재판"
  pacificstates.66.d:0 "많은 무기 회사들이 미국에 대항하는 다양한 반역자들을 위해 싸웠습니다. 따라서, 그들의 운명을 결정하기 위한 청문회가 의회에서 열렸습니다. 그들이 공장을 다시 돌릴 수 있게 해야 할까요, 아니면 그들을 배신자로 처벌해야 할까요?"
  pacificstates.66.a:0 "공장 재가동을 허가하자."
  pacificstates.66.b:0 "그들은 반역자들이고 처단되어야 한다."
- 
  pacificstates.67.t:0 "중장비 기업 재판"
  pacificstates.67.d:0 "많은 중장비 회사들이 미국에 대항하는 다양한 반역자들을 위해 싸웠습니다. 따라서, 그들의 운명을 결정하기 위한 청문회가 의회에서 열렸습니다. 그들이 공장을 다시 돌릴 수 있게 해야 할까요, 아니면 그들을 배신자로 처벌해야 할까요?"
  pacificstates.67.a:0 "공장 재가동을 허가하자."
  pacificstates.67.b:0 "그들은 반역자들이고 처단되어야 한다."
- 
  pacificstates.68.t:0 "항공 기업 재판"
  pacificstates.68.d:0 "많은 항공 회사들이 미국에 대항하는 다양한 반역자들을 위해 싸웠습니다. 따라서, 그들의 운명을 결정하기 위한 청문회가 의회에서 열렸습니다. 그들이 공장을 다시 돌릴 수 있게 해야 할까요, 아니면 그들을 배신자로 처벌해야 할까요?"
  pacificstates.68.a:0 "공장 재가동을 허가하자."
  pacificstates.68.b:0 "그들은 반역자들이고 처단되어야 한다."
- 
  pacificstates.69.t:0 "해군 기업 재판"
  pacificstates.69.d:0 "많은 해군 회사들이 미국에 대항하는 다양한 반역자들을 위해 싸웠습니다. 따라서, 그들의 운명을 결정하기 위한 청문회가 의회에서 열렸습니다. 그들이 공장을 다시 돌릴 수 있게 해야 할까요, 아니면 그들을 배신자로 처벌해야 할까요?"
  pacificstates.69.a:0 "공장 재가동을 허가하자."
  pacificstates.69.b:0 "그들은 반역자들이고 처단되어야 한다."
- 
  pacificstates.70.t:0 "산업 기업 재판"
  pacificstates.70.d:0 "많은 산업 회사들이 미국에 대항하는 다양한 반역자들을 위해 싸웠습니다. 따라서, 그들의 운명을 결정하기 위한 청문회가 의회에서 열렸습니다. 그들이 공장을 다시 돌릴 수 있게 해야 할까요, 아니면 그들을 배신자로 처벌해야 할까요?"
  pacificstates.70.a:0 "공장 재가동을 허가하자."
  pacificstates.70.b:0 "그들은 반역자들이고 처단되어야 한다."
- 
  pacificstates.71.t:0 "보라색 공포"
- 
+ pacificstates.71.d:0 "With the so-called Red Scare under way, [PSA.GetLeader] has passed Executive Order 10450 that broadened the definition of a national security risk to include 'Any criminal, infamous, dishonest, immoral, or notoriously disgraceful conduct, habitual use of intoxicants to excess, drug addiction, or sexual perversion.'. This has led to the firing of over 5,000 federal employees who were accused of being homosexual."
  pacificstates.71.a:0 "우리는 미국의 안정을 유지해야 한다."
- 
  pacificstates.72.t:0 "아멜리아 에어하트와 나인티-나인"
- 
+ pacificstates.72.d:0 "With the civil war now over, Amelia Earhart has restarted the Ninety-Nines dedicated to promoting and supporting women to become aviators. A number of these pilots have sought to enter the air force through the WASP organisation."
  pacificstates.72.a:0 "인생에는 단지 승객이 되는 것보다 할만한 게 많지."
- 
  pacificstates.73.t:0 "볼더 댐이 완공되다"
- 
- 
- 
+ pacificstates.73.d:0 "'This morning I came, I saw and I was conquered, as everyone would be who sees for the first time this great feat of mankind. Ten years ago the place where we are gathered was a sparse, forbidding desert. In the bottom of a gloomy canyon, whose precipitous walls rose to a height of more than a thousand feet, flowed a turbulent, dangerous river. The mountains on either side of the canyon were difficult of access with neither road nor trail, and their rocks were protected by neither trees nor grass from the blazing heat of the sun. The site of Boulder City was a cactus-covered waste. The transformation wrought here in these years is a twentieth-century marvel.' Thus begins [PSA.GetLeader]'s Speech dedicating the creation of Boulder Dam that has finally been completed today."
+ pacificstates.73.a:0 "... and on behalf of the Nation to say to you, 'Well done.'"
  pacificstates.74.t:0 "철도 국유화"
- 
+ pacificstates.74.d:0 "One of the Progressive Party's Policies it has sought for some time was a nationalisation of the countries Railroads. Now that they have power, the question is how exactly shall railway nationalisation go. Congress is debating between two different proposals for how this shall be implemented. The first proposal is that the railroads will be nationalised but not the cars allowing for private businesses to compete among themselves for customers, while the second plan would include the cars in the nationalisation. Which version shall Congress go with?"
  pacificstates.74.a:0 "철길만 국유화하자."
  pacificstates.74.b:0 "철길과 열차를 국유화하자."
- 
- ### Flavour Events ###
- 
  pacificstates.76.t:0 "하워드 휴즈와 항공"
- 
+ pacificstates.76.d:0 "Howard Hughes has made his name through his businesses that dealt with aviation and many of those planes were designed by himself or approved by him. The war did not dim his love of aviation, still strong as ever - and he believes that what will be beneficial for the America is to have a strong air force and aviation industry. To that end, working with both military and civilian leadership, he has spearheaded the formation of the Federal Aviation Administration. The FAA will have all authority over regulating civilian aviation, including air safety regulations, air navigation and traffic control as well as promote the aviation industry. Hughes believes that this will usher in an age of aviation for America."
  pacificstates.76.a:0 "창공으로!"
- 
  pacificstates.101.t:0 "페레즈 대 샤프 사건"
- 
+ pacificstates.101.d:0 "The case involving the marriage of Andrea Perez to Sylvester Davis has finally reached the Supreme Court. Andrea Perez is classified as White while Sylvester Davis is considered Negro as per the US Census. However, California's law forbids "All marriages of white persons with Negroes, Mongolians, members of the Malay race, or mulattoes are illegal and void" and that "no license may be issued authorising the marriage of a white person with a Negro, mulatto, Mongolian or member of the Malay race". Consequently county clerk W. G. Sharp followed California Law and refused to give them their marriage licenses.\n\nHowever, Perez with the help of their lawyer, Daniel G. Marshall, brought forth a Writ of Mandamus. Within the trial, one of the arguments that was brought up was the fact that both Perez and Davis were Catholic and wanted a Catholic Marriage that included mass. By denying them the license, they stated that the state was depriving them of the Holy Sacrament of Matrimony.\n\nHowever, the fate of their case is within the hands of the Supreme Court. What shall be decided?"
  pacificstates.101.a:0 "4-3으로 금지가 번복되었다."
  pacificstates.101.b:0 "3-4으로 금지가 유지되었다."
- 
  pacificstates.102.t:0 "슬리피 석호 살인 사건"
- 
+ pacificstates.102.d:0 "In Los Angles news has been made of José Gallardo Díaz, who was recently found murdered near a swimming hole in Commerce, near LA. However, what made the story more newsworthy was the case of the men who are accused of murdering the man. The LA Police found a gang of 17 Men, of Mexican-American descent, nearby and believe that they are responsible for the crime. This has attracted something of a media circus as activists have tried to protest the actions claiming that these men are not the killer and are innocent, the fact that there is insufficient evidence to link them. Despite this nine of them were convicted of second-degree murder and sentenced to serve time in San Quentin Prison, with the rest being imprisoned in Los Angeles County jail.\n\nThe case has generated much animosity within the white populace towards Mexican-Americans, not helped by the fact that both the Police and the Press have characterised all Mexican Youths as 'pachuco hoodlums and baby gangsters.'"
  pacificstates.102.a:0 "불쌍한 디아즈."
- 
  pacificstates.103.t:0 "주트 수트 폭동"
- 
+ pacificstates.103.d:0 "With the war going on, rations have been imposed upon the public. Despite this, some within the Mexican-American Community fount this by wearing Zoot Suits that use materials that are needed for the war effort. Many White Americans regard wearing the Zoot Suit as a sign of criminality and loose morals. Tensions have continued in Los Angeles to rise till they exploded into violence. Soldiers and Sailors beat and engaged in rioting against the Mexicans. Meanwhile, the local press tended to praise the Sailors and Soldiers of 'having a cleansing effect to rid Los Angeles of Miscreants and Hoodlums'. One journalist on the scene, Carey McWilliams, wrote:\n\n'Marching through the streets of downtown Los Angeles, a mob of several thousand soldiers, sailors, and civilians, proceeded to beat up every zoot suiter they could find. Pushing its way into the important motion picture theatres, the mob ordered the management to turn on the house lights and then ran up and down the aisles dragging Mexicans out of their seats. Streetcars were halted while Mexicans, and some Filipinos and Negroes, were jerked from their seats, pushed into the streets and beaten with a sadistic frenzy'"
  pacificstates.103.a:0 "좋지 않군."
- 
  pacificstates.104.t:0 "주트 수트 폭동"
- 
+ pacificstates.104.d:0 "In the city of Los Angeles in [From.GetNameDef], young Mexicans and Mexican-Americans have viciously been beaten. Their shops have been looted and more atrocities have been lumped upon them. The Gringo Press has even joined in on the action urging them to continue with their actions. To many within the Mexican Congress, this is an outrage. Our own citizens who have gone to America for temporary work, not to mention those with ties to Mexico due to ancestral are being mistreated. A letter to the [From.GetAdjective] State department will make sure that this is stopped."
  pacificstates.104.a:0 "국무부에 불만을 전달하자."
- 
  pacificstates.105.t:0 "맥거켄 위원회"
- 
+ pacificstates.105.d:0 "Following the Zoot Suit Riots, the Mexican government lodged a complaint with the United States State department. To calm tensions between America and Mexico, the McGucken Committee has been created lead by the Archbishop of Los Angeles, Joseph Thomas McGucken. The report concluded that Racism was clearly at the centre of the riots as well as stating 'an aggravating practice (of the media) to link the phrase zoot suit with the report of a crime.' The governor of California appointed the Peace Officers Committee on Civil Disturbances, chaired by Robert W. Kenny, president of the National Lawyers Guild to make recommendations to the police. Human relations committees were appointed, and police departments were required to train their officers to treat all citizens equally"
  pacificstates.105.a:0 "이것으로 끝이길 빌자."
- 
  pacificstates.106.t:0 "캘리포니아 태평양 국제 박람회"
- 
+ pacificstates.106.d:0 "Today opens the California Pacific International Exposition in San Diego. The Exposition was held to promote San Diego and support its economy, which had slowed with the country's Great Depression in 1925. The exposition had hundreds of exhibits on history, the arts, horticulture, ethnic cultures, science, and industry. Some concessions and exhibits were unusual, such as the Gold Gulch, Lost Continent of Mu, Zoro Garden Nudist Colony, and the 'One Ton Mechanical Man.'. The Expo attracted 7,220,000 visitors during its 377 days of operation. Visitors brought US$$37,700,000 to San Diego. The exposition was so popular that some buildings are being rebuilt to be made permanent."
  pacificstates.106.a:0 "내년에도 또 하자."
- 
  pacificstates.107.t:0 "시민 케인 개봉"
- 
+ pacificstates.107.d:0 "Orson Welles has released Citizen Kane that has quickly earned praise from numerous film goers and critics alike. Many are considering it a ground-breaking film for its cinematography, music, and editing. It is a quasi-biographical movie about the fictional Charles Foster Kane, a newspaper editor. In the movie Kane's career in the publishing world is born of idealistic social service, but gradually evolves into a ruthless pursuit of power. However, despite all of this, William Randolph Hearst is furious at the film refusing for his papers to even publish the film and run defamatory attacks on those that did. Despite his outrage, this hasn't stopped people from going to see it."
  pacificstates.107.a:0 "로즈버드."
- 
  pacificstates.108.t:0 "오즈의 마법사"
- 
+ pacificstates.108.d:0 "The Wizard of Oz has been released to glowing reviews. Based on the best selling book by L. Frank Baum, the movie stars Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr, Jack Haley, Billie Burke, Margaret Hamilton, and Charley Grapewin. What has made it famous is its use of colour thanks to the innovations of Technicolor. It is a hit with both audiences and critics alike."
  pacificstates.108.a:0 "노란 벽돌길을 따라가자."
- 
  pacificstates.109.t:0 "샌프란시스코 패션위크"
- 
+ pacificstates.109.d:0 "San Francisco is sometimes called the Paris of the West. Thus to help make it one of the cultural centres of the world, a week long event in spring dedicated to Fashion. Thus the fashion designers of America have come to San Francisco to help set up shop and support the endeavour to make San Francisco one of the cultural and fashion capitals of the world. So that she can truly be proud of her nickname of the Paris of the West."
  pacificstates.109.a:0 "미국의 새로운 패션 트렌드군."
- 
  pacificstates.110.t:0 "파라마운트 픽쳐스 판결"
- 
+ pacificstates.110.d:0 "A court case has reached the Supreme Court of [Root.GetNameDef] regarding the studio system that had been a legal battle for several years. The issue at the heart of the case was the Studio System where the major movie industries would own the theatres outright. After a number of years of back and forth it has reached the supreme court. The Supreme Court ruled against the studio system declaring that it was a volition of the anti-trust laws. This court case has thus struck down the studio system and marks the end of an age for Hollywood."
  pacificstates.110.a:0 "스튜디오 시스템의 끝이군."
- 
- 
- 
+ pacificstates.111.t:0 "Superweapons on a budget"
+ pacificstates.111.d:0 "In the last few years our military research has focused on the potential for internal conflict, narrowing our focus and budget for longer-term projects. This years' Congressional Budget has fortunately found some money to allocate to a long-term project. Three plans are presented to the military high command to meet and exceed the military projects of our rivals. The first is a rocket by Goddard theoretically capable of delivering explosives from miles away without risking pilot lives. The second is Oppenheimer's planned theoretical bomb using radioactive heavy metals as researched in Austria and Germany. The third is a much cheaper plan as proposed by the eccentric Wilhelm Reich, he claims that a bomb can be made much cheaper using his own physics research."
  pacificstates.111.a:0 "고다드의 로켓"
  pacificstates.111.b:0 "오펜하이머의 폭탄"
  pacificstates.111.c:0 "라이히의 폭탄"
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ pacificstates.112.t:0 "Goddard's Successful Launch"
+ pacificstates.112.d:0 "At home again in Roswell, New Mexico, Goddard again goes to launch test rockets. The last time he was here, the rockets were smaller than his thigh, and reached only a thousand feet in height. Now the rockets soar miles over the desert and touch down with their dummy weights. Goddard's refusal to detonate explosive rockets on the Continental United States prevent the full scale of the damage to be known."
+ pacificstates.112.a:0 "Good boy Goddard."
+ pacificstates.113.t:0 "Oppenheimer's Bomb a Success"
+ pacificstates.113.d:0 "An invitation by Oppenheimer was sent out to nuclear researchers, physicists, and engineers throughout Europe. The promise of escaping persecution in Europe has resounded most strongly to Jewish scientists, some of whom emigrated to the US for the project. After a year and a half of experimentation and some cooperation with colleagues in Europe, a working atomic bomb is ready to be tested. The skies of Almagordo New Mexico lit up in a flash of destruction as the test bomb Valediction exploded. Oppenheimer later said that the bomb was named after his favourite John Donne poem."
+ pacificstates.113.a:0 "The breath goes now."
+ pacificstates.114.t:0 "Reich's Failed Explosion."
+ pacificstates.114.d:0 "After many delays and several attempts to obfuscate the general staff, Wilhelm Reich's bomb project is discontinued and millions of dollars wasted on bunk. This became apparent to Reich's observers when tests showing his energy, named Orgone, could induce exothermic reactions that only he and his associates could see. The bomb itself being a hollow shell with layers of metals covering that never did explode, save for its collapse when Reich attempted to destroy it during the investigation. This embarrassment is currently making its rounds in the papers."
+ pacificstates.114.a:0 "Not our proudest moment."
+ pacificstates.150.t:0 "The Pacific Declaration"
+ pacificstates.150.d:0 "Ever since the first peaceful transfer of power between George Washington and John Adams, the government of the United States has prided itself on respecting the wishes of its population after an election. This unspoken contract between the people and their government has been violated by General Douglas MacArthur. In deposing the democratically-elected president in the name of 'preserving stability', he shattered the founding principles of our great nation. The destruction of the healthy civil-military relationship that has marked America since independence is a grievous slight to all the values we hold as a nation.\n\nIn response, the governors of California, Washington, and Oregon have issued a joint declaration condemning the General’s actions, and demanding his immediate withdrawal from Washington. We doubt he will respond positively, but like the patriots in 1776, we must take a stand against tyranny and oppression."
+ pacificstates.150.a:0 "For the republic!"
+ pacificstates.151.t:0 "Merriam Calls for New Elections"
+ pacificstates.151.d:0 "Frank Merriam, in coordination with the governors of Oregon and Washington, issued a stunning public statement today. In it, he claimed that if the so-called 'protector' of American values could not even respect the basic rights outlined in the Constitution, referring to Douglas MacArthur, it would be up to the people of the Pacific to defend America's inalienable rights. Claiming that MacArthur’s overthrow of the government was illegitimate, a new election would be held to select a new president - albeit amongst a limited slate of candidates in the Pacific region. Still, according to Merriam, whoever won this election would still have more legitimacy than MacArthur, and would be tasked with overseeing the return of the nation to democracy - by force, if needs be."
  pacificstates.151.a:0 "우리는 헌법을 수호해야 한다!"
- 
  pacificstates.152.t:0 "생디칼리스트 폭동!"
- 
+ pacificstates.152.d:0 "Following Jack Reed’s own declaration of MacArthur’s illegitimacy, many hoped that the capitalists and syndicalists could come together and preserve American democracy. Those naive aspirations were dashed when Governor Merriam ordered the National Guard to violently suppress a syndicalist protest which broke out in Sacramento. This escalated into widespread rioting across many Western cities, with Seattle in particular descending into violence. Longshoremen and teamsters broke into Seattle city hall, and proclaimed the city loyal to Reed’s workers republic in Chicago. Currently, the city is in a tense stand-off between National Guard units and the rebels holed up in the city hall."
  pacificstates.152.a:0 "반역자들을 분쇄하라!"
- 
  pacificstates.153.t:0 "선거 폭력"
- 
+ pacificstates.153.d:0 "Tensions between the Pacific states and Washington have remained high over the last few weeks, but today, in the lead-up to the 'new election', they erupted into open conflict. While some of the ships in Naval Base San Diego were transferred to the East Coast after the first signs of unrest, many remained - along with sailors from across the country. Details are sketchy, but it appears a base commander, on orders from Washington, ordered sailors to take weapons from the base armoury and head into the city. Deploying themselves at polling places, they prevented poll workers from setting up. When morning came, large mobs surrounded these soldiers, and began pelting them with rocks, bottles, and other debris. One of the sailors, hit by a bottle, fired back, and soon the city descended into chaos.\n\nCalifornia National Guard units were deployed, and pitched street battles between sailors loyal to MacArthur and the Guardsmen erupted, turning the tranquil city into a war zone."
  pacificstates.153.a:0 "반역자들을 타도하자!"
- 
  pacificstates.154.t:0 "기한이 임박하다"
- 
+ pacificstates.154.d:0 "As the federal government's deadline looms, it has become clear there will be no budging on either side. Newly-elected President [Root.GetLeader] has been busy raising militia across the West, amidst a growing determination to see the country restored and MacArthur defied. The federal government, in turn, has also made it clear they no longer see a path to compromise with the Pacific states."
  pacificstates.154.a:0 "시간 문제다."
- 
  pacificstates.200.t:0 "군의 민간 트럭 징발"
- 
+ pacificstates.200.d:0 "After Marshall announced his Motorisation program for the W.D.C., a proposal was sent to the President to decide on the requisition of civilian vehicles in order to supply our fast-growing army. With his approval, we have begun seizing vehicles from the civilian populace, although to our surprise, some proud patriots line up next to our storages to volunteer their vehicles for the incoming fight. While not all their vehicles have proven to be useful for us, we have managed to requisition a fair amount of trucks which can either be modified to transport troops with ease or which are sturdy enough to transport our troops at once."
  pacificstates.200.a:0 "그들의 봉사를 치하하자."
- 
  pacificstates.201.t:0 "빙하 작전의 성공"
  pacificstates.201.d:0 "아이다호 주, 유타 주, 애리조나 주의 점령으로, 방위사령부는 빙하 작전이 엄청난 성공을 거두었다고 여기고 있습니다. 로키산맥을 통제하면서 그 너머의 우리 공장들의 안전이 확보되면서, 우리는 이제 대초원과 남부를 공격할 수 있는 좋은 교두보를 확보하게 되었습니다. 그곳에서 우리는 급진주의자들을 몰아내고 나라를 구할 것입니다."
  pacificstates.201.a:0 "곧 워싱턴에 당도하겠군!"
- 
  pacificstates.202.t:0 "빙하 작전의 실패"
  pacificstates.202.d:0 "빙하 작전을 통해 약간의 땅을 얻을 수 있었지만, 전쟁에 들인 노력에 비해 잃은 게 너무 컸습니다. 현재 상태 그대로, 로키 산맥은 분쟁지대로 남을 것이며 우리의 장기적 생존은 어려워졌습니다. 이제 마셜과 방위사령부는 필요한 모든 것을 해야 할 것입니다."
  pacificstates.202.a:0 "우리 전략을 재설정하자."
- 
  pacificstates.203.t:0 "전차 설계 재고려"
- 
+ pacificstates.203.d:0 "With the Civil war over, we now have to revise the industrial measures we undertook during the war in order to enhance war-time production. One of these measures was Marshall's request for faster tanks for mass production, which came with the unfortunate drawback of being unreliable on harsh terrain, a trait which unfortunately has caused more than one headache to the newly recruited tank crews of our nation. Since our spending in military affairs shall be increased, some designers have approached us with newer models with better engines and suspension systems which shall ensure no regular breakdowns happen, but in exchange our experts predict our production speed will be reduced. What should we do?"
  pacificstates.203.a:0 "좀 더 신뢰성 높은 모델에 집중하자."
  pacificstates.203.b:0 "탱크로 적진을 휘젓고 다닐 수 있다면 신뢰성은 문제가 되지 않는다!"
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- ###############################################
- #PSA's Army General Descriptions by Drozdovite#
- ###############################################
+ pacificstates.204.t:0 "Progressives and Farmer-Labor See Massive Gains"
+ pacificstates.204.d:0 "Local newspapers have reported a massive increase in activity by the Progressive Party and Farmer-Labor parties. While this shift would be understated in previous years, the existence of dictatorial powers in the Federal Government has unsettled many reliable voters in the Pacific States. This shift has reached the provisional Congress in Sacramento, where several minor Representatives have made public statements endorsing the Progressives and Farmer-Labor. To the observers in the rest of the US, this shift validates their concerns that the establishment Democrats and Republicans have become totally estranged from the two party system."
+ pacificstates.204.a:0 "Let's Focus on more Reliable Voters"
+ pacificstates.205.t:0 "The Triumph of Democracy"
+ pacificstates.205.d:0 "With the final defeat of General MacArthur's junta, our government - the righteous government - stands tall over the American continent once more. Just like Abraham Lincoln seventy-five years ago, President [PSA.GetLeader] has saved democracy and the Union. Now that the war is over, the lessons learned from the Crisis of '37 and the war must be studied and applied. While there is indeed much willingness in the government to reform the system, there is no consensus on how to proceed.\n\nSome question whether Presidents Reed and Long should be propagandised as martyrs against the dictatorship of Douglas MacArthur - who all agree was the prime villain of the Civil War - or if they should be dismissed as radical dictators-in-the-making themselves. There are still many sympathisers of both men in the Farmer-Labor, Democratic, and Progressive parties, despite declaring both men traitors back in 1937.\n\nWhat is clear is that the military had grown too powerful in pre-war America, even in peacetime, but few know how to reconcile this issue with national defence, and especially with the popularity of General Marshall, who has been offered several government positions already. All these questions and others must now be answered, but by the grace of Almighty God America now has a government ready to try."
+ pacificstates.205.a:0 "Democracy in America is not dead yet.\n§L(Keep map colour)§!"
+ pacificstates.205.b:0 "Democracy in America is not dead yet.\n§L(Switch map colour)§!"
+ pacificstates.206.t.PSA:0 "The Chinese Madame Curie"
+ pacificstates.206.d.PSA:0 "A recent thesis on Bremsstrahlung and the production of radioactive isotopes produced by the nuclear fission of uranium has come from none other than the 28 year old Chien-Shiung Wu, a young and aspiring physicist at the University of California, Berkeley. Hailing from the small town of Lihue in Jiangsu Province, Wu graduated from the top of her class and in 1929 was admitted to university in Nanjing. A teacher at a Shanghai public school, Wu held a close relationship with the school’s president, the distinguished Hu Shih who has acted as both a mentor and a second father for Wu. Due to the constant instability that has plagued China and the encouragement of fellow woman researcher Gu Jing-Wei, Wu made the decision to emigrate to the United States in 1936 with the intent to study at the University of Michigan. Wu was shocked at the sexism that lurked in American academia and decided to prefer at the much more liberal UC Berkeley. At Berkeley, Wu’s intellect, beauty, and charisma has earned the respect of her mentors such as Robert Oppenheimer and Ernest O. Lawrence while also gaining the admiration of her classmates who have affectionately given her the nickname of “Gee Gee”. Having completed her PhD with her commendable thesis, Oppenheimer and Lawrence have recommended that Wu’s research be used for further atomic research."
+ pacificstates.206.t.china:0 "The First Lady of Physics Returns Home"
+ pacificstates.206.d.china:0 "Escaping the war-torn United States, Chien-Shiung Wu has returned home to China. Hailing from the small town of Lihue, Wu graduated from the top of her class and in 1929 was admitted to university in Nanjing. A teacher at a Shanghai public school, Wu held a close relationship with the school’s president, the distinguished Hu Shih who has acted as both a mentor and a second father for Wu. Due to the constant instability in China and the encouragement of fellow woman researcher Gu-Jing Wei, Wu made the decision to emigrate to the United States in 1936 with the intent to study at the University of Michigan. Wu was shocked at the sexism that lurked in American academia and decided to prefer the much more liberal UC Berkeley. However with the collapse of the Pacific States of America, Wu once again has returned to China. With the resources of the Academia Sinica at her disposal; Wu intends to lead China's atomic program bringing China into the modern age."
+ pacificstates.206.a:0 "Bravo!"
  PSA_HENRY_ARNOLD_ARMY_DESC:0 "§Y장군 설명\n§Y출생:§L 1886년 6월 25일, 미합중국 펜실베이니아 글래드와인\n§Y군 경력:§L 정치인들과 장교들을 배출한 아놀드 가문의 일원 헨리 할리 "햅" 아놀드는 17살이 된 이후 웨스트포인트에 입학했습니다. 그는 기병이 되고 싶었지만 성적 때문에 필리핀에 주둔한 제29보병연대에 배치되었습니다. 1911년 4월 그는 통신 병과로 전속되었고 5월에 비행 훈련을 수료했습니다. 그는 1910년 후반기 동안 항공력의 선구자로 있었으며 세계대전 동안 있었던 항공기 발전에 매료되었습니다. 1920년대에는 동료 윌리엄 렌드럼 미첼과 함께 독립된 공군의 창설을 위해 싸웠고 그 결과 미첼은 군사재판에 서게 되었습니다. 아놀드는 다른 유명한 조종사들과 함께 미첼을 변호했지만 미첼은 패소했습니다. 아놀드는 계속해서 독립된 공군을 위해 싸우고 그의 의도대로 조종사를 모집하려다가 '부당한 방식으로 입법부에 영향을 끼치려 했다'는 사유로 포트라일리에 보내졌고, 그곳에서 그는 몇 년간 젊은이들에게 공군에 대한 영감을 주는 책을 쓰려 했습니다. 1928년 돌아온 그는 1928년 육군지휘참모대학교에 입학해 1929년 졸업했습니다. 1935년까지 근무지를 바꿔온 그는 1935년 3월 2일 준장으로 진급해 그의 경력 중 가장 독립 공군에 가까웠던 항공대 사령부에 배치되었습니다. 내전이 발발할 때 '햅'은 항공대 총사령관에 대한 의견 차이로 미국 서해안에 있었습니다. 그는 태평양 주지사들에게 합류하기로 결정했습니다. 그가 알고 있는 기술적 전문 지식을 제공한다면 그 대가로 독립 공군 창설에 대한 약속을 받을 수 있을테니까요."
  PSA_DADDY_MARSHALL_ARMY_DESC:0 "§Y장군 설명\n§Y출생:§L 1880년 12월 21일, 미합중국 펜실베이니아 유니언타운\n§Y군 경력:§L 조지 캐틀렛 마셜 주니어는 1900년 버지니아군사학교에서 입학해 1902년 졸업하여 소위로 임관했습니다. 마셜은 미국-필리핀 전쟁 당시 필리핀에 배치되었으며 전쟁 후에도 해당 지역의 게릴라 진압 작전을 도왔습니다. 그는 세계대전 동안에는 다른 미군 장교들과 함께 참관을 위해 프랑스에 보내졌고, 그곳에서 대위로 승진하였습니다. 이후 그는 1919년 짧은 기간동안 퍼싱 장군의 부관으로 일하고 난 후 군 내에서 여러 보직에 배치되었는데, 이는 세계대전 경험을 경험 없는 장교들에게 전수하고 육군 교리 현대화를 돕기 위해서였습니다. 이 시기 마셜은 전쟁부의 주요 계획자이자 저술가가 되었습니다. 그는 공사관 도시에서 제15연대를 지휘했으며, 1927년까지 육군대학원에서 생도들을 가르쳤습니다. 중령으로 승진한 그는 포트베닝 보병학교의 교감에 임명되었고, 그곳에서 에드윈 F. 하딩에게 보병학교의 출판물을 관리하도록 하였습니다. 마셜은 1933년 대령으로 승진할 때 까지 여러 보병 연대를 전전했으며, 군 내 주요 장교들이 탈영할지도 모른다는 공포가 퍼지며 1935년 말 준장으로 승진했습니다. 맥아더가 정부를 장악하자, 마셜은 그를 원수로 간주하길 거부했습니다. 이후 태평양 주지사들이 반란을 선언하자, 마셜은 그들에게 합류해 원수가 되었습니다. 그는 미국에서 제일 뛰어난 계획가이며, 우리 참모진에서 제일 경험있는 인물입니다.\n§Y주목할 점:§L- 민주당원 아버지와 공화당원 어머니를 둔 마셜은 공적으로나 사적으로나 정치적으로 관대한 사람입니다."
  PSA_ALEXANDER_PATCH_ARMY_DESC:0 "§Y장군 설명\n§Y출생:§L 1889년 11월 23일, 미합중국 애리조나 주 포트후아추카 \n§Y군 경력:§L 기병대위 알렉산더 M. 패치의 아들인 알렉산더 맥커럴 "샌디" 패치는 1909년 웨스트포인트에 입대하면서 군 생활을 시작했습니다. 기병대의 지지자였던 그는 곧 기병이 전쟁터에서 쓸모없게 될 것이라는 점을 금방 알아차렸기 때문에 보병 병과로 입대했고, 1913년 웨스트포인트를 소위로 졸업했습니다. 그의 첫 자대는 텍사스에 본부를 둔 제18보병연대였는데, 거기서 그는 퍼싱의 멕시코 '토벌'에 파견되어 중위로 진급하게 되었습니다. 패치는 미국의 어떠한 주요 교전에도 참전하지 않은 채로 1919년 대위를 달았고, 4년간 포트 베닝에서 교관을 맡았습니다. 그는 버지니아에 위치한 스턴튼 사관학교에 군사과학 및 전술 과목의 교수로 지원했는데, 이 직위는 최근 시점까지 유지되었습니다. 그 사이, 그는 1922년엔 야전 장교 과정을, 1925년에는 미육군지휘참모대학을 특출한 성적으로 졸업했고, 마침내 1932년 미육군대학원을 졸업해 중령이 되었습니다. 패치의 놀라운 복무 기록은 그의 졸업 이후 몇 년간 그와 긴밀한 연락을 취하려 했던 조지 마셜 장군에게 깊은 인상을 주었습니다. 내전이 발발하자 마셜은 패치가 태평양 육군의 참모진에게 합류할 것을 간청했고, 그는 이를 받아들여 준장으로 진급했습니다."
@@ -697,16 +590,10 @@
  PSA_GEORGE_WINDLE_READ_ARMY_DESC:0 "§Y장군 설명\n§Y출생:§L 1900년 7월 29일, 미합중국 애리조나 주 포트그랜트\n§Y군 경력:§L 조지 윈들 리드 주니어는 미 육군 참모부의 핵심 일원이었던 아버지를 따라 젊은 시절의 대부분을 병영에서 보냈고 1917년엔 자원입대했으며, 처음엔 보병 병과로 지원해 육군사관학교를 소위로 졸업했지만 폴로에 대한 애정 때문에 1920년 이전 기병 병과로 옮겨가 기병학교 기본과정을 밟은 뒤 1921년에 졸업했습니다. 그는 미국 국내와 해외 곳곳에서 여러 직책을 맞았으면, 그의 아버지가 1934년 사망할 때까지 그 발자취를 쫓았습니다. 아버지의 죽음과 함께 그는 시애틀에 배속되었는데, 거기서 그는 국가의 상황이 악화됨에 따라 중앙정부의 이름을 내걸고 몇 차례에 걸친 파업을 진압할 수밖에 없었습니다. 마침내 태평양 주지사들이 반기를 들자 조지는 그들의 반란을 지지하기로 결정했는데, 이는 그 지역에 존재하는 대부분의 동료들이 반란죄로 감옥에 수감되는 위험을 감수하고 싶지 않았기 때문입니다. 그는 충성심에 대한 감사의 표시로 준장으로 진급했고, 이제 그의 아버지처럼 직무에서 자신을 증명할 수 있기를 간절히 기다리고 있습니다."
  PSA_JIMMY_DOOLITTLE_ARMY_DESC:0 "§Y장군 설명\n§Y출생:§L 1896년 12월 14일, 미합중국 캘리포니아 주 앨라매다\n§Y군 경력:§L 제임스 해럴드 '지미' 둘리틀은 로스앤젤레스 수공예고등학교를 졸업한 후 로스앤젤레스 시립대에 입학했으며, 이후 캘리포니아 대학교 버클리 캠퍼스에 입학하여 광산학과에서 공부했습니다. 그는 1917년 비행사관으로서 통신예비역에 편입했고 1918년 중위로 임관했으며, 이후 비행 교관으로서 현역으로 복무했습니다. 그는 항공기계학교와 항공공학과정을 거쳤고, 이후 마침내 버클리로 돌아와 1922년 문학사 학위를 받았습니다. 둘리틀은 1920년대를 거치면서 국가적인 유명인사가 되었고 항공 분야의 선구자가 됨과 동시에 미국과 해외를 오가며 여러 차례의 여행을 했으며, 해군 항공에 대한 여러 과정을 밟았고 심지어는 1924년 MIT로부터 항공학 석사학위를 취득하기까지 했습니다. 둘리틀은 계기 비행의 발전에 기여하는 데 일조했는데, 그는 그 덕분에 1930년 소령으로 진급했습니다. 이후, 그는 현역으로서의 생활을 떠나 쉘 오일 컴퍼니의 항공부장으로 근무하기 시작했습니다. 그러나, 긴장이 내전으로까지 치달으면서 둘리틀은 고국을 위해 다시 한 번 복무를 시작했고, 프랭크 메리엄이 캘리포니아가 태평양합중국의 반란에 가담하고 있다고 발표하자 그는 흔쾌히 작전참모로 자원해 준장을 달았습니다.\n§Y주목할 점:§L- 그는 뛰어난 비행사 겸 전략가로, 동료들보다 훨씬 더 빨리 학습합니다. 심지어 육군 내에서도, 이러한 점은 그의 상관들 사이에서 일부 논란을 일으켰습니다."
  PSA_HERBERT_POWELL_ARMY_DESC:0 "§Y장군 설명\n§Y출생:§L 1903년 7월 13일, 미합중국 오리건 주 먼마우스\n§Y군 경력:§L 허버트 버틀러 파월은 1919년 일병으로 오리건 주방위군에 입대하면서 군 생활을 시작했고 거기서 하사 계급까지 진급했으며, 1927년 졸업한 오리건 대학교에서 저널리즘을 공부하기 시작했습니다. 1931년 그는 포트 베닝 보병학교에서 위관 과정을 밟았고, 소위로 졸업했습니다. 그는 미육군지휘참모대학에 등록해 1935년 소령으로 졸업했습니다. 파월은 엄밀히 말하자면 계급이 높은 편은 아니었지만, 그는 내전의 고조가 진행되는 동안 맥아더에 대한 반기를 드는 과정에서 마셜과 손을 잡았으며, 마침내 태평양합중국이 반란을 일으키자 마셜과 함께 서부로 탈출하여 충성의 대가로 준장으로 승진되었습니다."
- 
- ###############################################
- #PSA's Admirals Descriptions#
- ###############################################
  PSA_HARRY_HILL_NAVY_DESC:0 "§Y제독 설명\n§Y출생:§L 1890년 4월 7일, 미합중국 캘리포니아 주 오클랜드\n§Y군 경력:§L 해리 윌버 힐은 1907년 미국 해군사관학교에 입학했고 1911년 6월에 졸업했습니다. 그는 해군사관학교를 졸업한 이후 해안경비대 태평양전대에서 장갑순양함 메릴랜드 호, 어뢰정모함 아이리스 호, 구축함 페리 호, 그리고 기관장교로서 방호순양함 알바니 호에서 연속으로 복무했습니다. 1917년 1월부터 그는 전함 텍사스 호에서 복무했고 1918년 9월엔 전함 와이오밍 호로 전속되었습니다. 1918년 11월 23일 그는 전함 아칸소 호의 항해사로 발령받았고 1919년 1월까지 그 자격으로 복무했는데, 당시 그는 대서양함대 제7지휘편대 소속 전속부관 임무를 맡았습니다. 그해 7월, 그는 비슷한 임무를 받은 채로 태평양함대 제6지휘편대 참모부로 전보되었습니다. 해군사관학교에서 2개월간 복무한 이후인 1919년 11월, 그는 해군참모총장 전속부관이 되었고 1923년 3월까지 그 자리를 유지했습니다. 이후 그는 순양함 콩코드 호에 장비를 탑재하는 것을 도왔고 콩코드 호가 1923년 11월 23일 취역하자 포술장교로서 탑승했습니다. 그는 1925년 6월부터 3개월간 함대총사령관 부관으로 근무했고, 이후 경순양함 멤피스 호의 포술장교로 근무했습니다. 그는 1926년 6월부터 1928년에 걸쳐 2년간 버지니아주 햄프턴로즈의 모병소에서 행정관으로 근무하다가 1928년 7월부터 1931년 5월까진 메릴랜드 호에서 포술장교로 복무했습니다. 그는 1929년 메릴랜드 호가 포술 트로피를 수상했을 때 전함에 타있었고, 해군장관으로부터 표창장을 받았습니다. 그는 1930년엔 해군사관학교 행정부서에 대대장교로 발령받았고, 1933년 6월부터 1934년까지 미 태평양함대 전투함대사령관 참모부에서 함대포술장교를 지냈습니다. 중령을 달고 배스 아이언 웍스 조선소에 발령받은 힐은 듀이 호의 장비 설치를 도왔고, 듀이 호가 취역한 1934년 10월 4일부터 1935년 6월 17일까지 이 구축함을 지휘했습니다. 이후 그는 다시 해군작전부장사무실에 배속되었고, 내전이 발발했을 당시엔 해군대학의 고등과정을 수료하기 직전이었습니다. 그는 내전의 발발로 태평양 주지사들에게 가담했고, 소장 계급으로 진급했습니다."
  PSA_FELIX_STUMP_NAVY_DESC:0 "§Y제독 설명\n§Y출생:§L 1894년 12월 15일, 미합중국 웨스트버지니아 주 파커스버그\n§Y군 경력:§L 펠릭스 버드웰 스텀프는 1913년 미국 해군사관학교에 합격했습니다. 그는 포함 요크타운 호에서 복무했고, 세계대전 당시엔 대서양에서 순양함 신시내티 호의 항해사로 일했습니다. 전후 그는 전드레드노트 전함인 앨러배마 호에서 복무했습니다. 스텀프는 그 직후 1920-1921년 펜사콜라 해군항공기지에서 비행 훈련을 받은 후 MIT 항공공학 대학원을 다녔습니다. 그는 1923년부터 1925년까지 실험적 항공모함인 랭글리 호의 제2뇌격기대대(VT-2) "두어 버즈(Doer Birds)"의 해군 비행장교로 근무했습니다. 그는 1928-1929년에 걸쳐 순양정찰전대를 지휘했고, 1930-1931년에는 정찰함대 순양전대 소속 참모로 근무했습니다. 스텀프는 1937년이 되기 직전엔 랭글리 호 소속 제2수뢰폭격전대의 지휘관이었습니다. 1937년 중령으로 진급한 그는 내전이 발발한 시점에서 랭글리 호의 부장으로 복무하고 있었고, 태평양사령부에 의해 해군 소장으로 진급했습니다."
  PSA_HARVEY_OVERESCH_NAVY_DESC:0 "§Y제독 설명\n§Y출생:§L 1893년 1월 20일, 미합중국 인디애나 주 라파예트\n§Y군 경력:§L 하비 에드워드 '스위드' 오버리쉬는 미국 해군사관학교의 장교후보생이 되기 전까지 2년간 퍼듀 대학교에 다녔습니다. 그는 해군 장교후보생 미식축구팀에서 엔드 포지션으로 뛰었습니다. 그는 1914년엔 월터 캠프에 의해 전미 3위 팀의 일원으로 선발되기도 했습니다. 또한 오버리쉬는 해군 농구팀 및 그 8인조 크루와 경쟁하기도 했습니다. 그는 1915년 사관학교 체육대회에서 "가장 뛰어난 개인 운동능력"으로 해군체육협회가 제작한 예검을 받았습니다. 졸업 이후, 그리고 세계대전 기간 동안, 그는 USS 사우스캐롤라이나 호에서 첫 보직을 받아 1918년 12월까지 복무했습니다. 이후 그는 대서양사령부 참모부 소속 전속부관으로서 연이어 복무했습니다. 그는 1920년 미국 해군사관학교에서 병기 분야 대학원 과정을 밟았고 이를 마무리한 1923년 6월엔 USS 웨스트버지니아 호가 건조중이던 뉴포트뉴스 조선소와 드라이독컴퍼니 시설로 발령받았습니다. 그는 웨스트버지니아 호가 취역하는 1926년 3월까지 그곳에서 근무했고, 1927년까지 USS 오스본 호의 부장을 맡았습니다. 그의 다음 임무는 뉴포틀랜드의 해군어뢰기지에서의 육상근무였고 이후엔 1929년 해상으로 돌아가 아시아함대에서 복무하기 이전까지 달그렌에 위치한 해군성능시험장에서 일했습니다. 1935년 그는 미국 재향 군인회의 해군 및 해군 항공대 담당관으로 임명되었고, 거기서 내전이 발발할 때까지 근무했습니다. 내전이 발발하면서 그는 미국으로 소환되었고, 태평양사령부에 의해 임시로 해군 소장으로 진급했습니다."
  PSA_JAMES_DOYLE_NAVY_DESC:0 "§Y제독 설명\n§Y출생:§L 1897년 8월 22일, 미합중국 뉴욕 주 아스토리아\n§Y군 경력:§L 제임스 헨리 도일은 1916년 미국 해군사관학교에 입학해 1920년 기수와 함께 졸업했습니다. 그는 1919년 졸업한 이후 1926년 8월까지 USS 머큐리, USS 펜실베이니아, USS 조지 E. 뱃저, USS 델라웨어, 그리고 USS 캠든에서 연이어 복무했습니다. 1926년 8월 1일, 그는 조지 워싱턴 대학교 법대에 다니는 동안 워싱턴 D.C.의 해군부 법무감실에 처음으로 출근했습니다. 그는 1929년 법학사 학위를 받으며 우수한 성적으로 졸업했습니다. 1929년 7월 부랴부랴 임무에 복귀한 그는 USS 로렌스 함에 부장으로 임관했으며, 1930년 8월엔 비슷한 자격으로 USS. 뷰캐넌으로 전보되었습니다. 1932년 7월 USS 뷰캐넌에서 내린 그는 이후 3년간 법무감실에서 근무했으며, 이후 1935년 6월부터 1937년 6월까지 정찰함대 구축함전대 참모부 부관으로 근무했습니다. 내전이 발발하자, 그는 태평양사령부에 의해 해군 소장으로 진급했습니다."
-
-### Characters ###
  PSA_henry_wallace:0 "헨리 월리스"
  PSA_philip_la_follette:0 "필립 라 폴레트"
  PSA_glen_taylor:0 "글렌 테일러"
@@ -738,4 +625,4 @@
  PSA_harry_wilbur_hill:0 "해리 윌버 힐"
  PSA_felix_budwell_stump:0 "펠릭스 버드웰 스텀프"
  PSA_harvey_edward_overesch:0 "하비 에드워드 오버레쉬"
- PSA_james_henry_doyle:0 "제임스 헨리 도일" 
+ PSA_james_henry_doyle:0 "제임스 헨리 도일"

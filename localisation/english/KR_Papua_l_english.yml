@@ -1,6 +1,4 @@
-﻿ l_english:
- 
- ### Parties ###
+﻿l_english:
  PNG_social_democrat_party:0 "사회민주당"
  PNG_social_democrat_party_long:0 "사회민주당"
  PNG_social_conservative_party:0 "나침반당"
@@ -21,8 +19,6 @@
  PNG_syndicalist_party_long:0 "뉴기니 노동당"
  PNG_totalist_party:0 "최대주의당"
  PNG_totalist_party_long:0 "최대주의당"
-
-### Country Names ###
  PNG:0 "파푸아"
  PNG_ADJ:0 "파푸아"
  PNG_DEF:0 "파푸아"

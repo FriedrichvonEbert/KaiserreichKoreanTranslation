@@ -1452,7 +1452,6 @@
  BAT_Riga:0 "리가"
  BAT_Riga_ADJ:0 "리가"
  BAT_Riga_DEF:0 "리가"
-
  BAT_Riga_totalist:0 "리가 코뮌"
  BAT_Riga_totalist_ADJ:0 "리가"
  BAT_Riga_totalist_DEF:0 "리가 코뮌"
@@ -1525,7 +1524,6 @@
  BAT_germany_national_populist:0 "독일국"
  BAT_germany_national_populist_ADJ:0 "독일"
  BAT_germany_national_populist_DEF:0 "독일국"
- ### Characters ###
  BAT_max_von_scheubner_richter:0 "막스 에르빈 폰 쇼이프너-리히터"
  BAT_helmuth_stegman:0 "헬무트 슈테크만"
  BAT_wilhelm_munter:0 "빌헬름 문터"

@@ -1,11 +1,7 @@
-﻿ l_english:
- 
-### Country Names ###
+﻿l_english:
  QUE:0 "퀘벡"
  QUE_ADJ:0 "퀘벡"
  QUE_DEF:0 "퀘벡"
-
- ### Parties ###
  QUE_social_democrat_party:0 "퀘벡 사회민주당"
  QUE_social_democrat_party_long:0 "퀘벡 사회민주당"
  QUE_social_conservative_party:0 "퀘벡 보수당"
@@ -26,3 +22,13 @@
  QUE_syndicalist_party_long:0 "노동당"
  QUE_totalist_party:0 "노동진보당"
  QUE_totalist_party_long:0 "노동진보당"
+ QUE_fred_rose:0 "Fred Rose"
+ QUE_lea_roback:0 "Léa Roback"
+ QUE_roger_provost:0 "Roger Provost"
+ QUE_therese_casgrain:0 "Thérèse Casgrain"
+ QUE_andre_laurendeau:0 "André Laurendeau"
+ QUE_adelard_godbout:0 "Adélard Godbout"
+ QUE_camillien_houde:0 "Camillien Houde"
+ QUE_paul_gouin:0 "Paul Gouin"
+ QUE_maurice_duplessis:0 "Maurice Duplessis"
+ QUE_real_caouette:0 "Réal Caouette"

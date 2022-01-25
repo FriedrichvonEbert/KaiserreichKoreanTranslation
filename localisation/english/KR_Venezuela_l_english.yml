@@ -1,12 +1,8 @@
-﻿ l_english:
- 
+﻿l_english:
  kleinevenedig_focus:0 "베네수엘라 중점계통도"
- 
-### Country Names ###
  VEN:0 "베네수엘라"
  VEN_ADJ:0 "베네수엘라"
  VEN_DEF:0 "베네수엘라"
-
  VEN_totalist:0 "베네수엘라 사회주의 공화국"
  VEN_totalist_ADJ:0 "베네수엘라"
  VEN_totalist_DEF:0 "베네수엘라 사회주의 공화국"
@@ -16,11 +12,14 @@
  VEN_radical_socialist:0 "베네수엘라 사회주의 공화국"
  VEN_radical_socialist_ADJ:0 "베네수엘라"
  VEN_radical_socialist_DEF:0 "베네수엘라 사회주의 공화국"
-
- ### Leaders ###
- 
- 
- ### Ideas ###
+ POLITICS_ROMULO_BETANCOURT_DESC:0 "A young bombastic, but moderate, member of the broad coalition which brought down the dictator Juan Vicente Gómez, Betancourt's election led to a schism in that coalition. Betancourt moves to consolidate the restoration of democracy in Venezuela and move away from dependence on oil for economic growth."
+ VEN_sivensa:0 "Siderúrgica Venezolana S.A."
+ VEN_cvp:0 "Corporación Venezolana del Petróleo"
+ VEN_cavim:0 "Compañía Anónima Venezolana de Industrias Militares"
+ VEN_dmm:0 "División Metal-mecánica de la CAVIM"
+ VEN_iafe:0 "Instituto Autónomo Ferrocarriles del Estado"
+ VEN_eam:0 "Escuela de Aviación Militar"
+ VEN_env:0 "Escuela Naval de Venezuela"
  VENblackmonday:0 "유전지대를 강타한 검은 월요일"
  VENblackmonday_desc:0 "우리 경제는 석유에 기반을 두고 있고, 수년 동안 우리는 높은 원유 가격을 즐겼습니다. 하지만 베를린 증시 폭락으로 석유 수요는 급감했고, 우리 경제는 하향곡선 속에 갇혀 있습니다!"
  VEN_welfare_expanded1:0 "확대된 복지계획"
@@ -40,7 +39,7 @@
  VEN_welfare_expanded5:0 "확대된 복지계획"
  VEN_welfare_expanded5_desc:0 "경제가 회복되고 다시 꾸준히 성장하기 시작하면서, 정부는 복지계획에 대한 투자를 계속하고 있습니다."
  VEN_welfare_state:0 "복지국가"
- 
+ VEN_welfare_state_desc:0 "Thanks to the government's efforts, Venezuela has become a welfare state on the level of a modern, developed nation."
  VEN_oil_reforms:0 "석유산업 개혁"
  VEN_oil_reforms_desc:0 "정부는 베네수엘라 내에서 더 많은 부를 유지하기 위해 석유산업에 관한 몇 가지 개혁을 시행했습니다."
  VEN_nationalist_fervour1:0 "국민주의 열정"
@@ -111,55 +110,41 @@
  VEN_paid_for_shares_desc:0 "베네수엘라는 우리 석유회사 지분을 매입했습니다."
  VEN_integrating_COL:0 "콜롬비아 통합"
  VEN_integrating_COL_desc:0 "우리는 현재 우리가 최근에 점령한 콜롬비아 영토를 통합하고 있습니다."
- 
- ### Opinion Modifiers ###
  VEN_nationalized:0 "석유자산을 장악함"
  VEN_alliance_deny:0 "동맹이 거부됨"
  VEN_US_treaty:0 "미국-베네수엘라 친선관계"
- 
- ### Flags and Tooltips
  VEN_no_coup:0 "쿠데타를 회피함"
  VEN_coup:0 "검은 월요일 이후 쿠데타가 일어남"
  VEN_colombianexiles_tt:0 "망명한 2개의 콜롬비아 민병대 사단이 증원됩니다."
- 
  VEN_election_desc:0 "이 중점은 선거가 끝나면 통과됩니다."
  VEN_AD_victory_desc:0 "이 중점은 선거에서 민주운동당이 승리하면 통과됩니다."
  VEN_URD_victory_desc2:0 "이 중점은 선거에서 민주공화연합이 승리하면 통과됩니다."
  VEN_PSV_victory_desc:0 "이 중점은 선거에서 베네수엘라 사회당이 승리하면 통과됩니다."
  VEN_perez_coup:0 "마르코스 페레스 히메네스의 권력 장악"
  VEN_perez_coup_desc:0 "마르코스 페레스 히메네스는 사회주의자들이 선거에서 승리하고 미국이 그를 지지할 위치에 있다면 권력을 장악할 것입니다."
- 
  VEN_bogota_secured:0 "보고타 확보됨"
  VEN_caribe_secured:0 "카리브 확보됨"
  VEN_meta_secured:0 "메타 확보됨"
  VEN_choco_secured:0 "초코 확보됨"
  VEN_cauca_secured:0 "카우카 확보됨"
  VEN_amazonia_secured:0 "아마조니아 확보됨"
- 
  VEN_guns_get:0 "§H1.0k§!개의 §H보병 장비§!가 비축분으로 추가됨"
  VEN_big_guns_get:0 "§H100§!개의 §H야포§!가 비축분으로 추가됨"
  VEN_planes_get:0 "§H50§!개의 §H전투기§!가 비축분으로 추가됨"
- 
  VEN_HOL_oil_get:0 "네덜란드 석유자산이 획득됨"
  VEN_USA_oil_get:0 "미국 석유자산이 획득됨"
- 
  VEN_blackmonday_focus:0 "이 중점은 검은 월요일의 여파가 베네수엘라에 도달하면 자동으로 통과됩니다."
- 
- ### Decisions ###
  VEN_COL_intervention_decisions:0 "콜롬비아에 개입"
- 
  VEN_COL_org_exiles:0 "콜롬비아 망명자 조직"
- 
  VEN_COL_intervene:0 "콜롬비아 해방"
- 
- 
  VEN_essequibo_decisions:0 "과야나에세키바 회복"
- 
+ VEN_essequibo_decisions_desc:0 "Ever since the Crisis of 1895, Venezuela and the British Empire (or what's left of it nowadays) dispute the region of Essequibo, currently part of British Guiana. Now that the West Indies Federation is distracted in another war, we have an opportunity to press our legitimate claims on the region."
  VEN_demand_essequibo:0 "에세키보 요구"
  VEN_demand_essequibo_desc:0 "영국인들이 산만해져 있는 가운데, 우리는 에세키보 강 서쪽에서 잃어버린 땅을 되찾을 수 있는 평생의 기회를 갖게 되었습니다."
  VEN_peace_essequibo_start:0 "[WIF.GetNameDef]에게 평화 제안"
+ VEN_peace_essequibo_start_desc:0 "We have control of all of Guyana, and our war aims are fulfulled. It is time to end this war before the full might of the West Indian alliance is brought to bear on our poor country."
  VEN_peace_essequibo_timer:0 "[WIF.GetNameDef]에게 평화 제안"
- 
+ VEN_peace_essequibo_timer_desc:0 "We have control of all of Guyana, and our war aims are fulfulled. It is time to end this war before the full might of the West Indian alliance is brought to bear on our poor country."
  VEN_GCL_decisions:0 "볼리바르의 꿈"
  VEN_GCL_decisions_desc:0 "우리는 콜롬비아를 불법적인 정권으로부터 해방시켰으며, 우리의 군대가 콜롬비아를 점령했기 때문에, 우리는 시몬 볼리바르의 유산: 그란콜롬비아를 되살릴 수 있는 기회가 있습니다. 이전에 콜롬비아, 베네수엘라, 에콰도르, 파나마를 아우르던 이전의 콜롬비아 공화국은 한 세기 전에 실패하였고 우리의 점령에 대한 심각한 저항이 있지만, 우리의 지도부는 그란콜롬비아인들의 단결을 발전시키고 되살리는 데 진지한 노력을 기울일 용의가 있습니다."
  VEN_secure_bogota:0 "보고타 확보"
@@ -176,7 +161,6 @@
  VEN_secure_amazonia_desc:0 "아마조니아는 확실하게 열대 우림에 덮여 있습니다. 이곳은 매우 극한의 지형입니다. 이 지역을 확보하면 밀림전에 대한 우리의 숙련도가 시험될 것입니다."
  VEN_proclaim_gran_columbia:0 "그란콜롬비아 선언"
  VEN_proclaim_gran_columbia_desc:0 "콜롬비아 공화국이 볼리바르의 통일된 스페인령 아메리카의 꿈을 유지하는데 실패했을지 모르지만, 우리는 그의 유산을 복원하는 데 성공했습니다. 우리는 한 세기 동안의 실수로부터 배워 더 큰 무언가를 창조해냈으니 바로 그란콜롬비아입니다."
- 
  VEN_oil_decisions:0 "외국 석유회사들과의 거래"
  VEN_oil_decisions_desc:0 "베네수엘라 석유산업의 대부분은 쉘과 스탠더드 오일 회사의 후임자들과 같은 외국 회사들의 손아귀에 있습니다. 이 나라에서 그들의 영향력은 엄청나고 우리 경제에 해롭기도 합니다. 하지만, 우리는 이 회사들의 지분을 더 많이 확보함으로써 부정적인 면을 제한할 수 있을 것입니다... 아니면, 간단하게 기회가 왔을 때 그냥 장악하는 방법도 있습니다."
  VEN_oil_USA_buy:0 "미국 석유회사 지분 구매"
@@ -187,17 +171,14 @@
  VEN_oil_HOL_buy_desc:0 "로열 더치 쉘은 베네수엘라에서 처음으로 협약을 체결한 회사 중 하나였습니다. 이제 우리의 경제는 이런 대규모 기업들을 지속할 수 있게 되었으니, 이른바 '베네수엘라 쉘'의 지분을 더 많이 획득할 수 있게 되어, 네덜란드 기업의 힘을 줄일 수 있게 되었습니다."
  VEN_oil_HOL_seize:0 "쉘 자산을 장악하라!"
  VEN_oil_HOL_seize_desc:0 "네덜란드에서 생디칼리슴 혁명이 진행 중인 가운데, 우리는 쉘 회사의 자산을 장악하고 베네수엘라에서 그들의 힘과 영향력을 줄일 수 있는 기회를 갖게 되었습니다. 네덜란드 사람들은 현재 우리를 막을 수 없습니다."
- 
  VEN_alliance_decisions:0 "세계무대 위로"
  VEN_alliance_decisions_desc:0 "베네수엘라는 항상 역사의 조류에 의해 외세의 간섭과 제국주의의 표적이 되어왔습니다. 더이상은 안됩니다! 우리는 적극적으로 외교에 나설 것이며, 우리의 자유를 지키기 위해 필요한 어떤 동맹에도 참여할 것입니다."
  VEN_join_internationale:0 "인터내셔널 가입"
  VEN_join_internationale_desc:0 "우리의 평화적인 혁명이 성공했고, 우리는 혁명을 공고히 다져야 합니다. 이제 혁명 베네수엘라는 자유 노동자들의 동맹에 동참해야 합니다. [INT.GetNameDef]측과 접촉을 시작합시다."
  VEN_join_entente:0 "협상국 가입"
  VEN_join_entente_desc:0 "우리나라는 제3인터내셔널의 생디칼리스트들과 전쟁 중이고, 따라서 우리는 협상국과 가까워져야 합니다. 그들은 카리브해에서 우리를 보호할 수 있고, 프랑스와 브리튼의 위협을 물리칠 힘이 있습니다."
- 
- 
- 
- ### Parties ###
+ VEN_join_USA:0 "Align with the Americans"
+ VEN_join_USA_desc:0 "Now that our government has been saved from the syndicalist menace by American aid, we should repay them for their trouble by forming an alliance with them. Together we will free the world from radical syndicalism!"
  VEN_social_democrat_party:0 "민주운동당"
  VEN_social_democrat_party_long:0 "민주운동당"
  VEN_social_conservative_party:0 "독립선거관리위원회"
@@ -218,11 +199,8 @@
  VEN_syndicalist_party_long:0 "베네수엘라 사회당"
  VEN_totalist_party:0 "좌익혁명사회전체주의운동"
  VEN_totalist_party_long:0 "좌익혁명사회전체주의운동"
- 
- ### Focuses ###
  VEN_blackmonday:0 "유전지대를 강타한 검은 월요일"
  VEN_blackmonday_desc:0 "하느님 맙소사! 우리 대외무역의 대다수는 독일과 함께 하고 있기 때문에, 그들의 경제 위기는 우리에게 다가올 수밖에 없었습니다. 현재, 카라카스 사람들 사이에 공황이 퍼지고 있으니 우리는 즉각적으로 현재 문제들을 처리해야 합니다."
- 
  VEN_democracy_prevails:0 "민주주의의 우세"
  VEN_democracy_prevails_desc:0 "베네수엘라 전역의 도시들에 평온함이 다시 찾아왔습니다. 특히나 노동자들이 계속되는 위기로 인해 상당히 큰 타격을 받았기 때문에, 우리는 경제 회복의 길에 집중해야만 합니다."
  VEN_welfare_program:0 "복지계획"
@@ -237,7 +215,6 @@
  VEN_flexibilty_desc:0 "현재의 위기는 석유산업에 계속 의존할 수 없다는 것을 보여줍니다. 그런 만큼 우리 경제를 좀 더 유연화하고 다변화해서 변화하는 세계 경제에 적응할 수 있도록 해야 합니다. 바라건대, 이것으로 우리 경제가 더 튼튼해지고 경제 변화에 보다 탄력적으로 만들어지길 바랍니다."
  VEN_diversification2:0 "산업 다양화"
  VEN_diversification2_desc:0 "우리 산업을 다양화하는 것은 비용이 많이 들고 느린 과정이지만 베네수엘라 경제가 시장 변동으로부터 안전하고 건강한 속도로 계속 성장할 수 있도록 보장할 것입니다. 이러한 과정의 비용과 속도에도 불구하고, 이것은 장기적으로 베네수엘라를 석유에 대한 의존을 지속시키는 것보다 훨씬 더 강하게 만들 것입니다."
- 
  VEN_preventive_coup:0 "예방 쿠데타"
  VEN_preventive_coup_desc:0 "민주운동당 정부가 질서를 유지할 수 없는 상황에서 베네수엘라 군대가 개입해 질서를 회복하고 경제를 회복으로 이끌었습니다. 물론 임시정부는 1939년에 예정된 선거는 정상적으로 진행될 것이라고 주장하고 있기 때문에 이것은 일시적일 것입니다."
  VEN_defensecontracts:0 "방위계약"
@@ -252,20 +229,16 @@
  VEN_arrest_syndie_troublemakers_desc:0 "잠재적인 생디칼리스트 혁명의 위험성은 검은 월요일 이후에 군대가 개입하게 된 이유입니다. 임시정부가 확보된 상황에서 군대는 베네수엘라에서 생디칼운동의 핵심 구성원을 체포하고 그들의 정치 영향력을 약화시킬 수 있는 능력을 갖추게 되었습니다."
  VEN_propagandaeffort:0 "선전 노력"
  VEN_propagandaeffort_desc:0 "우리의 쿠데타가 전례가 없는 것은 아니지만, 정치적인 반대파들, 특히 이전에 정부에 있던 사람들은 민주적 제도의 부식에 지치도록 만들었습니다. 국민들에게 우리 임시정부의 일시적인 성격을 이해시키고 예정된 선거가 유지되도록 해야 합니다."
- 
  VEN_inf:0 "비상사회기반시설작업"
  VEN_inf_desc:0 "사람들을 다시 일터로 복귀시키기 위한 임시 대책으로, 정부는 사회 기반 시설 작업 계획에 착수했습니다. 이렇게 되면 실업자에게 유급 직업만 줄 뿐 아니라 베네수엘라의 사회 기반 시설 네트워크를 개선하여 베네수엘라를 더욱 가깝게 만들 수 있습니다."
  VEN_milinf:0 "공항 건설 노력"
  VEN_milinf_desc:0 "세계대전 이후 항공 운송이 더욱 확산되었습니다. 하지만, 우리의 항공 기반 시설은 매우 부족하며 이것을 개선하면 우리 공군의 발전에 도움이 될 것이고, 더 고립된 지역에 대한 접근을 향상시킬 것입니다."
  VEN_inf2:0 "사회 기반 시설 갱신"
  VEN_inf2_desc:0 "경제가 확실히 회복되고 있지만, 아직도 우리나라의 교통망을 개선하기 위해 우리가 할 수 있는 일이 훨씬 더 많습니다. 결국, 좋은 사회 기반 시설은 건강한 경제 발전의 열쇠입니다."
- 
  VEN_healthyeco:0 "경제 회복"
  VEN_healthyeco_desc:0 "베네수엘라가 드디어 경제 위기에서 회복했습니다. 나라를 다시 번창하게 하기 위해서는 아직 훨씬 더 많은 조치가 남아 있지만, 분명히 최악의 위기 상황은 지나갔습니다. 이제 우리는 경제를 성장시키고 번영하는 베네수엘라를 만드는데 관심을 집중할 수 있습니다."
- 
  VEN_1939_elections:0 "1939년 선거"
  VEN_1939_elections_desc:0 "경제 위기에도 불구하고 예정된 선거는 치러질 예정입니다. 민주운동당은 새로운 임기를 얻으려 하겠지만, 민주공화연합이 경제적 번영과 국민주의적인 미사여구에 초점을 맞춰 정부를 인수할 가능성이 높습니다. 또한 생디칼리스트들인 베네수엘라 사회당은 검은 월요일 이후 성장세를 보이지만 반자본주의적인 태도로 깜짝 승리에 나설 가능성은 적습니다."
- 
  VEN_AD_stays:0 "민주운동당의 또 다른 집권"
  VEN_AD_stays_desc:0 "놀랄 일은 아니지만, 26년 세대 정부를 대표하는 당이 또 다른 대통령 임기를 얻었습니다. 그들은 베네수엘라를 석유산업에 덜 의존하는 복지 국가로 계속 변화시킬 계획입니다."
  VEN_longtermplanning:0 "장기적인 경제계획"
@@ -282,7 +255,6 @@
  VEN_towards_welfare_state_desc:0 "복지국가를 위한 노력은 야심차고 고상한 목표이지만, 경제가 성장하고 복지계획이 더 많은 자금을 지원받으면서, 우리나라는 서서히 복지국가를 향해 나아가고 있고, 우리는 라틴아메리카에서 가장 발전된 나라 중 하나가 되고 있습니다."
  VEN_economicalbonanza:0 "건강한 경제성장"
  VEN_economicalbonanza_desc:0 "베네수엘라의 경제는 안정적이고 건강한 속도로 성장하고 있습니다. 우리 경제가 호황은 아니지만, 우리는 이것이 미래 세대를 위험에 빠뜨리지 않고 나라를 발전시키는 가장 합리적인 방법이라는 것을 알고 있습니다. 우리는 미래의 베네수엘라 국민들이 그들의 사회적 계층에 상관없이 좋은 기회를 갖게 되고 언젠가 사회주의가 평화롭게 성취되기를 바랄 뿐입니다."
- 
  VEN_URD_victory:0 "민주공화연합의 집권"
  VEN_URD_victory_desc:0 "26세대 정부의 온건 진보, 진보, 국민주의자로 구성된 민주공화연합은 가까스로 대통령직을 얻게 되었습니다. 우리는 상상할 수 없는 경제적 번영을 향해 나아가고 있으며, 베네수엘라 국민들을 무엇보다도 우선시하고 있습니다."
  VEN_oil_industry_reforms:0 "석유산업 개혁"
@@ -299,14 +271,12 @@
  VEN_dios_y_federacion_desc:0 "하나님과 연방은 1859-1863년 연방 전쟁 이후 베네수엘라의 전통적인 좌우명으로, 연방주의와 자유에 대한 국가의 제도적 발전과 헌신에 큰 영향을 미쳤습니다. 단결된 사회를 만들기 위해서는 국가적 자긍심을 키우는 것이 필수적입니다."
  VEN_lodsofemone:0 "경제호황"
  VEN_lodsofemone_desc:0 "경제가 그 어느 때보다 빠르게 성장하고 있습니다! 석유산업을 이용하고 현명하게 거대한 이익을 투자함으로써 우리는 전례 없는 성장을 이루었고, 이는 번영하고 부유한 베네수엘라로 이어지게 될 것입니다."
- 
  VEN_industrialization:0 "산업화"
  VEN_industrialization_desc:0 "베네수엘라의 산업은 작고 취약합니다. 산업은 현대 경제의 기초이기 때문에, 우리는 우리나라가 유럽과 북아메리카 국가들과 비교할 수 있는 현대 국가로 만들기를 희망하며 산업화하고 번영할 수 있도록 만들어야 합니다."
  VEN_navalindustry:0 "해군 건설 투자"
  VEN_navalindustry_desc:0 "베네수엘라에 있어 해군의 산업 역시 공정하게 작습니다. 하지만, 우리가 더 많이 투자할수록 더 큰 무언가가 될 가능성이 있습니다. 결국, 성장하는 우리 해군은 더 나은 시설을 필요로 하며, 이러한 현대 산업은 많은 베네수엘라 사람들을 고용하고, 해상 무역을 개선하며, 수출할 더 많은 상품을 창출함으로써 많은 이점을 가지고 있습니다."
  VEN_education:0 "UCV 확장"
  VEN_education_desc:0 "The Universidad Central de Venezuela 또는 베네수엘라 중앙 대학교는 고등교육과 연구를 위한 국가의 최고 중심지이며 서반구에서 가장 오래된 시설 중 하나입니다. 점점 더 많은 사람들이 대학에 관심을 가지게 되면서, 지혜로운 능력과 이 능력을 증가시키기 위하여 대학을 확장하는 것이 현명할 것입니다."
- 
  VEN_revolution_by_ballot:0 "투표에 의한 혁명"
  VEN_revolution_by_ballot_desc:0 "베네수엘라 사회당의 놀라운 선거 승리는 생디칼리슴 정당이 부르주아적인 수단을 통해 권력을 획득한 몇 안 되는 사례 중 하나라고 할 수 있습니다. 이제, 우리는 베네수엘라 혁명을 시작할 수 있고, 우리나라를 라틴아메리카의 모범적인 사회주의 국가로 만들 수 있습니다."
  VEN_empower_CTV:0 "CTV에 권한 부여"
@@ -329,7 +299,6 @@
  VEN_rapid_industrialisation_desc:0 "우리의 5개년 계획의 결과로, 베네수엘라는 상상할 수 없는 속도로 산업화되었습니다. 조만간, 프랑스와 영국 등의 인터내셔널 형제들과 어울리는 강하고 자유로운 노동 계급과 고도로 발달한 산업이 탄생할 예정입니다."
  VEN_to_socialism:0 "사회주의로!"
  VEN_to_socialism_desc:0 "만국의 노동자여 단결하라! 사회주의는 베네수엘라 사회당의 진정한 목표입니다. 혁명은 이제 막 시작됐지만, 곧 세계 노동자들이 자유로워지고 계급 없는 사회가 만들어질 것입니다."
- 
  VEN_eagle_screech:0 "페레스 히메네스의 권력 장악"
  VEN_eagle_screech_desc:0 "미국의 지원을 받아 생디칼리슴 혁명을 막기 위해 군대가 개입해 마르코스 페레스 히메네스 휘하의 군사정부를 구성했습니다. 이 독재자는 확고한 반 생디칼리스트이며 이미 베네수엘라에서 영원히 좌익과 반대되는 요인들을 숙청할 움직임을 보이고 있습니다."
  VEN_seguridad_nacional:0 "국가안보국"
@@ -352,22 +321,18 @@
  VEN_foreign_experts_desc:0 "나라를 튼튼하게 하기 위해서는 교육이 개선되어야 합니다. 우리가 직면한 한 가지 문제는 많은 베네수엘라 지식인들이 쿠데타 기간 동안 도망쳤다는 것입니다. 하지만, 많은 외국인 전문가들은 우리와 우리의 목표를 위해 일하고 싶어 하며, 우리는 베네수엘라의 미래를 건설하기 위해 그들이 필요할 것입니다."
  VEN_strong_venezuela:0 "강력한 베네수엘라"
  VEN_strong_venezuela_desc:0 "페레스 히메네스 대통령은 강력한 베네수엘라를 꿈꾸고 있습니다. 우리는 라틴아메리카에서 지역 강국이 될 수 있을 만큼 강력합니다. 시간이 흐를수록, 우리는 그의 목표 달성에 점점 더 가까이 다가갑니다. 곧, 베네수엘라는 우리의 위대한 업적 덕분에 남아메리카에서 가장 강력한 국가가 될 것입니다."
- 
  VEN_maintaining_the_edge:0 "우위 유지하기"
  VEN_maintaining_the_edge_desc:0 "1920년대 중반부터, 연속적으로 정부들은 베네수엘라 군대를 오늘날과 같은 강력한 세력으로 확장했습니다. 하지만, 우리는 그로 인하여 쉽게 우위를 잃을 수 있기 때문에, 우리의 월계관을 절대로 고수할 수 없게 될 것입니다. 군대를 최신 상태로 유지하면 이 지역에서 무시할 수 없는 병력이 될 것입니다."
- 
  VEN_import_new_arms:0 "신무기 수입"
  VEN_import_new_arms_desc:0 "우리의 국내 무기산업은 한계가 있습니다. 고맙게도, 왈로니아의 FN과 오스트리아의 슈타이어와 같은 몇몇 회사들은 우리 군대에 좋은 가격으로 무기를 판매하기 위하여 열심입니다. 우리는 그들에게 다시 한 번 연락해서 우리의 무기고를 보충하고, 무기 구입을 위한 상당한 준비금을 확보해야 합니다."
  VEN_import_heavy_equipment:0 "중장비 수입"
- 
+ VEN_import_heavy_equipment_desc:0 "Heavy equipment such as artillery pieces are even more difficult to acquire in large numbers and they are absolutely necessary in modern warfare. Once more, we are reliant on arms imports until we can set up local production."
  VEN_local_arms_production:0 "현지 무기 생산"
  VEN_local_arms_production_desc:0 "무기 수입에 대한 우리의 의존은 우리가 다시 전쟁을 하게 될 경우, 우리는 대외 무역에서 잠재적으로 단절될 수 있는 문제가 될 수밖에 없습니다. 외국인 전문가를 고용해서 현지 생산 시설을 건설해야 합니다. 무기를 수리하고 유지하는 데 필요한 도구부터 시작해서, 우리만의 제품을 만들 수 있는 충분한 경험을 갖기를 바랍니다."
  VEN_expand_local_production:0 "현지 생산 확장"
  VEN_expand_local_production_desc:0 "이제 국내 무기산업의 근간을 갖게 된 만큼, 최대한 수입을 대체하기 위해서는 더 많은 투자를 해야 합니다. 우리는 유럽이나 미국의 거대한 무기고에 결코 필적할 수 없을지 모르지만, 우리는 확실히 그들에 대한 우리의 의존도를 줄이고 더 독립적이게 될 수 있습니다."
- 
  VEN_doctrine_reevaluation:0 "교리 재평가"
  VEN_doctrine_reevaluation_desc:0 "1925년의 굴욕 이후 많은 것이 행해졌지만, 우리의 교리는 최근의 발전에서 뒤처져 있습니다. 최근 불과 몇 십 년 사이에 군사 기술과 교리가 극적으로 변화함에 따라, 우리는 우리 장교들이 현대 전쟁을 수행할 수 있도록 하는 데 총력을 기울여야 합니다."
- 
  VEN_maximum_firepower:0 "최고화력으로"
  VEN_maximum_firepower_desc:0 "전쟁의 핵심은 아군이 적보다 화력 우위를 확보하도록 하는 것입니다. 이것은 수 세기 동안 진실이었고, 유럽인들이 세계대전과는 다른 세계에서 겪은 경험은 단지 이것을 확인했을 뿐입니다."
  VEN_modern_fire_support:0 "현대식 화력 지원"
@@ -376,7 +341,6 @@
  VEN_modern_artillery_desc:0 "포병 자체가 없으면 화력 지원은 불완전합니다. 우리의 포병대는 화력과 효율을 극대화하기 위해 현대식 야포를 갖추고 훈련된 전문가들에 의해 훈련되어야 합니다. 결국, 현대의 야포는 아마도 전쟁터에서 가장 치명적인 힘일 것입니다."
  VEN_shock_and_awe:0 "충격과 경외감"
  VEN_shock_and_awe_desc:0 "충격과 경외감 중점은 압도적인 화력의 눈부신 사용으로 적을 마비시켜 아군에게 공격을 격퇴하거나 돌파구를 마련하는 데 필요한 기회를 주는 것으로 구성되어 있습니다. 이것은 고도로 훈련된 포병들과 지원 부대들과 보병들 사이의 높은 조율이 필요할 것입니다."
- 
  VEN_maximum_speed:0 "최고속력으로"
  VEN_maximum_speed_desc:0 "전투의 핵심은 적보다 기동성을 확보하여 그들이 가장 방비하지 않은 곳이나 그들의 가장 취약한 곳을 공격하는 것입니다. 최근의 전쟁들은 우리 군대가 힘을 유지하지 않으면 안 된다는 것을 보여주었습니다. 그렇지 않으면 전쟁은 피비린내 나는 장기전으로 전락하게 될 것입니다."
  VEN_mass_motorisation:0 "대규모 차량화"
@@ -385,12 +349,10 @@
  VEN_armoured_warfare_desc:0 "전차는 비교적 새로운 군사 기술로서 현장 경험에 상당한 한계가 있었습니다. 하지만, 기동력과 화력이 뛰어난 신예 기병대로써, 전쟁의 미래라고 보는 시각이 많습니다."
  VEN_modern_manoeuvre_warfare:0 "현대식 기동전"
  VEN_modern_manoeuvre_warfare_desc:0 "기동전은 세계대전 이전까지 군사적 사고를 지배했기 때문에 확실히 새로운 개념은 아닙니다. 새로운 기술 개발로 베네수엘라는 이를 다시 한 번 타당성 있게 받아들임으로써 베네수엘라군은 이 대륙에서 가장 현대적인 군대 중 하나가 되었습니다."
- 
  VEN_expand_AMV:0 "AMV 확장"
  VEN_expand_AMV_desc:0 "The Academia Militar de Venezuela 혹은 베네수엘라 육군사관학교는 군사교육과 연구의 국내 최고의 중심지입니다. 지난 10년 동안 육군이 얼마나 성장했는지에 따라, 이제 우리는 유능한 장교단과 우리 군에 숙련된 전문가를 확보하기 위하여 AMV의 확장에 투자해야 할 때입니다."
  VEN_jungle_warfare:0 "밀림전 훈련"
  VEN_jungle_warfare_desc:0 "베네수엘라의 남부와 동쪽에 있는 울창한 밀림은 우리 군대에 흥미로운 도전장을 내밀고 있습니다. 우리 부대에 대한 추가 훈련을 실시하면 이러한 거친 지역에서 더욱 효과적으로 싸울 수 있게 될 것입니다. 이는 우리가 과야나에세키바를 되찾을 경우 결정적인 도움이 될 수 있습니다."
- 
  VEN_air_force_expansion:0 "공군 확장"
  VEN_air_force_expansion_desc:0 "육군의 가장 하급기관인 공군은 육군과 해군보다 상당히 주목을 덜 받았습니다. 우리는 항공전력과 이론에서 크게 뒤처져 있지만 항공전력의 잠재력은 무시할 수 없을 만큼 크기 때문에 공군의 확충에 나서야 합니다."
  VEN_air_superiority:0 "공군 우세"
@@ -409,7 +371,6 @@
  VEN_domestic_bomber_desc:0 "폭격기들은 현대 전쟁에서 다재다능하다는 것이 증명되었습니다. 현지에서 무기를 생산하는 것은 비용이 많이 드는 노력일지라도 많은 이점을 가지고 있으며, 이는 외국 무기 수입에 대한 의존도를 줄이고 군사 산업을 자극합니다."
  VEN_domestic_NAV:0 "베네수엘라 해군 폭격기"
  VEN_domestic_NAV_desc:0 "베네수엘라가 가지고 있는 긴 해안선을 고려하면, 우리나라를 방어하기 위해서는 해군 폭격기가 필수적입니다. 이것은 우리만의 흥미로운 노력이 될 것입니다. 하지만 희망컨대 우리의 초기 항공 산업이 다룰 수 있는 노력이 될 것입니다."
- 
  VEN_continue_naval_expansion:0 "해군 확장 지속"
  VEN_continue_naval_expansion_desc:0 "1925년 몰락한 대영제국에 대한 굴욕과 함께 베네수엘라는 해군에 상당한 양의 자원을 투입했습니다. 세계가 또 하나의 큰 위기로 치닫고 있는 가운데, 우리는 우리의 독립과 이익을 보호하기 위해 해군을 더욱 확장시킬 필요가 있을 것 같습니다."
  VEN_yard:0 "베네수엘라 조선소"
@@ -423,37 +384,30 @@
  VEN_new_light_cruisers:0 "현대식 순양함"
  VEN_new_light_cruisers_desc:0 "순양함은 정찰과 장거리 작전에 필수적입니다. 전시에는 우리 선박을 보호해야 한다는 점을 고려할 때, 현대 순양함은 우리 해군이 건너뛸 수 없는 것입니다."
  VEN_new_destroyers:0 "새로운 구축함"
- 
+ VEN_new_destroyers_desc:0 "Destroyers are the main vessels designed to screen the larger ships of our navy. Their versatility, a necessity in order to fight off smaller crafts, and powerful torpedo armament, the small ships are just as important as the capital ships of the fleet."
  VEN_new_submarines:0 "현대식 잠수함"
  VEN_new_submarines_desc:0 "잠수함은 전 세계 해군에 비교적 새롭게 추가된 것이지만, 그 효용성과 잠재력은 이미 세계대전에서 입증되었습니다. 그들의 상대적으로 저렴한 비용 효율성 덕분에, 그들은 베네수엘라가 해군력을 강화할 수 있는 완벽한 방법입니다."
  VEN_navegare_necesse_vivere_non_necesse:0 "탐색은 필수적이고, 사는 것은 그렇지 않다"
  VEN_navegare_necesse_vivere_non_necesse_desc:0 "\"탐색은 필수적이고, 사는 것은 그렇지 않다\" 베네수엘라는 대규모 함대가 없었던 반면, 베네수엘라는 건국 시대로 거슬러 올라가는 강한 전통을 가지고 있으며, 현재 무시할 수 없는 현대 전투부대가 되고 있습니다. 선원과 장교들은 고도로 훈련받고 규율 받았으며, 전임자들이 그랬던 것처럼 나라를 지킬 준비가 되어 있습니다."
- 
- ### Events ###
  ven.1.t:0 "세계에서 베네수엘라의 위치"
  ven.1.d:0 "1830년 베네수엘라가 그란 콜롬비아에서 분리된 후, 베네수엘라는 1864년 이 나라가 연방화되기 전까지 보수와 진보 사이의 수많은 내전으로 흔들렸습니다. 베네수엘라는 여러 간헐적인 군사 정부와 민간 정부를 통해 계속해서 안정을 유지하기 위해 고군분투했습니다. 이것을 변화시킨 것은 1908년 석유 매장지 발견과 후안 비센테 '메기' 고메스 장군의 쿠데타입니다. 고메스 정권 하에서 석유산업은 국가의 경제적 토대가 되었고, 비록 석유에 완전히 의존하게 되었지만, 세계대전 속에서 중립을 지키고 국가의 부채를 줄이는 등, 상대적으로 안정세를 유지하였기에 메기 정권은 오래 지속될 수 밖에 없었습니다. 이후 미국의 개입으로 대영제국은 베네수엘라에서 물러났으나 베네수엘라는 에세키보 강 주장의 추진을 실패하였고, 그는 1928년 영국에 대한 '배상금' 문제로 물의를 일으켜 사임했고, 선거 이후 1926년 세대의 민주 정부를 구성했습니다. 하지만 1936년까지, 26세대 정부는 3당 사이에서 심하게 분열되었습니다. 민주운동당은 현재 정권을 잡고 있지만, 민주공화연합에 있는 이전의 자유주의 동맹들이 힘을 얻고 있으며 인터내셔널을 지지하고 있는 베네수엘라 사회당은 반자본주의 의견을 계속하여 발표하고 있습니다. 그럼에도 불구하고 베네수엘라는 이 지역에서 비교적 안정적이고 민주적인 몇 안 되는 나라들 중 하나이지만, 전 세계의 긴장이 고조되고 있는 것은 이 나라의 초기 민주주의를 쉽게 불안정하게 만들 수 있습니다."
  ven.1.a:0 "우리는 흥미로운 시대에 살고 있군"
- 
  ven.2.t:0 "카라카스에서의 불안정"
  ven.2.d:0 "베를린 증시 붕괴 소식이 베네수엘라에까지 전해져 이미 경제에 영향을 주고 있는 가운데, 은행으로 향하는 행진이 시위와 폭동으로 이어지면서 카라카스 등 도시 곳곳에서 수많은 소동이 빚어졌습니다. 군부의 많은 사람들은 사회당이 이러한 많은 소요사태의 배후에 있다고 믿고 있으며, 이러한 믿음을 베네수엘라에서 혁명을 일으키기 위해 사용할 계획입니다. 1928년 민주주의 회복을 도운 장군 중 한 명인 엘레아자르 로페즈 콘트레라스는 현 정부가 질서를 회복하지 못할 경우 다시 한 번 개입할 준비가 되어 있다고 주장하는 가운데, [Root.GetLeader](은)는 현재의 사태는 경찰력만으로 처리할 수 있으며, 곧 사태가 수습될 것이라고 주장합니다."
  ven.2.a:0 "정부는 평온을 되찾았다."
  ven.2.b:0 "임시 군사정부가 권력을 장악했다."
- 
  ven.3.t:0 "1939년 대통령 선거"
  ven.3.d:0 "검은 월요일로 인한 위기에도 불구하고 올해에 예정된 대선은 여전히 치러지고 있고 이에 따라 선거운동도 치열해졌습니다. 사회민주적인 민주운동당은 복지 확대와 산업 다양화 정책을 지속할 것을 약속하면서 또 다른 임기를 확보할 가능성이 높습니다. 1926년 세대의 다른 온건 정당이며 사회자유주의적인 민주공화연합은 경제 번영과 국민주의적인 미사여구의 사용을 통해 대통령직에 오를 가능성이 높습니다. 마지막으로, 가능성은 상대적으로 낮지만, 인터내셔널을 지지하는 베네수엘라 사회당은 놀랍게도 그들의 급진적인 반자본주의와 사회주의 이념을 밀어붙이기 위해 검은 월요일을 이용하면서 진지하게 선거 운동을 벌이고 있습니다."
  ven.3.a:0 "민주운동당이 또 다른 임기를 확보하였다."
  ven.3.b:0 "민주공화연합이 선거에서 승리하였다."
  ven.3.c:0 "베네수엘라 사회당이 투표에 의한 혁명을 달성하였다."
- 
  ven.4.t:0 "베네수엘라 내 생디칼리슴 확산"
  ven.4.d:0 "인터내셔널을 지지하고 있는 연정이 선거후 베네수엘라 정부를 장악했다는 사실이 주목을 받고 있습니다. 이런 적대적인 사상이 우리 뒷마당에 자리 잡는 것을 확실히 받아들일 수는 없으며, 우리는 마르코스 페레스 히메네스 장군이 이끄는 베네수엘라 장교들의 지원을 받았습니다. 그들이 우리에게 상기시켰듯이, 우리의 이익을 위협하는 새로 선출된 사회주의 정부를 축출하기를 그들이 원하기 때문입니다."
  ven.4.a:0 "그들의 쿠데타를 지원하고 우리의 이익을 확보한다."
  ven.4.b:0 "그건 우리의 자원을 낭비할 뿐이다."
- 
  ven.5.t:0 "마르코스 페레스 히메네스의 권력 장악!"
  ven.5.d:0 "사회주의 정부에는 내부의 적뿐 아니라 외부의 적도 있었던 것으로 보입니다. 페레스 히메네스 장군은 많은 장교들과 군대의 지원을 받아 베네수엘라 사회당의 혁명 정책을 저지하기 위해 유혈 쿠데타로 정권을 장악했습니다. 베네수엘라 사회당에 충성하는 급하게 조직된 민병대와 잠시 대치한 후, 군대는 다수의 베네수엘라 사회당 정치인들을 체포하고 의회의사당의 접근을 차단했습니다. 페레즈 지메네즈의 지지자들은 이 나라를 지켰고 베네수엘라 사회당 지도자들은 도망치거나 숨었습니다. 이 배후에는 미국이 있는 것으로 보입니다."
  ven.5.a:0 "군부가 생디칼리슴으로부터 우리를 구해줄 것이다."
- 
  ven.6.t:0 "소화기 수입"
  ven.6.d.a:0 "우리의 국내 무기산업의 한계로 인하여, 우리는 여전히 외국 생산자들에게 의존하고 있습니다. 우리에게는 두 개의 주요 공급업체가 있습니다: 에르스탈 국립공장(Fabrique Nationale)의 [BEL.GetName]와(과) 외스터라이히 바펜파브릭게젤샤프트 슈타이어(Österreichische Waffenfabriksgesellschaft Steyr)의 [AUS.GetNameDef]이 있습니다. 우리는 어느 회사든 우리의 확장된 군대를 위한 또 다른 소총 계약을 맺게 되어 기뻐할 것이라고 확신합니다."
  ven.6.d.b:0 "우리의 첫 번째 선택지는 우리가 요청한 만큼의 총기의 양을 공급할 수 없는 것으로 보입니다. 고맙게도, 우리에게 필요한 소총을 베네수엘라 군대에 판매하는 두 번째 선택지가 있습니다."
@@ -461,31 +415,24 @@
  ven.6.a:0 "FN에게 제의한다."
  ven.6.b:0 "OEWG 슈타이어에게 제의한다."
  ven.6.c:0 "우리는 결국 그들을 믿을 수 없었다."
- 
  ven.7.t:0 "베네수엘라에 대한 무기 수출?"
  ven.7.d:0 "베네수엘라 군대의 한 장교가 그들의 군대를 다시 재편하기 위해 많은 양의 소총을 사려고 하고 있습니다. 무기 비축량의 일부와 작별을 고해야 하는 것은 분명하지만, 무기산업을 자극하는 다소 수지맞는 계약이 될 것입니다."
  ven.7.a:0 "좋은 거래로 들리는군!"
  ven.7.b:0 "우리는 어떠한 무기도 낭비할 수 없다."
- 
  ven.8.t:0 "소총 수송물"
  ven.8.d:0 "우리는 우리 군대의 장비를 갖추거나 예비군을 보유하기 위한 상당한 규모의 소총을 성공적으로 획득했습니다. 우리 군인들은 그들이 익숙하게 사용하던 것과 비슷하거나 같기 때문에 그것들을 사용하는 데 아무런 문제가 없을 것입니다. 물론, 우리는 지금 총값을 지불해야 합니다."
  ven.8.a:0 "완벽해"
- 
  ven.9.t:0 "50 대 50 법"
  ven.9.d:0 "[VEN.GetLeader] 대통령은 외국 정부가 베네수엘라산 석유에서 얻는 이윤을 줄이는 법안에 방금 사인했습니다. '50 대 50 법'으로 명명된 이 법안은 베네수엘라에서 외국인의 석유 시추로 발생하는 수익금의 절반을 정부가 가져갈 수 있도록 하는 법안입니다. 이는 경제적 독립을 향한 큰 걸음이며, 많은 사람들은 정부를 칭찬하고 있습니다."
  ven.9.a:0 "공평한 제안이군."
- 
- 
- 
+ VEN_fifty_to_fifty_idea_change:0 "Modify §H$VEN_foreign_oil_companies$§! by\nPolitical Power Gain: [?0.05|+0%]"
  ven.10.t:0 "베네수엘라 석유산업"
  ven.10.d:0 "우리가 기억하는 한, 석유는 항상 베네수엘라의 주요 수출품입니다. 외국 회사의 손에서 석유산업을 빼앗아 직접 석유를 팔자는 제안이 나왔습니다. 우리의 이익은 증가할 것이고 우리는 진정한 독립과 자기 의존을 향해 한 걸음 더 나아갈 것입니다."
  ven.10.a:0 "이곳의 정제된 석유는 우리의 것이다, 국유화하라!"
  ven.10.b:0 "우리는 외국의 투자자들을 화나게 만들고 싶지 않다."
- 
  ven.11.t:0 "검은 월요일이 유정 지대를 강타하다!"
  ven.11.d:0 "베네수엘라 경제는 우리의 풍부한 유정 발견 이후 황금기를 맞고 있습니다. 유럽, 미국, 일본의 굶주린 산업들은 오랫동안 그들이 감당할 수 있는 모든 석유를 구입했습니다. 하지만, 검은 월요일의 강타 이후, 상황은 놀랄 만큼 빠르게 휘어지기 시작했습니다. 유가가 폭락했고, 국가 수입도 급감했습니다. 곧 기본적인 서비스 제공에도 어려움을 겪게 될 것이므로, [Root.GetLeader] 대통령은 너무 늦기 전에 조치를 취해야 합니다."
  ven.11.a:0 "대재앙이로군!"
- 
  ven.12.t:0 "야포 수입"
  ven.12.d.a:0 "우리의 국내 무기산업의 한계로 인하여, 야포 등의 중장비를 구하기 어렵습니다. 우리 군사 산업이 현대화 상태가 될 때까지 우리는 그것들을 수입하여야 합니다. 우리에게는 두 개의 주요 공급업체가 있습니다. 독일의 크루프와 보헤미아의 슈코다입니다. 이 두 회사 모두 우리가 필요로 하는 대구경 야포를 우리가 감당할 수 있으면서 최고의 명성을 가진 가격으로 제공합니다."
  ven.12.d.b:0 "우리의 첫 번째 선택지는 우리가 요청한 만큼의 야포의 양을 공급할 수 없는 것으로 보입니다. 고맙게도, 우리에게 필요한 야포를 베네수엘라 군대에 판매하는 두 번째 선택지가 있습니다."
@@ -493,16 +440,13 @@
  ven.12.a:0 "크루프에 제의한다."
  ven.12.b:0 "슈코다에 제의한다."
  ven.12.c:0 "우리는 결국 그들을 믿을 수 없었다."
- 
  ven.13.t:0 "베네수엘라에 대한 무기 수출?"
  ven.13.d:0 "베네수엘라 군대의 한 장교가 그들의 군대를 다시 재편하기 위해 상당한 양의 야포를 사려고 하고 있습니다. 무기 비축량의 일부와 작별을 고해야 하는 것은 분명하지만, 무기산업을 자극하는 다소 수지맞는 계약이 될 것입니다."
  ven.13.a:0 "좋은 거래로 들리는군!"
  ven.13.b:0 "우리는 어떠한 무기도 낭비할 수 없다."
- 
  ven.14.t:0 "야포 수송물"
  ven.14.d:0 "우리는 우리 군대의 장비를 갖추거나 예비군을 보유하기 위한 상당한 규모의 야포를 성공적으로 획득했습니다. 이것들은 우리에게 절실히 필요한 화력을 증가시킬 것입니다. 물론, 우리는 지금 야포 값을 지불해야 합니다."
  ven.14.a:0 "완벽해"
- 
  ven.15.t:0 "잉여 전투기 구매"
  ven.15.d.a:0 "베네수엘라의 항공 산업은 사실상 존재하지 않지만, 항공기는 이미 현대전의 필수적인 부분이라는 것이 증명되었습니다. 독일과 미합중국에 안정이 돌아왔다면, 초기 공군력을 갖추고 설계를 연구할 수 있도록 그들이 우리에게 저렴한 가격으로 팔 수 있는 여분의 항공기를 넉넉히 가지고 있어야 합니다."
  ven.15.d.b:0 "우리의 첫 번째 선택지는 우리가 요청한 만큼의 잉여 항공기의 양을 공급할 수 없는 것으로 보입니다. 고맙게도, 우리에게 필요한 잉여 항공기를 베네수엘라 군대에 판매하는 두 번째 선택지가 있습니다."
@@ -512,16 +456,13 @@
  ven.15.b:0 "미국 회사에 제의한다."
  ven.15.c:0 "우리는 결국 그들을 믿을 수 없었다."
  ven.15.e:0 "우리 동지들은 확실하게 우리를 도울 수 있을 것이다."
- 
  ven.16.t:0 "베네수엘라에 대한 항공기 수출?"
  ven.16.d:0 "베네수엘라 군대의 한 장교가 그들의 공군에서 사용할 상당한 양의 전투기를 사려고 하고 있습니다. 전투기 비축량의 일부와 작별을 고해야 하는 것은 분명하지만, 무기산업을 자극하는 다소 수지맞는 계약이 될 것입니다."
  ven.16.a:0 "좋은 거래로 들리는군!"
  ven.16.b:0 "우리는 어떠한 무기도 낭비할 수 없다."
- 
  ven.17.t:0 "전투기 수송물"
  ven.17.d:0 "우리는 우리 공군의 장비를 갖추거나 예비군을 보유하기 위한 상당한 규모의 전투기를 성공적으로 획득했습니다. 이것들은 우리에게 절실히 필요한 화력을 증가시킬 것입니다. 물론, 우리는 지금 항공기 값을 지불해야 합니다."
  ven.17.a:0 "완벽해"
- 
  ven.18.t:0 "소화기 수입"
  ven.18.d.a:0 "우리의 국내 무기산업의 한계로 인하여, 우리는 여전히 외국 생산자들에게 의존하고 있습니다. 하지만 우리의 주요 판매자들은 우리의 혁명적인 정부 때문에 무기를 팔려고 하지 않습니다. 다행인건, 프랑스와 영국에 있는 우리 동지들이 우리의 무기 부족을 해결할 수 있도록 도와줄 수 있을 것입니다."
  ven.18.d.b:0 "우리의 첫 번째 선택지는 우리가 요청한 만큼의 총기의 양을 공급할 수 없는 것으로 보입니다. 고맙게도, 우리에게 필요한 소총을 베네수엘라 군대에 판매하는 두 번째 선택지가 있습니다."
@@ -529,7 +470,6 @@
  ven.18.a:0 "우리의 프랑스 동지들에게 제의한다."
  ven.18.b:0 "혁명 영국에게 제의한다."
  ven.18.c:0 "우리는 결국 그들을 믿을 수 없었다."
- 
  ven.19.t:0 "야포 수입"
  ven.19.d.a:0 "우리의 국내 무기산업의 한계로 인하여, 야포 등의 중장비를 구하기 어렵습니다. 우리 군사 산업이 현대화 상태가 될 때까지 우리는 그것들을 수입해야 합니다. 우리의 프랑스와 영국의 동지들은 양질의 야포를 충분히 생산하고 있으며, 베네수엘라의 혁명을 보호하기 위해 우리에게 약간의 야포를 판매하기를 바랍니다."
  ven.19.d.b:0 "우리의 첫 번째 선택지는 우리가 요청한 만큼의 야포의 양을 공급할 수 없는 것으로 보입니다. 고맙게도, 우리에게 필요한 야포를 베네수엘라 군대에 판매하는 두 번째 선택지가 있습니다."
@@ -537,7 +477,6 @@
  ven.19.a:0 "우리의 프랑스 동지들에게 제의한다."
  ven.19.b:0 "혁명 영국에게 제의한다."
  ven.19.c:0 "우리는 결국 그들을 믿을 수 없었다."
- 
  ven.20.t:0 "잉여 전투기 구매"
  ven.20.d.a:0 "베네수엘라의 항공 산업은 사실상 존재하지 않지만, 항공기는 이미 현대전의 필수적인 부분이라는 것이 증명되었습니다. 우리의 프랑스와 영국의 동지들, 또는 미국의 혁명가들까지도 우리가 공군력을 증강하는 데 도움을 줄 수 있는 항공기를 제공할 수 있을 것입니다."
  ven.20.d.b:0 "우리의 첫 번째 선택지는 우리가 요청한 만큼의 잉여 항공기의 양을 공급할 수 없는 것으로 보입니다. 고맙게도, 우리에게 필요한 잉여 항공기를 베네수엘라 군대에 판매하는 두 번째 선택지가 있습니다."
@@ -546,126 +485,100 @@
  ven.20.b:0 "새로운 미국은 반드시 잉여 항공기가 있을 것이다!"
  ven.20.e:0 "혁명 영국에게 제의한다."
  ven.20.c:0 "우리는 결국 그들을 믿을 수 없었다."
- 
  ven.21.t:0 "미국과의 동맹"
  ven.21.d:0 "페레스 히메네스 장군의 쿠데타 이후 베네수엘라가 미국과 제휴하고 있다는 것은 비밀이 아닙니다. 현재, 미국이 아메리카 국가 연맹을 공식화했으니, 우리는 이 동맹에 가입할 수 있고, 미국과의 긴밀한 관계를 공식화할 수 있습니다."
  ven.21.a:0 "미국은 우리의 가장 큰 동맹이다."
- 
  ven.22.t:0 "베네수엘라에서 반대파가 조직되다"
  ven.22.d:0 "지난 주, 한 무기고가 습격당했고 수백 개의 무기가 도난당했습니다. 놀랍게도, 오늘, 우리 정부에 반대하는 사람들이 베네수엘라의 반동적인 정권의 비호 아래 조직되어 왔다는 소식을 들었습니다. 증거는 없지만, 불만을 품은 반역자들이 콜롬비아 군대의 소총을 훔쳐서 베네수엘라로 밀반입해 반란을 준비했던 것으로 의심됩니다."
  ven.22.a:0 "우리는 방심하지 않으면 안 된다."
- 
  ven.23.t:0 "베네수엘라의 전쟁 준비"
  ven.23.d:0 "우리가 의심했던 대로 반동적인 베네수엘라 국민들은 우리 정부를 전복시킬 준비를 해왔습니다. 그들은 콜롬비아 반역자들을 무장시켰을 뿐만 아니라, 그들이 군대를 동원하여 우리를 침략할 준비를 하고 있다는 첩보를 입수했습니다."
  ven.23.a:0 "그들은 콜롬비아 땅을 1인치도 가져가지 못할 것이다."
- 
  ven.24.t:0 "카라카스에서의 최후통첩"
  ven.24.d:0 "베네수엘라인들은 스페인으로부터 독립한 이후 1899년 미국이 영국령으로 유지하기로 결정했음에도 불구하고 가이아나의 에세키보 강 서쪽 지역의 영유권을 주장해왔습니다. 하지만 카라카스는 결코 포기하지 않았고, 이제 베네수엘라는 가이아나의 땅을 요구하기 위해 영국인들과의 우리 싸움을 이용하려 하고 있습니다. 그들은 그들이 군대를 움직일 때까지 우리 군대를 뺄 48시간의 여유를 주었습니다. 이것은 말도 안 되는 요구이며, 우리는 다시 한번 위험한 베네수엘라인들로부터 가이아나를 방어해야 하는 입장이 되었습니다."
  ven.24.a:0 "다른 선택지가 없다. 전쟁을 준비해야 한다."
- 
  ven.25.t:0 "최후통첩을 거부한 [WIF.GetNameDefCap]"
- 
+ ven.25.d:0 "Unsurprisingly, the perfidious, stubborn Anglos have refused to cede the occupied territory of Guyana Esequiba. It appears that we will have to retake it by force. All patriotic Venezuelans celebrate today as we move in to reclaim what is ours."
  ven.25.a:0 "우리는 우리의 정당한 땅을 되찾을 것이다!"
- 
  ven.26.t:0 "집으로 돌아간 콜롬비아 자원병들"
  ven.26.d:0 "그들의 조국이 해방되면서, 콜롬비아의 억압적인 생디칼리슴 정권을 전복시키기 위해 우리가 무장시켰던 자원병들은 해체되었고, 그들은 집으로 돌아가 훈장을 받았고 존경을 받았습니다."
  ven.26.a:0 "그들의 도움은 기억될 것이다."
- 
  ven.27.t:0 "우리 석유산업의 지분을 매입한 베네수엘라"
  ven.27.d:0 "우리 석유산업은 베네수엘라 석유의 상당 부분을 차지하고 있습니다. 베네수엘라 정부는 자원이 창출하는 이익의 더 많은 부분을 얻기 위해 자국 내 석유자산에 대한 더 많은 지분을 매입했습니다."
  ven.27.a:0 "이것이 자유시장이다."
- 
  ven.28.t:0 "우리의 석유자산을 장악한 베네수엘라"
  ven.28.d:0 "우리가 해외 자산을 보호할 수 없게 되자 베네수엘라 정부는 우리의 불안한 상황을 이용해 자국 내 석유자산을 압류했습니다. 이것은 [Root.GetAdjective] 회사에 대한 손실입니다, 그들을 막을 방법이 없습니다."
  ven.28.a:0 "젠장할 독수리들!"
- 
  ven.29.t:0 "1944년 대통령 선거"
  ven.29.d:0 "우리 헌법이 규정하는 대로, 지난 선거 이후 5년이 흘렀고 이제 새로운 선거가 치러질 때입니다. 민주운동당과 민주공화연합은 여전히 주된 경쟁자이며, 베네수엘라 사회당은 체제 자체의 시스템을 이용하여 부르주아 체제 파괴에 전념하고 있습니다."
  ven.29.a:0 "민주운동당이 또 다른 임기를 확보하였다."
  ven.29.b:0 "민주공화연합이 선거에서 승리하였다."
  ven.29.c:0 "베네수엘라 사회당이 투표에 의한 혁명을 달성하였다."
- 
  ven.30.t:0 "1949년 대통령 선거"
  ven.30.d:0 "우리 헌법이 규정하는 대로, 지난 선거 이후 5년이 흘렀고 이제 새로운 선거가 치러질 때입니다. 민주운동당과 민주공화연합은 여전히 주된 경쟁자이며, 베네수엘라 사회당은 체제 자체의 시스템을 이용하여 부르주아 체제 파괴에 전념하고 있습니다."
  ven.30.a:0 "민주운동당이 또 다른 임기를 확보하였다."
  ven.30.b:0 "민주공화연합이 선거에서 승리하였다."
  ven.30.c:0 "베네수엘라 사회당이 투표에 의한 혁명을 달성하였다."
- 
  ven.31.t:0 "1954년 대통령 선거"
  ven.31.d:0 "우리 헌법이 규정하는 대로, 지난 선거 이후 5년이 흘렀고 이제 새로운 선거가 치러질 때입니다. 민주운동당과 민주공화연합은 여전히 주된 경쟁자이며, 베네수엘라 사회당은 체제 자체의 시스템을 이용하여 부르주아 체제 파괴에 전념하고 있습니다. 그런데, 이번에는 보수 정당이 선거 대결에 참여하였습니다: 독립선거관리위원회."
  ven.31.a:0 "민주운동당이 또 다른 임기를 확보하였다."
  ven.31.b:0 "민주공화연합이 선거에서 승리하였다."
  ven.31.c:0 "베네수엘라 사회당이 투표에 의한 혁명을 달성하였다."
  ven.31.e:0 "독립선거관리위원회, 신규 정당이 승리하였다."
- 
  ven.32.t:0 "1959년 대통령 선거"
  ven.32.d:0 "우리 헌법이 규정하는 대로, 지난 선거 이후 5년이 흘렀고 이제 새로운 선거가 치러질 때입니다. 민주운동당과 민주공화연합은 여전히 주된 경쟁자이며, 독립선거관리위원회는 제3의 세력이 되었고, 베네수엘라 사회당은 체제 자체의 시스템을 이용하여 부르주아 체제 파괴에 전념하고 있습니다."
  ven.32.a:0 "민주운동당이 또 다른 임기를 확보하였다."
  ven.32.b:0 "민주공화연합이 선거에서 승리하였다."
  ven.32.c:0 "베네수엘라 사회당이 투표에 의한 혁명을 달성하였다."
  ven.32.e:0 "독립선거관리위원회, 신규 정당이 승리하였다."
- 
  ven.33.t:0 "베네수엘라의 인터내셔널 가입?"
  ven.33.d:0 "베네수엘라는 온갖 역경에도 불구하고 최근 생디칼리슴 정부를 선출하였고 평화적인 혁명을 향해 큰 진전을 이루었습니다. 이제 그들은 안정되었으니, 그들은 반동분자들과의 전쟁에서 우리를 돕고 싶어 합니다."
  ven.33.a:0 "환영합니다, 동지들!"
  ven.33.b:0 "그들이 우리를 어떻게 도울 수 있지? 수영해서?"
- 
  ven.34.t:0 "프랑스의 승낙"
  ven.34.d:0 "좋은 소식입니다! 프랑스는 우리를 국가들의 혁명적인 형제로 맞이하기로 결정했습니다."
  ven.34.a:0 "만국의 노동자여 단결하라!"
- 
  ven.35.t:0 "프랑스의 거절"
  ven.35.d:0 "무슨 이유에선지, 프랑스 코뮌은 반동분자들에 대한 그들의 대의에 동참하겠다는 우리의 제안을 거부했습니다."
  ven.35.a:0 "뭐라구?!"
- 
  ven.36.t:0 "베네수엘라의 협상국 가입?"
  ven.36.d:0 "베네수엘라가 제3인터내셔널 생디칼리스트들과 전쟁 상태에 빠진 것으로 보입니다. 비록 우리는 1895년과 1902년의 위기 이후 베네수엘라 사람들과 불편한 관계를 맺어 왔지만, 그들은 코뮌의 붉은 위협으로부터 그들을 지키기 위해 대영제국에 손을 내밀었습니다. 상황이 좀 이상하긴 하지만, 방대한 원유 매장량과 중요한 전략적 위치를 차지하고 있는 베네수엘라는 생디칼리슴에 맞서는 귀중한 동맹이 되어줄 것입니다. 그러나 몇몇 의원들은 우리가 해외의 분쟁에 휘말려서는 안된다고 주장하며, 다른 이들은 우리가 몰락하고 있는 미국을 대신해 서반구의 보호자가 되려면 개입이 필요하다고 주장하고 있습니다. 어떻게 할까요?"
  ven.36.a:0 "협상국에 들어온 것을 환영하네, 베네수엘라여."
  ven.36.b:0 "그들은 골칫거리일 뿐이다."
- 
  ven.37.t:0 "캐나다의 승낙"
  ven.37.d:0 "좋은 소식입니다! 캐나다는 우리를 그들의 동맹에 참여시키기로 결정했습니다. 우리는 이제 생디칼리스트들을 카리브해에서 몰아내고 함께 나아갈 것입니다!"
  ven.37.a:0 "국왕 폐하 만세!"
- 
  ven.38.t:0 "캐나다의 거절"
  ven.38.d:0 "어떠한 이유로, 캐나다는 우리의 요청을 거부했습니다. 우리는 홀로 싸워야 합니다."
  ven.38.a:0 "뭐라고?"
- 
  ven.39.t:0 "베네수엘라와의 평화?"
  ven.39.d:0 "우리는 가이아나에서 밀려났고, 우리 군대는 그들의 수도 근처에 상륙 거점을 만드는 데 실패했습니다. 우리는 이 전쟁에서 지고 있습니다. 그들은 우리에게 평화를 제안했고, 가이아나의 에세키보 강 이서 지역을 요구했습니다. 우리는 그들의 평화 제의를 받아들여야 할까요, 아니면 최후까지 싸워야 할까요?"
  ven.39.a:0 "그 망할 밀림을 내줘라!"
  ven.39.b:0 "항복은 없다!"
- 
  ven.40.t:0 "가이아나에서의 승리!"
  ven.40.d:0 "서인도제도가 우리의 평화 제안을 받아들였습니다. 가이아나 에세키바는 다시 한번 우리땅이 되었으며, 영원히 베네수엘라의 일부로 남을 것입니다! 전국 각지의 국민들이 애국심으로 하나가 되었습니다. 비록 새로운 영토에서 문제가 생겨날 지도 모르지만, 우리 행정가들은 그 지역에 스페인어 화자가 살고 있을 것이라 추측하고 있습니다. 오늘은 모든 베네수엘라 사람들에게 위대한 날입니다!"
  ven.40.a:0 "하나님과 연방 만세!"
- 
  ven.41.t:0 "서인도제도의 평화 거부"
  ven.41.d:0 "[WIF.GetNameDefCap](은)는 우리의 관대한 평화 제안을 거절했습니다. 그들은 다시 한번 가이아나 에세키바를 우리에게 양도하지 않겠다고 선언했고, 따라서 전쟁은 계속될 것입니다. 우리 정부 일각에서는 이 전쟁에서 우리가 과연 이길 수 있을지 의구심이 솟아나고 있지만, 우리 국민들은 싸우겠다는 의지가 있습니다."
  ven.41.a:0 "망할 앵글로놈들!"
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-### Characters ###
+ ven.42.t:0 "The Venezuelan Government Offers Alliance"
+ ven.42.d:0 "In the aftermath of our peaceful intervention in the troubled republic of Venezuela, stability has finally been restored under President Marcos Pérez Jiménez. In order to maintain the health and prestige of his regime, he has asked us to join with him in making a formal treaty of alliance and aid. Since we are part of a greater alliance, the [ROOT.GetFactionName], we will need to ask the leading country of our alliance if they would be willing to protect Venezuela. Since we will be doing most of the heavy lifting in protecting them, however, there is no reason to refuse."
+ ven.42.a:0 "Pass on the request to our ally."
+ ven.42.b:0 "We don't want the Venezuelans."
+ ven.43.t:0 "America Forwards Venezuelan Alliance Request"
+ ven.43.d:0 "Our American allies have received a request from Venezuela to join the [ROOT.GetFactionName]. The United States seems interested in bringing their southern neighbour into its sphere, and has encouraged us to accept. While Venezuela would provide us with a stable oil supply and a base in the southern Caribbean, allying them risks entanglement in South American politics. Should we allow them to join?"
+ ven.43.a:0 "Naturally they are welcome!"
+ ven.43.b:0 "It would be too much of a liability."
+ ven.44.t:0 "[FROM.GetNameDefCap] Accepts the Venezuelan Offer"
+ ven.44.d:0 "Our allies in [FROM.GetName] have accepted our request that Venezuela be allowed to join the [ROOT.GetFactionName]. Our reputation as the most influential country in the Americas has been reinforced, and we have a firm new ally to boot."
+ ven.44.a:0 "Great!"
+ ven.45.t:0 "[FROM.GetNameDefCap] Accepts Alliance"
+ ven.45.d.america:0 "[From.GetNameDefCap] has accepted our request to join their global alliance, the [FROM.GetFactionName]. This is a great day for international cooperation, and a day that signals the coming death of worldwide radicalism and socialism!"
+ ven.45.d:0 "Our request for an alliance was forwarded by the Americans to the faraway nation of [FROM.GetName], and they have accepted our request to join their global alliance, the [FROM.GetFactionName]. This is a great day for international cooperation, and a day that signals the coming death of worldwide radicalism and socialism!"
+ ven.45.a:0 "To friendship!"
+ ven.46.t:0 "[FROM.GetNameDefCap] Refuses"
+ ven.46.d:0 "Although the Americans had clearly already shown their willingness to help us, their alliance has proved less friendly. Our offer of alliance has been rebuffed, on the grounds that we might drag them into wars with our neighbours. This is a national outrage, and has shaken our popularity with the people."
+ ven.46.a:0 "We were foolish to trust the imperialists."
  VEN_tomas_contreras_villalobos:0 "토마스 콘트레라스 비얄로보스"
  VEN_marcos_evangelista_perez_jimenez:0 "마르코스 에방헬리스타 페레스 히메네스"
  VEN_diogenes_escalante_ugarte:0 "디오헤네스 에스칼란테 우가르테"
