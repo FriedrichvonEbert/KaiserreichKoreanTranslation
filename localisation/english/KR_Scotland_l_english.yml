@@ -1,4 +1,21 @@
-﻿l_english:
+﻿ l_english:
+ 
+### Country Names ###
+ SCO:0 "스코틀랜드"
+ SCO_ADJ:0 "스코틀랜드"
+ SCO_DEF:0 "스코틀랜드"
+
+ SCO_totalist:0 "스코틀랜드 노동자 공화국"
+ SCO_totalist_ADJ:0 "스코틀랜드"
+ SCO_totalist_DEF:0 "스코틀랜드 노동자 공화국"
+ SCO_syndicalist:0 "스코틀랜드 노동자 공화국"
+ SCO_syndicalist_ADJ:0 "스코틀랜드"
+ SCO_syndicalist_DEF:0 "스코틀랜드 노동자 공화국"
+ SCO_radical_socialist:0 "스코틀랜드 노동자 공화국"
+ SCO_radical_socialist_ADJ:0 "스코틀랜드"
+ SCO_radical_socialist_DEF:0 "스코틀랜드 노동자 공화국"
+
+ ### Parties ###
  SCO_totalist_party:0 "공산당 통일 그룹"
  SCO_totalist_party_long:0 "공산당 통일 그룹"
  SCO_syndicalist_party:0 "스코틀랜드 생디칼리슴당"
@@ -21,12 +38,6 @@
  SCO_paternal_autocrat_party_long2:0 "독일 동조자"
  SCO_national_populist_party:0 "프린지 국민주의자"
  SCO_national_populist_party_long:0 "프린지 국민주의자"
- POLITICS_TOM_BELL_DESC:0 ""
- POLITICS_WILLIAM_GALLACHER_SOTLAND_DESC:0 "William Gallacher founded the Labour Withholding Committee in opposition to the Weltkrieg era Munitions Act. Jailed in his native Glasgow for undermining the war effort, Gallacher became increasingly radicalised. Upon release from prison, Gallacher joined the Glasgow Trades Council, part of the greater British Trade Union Movement, and organised it into an effective militia force during the revolution.\n\nNow in charge of his native Scotland, he will no doubt pursue an orthodox syndicalist course."
- POLITICS_JAMES_MAXTON_DESC:0 ""
- POLITICS_HUGH_MACDIARMID_DESC:0 ""
- POLITICS_JOHN_MACCORMICK_DESC:0 "John MacCormick rose from being a barely notable legal professional and activist to the forefront of the Scottish independence debate, becoming the main centrist figure and uniting that niche in a sea of leftist agitation. MacCormick's political flexibility would cost him his freedom and be arrested for counter-revolutionary activities, though his unmatched charisma would allow him to lead the NPS even from prison, causing its fracture. Now back in power, Scotland's own 'King' wields immense power through pure charm and his sympathetic attitude, eager to embark on a plan to build a united and progressive Scotland."
- POLITICS_COMPTON_MACKENZIE_DESC:0 ""
- POLITICS_SCOTLAND_DONALDSON_DESC:0 "A native of Dundee, Arthur Donaldson has had an unlikely life, initially leaving school to become an assistant registrar before becoming a Dundee Journalist. After a five year-stint in the United States working for Chrysler, Donaldson would return to Scotland in 1928 to campaign for the NPS and quickly become a close associate of John MacCormick. Attempting a career as a freelance journalist and poultry farmer in the Union of Britain, Donaldson would face continued harassment from the security forces and become increasingly anti-socialist. Despite following Douglas Young into the SNP, he would quickly carve out his own rightist and pro-collaborationist faction. Now in charge, Donaldson will do whatever is necessary to protect Scotland from British tyranny."
- POLITICS_SCOTLAND_COUNCIL_DESC:0 "Following Donaldson's assassination, various pro-collaborationist statesmen and ministers have been appointed to run the country with unlimited powers until a suitable candidate for leadership can be found."
- POLITICS_FRANZ_DESC:0 "Franz Maria Luitpold Prinz von Bayern, now known by his anglicised name; Francis I, is the German-imposed King of Scotland, following the Jacobite lineage. Francis himself has done much to appease the population; taking on a new name, converting to Presbyterianism and taking it upon himself to learn and speak English. Despite this he is still resented, propped up only by a commission of pro-German lobbyists and seen by much of the population as a tool of Teutonic oppression."
+ 
+ ### Leaders ###
+ 

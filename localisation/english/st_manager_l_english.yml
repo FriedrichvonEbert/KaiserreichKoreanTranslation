@@ -1,68 +1,91 @@
 ﻿l_english:
+
  st_state_name:0 "§H[This.GetName]§!"
- mark_status_marked:0 "지정취소"
- mark_status_unmarked:0 "지정"
+
+ mark_status_marked:0 "Unmark"
+ mark_status_unmarked:0 "Mark"
+
  mark_tooltip_loc:0 "[THIS.mark_tooltip]"
  mark_tooltip_desc:0 "[!mark_state_click]"
- ST_STATE_MARK_FOR_TRANSFER:0 "§H지역 지정§!"
- ST_STATE_UNMARK_FOR_TRANSFER:0 "§H지역 지정취소§!"
- STT_set_mark:0 "이전하거나 핵심 주로 설정하기 위해 §H지정§!합니다."
- STT_clear_mark:0 "더 이상 이전하거나 핵심 주로 설정하기 위해 §H지정§!하지 않습니다."
- MARK_ALL_STATES:0 "§H[This.owner.GetAdjective] 전 지역 지정§!"
+
+ ST_STATE_MARK_FOR_TRANSFER:0 "§HMark State§!"
+ ST_STATE_UNMARK_FOR_TRANSFER:0 "§HUnmark State§!"
+
+ STT_set_mark:0 "Will be §Hmarked§! for transfer or coring."
+ STT_clear_mark:0 "Will no longer be §Hmarked§! for transfer or coring."
+
+ MARK_ALL_STATES:0 "§HMark All [This.owner.GetAdjective] States§!"
  MARK_ALL_STATES_DELAYED:0 "[!mark_all_states_click]"
- MARK_COLONIES:0 "§H[This.owner.GetAdjective]의 분리된 지역 지정§!\n\n[This.owner.GetAdjective]의 수도와 연결되지 않은 모든 지역을 지정합니다."
+
+ MARK_COLONIES:0 "§HMark Disconnected [This.owner.GetAdjective] States§!\n\nWill mark all [This.owner.GetAdjective] states which are not connected to the capital."
  MARK_COLONIES_DELAYED:0 "[!mark_colonial_states_click]"
- MARK_NONCORE:0 "§H[This.owner.GetAdjective]의 비핵심 지역 지정§!\n\n[This.owner.GetAdjective]의 핵심이 아닌 모든 [This.owner.GetAdjective]의 지역을 지정합니다."
+
+ MARK_NONCORE:0 "§HMark [This.owner.GetAdjective] Non-Core States§!\n\nWill mark all [This.owner.GetAdjective] states which are not [This.owner.GetAdjective] cores."
  MARK_NONCORE_DELAYED:0 "[!mark_noncore_states_click]"
- CLEAR_ALL_MARKINGS:0 "§H모든 지역 지정 제거§!"
+
+ CLEAR_ALL_MARKINGS:0 "§HClear All Marked States§!"
  CLEAR_ALL_MARKINGS_DELAYED:0 "[!clear_all_markings_click]"
- AWARD_STATES:0 "§H지역 이전§!\n\n모든 지정된 지역을 §Y[This.owner.GetNameDef]§! 측에게 이전합니다."
+
+ AWARD_STATES:0 "§HTransfer States§!\n\nWill transfer all marked states to §Y[This.owner.GetNameDef]§!."
  AWARD_STATES_DELAYED:0 "[!award_states_click]"
+
  add_core_loc:0 "[This.GetAddCoreRuleDesc]"
- ADD_CORE_STATES:0 "§H[This.owner.GetAdjective]의 핵심 추가§!\n\n모든 지정된 지역 중 아직 [This.owner.GetAdjective]의 핵심이 아닌 지역을 [This.owner.GetAdjective]의 핵심으로 추가합니다."
- ADD_CORE_STATES_MP:0 "§H[This.owner.GetAdjective]의 핵심 추가§!\n\n§R여럿이서 하기에서는 비활성화됩니다!§!"
+ ADD_CORE_STATES:0 "§HAdd [This.owner.GetAdjective] Cores§!\n\nWill add [This.owner.GetAdjective] cores to all marked states which aren't already [This.owner.GetAdjective] cores."
+ ADD_CORE_STATES_MP:0 "§HAdd [This.owner.GetAdjective] Cores§!\n\n§RDisabled in multiplayer!§!"
  ADD_CORE_STATES_DELAYED:0 "[!add_cores_click]"
+
  remove_core_loc:0 "[This.GetRemoveCoreRuleDesc]"
- REMOVE_CORE_STATES:0 "§H[This.owner.GetAdjective]의 핵심 제거§!\n\n모든 지정된 지역 중 이미 [This.owner.GetAdjective]의 핵심으로 지정된 지역에서 [This.owner.GetAdjective]의 핵심을 제거합니다."
- REMOVE_CORE_STATES_MP:0 "§H[This.owner.GetAdjective]의 핵심 제거§!\n\n§R여럿이서 하기에서는 비활성화됩니다!§!"
+ REMOVE_CORE_STATES:0 "§HRemove [This.owner.GetAdjective] Cores§!\n\nWill remove [This.owner.GetAdjective] cores from all marked states which are already [This.owner.GetAdjective] cores."
+ REMOVE_CORE_STATES_MP:0 "§HRemove [This.owner.GetAdjective] Cores§!\n\n§RDisabled in multiplayer!§!"
  REMOVE_CORE_STATES_DELAYED:0 "[!remove_cores_click]"
+
  add_claim_loc:0 "[This.GetAddClaimRuleDesc]"
- ADD_CLAIM_STATES:0 "§H[This.owner.GetAdjective]의 영유권 추가§!\n\n모든 지정된 지역 중 아직 [This.owner.GetAdjective]의 핵심이나 영유권을 가지지 못한 지역에 [This.owner.GetAdjective]의 영유권을 추가합니다."
- ADD_CLAIM_STATES_MP:0 "§H[This.owner.GetAdjective]의 영유권 추가§!\n\n§R여럿이서 하기에서는 비활성화됩니다!§!"
+ ADD_CLAIM_STATES:0 "§HAdd [This.owner.GetAdjective] Claims§!\n\nWill add [This.owner.GetAdjective] claims to all marked states which aren't already [This.owner.GetAdjective] cores or claims."
+ ADD_CLAIM_STATES_MP:0 "§HAdd [This.owner.GetAdjective] Claims§!\n\n§RDisabled in multiplayer!§!"
  ADD_CLAIM_STATES_DELAYED:0 "[!add_claims_click]"
+
  remove_claim_loc:0 "[This.GetRemoveClaimRuleDesc]"
- REMOVE_CLAIM_STATES:0 "§H[This.owner.GetAdjective]의 영유권 제거§!\n\n모든 지정된 지역 중 이미 [This.owner.GetAdjective]의 영유권을 주장하는 지역에서 [This.owner.GetAdjective]의 영유권을 제거합니다."
- REMOVE_CLAIM_STATES_MP:0 "§H[This.owner.GetAdjective]의 영유권 제거§!\n\n§R여럿이서 하기에서는 비활성화됩니다!§!"
+ REMOVE_CLAIM_STATES:0 "§HRemove [This.owner.GetAdjective] Claims§!\n\nWill remove [This.owner.GetAdjective] claims from all marked states which are already [This.owner.GetAdjective] claims."
+ REMOVE_CLAIM_STATES_MP:0 "§HRemove [This.owner.GetAdjective] Claims§!\n\n§RDisabled in multiplayer!§!"
  REMOVE_CLAIM_STATES_DELAYED:0 "[!remove_claims_click]"
+
  mark_country_tooltip_loc:0 "[THIS.mark_country_tooltip]"
- COUNTRY_MARKING:0 "§H국가 지정§!"
- CLEAR_COUNTRY_MARKING:0 "§H국가 지정 취소§!"
+
+ COUNTRY_MARKING:0 "§HMark Country§!"
+ CLEAR_COUNTRY_MARKING:0 "§HClear Marked Country§!"
  mark_country_tooltip_desc:0 "[!mark_country_click]"
- STT_set_country_mark:0 "§H[This.owner.GetNameWithFlag]§!의 괴뢰국화, 세력 가입/퇴출, 그리고 전쟁선포/평화협상을 설정하기 위해 §H지정§!합니다."
- STT_clear_country_mark:0 "더 이상 §H[marked_country.GetNameWithFlag]§!의 괴뢰국화, 세력 가입/퇴출, 그리고 전쟁선포/평화협상을 하기 위해 §H지정§!하지 않습니다."
+
+ STT_set_country_mark:0 "§H[This.owner.GetNameWithFlag]§! will be §Hmarked§! for puppeting, faction joining/leaving, and war/peace."
+ STT_clear_country_mark:0 "§H[marked_country.GetNameWithFlag]§! will no longer be §Hmarked§! for puppeting, faction joining/leaving, and war/peace."
+
  ADD_PUPPET_LOC:0 "[THIS.add_puppet_tooltip]"
- ADD_PUPPET_LOC_TT:0 "§H종속국화§!\n\n§H[marked_country.GetNameWithFlag]§!의 자유를 빼앗고 §H[This.owner.GetNameWithFlag]§!의 종속국으로 만듭니다."
- ADD_PUPPET_DEFAULT:0 "§H종속화§!"
+ ADD_PUPPET_LOC_TT:0 "§HMake Subject§!\n\nWill turn §H[marked_country.GetNameWithFlag]§! into a subject of §H[This.owner.GetNameWithFlag]§!."
+ ADD_PUPPET_DEFAULT:0 "§HMake Subject§!"
  ADD_PUPPET_LOC_DELAYED:0 "[!add_puppet_click]"
+
  REMOVE_PUPPET_LOC:0 "[THIS.remove_puppet_tooltip]"
- REMOVE_PUPPET_LOC_TT:0 "§H비종속화§!\n\n§H[marked_country.GetNameWithFlag]§!의 종속 상태를 제거하고 독립하도록 만듭니다."
- REMOVE_PUPPET_DEFAULT:0 "§H비종속화§!"
+ REMOVE_PUPPET_LOC_TT:0 "§HRemove Subject§!\n\nWill remove §H[marked_country.GetNameWithFlag]§!'s subject status and make them independent."
+ REMOVE_PUPPET_DEFAULT:0 "§HRemove Subject§!"
  REMOVE_PUPPET_LOC_DELAYED:0 "[!remove_puppet_click]"
+
  ADD_FACTION_LOC:0 "[THIS.add_faction_tooltip]"
- ADD_FACTION_LOC_TT:0 "§H[This.owner.GetFactionName] 세력에 참여§!\n\n§H[marked_country.GetNameWithFlag]§!에서는 §H[This.owner.GetNameWithFlag]§!의 세력인 [This.owner.GetFactionName] 측에 참여합니다."
- ADD_FACTION_LEADER_LOC_TT:0 "§H세력 지도국화§!\n\n§H[marked_country.GetNameWithFlag]§! 측은 [marked_country.GetFactionName]의 새로운 지도국이 됩니다."
- ADD_FACTION_DEFAULT:0 "§H세력 추가§!"
+ ADD_FACTION_LOC_TT:0 "§HJoin the [This.owner.GetFactionName]§!\n\n§H[marked_country.GetNameWithFlag]§! will join §H[This.owner.GetNameWithFlag]§!'s faction, the [This.owner.GetFactionName]."
+ ADD_FACTION_LEADER_LOC_TT:0 "§HMake Faction Leader§!\n\n§H[marked_country.GetNameWithFlag]§! will become the new leader of the [marked_country.GetFactionName]."
+ ADD_FACTION_DEFAULT:0 "§HAdd to Faction§!"
  ADD_FACTION_LOC_DELAYED:0 "[!add_faction_click]"
+
  REMOVE_FACTION_LOC:0 "[THIS.remove_faction_tooltip]"
- REMOVE_FACTION_LOC_TT:0 "§H[marked_country.GetFactionName] 탈퇴§!\n\n§H[marked_country.GetNameWithFlag]§! 측을 [marked_country.GetFactionName]에서 탈퇴시킵니다."
- REMOVE_FACTION_DEFAULT:0 "§H세력 퇴출§!"
+ REMOVE_FACTION_LOC_TT:0 "§HLeave the [marked_country.GetFactionName]§!\n\nWill remove §H[marked_country.GetNameWithFlag]§! from the [marked_country.GetFactionName]."
+ REMOVE_FACTION_DEFAULT:0 "§HRemove from Faction§!"
  REMOVE_FACTION_LOC_DELAYED:0 "[!remove_faction_click]"
+
  ADD_PEACE_LOC:0 "[THIS.add_peace_tooltip]"
- ADD_PEACE_LOC_TT:0 "§H[This.owner.GetNameDef] 측과 평화§!\n\n§H[marked_country.GetNameWithFlag]§! 및 동맹들은, §H[This.owner.GetNameWithFlag]§! 및 동맹들과 치고박던 전쟁을 끝냅니다."
- ADD_PEACE_ALL_WARS_LOC_TT:0 "§H평화 선언§!\n\n§H[marked_country.GetNameWithFlag]§! 측은 현재 참전 중인 모든 전쟁을 그만두고 전쟁이 일어나기 전으로 복귀합니다."
- ADD_PEACE_DEFAULT:0 "§H평화 선포§!"
+ ADD_PEACE_LOC_TT:0 "§HMake Peace with [This.owner.GetNameDef]§!\n\n§H[marked_country.GetNameWithFlag]§!, including all allies, will end the war with §H[This.owner.GetNameWithFlag]§! and their allies."
+ ADD_PEACE_ALL_WARS_LOC_TT:0 "§HPeace Out of All Wars§!\n\n§H[marked_country.GetNameWithFlag]§! will white peace out of all wars it is currently in."
+ ADD_PEACE_DEFAULT:0 "§HMake Peace§!"
  ADD_PEACE_LOC_DELAYED:0 "[!add_peace_click]"
+
  ADD_WAR_LOC:0 "[THIS.add_war_tooltip]"
- ADD_WAR_LOC_TT:0 "§H[This.owner.GetNameDef]측에 전쟁 선포§!\n\n§H[marked_country.GetNameWithFlag]§!측은 §H[This.owner.GetNameWithFlag]§!에게 전쟁을 선포합니다."
- ADD_WAR_DEFAULT:0 "§H전쟁 선포§!"
+ ADD_WAR_LOC_TT:0 "§HDeclare War on [This.owner.GetNameDef]§!\n\n§H[marked_country.GetNameWithFlag]§! will declare war on §H[This.owner.GetNameWithFlag]§!."
+ ADD_WAR_DEFAULT:0 "§HDeclare War§!"
  ADD_WAR_LOC_DELAYED:0 "[!add_peace_click]"

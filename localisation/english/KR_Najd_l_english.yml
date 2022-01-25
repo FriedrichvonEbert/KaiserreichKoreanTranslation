@@ -1,4 +1,6 @@
-﻿l_english:
+﻿ l_english:
+ 
+ ### Parties ###
  SAU_totalist_party:0 "셰이흐와 아랍당"
  SAU_totalist_party_long:0 "셰이흐와 아랍당"
  SAU_syndicalist_party:0 "아랍 사회당"
@@ -19,18 +21,24 @@
  SAU_paternal_autocrat_party_long:0 "알-사우드"
  SAU_national_populist_party:0 "아랍당"
  SAU_national_populist_party_long:0 "아랍당"
+ 
+ ### Leaders ###
  POLITICS_SAUDI_DESC:0 "수많은 이들을 죽음에 몰아넣은 필멸자인 압둘아지즈 이븐 사우드는 이제 사우드 빈 압둘아지즈 알 라쉬드를 향해 시선을 돌립니다. 이 경쟁은 어린 이븐 사우드가 라쉬드 가문에 의해 리야드에서 쫓겨나면서 시작되었습니다. 에미르의 졸개가 아니었던 이븐 사우드의 아버지는, 에미르국 해안가의 가난한 사람들을 그의 왕조의 위대한 목표인 와하비즘으로 결집시켰습니다. 라쉬드 가문은 그 후 그들의 유일한 서방 동맹국을 포함한 많은 희생으로 쫓겨났습니다. 이븐 사우드 자신은 베두인족에 거만한 아랍인들에게 증오심을 표함으로써 사우디인들이 상속받은 많은 반목을 시작했습니다. 이 분노의 씨앗은 그의 흉포함을 물려받은 사람들에게 전달되었고, 이제 그는 라쉬드에게 이 분노를 돌리려고 합니다."
  POLITICS_SULTAN_OTAIBI_DESC:0 "오타이바 베두인 부족의 문맹 부족민이었던 술탄은 사우드 가문의 병력에서 거대한 부분을 형성하는 소위 이크완의 수장이 되었습니다. 수니파 근본주의를 퍼트리는 성스러운 임무를 받았다고 믿는 술탄은 사우드 가문이 주변국을 약탈하지 못하도록 자신의 권한을 제한했을 때 하나도 기쁘지 않았습니다. 지금 술탄은 사우드 가문의 옛 동맹과 드넓은 이교도적인 세계에 저항하기 위해 무기를 들었습니다."
+ 
+ ### Opinion Modifiers ###
  ott_jabalshammar:0 "반역"
  sau_rebuild:0 "우리의 주권을 존중받음"
+ 
+ ### Tooltips ###
  IKH_revolt:0 "이크완 반란이 발생함"
- IKH_revolt_2:0 "이크완 반란이 진압됨"
  joined_cairo_pact:0 "카이로 조약 참여를 약속함"
  SAU_ikhwan_provoking:0 "§R이 중점은 이크완 반란을 초래할 것입니다.§!"
  SAU_sole_caliphate_is_a_bad_idea:0 "§R칼리프를 자처하는 것은 많은 이웃 국가들의 분노를 살 것입니다. 신중히 행동해야 합니다...§!\n"
  sau_conquer_imamate_tt:0 "§g무스카트의 보호자가 우리의 전진에 대응하지 않는다면, 아군은 무스카트로 진격해 §Y[OMA.GetNameWithFlag]§! 측을 영구적으로 무능력화할 것입니다.§!"
  SAU_ongoing_ikhwan_raid:0 "이크완이 습격을 떠났습니다"
  SAU_arabian_tribes_mobilized_tooltip:0 "훈련병이고 1918년형 보병 장비로 무장한 £nato_unit_cavalry_icon_small §Y기병§! 2개 사단을 §Y리야드§!에서 얻습니다"
+ 
  sau_ruwala_tt:0 "§G[JBS.GetNameWithFlag]§! 측과 §R전쟁§! 이 벌어진다면 §Y아니자§!에서 훈련병 숙련도와 1918년형 보병장비를 갖춘 £nato_unit_cavalry_icon_small 1개 §Y기병 사단§!을 획득합니다\n"
  sau_anizzah_tt:0 "§G[JBS.GetNameWithFlag]§! 측과 §R전쟁§!이 벌어진다면 §Y아니자§! 훈련병 숙련도와 1918년형 보병장비를 갖춘 £nato_unit_cavalry_icon_small 2개 §Y기병 사단§!을 획득합니다\n\n §G[JBS.GetNameWithFlag]§! 측과 §R전쟁§!이 벌어진다면 §Y아니자§! 훈련병 숙련도와 1918년형 보병장비를 갖춘 £nato_unit_infantry_icon_small 1개 §Y민병 사단§!을 획득합니다\n"
  sau_dhafir_tt:0 "§G[JBS.GetNameWithFlag]§! 측과 §R전쟁§!이 벌어진다면 §Y아니자§!에서 훈련병 숙련도와 1918년형 보병장비를 갖춘 £nato_unit_cavalry_icon_small 1개 §Y기병 사단§!을 획득합니다\n"
@@ -38,30 +46,35 @@
  sau_utaibah_sultan_tt:0 "§G[JBS.GetNameWithFlag]§!측과 §R전쟁§!이 벌어진다면 §Y카심§!에서 훈련병 숙련도와 1918년형 보병장비를 갖춘 £nato_unit_cavalry_icon_small 2개 §Y기병 사단§!을 획득합니다.\n"
  sau_utaibah_rubayin_tt:0 "§G[JBS.GetNameWithFlag]§!측과 §R전쟁§!이 벌어진다면 §Y카심§!에서 훈련병 숙련도와 1918년형 보병장비를 갖춘 £nato_unit_cavalry_icon_small 1개 §Y기병 사단§!을 획득합니다.\n\n§G[JBS.GetNameWithFlag]§!측과 §R전쟁§!이 벌어진다면 §Y카심§!에서 훈련병 숙련도와 1918년형 보병장비를 갖춘 £nato_unit_infantry_icon_small 1개 §Y민병 사단§!을 획득합니다."
  sau_duwasir_tt:0 "§G[JBS.GetNameWithFlag]§!측과 §R전쟁§!이 벌어진다면 §Y나지드§!에서 훈련병 숙련도와 1918년형 보병장비를 갖춘 £nato_unit_infantry_icon_small 2개 §Y민병 사단§!을 획득합니다.\n"
+ 
+ ### Decisions ###
  SAU_JBS_Power_Struggle:0 "통일전쟁 준비"
  SAU_JBS_Power_Struggle_desc:0 "우리는 사우드 가문의 아래에 아라비아 반도를 통일할 기회를 수 년간 기다려 왔습니다. 슬프게도 오스만의 감시자는 양 눈을 모두 감고 잠에 든 적이 없으며 1925년 대영제국이 무너지자 세계대전 기간에 보여줬던 "충성"에 대한 대가로 개처럼 자신들을 따르던 라시드 가문에 보상을 주었습니다. 동맹을 잃어버리고 영토도 얻지 못하면서 우리에게 남은 건 아무것도 없었습니다. 결국 압둘아지즈는 쉬지 않고 분노에 타오르게 됐습니다.\n\n사우드 빈 압드 알-아지즈는 동맹 오스만이 보내준 지원에 행복했을지도 모릅니다. 하지만 지평선에 먹구름이 몰려들고 있으며 그의 동맹이 내부 문제에 몰두하고 있다는 사실을 눈치챈다면 그의 나약한 군대는 이크완의 분노를 홀로 받아내야 할 것입니다...\n\n§g [JBS.GetNameWithFlag] 측과 전쟁에 돌입했을 때 £in_combat §G동맹§!의 힘에 비례해서 아군의 규모가 결정될 것입니다. 중앙 아라비아 부족들을 끌어들이고 이크완의 지지를 지켜낸다면 우리에게 유리한 규모에 다다를 것입니다.§!\n · [JBS.GetNameWithFlag] : [?JBS.num_divisions|H0] ([?JBS.tribes|H0])\n · [SAU.GetNameWithFlag] : [?SAU.num_divisions|H0] ([?SAU.tribes|H0])\n"
+ 
  SAU_War_of_Unification:0 "아라비아 통일전쟁"
  SAU_War_of_Unification_desc:0 "거대한 괴수 오스만이 전 세계적인 경제 공황에 짓눌려 무너지고 있는 지금, 아랍 내부 통제권을 얻기 위한 최후 결전이 빠르게 다가오고 있습니다. 모든 에미르는 한쪽 편을 골라야 합니다. 아랍 세계의 미래는 피로 쓰여질 것이며 패배자는 명예를 잃어버린 채로 밀려나거나 전장에서 죽게 될 것입니다."
  SAU_War_of_Unification_Peace:0 "임박한 몰락"
  SAU_War_of_Unification_Peace_desc:0 "아라비아 사막에서 전쟁이 벌어진 것이 그렇게 이상한 일은 아니지만, 지역 경제와 농업 기반은 간헐적인 휴전과 결정적 승리가 없는 지리한 충돌을 유지할 수준이 되지 못합니다. 라시드 가문이나 사우드 가문 둘 중 하나가 승리를 목전에 둔다면 상대편은 기나긴 공성전과 전쟁 손실을 이겨내지 못하고 패배를 인정할 수 밖에 없을 것입니다."
  SAU_Sway_Ruwala:0 "§Y루왈라§! 장악"
- SAU_Sway_Ruwala_desc:0 ""
+ 
  SAU_Sway_Anizzah:0 "§Y아니자§! 장악"
- SAU_Sway_Anizzah_desc:0 ""
+ 
  SAU_Sway_Dhafir:0 "§Y다피르§! 장악"
- SAU_Sway_Dhafir_desc:0 ""
+ 
  SAU_Sway_Mutair_Dawish:0 "§Y무타이르§! 장악 (파이살 알 두와시)"
- SAU_Sway_Mutair_Dawish_desc:0 ""
+ 
  SAU_Sway_Mutair_Busayis:0 "§Y무타이르§! 장악 (미사리 이븐 부세이스)"
- SAU_Sway_Mutair_Busayis_desc:0 ""
+ 
  SAU_Sway_Utaibah_Ikh:0 "§Y우타이바§! 장악 (술탄 이븐 후마이드 이븐 비자드)"
- SAU_Sway_Utaibah_Ikh_desc:0 ""
+ 
  SAU_Sway_Utaibah:0 "§Y우타이바§! 장악 (압드 알-라흐만 이븐 루바이인)"
- SAU_Sway_Utaibah_desc:0 ""
+ 
  SAU_Sway_Duwasir:0 "§Y두와시르§! 장악"
- SAU_Sway_Duwasir_desc:0 ""
+ 
+ 
  SAU_Ikhwan_Rides_Out:0 "이크완의 극복"
  SAU_Ikhwan_Rides_Out_desc:0 "'교우들' 이라는 뜻의 이크완은 이븐 사우드 가문이 활용하던 부족 민병대로 우리 군대의 중추를 담당합니다. 광신적인 종교의 전사인 그들은 이븐 사우드 가문에 대한 충성심보다는 이슬람 사회의 엄격한 도덕을 따릅니다. 모든 서방의 진보를 버리면서, 이크완은 타락한 이슬람 세계를 정화하고 단 하나의 통일된 국가로 모든 무슬림을 통일하기를 열망합니다.\n\n그들이 검과 창을 들고 싸우며 마주치는 모든 남성 포로의 목을 베는 다루기 힘들고 야만적인 군대라는 점에는 의심의 여지가 없습니다. 하지만 그들의 피에 굶주리고 광적인 신앙심을 악명 높은 주변국 영토 약탈에 활용한다면 이븐 사우드 가문에 큰 자산이 될 것입니다."
+ 
  SAU_Ikwhan_Qatar:0 "카타르 습격"
  SAU_Ikwhan_Muscat:0 "무스카트 습격"
  SAU_Ikwhan_UAE:0 "휴전국 습격"
@@ -71,10 +84,13 @@
  SAU_Ikwhan_Baghdad:0 "바그다드 습격"
  SAU_Ikwhan_Damascus:0 "다마스쿠스 습격"
  SAU_Ikwhan_Medina:0 "메디나 습격"
+ 
  OMA_SAU_Whitepeace:0 "무스카트와 리야드 사이의 무조건 평화"
- OMA_Request_Urgent_Intervention:0 "Request Urgent Intervention"
+ 
  SAU_Join_Cairo_Pact:0 "카이로 협약 가입"
  SAU_Join_Cairo_Pact_desc:0 "시대가 바뀌었고 한때 누구에게도 지지 않을 것 같아 보이던 전쟁병기 오스만이 추동력을 잃어버렸습니다. 아랍 민족과 집단들이 아랍 인민의 해방과 영광을 위해 싸워야 한다고 목소리 높여 소리치는 이집트의 녹색 깃발 아래로 모여들면서 우리 아미르 또한 이스탄불과의 관계에 대해 의구심을 품기 시작했습니다. 우리는 이미 최근 몇년간 짧은 자유를 경험하긴 했습니다만... 한번 해보는게 어떨까요? 우리가 그 자유를 지키지 말아야 할 이유가 있을까요?"
+ 
+ ### Ideas ###
  SAU_ikh_aftermatch:0 "살라피 불만"
  SAU_ikh_aftermatch_desc:0 "비록 이크완이 군사적으로 패배했을지라도, 많은 이들이 여전히 공개적으로 이크완에 대한 지지를 드러내고 있으며 누군가는 또 다른 반란을 획책하고 있습니다. 뭔가 조치를 취해야 합니다."
  SAU_heavy_jizya:0 "무거운 지즈야 세금"
@@ -108,9 +124,12 @@
  SAU_muslim_universities:0 "이슬람 교육"
  SAU_muslim_universities_desc:0 "민간 투자를 활용해 고등 교육기관을 확장했습니다."
  SAU_arabian_war_of_unification:0 "통일전쟁"
- SAU_arabian_war_of_unification_desc:0 ""
+ 
  SAU_allah_triumphant:0 "알라의 의지의 승리"
+ 
+ ### Focuses ###
  saudi_focus:0 "사우드 중점계통도"
+ 
  SAU_fulfull_destiny:0 "운명을 다하라"
  SAU_fulfull_destiny_desc:0 "우리의 정복이 여기서 끝나서는 안됩니다! 아랍 전역이 아라비아의 아래에서 통일되어야 합니다!"
  SAU_asir:0 "아시르 영유권 주장"
@@ -121,6 +140,7 @@
  SAU_hit_libya_desc:0 "이제 우리는 아직 우리의 통치권이 닿지 않는 서부에 도착했습니다. 옛 칼리프국과 같이 대서양을 향하고 서방 괴뢰국의 아래에서 아랍 전역을 해방해야 합니다."
  SAU_Conquer_the_Imamate:0 "오만 이맘국 침공"
  SAU_Conquer_the_Imamate_desc:0 "저들은 무스카트와 오만 두 국가로 권력이이 분산되어 있기 때문에 이크완에게 저항할 능력이 부족하며, 지역 거주민들이 스스로를 지켜야 하는 지역이 넓게 펼쳐져 있습니다. 오스만 제국이 해당 지역에서 작전을 유지하는데 들어가는 비용 때문에 망설이고 있는데다가 이맘국이 힘을 합치는데 거부했습니다. 오만과 무스카트가 연합 전선을 형성하기 전에 저들을 공격하고 파괴할 기회가 다가왔습니다."
+ 
  SAU_saudi_hegemony:0 "사우드 패권"
  SAU_saudi_hegemony_desc:0 "우리 동맹들은 자기 역할을 다 했습니다. 라쉬드와 그 동맹들이 사라진 지금 어떤 부족도 우리의 앞을 가로막지 못합니다. 아라비아에서 새 시대가 시작했고 이제 사우드 가문이 모든 것을 통제합니다."
  SAU_expand_oil_hold:0 "석유 저장고 확대"
@@ -149,6 +169,7 @@
  SAU_realm_of_the_arabs_desc:0 "아라비아 전역이 우리의 지배 아래 있습니다. 우리 민족이 하나의 국왕 아래에 하나로 통일될 운명적 결과로 가는 길을 가로막는 장애물은 어디에도 없습니다. 사우디 왕가 아래에서 말이지요."
  SAU_houses_of_wisdom:0 "지혜의 집"
  SAU_houses_of_wisdom_desc:0 "압바스 칼리프조 아래에서 조상들이 그랬듯이, 우리는 왕토 내에 지혜의 집을 몇 곳 설치했습니다. 이로써 아랍 지성의 황금기를 열어젖힐 것입니다!"
+ 
  SAU_land_of_faith:0 "신앙의 땅"
  SAU_cleanse_fringe_arabia:0 "아라비아 주변부 정화"
  SAU_cleansing_of_heresy:0 "이단 정화"
@@ -185,6 +206,7 @@
  SAU_the_caliphate_desc:0 "수백년간 칼리프 자리는 비어있었고, 그 자리를 소코토나 일부 튀르크 제국과 같은 나약한 국가들이 참칭해 왔습니다. 하지만 지금, 이슬람에서 가장 성스러운 도시들과 아라비아 전역을 통제하고 있는 우리는 이미 신실한 지도자입니다. 그저 이 점을 공적으로 선언하기만 하면 됩니다."
  SAU_haia_desc:0 "우리 땅에서 문화적, 정신적 타락을 적극적으로 뿌리뽑기 위해 미덕을 장려하고 악덕을 예방하는 위원회를 설립하는 작업을 시작해야 합니다. 이쪽이 울레마를 만족 시키는 가장 현명한 길입니다."
  SAU_succession_regulation_desc:0 "초대부터 시작해서 모든 아라비아 국왕이 국가를 현명하게 이끌도록 하기 위해서는 연장자 원칙과 지혜, 그리고 신앙심에 기반한 깨끗한 승계 구조를 수립해야 합니다."
+ 
  SAU_trading_expertise:0 "무역 전문가"
  SAU_trading_expertise_desc:0 "수천년동안 아랍인은 토지에서 나온 생산물이 아니라 무역 기술로 인해 부를 쌓았습니다. 현재 그 어느 때보다 자금과 물자가 부족한 상황이니 모든 상인과 외교관을 최대로 활용해야 합니다!"
  SAU_arms_imports:0 "군수품 수입"
@@ -229,6 +251,8 @@
  SAU_building_better_future_desc:0 "더 밝은 미래는 단순히 새로운 건물이나 새로운 책, 혹은 새로운 물건 이상의 존재입니다. 더 밝은 미래는 우리가 세상을 바라보는 시각 자체를 바꾸고 세상 자체 또한 뒤바꿔버릴 것입니다. 신의 은총이 우리를 다시 한번 비추고 있으며 우리는 어떤 대가가 들어가더라도 상관 없이 이 지구를 더 좋은 곳으로 만들 것입니다."
  SAU_techslot_machine:0 "대학 건설"
  SAU_techslot_machine_desc:0 "교육 계획의 마지막 단계는 자연스럽게 고등 교육 부분입니다. 그리고 과학과 발전을 활성화시키는 것이 한때는 아랍어를 가르치자는 것과 동의어였습니다. 당연하게도, 매파 조언자들은 그런 대학으로부터 더 '현실적인' 이익을 봅니다..."
+ 
+ ### Military Focuses ###
  SAU_recruiting_effort:0 "징집 노력"
  SAU_recruiting_effort_desc:0 "많은 청년들이 지금 움직이기 시작한 위대한 역사 앞에서 빈둥거리고 있으며, 심지어는 군의 부름까지도 들을 수 없을지도 모릅니다! 이런 상황을 두고 볼 수는 없습니다. 아라비아의 모든 사람들이 아미르와 그의 백성들을 위해 어떻게 싸워야 하는지 알게 될 것입니다."
  SAU_contest_the_gulf:0 "걸프 경쟁"
@@ -259,125 +283,117 @@
  SAU_desert_logstics_desc:0 "만약 당신이 길을 잘 알지 못한다면 사막을 통과해 군을 기동시키는 것은 대체로 불가능할 것입니다. 한번 방향을 잘못 잡는다면 당신의 부대가 길을 잃은 채로 사막에 갇혀 있게 될 지도 모릅니다. 아니면 적의 함정으로 곧장 가고 있을 지도요!"
  SAU_war_of_resistance:0 "저항 전쟁"
  SAU_war_of_resistance_desc:0 "우리는 제한된 분쟁만으로도 모든 존재를 위험에 빠트릴 수 있는 총력전의 시대에  살고 있습니다. 우리의 신생 국가는 총력전이 언제 일어날지 모르는 일촉즉발의 상황에 놓여 있으며, 역사의 발길질에 차여 사라질지도 모릅니다. 저항해야 합니다! 아라비아의 자유여 영원히 이어지리라!"
+ 
+ 
+ ### Events
  saud.1.t:0 "나지드 토후국"
  saud.1.d:0 "세계대전은 우리들, 그러니까 사우드 가문이 이 땅을 지배하게 될 운명을 가졌다는 명백한 징후였습니다. 이 엄청난 자원이 허비되는 시대에 신앙심 없는 인형술사는 자신들의 꼭두각시 하심 가문을 튀르크인의 손 안에서 죽도록 내버렸습니다. 전쟁 동안 우리가 어떤 행보도 보이지 않고 방관했기 때문에 오스만의 보복으로부터 벗어나는 행운을 누리게 되었습니다. 퇴폐적인 튀르크인은 우리에게 직접적인 지배력을 행사하지 않았습니다. 이제 우리는 때를 기다리고 전사와 자금을 모으면서, 하심 가문 전사들을 받아들이고 오스만 정부에 감언이설을 하며 자신들이 두 토끼를 모두 잡을 수 있을 것이라 라쉬드 가문에게 타격을 입힐 기술을 연마할 것입니다. 그리고 마침내 아라비아를 우리의 깃발 아래에 통일할 것입니다!"
  saud.1.a:0 "사우드 왕가 만세."
+ 
  saud.2.t:0 "사우디아라비아"
  saud.2.d:0 "오늘 라쉬드 가문에게 승리를 거두고 히자즈를 정복하면서, 사우드 가문이 지배 세력으로 등극했습니다. 이 승리를 통해 우리는 아랍 전체를 지배할 것입니다!"
  saud.2.a:0 "사우드 왕가 만세."
+ 
+ ### Reactions to the Caliph Event ###
  saud.3.t:0 "술탄이 칼리프 직위와 성지에 대한 지배권을 주장했습니다!"
  saud.3.d:0 "엄숙하고 신성한 의식에서 아라비아의 사우드 가문 술탄은 자신이 이슬람의 새로운 칼리프라고 선언했습니다. 새로 출발한 경건한 왕조가 또 다시 충실한 신자들을 인도하고 이끌 것입니다."
  saud.3.a:0 "칼리프 만세!"
+ 
  saud.31.t.india:0 "인도 무슬림이 칼리프 복원을 축하하다!"
  saud.31.t.insulindia:0 "칼리프가 복원되었다는 소식이 인술인디아에 도달하다"
  saud.31.t.other:0 "아라비아의 술탄이 스스로를 칼리프로 선언하다"
+ 
  saud.31.d.EGY:0 "아라비아의 술탄이 스스로를 이슬람의 칼리프라고 선언했습니다. 이집트 전역의 카페에서 수많은 자유주의자들이 그 소식을 듣고 웃음을 터트렸고, 파루크 술탄 본인도 말도 안된다고 생각했습니다. 보수적인 이티하드당의 하산 알-반나 그리고 사이이드 쿠틉 모두 부도덕한 아라비아의 술탄은 그 자리에 어울리지 않는다고 비난하고 나섰습니다."
- saud.31.d.PER:0 "아라비아의 술탄이 스스로를 이슬람의 칼리프라고 선언했다는 소식이 [266.GetName]까지 도달했습니다. 그 중에서도 수니파의 칼리프를 선언했다고 합니다. [PER.GetNameDef] 국민 대부분은 시아파 무슬림이며, 그렇기 때문에 아랍 술탄이 결정한 사안에 그다지 관심이 없습니다. 우리는 이에 신경 쓰지 않을 것입니다."
+ saud.31.d.PER:0 "아라비아의 술탄이 스스로를 이슬람의 칼리프라고 선언했다는 소식이 [266.GetCapitalVictoryPointName]까지 도달했습니다. 그 중에서도 수니파의 칼리프를 선언했다고 합니다. [PER.GetNameDef] 국민 대부분은 시아파 무슬림이며, 그렇기 때문에 아랍 술탄이 결정한 사안에 그다지 관심이 없습니다. 우리는 이에 신경 쓰지 않을 것입니다."
  saud.31.d.india:0 "인도 전역의 무슬림은 아라비아 술탄이 선언한 새로운 칼리프제 출범에 축하를 보내기로 결정했습니다. 엘리트 계층 대부분이 행사에 참여하지는 않았지만, 인도의 대중은 행사에 참가했습니다."
  saud.31.d.insulindia:0 "아라비아의 술탄이 스스로를 이슬람의 칼리프라고 선언하기로 결정했다는 소식이 인술인디아에 도달했습니다. 인술인디아 무슬림 대부분은 이 결정을 인정하지 않았습니다."
  saud.31.d.OTT:0 "아라비아 사람 대부분이 우리가 칼리프로 보이지 않는다며 승인을 거부했다는 소식이 들어왔습니다. 이건 절대로 잊을 수 없는 터무니없는 사건입니다."
  saud.31.d.RUS:0 "아라비아의 술탄이 스스로를 이슬람의 칼리프라고 선언했는데, 이는 명백하게 권력을 얻으려는 계략에 불과합니다. 다양한 러시아 무슬림은 그의 계승권을 인정하지 않았고, 우리 또한 저들의 주장을 승인할 이유가 없습니다."
  saud.31.d.other:0 "아라비아의 술탄이 스스로를 이슬람의 칼리프라고 선언했습니다. 이는 명백하게 권력을 얻으려는 계략에 불과합니다. 이런 말도 안되는 요구를 인정할 필요가 없기 때문에 그의 주장을 거부할 것입니다."
+ 
  saud.31.a.PER:0 "누가 아랍 술탄의 주장에 신경이나 쓰겠는가?"
  saud.31.a.india:0 "인샬라."
  saud.31.a.OTT:0 "이 미치광이의 주장을 거부해라!"
  saud.31.a.other:0 "그는 칼리프가 아니다."
+ 
  saud.32.t.india:0 "인도 무슬림이 우리의 주장을 받아들이다"
  saud.32.t.insulindia:0 "인술인디아 무슬림이 우리의 주장을 거부하다"
  saud.32.t.RUS:0 "러시아 무슬림이 우리의 주장을 거부하다"
  saud.32.t.other:0 "[FROM.GetNameDefCap] 측이 우리의 주장을 거부하다"
+ 
  saud.32.d.india:0 "인도에서 좋은 소식이 들어왔습니다. 인도의 무슬림 인구가 우리의 칼리프 주장을 수용하기로 했다고 합니다."
  saud.32.d.insulindia:0 "인술인디아 사람 대부분이 우리가 칼리프로 보이지 않는다며 승인을 거부했다는 소식이 들어왔습니다. 이건 절대로 잊을 수 없는 터무니없는 사건입니다."
  saud.32.d.other:0 "[FROM.GetNameDef] 사람 대부분이 우리가 칼리프로 보이지 않는다며 승인을 거부했다는 소식이 들어왔습니다. 이건 절대로 잊을 수 없는 터무니없는 사건입니다."
  saud.32.a.india:0 "기억할 것이다."
  saud.32.a.other:0 "잊지 않을 것이다."
+ 
+ ### Other Events
  saud.53.t:0 "나지드에 무기 판매"
  saud.53.d:0 "조만간 다가올 오스만 제국에 저항하는 투쟁에 대비하기 위해 군을 강화하려 하는 나지드가 우리에게 자신들의 투쟁을 돕는다면 엄청난 양의 부와 석유를 제공하겠다는 제안을 보냈습니다."
  saud.53.a:0 "무기를 보내주자"
  saud.53.b:0 "중동의 사막지대에는 관심이 없다."
+ 
  saud.54.t:0 "독일이 판매를 거부하다"
  saud.54.d:0 "베를린에서 놀라운 행보를 보였습니다. 독일 정부는 무기 판매를 승인해 달라는 요청을 거부했습니다. 그들은 쓸모없는 사막에서 일부 유목민의 지지를 얻는 것 보다는 지금 지원이 필요한 다른 파트너가 있다고 주장했습니다."
  saud.54.a:0 "후회할 것이다!"
+ 
  saud.55.t:0 "독일이 판매를 수락하다"
  saud.55.d:0 "베를린은 우리의 제안을 받아들였고 다가올 전투에서 우리를 돕기 위한 첫 번째 무기 선적물을 리야드로 보냈습니다. 우리 정부에게 있어서 이번 거래가 비용이 많이 들어가는 도박이기는 하지만, 장기적으로 본다면 언젠가 모두 상환할 수 있을 것입니다."
  saud.55.a:0 "이 무기로 라쉬드 가문의 쓰레기들을 전멸시킬 것이다!"
+ 
  saud.150.t:0 "이크완 반란!"
  saud.150.d:0 "이크완은 최근 수십년간 아라비아에서 가장 강력한 군사 집단이었습니다. 그들은 또한 우리가 이 지역에서 다른 아랍 국가들을 물리치고 사우드 가문의 지배권을 확립하는데 중요한 역할을 수행하기도 했습니다. 하지만 이크완은 항상 전통을 따르며 대단히 종교적인 집단이었고, 변화와 개혁에 대해 격렬한 반대를 표해왔습니다. 저들은 국가를 통치하는데 현대화 작업이 필요하다는 사실을 이해하지 못한 듯 합니다. 일반적으로는 더 이상 현대화 작업에 착수하지 않겠다는 약속만으로도 이크완이 느끼는 분노를 조절할 수 있었습니다. 하지만 이번에는 상황이 다른 것 같습니다. 이크완 병사들이 사우드 가문은 아라비아 지배에 적합하지 않다고 선언한 이크완 지휘관 파이살 알 두와이시 아래에서 결집했습니다. 수많은 이크완 민병대가 봉기했고 벌써 싸움이 시작되었습니다..."
  saud.150.a:0 "저 반란군을 분쇄할 것이다. 아라비아를 위하여!"
+ 
  saud.151.t:0 "아미르들이 사우드 가문 국가에 충성을 맹세하다"
  saud.151.d:0 "수많은 병사들이 이븐 사우드의 명령에 복종하면서 텐트로 이루어진 도시 리야드에 기병대 행진이 개최되었습니다. 그 뒤를 이어 포로로 잡힌 아미르들의 행렬이 뒤따랐습니다. 나지드에 충성스러운 봉신이 되기에는 너무도 반역적이었던 라쉬드 가문과 하심 가문, 그리고 알 타이니와 하위타트가 처음으로 등장했습니다. 그 다음에는 더 유용한 알 나이얀과 바누 람의 가드반의 차례였습니다. 이븐 사우드는 사우드 가문에 충성을 바치는 대가로 아미르의 가족들의 목숨을 살려주기로 결정했습니다. 이븐 사우드의 조상들이 시행했던 무자비한 선례와는 다른 양상을 띠는 이렇게 성립된 새로운 형식의 봉건제는 영원히 이크완에게 보호받을 것입니다."
  saud.151.a:0 "우리의 동맹으로는 알라만 있으면 충분하다."
+ 
  saud.152.t:0 "[From.GetNameDefCap]의 제안"
  saud.152.d:0 "[OMA.GetNameDef] 측과 동맹을 맺었기 때문에 [FROM.GetNameDef] 측을 상대로 한 전쟁에 참전한 상태입니다. 하지만 [OMA.GetNameDef] 측이 항복을 선언하면서 아라비아 반도에서 유일한 발판을 잃어버렸습니다. 우리는 지금 선택해야만 하는 상황에 직면해 있습니다. 무력으로 반도를 침략할 것인지, 아니면 평화를 모색하고 손실을 최소화할지 결정해야 합니다."
  saud.152.a:0 "어찌됐든간에 오만은 그렇게 쓸모있는 땅은 아니었어."
  saud.152.b:0 "동맹국을 배신하지는 않을 것이다!"
+ 
  saud.153.t:0 "[FROM.GetNameDefCap] 측이 평화를 모색하다"
  saud.153.d:0 "[OMA.GetAdjective] 방어선이 무너지면서 그들의 동맹국이었던 [FROM.GetNameDef] 측은 아라비아에서 발판을 잃어버렸습니다. 그리고 그로 인해 우리를 위협할 수 있는 수단을 완전히 잃어버렸습니다. 안타깝게도 우리 또한 어떤 식으로든 그들을 위협하거나 침공할 방법이 없습니다. [FROM.GetNameDef] 측이 제안을 보냈습니다. 평화를 되찾는 대가로 저들은 [OMA.GetAdjective] 국가와 모든 관계를 단절하겠다고 했습니다."
  saud.153.a:0 "아라비아 통일로 한 발짝 더 다가갔구나!"
  saud.153.b:0 "침략자와 평화란 있을 수 없다!"
+ 
  saud.154.t:0 "[From.GetNameDefCap] 측이 전쟁 지속을 선언하다"
  saud.154.d:0 "[OMA.GetAdjective] 방어선이 무너지면서 그들의 동맹 [FROM.GetNameDef] 측이 더 이상 손실이 늘어나지 않도록 막기 위해 평화를 모색할 지도 모른다는 희망이 있었습니다. 하지만 무스카트의 동맹국은 친우를 위해 피를 흘릴 각오를 다진 모양입니다."
  saud.154.a:0 "그럼 전쟁이 계속되겠군."
+ 
  saud.155.t:0 "[From.GetNameDef] 측이 우리의 제안을 거부하다!"
  saud.155.d:0 "우리가 관대한 조건을 제시했음에도 불구하고, 아랍 국가는 \"외국인 침략자\" 와 평화는 있을 수 없다면서 거부했습니다."
  saud.155.a:0 "뭐라고?"
- SAU_JBS_national_populist:0 "네지드 술탄국"
- SAU_JBS_national_populist_ADJ:0 "사우드"
- SAU_JBS_national_populist_DEF:0 "네지드 술탄국"
- SAU_JBS_paternal_autocrat:0 "네지드 술탄국"
- SAU_JBS_paternal_autocrat_ADJ:0 "사우드"
- SAU_JBS_paternal_autocrat_DEF:0 "네지드 술탄국"
+ 
+### Cosmetic Tags ###
+ SAU:0 "네지드-하사"
+ SAU_ADJ:0 "사우드"
+ SAU_DEF:0 "네지드-하사"
+
  SAU_JBS_authoritarian_democrat:0 "네지드 술탄국"
  SAU_JBS_authoritarian_democrat_ADJ:0 "사우드"
  SAU_JBS_authoritarian_democrat_DEF:0 "네지드 술탄국"
- SAU_JBS_social_conservative:0 "네지드 술탄국"
- SAU_JBS_social_conservative_ADJ:0 "사우드"
- SAU_JBS_social_conservative_DEF:0 "네지드 술탄국"
- SAU_JBS_market_liberal:0 "네지드 술탄국"
- SAU_JBS_market_liberal_ADJ:0 "사우드"
- SAU_JBS_market_liberal_DEF:0 "네지드 술탄국"
- SAU_JBS_social_liberal:0 "네지드 술탄국"
- SAU_JBS_social_liberal_ADJ:0 "사우드"
- SAU_JBS_social_liberal_DEF:0 "네지드 술탄국"
- SAU_JBS_social_democrat:0 "네지드 술탄국"
- SAU_JBS_social_democrat_ADJ:0 "사우드"
- SAU_JBS_social_democrat_DEF:0 "네지드 술탄국"
- SAU_JBS_radical_socialist:0 "아라비아 인민공화국"
- SAU_JBS_radical_socialist_ADJ:0 "적아라비아"
- SAU_JBS_radical_socialist_DEF:0 "아라비아 인민공화국"
- SAU_JBS_syndicalist:0 "아라비아 인민공화국"
- SAU_JBS_syndicalist_ADJ:0 "적아라비아"
- SAU_JBS_syndicalist_DEF:0 "아라비아 인민공화국"
- SAU_JBS_totalist:0 "아라비아 인민공화국"
- SAU_JBS_totalist_ADJ:0 "적아라비아"
- SAU_JBS_totalist_DEF:0 "아라비아 인민공화국"
- SAU_ARA_national_populist:0 "사우디아라비아"
- SAU_ARA_national_populist_ADJ:0 "사우드"
- SAU_ARA_national_populist_DEF:0 "사우디아라비아"
- SAU_ARA_paternal_autocrat:0 "사우디아라비아"
- SAU_ARA_paternal_autocrat_ADJ:0 "사우드"
- SAU_ARA_paternal_autocrat_DEF:0 "사우디아라비아"
+ SAU_JBS_paternal_autocrat:0 "네지드 술탄국"
+ SAU_JBS_paternal_autocrat_ADJ:0 "사우드"
+ SAU_JBS_paternal_autocrat_DEF:0 "네지드 술탄국"
+ SAU_JBS_national_populist:0 "네지드 술탄국"
+ SAU_JBS_national_populist_ADJ:0 "사우드"
+ SAU_JBS_national_populist_DEF:0 "네지드 술탄국"
+
+ SAU_ARA:0 "아라비아"
+ SAU_ARA_ADJ:0 "아라비아"
+ SAU_ARA_DEF:0 "아라비아"
+
  SAU_ARA_authoritarian_democrat:0 "사우디아라비아"
  SAU_ARA_authoritarian_democrat_ADJ:0 "사우드"
  SAU_ARA_authoritarian_democrat_DEF:0 "사우디아라비아"
- SAU_ARA_social_conservative:0 "사우디아라비아"
- SAU_ARA_social_conservative_ADJ:0 "사우드"
- SAU_ARA_social_conservative_DEF:0 "사우디아라비아"
- SAU_ARA_market_liberal:0 "사우디아라비아"
- SAU_ARA_market_liberal_ADJ:0 "사우드"
- SAU_ARA_market_liberal_DEF:0 "사우디아라비아"
- SAU_ARA_social_liberal:0 "사우디아라비아"
- SAU_ARA_social_liberal_ADJ:0 "사우드"
- SAU_ARA_social_liberal_DEF:0 "사우디아라비아"
- SAU_ARA_social_democrat:0 "사우디아라비아"
- SAU_ARA_social_democrat_ADJ:0 "사우드"
- SAU_ARA_social_democrat_DEF:0 "사우디아라비아"
- SAU_ARA_radical_socialist:0 "아라비아 인민공화국"
- SAU_ARA_radical_socialist_ADJ:0 "적아라비아"
- SAU_ARA_radical_socialist_DEF:0 "아라비아 인민공화국"
- SAU_ARA_syndicalist:0 "아라비아 인민공화국"
- SAU_ARA_syndicalist_ADJ:0 "적아라비아"
- SAU_ARA_syndicalist_DEF:0 "아라비아 인민공화국"
- SAU_ARA_totalist:0 "아라비아 인민공화국"
- SAU_ARA_totalist_ADJ:0 "적아라비아"
- SAU_ARA_totalist_DEF:0 "아라비아 인민공화국"
+ SAU_ARA_paternal_autocrat:0 "사우디아라비아"
+ SAU_ARA_paternal_autocrat_ADJ:0 "사우드"
+ SAU_ARA_paternal_autocrat_DEF:0 "사우디아라비아"
+ SAU_ARA_national_populist:0 "사우디아라비아"
+ SAU_ARA_national_populist_ADJ:0 "사우드"
+ SAU_ARA_national_populist_DEF:0 "사우디아라비아"
+
+### Characters ###

@@ -1,30 +1,39 @@
-﻿l_english:
+﻿ l_english:
+ 
  portugal_focus:0 "포르투갈 중점계통도"
- POR_totalist_party:0 "포르투갈 공산당"
- POR_totalist_party_long:0 "포르투갈 공산당"
- POR_syndicalist_party:0 "포르투갈 아나키즘 연맹"
- POR_syndicalist_party_long:0 "포르투갈 아나키즘 연맹"
- POR_radical_socialist_party:0 "사회당"
- POR_radical_socialist_party_long:0 "포르투갈 사회당"
+ 
+### Country Names ###
+ POR:0 "포르투갈"
+ POR_ADJ:0 "포르투갈"
+ POR_DEF:0 "포르투갈"
+
+ POR_totalist:0 "포르투갈"
+ POR_totalist_ADJ:0 "포르투갈"
+ POR_totalist_DEF:0 "포르투갈 사회주의 공화국"
+ POR_syndicalist:0 "포르투갈"
+ POR_syndicalist_ADJ:0 "포르투갈"
+ POR_syndicalist_DEF:0 "포르투갈 아나키즘 연방"
+ POR_radical_socialist:0 "포르투갈"
+ POR_radical_socialist_ADJ:0 "포르투갈"
+ POR_radical_socialist_DEF:0 "포르투갈 사회주의 공화국"
+
+ ### Parties ###
  POR_social_democrat_party:0 "민주좌파공화당"
- POR_social_democrat_party_long:0 "민주좌파공화당"
  POR_social_liberal_party:0 "포르투갈 공화당"
- POR_social_liberal_party_long:0 "포르투갈 공화당"
  POR_market_liberal_party:0 "국민공화동맹 (자유주의)"
- POR_market_liberal_party_long:0 "국민공화동맹"
  POR_social_conservative_party:0 "국민공화동맹 (연합주의)"
- POR_social_conservative_party_long:0 "국민공화동맹"
  POR_authoritarian_democrat_party:0 "가톨릭중앙당"
- POR_authoritarian_democrat_party_long:0 "가톨릭중앙당"
- POR_paternal_autocrat_party:0 "국가독립회의"
- POR_paternal_autocrat_party_long:0 "국가독립회의"
  POR_national_populist_party:0 "루시타니아 통합주의"
- POR_national_populist_party_long:0 "루시타니아 통합주의"
- POLITICS_DUARTE_BRAGANCA_DESC:0 "왕정복고 이전에 망명 중인 왕족들이 서명한 도버 조약에서 합의한 바대로, 두아르테 2세는 후사가 없던 마누엘 2세로부터 왕위를 물려받았습니다. 1932년 왕위에 오른 뒤, 두아르테 왕은 정부와 그럭저럭 우호적인 관계를 유지하는 한에서 브라질 황실과 캐나다에 망명 중인 영국 왕실과의 유대 관계를 강화하기 위해 노력해 왔습니다."
- POLITICS_MARIA_ADLEAIDE_BRAGANCA_DESC:0 "30년 만에 두 번째 여왕의 자리에 오른 마리아 3세는 자신보다 앞선 과제를 회피해 왔습니다. 어린 여왕은 공주였을 때부터 항상 인기있었고, 항상 가능할 때마다 도움이 필요한 사람들을 도와주기 위해 애썼습니다. 그녀의 온화하고 조신한 이미지와는 달리, 그녀는 왕위에 오른 직후 반통합주의자라는 인식을 무릅쓰고 당의 과도한 활동을 비난해 왔고, 오직 그녀의 두려움 없는 태도만이 그녀의 인기를 돕습니다."
+ 
+ ### Leaders ###
+ POLITICS_MARIA_ADELAIDE_BRAGANCA_DESC:0 "30년 만에 두 번째 여왕의 자리에 오른 마리아 3세는 자신보다 앞선 과제를 회피해 왔습니다. 어린 여왕은 공주였을 때부터 항상 인기있었고, 항상 가능할 때마다 도움이 필요한 사람들을 도와주기 위해 애썼습니다. 그녀의 온화하고 조신한 이미지와는 달리, 그녀는 왕위에 오른 직후 반통합주의자라는 인식을 무릅쓰고 당의 과도한 활동을 비난해 왔고, 오직 그녀의 두려움 없는 태도만이 그녀의 인기를 돕습니다."
  POLITICS_MARIA_PUPPET_DESC:0 "최근 포르투갈과 알가르브의 여왕 자리에 오른 마리아 아나 1세는 실권이 없는 그녀의 처지에 만족하는 듯 합니다. 그녀의 최우선 과제는 군주제의 보존과, 퇴위된 왕실과의 관계를 복원하는 것입니다. 한때 그녀를 옭아맸던 그녀의 독일인 남편은, 이러한 노력에 큰 도움이 될 것입니다."
- POR_regulos:0 "We will raise three lightly equipped §YInfantry Divisions§! from our vassal chiefs in Mozambique."
- POR_cww:0 "We will mobilise our defences overseas, raising two well-equipped §YInfantry Divisions§! in Angola and Mozambique."
+ 
+ ### Tooltips ###
+ 
+ 
+ 
+ ### Ideas ###
  POR_secret_police:0 "비밀 경찰"
  POR_black_monday:0 "검은 월요일"
  POR_black_monday_desc:0 "포르투갈 경제는 농업이 대부분의 비중을 차지하기에, 검은 월요일의 여파에 대단히 큰 타격을 입었습니다."
@@ -36,7 +45,7 @@
  POR_austerity_desc:0 "정부는 포르투갈의 경기 침체를 끝내고 전쟁을 준비하기 위해 약간의 인기 없는 조치들을 취해 왔습니다. 국민들이야 무엇이든 질 좋은 물건을 원하기는 합니다만, 포르투갈이 직면한 경제적, 군사적 위험을 모르는 이는 드뭅니다."
  POR_kingpath:0 "신께서는 국왕 폐하를 살피소서"
  POR_kingpath_desc:0 "통합주의자들의 실험은 실패와 치욕으로 끝이 났고, 마침내 왕은 자신과 국가에게서 그들의 영향력을 제거할 수 있게 되었습니다."
- POR_ultramarine_empire:0 "Ultramarine Empire"
+ 
  PORder_moderador:0 "영향력 조절"
  PORder_moderador_desc:0 "왕국 내의 권력이 충돌할 때마다 군주는 본인이 지지하는 정당을 위해 개입할 권리를 가집니다."
  POR_royal_edictos:0 "왕실 포고령"
@@ -64,7 +73,7 @@
  POR_colonial_act_desc:0 "1927년에 발의된 식민지 조직을 개혁하기 위한 법률이 이제 시행될 것입니다."
  POR_colonial_admin:0 "식민지 행정 개혁"
  POR_colonial_admin_desc:0 "젊고 새로운 식민지 관리들이 유럽에서 식민지로 갈 것입니다."
- POR_estudantes:0 "Casa dos Estudantes do Império"
+ 
  POR_estudantes_desc:0 "우리 학생들이 살고 있는 집은 정부가 지원하는 집으로, 우리 제국의 밝은 미래를 위한 투자입니다."
  POR_encruzilhada:0 "카보베르데 개발 노력"
  POR_encruzilhada_desc:0 "카보베르데를 개발하기 위한 노력이 기근의 감소와 농업 생산성 향상을 가져왔습니다."
@@ -74,8 +83,8 @@
  POR_macaud_desc:0 "이제 마카오가 우리의 직할령으로 직접 관리되고 있기 때문에, 해당 지역 내에서의 수입이 상당히 증가했습니다."
  POR_state_of_india:0 "재건된 인도"
  POR_state_of_india_desc:0 "인도는 이제 꽤 현대적인 행정 체계를 갖추었고, 우리는 이 변화의 혜택을 얻기 시작할 수 있습니다."
- POR_timor_charter_companies:0 "Charter Companies in Timor"
- POR_timor_charter_companies_desc:0 "Charter Companies are now investing in the oft-overlooked Timor, allowing us to finally unlock the wealth of the province, growing our exports of wood and coffee while allowing prospectors to seek out more valuable resources."
+ 
+ 
  POR_heavyshipbuildcost:0 "제국 대함대 건설 노력"
  POR_heavyshipbuildcost_desc:0 "우리의 대함대가 성장함에 따라, 이에 맞춰 대규모 해전을 수행하기 위한 우리의 전문 지식도 증가하고 있습니다."
  POR_smallshipbuildcost:0 "제국 해군 노력"
@@ -89,18 +98,22 @@
  POR_trainingi:0 "효율적인 훈련 계획"
  POR_trainingi_desc:0 "새롭고 효율적인 훈련 요법이 육군 내에 도입되었습니다. 우리 군대는 이제 빠른 속도로 전투태세에 돌입할 수 있을 것입니다."
  POR_knights:0 "포르투갈의 기사들"
- POR_herois_do_mari:0 "Heróis do Mar"
+ 
  POR_herois_do_mari_desc:0 "바다를 지배하는 것은 우리의 운명이고, 마땅히 그래야 합니다!"
  POR_bravery:0 "충성스러운 Élan"
  POR_bravery_desc:0 "광범위한 조절과 훈련으로 인해 우리의 정규 연대는 두려움 없이 즉시 명령에 따라 행동할 수 있게 되었습니다!"
- POR_integralist_ethos:0 "Paz sem Honra"
+ 
  POR_integralist_ethos_desc:0 "세계대전 때는 무시받았지만, 다시금 전쟁이 벌어지려 하는 지금 세계는 포르투갈을 영토 방위의 잠재력이 충분한 중견국으로 보고 있습니다. 그러나, 이런 의견은 우리 정부의 늙은 고위급 인사들에게는 무시당하고 있습니다."
+ 
+ ### Traits ###
  german_puppet:0 "독일의 꼭두각시"
  stern_imperialist:0 "단호한 제국주의자"
  popular_figure:0 "인기인"
  german_aristocrat:0 "독일 귀족"
  rightful_heir:0 "정당한 계승자"
  brazilian_german_heritage:0 "브라질과 독일의 유산"
+ 
+ ### Opinion Modifiers ###
  seized_goa:0 "고아 이양"
  ignored_goa:0 "무시당한 고아"
  PORkeptangola:0 "앙골라 유지 관리"
@@ -109,36 +122,8 @@
  MAF_NoAttack_Portugal:0 "독일령 중앙아프리카의 침략이 저지되다"
  PORreached38:0 "1938년에 도달"
  POR_Jackals:0 "포르투갈이 올리벤사를 점거하다"
- RPO_totalist:0 "포르투갈 사회주의 공화국"
- RPO_totalist_ADJ:0 "포르투갈"
- RPO_totalist_DEF:0 "포르투갈 사회주의 공화국"
- RPO_syndicalist:0 "포르투갈 사회주의 공화국"
- RPO_syndicalist_ADJ:0 "포르투갈"
- RPO_syndicalist_DEF:0 "포르투갈 사회주의 공화국"
- RPO_radical_socialist:0 "포르투갈 아나키즘 연방"
- RPO_radical_socialist_ADJ:0 "포르투갈"
- RPO_radical_socialist_DEF:0 "포르투갈 아나키즘 연방"
- RPO_social_democrat:0 "포르투갈"
- RPO_social_democrat_ADJ:0 "포르투갈"
- RPO_social_democrat_DEF:0 "포르투갈"
- RPO_social_liberal:0 "포르투갈"
- RPO_social_liberal_ADJ:0 "포르투갈"
- RPO_social_liberal_DEF:0 "포르투갈"
- RPO_market_liberal:0 "포르투갈"
- RPO_market_liberal_ADJ:0 "포르투갈"
- RPO_market_liberal_DEF:0 "포르투갈"
- RPO_social_conservative:0 "포르투갈"
- RPO_social_conservative_ADJ:0 "포르투갈"
- RPO_social_conservative_DEF:0 "포르투갈"
- RPO_authoritarian_democrat:0 "포르투갈"
- RPO_authoritarian_democrat_ADJ:0 "포르투갈"
- RPO_authoritarian_democrat_DEF:0 "포르투갈"
- RPO_paternal_autocrat:0 "포르투갈"
- RPO_paternal_autocrat_ADJ:0 "포르투갈"
- RPO_paternal_autocrat_DEF:0 "포르투갈"
- RPO_national_populist:0 "포르투갈"
- RPO_national_populist_ADJ:0 "포르투갈"
- RPO_national_populist_DEF:0 "포르투갈"
+ 
+ ### Focuses ###
  POR_matters_of_the_realm:0 "왕국의 골칫거리"
  POR_matters_of_the_realm_desc:0 "몇 년의 과도기를 거치면서, 우리는 마침내 왕국을 위대하게 만들 수 있었습니다. 문제는 누가 이길 것인가 하는 것입니다.: the Couceirists or the Integralists?"
  POR_the_king_and_country:0 "국왕과 그의 국가"
@@ -167,6 +152,7 @@
  POR_moral_monarchy_desc:0 "왕은 본인의 통치를 하기 위해서 너무 오랫동안 의회에 앉은 몇 사람의 요구에 부응할 수밖에 없었습니다. 이제 우리는 마침내 군주제를 재편할 수 있고, 결국에는 그의 권한이 의회의 권한을 넘어서도록 만들 수 있습니다!"
  POR_faith_and_state:0 "독실한 국가"
  POR_faith_and_state_desc:0 "우리나라의 주요 지침은 바로 포르투갈의 모든 시민들을 하나로 묶는 신앙입니다."
+ 
  POR_the_organic_kingdom:0 "유기적 왕국"
  POR_the_organic_kingdom_desc:0 "이상적으로, 수용 가능한 군주제는 전환, 전통, 자치주의 원칙을 지지해야 합니다. 그것은 대중에게 인기가 있고 통치권이 분산되어야 하며, 그것은 국민을 더 잘 대표해야 할 것입니다."
  POR_state_of_faithful:0 "신앙의 국가"
@@ -179,7 +165,7 @@
  POR_state_priorities_desc:0 "어떤 국가든 항상 그 책임을 다해야 합니다. 국가의 최우선 과제는 기반시설을 설치하는 것이며 이를 위해서는 각 지자체 간의 연결망을 만들고 중앙집권화 노력을 해야 합니다."
  POR_patriotic_fervour:0 "애국적 열정"
  POR_patriotic_fervour_desc:0 "포르투갈의 모든 남성들은 오늘날 그들이 왜 존재하는지 알고 있습니다. 그들은 우리 조상들이 지켜온 이 위대한 조국을 마지막 한명까지 지켜야 할 것입니다."
- POR_baroes_assinalados:0 "As Armas e os Barões Assinalados"
+ 
  POR_baroes_assinalados_desc:0 "'Que da ocidental praia Lusitana, Por mares nunca de antes navegados, Passaram ainda além da Taprobana, Em perigos e guerras esforçados, Mais do que prometia a força humana, E entre gente remota edificaram Novo Reino, que tanto sublimara.' 왕실 군대에 입대하는 모든 사람들은 그가 수천 개의 영광의 역사를 짊어지고 있다는 것을 알고 있습니다."
  POR_suspend_parliament:0 "의회 정지"
  POR_suspend_parliament_desc:0 "정치인들의 언쟁이 너무 오랫동안 평화와 번영을 가로막고 있습니다. 정국이 해결될 때까지 왕실과 그 측근들이 국정을 처리하고 의회는 정지될 것입니다."
@@ -193,6 +179,7 @@
  POR_abolish_parlament_desc:0 "그의 지혜로, 그리고 많은 안타까움을 담고서, 대통령은 포르투갈 국민들에게 구시대적 사고에서 벗어나지 못한 의회가 곧 사라지게 될 것이라고 알려야 합니다; 포르투갈에서 최고로 뛰어나고 가장 엄격한 자들로 구성된 상원이 이제 의회 내의 기회주의자들 대신 입법권을 행사할 것입니다."
  POR_economical_strongstance:0 "경제 보강"
  POR_economical_strongstance_desc:0 "우리는 정치인들의 탁상공론이 만든 경제적 견해나 개념이 새로운 포르투갈을 방해하도록 허용할 수 없습니다. 비록 그것이 그들 중 몇몇에게 이 왕국의 실권을 쥐고 있는 사람들이 누구인지 상기시키는 것을 의미한다고 하더라도 말입니다."
+ 
  POR_navy:0 "헤지아 마리냐"
  POR_navy_desc:0 "우리 해군은 세계대전 중에 크게 확장되었지만, 여전히 해외 지방과 우리 해안선을 제대로 방어할 능력이 없습니다! 동맹국 해군에 의존하는 것은 우리 선택사항이 아니므로 우리는 지금 행동해야 합니다 ."
  POR_raise_regulos:0 "정규군 창설"
@@ -217,8 +204,9 @@
  POR_academia_imperial_desc:0 "우리 제국 내의 지역 인재에 대한 투자의 가장 큰 혜택은 우리가 뛰어난 인재의 재능을 개발하고 그들의 재능을 포르투갈 현대화에 쓸수 있다는 것입니다."
  POR_casa_dos_estudantes_do_imperio:0 "Casa dos Estudantes do Império(제국의 학생들의 집)"
  POR_casa_dos_estudantes_do_imperio_desc:0 "우리 해외 유학생들을 위한 공식적인 집인 제국의 학생들의 집은 이제 자부심과 능률의 등불이 되고 있습니다. 학생들에 대한 이 투자는 확실히 더 많은 것을 가져올 것이고, 우리 정부에도 이득이 될 것입니다."
- POR_colonial_development:0 "Expand the Ministério das Colónias"
- POR_colonial_development_desc:0 "Though a Republican-era institution, the Ministry of Colonies transformed the management of the Ultramarine Provinces, though its bureaucracy is now getting outdated. Our recent reforms have provided us the opportunity to overhaul it further, bringing it into the modern age and giving us an opening to invest in the more neglected holdings."
+ 
+ 
+ 
  POR_capital_shipyrds:0 "주력함 착수"
  POR_capital_shipyrds_desc:0 "우리 해군은 부차적인 역할을 맡지 말아야 합니다; 우리에게 필요한 것은 우리의 바다를 절대적인 힘으로 지킬 수 있는 진정한 현대 전력입니다!"
  POR_blueprints:0 "해군 계획"
@@ -231,6 +219,7 @@
  POR_grande_armada_desc:0 "항공모함 함대를 보유하는 것은 바다에 몇 대의 비행기를 가지고 있는 그 이상입니다; 그것은 바다와 하늘에서 세력투사를 할 수 있고 해전을 지배할 수 있습니다. 우리 항모들을 지켜줄 우리의 전함과 호위함은 수백년 전 돔 헨리크의 나라가 그랬던 것처럼 파도를 지배할 것입니다."
  POR_the_fleet_of_the_empire:0 "제국 해군"
  POR_the_fleet_of_the_empire_desc:0 "제국에 광범위한 함선 생산 기준과 절차를 세우는 것은 비용이 많이 들지만, 결국 가장 확실한 성과를 거둘 것입니다; 우리 조선소가 더 빠르고 효율적일수록, 우리는 더 빨리 바다를 지배할 수 있을 것입니다!"
+ 
  POR_backfoot_armada:0 "수비적 함대"
  POR_backfoot_armada_desc:0 "우리는 전통적 전투에서 세계의 다른 국가의 해군을 물리칠 수 없기 때문에, 더 강한 함대를 가지고 있는 우리 동맹을 지원하는데 해군을 이용해야 할 것입니다."
  POR_escort_effort:0 "호위함 착수"
@@ -243,6 +232,7 @@
  POR_submarines_desc:0 "습격함대에서 가장 중요한 것 중 하나는 작전 자율성과 협동성입니다. 적 경비함과 보급선을 괴롭히고 공격하는 데 사용될 '사냥 함대'를 만듦으로써, 함대 작전의 효율성을 높일 수 있습니다."
  POR_ubarcos:0 "제국 잠수함 사령부"
  POR_ubarcos_desc:0 "제국에 광범위한 함선 생산 기준과 절차를 세우는 것은 비용이 많이 들 것이지만, 결국 가장 확실한 성과를 거둘 것입니다; 우리 조선소가 더 빠르고 효율적일수록, 우리는 더 빨리 적들에게 위압감을 줄 수 있습니다!"
+ 
  POR_angola_e_nossa:0 "앙골라는 우리 것이다!"
  POR_angola_e_nossa_desc:0 "'앙골라는 우리 것입니다! 우리는 외칠 것입니다. 그것은 우리의 살과 피입니다! 주저하지 않고 우리는 싸울 것입니다. 우리가 이길 때까지요. 앙골라는 우리의 것이니까요.'"
  POR_trumph:0 "위대한 승리"
@@ -259,10 +249,11 @@
  POR_pinko_desc:0 "아프리카의 무정부 상태 덕분에, 우리는 마침내 '분홍색 지도'의 목표를 달성하고 앙골라와 모잠비크 사이의 땅을 얻을 수 있게 되었습니다. 사바나,산맥,밀림에서의 전투는 힘들 것이지만, 우리는 두려워하지 않을 것입니다!"
  POR_congo_e_nosso:0 "마니콩고의 불충함"
  POR_congo_e_nosso_desc:0 "마니콩고는 우리와 그가 맺은 조약에도 불구하고 공물을 내는 것을 거부하고 우리를 지배자로 인정하지 않고 있습니다. 우리는 누가 콩고의 진짜 주인인지 그에게 알려주어야 합니다."
+ 
  POR_manufacturies:0 "제조업 주력"
  POR_manufacturies_desc:0 "포르투갈은 오랫동안 농업국가였지만, 역사의 흐름은 농업에 안주하도록 두지 않을 것입니다; 우리는 우리 주권을 지키기 위해 산업에 투자해야 합니다."
  POR_investments:0 "산업 투자"
- POR_investments_desc:0 "우리는 산업기반을 구축하고 있고, 우리 노력을 뒷받침해줄 투자자들을 찾아야 합니다. 그 일은 힘들 것이지만, 분명 할 만한 가치가 있고 결국 많은 수익을 얻을 것입니다."
+ POR_investments_desc:0 "우리는 산업기반을 구축하고 있고, 우리 노력을 뒷받침해줄 투자자들을 찾아야 합니다. 그 일은 힘들 것이지만, 분명 할 만한 가치가 있고 결국 많은 수익을 얻을 것입니다. "
  POR_not_again:0 "불안정에 대한 보호조치"
  POR_not_again_desc:0 "우리는 경제학적 관점으로 외환 위기에 대비해야 합니다."
  POR_guns:0 "군사들에게 무기를!"
@@ -295,6 +286,7 @@
  POR_naval_supply_desc:0 "포르투갈과 같은 해양 제국은 엄청난 보급 부담을 안고 있습니다. 우리의 항구가 보급 조정의 임무를 수행하도록 하는 것은 매우 중요합니다."
  POR_railways:0 "제국 철도 회사"
  POR_railways_desc:0 "우리는 기반시설 건설 노력을 두배로 증가시켰고, 이 덕분에 우리 기반시설은 유럽에서 제일가는 수준이 되었습니다."
+ 
  POR_army:0 "포르투갈 육군"
  POR_army_desc:0 "대전쟁 중 포르투갈군은 정말 형편없었고 치욕스러웠습니다. 이는 타락한 공화주의 정치인들이 우리 장군들과 병사들의 앞길을 막아섰기 때문이었고, 우리는 더 이상 우리의 평판이 더럽혀지는 것을 용납하지 않을 것입니다!"
  POR_mic:0 "병기창 확장"
@@ -304,13 +296,14 @@
  POR_miltech:0 "군사기술 투자"
  POR_miltech_desc:0 "전쟁의 먹구름이 점점 가까워질수록 우리는 준비를 갖추어야 합니다. 포르투갈은 작은 나라이지만, 우리의 재능과 혁신은 야만인 훈족들이 전쟁에 휩싸여 대륙을 노예화 할 때까지 유럽을 번영의 시대로 이끌었습니다. 우리는 코임브라 대학과 같은 곳에 자금을 지원함으로써 적을 뛰어넘을 수 있도록 해야 합니다."
  POR_milindu:0 "산업시설 보호"
- POR_milindu_desc:0 "우리 군은 날로 커지고 있고 더 많은 보급품을 요구하고 있고, 이를 충족시키려면 더 많은 노력이 필요합니다."
+ POR_milindu_desc:0 "우리 군은 날로 커지고 있고 더 많은 보급품을 요구하고 있고, 이를 충족시키려면 더 많은 노력이 필요합니다. "
  POR_prodeff:0 "효율적인 군수 생산 공정"
  POR_prodeff_desc:0 "군사,산업 부문의 빠른 확장에도 불구하고, 우리의 많은 조립공정들은 수준이 낮고 우리 노동자들은 직장에서 규율을 지키지 않고 있습니다. 우리는 더 뒤떨어지기 전에 우리의 수준을 끌어올려야 합니다."
  POR_linha_vedras:0 "토레스 베드라스 요새선 부활"
  POR_linha_vedras_desc:0 "유럽에서의 전쟁이 악화되고 있고, 우리는 이에 대비한 계획을 세워야 합니다. 동맹국의 도움을 받아, 우리는 리스본이 위치한 테주강과 바다 사이의 작은 견고한 요새 지역을 지킬 수 있을 것입니다. 대전쟁때 빨갱이들은 우리 영혼을 말살하는데 실패했고 앞으로도 그럴 것입니다!"
  POR_state_construction:0 "국가 건설"
  POR_state_construction_desc:0 "군사 부문 수요를 충족시키기 위해 보급선을 개선해야 합니다."
+ 
  POR_infeq:0 "보병 장비 개선"
  POR_infeq_desc:0 "현대의 전투 병력은 총 이상의 것을 필요로 합니다; 잠베지의 젖은 강둑에서, 신발은 탱크보다 더 쓸모있습니다. 우리 부대가 최고의 장비를 갖추도록 하면 군대의 효율성과 사기가 높아질 것입니다."
  POR_training:0 "보병 훈련 노력"
@@ -319,6 +312,8 @@
  POR_artillerybattalion_desc:0 "보병들이 갈 수 없는 곳에 도달할 수 있는 포병대는 현대 전장에서 가장 중요하며, 전용 포병대대를 창설하는 것은 우리 보병사단과의 작전 결속을 확실히 하는 측면에서 필요합니다."
  POR_spotter_squads:0 "정찰 훈련"
  POR_spotter_squads_desc:0 "종종 과소평가되는 정찰 팀은 현대전의 성공에 가장 중요한 역할을 합니다. 우리 병사들은 상대방보다 더 빨리 적을 찾아낼 것입니다!"
+ 
+ #POR_knights:0 "The Knights of Portugal" already defined above as an idea
  POR_knights_desc:0 "우리의 기병은 오랜 세월이 흘러 많은 사람들에게 잊혀져 갔지만, 그것의 상징성과 선전에의 쓰임새를 무시해서는 안됩니다. 우리 기병대는 정예병이고 우리는 그들을 훈련시킬때 비용을 아끼지 않을 것입니다!"
  POR_motorized_dragoons:0 "차량화 부대"
  POR_motorized_dragoons_desc:0 "기계화 보병의 개념은 새로운 것이 아니지만, 트럭과 자동차를 사용하여 효과적으로 임무를 수행하는 개념은 새로운 것입니다. 빠른 기동이 승리의 열쇠인 현대전에서 기계화에 투자하는 것은 분명 가치가 있을 것입니다!"
@@ -342,6 +337,7 @@
  POR_paratroop_desc:0 "항공기를 이용하여 하늘에서 군대를 떨어뜨린다는 생각은 새로운 것이 아니지만, 최근에야 성공적으로 시도되었고, 여전히 그것의 유용성과 실용성은 의심받고 있습니다. 그러한 작전이 성공하기 위해선 착륙 직후 부대를 재조직하고 배후의 적에 맞서 싸울 능력이 있는 특수부대가 필요합니다."
  POR_wewerentexpectingspecialforces:0 "특수부대"
  POR_wewerentexpectingspecialforces_desc:0 "현대 군대에 요구되는 것은 특정 분야에 특화된 군인입니다. 정예병들이 모인 부대는 그들에게 주어진 임무를 훌륭히 해낼 수 있을 것입니다."
+ 
  POR_airforce:0 "포르투갈 왕립 공군"
  POR_airforce_desc:0 "동맹국들의 지원을 활용하면 진정한 현대적 공군을 건설하고 루시타니아 하늘을 지배할 수 있습니다."
  POR_air_superiority:0 "공중 우세 중점"
@@ -360,8 +356,11 @@
  POR_strategic_bomber_desc:0 "적의 생산 시설과 보급선을 폭격하는 것은 아군보다 전력이 우세한 적을 상대하는 좋은 방법입니다. 하지만, 그렇게 하기 위해서는 항공기가 정해진 임무를 적절하게 수행할 수 있어야 합니다."
  POR_carrier_groups_2:0 "항모전단"
  POR_carrier_groups_2_desc:0 "해군 항공기 조종사들이 항공모함에 이착륙하도록 훈련시키는 것 자체가 엄청난 임무이지만, 이를 완수하기 위해 우리의 기존 항공기를 개조하는 것은 훨씬 더 힘든 임무입니다."
+ 
+ ### Decisions ###
+ 
  POR_colonial_development_cat:0 "울트라마린 개발 캠페인"
- POR_colonial_development_cat_desc:0 "The recently expanded Ministry of Colonies has been empowered to direct development efforts across the Empire. Already, various exciting developments have been scouted and planned, with an overarching aim of levelling up the smaller provinces to match our holdings in West and East Africa. It will take considerable political and economic capital to drive this development, but the vast wealth we can extract will be worth it."
+ 
  POR_cape_verde:0 "카보 베르데 개발 노력"
  POR_cape_verde_desc:0 "기아와 가뭄에 시달리는 카보베르데의 번영을 위해 투자가 필요합니다. 우리는 그 섬을 번영하게 하기 위한 계획을 세우고 카보베르데에 투자해야 합니다."
  POR_sao_tome:0 "상투메 섬에 계약직 노동자들을 더 받아들이자"
@@ -371,62 +370,107 @@
  POR_goa:0 "인도의 우리 영토를 방위하자"
  POR_goa_desc:0 "한때 인도 아대륙에 대한 영국의 통제 때문에 안전하게 보호되었던 인도의 우리 영토는 동부의 생디칼리스트나 남부의 배반적인 귀족들로부터 계속해서 공격을 받을 위험에 처해 있습니다. 우리는 인도 주가 어떤 외국의 위협으로부터도 잘 보호되도록 하는 것을 최우선 과제로 삼아야 합니다."
  POR_timor:0 "티모르에 특허기업 개업"
- POR_timor_desc:0 "The far-flung Province of Timor has always been one of the poorer regions in the Empire, but recent studies by the Ministry of Colonies have uncovered vast new swathes of resources. To take advantage of the untapped potential of the province, the King will enact new royal charters to encourage a wave of investment and development in Timor."
+ 
  POR_join_Entente:0 "협상국에 참여"
- POR_join_Entente_desc:0 "It is in our best interests to join the British Empire in its global alliance, and fight at their side in the battle to restore world order."
+ 
+ 
+ ### Events ###
+ 
  por.4.t:0 "포르투갈 왕국"
  por.4.d:0 "세계대전의 재앙과 모잠비크와 프랑스에서의 우리 군대의 몰락 이후로 포르투갈의 찬탈자인 공화국의 체면과 군대의 지지는 땅에 떨어졌고 영광스러운 복위에 저항하지 못했습니다. 마누엘 2세(Manuel II)는 왕좌로 돌아왔고 한때 그와 경쟁하는 계승자이던 두아르테 누노(Duarte Nuno)를 후계자로 삼았습니다. 전쟁의 종전 잠깐 후에 일어난 복위는 경제 회복의 시작으로 보였습니다. 하지만 포르투갈이 1925년의 폭풍우에 잘 대처하기에는 영국의 수입 수출에 의존도가 너무나 컸습니다. 우리는 대영제국의 몰락 이후 우리의 땅을 통합하는 것조차 하지 못했고 독일은 침략 행위를 벌여 그 땅들을 점유했습니다. 거대한 정치적 위기를 책임지게 되자 총리 파비아 코세이로(Pavia Couçeiro)는 선거를 요구했습니다. 승리한 통합주의자들은 막대한 의제를 가져왔고 공격적인 반공화주의적 정책은 가장 확고한 군주주의자 사이에서도 여론의 양극화를 가져왔습니다. 하지만 그들은 현재 왕에 충성을 다하고 있고 영원히 그러할 것이라 주장합니다. 스페인의 병은 끝나지 않을것 같아보이고 이에 따라 더한 혼란이 세계를 닥칠 듯 하고 포르투갈을 위협하고 있습니다. 아프리카에서는 헤르만 폰 괴링과 그의 야만적인 폭력배들이 우리의 노력을 방해해 우리 손으로 보복하게 하며 긴장도가 빠르게 올라가고 있습니다. 하지만 무슨 일이 일어나든지 우리는 포르투갈이 굳게 설 것을 신뢰합니다."
  por.4.a:0 "전진하라!(Avante!)"
+ 
  por.300.t:0 "[GetYear]년 식민지 박람회"
  por.300.d:0 "포르투갈 최초의 대규모 식민지 전시회에 수천 명의 손님이 몰려들었습니다. 왕정복고 이후 많은 시련과 고난이 우리를 덮쳤지만, 우리는 포기하지 않았고 포르투나 리스본과 긴밀히 연결되어 있는 울트라마린 지역들을 발전시켰습니다. 인류학적 연구가치가 있는 앙골라의 마을과 같은 세상의 많은 놀라운 것들이 리스본에 전시되었고, 이는 식민지에 대한 우리의 헌신을 증명할 것입니다."
  por.300.a:0 "훌륭해!"
+ 
  por.301.t:0 "검은 월요일이 포르투갈을 덮치다"
  por.301.d:0 "독일과 우리는 다른 나라들처럼 경제적으로 긴밀하게 연결되어 있지 않지만, 검은 월요일의 영향은 폭포처럼 포르투갈에 쏟아지고 있습니다. 포르투갈 경제의 높은 농업 의존도와, 우리의 재군비 계획 때문에, 일반적인 소비자들은 우리 상품을 구매할 여력이 없으며, 이는 포르투갈의 경제 상황을 비관적으로 만들었습니다. 우리는 포르투갈이 26년의 위기에서 많은 교훈을 배웠기를 바라며 이번 위기도 무사히 넘길 수 있기를 바랄 뿐입니다."
  por.301.a:0 "재앙이다!"
+ 
  por.302.t:0 "마리아 아나 1세의 대관식"
  por.302.d:0 "포르투갈의 국왕은 나이가 들어가면서 통치능력이 떨어졌고, 그 때문에 의회에 의해 강제퇴위당했습니다. 그 뒤를 이어 브라간사의 마리아 아나가 마리아 아나 1세로 즉위하였고, 포르투갈 동료 회의소의 승인을 받았습니다. 그녀의 즉위가 포르투갈에 평화를 가져다주길 바랍니다."
  por.302.a:0 "여왕 만세!"
+ 
  por.303.t:0 "마리아 3세 아델라이드의 대관식"
  por.303.d:0 "평생 자식 하나 없이 지내던 두아르테 2세가 세상을 떠나면서 후계 문제는 논쟁의 중심에 있었습니다. 하지만, 그의 막내 여동생인 마리아 아델라이드가 어린 나이에도 불구하고 상하원 만장일치의 찬성으로 포르투갈의 차기 국왕으로 즉위하였습니다. 마리아 3세의 통치가 평화와 안정 아래 오래 지속되기를 바랍니다."
  por.303.a:0 "여왕 만세!"
+ 
  por.304.t:0 "국왕이 살해되다!"
  por.304.d:0 "두아르테 2세가 포르투갈 동료 회의소로의 일상적인 여행에서 귀환하던 중 검은 옷을 입고 잘 무장한 네 명의 남자가 그의 호송대를 습격했습니다. 기관총은 다행히도 마리아 프란치스카 여왕을 빗겨갔지만, 안타깝게도 국왕이 총탄에 맞았습니다. 1908년 테러의 충격이 다시금 떠오르고 있고, 왕국의 많은 이들이 정의구현을 요구하고 있습니다. 이어진 총격전에서 테러단체 Legião Vermelha의 두 '병사'가 쓰러졌고, 아나키슴 단체의 일원인 Mário Castelhano와 Emídio Santana가 CNT-FAI이 지배하는 스페인으로 달아났습니다. 이는 중대한 사건이고, 우리는 가혹한 최후통첩을 포함한 모든 방법을 동원할 것입니다. 물론 신중한 외교적 접근이 필요할 것이지만, 이 두 살인자는 꼭 처벌할 것입니다!"
  por.304.a:0 "CNT-FAI가 책임이 있다!"
  por.304.b:0 "조심스럽게 대응하자..."
+ 
  por.305.t:0 "포르투갈이 국왕 시해의 진실규명을 요구한다!"
  por.305.d:0 "우리의 투쟁은 오래되었지만, 골치아픈 문제들이 계속 발생하고 있습니다. 포르투갈의 왕 두아르테 2세가 상원 연설을 마치고 궁전으로 돌아가는 길에 암살당했습니다. 용의자 Mário Castelhano와 Emídio Santana 두 남자가 포르투갈 당국의 추적을 피해 우리 국경으로 도망쳐 왔고, 암살 성공에도 불구하고 그들을 향한 스페인 대중의 시선은 적대적입니다. 하지만, 그들은 무장한 상태이고, 우리가 포르투갈의 송환 요구를 받아들인다면 전세계는 암살의 배후로 우리를 의심할 것입니다. 그들이 사형당할 것이라는 것은 말할 것도 없고요. 우리는 신중하게 결정해야 합니다. 포르투갈과 그들의 반동주의자 동맹들과 전쟁을 시작하는 것은 내전에서 방금 빠져나온 우리의 상황을 고려할 때 매우 바람직하지 않은 결정입니다. 용의자들을 송환할까요? 아니면 전쟁을 준비할까요?"
  por.305.a:0 "우리는 협상국과 싸울 여력이 없습니다. 우리는 그들의 요구를 수용해야 합니다."
  por.305.b:0 "시해자들은 영웅이다!"
+ 
  por.306.t:0 "CNT-FAI가 시해범들을 넘겨주었다!"
  por.306.d:0 "고맙게도, 스페인 정부는 완전히 정신이 나간 것은 아닌가 봅니다. 그들은 두 범죄자 중 어느 한 사람에게도 망명을 허락하지 않았고 둘 다 우리나라에 송환되어 교수형에 처해질 것입니다."
  por.306.a:0 "그들의 도움이 고맙군."
+ 
  por.307.t:0 "CNT-FAI 가 우리 최후통첩을 거부했다"
  por.307.d:0 "위험한 스페인 개들은 우리 국왕 시해범들의 망명을 받아주었습니다. 이제 생디칼리슴에 대항하는 마지막 투쟁이 시작될 것이고, 모든 남성들은 그들의 의무를 다해야 할것입니다!"
  por.307.a:0 "군대를 소집하자!"
  por.307.b:0 "일단 물러서자."
+ 
  por.307001.t:0 "포르투갈이 물러서다"
  por.307001.d:0 "그 일 이후, 포르투갈 겁쟁이들은 최후통첩을 철회했습니다. 이것은 정말로 그들이 얼마나 무분별한지를 보여줍니다."
  por.307001.a:0 "멍청이들과 자본주의자들 둘다 C로 시작하지."
+ 
  por.308.t:0 "갈리시아 점령?"
  por.308.d:0 "포르투갈과 매우 가까운 갈리시아 지역은 오랫동안 스페인의 압제에 신음해왔고, 이제 생디칼리스트들의 위협에 직면해 있습니다. 몇몇 통합주의자들은 우리 형제를 구원하기 위해 개입하자고 주장하고 있고, 많은 정치인들은 산티아고 데 콤포스텔라의 종교적 성지가 아나키스트들에게 약탈당할까 우려하고 있습니다. 하지만 우리가 개입한다면 카를리스트들을 약화시킬 것이고 만일 그들이 내전의 주도권을 잡는다면 미래에 스페인과의 좋은 관계는 기대하기 어려울 것입니다."
  por.308.a:0 "카를리스트들로부터 갈리시아를 지켜야 한다!"
  por.308.b:0 "이러는 건 빨갱이들을 돕는 행위다!"
+ 
  por.309.t:0 "포르투갈의 갈리시아 점령!"
  por.309.d:0 "우리가 CNT-FAI에 맞서 싸우는 틈을 타 포르투갈 뱀들이 갈리시아를 점령했습니다. 그들은 이를 갈리시아의 '형제들'을 생디칼리슴의 멍에로부터 보호하기 위한 것이라 주장하고 있지만, 이는 핑계에 불과할 뿐입니다!"
  por.309.a:0 "다음에 이를 되갚아주지..."
+ 
  por.312.t:0 "왕국의 문제"
  por.312.d:0 "이 참담한 세기 동안 많은 혼란이 우리 왕국에 닥쳤습니다. 하지만, 우리 나라는 그 어느 때보다도 더 강합니다. 더 나은 미래를 위해 정부를 개혁하고 부패한 공화국의 마지막 잔재를 씻어내야 합니다."
  por.312.a:0 "미래가 손짓한다!"
+ 
  por.313.t:0 "국왕과 국가를 위하여"
- por.313.d:0 "통합주의자들과 다른 교활한 선동가들이 너무 오랫동안 국가의 안녕을 방해해 왔습니다. 국왕과 그의 고문들, 그리고 의회는 포르투갈의 미래에 대한 결정을 내려야 합니다. 우리는 국왕을 다시 위대하게 만들어야 합니다!"
- por.313.a:0 "Vida Longa ao Rei!(국왕 만세!)"
+ por.313.d:0 "통합주의자들과 다른 교활한 선동가들이 너무 오랫동안 국가의 안녕을 방해해 왔습니다. 국왕과 그의 고문들, 그리고 의회는 포르투갈의 미래에 대한 결정을 내려야 합니다. 우리는 국왕을 다시 위대하게 만들어야 합니다만, 누가 이 재건된 정부를 이끌어야 할까요?"
+ 
  por.314.t:0 "우리의 짐"
  por.314.d:0 "우리는 사소한 차이에서 벗어나 믿음, 조국, 국민의 기치 아래 단결해야 합니다. 그리고 우리는 예수 그리스도를 필요로 하는 가난하고 불행한 영혼들에게 문명의 빛을 가져다 주어야 합니다. 밀림의 어둠 속에서 전초기지를 건설하고 문명을 전파하는 것은 비싸고 거창한 것이 아니지만, 우리의 궁극적 목표입니다. 그리고 우리는 우리의 신앙 또한 지킬 것입니다!"
  por.314.a:0 "더 나은 포르투갈과 세계를 위하여"
+ 
  por.315.t:0 "포르투갈의 협상국 재가입"
  por.315.d:0 "'명예로운 평화'와 대전쟁 종결, 그리고 이어진 25년 혁명으로 포르투갈과 영국의 사이는 소원해졌습니다. 하지만, 유럽에 전쟁의 먹구름이 다가오고 있고 우리는 동맹이 필요합니다. 우리의 오랜 옛 친구와 다시 손을 잡을까요?"
  por.315.a:0 "세계에서 가장 오래되고 위대한 동맹에 재가입해서 함께 생디칼리스트들을 물리칠 것이다!"
  por.315.b:0 "아직은 안된다."
+ 
  por.316.t:0 "포르투갈이 협상국 재가입을 요청하다"
  por.316.d:0 "'명예로운 평화'와 대전쟁 종결, 그리고 이어진 25년 혁명으로 포르투갈과 영국의 사이는 소원해졌습니다. 하지만, 유럽에 전쟁의 먹구름이 다가오고 있고 포르투갈이 우리의 도움을 바라고 있습니다. 물론 우리는 그들을 도울 것입니다."
  por.316.a:0 "그들을 받아줘서 같이 생디칼리스트를 물리치자!"
+
+### Characters ###
+ POR_jose_carlos_rates:0 "조제 카를루스 하트스"
+ POR_manuel_joaquim_sousa:0 "마누엘 조아킹 드 소자"
+ POR_bento_antonio_goncalves:0 "벤투 안토니우 곤살베스"
+ POR_jose_domingues_santos:0 "조제 도밍게스 두스 산투스"
+ POR_liberato_pinto:0 "리베라투 핀투"
+ POR_antonio_granjo:0 "안토니우 그란주"
+ POR_francisco_cunha_leal:0 "프란시스쿠 다 쿠냐 레알"
+ POR_antonio_oliveira_salazar:0 "안토니우 드 올리베이라 살라자르"
+ POR_oscar_carmona:0 "오스카르 카르모나"
+ POR_francisco_rolao_preto:0 "프란시스쿠 홀랑 프레투"
+ POR_duarte_braganca:0 "두아르트 2세"
+ POR_maria_adelaide_braganca:0 "마리아 아델라이드 드 브라간사"
+ POR_maria_ana_braganca:0 "마리아 아나 드 브라간사"
+ POR_henrique_paiva_couceiro:0 "엔히크 드 파이바 코세이루"
+ POR_jose_augusto_alves_rocadas:0 "조제 아우구스투 알베스 호사다스"
+ POR_eugenio_bilstein_menezes:0 "이우제니우 빌스테잉 드 메네즈스"
+ POR_joao_estevao_aguas:0 "주앙 이스테방 아구아스"
+ POR_joao_de_almeida:0 "주앙 드 알메이다"
+ POR_jose_vincente_freitas:0 "조제 비센트 드 프레이타스"
+ POR_artur_carlos_barros_basto:0 "아르투르 카를루스 드 바후스 바스투"
+ POR_frederico_costa_lopes_silva:0 "프레데리쿠 다 코스타 로페스 다 실바"
+ POR_manuel_ortins_bettencourt:0 "마누엘 오르팅스 드 베텡코르트"
+ POR_guilherme_ivens_ferraz:0 "길례르므 이벵스 페하스"
+ POR_manuel_sarmento_rodrigues:0 "마누엘 사르멘투 호드리게스"
+ POR_americo_thomaz:0 "아메리쿠 토마스"

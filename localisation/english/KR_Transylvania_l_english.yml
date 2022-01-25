@@ -1,4 +1,21 @@
-﻿l_english:
+﻿ l_english:
+ 
+### Country Names ###
+ TRS:0 "트란실바니아"
+ TRS_ADJ:0 "트란실바니아"
+ TRS_DEF:0 "트란실바니아"
+
+ TRS_totalist:0 "트란실바니아 사회주의 공화국"
+ TRS_totalist_ADJ:0 "트란실바니아"
+ TRS_totalist_DEF:0 "트란실바니아 사회주의 공화국"
+ TRS_syndicalist:0 "트란실바니아 사회주의 공화국"
+ TRS_syndicalist_ADJ:0 "트란실바니아"
+ TRS_syndicalist_DEF:0 "트란실바니아 사회주의 공화국"
+ TRS_radical_socialist:0 "트란실바니아 사회주의 공화국"
+ TRS_radical_socialist_ADJ:0 "트란실바니아"
+ TRS_radical_socialist_DEF:0 "트란실바니아 사회주의 공화국"
+
+ ### Parties ###
  TRS_totalist_party:0 "사회전체주의당"
  TRS_totalist_party_long:0 "사회전체주의당"
  TRS_syndicalist_party:0 "사회전체주의당"
@@ -19,10 +36,13 @@
  TRS_paternal_autocrat_party_long:0 "루마니아 국민당"
  TRS_national_populist_party:0 "루마니아 국민당"
  TRS_national_populist_party_long:0 "루마니아 국민당"
+ 
+ ### Events ###
  transylvania.1.t:0 "루마니아와의 통일?"
  transylvania.1.d:0 "마침내 트란실바니아는 헝가리로부터 독립했습니다. 우리는 루마니아 국가이고 국민들은 우리 동포들과 하나의 국가를 함께 이루기위해 오랫동안 루마니아에 들어가기를 원했습니다. 마침내, 대 루마니아의 꿈은 이루어 질 수 있습니다."
  transylvania.1.a:0 "루마니아와의 통일을 선언하라."
- transylvania.1.b:0 "아니, 우리는 독립을 유지해야 한다!"
+ transylvania.1.c:0 "아니, 우리는 독립을 유지해야 한다!"
+ 
  transylvania.2.t:0 "트란실바니아와 루마니아의 통일 선언"
  transylvania.2.d:0 "트란실바니아는 헝가리로부터 가까스로 독립했습니다. 트란실바니아 정부는 루마니아와 트란실바니아 사이의 통일을 만장 일치로 선언했습니다. 마침내, 우리는 오랜 기간 헤어졌던 동포들을 하나의 대 루마니아로 환영할 수 있습니다."
  transylvania.2.a:0 "어서 와라, 루마니아 동포들이여!"

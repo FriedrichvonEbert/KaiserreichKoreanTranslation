@@ -1,5 +1,8 @@
-﻿l_english:
+﻿ l_english:
+ 
  SPR_focus:0 "카를로스파 스페인 중점계통도"
+ 
+ ### Parties ###
  SPR_totalist_party:0 "마르크스주의 통일노동자당"
  SPR_totalist_party_long:0 "마르크스주의 통일노동자당"
  SPR_syndicalist_party:0 "전국노동연맹-이베리아 아나키스트 연맹"
@@ -20,6 +23,8 @@
  SPR_paternal_autocrat_party_long:0 "에스파냐 팔랑헤"
  SPR_national_populist_party:0 "국민생디칼리슴 공세평의회"
  SPR_national_populist_party_long:0 "국민생디칼리슴 공세평의회"
+ 
+ ### Ideas ###
  SPR_rally_carlists_idea:0 "카를로스파의 집회!"
  SPR_rally_carlists_idea_desc:0 "스페인에서 내전이 일어났습니다. 카를로스파가 승리를 거두기 위해서는 모두가 마음과 목적을 가지고 통합되어야 합니다. 에스파냐와 그리스도 왕 만세!"
  SPR_black_monday:0 "검은 월요일의 여파"
@@ -41,7 +46,9 @@
  SPR_merchant_marine_idea:0 "상선 해병대"
  SPR_aviation_industry_idea:0 "항공산업"
  SPR_canadian_advisors_idea:0 "캐나다 고문"
- SPR_french_advisers_idea:0 "프랑스 고문"
+ SPR_french_advisors_idea:0 "프랑스 고문"
+ 
+ ### Tooltips ###
  SPR_begin_plot:0 "왕자를 죽이려는 계획을 실행합니다... 이 작업을 완료하는 데 시간이 걸릴 수 있습니다.\n"
  SPR_won_civil_war:0 "스페인에서 내전에서 승리\n"
  SPR_remove_cores_SPA:0 "[SPA.GetNameDef]의 모든 핵심 주를 제거\n"
@@ -51,10 +58,16 @@
  SPR_won_election:0 "카를로스파가 공정한 국가 선거에서 승리함\n"
  SPR_released_after_annexation:0 "카를로스파 스페인은 타국에 의해 건국됨\n"
  SPR_economic_cooperation:0 "지중해에 있는 협상국를 위한 경제협력을 창출함"
+ 
+ ### Flags ###
  SPR_carlist_restoration:0 "카를로스파 복원"
  SPR_iberian_trade_opinion:0 "이베리아 무역"
+ 
+ ### Decisions ###
  SPR_assassinate_juan:0 "후안 왕자 암살"
  SPR_assassinate_juan_desc:0 "후안 왕자는 알폰소 왕의 아들로서, 그의 섭정입니다. 왕자의 죽음은 [SPA.GetNameDef](을)를 혼란에 빠트릴 것이고 우리를 내전의 승리로 이끌어 줄 것입니다!"
+ 
+ ### Political Focuses ###
  SPR_restauracion:0 "복원"
  SPR_restauracion_desc:0 "이제 우리는 내전에서 이겼으니, 보르본 왕가 아래의 하비에르의 복원을 반드시 준비해야 합니다. 나라에 대한 많은 재건축이 이루어질 것이지만, 현재로서 우리는 미래를 기대할 수 있습니다."
  SPR_dios:0 "신"
@@ -79,6 +92,8 @@
  SPR_cortes_espanolas_desc:0 "스페인 의회는 스페인 왕국의 새 입법부가 될 것인데, 이것은 자유 의회가 아니라 중세 시대 이후 존재했던 고대와 전통적인 의회들의 반론입니다. 스페인 의회는 이 땅의 가장 높은 법률이 될 것이고 국왕은 이곳에서 법을 결정하는데 있어서 명목상의 지도자가 될 것입니다."
  SPR_viva_el_rey:0 "국왕 폐하 만세!"
  SPR_viva_el_rey_desc:0 "마침내 갈등이 끝났고 우리는 평화와 함께 오는 기쁨을 즐길 수 있습니다. 스페인 전역에 걸쳐 국왕 폐하 만세의 외침이 들립니다."
+ 
+ ### Economic Focuses ###
  SPR_rebuilding_the_economy:0 "경제 재건"
  SPR_rebuilding_the_economy_desc:0 "내전으로 스페인의 경제는 황폐해졌습니다. 이제 내전은 끝났습니다. 우리는 나라의 경제를 재건하는 것을 고려해야 합니다."
  SPR_expand_railroads:0 "철도 확장"
@@ -111,12 +126,14 @@
  SPR_catholic_trade_unions_desc:0 "불행하게도 노동조합은 현대 경제에서 상당히 중요합니다. 하지만 그들을 소외시키는 대신에 우리는 가톨릭 노동조합을 장려해야 합니다. 이것은 우리가 그들에 대한 더 큰 통제권을 줄 뿐만 아니라 신을 믿지 않는 생디칼리스트주의자들의 편을 든 노동조합을 급진화하는 데 도움을 줄 것입니다."
  SPR_spanish_miracle:0 "스페인의 기적"
  SPR_spanish_miracle_desc:0 "마침내 스페인 경제가 재건되었습니다. 스페인의 기적은 카를리즘과 함께 오는 경제적 번영을 왕국의 주제에 보여주고 있습니다. 스페인 전역에서, 사람들은 열심히 일하며 왕국 전역에서 경제적 번영을 누립니다."
+ 
+ ### Foreign Policy Focuses ###
  SPR_join_entente:0 "협상국 가입"
  SPR_join_entente_desc:0 "포르투갈과 프랑스는 동맹국이자 친구이며, 그들이 협상국과 제휴함에 따라 우리는 안보를 위한 군사 동맹에 동참할 것을 모색해야 합니다."
  SPR_iberian_trade:0 "이베리아 친선"
  SPR_iberian_trade_desc:0 "우리는 박해 기간 동안 우리를 지켜준 포르투갈인과의 관계를 강화해야 합니다. 스페인과 포르투갈은 항상 밀접하게 연결되어 있고 우리의 군주들이 서로 가깝게 지낼 것입니다."
- SPR_french_advisers:0 "프랑스 고문"
- SPR_french_advisers_desc:0 "우리는 우리에게 육군 문제에 대한 훈련을 제공하는 것을 돕기 위한 몇몇 프랑스 고문들을 초대해야 합니다."
+ SPR_french_advisors:0 "프랑스 고문"
+ SPR_french_advisors_desc:0 "우리는 우리에게 육군 문제에 대한 훈련을 제공하는 것을 돕기 위한 몇몇 프랑스 고문들을 초대해야 합니다."
  SPR_canadian_advisors:0 "캐나다 고문"
  SPR_canadian_advisors_desc:0 "우리는 우리에게 해군 문제에 대한 훈련을 제공하는 것을 돕기 위한 몇몇 캐나다 고문들을 초대해야 합니다."
  SPR_latin_economic_union:0 "라틴경제연합"
@@ -125,6 +142,8 @@
  SPR_joint_military_training_desc:0 "우리는 협상국에서 동맹국들과 함께 솔선해서 교육을 받아야 합니다. 그렇게 하는 것은 동맹국들과 함께 협력하는데 있어 우리의 협력을 향상시키고 우리의 군사력을 향상시키는 데 도움이 될 것입니다."
  SPR_join_isac:0 "ISAC 참여"
  SPR_join_isac_desc:0 "캐나다인들은 제국과학학술위원회라고 불리는 국제기구를 고안했습니다. 우리는 그것에 참여하고 스페인의 전문지식을 위원회에 가져올 수 있도록 노력해야 합니다."
+ 
+ ### Army Focuses ###
  SPR_legion_espanola:0 "에스파냐 군단"
  SPR_legion_espanola_desc:0 "스페인 군대는 세계에서 가장 위대한 군대 중 하나였고, 내전이 끝난 지금, 우리는 스페인 군대를 에스파냐 군단으로 재편하는 것을 고려해야 합니다."
  SPR_modern_terrico:0 "현대의 테르시오"
@@ -151,6 +170,8 @@
  SPR_navarran_lancers_desc:0 "1차 카를로스파 전쟁 동안, 나바라의 창기병들은 군이 가졌던 최고의 기병 부대들 중 하나였습니다. 이제 우리는 마침내 승리를 거두었으니 이 유산을 되살려야 합니다. 그러나 이 새로운 창기병은 탱크를 사용하는 기병대가 될 것입니다. 그들은 스페인 군대의 정예이자 창끝이 될 것입니다."
  SPR_a_catholic_army:0 "가톨릭 군대"
  SPR_a_catholic_army_desc:0 "우리가 결정한 특별한 개혁과 상관없이, 우리가 말할 수 있는 한 가지는 스페인의 군대가 장군에서부터 개인 군인에 이르기까지 가톨릭 군대라는 것입니다. 신은 스페인 군대와 함께 할 것입니다."
+ 
+ ### Navy Focuses ###
  SPR_armada_espanola:0 "에스파냐 무적함대"
  SPR_armada_espanola_desc:0 "스페인의 황금기에, 스페인 함대는 세계에서 가장 위대한 함대였습니다. 배는 바다를 항해했고 우리는 파도를 지배했습니다. 우리는 해군에 영광을 돌려주기 위해 우리의 함대를 현대화해야 합니다."
  SPR_upgrade_dockyards:0 "상선"
@@ -175,6 +196,8 @@
  SPR_cruiser_support_desc:0 "더 작고, 더 가볍게 무장한 정찰선을 사용하면 해안선 전체를 정찰하고 적의 침입에 신속하게 대응할 수 있도록 넓은 지역에 병력을 분산시킬 수 있을 것입니다."
  SPR_masters_of_the_sea:0 "바다의 주인"
  SPR_masters_of_the_sea_desc:0 "스페인 해군은 개혁을 완료했고 이제 세계의 현대 해군 중 하나로서 자부심을 갖습니다. 우리는 다시 한번 바다의 주인 중 한 명입니다."
+ 
+ ### Air Force Focuses ###
  SPR_aviacion_legionaria:0 "군용 항공"
  SPR_aviacion_legionaria_desc:0 "내전은 강력한 공군력이 필요하다는 것을 보여주었고, 따라서 공군은 하늘의 문제를 다루는 군대의 별도 지사로 구성되어야 합니다."
  SPR_upgrade_air_ports:0 "공항 개선"
@@ -199,15 +222,38 @@
  SPR_colonial_air_ports_desc:0 "우리는 식민지들 내에서 공항을 확장해야 합니다. 이것은 공군이 신속하게 스페인에서 식민지로 식민지를 지키기 위해 우리에게서 그들을 데려가려는 사람으로부터 식민지를 방어할 수 있게 합니다."
  SPR_rule_the_skies:0 "하늘을 지배한다"
  SPR_rule_the_skies_desc:0 "공군은 더 이상 자원병들이 아니라 우리 군대의 완전한 기능을 하는 기관입니다. 이탈리아와 그 너머의 하늘을 지배합시다!"
- SPR_kingdom_totalist:0 "이베리아 연방"
- SPR_kingdom_totalist_ADJ:0 "이베리아"
- SPR_kingdom_totalist_DEF:0 "이베리아 연방"
- SPR_kingdom_syndicalist:0 "이베리아 연방"
- SPR_kingdom_syndicalist_ADJ:0 "이베리아"
- SPR_kingdom_syndicalist_DEF:0 "이베리아 연방"
- SPR_kingdom_radical_socialist:0 "이베리아 연방"
- SPR_kingdom_radical_socialist_ADJ:0 "이베리아"
- SPR_kingdom_radical_socialist_DEF:0 "이베리아 연방"
+ 
+ ### Cosmetic Tags ###
+ SPR:0 "카를로스파 스페인"
+ SPR_ADJ:0 "카를로스파"
+ SPR_DEF:0 "카를로스파 스페인"
+
+ SPR_social_democrat:0 "카를로스파 스페인"
+ SPR_social_democrat_ADJ:0 "카를로스파"
+ SPR_social_democrat_DEF:0 "카를로스파 스페인"
+ SPR_social_liberal:0 "카를로스파 스페인"
+ SPR_social_liberal_ADJ:0 "카를로스파"
+ SPR_social_liberal_DEF:0 "카를로스파 스페인"
+ SPR_market_liberal:0 "카를로스파 스페인"
+ SPR_market_liberal_ADJ:0 "카를로스파"
+ SPR_market_liberal_DEF:0 "카를로스파 스페인"
+ SPR_social_conservative:0 "카를로스파 스페인"
+ SPR_social_conservative_ADJ:0 "카를로스파"
+ SPR_social_conservative_DEF:0 "카를로스파 스페인"
+ SPR_authoritarian_democrat:0 "카를로스파 스페인"
+ SPR_authoritarian_democrat_ADJ:0 "카를로스파"
+ SPR_authoritarian_democrat_DEF:0 "카를로스파 스페인"
+ SPR_paternal_autocrat:0 "카를로스파 스페인"
+ SPR_paternal_autocrat_ADJ:0 "카를로스파"
+ SPR_paternal_autocrat_DEF:0 "카를로스파 스페인"
+ SPR_national_populist:0 "카를로스파 스페인"
+ SPR_national_populist_ADJ:0 "스페인"
+ SPR_national_populist_DEF:0 "카를로스파 스페인"
+
+ SPR_kingdom:0 "스페인"
+ SPR_kingdom_ADJ:0 "스페인"
+ SPR_kingdom_DEF:0 "스페인"
+
  SPR_kingdom_social_democrat:0 "스페인 왕국"
  SPR_kingdom_social_democrat_ADJ:0 "스페인"
  SPR_kingdom_social_democrat_DEF:0 "스페인 왕국"
@@ -226,6 +272,21 @@
  SPR_kingdom_paternal_autocrat:0 "스페인 왕국"
  SPR_kingdom_paternal_autocrat_ADJ:0 "스페인"
  SPR_kingdom_paternal_autocrat_DEF:0 "스페인 왕국"
- SPR_kingdom_national_populist:0 "스페인 제국"
+ SPR_kingdom_national_populist:0 "스페인 왕국"
  SPR_kingdom_national_populist_ADJ:0 "스페인"
- SPR_kingdom_national_populist_DEF:0 "스페인 제국"
+ SPR_kingdom_national_populist_DEF:0 "스페인 왕국"
+
+### Characters ###
+ SPR_javier_i:0 "하비에르 1세"
+ SPR_anacleto_ortueta:0 "아나클레토 오르투에타"
+ SPR_jose_diaz:0 "호세 디아스 라모스"
+ SPR_dolores_ibarruri:0 "돌로레스 이바루리 고메스"
+ SPR_camilo_alonso_vega:0 "카밀로 알론소 베가"
+ SPR_francisco_javier_de_borbon_parma:0 "프란시스코 하비에르 데 보르본파르마"
+ SPR_emilio_mola_vidal:0 "에밀리오 몰라 비달"
+ SPR_gonzalo_queipo_de_llano:0 "곤살로 케이포 데 야노"
+ SPR_mariano_gamir_ulibarri:0 "마리아노 가미르 울리바리"
+ SPR_jose_moscardo_ituarte:0 "호세 모스카르도 이투아르테"
+ SPR_ricardo_de_rada_y_peral:0 "리카르도 데 라다 이 페랄"
+ SPR_antonio_ortega:0 "안토니오 오르테가"
+ SPR_enrique_lister_forjan:0 "엔리케 리스테르 포르한"

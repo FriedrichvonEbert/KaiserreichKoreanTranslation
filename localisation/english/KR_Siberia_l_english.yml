@@ -1,4 +1,21 @@
-﻿l_english:
+﻿ l_english:
+ 
+### Country Names ###
+ SIB:0 "시베리아"
+ SIB_ADJ:0 "시베리아"
+ SIB_DEF:0 "시베리아"
+
+ SIB_totalist:0 "시베리아 공화국"
+ SIB_totalist_ADJ:0 "시베리아"
+ SIB_totalist_DEF:0 "시베리아 공화국"
+ SIB_syndicalist:0 "시베리아 공화국"
+ SIB_syndicalist_ADJ:0 "시베리아"
+ SIB_syndicalist_DEF:0 "시베리아 공화국"
+ SIB_radical_socialist:0 "시베리아 공화국"
+ SIB_radical_socialist_ADJ:0 "시베리아"
+ SIB_radical_socialist_DEF:0 "시베리아 공화국"
+
+ ### Parties ###
  SIB_totalist_party:0 "볼셰비키"
  SIB_totalist_party_long:0 "볼셰비키 지지자"
  SIB_syndicalist_party:0 "멘셰비키"

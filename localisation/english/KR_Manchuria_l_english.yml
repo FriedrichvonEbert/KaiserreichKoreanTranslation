@@ -1,5 +1,8 @@
 ﻿l_english:
  Manchuria_Focus:0 "만주 중점계통도"
+ MAN:0 "만주"
+ MAN_DEF:0 "만주"
+ MAN_ADJ:0 "만주"
  MAN_totalist_party:0 "만주 전체주의자"
  MAN_totalist_party_long:0 "만주 전체주의자"
  MAN_syndicalist_party:0 "만주 생디칼리스트"

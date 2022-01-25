@@ -84,7 +84,6 @@
  dah.007.d:0 "We have received word from [DAH_gun_target.GetNameDef] about the guns we want to purchase!"
  dah.007.a:0 "그들은 우리에게 판매할 것이다!"
  dah.007.b:0 "망할, 그들은 거절했다!"
- DAH_import_arms_allowed:0 "중점 '외국 무기 수입' 을 완료했음"
  DAH_gold_mining:0 "황금 채굴"
  DAH_toll:0 "도로 통행료"
  DAH_leading_leader:0 "다호메이 지도자의 전통"

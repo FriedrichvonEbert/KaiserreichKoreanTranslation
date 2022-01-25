@@ -182,7 +182,7 @@
  CEN_air_officers:0 "Air Force Officers"
  CEN_air_officers_desc:0 "Our air force is lacking in competent officers. We will go looking around the land army and our local colleges to find competent officers. Once we fill out our ranks we can make better progress with our doctrine!"
  CEN_air_aa:0 "Anti-Aircraft Defences"
- CEN_air_aa_desc:0 "Defending our nation's airspace is not something we can do only from the air. Once we construct anti-aircraft guns in [Root.Capital.GetName] we can sleep saver knowing that our capital is protected from the air!"
+ CEN_air_aa_desc:0 "Defending our nation's airspace is not something we can do only from the air. Once we construct anti-aircraft guns in [Root.Capital.GetCapitalVictoryPointName] we can sleep saver knowing that our capital is protected from the air!"
  CEN_air_fighters:0 "Fighter Focus"
  CEN_air_fighters_desc:0 "Controlling the air space is key to keeping our army alive. Focusing on our fighter research will ensure that our planes will always have the edge above the enemy's"
  CEN_air_cas:0 "Close Air Support Focus"

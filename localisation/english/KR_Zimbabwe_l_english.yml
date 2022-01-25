@@ -1,0 +1,497 @@
+﻿ l_english:
+ 
+ ZIM_focus:0 "남로디지아 중점계통도"
+ 
+### Country Names ###
+ ZIM:0 "짐바브웨"
+ ZIM_ADJ:0 "짐바브웨"
+ ZIM_DEF:0 "짐바브웨"
+
+ ZIM_totalist:0 "짐바브웨 코뮌"
+ ZIM_totalist_ADJ:0 "짐바브웨"
+ ZIM_totalist_DEF:0 "짐바브웨 코뮌"
+ ZIM_syndicalist:0 "짐바브웨 코뮌"
+ ZIM_syndicalist_ADJ:0 "짐바브웨"
+ ZIM_syndicalist_DEF:0 "짐바브웨 코뮌"
+ ZIM_radical_socialist:0 "짐바브웨 코뮌"
+ ZIM_radical_socialist_ADJ:0 "짐바브웨"
+ ZIM_radical_socialist_DEF:0 "짐바브웨 코뮌"
+
+ ZIM_rhodesia:0 "로디지아"
+ ZIM_rhodesia_ADJ:0 "로디지아"
+ ZIM_rhodesia_DEF:0 "로디지아"
+
+ ZIM_rhodesia_social_democrat:0 "남로디지아"
+ ZIM_rhodesia_social_democrat_ADJ:0 "로디지아"
+ ZIM_rhodesia_social_democrat_DEF:0 "남로디지아"
+ ZIM_rhodesia_social_liberal:0 "남로디지아"
+ ZIM_rhodesia_social_liberal_ADJ:0 "로디지아"
+ ZIM_rhodesia_social_liberal_DEF:0 "남로디지아"
+ ZIM_rhodesia_market_liberal:0 "남로디지아"
+ ZIM_rhodesia_market_liberal_ADJ:0 "로디지아"
+ ZIM_rhodesia_market_liberal_DEF:0 "남로디지아"
+ ZIM_rhodesia_social_conservative:0 "남로디지아"
+ ZIM_rhodesia_social_conservative_ADJ:0 "로디지아"
+ ZIM_rhodesia_social_conservative_DEF:0 "남로디지아"
+ ZIM_rhodesia_authoritarian_democrat:0 "남로디지아"
+ ZIM_rhodesia_authoritarian_democrat_ADJ:0 "로디지아"
+ ZIM_rhodesia_authoritarian_democrat_DEF:0 "남로디지아"
+ ZIM_rhodesia_paternal_autocrat:0 "남로디지아"
+ ZIM_rhodesia_paternal_autocrat_ADJ:0 "로디지아"
+ ZIM_rhodesia_paternal_autocrat_DEF:0 "남로디지아"
+ ZIM_rhodesia_national_populist:0 "남로디지아"
+ ZIM_rhodesia_national_populist_ADJ:0 "로디지아"
+ ZIM_rhodesia_national_populist_DEF:0 "남로디지아"
+
+ ZIM_CEA:0 "잠베지아"
+ ZIM_CEA_ADJ:0 "잠베지아"
+ ZIM_CEA_DEF:0 "잠베지아"
+
+ ZIM_CEA_totalist:0 "잠베지아 코뮌"
+ ZIM_CEA_totalist_ADJ:0 "잠베지아"
+ ZIM_CEA_totalist_DEF:0 "잠베지아 코뮌"
+ ZIM_CEA_syndicalist:0 "잠베지아 코뮌"
+ ZIM_CEA_syndicalist_ADJ:0 "잠베지아"
+ ZIM_CEA_syndicalist_DEF:0 "잠베지아 코뮌"
+ ZIM_CEA_radical_socialist:0 "잠베지아 코뮌"
+ ZIM_CEA_radical_socialist_ADJ:0 "잠베지아"
+ ZIM_CEA_radical_socialist_DEF:0 "잠베지아 코뮌"
+ ZIM_CEA_social_democrat:0 "잠베지아 연방"
+ ZIM_CEA_social_democrat_ADJ:0 "잠베지아"
+ ZIM_CEA_social_democrat_DEF:0 "잠베지아 연방"
+ ZIM_CEA_social_liberal:0 "잠베지아 연방"
+ ZIM_CEA_social_liberal_ADJ:0 "잠베지아"
+ ZIM_CEA_social_liberal_DEF:0 "잠베지아 연방"
+ ZIM_CEA_market_liberal:0 "잠베지아 연방"
+ ZIM_CEA_market_liberal_ADJ:0 "잠베지아"
+ ZIM_CEA_market_liberal_DEF:0 "잠베지아 연방"
+ ZIM_CEA_social_conservative:0 "잠베지아 연방"
+ ZIM_CEA_social_conservative_ADJ:0 "잠베지아"
+ ZIM_CEA_social_conservative_DEF:0 "잠베지아 연방"
+ ZIM_CEA_authoritarian_democrat:0 "잠베지아 연방"
+ ZIM_CEA_authoritarian_democrat_ADJ:0 "잠베지아"
+ ZIM_CEA_authoritarian_democrat_DEF:0 "잠베지아 연방"
+ ZIM_CEA_paternal_autocrat:0 "잠베지아 연방"
+ ZIM_CEA_paternal_autocrat_ADJ:0 "잠베지아"
+ ZIM_CEA_paternal_autocrat_DEF:0 "잠베지아 연방"
+ ZIM_CEA_national_populist:0 "잠베지아 연방"
+ ZIM_CEA_national_populist_ADJ:0 "잠베지아"
+ ZIM_CEA_national_populist_DEF:0 "잠베지아 연방"
+
+ ### Parties ###
+ ZIM_totalist_party:0 "상공조합"
+ ZIM_radical_socialist_party:0 "산업사회연맹"
+ ZIM_syndicalist_party:0 "상공조합"
+ ZIM_social_democrat_party:0 "노동당"
+ ZIM_social_liberal_party:0 "개혁당"
+ ZIM_market_liberal_party:0 "로디지아당"
+ ZIM_social_conservative_party:0 "남로디지아 남아프리카당"
+ ZIM_authoritarian_democrat_party:0 "개혁당"
+ ZIM_paternal_autocrat_party:0 "남로디지아 국민당"
+ ZIM_national_populist_party:0 "남로디지아 국민당"
+ ZIM_totalist_party_long:0 "상공조합 (아프리카주의)"
+ ZIM_radical_socialist_party_long:0 "산업사회연맹"
+ ZIM_syndicalist_party_long:0 "상공조합 (생디칼리슴)"
+ ZIM_social_democrat_party_long:0 "노동당"
+ ZIM_social_liberal_party_long:0 "개혁당"
+ ZIM_market_liberal_party_long:0 "로디지아당"
+ ZIM_social_conservative_party_long:0 "남로디지아 남아프리카당 (보수파)"
+ ZIM_authoritarian_democrat_party_long:0 "개혁당"
+ ZIM_paternal_autocrat_party_long:0 "남로디지아 국민당 (온건파)"
+ ZIM_national_populist_party_long:0 "남로디지아 국민당 (급진파)"
+ 
+ ZIM_market_liberal_party_united:0 "연합당"
+ ZIM_market_liberal_party_long_united:0 "연합 로디지아당 (로디지아파)"
+ ZIM_authoritarian_democrat_party_united:0 "로디지아당"
+ ZIM_authoritarian_democrat_party_long_united:0 "연합 로디지아당 (개혁파)"
+ 
+ ### Country Flags ###
+ 
+ 
+ 
+ ### State Modifiers ###
+ 
+ 
+ 
+ ### Ideas ###
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ZIM_sf_1:0 "경보병 교리"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ### Decisions ###
+ 
+ 
+ 
+ 
+ 
+ SAF_hold_rhodesia_mission:0 "남로디지아 정복"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ### Tooltips ###
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ### Focuses ###
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ZIM_salisbury_beira_line:0 "솔즈베리-베이라 선"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ZIM_expand_bulawayo_industry:0 "불라와요 산업 개발"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ### Military Focuses ###
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ZIM_light_infantry:0 "경보병 교리"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ###Navy###
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ### Events ###
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

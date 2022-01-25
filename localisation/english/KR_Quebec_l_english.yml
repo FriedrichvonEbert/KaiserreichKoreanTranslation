@@ -1,4 +1,11 @@
-﻿l_english:
+﻿ l_english:
+ 
+### Country Names ###
+ QUE:0 "퀘벡"
+ QUE_ADJ:0 "퀘벡"
+ QUE_DEF:0 "퀘벡"
+
+ ### Parties ###
  QUE_social_democrat_party:0 "퀘벡 사회민주당"
  QUE_social_democrat_party_long:0 "퀘벡 사회민주당"
  QUE_social_conservative_party:0 "퀘벡 보수당"
