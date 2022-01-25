@@ -616,7 +616,7 @@
  IRE_REOCCBF_desc:0 "The Loyalists have in the past raised threats about civil war and secession, and if they were to do so, we absolutely must not allow them to have Belfast under any circumstances. It has become our second most industrialised city and is far too precious to lose to the enemy, not to mention a strategic port from which the Loyalists could receive help. It must be put under military occupation."
  IRE_KILLUVF:0 "얼스터 의용군 파괴"
  IRE_KILLUVF_desc:0 "이른바 자유의 전사라고 불리는 얼스터 의용군은 테러집단에 지나지 않습니다. 얼스터에 영원한 평화를 가져오려면 우리는 그 조직에 침투해서 그들을 완전히 파괴해 버려야 합니다. 우리는 그들의 지도자들을 추적하여 그들의 신병 모집을 끝낼 것이고, 충성파의 세력을 약화시킬 것입니다."
- ire.uneg.tt:0 "\충성파 긴장을 약간 완화시킵니다."
+ ire.uneg.tt:0 "\n충성파 긴장을 약간 완화시킵니다."
  IRE_NEGOTIATE:0 "충성파와 협상"
  IRE_NEGOTIATE_desc:0 "1798년 울프 톤의 목표 중 하나는 아일랜드의 정체성에 가톨릭, 개신교, 그리고 영국인에 대한 반감을 통합하는 것이었지만, 영국인들은 종교를 이용해 아일랜드인들을 서로 싸우게 했고, 여전히 긴장은 계속되고 있습니다. 이 모든 것들이 아일랜드 국가의 정체성에 포함되도록 협상이 이루어져야 합니다."
  ire.ulang.tt:0 "\n충성파 긴장을 어느 정도 완화시킵니다."

@@ -1,7 +1,7 @@
 ﻿l_english:
- ROM:0 "Romania"
+ ROM:0 "루마니아"
  ROM_ADJ:0 "루마니아"
- ROM_DEF:0 "Romania"
+ ROM_DEF:0 "루마니아"
  ROM_totalist:0 "루마니아 사회주의 공화국"
  ROM_totalist_ADJ:0 "루마니아"
  ROM_totalist_DEF:0 "루마니아 사회주의 공화국"
@@ -677,7 +677,7 @@
  ROM_green_prince_stands_up1_desc:0 "The chaos from the aftermath of the assassination of our beloved Captain and the Royal-Legionary conflict has become too much to bear, and a firm hand is needed. Fortunately, the right man has stood up at just the right time, successfully re-establishing control both over the Legion and the country. Now, Romania shall be ruled by the firm hand it requires; the iron fist of Prince Alexandru Cantacuzino."
  ROM_green_prince_stands_up2_desc:0 "Our beloved Captain has handed us the responsibility to guide Romania into the new future, and a firm hand is needed. Fortunately, the right man has stood up at just the right time, successfully re-establishing control both over the Legion and the country. Now, Romania shall be ruled by the firm hand it requires; the iron fist of Prince Alexandru Cantacuzino."
  ROM_legionary_revolution:0 "군단 혁명"
- ROM_legionary_revolution_desc:= "[cantacuzino2desc]"
+ ROM_legionary_revolution_desc: "[cantacuzino2desc]"
  ROM_legionary_revolution1_desc:0 "As venerable as our Captain was, his attempt to adherence to the old party system led to his murder by his opponents. It was by calling back to our past as a revolutionary cell that we have reasserted control, and now we are in a position to truly unleash our own revolution. With both the Old Guard and the Worker Corps rallied behind the Conducator and Regent, no infighting shall distract us from our sacred mission."
  ROM_legionary_revolution2_desc:0 "As venerable as our Captain was, his attempt to adherence to the old party system led to his retirement and failure. It was by calling back to our past as a revolutionary cell that we have reasserted control, and now we are in a position to truly unleash our own revolution. With both the Old Guard and the Worker Corps rallied behind the Conducator and Regent, no infighting shall distract us from our sacred mission."
  ROM_send_out_the_greenshirts:0 "녹색 셔츠를 보내라"

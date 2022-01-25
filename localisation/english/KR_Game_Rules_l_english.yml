@@ -724,7 +724,7 @@
  RULE_OPTION_NOR_FORPOL_NEUTRALITY_DESC:0 "In response to the current events, Norway decides not to take any risks and maintains its neutrality, safeguarding itself.\n\n§RRequires:§!\nAny §CDemocracy§! in §Y$NOR_START_ELECTION$§!"
  RULE_OPTION_NOR_FORPOL_ENTENTE:0 "£KR_game_rule_flag_NOR  £KR_game_rule_flag_CAN  협상국"
  RULE_OPTION_NOR_FORPOL_ENTENTE_DESC:0 "The democratic government tightens its relations with Canada and eventually joins the Entente.\n\n§RRequires:§!\nAny §CDemocracy§! in §Y$NOR_START_ELECTION$§!"
- RULE_OPTION_NOR_FORPOL_NORDIC:0 "£KR_game_rule_flag_NOR  £KR_game_rule_flag_SCA  노르딕 연방"
+ RULE_OPTION_NOR_FORPOL_NORDIC:0 "£KR_game_rule_flag_NOR  £KR_game_rule_flag_SCA  노르드 연방"
  RULE_OPTION_NOR_FORPOL_NORDIC_DESC:0 "If Sweden hosts the Treaty of Stockholm, Norway joins the other Scandinavian countries in attempting to eventually form a Nordic Federation.\n\n§RRequires:§!\nAny §CDemocracy§! in §Y$DEN_FUTURE$§!\nAny §CDemocracy§! in §Y$NOR_START_ELECTION$§!\nAny §CDemocracy§! in §Y$SWE_RIKSDAG_ELECTION$§!"
  SWE_RIKSDAG_ELECTION:0 "£KR_game_rule_flag_SWE   스웨덴"
  RULE_OPTION_SWE_RIKSDAG_ELECTION_RANDOM:0 "기본값"
