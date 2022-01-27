@@ -1,4 +1,4 @@
-﻿l_english:
+﻿ l_english:
  received_attache:0 "주재무관 허가"
  received_attache_desc:0 "외국의 주재무관이 우리나라에 거주합니다."
  ATTACHE_LIST:0 "$LIST$에서 우리에게 주재무관을 파견하였습니다. 우리가 받고 있는 영향:"
@@ -100,7 +100,7 @@
  research_production:0 "연구 & 생산"
  trade_laws:0 "무역법"
  economy:0 "경제법"
- chief_of_staff:0 "합동참모총장"
+ chief_of_staff:0 "총참모장"
  chief_of_navy:0 "해군참모총장"
  chief_of_air_force:0 "공군참모총장"
  chief_of_army:0 "육군참모총장"
@@ -108,17 +108,3 @@
  SELECT_DESIGN_COMPANY_DESC:0 "이 §Y설계 회사§!를 선택함으로써, 회사가 고용되있는 동안엔 모든 연구된 장비에 영구적인 영향을 끼칠 것입니다.\n"
  DESIGN_COMPANY_DESC:0 "\n이 §Y설계 회사§!는 그들이 활성화된 동안 모든 연구된 장비에 영구적인 영향을 끼칠 것입니다."
  closed_economy_TT:0 "아무런 자원도 수출되지 않을 것입니다.\n\n"
- SPIRIT_ADD_IDEA:0 "§GClick to add $GROUP|H$§!"
- modifier_tactic_elastic_defense_preferred_weight_factor:1 "Additional §YElastic Defense§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_overwhelming_fire_preferred_weight_factor:1 "Additional §YOverwhelming Fire§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_seize_bridge_preferred_weight_factor:1 "Additional §YSeize Bridge§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_infantry_charge_preferred_weight_factor:1 "Additional §YInfiltration Assault§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_delay_preferred_weight_factor:1 "Additional §YDelay§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_human_wave_tactics_preferred_weight_factor:1 "Additional §YMass Charge§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_unexpected_thrust_preferred_weight_factor:1 "Additional §YUnexpected Thrust§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_barrage_preferred_weight_factor:1 "Additional §YSuppressive Barrage§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_planned_attack_preferred_weight_factor:1 "Additional §YWell Planned Attack§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_relentless_assault_preferred_weight_factor:1 "Additional §YRelentless Assault§! Tactic Chance if it is Preferred tactic"
- ALREADY_HAS_ADVISOR_WITH_TRAIT:0 "There is already an appointed advisor with this trait."
- CHANGE_ADVISOR:1 "\nYou can replace this advisor by clicking here and selecting a replacement."
-
