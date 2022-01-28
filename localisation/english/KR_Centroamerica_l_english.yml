@@ -57,12 +57,10 @@
  CEN_found_military_pact:0 "인민 전위대 설립"
  CEN_found_military_pact_desc:0 "The People's Vanguard, meant to safeguard Central Americans from external threats, shall be found here in an attempt to resist the revolution at all costs."
  CEN_join_faction:0 "[ROOT.CEN_join_faction_title] 참여"
- CEN_join_faction_desc:0 "[ROOT.CEN_join_faction_desc]"
- 
  CEN_join_faction_socialist:0 "[CEN_socialist_leader.GetFactionName]"
  CEN_join_faction_military:0 "[CEN_military_leader.GetFactionName]"
  CEN_join_faction_liberal:0 "[CEN_liberal_leader.GetFactionName]"
-
+ CEN_join_faction_desc:0 "[ROOT.CEN_join_faction_desc]"
  CEN_join_faction_desc_socialist:0 "The Revolutionary Front founded by like-minded individuals hoping to band together to bring socialism to Central America. It is our job to join it, for the sake of our brethren abroad."
  CEN_join_faction_desc_military:0 "The People's Vanguard has been founded in an attempt to defend the people from themselves, and is most definitely something we should consider joining."
  CEN_join_faction_desc_liberal:0 "The liberal pact has been founded by a fellow democratic country, ready to overthrow both the socialists and autocracies in the name of the people."
@@ -104,14 +102,10 @@
  CEN_demgeneraltransfer_tt:0 "새로운 장관 및 민주주의와 연계된 중앙아메리카 장군들을 얻습니다.\n\n"
  CEN_milgeneraltransfer_tt:0 "새로운 장관 및 권위주의와 연계된 중앙아메리카 장군들을 얻습니다.\n\n"
  CEN_socgeneraltransfer_tt:0 "새로운 장관 및 사회주의와 연계된 중앙아메리카 장군들을 얻습니다.\n\n"
- 
  CEN_state_aligned:0 "소유자는 무조건 §Y[Root.GetNameDef]§!이거나, 전쟁 중이 아닌 중앙아메리카 국가여야 함\n"
- 
-### Country Names ###
  CEN:0 "중앙아메리카"
  CEN_ADJ:0 "중앙아메리카"
  CEN_DEF:0 "중앙아메리카"
-
  CEN_totalist:0 "센트로아메리카"
  CEN_totalist_ADJ:0 "센트로아메리카"
  CEN_totalist_DEF:0 "센트로아메리카"
@@ -214,9 +208,6 @@
  cend.34.t:0 "[From.GetNameDefCap]의 전쟁 준비"
  cend.34.desc:0 "[From.GetNameDefCap] threatens war! We need to make sure we are ready to meet them on the field. We must mobilise our nation, our men and our women and all those who can fight. Only if we prepare as well, do we stand a chance to defeat them."
  cend.34.a:0 "우리는 승리하리라!"
- 
-### Characters ###
  CEN_revolutionary_council:0 "Revolutionary Council"
  CEN_democratic_council:0 "Central American Council"
  CEN_military_council:0 "Military Council"
-

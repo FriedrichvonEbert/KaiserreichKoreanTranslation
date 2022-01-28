@@ -2,7 +2,6 @@
  MLT:0 "몰타"
  MLT_ADJ:0 "몰타"
  MLT_DEF:0 "몰타"
-
  MLT_social_democrat_party:0 "노동당"
  MLT_social_democrat_party_long:0 "노동당"
  MLT_social_conservative_party:0 "국민당"
@@ -23,8 +22,6 @@
  MLT_syndicalist_party_long:0 "몰타 생디칼리슴당"
  MLT_totalist_party:0 "최대주의당"
  MLT_totalist_party_long:0 "몰타 최대주의당"
- 
-### Characters ###
  MLT_paul_boffa:0 "Paul Boffa"
  MLT_gerald_strickland:0 "Gerald Strickland"
  MLT_enrico_mizzi:0 "Enrico Mizzi"

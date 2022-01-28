@@ -9,18 +9,13 @@
  POLITICS_JOSEPH_JACQUEMOTTE_DESC:0 "세계대전 이전의 극좌 성향 신문 '르'엑스플로이테'의 제작자이자 편집자였던 요섭 야크베모터는, 당 내의 벨기에 노동당 생디칼리스트 파벌에서, 그리고 지금은 벨기에 자체에서 모두 승리를 거두었습니다. 야크베모터는 농촌 산업화와 산업과 농업의 집단화를 모두 지지합니다. 야크베모터가 이끄는 벨기에에서는 급격한 사회 경제적 격변이 일어날 것이 확실합니다."
  POLITICS_PAUL_HENRI_SPAAK_DESC:0 "한때 저명한 변호사였던 폴앙리 스파크는 무엇보다도 진정으로 국민을 위해 봉사하기 위해서는 정부의 관료제가 효율적이어야 한다고 믿고 있습니다. 스파크는 현재 벨기에 노동당을 장악하고 있으며, 뒤이어 가장 최근의 벨기에 전국 선거에서 당이 승리한 것이 그를 국가 원수로 격상시켰습니다. 스파크는 이미 벨기에의 비대해진 공무원들을 크게 줄이기 시작했고, 예비 기업가들에게 새로운 인센티브를 도입했습니다. 그 결과, 벨기에에서는 낙관론이 꾸준히 증가하고 있는 것 같습니다."
  POLITICS_PAUL_EMILE_JANSON_DESC:0 "파울에밀러 얀손과 자유당은 벨기에의 최근 총선에서 승리를 거두었습니다. 얀손은 자유방임주의 경제 및 자유무역의 옹호자입니다. 얀손에게 있어 사회의 모든 측면은 과거 행정부에 의해 지나치게 규제되어왔습니다. 얀손 휘하의 벨기에는 빠르게 유럽과 세계에서 경제적으로 가장 자유로운 나라 중 하나가 되고 있습니다."
- 
-### Ship Name Lists ###
  NAME_BEL_SM:0 "Sous Marins"
  NAME_BEL_RIVERS:0 "Rivers in Latin"
  NAME_BEL_CITIES:0 "Cities in Latin"
  NAME_BEL_LEADERSHIP:0 "Various Leaders and Great Heroes"
  NAME_BEL_REGIONS:0 "Regions"
  NAME_BEL_CARRIERS:0 "Porte Avions"
-
  BEL_add_HOL_to_benesam:0 "§H[HOL.GetName]§! 측이 §H$benesam$§!에 참여합니다."
- 
-### Companies ###
  cockerill:0 "Cockerill"
  societe_belge_radio:0 "Société Belge Radio-électrique"
  solvay:0 "Solvay"
@@ -40,8 +35,6 @@
  brossel:0 "Brossel"
  miesse:0 "Miesse"
  cockerill_scheepwerfen:0 "Cockerill Scheepwerfen"
-
-### Ideas ###
  BEL_Antwerp_Harbor:0 "네덜란드의 베스테르셸데 통제"
  BEL_Antwerp_Harbor_desc:0 "벨기에 혁명군이 지우스-플란데런을 확보하는 데 실패하고서부터 우리는 안트베르펜 항구의 확장을 위해 네덜란드와 협상할 수밖에 없었습니다. 우리 두 국가 사이에 긴장이 고조된다면, 우리의 주요 무역 중심지는 확실히 심각한 타격을 입을 것입니다."
  BEL_Antwerp_Harbor_Reinstated:0 "번창하는 무역"
@@ -421,10 +414,8 @@
  BEL_Support_the_Fleet_desc:0 "Further improvements will have to be made to our smaller ships if we wish to ensure dominance at sea."
  BEL_Adalberts_Dream:0 "[ROOT.BEL_GetAdalbertsDreamName]"
  BEL_Adalberts_Dream_desc:0 "With the neighbouring powers clearly mobilising against [ROOT.GetNameDef], [ROOT.GetLeader] sees no choice but to fully commit to his naval plans by pouring enormous amounts of resources into a large shipbuilding programme."
- 
  BEL_Adalberts_Dream_Adalbert:0 "[ROOT.GetLeader]'s Dream"
  BEL_Adalberts_Dream_Generic:0 "Large Scale Naval Investments"
-
  BEL_Modernise_Destroyers:0 "구축함 현대화"
  BEL_Modernise_Destroyers_desc:0 "Our reliance on ancient destroyers is starting to show its deficits and has thus convinced High Command that renovation of these ships is in order."
  BEL_Buy_German_Cruisers:0 "독일 순양함 구매"
@@ -1523,12 +1514,9 @@
  Feldgendarmerie:0 "The Feldgendarmerie have been given the right to operate in Flanders-Wallonia"
  Belgium_Guaranteed_Germ:0 "The Treaty of Arel has been signed"
  BEL_SYN_REV:0 "The Wallonian Syndicalist Uprising Has Occurred"
- 
-### Country Names ###
  BEL:0 "벨기에"
  BEL_ADJ:0 "벨기에"
  BEL_DEF:0 "벨기에"
-
  BEL_totalist:0 "벨기에 생디칼 공화국"
  BEL_totalist_ADJ:0 "벨기에"
  BEL_totalist_DEF:0 "벨기에 생디칼 공화국"
@@ -1538,11 +1526,9 @@
  BEL_radical_socialist:0 "벨기에 생디칼 공화국"
  BEL_radical_socialist_ADJ:0 "벨기에"
  BEL_radical_socialist_DEF:0 "벨기에 생디칼 공화국"
- 
  BEL_flanders_wallonia:0 "플란데런-왈로니"
  BEL_flanders_wallonia_ADJ:0 "플란데런-왈로니"
  BEL_flanders_wallonia_DEF:0 "플란데런-왈로니"
- 
  BEL_cooperative_totalist:0 "벨기에 협동조합"
  BEL_cooperative_totalist_ADJ:0 "벨기에"
  BEL_cooperative_totalist_DEF:0 "벨기에 협동조합"
@@ -1552,8 +1538,6 @@
  BEL_cooperative_radical_socialist:0 "벨기에 협동조합"
  BEL_cooperative_radical_socialist_ADJ:0 "벨기에"
  BEL_cooperative_radical_socialist_DEF:0 "벨기에 협동조합"
- 
-### Characters ###
  BEL_hendrik_de_man:0 "Hendrik De Man"
  BEL_joseph_jacquemotte:0 "Joseph Jacquemotte"
  BEL_xavier_relecom:0 "Xavier Relecom"

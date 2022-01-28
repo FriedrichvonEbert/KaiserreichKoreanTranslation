@@ -10,11 +10,8 @@
  POLITICS_ERICH_VON_MANSTEIN_DESC:0 "§Y장군 설명\n§Y출생:§L\n1887년 11월 24일, 독일 제국, 프로이센 왕국, 베를린\n§Y군 경력:§L\n폰 레빈스키라는 이름을 가지고 태어난 에리히 폰 만슈타인은 카슈브의 유산을 지닌 고귀한 프로이센 장군 가문 출신으로, 파울 폰 힌덴부르크의 조카입니다. 다른 대가족들과 마찬가지로, 그는 군대에서 경력을 쌓았습니다. 플뢴과 그로스-리히테르펠데의 사관학교에서 6년 동안 근무한 후, 제3근위보병연대에 임관하였습니다. 그리고 프로이센 군사학교에 등록한 중위로서 세계대전에 참전했습니다. 전쟁은 그의 학업을 끝내고 그를 전선으로 내보냈습니다. 동부, 서부 그리고 여러 전선에서의 작전으로, 1919년 프랑스에서 행군하며 끝을 맺었습니다.\n\n전쟁이 끝난 이후에도 만슈타인은 군대에 남아 계속 진급을 거듭하며, 몇년 후 그의 재능을 보여주었습니다. 참모부에 새로 합류하게 된 인원으로서, 그는 유럽 전역의 국가들을 순회하며 군사 시설들과 새로운 전술의 돌파구에 대해 연구하며 자신만의 전술을 개발해나갔습니다. 비정통적인 전략에 능통한 혁신적인 지휘관으로 평가받는 그는 독일군 내 기동전 및 제병합동군의 주요 지지자 중 한 명입니다."
  GER_poli_temp:0 "최종개혁"
  GER_poli_temp_desc:0 "너무 오랫동안 사람들은 우리 정부의 권력이 어디에 놓여 있는지에 대해서 이야기했습니다. 그 의문을 단번에 해소시켜줄 시간입니다. 단 독일의 정치적 선택이 끝나는 동안의 일시적인 중점이라는 것을 유의하십시오."
- 
  GER_airforce_luftwaffe:0 "Luftwaffe"
  GER_airforce_fliegertruppe:0 "Fliegertruppe"
-
-### Companies ###
  krupp:0 "Krupp"
  deutscher_kaiser:0 "Gewerkschaft Deutscher Kaiser"
  koenigslaura:0 "Vereinigte Königs- und Laurahütte"
@@ -56,7 +53,6 @@
  schichau_werke:0 "Schichau-Werke"
  vulcan_stettin:0 "Vulkan-Werke Hamburg & Stettin"
  siemens_schuckert:0 "Siemens-Schuckert"
-
  black_guarantee:0 "사유재산 보장"
  black_guarantee_desc:0 "시민들의 은행 예금을 보장함으로써 우리는 어느 정도 충격에서 벗어났습니다. 그러나 그 비용은 막대했습니다."
  GER_political_uncertainty:0 "정치적 불확실"
@@ -1402,7 +1398,6 @@
  GER:0 "독일"
  GER_ADJ:0 "독일"
  GER_DEF:0 "독일"
-
  GER_totalist:0 "독일 제국"
  GER_totalist_ADJ:0 "독일"
  GER_totalist_DEF:0 "독일 제국"
@@ -1433,8 +1428,6 @@
  GER_national_populist:0 "독일 제국"
  GER_national_populist_ADJ:0 "독일"
  GER_national_populist_DEF:0 "독일 제국"
-
-### Characters ###
  GER_ernst_thalmann:0 "Ernst Thälmann"
  GER_rudolf_rocker:0 "Rudolf Rocker"
  GER_wilhelm_pieck:0 "Wilhelm Pieck"
@@ -1486,4 +1479,3 @@
  GER_rolf_carls:0 "Rolf Carls"
  GER_gunther_lutjens:0 "Günther Lütjens"
  GER_bernhard_rogge:0 "Bernhard Rogge"
-

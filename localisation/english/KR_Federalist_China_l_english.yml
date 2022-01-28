@@ -529,12 +529,9 @@
  fedchi.204.t:0 "[FROM.GetName](이)가 우리의 제안을 거절하다"
  fedchi.204.d:0 "[FROM.GetNameDef]의 제국주의자들은 우리와의 새로운 조약 체결을 거부했고, 대신 죽어가는 식민주의적 태도와 지속적인 제재에 매달리고 있습니다. 우리가 계속 근대화되고 번영함에 따라, 그들은 중국 시장에 대한 접근을 상실하는 결과만을 목도하게 될 것입니다."
  fedchi.204.a:0 "그들은 이러한 무례를 후회하게 될 것이다."
- 
-### Cosmetic Tags ###
  UPC:0 "중국"
  UPC_ADJ:0 "중국"
  UPC_DEF:0 "중국"
-
  UPC_totalist:0 "중화합중국"
  UPC_totalist_ADJ:0 "중국"
  UPC_totalist_DEF:0 "중화합중국"
@@ -565,6 +562,9 @@
  UPC_national_populist:0 "중화합중국"
  UPC_national_populist_ADJ:0 "중국"
  UPC_national_populist_DEF:0 "중화합중국"
+ UPC_wuzu:0 "China"
+ UPC_wuzu_ADJ:0 "Chinese"
+ UPC_wuzu_DEF:0 "China"
  UPC_wuzu_totalist:0 "중화합중국"
  UPC_wuzu_totalist_ADJ:0 "중국"
  UPC_wuzu_totalist_DEF:0 "중화합중국"

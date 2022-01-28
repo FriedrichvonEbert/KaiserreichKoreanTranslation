@@ -1,12 +1,9 @@
 ﻿l_english:
  KR_Argentina_Carles:0 "아르헨티나 카를레스 중점계통도"
  KR_Argentina_Democratic:0 "아르헨티나 민주주의 중점계통도"
- 
-### Country Names ###
  ARG:0 "아르헨티나"
  ARG_ADJ:0 "아르헨티나"
  ARG_DEF:0 "아르헨티나"
-
  ARG_national_populist_party:0 "애국연맹"
  ARG_national_populist_party_long:0 "애국연맹"
  ARG_paternal_autocrat_party:0 "6월의 해방자"
@@ -79,8 +76,6 @@
  argentina_research_name:0 "아르헨티나-페루 연구 조약"
  argentina_research_desc:0 ""
  ARG_improved_relations:0 "관계 개선"
- 
-### Companies ###
  somisa:0 "SOMISA"
  universidad_buenos_aires:0 "Universidad de Buenos Aires"
  ypf:0 "YPF"
@@ -95,7 +90,6 @@
  argentina_mauser:0 "Mauser Argentina"
  argentina_fokker:0 "Fokker Argentina"
  argentina_frc:0 "FRC Argentina"
-
  ARG_Military_Apparatus:0 "크리스마스 쿠데타의 문제"
  ARG_Military_Apparatus2:0 "크리스마스 쿠데타의 문제"
  ARG_Military_Apparatus3:0 "크리스마스 쿠데타의 문제"
@@ -466,7 +460,7 @@
  ARG_Vina_Dam_mission:0 "라 비냐 댐 건설 사업"
  ARG_immigration_decisions:0 "유럽인 이민자"
  ARG_immigration_decisions_desc:0 "세계대전 발발 이후 유럽 전역에서 국가의 붕괴와 사회주의 세력의 확장, 국가적 긴장 고조 등의 위협적인 정세는 우리나라를 향한 이민의 증대로 이어졌습니다. 전 대륙에 걸친 위기들이 늘어나면 이민율이 더 증가될 수 있으며, 이는 곧 우리나라의 인구를 더 늘릴 기회가 될 수도 있습니다. 새로운 이민자들을 직접적으로 수용하기 위해서는 길게 이어지고 있는 내전을 먼저 끝내야합니다.\n\n[GetYear]년 이민 보고서 : §G[?ARG.arg_im_factor]%§!"
- ARG_Attract_Immigrants_decision:0 "[FROM.GetAdjective]의 이민자 수용
+ ARG_Attract_Immigrants_decision:0 "[FROM.GetAdjective]의 이민자 수용"
  IMMI_5:0 "§G이민율§!에 §Y5%§!만큼 추가"
  IMMI_10:0 "§G이민율§!에 §Y10%§!만큼 추가"
  IMMI_20:0 "§G이민율§!에 §Y20%§!만큼 추가"
@@ -1006,8 +1000,6 @@
  ARG_Bernardo_Alberte_desc:0 "§Y장군 설명\n§Y출생:§L 1918년 11월 17일, 아르헨티나, 부에노스아이레스 주, 아베야네다.\n§Y군사 경력:§L 1939년 육군사관학교를 졸업한 알베르트는 젊지만 열정적인 장교입니다. 그러나 그는 사회당과의 접촉으로 GOU의 다른 구성원들로부터 불신을 받고 있지만, 페론 장군과의 가까운 관계는 그를 GOU의 대열에 머물게 하고 빠르게 진급하게 만들었습니다.\n§Y중요 참고 사항:§L- GOU의 구성원입니다.\n- 페론 장군과 가깝습니다."
  ARG_Manuel_Domecq_Garcia_desc:0 "§Y장군 설명\n§Y출생:§L 1859년 6월 12일, 파라과이, 코르디예라 주, 토바티.\n§Y군사 경력:§L 마누엘은 겨우 9살 때 삼국 동맹 전쟁에서 부모님을 잃었습니다. 그는 삼촌에 의해 구조되었고 다른 삼촌들에 의해 보살핌을 받기 위해 아르헨티나로 보내졌습니다. 하지만, 그는 우연히 그 무리에서 떨어지게 되었고 그의 경호원들이 그를 찾을 수 없을 정도로 멀리 떨어져 있었습니다. 그는 들판에서 브라질 말을 찾았고 그것을 탈 수 있었으며 그 말을 기수에게 데리고 갔습니다. 브라질 기병 장교는 그를 입양할 생각을 했지만 아르헨티나의 외삼촌 마누엘 가르시아 라모스가 제 시간에 도착해 장교가 서류 작업을 마치기 전에 그를 되찾았습니다. 1877년에 그는 해군 사관학교에 입학했고 그곳에서 장교로 졸업했습니다. 그는 이후 여러 차례 해외에 파견되어 해외에서의 아르헨티나 선박 건설을 감독했습니다. 그는 러일전쟁 당시 참관인으로 일본에 파견되어 군사 경험을 쌓았습니다. 마누엘은 애국당의 창립자 중 한 명으로, 20년대 아나키스트들의 반란 중에 애국당에게 무기를 지원했습니다.\n§Y중요 참고 사항:§L 애국당과 깊이 연결되어 있습니다."
  ARG_Edelmiro_Julian_Farrell_desc:0 "§Y장군 설명\n§Y출생:§L 1887년 2월 12일, 아르헨티나, 부에노스아이레스, 아베야네다.\n§Y군사 경력:§L 아일랜드 이민자 집안에서 태어난 파레는 1908년 보병 소위로 육군사관학교를 졸업했습니다. 그는 1924년에 산악병 교환 프로그램으로 이탈리아 공화국에 가서 산악 부대로부터 비대칭 전쟁의 많은 기술을 배웠습니다. 그는 특히 '안데스 산맥 부대'와의 연습으로 뛰어난 성적을 거두었습니다. 그는 장군 계급에 도달했음에도 불구하고 그를 '대부 파레 대령'이라고 부르기도 하는 그의 군인들에게 호감을 얻고 있습니다.\n§Y중요 참고 사항:§L GOU의 구성원입니다."
- 
-### Characters ###
  ARG_manuel_carles:0 "Manuel Carlés"
  ARG_juan_domingo_peron:0 "Juan Domingo Perón"
  ARG_pedro_pablo_ramirez:0 "Pedro Pablo Ramirez"

@@ -35,12 +35,9 @@
  BRM_paternal_autocrat_party_long2:0 "국민당"
  BRM_national_populist_party:0 "종교의 빛"
  BRM_national_populist_party_long:0 "종교의 빛"
- 
-### Country Names ##
  BRM:0 "버마"
  BRM_ADJ:0 "버마"
  BRM_DEF:0 "버마"
-
  BRM_totalist:0 "버마 연방"
  BRM_totalist_ADJ:0 "버마"
  BRM_totalist_DEF:0 "버마 연방"
@@ -71,7 +68,6 @@
  BRM_national_populist:0 "버마국"
  BRM_national_populist_ADJ:0 "버마"
  BRM_national_populist_DEF:0 "버마국"
-
  BRM_monarchy_social_democrat:0 "버마 왕국"
  BRM_monarchy_social_democrat_ADJ:0 "버마"
  BRM_monarchy_social_democrat_DEF:0 "버마 왕국"
@@ -144,8 +140,6 @@
  burma.12.d:0 "Catastrophe! Just like in 1936, students from Rangoon University has risen up against the presidency in critical demonstrations and protests. However, this year the radicalised student leaders were crushed due to lacking support of the previously striking workers. As loyalist paramilitaries put down the student uprisings, there have been talks within in the government about committing a self-coup and empowering U Ba Pe much like he has desired for years... Of course we could instead maintain the veneer of democracy and the Five Flowers Coalition."
  burma.12.a:0 "Maintain the Coalition for internal stability!"
  burma.12.b:0 "Arrest our coalition partners and reestablish the Nationalist Party!"
- 
-### Characters ###
  BRM_aung_san:0 "Aung San"
  BRM_than_thun:0 "Than Thun"
  BRM_po_hla_gyi:0 "Po Hla Gyi"
@@ -160,4 +154,3 @@
  BRM_ne_win:0 "Ne Win"
  BRM_myat_paya_lat:0 "Myat Paya Lat"
  BRM_provisional_government:0 "Provisional Government"
-

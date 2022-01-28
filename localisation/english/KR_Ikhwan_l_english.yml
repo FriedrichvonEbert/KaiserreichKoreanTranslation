@@ -12,11 +12,9 @@
  IKH_radical_socialist_party:0 "-"
  IKH_syndicalist_party:0 "-"
  IKH_totalist_party:0 "-"
-
  IKH:0 "아라비아"
  IKH_ADJ:0 "아랍"
  IKH_DEF:0 "아라비아"
-
  IKH_social_democrat:0 "이크완"
  IKH_social_democrat_ADJ:0 "이크완"
  IKH_social_democrat_DEF:0 "이크완"
@@ -38,7 +36,6 @@
  IKH_national_populist:0 "이크완"
  IKH_national_populist_ADJ:0 "이크완"
  IKH_national_populist_DEF:0 "이크완"
-
  HAS_social_democrat:0 "알하사"
  HAS_social_democrat_ADJ:0 "아랍"
  HAS_social_democrat_DEF:0 "알하사"
@@ -84,7 +81,6 @@
  HAS_Arabia:0 "아라비아"
  HAS_Arabia_ADJ:0 "아랍"
  HAS_Arabia_DEF:0 "아라비아"
-
  HAS_Arabia_social_democrat:0 "히슬라이니 아라비아"
  HAS_Arabia_social_democrat_ADJ:0 "아랍"
  HAS_Arabia_social_democrat_DEF:0 "히슬라이니 아라비아"
@@ -127,11 +123,9 @@
  NAJ_national_populist:0 "네지드"
  NAJ_national_populist_ADJ:0 "아랍"
  NAJ_national_populist_DEF:0 "네지드"
- 
  NAJ_Arabia:0 "아라비아"
  NAJ_Arabia_ADJ:0 "아랍"
  NAJ_Arabia_DEF:0 "아라비아"
-
  NAJ_Arabia_social_democrat:0 "두와이쉬 아라비아"
  NAJ_Arabia_social_democrat_ADJ:0 "아랍"
  NAJ_Arabia_social_democrat_DEF:0 "두와이쉬 아라비아"
@@ -174,11 +168,9 @@
  UTA_national_populist:0 "부라이다"
  UTA_national_populist_ADJ:0 "아랍"
  UTA_national_populist_DEF:0 "부라이다"
- 
  UTA_Arabia:0 "아라비아"
  UTA_Arabia_ADJ:0 "아랍"
  UTA_Arabia_DEF:0 "아라비아"
-
  UTA_Arabia_social_democrat:0 "비자디 아라비아"
  UTA_Arabia_social_democrat_ADJ:0 "아랍"
  UTA_Arabia_social_democrat_DEF:0 "비자디 아라비아"
@@ -224,7 +216,6 @@
  HAL_Arabia:0 "아라비아"
  HAL_Arabia_ADJ:0 "아랍"
  HAL_Arabia_DEF:0 "아라비아"
-
  HAL_Arabia_social_democrat:0 "누하이리 아라비아"
  HAL_Arabia_social_democrat_ADJ:0 "아랍"
  HAL_Arabia_social_democrat_DEF:0 "누하이리 아라비아"
@@ -246,10 +237,7 @@
  HAL_Arabia_national_populist:0 "누하이리 아라비아"
  HAL_Arabia_national_populist_ADJ:0 "아랍"
  HAL_Arabia_national_populist_DEF:0 "누하이리 아라비아"
- 
-### Characters ###
  IKH_faisal_al_duwaish:0 "Faisal al-Duwaish"
  IKH_zaidan_ibn_hithlain:0 "Zaidan ibn Hithlain"
  IKH_sultan_ibn_humaid_ibn_bijad:0 "Sultan ibn Humaid ibn Bijad"
  IKH_nida_ibn_nuhair:0 "Nidā ibn Nuhair"
-

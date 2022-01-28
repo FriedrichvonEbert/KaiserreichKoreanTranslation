@@ -720,29 +720,24 @@
  INS:0 "인술인디아"
  INS_ADJ:0 "인술인디아"
  INS_DEF:0 "인술인디아"
-
  INS_totalist:0 "누산타라 코뮌"
  INS_totalist_ADJ:0 "누산타라"
  INS_totalist_DEF:0 "누산타라 코뮌"
  INS_syndicalist:0 "누산타라 코뮌"
  INS_syndicalist_ADJ:0 "누산타라"
- INS_syndicalist_DEF:0 "누산타라 코뮌" 
+ INS_syndicalist_DEF:0 "누산타라 코뮌"
  INS_paternal_autocrat:0 "인술인디아 이슬람국"
  INS_paternal_autocrat_ADJ:0 "인술인디아"
  INS_paternal_autocrat_DEF:0 "인술인디아 이슬람국"
  INS_national_populist:0 "인술인디아 연방"
  INS_national_populist_ADJ:0 "인술인디아"
  INS_national_populist_DEF:0 "인술인디아 연방"
-
  NUSCOM_radical_socialist:0 "누산타라 코뮌"
  NUSCOM_radical_socialist_ADJ:0 "누산타라"
  NUSCOM_radical_socialist_DEF:0 "누산타라 코뮌"
- 
  INSULT_paternal_autocrat:0 "인술인디아 술탄국"
  INSULT_paternal_autocrat_ADJ:0 "인술인디아"
  INSULT_paternal_autocrat_DEF:0 "인술인디아 술탄국"
- 
-### Characters ###
  INS_tan_malaka:0 "Tan Malaka"
  INS_sukarno:0 "Sukarno"
  INS_sutan_sjahrir:0 "Sutan Sjahrir"

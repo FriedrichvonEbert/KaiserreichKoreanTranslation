@@ -32,12 +32,9 @@
  TRP_paternal_autocrat_party_long:0 "트리폴리타니아 인민당"
  TRP_national_populist_party:0 "이집트-트리폴리타니아 연합당"
  TRP_national_populist_party_long:0 "이집트-트리폴리타니아 연합당"
- 
-### Country Names ###
  LBA:0 "키레나이카"
  LBA_ADJ:0 "키레나이카"
  LBA_DEF:0 "키레나이카"
-
  LBA_totalist:0 "키레나이카 연방"
  LBA_totalist_ADJ:0 "키레나이카"
  LBA_totalist_DEF:0 "키레나이카 연방"
@@ -68,11 +65,9 @@
  LBA_national_populist:0 "키레나이카 에미르국"
  LBA_national_populist_ADJ:0 "키레나이카"
  LBA_national_populist_DEF:0 "키레나이카 에미르국"
-
  LBA_libya:0 "리비아"
  LBA_libya_ADJ:0 "리비아"
  LBA_libya_DEF:0 "리비아"
-
  LBA_libya_totalist:0 "리비아 인민공화국"
  LBA_libya_totalist_ADJ:0 "리비아"
  LBA_libya_totalist_DEF:0 "리비아 인민공화국"
@@ -82,21 +77,18 @@
  LBA_libya_radical_socialist:0 "리비아 인민공화국"
  LBA_libya_radical_socialist_ADJ:0 "리비아"
  LBA_libya_radical_socialist_DEF:0 "리비아 인민공화국"
-
- IFR:0 "이프리키야" 
+ IFR:0 "이프리키야"
  IFR_ADJ:0 "이프리키야"
  IFR_DEF:0 "이프리키야"
-
  IFR_totalist:0 "마그레브 연방"
  IFR_totalist_ADJ:0 "마그레브"
  IFR_totalist_DEF:0 "마그레브 연방"
  IFR_syndicalist:0 "마그레브 연방"
  IFR_syndicalist_ADJ:0 "마그레브"
- IFR_syndicalist_DEF:0 "마그레브 연방" 
- IFR_radical_socialist:0 "마그레브 연방" 
+ IFR_syndicalist_DEF:0 "마그레브 연방"
+ IFR_radical_socialist:0 "마그레브 연방"
  IFR_radical_socialist_ADJ:0 "마그레브"
- IFR_radical_socialist_DEF:0 "마그레브 연방" 
- 
+ IFR_radical_socialist_DEF:0 "마그레브 연방"
  LBA_White_Peace_Cyrenaican_Revolt:0 "키레나이카의 반란"
  LBA_White_Peace_Cyrenaican_Revolt_desc:0 "마침내 오스만 제국과 사누시 교단간의 최후의 대립이 시작되어 서로를 대하던 가식들이 떨어져 나갔습니다. 비록 키레나이카 정부가 리비아 전체를 통치할 의도는 거의 없지만, 전쟁이 예상보다 더 성공적일 경우, 그들은 이 정책을 개정할 수도 있습니다."
  LBA_Pacify_Tripolitania:0 "트리폴리타니아 화평"
@@ -681,8 +673,6 @@
  trp.10.a:0 "자유국민연합이 이끌 것이다."
  trp.10.b:0 "연합국민전선이 이끌 것이다."
  trp.10.c:0 "알-수웨이힐리가 권력을 잡을 것이다."
- 
-### Characters ###
  LBA_az_zubayr_bin_ahmad_as_sharif:0 "az-Zubayr bin Ahmad as-Sharif"
  LBA_senussi_regency_council:0 "Senussi Regency Council"
  LBA_idris:0 "Idris I"
@@ -690,8 +680,6 @@
  LBA_yousaf_borahil_al_msmare:0 "Yousaf Borahil Al-Msmare"
  LBA_omar_shegewi:0 "Omar Shegewi"
  LBA_omar_faiek_shennib:0 "Omar Faiek Shennib"
-
-### Characters ###
  TRP_bashir_bin_hamza:0 "Bashir Bin Hamza"
  TRP_ahmad_faqih_hasan:0 "Ahmad Faqih Hasan"
  TRP_bashir_saadawi:0 "Bashir Saadawi"
@@ -700,4 +688,3 @@
  TRP_ramadan_al_suwayhili:0 "Ramadan al-Suwayhili"
  TRP_ali_rajab:0 "'Ali Rajab"
  TRP_salim_b_abd_al_nabi:0 "Salim B. Abd al-Nabi"
-

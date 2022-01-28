@@ -1,10 +1,7 @@
 ﻿l_english:
-
-### Country Names ###
  CYP:0 "키프로스"
  CYP_ADJ:0 "키프로스"
  CYP_DEF:0 "키프로스"
-
  cyp.1.t:0 "키프로스의 독립선언"
  cyp.1.d:0 "Only recently returned to the Porte, the Cypriots have sensed a moment of weakness and have decided to exploit it. Protestors stormed the government buildings in Nicosia and in the hills and forests of the island, guerrilla fighters (likely backed by Greece) are fighting against the overwhelmed Turkish garrisons.\n\nCalling for Enosis or the unification with Greece, the rebels have already openly called on the Greek government to intervene and absorb the island within its domain. Turkish Cypriots in the meanwhile find themselves torn between the two sides as their loyalty to Cyprus is in contradiction with their loyalty to the Turkish regime in Kostantiniyye."
  cyp.1.a:0 "푸른 깃발을 게양하라! (키프로스로 진행)"
@@ -61,7 +58,4 @@
  CYP_revolt_no_support_desc:0 "Calamity has struck as the Greek government has refused to send any assistance to the Cypriot revolt. In consequence this has ruined any hopes of enosis and has doomed all efforts undertaken by the rebels. The Turkish Cypriot issue has further been amplified by this as their calls for an immediate end to the revolt have only increased, now with support from many of the Greek Cypriots."
  CYP_revolt_support:0 "키프로스에게 지원을"
  CYP_revolt_support_desc:0 "Greek arsenals and war factories are running overtime as ship after ship filled with equipment leaves for the island of Cyprus. We may have decided to not openly risk the ire of the Sultan but his day will soon come and before that day, we will do everything in our power to support the efforts of our Greek brethren."
- 
-### Characters ###
  CYP_leontios_ii:0 "Leontios II"
-

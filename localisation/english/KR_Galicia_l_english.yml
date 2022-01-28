@@ -11,22 +11,18 @@
  gal.3.d:0 ""
  gal.3.a:0 "Of course."
  gal.3.b:0 "No, we prefer them kept separate."
-
  gal.4.t:0 "[FROM.GetNameDefCap] Approves Union with Poland"
  gal.4.d:0 ""
  gal.4.a:0 "Send an envoy to Warsaw!"
-
  gal.5.t:0 "[FROM.GetNameDefCap] Denies Union with Poland"
  gal.5.d:0 ""
  gal.5.a:0 "Damn you!"
-
  gal.7.t:0 "카를 알브레히트가 폴란드의 왕으로 선출되다"
  gal.7.d:0 "현 갈리치아 지방의 총독인 카를 알브레히트 폰 합스부르크가 치열한 접전 끝에 폴란드의 새 왕으로 선출되었습니다. 카를 알브레히트는 내일 일찍 폴란드 사람들을 이끌기 위해 출국할 예정이며, 브와디스와프 시코르스키에게 갈리치아를 맡겼습니다."
  gal.7.a:0 "행운을 빈다."
  GAL:0 "갈리치아"
  GAL_ADJ:0 "갈리치아"
  GAL_DEF:0 "갈리치아"
-
  GAL_totalist:0 "갈리치아 로도메리아 연방"
  GAL_totalist_ADJ:0 "갈리치아"
  GAL_totalist_DEF:0 "갈리치아 로도메리아 연방"
@@ -57,11 +53,8 @@
  GAL_national_populist:0 "갈리치아 로도메리아"
  GAL_national_populist_ADJ:0 "갈리치아"
  GAL_national_populist_DEF:0 "갈리치아 로도메리아"
-
-### Characters ###
  GAL_stanislaw_szeptycki:0 "Stanisław Szeptycki"
  GAL_franciszek_kleeberg:0 "Franciszek Kleeberg"
  GAL_tadeusz_kutrzeba:0 "Tadeusz Kutrzeba"
  GAL_wladyslaw_sikorski:0 "Władysław Sikorski"
  GAL_dmytro_vitovsky:0 "Dmytro Vitovsky"
-

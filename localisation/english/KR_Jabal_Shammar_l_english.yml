@@ -1,9 +1,7 @@
 ﻿l_english:
-
  JBS:0 "하일"
  JBS_ADJ:0 "하일"
  JBS_DEF:0 "하일"
-
  JBS_totalist:0 "하일 코뮌"
  JBS_totalist_ADJ:0 "하일"
  JBS_totalist_DEF:0 "하일 코뮌"
@@ -34,11 +32,9 @@
  JBS_national_populist:0 "자발 샴마르"
  JBS_national_populist_ADJ:0 "샴마르"
  JBS_national_populist_DEF:0 "자발 샴마르"
-
  JBS_ARA:0 "아라비아"
  JBS_ARA_ADJ:0 "아라비아"
  JBS_ARA_DEF:0 "아라비아"
-
  JBS_ARA_totalist:0 "아라비아 인민공화국"
  JBS_ARA_totalist_ADJ:0 "아라비아"
  JBS_ARA_totalist_DEF:0 "아라비아 인민공화국"
@@ -69,11 +65,9 @@
  JBS_ARA_national_populist:0 "라쉬디아라비아"
  JBS_ARA_national_populist_ADJ:0 "라쉬드"
  JBS_ARA_national_populist_DEF:0 "라쉬디아라비아"
-
  JBS_subhan_ARA:0 "아라비아"
  JBS_subhan_ARA_ADJ:0 "아라비아"
  JBS_subhan_ARA_DEF:0 "아라비아"
-
  JBS_subhan_ARA_social_democrat:0 "수바니아라비아"
  JBS_subhan_ARA_social_democrat_ADJ:0 "수반"
  JBS_subhan_ARA_social_democrat_DEF:0 "수바니아라비아"
@@ -95,10 +89,9 @@
  JBS_subhan_ARA_national_populist:0 "수바니아라비아"
  JBS_subhan_ARA_national_populist_ADJ:0 "수반"
  JBS_subhan_ARA_national_populist_DEF:0 "수바니아라비아"
- 
  JBS_HEJ_social_democrat:0 "자발 샴마르-헤자즈 술탄국"
  JBS_HEJ_social_democrat_ADJ:0 "라쉬드"
- JBS_HEJ_social_democrat_DEF:0 "자발 샴마르-헤자즈 술탄국" 
+ JBS_HEJ_social_democrat_DEF:0 "자발 샴마르-헤자즈 술탄국"
  JBS_HEJ_social_liberal:0 "자발 샴마르-헤자즈 술탄국"
  JBS_HEJ_social_liberal_ADJ:0 "라쉬드"
  JBS_HEJ_social_liberal_DEF:0 "자발 샴마르-헤자즈 술탄국"
@@ -117,7 +110,6 @@
  JBS_HEJ_national_populist:0 "자발 샴마르-헤자즈 술탄국"
  JBS_HEJ_national_populist_ADJ:0 "라쉬드"
  JBS_HEJ_national_populist_DEF:0 "자발 샴마르-헤자즈 술탄국"
- 
  JBS_subhan_social_democrat:0 "하일"
  JBS_subhan_social_democrat_ADJ:0 "샴마르"
  JBS_subhan_social_democrat_DEF:0 "하일"
@@ -139,7 +131,18 @@
  JBS_subhan_national_populist:0 "하일"
  JBS_subhan_national_populist_ADJ:0 "샴마르"
  JBS_subhan_national_populist_DEF:0 "하일"
- 
+ TRU:0 "Trucial States"
+ TRU_ADJ:0 "Trucial"
+ TRU_DEF:0 "the Trucial States"
+ TRU_totalist:0 "Socialist Federation of the Gulf"
+ TRU_totalist_ADJ:0 "Trucial"
+ TRU_totalist_DEF:0 "the Socialist Federation of the Gulf"
+ TRU_syndicalist:0 "United Socialist Syndicates of Arabia"
+ TRU_syndicalist_ADJ:0 "Trucial"
+ TRU_syndicalist_DEF:0 "the United Socialist Syndicates of Arabia"
+ TRU_radical_socialist:0 "Socialist Federation of the Gulf"
+ TRU_radical_socialist_ADJ:0 "Trucial"
+ TRU_radical_socialist_DEF:0 "the Socialist Federation of the Gulf"
  JBS_totalist_party:0 "Alhizb Alshuyueiu Alearab"
  JBS_totalist_party_long:0 "Alhizb Alshuyueiu Alearab"
  JBS_syndicalist_party:0 "Alhizb Alaishtirakiu Alearab"
@@ -589,8 +592,6 @@
  jbs.100.t:0 "후타임이 소집 요청에 응하다!"
  jbs.100.d:0 "사우드 가문의 이크완과 와하브파의 수사에 공포를 느낀 두라임 이븐 바라크는 하일의 군주에게 한 약속을 지켰고 수도 방위를 위해 개인적으로 이끌고 온 부족 병력 일부와 함께 수도로 진군했습니다.\n\n저들의 지원을 전투 이상으로도 끌어올 수 있겠지만, 하일 성벽 바깥에 모인 다른 부족민들은 후타임이 전투에 적합하지 않는 열등한 종족이라고 생각하며 혐오에 찬 눈빛으로 바라봤습니다."
  jbs.100.a:0 "환영하네 친구여!"
- 
-### Characters ###
  JBS_saud_bin_abd_al_aziz:0 "Saūd bin Abd al-Azīz"
  JBS_abdallah_ibn_talal_al_rashid:0 "Abdallah ibn Talal al Rashid"
  JBS_abdallah_ibn_mitab_ibn_abd_al_aziz_al_rashid:0 "Abdallah ibn Mitab ibn Abd al-Aziz al Rashid"
@@ -598,9 +599,6 @@
  JBS_saud_al_subhan:0 "Saud al-Subhan"
  JBS_dulaim_ibn_barrak:0 "Dulaim ibn Barrak"
  JBS_abd_al_rahman_ibn_rubayin:0 "Abd al-Rahman ibn Rubayin"
-
-### Characters ###
  TRU_hamad_bin_isa_al_khalifa:0 "Hamad Bin Isa Al-Khalifa"
  TRU_shakhbut_bin_sultan_al_nahyan:0 "Shakhbut bin Sultan Al Nahyan"
  TRU_zayed_bin_sultan_al_nahyan:0 "Zayed bin Sultan Al Nahyan"
-

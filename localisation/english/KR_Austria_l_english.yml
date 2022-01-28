@@ -19,8 +19,6 @@
  AUS_GEORG_VON_TRAPP_NAVY_DESC:0 "§Y제독 약력\n출생:§L 1880년 4월 4일, 오스트리아-헝가리, 달마티아 왕국 차라\n§Y군 경력:§L 1894년, 트라프는 아버지의 뒤를 이어 피우메(리예카)에 위치한 해군사관학교에 입교했습니다. 그는 1900년 SMS 젠타 호에 배속되어 의화단 운동 기간 동안 대고구 전투에 참전했으며, 3년 뒤 해군 중위로 임관했으며, 이후 잠수함에 매료되어 1908년에는 해군의 신생 잠수함부대인 우보트바페(U-boot-Waffe)로 전보시켜줄 것을 요청했습니다.\n세계대전 기간 동안, 그는 SM U-5와 함께 그의 U보트 사령관으로서의 역사적인 경력을 시작하였고, 1915년 9차례의 전투정찰을 통해 2척의 적함을 격침했습니다. 8월에 이르면 그는 이미 제국 전역에 걸쳐 영웅으로 칭송되었으며, 그해 말 그는 (이전까지는 프랑스 잠수함 퀴리 호였던) SM U-14를 지휘했으며, 전쟁이 끝날 무렵에는 19차례에 걸친 전투정찰, 침몰한 적함 2척, 격침 총톤수 45000톤 이상이라는 기록을 세우면서 소령으로 진급했습니다.\n종전 이후 트라프는 해군에 남아 결국 잠수함대를 지휘하는 해군 소장의 자리까지 올랐습니다. 당연하게도, 그는 군주국의 가장 중요한 무장이면서 심지어 아드리아 해가 봉쇄되더라도 적과 싸울 수 있는 U보트 함대의 확장과 현대화를 주창하는 최고위 인사가 되었습니다.\n한편 비교적 평범한 특기사항이라면, 그와 음악적인 재능을 가진 다른 가족들이 최근 교회 예배와 축제에서 악단을 구성해 공연을 하고 있다는 점이 있습니다."
  AUS_HEINRICH_PERGLER_NAVY_DESC:0 "§Y제독 약력\n출생:§L 1871년 3월 26일, 오스트리아-헝가리, 보헤미아 왕국 부트바이스\n§Y군 경력:§L 페르글러는 1886년 피우메(리예카)에 위치한 해군사관학교에 입교했습니다. 그가 1900년에 처음으로 지휘한 군함은 어뢰정이었지만, 1914년에 이르면 순양함 SMS 판터 호를 지휘하고 있었습니다. 판서의 함장으로서 그는 몬테네그로 육군을 카타로(코토르)의 항만 및 해군기지에서 격퇴하는 것을 도왔으며, 제2전단의 참모장으로 승진한 이후엔 노급함 SMS 테게토프 호의 함장으로 취임하기 전까지 전노급함을 지휘했습니다. 페글러가 제2차 오트란토 해전에 참전한 것은 테게토프 호에 승선해있던 시절로, 그곳에서 그는 자매함인 SMS 센트 이슈트반 호의 침몰을 목격했습니다. 1919년 1월 그는 해군 소장으로 진급했으며, 세계대전 이후로 대부분의 시간을 오스트리아해군협회(Marineverband)에서 보내면서 해군의 전시 성과와 지정학적 및 경제적인 중요성을 홍보하고, 해군영웅들을 잘 대우해왔습니다."
  AUS_ARCHDUKE_MAX_EUGEN_NAVY_DESC:0 "§YAdmiral Description\nBorn:§L April 13, 1895, in Vienna, Lower-Austria, Austria-Hungary\n§YMilitary Career:§L Emperor Karl's younger brother was merely 19 when the Weltkrieg began and was serving his initial military service expected of a young archduke. With the privilege of his position, he quickly rose to the rank of Major, and he showed tactical acumen and bravery: During the assault on Dosso Alto in June 1918, he was wounded in action when a shell exploded near him, partially deafening him. Two months later, he transferred to the navy and became commander of the U-Bootsuchflottille (anti-submarine flotilla). From then on, Maximilian Eugen took the mantle as the patron of the Kriegsmarine within the Imperial and Royal family, a duty formerly taken by two kinsmen that met tragic ends: Archduke Franz Ferdinand and Emperor Maximilian of Mexico, along with the less tragic Archduke Stephen, a major candidate to the Polish throne."
- 
-### Ship Name Lists ###
  NAME_ZERSTORER:0 "Zerstörer (Z)"
  NAME_TORPEDOBOOTZERSTORER:0 "Torpedobootzerstörer (TZ)"
  NAME_TORPEDOBOOTE:0 "Torpedoboote (TB)"
@@ -48,9 +46,6 @@
  NAME_CV:0 "Flugzeugträger (FT)"
  NAME_T_CV:0 "Weltkrieg Aces and Naval Reformers"
  NAME_U:0 "U-Boote"
-
-### WIP ### (Isn't this whole file WIP...)
- 
  CZE_ausgleich_slovak_state:0 "Freedom for our Slovak Brethren"
  CRO_ausgleich_backan_claims:0 "The Bačkan Question"
  GAL_ausgleich_transcarpathian_claims:0 "Our Transcarpathia"
@@ -98,8 +93,6 @@
  AUS_stops_italian_revolts:0 "§Y이탈리아 봉기§W가 앞으로 너무 많은 문제를 일으키는 것을 막을 것입니다."
  AUS_ausgleich_kingdoms:0 "모든 왕국이 대타협에 초청됩니다."
  AUS_ausgleich_peoples:0 "모든 민족이 대타협에 초청됩니다."
- 
-### Companies ###
  austria_montage:0 "Alpen Montage Gesellschaft"
  puch:0 "Puch"
  leopold_gasser_waffenfabrik:0 "Leopold Gasser Waffenfabrik"
@@ -123,8 +116,6 @@
  wiener_neu_flugzeug:0 "Wiener Neustädter Flugzeugwerke"
  oeffag:0 "Oesterreichische Flugzeugfabrik AG"
  hirtenberger:0 "Hirtenberger"
-
-### Bohemia ###
  skodove_zavody:0 "Škodove Závody"
  bata:0 "Baťa"
  elektro_praga:0 "Elektro Praga"
@@ -143,9 +134,6 @@
  zbrojovka_brno:0 "Zbrojovka Brno"
  tatra:0 "Tatra"
  avia:0 "Avia"
- #tesla_company:0 "Tesla"
-
-### Hungary ###
  feg:0 "FÉG"
  raba:0 "Rába"
  mavag:0 "MAVAG"
@@ -158,8 +146,6 @@
  magyar_lloyd:0 "Magyar Lloyd"
  ungarische_flugzeugfabrik:0 "Ungarische Flugzeugfabrik A.G."
  danubian_aircraft_company:0 "Danubian Aircraft Company"
-
-### Galicia ###
  clb:0 "CLB"
  uniwersytet_jagiellonski:0 "Uniwersytet Jagielloński"
  standard_nobel:0 "Standard-Nobel"
@@ -167,8 +153,6 @@
  zaklady_mechaniczne_tarnow:0 "Zakłady Mechaniczne Tarnów"
  aviatik_galizien:0 "Aviatik Galizien und Lodomerien"
  lwl:0 "LWL"
-
-### Bosnia ###
  aluminij:0 "Aluminij"
  univerzitet_u_sarajevu:0 "Univerzitet u Sarajevu"
  energopetrol:0 "Energopetrol"
@@ -177,9 +161,6 @@
  bosanske_drzave_zeljeznice:0 "Bosanske Drzave Zeljeznice"
  aviatik_bosnia:0 "Aviatik Bosnia"
  ganz_danubius_bosnia:0 "Ganz Danubius"
-
-
-
  AUS_financial_ties_broken:0 "오스트리아-헝가리 관계 악화"
  AUS_financial_ties_broken_desc:0 "헝가리의 왕가는 통합정부의 재정에 세금을 납부하는 것을 거부합니다. \n\n그들은 1926년 남부 슬라브인 반란의 중재안으로 인한 일리리아 왕국의 형성에 여전히 불만을 품고 있으며 오스트리아 정부에 의해 배신당한 이들은 크로아티아의 토지 손실에 대한 보상을 원합니다."
  HUN_financial_ties_broken:0 "오스트리아-헝가리의 관계 악화"
@@ -825,10 +806,8 @@
  ausgleich.new.802.d:0 "Delegates of the Habsburg Monarchy met with their enemy counterparts in Budapest to hammer out the peace terms. We have agreed to cede all claims they have on Imperial and Royal lands in exchange for peace. This humiliating defeat marks a new chapter in Habsburg history as we can no longer consider ourselves to be a Great Power. However, we may be able to salvage what is left and avoid the complete dismantling of the Monarchy."
  ausgleich.new.802.a:0 "마침내 평화가 찾아왔군."
  ausgleich.new.802.b:0 "Good, then it's done"
- 
  AUS_treaty_name_budapest:0 "[43.GetCapitalVictoryPointName]"
  AUS_treaty_name_vienna:0 "[4.GetCapitalVictoryPointName]"
-
  ausgleich.new.803.t:0 "[AUS_treaty_name] 조약"
  ausgleich.new.803.d.balkan:0 "Delegates from [Root.GetNameDef] met with their Habsburg counterparts in Budapest to hammer out the peace terms. In the ensuing treaty, the Austrians have ceded all our claims in exchange for peace. This is a glorious day indeed, for the Balkans are finally free from foreign interference and our ethnic brothers are finally reunited with the homeland."
  ausgleich.new.803.d.germany.balkan:0 "Delegates from [Root.GetNameDef] met with their German and Habsburg counterparts in Budapest to hammer out the peace terms. In the ensuing treaty, the Austrians have ceded all our claims - except for those in core Austrian lands - in exchange for peace. This is a glorious day indeed, for the Balkans are finally free from foreign interference and our ethnic brothers are finally reunited with the homeland."
@@ -1023,12 +1002,9 @@
  aus.tree.4026.t:0 "[From.GetNameDefCap]의 거절"
  aus.tree.4026.d:0 "반박을 귀찮게 여기지 않고, [From.GetAdjective] 정부는 우리의 요청을 거절했습니다... 더 나아가 '발칸반도의 수호자'라는 작위로 우리의 주장을 비웃었습니다. 우리 동맹은 그들 없이 유지해야겠습니다."
  aus.tree.4026.a:0 "그렇다면야"
- 
-### Country Names ###
  AUS:0 "오스트리아"
  AUS_ADJ:0 "오스트리아"
  AUS_DEF:0 "오스트리아"
-
  AUS_totalist:0 "오스트리아"
  AUS_totalist_ADJ:0 "오스트리아"
  AUS_totalist_DEF:0 "오스트리아 공화국"
@@ -1038,7 +1014,6 @@
  AUS_radical_socialist:0 "오스트리아 공화국"
  AUS_radical_socialist_ADJ:0 "오스트리아"
  AUS_radical_socialist_DEF:0 "오스트리아 공화국"
-
  AUS_empire_social_democrat:0 "오스트리아 제국"
  AUS_empire_social_democrat_ADJ:0 "오스트리아"
  AUS_empire_social_democrat_DEF:0 "오스트리아 제국"
@@ -1060,11 +1035,9 @@
  AUS_empire_national_populist:0 "오스트리아 제국"
  AUS_empire_national_populist_ADJ:0 "오스트리아"
  AUS_empire_national_populist_DEF:0 "오스트리아 제국"
-
  AUS_GER:0 "독일"
  AUS_GER_ADJ:0 "독일"
  AUS_GER_DEF:0 "독일"
- 
  AUS_GER_social_democrat:0 "독일 제국"
  AUS_GER_social_democrat_ADJ:0 "독일"
  AUS_GER_social_democrat_DEF:0 "독일 제국"
@@ -1086,7 +1059,6 @@
  AUS_GER_national_populist:0 "독일 제국"
  AUS_GER_national_populist_ADJ:0 "독일"
  AUS_GER_national_populist_DEF:0 "독일 제국"
-
  USGA_social_democrat:0 "대 오스트리아 합중국"
  USGA_social_democrat_ADJ:0 "오스트리아"
  USGA_social_democrat_DEF:0 "대 오스트리아 합중국"
@@ -1108,11 +1080,9 @@
  USGA_national_populist:0 "대 오스트리아 합중국"
  USGA_national_populist_ADJ:0 "오스트리아"
  USGA_national_populist_DEF:0 "대 오스트리아 합중국"
-
  DNF:0 "도나우"
  DNF_ADJ:0 "도나우"
  DNF_DEF:0 "도나우"
-
  DNF_totalist:0 "도나우 의회공화국"
  DNF_totalist_ADJ:0 "도나우"
  DNF_totalist_DEF:0 "도나우 의회공화국"
@@ -1143,31 +1113,28 @@
  DNF_national_populist:0 "도나우 연방"
  DNF_national_populist_ADJ:0 "도나우"
  DNF_national_populist_DEF:0 "도나우 연방"
- 
-### Characters ###
- AUS_karl_von_habsburg:0 "Karl I"
- AUS_otto_von_habsburg:0 "Otto von Habsburg"
- AUS_alfred_klahr:0 "Alfred Klahr"
- AUS_pierre_ramus:0 "Pierre Ramus"
- AUS_friedrich_adler:0 "Friedrich Adler"
- AUS_karl_renner:0 "Karl Renner"
- AUS_wilhelm_miklas:0 "Wilhelm Miklas"
- AUS_franz_dinghofer:0 "Franz Dinghofer"
- AUS_eugen_von_habsburg:0 "Eugen von Habsburg-Lothringen"
- AUS_karl_albrecht_von_habsburg:0 "Karol Olbracht Habsburg-Lotaryński"
- AUS_joseph_august_von_habsburg:0 "József Ágost Habsburg–Lotaringiai"
- AUS_alfred_jansa_von_tannenau:0 "Alfred Jansa von Tannenau"
- AUS_erhard_raus:0 "Erhard Raus"
- AUS_lothar_rendulic:0 "Lothar Rendulic"
- AUS_karl_eglseer:0 "Karl Eglseer"
- AUS_julius_ringel:0 "Julius Ringel"
- AUS_franz_bohme:0 "Franz Böhme"
- AUS_sigismund_schilhawsky_von_bahnbruck:0 "Sigismund Schilhawsky von Bahnbrück"
- AUS_eduard_barger:0 "Eduard Barger"
- AUS_friedrich_materna:0 "Friedrich Materna"
- AUS_wilhelm_zehner:0 "Wilhelm Zehner"
- AUS_ludwig_von_eimannsberger:0 "Ludwig von Eimannsberger"
- AUS_georg_von_trapp:0 "Georg von Trapp"
- AUS_heinrich_pergler_von_perglas:0 "Heinrich Pergler von Perglas"
- AUS_maximilian_eugen_von_habsburg:0 "Maximilian Eugen von Habsburg-Lothringen"
-
+ AUS_karl_von_habsburg:0 "카를 1세"
+ AUS_otto_von_habsburg:0 "오토 폰 합스부르크"
+ AUS_alfred_klahr:0 "알프레트 클라어"
+ AUS_pierre_ramus:0 "피레 라무스"
+ AUS_friedrich_adler:0 "프리드리히 아들러"
+ AUS_karl_renner:0 "카를 레너"
+ AUS_wilhelm_miklas:0 "빌헬름 미클라스"
+ AUS_franz_dinghofer:0 "프란츠 딩호퍼"
+ AUS_eugen_von_habsburg:0 "오이겐 폰 합스부르크-로트링겐"
+ AUS_karl_albrecht_von_habsburg:0 "카롤 올브라흐트 합스부르크-로타린스키"
+ AUS_joseph_august_von_habsburg:0 "요제프 아고슈트 허브슈부르그–로터린기어이"
+ AUS_alfred_jansa_von_tannenau:0 "알프레트 얀자 폰 타네나우"
+ AUS_erhard_raus:0 "하르하르트 라우스"
+ AUS_lothar_rendulic:0 "로타어 렌둘리크"
+ AUS_karl_eglseer:0 "카를 에글저"
+ AUS_julius_ringel:0 "율리우스 린겔"
+ AUS_franz_bohme:0 "프란츠 뵈메"
+ AUS_sigismund_schilhawsky_von_bahnbruck:0 "지기스문트 실하브슈키 폰 반브뤼크"
+ AUS_eduard_barger:0 "에두아르트 바르거"
+ AUS_friedrich_materna:0 "프리드리히 마테르나"
+ AUS_wilhelm_zehner:0 "빌헬름 체너"
+ AUS_ludwig_von_eimannsberger:0 "루트비히 폰 아이만스베르거"
+ AUS_georg_von_trapp:0 "게오르크 폰 트랍"
+ AUS_heinrich_pergler_von_perglas:0 "하인리히 페르글러 폰 페르글라스"
+ AUS_maximilian_eugen_von_habsburg:0 "막시밀리안 오이겐 폰 합스부르크-로트링겐"

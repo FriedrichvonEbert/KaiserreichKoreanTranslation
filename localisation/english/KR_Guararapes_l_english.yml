@@ -20,12 +20,10 @@
  GRP_syndicalist_party_long:0 "생디칼리슴당"
  GRP_totalist_party:0 "팔마레스-최대주의 국민당"
  GRP_totalist_party_long:0 "팔마레스-최대주의 국민당"
- 
  GRP_cristiano_cordeiro:0 "Cristiano Cordeiro"
  GRP_joao_pessoa_cavalcanti_de_albuquerque:0 "João Pessoa Cavalcanti de Albuquerque"
  GRP_joao_fernandes_campos_cafe_filho:0 "João Fernandes Campos Café Filho"
  GRP_osvaldo_lima_filho:0 "Osvaldo Lima Filho"
-
  POLITICS_OSVALDO_LIMA_GRP_DESC:0 "Osvaldo Cavalcanti da Costa Lima Filho was born in the town of Cabo de Santo Agostinho, is a young and energetic right wing radical and former member of the AIB. His political career began as early as 1936, where he partook in the street battles in Recife against syndicalist rabbles, and has since become one of the key agitators of Integralist ideology in the region. While he, like many integralists in the northeastern part of Brazil, never held any significant monarchist beliefs, the movement enjoyed his support as he saw the republic as little more than a failed experiment in its current state. Being a law graduate, Osvaldo wishes to re-establish the rule of law cross the Confederation; and to do so, he prepares an extensive plan of investigations and arrests against traitors and terrorists, some of whom have roamed the nation freely for decades. To this end, he is organising a reformed secret police department, backed by the remnants of integralist militias, whose members still remember their faith and duty to God, and will not hesitate to carry out this regrettable yet necessary task to establish peace in the newly founded republic."
  POLITICS_GOIS_NRD_DESC:0 "Born in the town São Luís do Quitunde, Alagoas, in 1889, Pedro Aurélio de Góis Monteiro is a member of an influential family of military servicemen who occupied powerful positions in the old order's army. His army career began in the school of war in Porto Alegre, and he relatively quickly climbed the ranks of the military in Brazil. His position politically has always been marked by legalism, and his brother Cícero Augusto died in combat the Interstate War. But he also is defined by a strong bias against syndicalist and socialist views, which he saw as the primary threat to civilisation as a whole across the world. While his position as leader of the Confederation is none one he picked himself, he is determined to establish the rule of law by any means necessary, and he enjoys widespread support for this endeavour in the recently organised national army, as the military in the region has traditionally shifted towards the right wing. The main issue while he is president however will be the many differing powerful political factions and oligarchs that have traditionally wielded power in each individual states; these coroneis will stop at nothing to increase their influence, even if this damages the overall goals of self sustainability and army reform the president defends."
  POLITICS_WHITECASTLE_HOS_GRP_DESC:0 "Humberto de Alencar Castelo Branco was born in Fortaleza, the capital of Ceará, in 1897, and completed his military studies in Porto Alegre, in the far south. He occupied the post of a military instructor in Rio during the Interstate War, and sided with the rebels like many other mutinous officers. Being on the winning side brought him many political advantages, and by 1936 he was an army major and one of the most influential servicemen in the nation. His most standout political belief is the strong opposition to any kind of syndicalist or socialist principles, and he always defended open war against any kind of internationalist regime as necessary to maintain peace and order. To him, syndicalists are enemies of freedom no matter what treaties they sign, and they seek to undermine the values of the nation as a way to replace them with the beliefs of Marx. This disposition might have had him in friendly terms with the AIB, were it not for his relatively strong republican beliefs. Now as the appointed president of the newly formed federation, the most pressing matters of rebuilding the administrative and transport infrastructure must at least for now take precedence over the enforcement of his planned anti-socialist and anti-union legislation."
@@ -134,11 +132,9 @@
  GRP_army_arty_desc:0 "The giant guns of the weltkrieg were responsible for the vast majority of casualties in that war. We must have our own such pieces."
  GRP_army_doctrine_desc:0 "Our rapidly evolving army must be put to proper use. We must investigate the various doctrines embraced by other countries and adapt one for our own purposes."
  GRP_elite_forces_desc:0 "The regions of the confederation each impart upon their people different skills. Drawing on this diversity we should invest in the creation of elite commando units to support the militias."
- 
  GRP:0 "구아라라페스"
  GRP_ADJ:0 "구아라라페스"
  GRP_DEF:0 "구아라라페스"
-
  GRP_totalist:0 "파우마리스 연방"
  GRP_totalist_ADJ:0 "파우마리스"
  GRP_totalist_DEF:0 "파우마리스 연방"

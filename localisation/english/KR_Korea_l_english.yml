@@ -1,11 +1,7 @@
 ﻿l_english:
-
-
-### Country Names ###
  KOR:0 "한국"
  KOR_ADJ:0 "한국"
  KOR_DEF:0 "한국"
-
  KOR_totalist:0 "대한 사회주의 공화국"
  KOR_totalist_ADJ:0 "한국"
  KOR_totalist_DEF:0 "대한 사회주의 공화국"
@@ -36,7 +32,6 @@
  KOR_national_populist:0 "대한민국"
  KOR_national_populist_ADJ:0 "한국"
  KOR_national_populist_DEF:0 "대한민국"
-
  KOR_KING_social_democrat:0 "조선 왕국"
  KOR_KING_social_democrat_ADJ:0 "조선"
  KOR_KING_social_democrat_DEF:0 "조선 왕국"
@@ -58,8 +53,6 @@
  KOR_KING_national_populist:0 "조선 왕국"
  KOR_KING_national_populist_ADJ:0 "조선"
  KOR_KING_national_populist_DEF:0 "조선 왕국"
-
-### Characters ###
  KOR_cho_bong_am:0 "조봉암"
  KOR_kim_koo:0 "김구"
  KOR_yi_kang:0 "이강"

@@ -56,9 +56,6 @@
  BUL_yugosphere:0 "유고 권역"
  BUL_third_empire_fac:0 "불가리아의 패권"
  BUL_balkan_union_fac:0 "발칸 국방 협력"
- 
-### Companies ###
-
  bdz:0 "BDZ"
  su_kliment_ohridski:0 "SU Kliment Ohridski"
  petrol_ad:0 "Petrol AD"
@@ -66,7 +63,6 @@
  darzhavna_voenna_fabrika:0 "Darzhavna Voenna Fabrika"
  darzhavna_aeroplanna_rabotilnitsa:0 "Darzhavna Aeroplanna Rabotilnitsa"
  kaproni_bulgarski:0 "Kaproni Bulgarski"
-
  BUL_waning_hegemony:0 "쇠약해지는 패권"
  BUL_waning_hegemony_desc:0 "세계대전으로부터 20년이 지난 지금, "대불가리아"의 이상에 대한 믿음이 사라지고 있습니다. 내부 분열과 민족 갈등에 붙잡혀버린 불가리아는 지난 20년 동안 위기에서 위기를 전전해왔으며, 국내 문제만으로도 감당하기 벅찬 상태입니다. 순진한 구경꾼 입장에서야 불가리아가 발칸의 패권국으로 보이겠지만, 사실 그럴 힘은 없어져버린지 오래입니다."
  BUL_military_league:0 "군인연맹"
@@ -85,7 +81,6 @@
  BUL_vast_resistance:0 "Vast Resistance to Zveno Rule"
  BUL_agrarian_strike:0 "Peasants' Strike"
  BUL_taming_the_powderkeg_idea:0 "War Preparations"
- BUL_taming_the_powderkeg_idea_desc:0 ""
  BUL_ottoman_trade:0 "불가리아-튀르크 무역 협정"
  BUL_turkish_autonomy:0 "터키계 소수민족 자치"
  BUL_turkish_autonomy_2:0 "터키계 소수민족 자치"
@@ -148,11 +143,8 @@
  BUL_fourth_rome:0 "제4의 로마"
  BUL_fourth_rome_desc:0 "첫 번째 로마는 몰락했습니다. 두 번째 로마는 멸망했습니다. 세 번째 로마는 정당한 군주를 버렸습니다. 이제 불가리아가 갈망의 도시를 얻어냈고, 마침내 고대로부터 전해지는, 남동유럽의 가공할 패권국인 제국 그 자체의 권리를 주장할 수 있게되었습니다."
  BUL_patriarchate_idea:0 "The Bulgarian Patriarchate"
- BUL_patriarchate_idea_desc:0 ""
  BUL_defender_of_balkans:0 "발칸의 수호자"
- BUL_defender_of_balkans_desc:0 ""
  BUL_defender_of_balkans_oth:0 "불가리아의 비호"
- BUL_defender_of_balkans_oth_desc:0 ""
  BUL_balkans_peace:0 "해체된 화약고"
  BUL_OTT_Aliiance:0 "오스만-불가리아 군사 협력"
  BUL_old_guard_training:0 "Old Guard Training"
@@ -641,10 +633,8 @@
  BUL_kiril_heir_name_tt:0 "One day, he will assume the throne as §YKyril I§!."
  BUL_kubrat_heir_name_tt:0 "One day, he will assume the throne as §YKubrat I§!."
  BUL_danail_heir_name_tt:0 "One day, he will assume the throne as §YDanail I§!."
- 
  BUL_war_status_war:0 "outbreak of war this year"
  BUL_war_status_peace:0 "rising tensions in the Balkans"
-
  bulgariaflavour.17.t:0 "Political Circle "United Yugoslavia""
  bulgariaflavour.17.d:0 "The formation of Yugoslavia has led to significant changes in the Bulgarian political spectrum, as the integration of the rest of the South Slavic lands has completely upended the nature of the state. The old 'Zveno' ('Unit') label, signifying the military clique's dedication to strength and rationality, has lost its lustre - after all, what better proof is there of the success of Zveno reforms than the fact that they have just defeated the Austrian Empire in battle?\n\nSupporters of the regime have begun to band under a new banner - the "United Yugoslavia" Political Circle, whose stated purpose is now the defence of "united Yugoslav national interest" against internal and external enemies alike. An official proclamation by the "Zveno" newspaper soon after the formation of Yugoslavia proclaimed the regime's approach to Yugoslavism - ripping a few pages from Integral Yugoslavist theory, the newspaper stated that cultural differences between Yugoslavs are a historical construct and a strong, centralised state is necessary to erase them. If unified not just physically, but spiritually, "the Yugoslavs" may become the flagbearers of a new great power in Europe, or at least a power capable to resist France, Germany and Russia alike.\n\n"United Yugoslavia" has attempted to reach out to Serbian and Illyrian intellectuals, as well as politicians, to recruit them to the administration, with little success. From start to finish, the Yugoslavist project will inevitably be a Bulgarian supremacist project - and while Bulgarian military might will certainly retain this construct for a decade or two, how long can millions of Serbs and Croats be controlled by sheer force alone?"
  bulgariaflavour.17.a:0 "Together, forever!"
@@ -1235,12 +1225,9 @@
  CHT_paternal_autocrat_DEF:0 "the Serbian Chetnik Organisation"
  CHT_uprising:0 "The Final Battle"
  CHT_uprising_desc:0 "Dražinići, my sons! Draža's calling, the Country needs us, to battle we shall go! Our hearts are set on fighting, and we will gladly give our lives - for our country, conquered by enemies. Čiča Draža, the defender of Serbdom, will guide us in the final battle!"
- 
-### Country Names ###
  BUL:0 "불가리아"
  BUL_ADJ:0 "불가리아"
  BUL_DEF:0 "불가리아"
-
  BUL_totalist:0 "불가리아 사회주의 공화국"
  BUL_totalist_ADJ:0 "불가리아"
  BUL_totalist_DEF:0 "불가리아 사회주의 공화국"
@@ -1253,7 +1240,6 @@
  BUL_national_populist:0 "불가리아"
  BUL_national_populist_ADJ:0 "불가리아"
  BUL_national_populist_DEF:0 "불가리아 국민군단국가"
-
  BUL_rep_totalist:0 "불가리아 사회주의 공화국"
  BUL_rep_totalist_ADJ:0 "불가리아"
  BUL_rep_totalist_DEF:0 "불가리아 사회주의 공화국"
@@ -1284,11 +1270,9 @@
  BUL_rep_national_populist:0 "불가리아"
  BUL_rep_national_populist_ADJ:0 "불가리아"
  BUL_rep_national_populist_DEF:0 "불가리아 국민군단국가"
- 
  BUL_YUG:0 "유고슬라비아"
  BUL_YUG_ADJ:0 "유고슬라비아"
  BUL_YUG_DEF:0 "유고슬라비아"
-
  BUL_YUG_totalist:0 "유고슬라비아"
  BUL_YUG_totalist_ADJ:0 "유고슬라비아"
  BUL_YUG_totalist_DEF:0 "유고슬라비아 사회주의 공화국"
@@ -1319,11 +1303,9 @@
  BUL_YUG_national_populist:0 "유고슬라비아"
  BUL_YUG_national_populist_ADJ:0 "유고슬라비아"
  BUL_YUG_national_populist_DEF:0 "유고슬라비아 공화국"
- 
- BUL_YUG:0 "유고슬라비아"
- BUL_YUG_ADJ:0 "유고슬라비아"
- BUL_YUG_DEF:0 "유고슬라비아"
-
+ BUL_YUG_mon:0 "Yugoslavia"
+ BUL_YUG_mon_ADJ:0 "Yugoslavian"
+ BUL_YUG_mon_DEF:0 "Yugoslavia"
  BUL_YUG_mon_totalist:0 "유고슬라비아 사회주의 공화국"
  BUL_YUG_mon_totalist_ADJ:0 "유고슬라비아"
  BUL_YUG_mon_totalist_DEF:0 "유고슬라비아 사회주의 공화국"
@@ -1384,11 +1366,9 @@
  BUL_empire_national_populist:0 "불가리아 제국"
  BUL_empire_national_populist_ADJ:0 "불가리아"
  BUL_empire_national_populist_DEF:0 "불가리아 제3제국"
- 
  CHT_state:0 "세르비아"
  CHT_state_ADJ:0 "세르비아"
  CHT_state_DEF:0 "세르비아"
-
  CHT_state_totalist:0 "세르비아 사회주의 공화국"
  CHT_state_totalist_ADJ:0 "세르비아"
  CHT_state_totalist_DEF:0 "세르비아 사회주의 공화국"
@@ -1398,8 +1378,6 @@
  CHT_state_radical_socialist:0 "세르비아 사회주의 공화국"
  CHT_state_radical_socialist_ADJ:0 "세르비아"
  CHT_state_radical_socialist_DEF:0 "세르비아 사회주의 공화국"
-
-### Characters ###
  BUL_vladimir_vazov:0 "Vladimir Vazov"
  BUL_alexander_stamboliyski:0 "Aleksandŭr Stamboliyski"
  BUL_dimo_kazasov:0 "Dimo Kazasov"

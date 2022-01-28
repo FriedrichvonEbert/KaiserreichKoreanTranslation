@@ -1,11 +1,8 @@
 ﻿l_english:
  bolivia_focus:0 "볼리비아 중점계통도"
- 
-### Country Names ###
  BOL:0 "볼리비아"
  BOL_ADJ:0 "볼리비아"
  BOL_DEF:0 "볼리비아"
-
  BOL_totalist:0 "볼리비아 생디칼 연합"
  BOL_totalist_ADJ:0 "볼리비아"
  BOL_totalist_DEF:0 "볼리비아 생디칼 연합"
@@ -15,8 +12,6 @@
  BOL_radical_socialist:0 "볼리비아 생디칼 연합"
  BOL_radical_socialist_ADJ:0 "볼리비아"
  BOL_radical_socialist_DEF:0 "볼리비아 생디칼 연합"
-
-### Characters ###
  BOL_bernardino_bilbao_rioja:0 "Bernardino Bilbao Rioja"
  BOL_german_busch_becerra:0 "Germán Busch Becerra"
  BOL_carlos_quintanilla_quiroga:0 "Carlos Quintanilla Quiroga"
@@ -35,8 +30,6 @@
  BOL_angel_ayora:0 "Angel Ayora"
  BOL_gualberto_villarroel_lopez:0 "Gualberto Villarroel Lopez"
  BOL_manuel_marzana:0 "Manuel Marzana"
-
-### Leaders ###
  POLITICS_GERMAN_BUSCH_DESC:0 "게르만 부시 베세라는 1904년에 태어났지만 출생지는 그의 동료들에게 공개하지 않았기 때문에 현재 알려지지 않았습니다. 그는 1922년 '육군대학'에 입학하여 1927년 소위로 졸업하였고 차코 전쟁 직전에 지휘관이 될 때까지 꾸준히 승진을 했습니다. 차코 전쟁 동안, 그는 용감함으로 여러 번 상을 받았고 볼리비아 전쟁영웅으로 보여졌습니다. 차코 전쟁의 패배와 함께, 부시는 다비드 토로와 동맹을 맺었고, 1934년 살라망카에게 군대와 일반 대중들의 엄청난 지지로 자유주의 정부를 패배시켰습니다. 그 이후로, 부시는 천천히 그리고 꾸준히 볼리비아의 상황을 개선한 개혁을 추진해왔고, 일반 대중들은 그를 높이 평가하고 있습니다. 그러나, 부시는 결코 정치인이 될 준비가 되어 있지 않았고, 그가 대통령으로서 계속하기를 원하는지 아니면 상황이 정상화되면 결국 선거를 요구할지는 여전히 불확실합니다."
  POLITICS_VICTOR_PAZ_DESC:0 "빅토르 앙헬 파즈 에센소로는 볼리비아 타리자 마을에서 1907년에 태어났습니다. 빅토르는 토목공학을 전공하고 싶었지만 볼리비아 대학에서 그러한 직업을 구할 수 없었기 때문에 결국 변호사로서 1927년에 졸업한 '산 안드레스 대학교'에서 법을 공부하기로 결정했습니다. 차코 전쟁 때, 파즈는 군대에 입대하여 지원병으로 몇 달을 보낸 뒤 병장이 되었습니다. 전쟁 중, 그는 부하린의 '공산주의의 ABC'를 읽었고 생디칼리슴의 이상향에 대해 빅토르에게 영향을 준 드 레온의 '노동조합주의의 불타는 질문'을 읽었습니다. 전쟁이 끝나자 파즈는 파티뇨 자신이 소유 한 '파티뇨 광산'의 변호사로 일하면서 볼리비아 문제에 대한 광산회사의 영향력을 목격했습니다. 분노한 그는 사임하고 민간 기업들이 볼리비아 정부에 미치는 부패의 영향을 종식시키고자 하는 정치적 온건파들을 규합하기 위해 '혁명국민운동'을 결성했습니다. 이제 그가 대통령이 되었으니, 빅토르는 토지 개혁, 주요 산업의 국유화, 그리고 모든 볼리비아인들을 위한 더 나은 작업 환경을 만들기 위해 노력할 것입니다."
  POLITICS_ARZE_ARZE_DESC:0 "호세 안토니오 아르제 이 아르제는 1904년 볼리비아 코차밤바에서 태어났습니다. 그는 1926년에 '산 사이먼 대학교'에서 변호사로 졸업한 후 '볼리비아 대학 연맹'에 참여하여 생디칼리스트 조직 내에서 이상적 영향을 받기 시작했습니다. 아르제 이 아르제는 리카르도 아나야와 호세 쿠아드로스 퀼로가와 같은 조직의 다른 내부자들과 함께 볼리비아가 광산 및 석유 산업을 국유화하고 원주민들에게 토지를 제공해야 한다고 규정한 강한 노동법인 '원칙 계획'을 만들었습니다. 하지만, 호세의 급진적인 반전 자세는 차코 전쟁이 발발했을 때 칠레로 떠나도록 강요했습니다. 그는 전쟁 말기에 돌아와서 '볼리비아 생디칼리슴당'을 결성하여 볼리비아의 빈곤 지역에서 이용당한 광부들의 지지를 얻었습니다. 이제 아르제 이 아르제는 대통령이 되었으니 '원칙 계획'을 제정하고 볼리비아를 혁명적인 국가로 만들기 위한 추가적인 개혁을 진행할 것입니다."
@@ -66,6 +59,13 @@
  BOL_diverge_resources_for_capital_ship_desc:0 "비록 다른 곳의 자원을 수송하는 한이 있더라도, 우리는 가능한 빨리 라 파즈 전함을 건조해야 합니다!"
  BOL_build_capital_ship:0 "라 파즈 전함 건조"
  BOL_build_capital_ship_desc:0 "라 파즈 전함을 제때, 혹은 더 빨리 건조해낸다면 우리 정부에 긍정적인 영향을 미치겠지만, 시간 내에 완성되지 못한다면 심각한 결과를 초래할 것입니다."
+ EAA:0 "Escuela de Aplicación de Armas"
+ EMA:0 "Escuela Militar de Aviación"
+ EMN:0 "Escuela de Mecánica y de Navegación"
+ SAG:0 "Supremo Academia de Guerra"
+ SOBOCE:0 "SOBOCE"
+ UMSA:0 "Universidad Mayor de San Andres"
+ FCAB:0 "Ferrocarril Antofagosta"
  BOL_Struggling_Economy:0 "경제 대공황"
  BOL_Black_Monday:0 "검은 월요일"
  BOL_Black_Monday_Nat_1:0 "경제 분투"

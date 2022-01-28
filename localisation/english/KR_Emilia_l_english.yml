@@ -92,7 +92,6 @@
  EMI_emilian_identity_desc:0 "이탈리아는 이제 지리적 용어일 뿐입니다. 우리는 이탈리아 정체성 대신 특별한 에밀리아 문화와 국가 정체성을 홍보해야 합니다."
  EMI_cispanadanian_revival:0 "에밀리아어 보존"
  EMI_cispanadanian_revival_desc:0 "이탈리아어와 꽤 유사한 에밀리아어는 결코 단순한 이탈리아 사투리가 아닙니다. 이탈리아 통치하에서 에밀리아어는 급속히 쇠퇴했고, 우리가 진정으로 에밀리아인의 정체성을 함양하려면 에밀리아 문화의 이 초석이 보존되어야 합니다."
- 
  accademia_militare_modena_emi:0 "Accademia Militare di Modena"
  arsenale_parma:0 "Arsenale di Parma"
  ferrari:0 "Auto Costruzioni Ferrari"
@@ -101,7 +100,6 @@
  reggiane_aeronautica_emi:0 "Reggiane Aeronautica"
  uni_parma:0 "Università di Parma"
  chiesi:0 "Chiesi Farmaceutici"
-
  EMI_nationalism_dialects:0 "에밀리아어 보존 운동"
  EMI_nationalism_dialects_desc:0 "모데나는 에밀리아어를 재전파하기 위한 대대적인 운동을 개시했습니다."
  EMI_carmaking:0 "자동차 산업 육성"
@@ -165,15 +163,12 @@
  EMI:0 "모데나"
  EMI_ADJ:0 "모데나"
  EMI_DEF:0 "모데나"
-
- EMI_authoritarian_democrat:0 "모데나 공국" 
+ EMI_authoritarian_democrat:0 "모데나 공국"
  EMI_authoritarian_democrat_ADJ:0 "모데나"
- EMI_authoritarian_democrat_DEF:0 "모데나 공국" 
+ EMI_authoritarian_democrat_DEF:0 "모데나 공국"
  EMI_PAR:0 "파르마"
  EMI_PAR_ADJ:0 "파르마"
  EMI_PAR_DEF:0 "파르마"
-
-### Characters ###
  EMI_giuseppe_castagnetti:0 "Giuseppe Castagnetti"
  EMI_odoardo_focherini:0 "Odoardo Focherini"
  EMI_enzo_ferrari:0 "Enzo Ferrari"

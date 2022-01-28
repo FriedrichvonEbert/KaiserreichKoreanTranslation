@@ -439,12 +439,9 @@
  ARMY_HON_OSWALDO_LOPEZ_ARELLANO_DESC:0 "§Y장군 약력\n§Y출생:§L\n§Y군 경력:§L\n§Y중요한 사항:§L."
  ARMY_HON_ANASTASIO_SOMOZA_GARCIA_DESC:0 "§Y장군 약력\n§Y출생:§L\n§Y군 경력:§L\n§Y중요한 사항:§L."
  ARMY_HON_JUAN_GALVEZ_DESC:0 ""
-
-### Country Names ###
  HON:0 "온두라스"
  HON_ADJ:0 "온두라스"
  HON_DEF:0 "온두라스"
-
  HON_totalist:0 "온두라스 사회주의 공화국"
  HON_totalist_ADJ:0 "온두라스"
  HON_totalist_DEF:0 "온두라스 사회주의 공화국"
@@ -454,8 +451,6 @@
  HON_radical_socialist:0 "온두라스 사회주의 공화국"
  HON_radical_socialist_ADJ:0 "온두라스"
  HON_radical_socialist_DEF:0 "온두라스 사회주의 공화국"
-
-### Characters ###
  HON_venancio_callejas:0 "Venancio Callejas"
  HON_ramon_villeda_morales:0 "Ramon Villeda Morales"
  HON_jose_maria_moncada:0 "José Maria Moncada"

@@ -22,7 +22,6 @@
  HEJ:0 "헤자즈"
  HEJ_ADJ:0 "헤자즈"
  HEJ_DEF:0 "헤자즈"
-
  HEJ_totalist:0 "헤자즈 인민 공화국"
  HEJ_totalist_ADJ:0 "헤자즈"
  HEJ_totalist_DEF:0 "헤자즈 인민 공화국"
@@ -32,11 +31,9 @@
  HEJ_radical_socialist:0 "헤자즈 공화국"
  HEJ_radical_socialist_ADJ:0 "헤자즈"
  HEJ_radical_socialist_DEF:0 "헤자즈 공화국"
-
  HEJ_ARA:0 "아라비아"
  HEJ_ARA_ADJ:0 "아라비아"
  HEJ_ARA_DEF:0 "아라비아"
-
  HEJ_ARA_totalist:0 "아라비아 인민 공화국"
  HEJ_ARA_totalist_ADJ:0 "아라비아"
  HEJ_ARA_totalist_DEF:0 "아라비아 인민  공화국"
@@ -137,7 +134,6 @@
  HEJ_al_jeish_al_arabi_idea:0 "Al Jeish Al Arabi"
  HEJ_al_jeish_al_arabi_idea2:0 "Al Jeish Al Arabi"
  HEJ_arabian_horsemanship_idea:0 "The Arab Legacy"
- 
  HEJ_nationalised_railways_idea:0 "Nationalised Railways"
  hejaz_focus:0 "Hejaz Focus Tree"
  HEJ_found_council:0 "Found the Majilis al Wukala"
@@ -240,8 +236,6 @@
  HEJ_taif_airbase_desc:0 "Ta'if is a small city located near Mecca and could be instrumental in air defences. By building our first airbase there, the Holy Cities shall be safe from dangers in the sky."
  HEJ_medina_academy:0 "메디나 공군사관학교 설립"
  HEJ_medina_academy_desc:0 "Hejaz currently lacks a specialised military school for air fighting and so establishing an academy in Medina will help train a new generation of flying cadets."
-
-### Characters ###
  HEJ_abdullah_bin_al_hussein:0 "Abdullah bin al-Hussein"
  HEJ_zeid_bin_hussein_al_hashmid:0 "Zeid bin Hussein al-Hashmid"
  HEJ_abdul_qadir_pasha_el_jundi:0 "Abdul Qadir Pasha el-Jundi"

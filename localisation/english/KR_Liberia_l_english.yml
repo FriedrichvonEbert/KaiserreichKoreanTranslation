@@ -16,11 +16,9 @@
  LIB_paternal_autocrat_party_long:0 "군사 정권"
  LIB_national_populist_party:0 "라이베리아 프리메이슨 그랜드 롯지"
  LIB_national_populist_party_long:0 "라이베리아 프리메이슨 그랜드 롯지"
- 
  LIB:0 "라이베리아"
  LIB_ADJ:0 "라이베리아"
  LIB_DEF:0 "라이베리아"
-
  LIB_totalist:0 "라이베리아 사회주의 공화국"
  LIB_totalist_ADJ:0 "라이베리아"
  LIB_totalist_DEF:0 "라이베리아 사회주의 공화국"
@@ -427,9 +425,7 @@
  LIB_integrate_guinea:0 "기니 통합"
  LIB_integrate_guinea_desc:0 "기니를 획득한 것은 순전히 우연이지만 서아프리카가 이미 통일될 준비가 되어있다는 증거입니다. 이곳의 주민들은 대부분 무슬림이지만 기니의 형제들이 우리 편에서 싸우는 것은 영광이 될 것입니다."
  LIB_integrate_mali_and_volta:0 "Integrate Mali and Volta"
- LIB_integrate_mali_and_volta_desc:0 "
- LIB_integrate_togoland:0 "토골란트 통합"
- LIB_integrate_togoland_desc:0 "토고인들은 굳은 자유의 전통을 가지고 있습니다. 라이베리아 공화국의 일원이 되면 그 이상의 것을 즐길 수 있을 것입니다."
+ LIB_integrate_mali_and_volta_desc:0 ""
  LIB_integrate_senegal:0 "Integrate Senegal"
  LIB_integrate_senegal_desc:0 ""
  LIB_great_minds:0 "아프리카의 석학들"
@@ -459,8 +455,6 @@
  LIB_mil_ind_3_desc:0 "1921년 독일의 잠수함이 몬로비아에 경고사격을 가할 때 우리는 숨을 곳조차 없었습니다. 몬로비아를 통제하는 이가 라이베리아를 통제합니다."
  LIB_mil_ind_2_desc:0 "몬로비아는 1세기 가까이 우리를 보호해왔지만 우리의 통제구역을 남부로 더 확장할 필요도 있습니다. 상아해안과 접하는 메릴랜드는 프랑스제 물품들을 접하는 통로가 됩니다."
  LIB_university_desc:0 "우리의 교육제도는 우리의 자유의 전통과는 전혀 어울리지 않습니다. 우리는 몬체라토 주에 영예로운 D.B 킹의 이름을 딴 새로운 대학교를 건설할 것입니다."
- 
-### Characters ###
  LIB_george_padmore:0 "George Padmore"
  LIB_james_jenkins_dossen:0 "James Jenkins Dossen"
  LIB_marcus_garvey:0 "Marcus Garvey"
@@ -472,4 +466,3 @@
  LIB_jenkins_yancey:0 "Jenkins Yancey"
  LIB_james_cooper:0 "James Cooper"
  LIB_william_h_carter:0 "William H. Carter"
-

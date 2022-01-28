@@ -10,8 +10,6 @@
  DEN_new_generals_tooltip:0 "§Y4 기술§!을 가진 §YErik af Edholm§!이 나타날 것입니다.\nA §Y1 기술§!을 가진 §YJacob Ager Laurantzon§!이 나타날 것입니다.\n"
  DEN_black_monday_hits:0 "§RBlack Monday will lay waste to our economy!§!"
  DEN_SCA_formation_warning:0 "§RBy completing this focus the members of the Scandinavian Defence Union will be annexed into a single new tag. All ideas and design companies will be lost.§!"
- 
-### Companies ###
  atlas_maskinfabrik:0 "Atlas Maskinfabrik AS"
  bang_olufsen:0 "Bang & Olufsen"
  novo_lab:0 "Novo Terapeutisk Laboratorium"
@@ -23,7 +21,6 @@
  odense_staalskibsverft:0 "Odense Staalskibsværft"
  burmeister_wain:0 "Burmeister & Wain"
  aalborg_verft:0 "Aalborg Værft"
- 
  DEN_idea_black_monday:0 "검은 월요일"
  DEN_idea_black_monday_desc:0 "베를린을 강타한 주식 위기는 곧 코펜하겐에 있는 보르센에 당도했습니다. 이 때문에 우리 경제가 신음하고 있습니다!"
  DEN_idea_black_monday_start_01:0 "농업공황"
@@ -730,12 +727,9 @@
  DEN_trade_agreement:0 "무역협정"
  DEN_diplomatic_row:0 "외교항로"
  DEN_rejected_trade_deal:0 "무역 거래 거부"
- 
-### Cosmetic Tags ###
  DEN:0 "덴마크"
  DEN_ADJ:0 "덴마크"
  DEN_DEF:0 "덴마크"
-
  DEN_totalist:0 "덴마크 인민공화국"
  DEN_totalist_ADJ:0 "덴마크"
  DEN_totalist_DEF:0 "덴마크 인민공화국"
@@ -748,7 +742,6 @@
  DEN_national_populist:0 "덴마크국"
  DEN_national_populist_ADJ:0 "덴마크"
  DEN_national_populist_DEF:0 "덴마크국"
-
  DENHYB_totalist:0 "덴마크 인민공화국"
  DENHYB_totalist_ADJ:0 "덴마크"
  DENHYB_totalist_DEF:0 "덴마크 인민공화국"
@@ -767,8 +760,6 @@
  DENHYB_national_populist:0 "덴마크국"
  DENHYB_national_populist_ADJ:0 "덴마크"
  DENHYB_national_populist_DEF:0 "덴마크국"
-
-### Characters ###
  DEN_olga_eggers:0 "Olga Eggers"
  DEN_christian_christensen:0 "Christian Christensen"
  DEN_aksel_larsen:0 "Aksel Larsen"

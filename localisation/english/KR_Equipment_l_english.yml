@@ -464,7 +464,6 @@
  armored_car_equipment_2_desc:0 "전장이 변화함에 따라 적의 경무장 부대를 물리치고 생존 후 복귀를 위해선 보다 중무장되고 두꺼운 장갑을 필요로 합니다."
  armored_car_at_equipment:0 "대전차 장갑차"
  armored_car_at_equipment_desc:0 "우리의 경무장된 기계화부대는 언젠가 적들의 전차부대와 맞딱드리게 될 것입니다. 특수한 대전차 변종모델을 만든다면 그들과 교전할 수 있는 기회를 얻을 것입니다."
- 
  tank_nsb_engine_upgrade:0 "$tank_engine_upgrade$"
  tank_nsb_armor_upgrade:0 "$tank_armor_upgrade$"
  train_equipment:0 "Train"
@@ -479,46 +478,34 @@
  railway_gun_equipment_desc:0 "A heavy cannon mounted on a railway carriage for transportation."
  railway_gun_desc:0 "Railways offer an opportunity to move heavy guns far inland at a reasonable speed, allowing us to bombard enemy position at great range and with good effect."
  railway_gun_equipment_1:0 "Railway Gun"
-
  floating_harbor_equipment:0 "Floating Harbor"
  floating_harbor_equipment_desc:0 "A series of pontoons and pre-fabricated concrete structures that can be moved across water and assembled within hours to create a sheltered landing space to unload supplies."
  floating_harbor_equipment_1:0 "Floating Harbor"
  floating_harbor_equipment_1_desc:0 "A series of pontoons and pre-fabricated concrete structures that can be moved across water and assembled within hours to create a sheltered landing space to unload supplies."
-
- ###Flamey bois - just the defaults here
-
  light_tank_flame_equipment:0 "Light Flame Tank"
  light_tank_flame_equipment_1:0 "Light Flame Tank I"
  light_tank_flame_equipment_2:0 "Light Flame Tank II"
  light_tank_flame_equipment_3:0 "Light Flame Tank III"
-
  medium_tank_flame_equipment:0 "Medium Flame Tank"
  medium_tank_flame_equipment_1:0 "Medium Flame Tank I"
  medium_tank_flame_equipment_2:0 "Medium Flame Tank II"
  medium_tank_flame_equipment_3:0 "Medium Flame Tank III"
-
  heavy_tank_flame_equipment:0 "Heavy Flame Tank"
  heavy_tank_flame_equipment_1:0 "Heavy Flame Tank I"
  heavy_tank_flame_equipment_2:0 "Heavy Flame Tank II"
  heavy_tank_flame_equipment_3:0 "Heavy Flame Tank III"
-
- ###Amphib - Defaults
-
  light_tank_amphibious_equipment:0 "Amphibious Light Tank"
  light_tank_amphibious_equipment_1:0 "Amphibious Light Tank I"
  light_tank_amphibious_equipment_2:0 "Amphibious Light Tank II"
  light_tank_amphibious_equipment_3:0 "Amphibious Light Tank III"
-
  medium_tank_amphibious_equipment:0 "Amphibious Medium Tank"
  medium_tank_amphibious_equipment_1:0 "Amphibious Medium Tank I"
  medium_tank_amphibious_equipment_2:0 "Amphibious Medium Tank II"
  medium_tank_amphibious_equipment_3:0 "Amphibious Medium Tank III"
-
  heavy_tank_amphibious_equipment:0 "Amphibious Heavy Tank"
  heavy_tank_amphibious_equipment_1:0 "Amphibious Heavy Tank I"
  heavy_tank_amphibious_equipment_2:0 "Amphibious Heavy Tank II"
  heavy_tank_amphibious_equipment_3:0 "Amphibious Heavy Tank III"
-
  ADA_infantry_equipment_0:0 "$GER_infantry_equipment_0$"
  ADA_infantry_equipment_0_short:0 "$GER_infantry_equipment_0_short$"
  ADA_infantry_equipment_1:0 "$MAF_infantry_equipment_1$"
@@ -960,22 +947,16 @@
  AUS_armored_car_equipment_2_desc:0 "Designed by the Hungarian engineer Miklós Straussler, the Model 39 was introduced into service by the K.u.K Army as a support vehicle for its newly organised motorised units. Equipped with a 20mm gun and built mostly by the MAVÁG company, the vehicle was nicknamed by Straussler after Attila's son, \"Csaba\"."
  AUS_armored_car_at_equipment:0 "Leichter Jagdpanzerwagen Modell 1939/42"
  AUS_armored_car_at_equipment_short:0 "leJgPzW M.39/42"
- # BBO 81:
  AUS_train_equipment_1:0 "k.k. Staatsbahnen 581"
  AUS_train_equipment_1_short:0 "kkStB 581"
  AUS_train_equipment_1_desc:0 "Built shortly after the Great War, the kkStB 581 was a class of 2-10-0 locomotives designed to pull heavy coal trains from Moravia and Silesia. They were equipped with two cylinders and a superheater to produce the large amount of power needed. Later the true power of Rihorsk’s design would be realised with a four cylinder one-off."
- # DRB Class 52:
  AUS_train_equipment_2:0 "k.k. Staatsbahnen 552"
  AUS_train_equipment_2_short:0 "kkStB 552"
  AUS_train_equipment_2_desc:0 "A near copy of the Prussian state railways G 13 locomotive, these locomotives have a lighter axle load, higher top speed and were cheaper to produce compared to the kkStB 552, but could pull the same amount of freight. They would quickly replace most freight locomotives on the Austro-Hungarian railway network."
  AUS_train_equipment_3:0 "$HUN_train_equipment_3$"
  AUS_train_equipment_3_short:0 "$HUN_train_equipment_3_short$"
- #AUS_train_equipment_3_desc:0 ""
-
  AUS_railway_gun_equipment_1:0 "Skoda 35cm Eisenbahnkanone L/45 M.16"
  AUS_railway_gun_equipment_1_short:0 "Skoda EbK M.16"
-# AUS_railway_gun_equipment_1_desc:0 ""
-
  AUS_artillery_equipment_1:0 "Škoda 8 cm Feldkanone M.30"
  AUS_artillery_equipment_1_short:0 "Škoda FK M.30"
  AUS_artillery_equipment_2:0 "Škoda 10.5 cm schwere Feldkanone M.35"
@@ -1168,7 +1149,6 @@
  BAT_train_equipment_3:0 "GER_train_equipment_3"
  BAT_train_equipment_3_short:0 "GER_train_equipment_3_short"
  BAT_train_equipment_3_desc:0 "GER_train_equipment_3_desc"
-
  BAT_railway_gun_equipment_1:0 "GER_railway_gun_equipment_1"
  BAT_railway_gun_equipment_1_short:0 "GER_railway_gun_equipment_1_short"
  BAT_railway_gun_equipment_1_desc:0 "GER_railway_gun_equipment_1_desc"
@@ -1544,8 +1524,6 @@
  BEL_amphibious_mechanized_equipment_1_short:0 "LWS"
  BEL_amphibious_mechanized_equipment_2:0 "Land-Wasser-Schlepper II"
  BEL_amphibious_mechanized_equipment_2_short:0 "LWS II"
- 
-#Trains
  BEL_train_equipment_1:0 "SNCB Type 64"
  BEL_train_equipment_1_short:0 "SNCB Type 64"
  BEL_train_equipment_1_desc:0 "Originally built as the Prussian P 8 for the Prussian state railways, the Type 64 were purchased from Germany after the Great War as the newly reorganised Flanders-Wallonia found themselves lacking suitable rolling stock for mixed traffic service. Later, a licence to produce them domestically was acquired, allowing the production of the Type 64 locally."
@@ -1555,12 +1533,9 @@
  BEL_train_equipment_3:0 "$GER_train_equipment_3$"
  BEL_train_equipment_3_short:0 "$GER_train_equipment_3_short$"
  BEL_train_equipment_3_desc:0 "$GER_train_equipment_3_desc$"
-
  BEL_railway_gun_equipment_1:0 "$GER_railway_gun_equipment_1$"
  BEL_railway_gun_equipment_1_short:0 "$GER_railway_gun_equipment_1_short$"
  BEL_railway_gun_equipment_1_desc:0 "$GER_railway_gun_equipment_1_desc$"
-
-#Armoured Car
  BEL_gw_armored_car_equipment:0 "Leichter Panzerspähwagen, Sonderkraftfahrzeug 222"
  BEL_gw_armored_car_equipment_short:0 "Sd.Kfz. 222"
  BEL_armored_car_equipment_1:0 "Schwerer Panzerspähwagen, 8-rad, Sonderkraftfahrzeug 231"
@@ -2037,7 +2012,6 @@
  PSA_infantry_equipment_1_short:0 "M1903A1 Springfield"
  PSA_infantry_equipment_2:0 "Garand Model 1"
  PSA_infantry_equipment_2_short:0 "M1 Garand"
- #PSA_infantry_equipment_2_desc:0 "The United States Army was readying John Garand's semi-automatic rifle for adoption when the Second American Civil war broke out. Garand himself fled at the war's onset, ultimately becoming chief of the Sacramento Army Arsenal, where his rifle would be perfected, simplified, and ultimately put into service."
  PSA_infantry_equipment_3:0 "Garand Model 2"
  PSA_infantry_equipment_3_short:0 "M2 Garand"
  PSA_support_weapons:0 "M1917 Browning MG & Stokes mortar"
@@ -2480,13 +2454,10 @@
  CRO_armored_car_at_equipment_short:0 "LLOK M.39/42"
  CRO_train_equipment_1:0 "$HUN_train_equipment_1$"
  CRO_train_equipment_1_short:0 "$HUN_train_equipment_1_short$"
- #CRO_train_equipment_1_desc:0 ""
  CRO_train_equipment_2:0 "$HUN_train_equipment_2$"
  CRO_train_equipment_2_short:0 "$HUN_train_equipment_2_short$"
- #CRO_train_equipment_2_desc:0 ""
  CRO_train_equipment_3:0 "$HUN_train_equipment_3$"
  CRO_train_equipment_3_short:0 "$HUN_train_equipment_3_short$"
- # CRO_train_equipment_3_desc:0 ""
  CRO_railway_gun_equipment_1:0 "$AUS_railway_gun_equipment_1$"
  CRO_railway_gun_equipment_1_short:0 "$AUS_railway_gun_equipment_1_short$"
  CRO_rocket_artillery_equipment_2:0 "Bacači Raketa M.44 'Buzdovan'"
@@ -2793,7 +2764,6 @@
  CZE_amphibious_mechanized_equipment_1_short:0 "OP vz. 41"
  CZE_amphibious_mechanized_equipment_2:0 "Obojživelné pancíř vzor 1943"
  CZE_amphibious_mechanized_equipment_2_short:0 "OP vz. 41"
- 
  CZE_train_equipment_1:0 "$AUS_train_equipment_1$"
  CZE_train_equipment_1_short:0 "$AUS_train_equipment_1_short$"
  CZE_train_equipment_1_desc:0 "$AUS_train_equipment_1_desc$"
@@ -2802,8 +2772,6 @@
  CZE_train_equipment_2_desc:0 "$AUS_train_equipment_2_desc$"
  CZE_train_equipment_3:0 "$HUN_train_equipment_3$"
  CZE_train_equipment_3_short:0 "$HUN_train_equipment_3_short$"
- #CZE_train_equipment_3_desc:0 ""
-
  CZE_railway_gun_equipment_1:0 "$AUS_railway_gun_equipment_1$"
  CZE_railway_gun_equipment_1_short:0 "$AUS_railway_gun_equipment_1_short$"
  CZE_gw_armored_car_equipment:0 "Lehký obrněný automobil vzor 1930"
@@ -3395,19 +3363,15 @@
  ENG_night_vision:0 "Cat's Eye"
  ENG_night_vision_desc:0 "Darkness has always been one of humankind's greatest enemies. The latest developments in Station IX have changed this by creating a top-secret infrared night vision scope. Nicknamed the "Cat's Eye," the device allows for reconnaissance and operations under cover of darkness."
  ENG_motorized_equipment_1:1 "Austin K5"
- 
  ENG_train_equipment_1:0 "British Rail Stanier Class 48F"
  ENG_train_equipment_1_short:0 "BR Class 48F"
  ENG_train_equipment_1_desc:0 "After experimenting with the Stanier Class 42MT and producing the successful BR Class 44MT, William Stanier designed the Class 48F solely for heavy freight service. Entering service in 1935, the Class 48F is one of the most successful locomotives of British Rail, seeing widespread service over all regions."
- # War Department 2-8-0 :
  ENG_train_equipment_2:0 "British Rail Riddles Class 90F"
  ENG_train_equipment_2_short:0 "BR Class 90F"
  ENG_train_equipment_2_desc:0 "After Robert Riddle’s assignment to the Ministry of Supply, he quickly saw to designing several classes of locomotives that prioritise low cost over service life, able to be quickly produced. The modified Class 48F became the Class 90F, incorporating a number of changes. Extensive modifications were made to the boiler and fireboxes to use copper, along with simplifications to the valve gears. Welding was also implemented gradually into the construction of both the locomotives and tenders. The highly simplified production methods allowed for a large number of BR Class 90F to be built cheaply and rapidly."
- # SR Merchant Navy Class:
  ENG_train_equipment_3:0 "British Rail Bulleid Class 135MTA"
  ENG_train_equipment_3_short:0 "BR Class 135MTA"
  ENG_train_equipment_3_desc:0 "Chief Mechanical Engineer of the Southern Region, Oliver Bulleid, believed that normal locomotives operating in the region would be easily taken out by any incoming hostile aircraft. The Class 135MTA would be his answer, a class of air-smoothed 4-6-2 Pacific steam locomotives, designed with redundancies in mind and armoured with two inches of armour plating over the boiler, wheels and cab. The class would be nicknamed ‘Spam Cans’ by their crews due to the air smoothed armour casing."
-
  ENG_railway_gun_equipment_1:0 "Breech-Loaded 9.2-inch Mk. XIII"
  ENG_railway_gun_equipment_1_short:0 "BL 9.2-inch"
  ENG_railway_gun_equipment_1_desc:0 "Repurposed by the Republican Army from abandoned and unused Royal Navy 9.2-inch rifles, they were installed onto a makeshift gun carriage and pushed into service as a weapon to assist in warding off a potential invasion."
@@ -3912,23 +3876,18 @@
  FRA_mechanized_equipment_3_short:0 "AMX-VCI"
  FRA_amphibious_mechanized_equipment_1:0 "FCM M1"
  FRA_amphibious_mechanized_equipment_1_short:0 "FCM M1"
- 
  FRA_train_equipment_1:0 "État 141 b/c"
  FRA_train_equipment_1_short:0 "État 141 b/c"
  FRA_train_equipment_1_desc:0 "A locomotive with a low axle load, the class could operate not only on the former L’État and the L’Ouest railways, but across the entirety of France. Being simple to operate and reliable, the class would be mass produced after the French Civil War by the SNCF, with the ‘B’ and ‘C’ denoting different boiler pressures and the output power."
- # SNCF 150.P:
  FRA_train_equipment_2:0 "SNCF 150P"
  FRA_train_equipment_2_short:0 "SNCF 150P"
  FRA_train_equipment_2_desc:0 "The powerful 2-10-0 locomotives designed for heavy ore and freight trains were soon redesigned to be cheaply produced and able to be widely used across the French railway network."
- # SNCF Class 241P:
  FRA_train_equipment_3:0 "SNCF 241P"
  FRA_train_equipment_3_short:0 "SNCF 241P"
  FRA_train_equipment_3_desc:0 "A 4-8-2 ‘Mountain’ type locomotive originally designed for express passenger service from Paris to Marseille, the high horsepower of the locomotive suited it for being converted into pulling armoured supply trains to the frontlines."
-
  FRA_railway_gun_equipment_1:0 "Obusier de 400 Modèle 1915/1916"
  FRA_railway_gun_equipment_1_short:0 "Obusier de 400 M1915"
  FRA_railway_gun_equipment_1_desc:0 "Converted from existing naval guns during the Great War, the Obusier de 400 remained in service with the Army, and then was taken over by the Armée Populaire."
-
  FRA_gw_armored_car_equipment:0 "파나르 165/175"
  FRA_gw_armored_car_equipment_short:0 "파나르 165/175"
  FRA_armored_car_equipment_1:0 "AM 39 Gendron-Somua"
@@ -4164,7 +4123,6 @@
  GAL_armored_car_equipment_2_desc:0 "Designed by the Hungarian engineer Miklós Straussler, the Model 39 was introduced into service by the K.u.K Army as a support vehicle for its newly organised motorised units. Equipped with a 20mm gun and built mostly by the MAVÁG company, the vehicle was nicknamed by Straussler after Attila's son, \"Csaba\"."
  GAL_armored_car_at_equipment:0 "Lekki łowca samochód pancerny wzór 1939/42"
  GAL_armored_car_at_equipment_short:0 "LŁSP wz. 39/42"
- 
  GLC_train_equipment_1:0 "$AUS_train_equipment_1$"
  GLC_train_equipment_1_short:0 "$AUS_train_equipment_1_short$"
  GLC_train_equipment_1_desc:0 "$AUS_train_equipment_1_desc$"
@@ -4173,8 +4131,6 @@
  GLC_train_equipment_2_desc:0 "$AUS_train_equipment_2_desc$"
  GLC_train_equipment_3:0 "$HUN_train_equipment_3$"
  GLC_train_equipment_3_short:0 "$HUN_train_equipment_3_short$"
- #GLC_train_equipment_3_desc:0 ""
-
  GLC_railway_gun_equipment_1:0 "$AUS_railway_gun_equipment_1$"
  GLC_railway_gun_equipment_1_short:0 "$AUS_railway_gun_equipment_1_short$"
  GAL_rocket_artillery_equipment_2:0 "Wyrzutnia rakietowa wzór 44 'Wyrzutnia Buława'"
@@ -4254,17 +4210,12 @@
  GBP_support_weapons3:0 "엔필드-베르티에 Mk IIIB & ML 3인치 박격포"
  GBP_support_weapons4:0 "엔필드-베르티에 Mk V & ML 4.2인치 박격포"
  GBP_motorized_equipment_1:1 "Austin K5"
- 
  GBP_train_equipment_1:0 "$ENG_train_equipment_1$"
  GBP_train_equipment_1_short:0 "$ENG_train_equipment_1_short$"
- #GBP_train_equipment_1_desc:0 ""
  GBP_train_equipment_2:0 "$ENG_train_equipment_2$"
  GBP_train_equipment_2_short:0 "$ENG_train_equipment_2_short$"
- #GBP_train_equipment_2_desc:0 ""
  GBP_train_equipment_3:0 "$ENG_train_equipment_3$"
  GBP_train_equipment_3_short:0 "$ENG_train_equipment_3_short$"
- #GBP_train_equipment_3_desc:0 ""
-
  GBP_railway_gun_equipment_1:0 "$ENG_railway_gun_equipment_1$"
  GBP_railway_gun_equipment_1_short:0 "$ENG_railway_gun_equipment_1_short$"
  GBP_amphibious_mechanized_equipment_1:0 "테러핀 Mk I"
@@ -4347,17 +4298,12 @@
  GBR_mechanized_equipment_2_short:0 "램 캥거루"
  GBR_mechanized_equipment_3:0 "King Kangaroo"
  GBR_mechanized_equipment_3_short:0 "King Kangaroo"
- 
  GBR_train_equipment_1:0 "$ENG_train_equipment_1$"
  GBR_train_equipment_1_short:0 "$ENG_train_equipment_1_short$"
- #GBR_train_equipment_1_desc:0 ""
  GBR_train_equipment_2:0 "$ENG_train_equipment_2$"
  GBR_train_equipment_2_short:0 "$ENG_train_equipment_2_short$"
- #GBR_train_equipment_2_desc:0 ""
  GBR_train_equipment_3:0 "$ENG_train_equipment_3$"
  GBR_train_equipment_3_short:0 "$ENG_train_equipment_3_short$"
- #GBR_train_equipment_3_desc:0 ""
-
  GBR_railway_gun_equipment_1:0 "$ENG_railway_gun_equipment_1$"
  GBR_railway_gun_equipment_1_short:0 "$ENG_railway_gun_equipment_1_short$"
  GBR_gw_armored_car_equipment:0 "Ruskin Rover"
@@ -4750,19 +4696,15 @@
  GER_armored_car_at_equipment:0 "Schwerer Panzerspähwagen, Sonderkraftfahrzeug 234/2"
  GER_armored_car_at_equipment_short:0 "Sd.Kfz. 234/2"
  GER_armored_car_at_equipment_desc:0 "A respectable armoured car, the Sd.Kfz.234/2 (also known as 'Puma') presents great speed and a significant 50 mm KwK.39/1 cannon. With improved frontal armour and formidable main gun, the car can traverse into volatile areas that are generally restricted to other like-minded vehicles. Being the greatly improved variant of the Sd.Kfz.234, the 'Puma' is intended to be used in a 6-strong platoon as a support vehicle. More often, though, commanders use the Sd.Kfz. 234/2 as fast tank hunters."
- 
  GER_train_equipment_1:0 "K.Bay.Sts.B. S 3/6 L"
  GER_train_equipment_1_short:0 "Bayern S 3/6 L"
  GER_train_equipment_1_desc:0 "A proven express locomotive in service with the Royal Bavarian State Railways, the S 3/6 is widely ordered by other state railway companies. To improve fuel efficiency, the Series L was made and brought into widespread service across German and Reichspakt railways."
- # DRB Class 52 :
  GER_train_equipment_2:0 "Preu. Sts.B. G 13"
  GER_train_equipment_2_short:0 "Prussian G 13"
  GER_train_equipment_2_desc:0 "Designed with the experience of operating the Prussian G 12 locomotives in the Great War and prioritising ease of manufacture, a long service life and ease of maintenance, the G 13 was the answer. It could haul up to 40% more freight than the other locomotives they were replacing, and were cheaper to produce."
- # DRB Class 52 but now they’re armoured:
  GER_train_equipment_3:0 "Preu. Sts.B. G 13 Pz."
  GER_train_equipment_3_short:0 "Prussian G 13 P"
  GER_train_equipment_3_desc:0 "As railways started to be attacked by enemy aircraft, new locomotives to serve on the fronts need to be able to take hits from up to 20mm cannons. To protect the locomotive for service against air attack, some Prussian G 13 locomotives are fitted with three-inch-thick armour plates along the locomotive to protect the vital parts."
-
  GER_railway_gun_equipment_1:0 "Eisenbahngeschütz 80-cm Kanone"
  GER_railway_gun_equipment_1_short:0 "80-cm K. (E)"
  GER_railway_gun_equipment_1_desc:0 "Specifically designed to destroy heavy fortifications, the 800mm railway gun from Krupp is able to punch through seven metres of reinforced concrete. The gun is supported by two rail carriages and requires special semi-circular tracks to operate."
@@ -5534,14 +5476,12 @@
  HOL_train_equipment_1:0 "NS 3400"
  HOL_train_equipment_1_short:0 "NS 3400"
  HOL_train_equipment_1_desc:0 "The NS 3400 are a class of goods locomotives built by the Dutch Railway’s predecessor HSM. The 0-6-0 locomotives are reliable and easy to maintain, and generally well-liked by the crews."
- # Really a WD 2-8-0 but there is no good alternative:
  HOL_train_equipment_2:0 "NS 4300"
  HOL_train_equipment_2_short:0 "NS 4300"
  HOL_train_equipment_2_desc:0 "As the weight and length of good trains increased significantly, locomotive sizes followed suit. The NS 4300 is one of the first heavy freight locomotives built for the Dutch Railways. The 2-8-0 locomotive had good steam production and power output, good qualities needed for the longer and heavier express goods trains. The class would commonly be used to pull war time goods trains."
  HOL_train_equipment_3:0 "$GER_train_equipment_3$"
  HOL_train_equipment_3_short:0 "$GER_train_equipment_3_short$"
  HOL_train_equipment_3_desc:0 "$GER_train_equipment_3_desc$"
-
  HOL_railway_gun_equipment_1:0 "$GER_railway_gun_equipment_1$"
  HOL_railway_gun_equipment_1_short:0 "$GER_railway_gun_equipment_1_short$"
  HOL_railway_gun_equipment_1_desc:0 "$GER_railway_gun_equipment_1_desc$"
@@ -5652,19 +5592,12 @@
  HUN_armored_car_equipment_2_desc:0 "Designed by the Hungarian engineer Miklós Straussler, the Model 39 was introduced into service by the K.u.K Army as a support vehicle for its newly organised motorised units. Equipped with a 20mm gun and built mostly by the MAVÁG company, the vehicle was nicknamed by Straussler after Attila's son, \"Csaba\"."
  HUN_armored_car_at_equipment:0 "1939/42 Minta könnyű páncélautóvadász"
  HUN_armored_car_at_equipment_short:0 "39/42.M k.pav."
- 
  HUN_train_equipment_1:0 "MÁV Class 424"
  HUN_train_equipment_1_short:0 "MÁV Class 424"
- #HUN_train_equipment_1_desc:0 ""
- # MAV Class 411/Modified USATC S160s:
  HUN_train_equipment_2:0 "MÁV Class 411"
  HUN_train_equipment_2_short:0 "MÁV Class 411"
- #HUN_train_equipment_2_desc:0 ""
- # Fictional:
  HUN_train_equipment_3:0 "MÁV Panzerzug XVI-Klasse"
  HUN_train_equipment_3_short:0 "MÁV Panzerzug XVI"
- #HUN_train_equipment_3_desc:0 ""
-
  HUN_railway_gun_equipment_1:0 "$AUS_railway_gun_equipment_1$"
  HUN_railway_gun_equipment_1_short:0 "$AUS_railway_gun_equipment_1_short$"
  HUN_rocket_artillery_equipment_2:0 "44M rakétavető 'Buzogányvető'"
@@ -6221,13 +6154,11 @@
  JAP_armored_car_equipment_2_short:0 "Kokusan"
  JAP_armored_car_at_equipment:0 "Type 4 Armoured Car"
  JAP_armored_car_at_equipment_short:0 "Type 4 Armoured Car"
- 
  JAP_train_equipment_1:0 "JGR D50 Class"
  JAP_train_equipment_1_short:0 "JGR D50"
- JAP_train_equipment_2:0 "JGR D52 Class"
+ JAP_train_equipment_2:0 "JGR D52"
  JAP_train_equipment_2:0 "JGR D52"
  JAP_train_equipment_3:0 "Type 94"
-
  JAP_railway_gun_equipment_1:0 "Type 90"
  JAP_artillery_equipment_1:0 "95식 75mm"
  JAP_artillery_equipment_1_short:0 "95식 75mm"
@@ -7597,7 +7528,6 @@
  NGF_armored_car_at_equipment:0 "Schwerer Panzerspähwagen, Sonderkraftfahrzeug 234/2"
  NGF_armored_car_at_equipment_short:0 "Sd.Kfz. 234/2"
  NGF_armored_car_at_equipment_desc:0 "A respectable armoured car, the Sd.Kfz.234/2 (also known as 'Puma') presents great speed and a significant 50 mm KwK.39/1 cannon. With improved frontal armour and formidable main gun, the car can traverse into volatile areas that are generally restricted to other like-minded vehicles. Being the greatly improved variant of the Sd.Kfz.234, the 'Puma' is intended to be used in a 6-strong platoon as a support vehicle. More often, though, commanders use the Sd.Kfz. 234/2 as fast tank hunters."
- 
  NGF_train_equipment_1:0 "$GER_train_equipment_1$"
  NGF_train_equipment_1_short:0 "$GER_train_equipment_1_short$"
  NGF_train_equipment_1_desc:0 "$GER_train_equipment_1_desc$"
@@ -7607,7 +7537,6 @@
  NGF_train_equipment_3:0 "$GER_train_equipment_3$"
  NGF_train_equipment_3_short:0 "$GER_train_equipment_3_short$"
  NGF_train_equipment_3_desc:0 "$GER_train_equipment_3_desc$"
-
  NGF_railway_gun_equipment_1:0 "$GER_railway_gun_equipment_1$"
  NGF_railway_gun_equipment_1_short:0 "$GER_railway_gun_equipment_1_short$"
  NGF_railway_gun_equipment_1_desc:0 "$GER_railway_gun_equipment_1_desc$"
@@ -8298,7 +8227,6 @@
  PAP_infantry_equipment_2:0 "SME M38"
  PAP_infantry_equipment_2_short:0 "SME M38"
  PAP_infantry_equipment_2_desc:0 "Following the rejection of its 1938 pattern semi-automatic rifle, the CZ company attempted to market the design to a variety of foreign nations. The Two Sicilies tested the rifle and like the Austrians, found the rifle unreliable in harsh conditions and difficult to disassemble, but sought to redesign the gun to fix its shortcomings. The SME state run electrical company, which had begun to produce and design small arms only a few years prior, was set to the task. The end result, designated the SME M38 upon adoption, while improved over its Czech predecessor, still bears many of the latter's design quirks."
- 
  PAP_train_equipment_1:0 "FS Gruppo 740"
  PAP_train_equipment_1_short:0 "FS Gr. 740"
  PAP_train_equipment_1_desc:0 "Designed by the Adriatic Railways shortly before the nationalisation of the railways in 1905, the 740 Group is a series of 'Consolidation' class locomotives. Built to haul heavy trains on the montainous lines of the Northern Appennine, while keeping a comparatively low axle load of 14 tons to run on older, less frequently mantained tracks, these engines excelled in their task, and were subsequently built in copious number before the Great War. Distributed across the Peninsula to relieve the older pre-nationalisation engines, a good number of those engines ended up in service around Rome, and subsequently remained in our hands."
@@ -8824,20 +8752,15 @@
  RUS_armored_car_equipment_2_short:0 "BA-64"
  RUS_armored_car_at_equipment:0 "Kolyesnaya Samokhodnaya Pushka NAZ-76"
  RUS_armored_car_at_equipment_short:0 "KSP-76"
- 
  RUS_train_equipment_1:0 "Paravoz Tip 1"
  RUS_train_equipment_1_short:0 "Type P1"
  RUS_train_equipment_1_desc:0 "Designed in 1931, the Class P1 replaced many of the American-built Class Ye locomotives serving on the Russian network. In 1936, the locomotive class was fitted with a superheater to improve power output, creating the P1-21 variant. The solid performance of the class quickly led to massive orders and became the most popular locomotive on the Russian network, with workshops built solely for the production of this type."
- # Soviet Class L # Name means “February Road Steam Locomotive”:
  RUS_train_equipment_2:0 "Paravoz Fevralskaya doroga"
  RUS_train_equipment_2_short:0 "Class F"
  RUS_train_equipment_2_desc:0 "Developed at the Kolomna Factory and named after the February Railway connecting Moscow and Petrograd, the Class F locomotives are economical and suited for serving on the vast Russian railway network. Without a trailing wheel set and complicated components, serial production of the type was faster and cheaper  compared to the Type P1."
- # PR-43 armoured train :
  RUS_train_equipment_3:0 "Broneparovoz Obrezets 1940"
  RUS_train_equipment_3_short:0 "BPR-40"
  RUS_train_equipment_3_desc:0 "The BP-35 class of armoured trains are designed to assist infantry in securing train tracks, a crucial chain connecting the vast Russia. Due to the foreseeable war coming, new classes of armoured trains and locomotives were designed, becoming the PR-40 armoured train and the BPR-40 locomotive. Encased in three inches of armour plating, the train would have separate armoured compartments for both anti-aircraft and anti-tank guns, requiring a crew of up to 200 men and weighing over 350 tonnes."
-
- # TM-3-12 :
  RUS_railway_gun_equipment_1:0 "Transportyer Artilleriysky Tip 3 Kalibr 12"
  RUS_railway_gun_equipment_1_short:0 "TA-3-12"
  RUS_railway_gun_equipment_1_desc:0 "Spare naval guns were repurposed and placed upon railway carriages and pressed into service with the Russian Army."
@@ -9468,15 +9391,12 @@
  SIA_light_tank_equipment_1_short:0 "ThorBao.76"
  SIA_light_tank_aa_equipment_1:0 "Rot Torsu Arkartsayarn Type 77"
  SIA_light_tank_aa_equipment_1_short:0 "PorTorOr.77"
- 
  SIA_train_equipment_1:0 "RSR 260 Hanomag"
  SIA_train_equipment_1_short:0 "RSR 260"
  SIA_train_equipment_1_desc:0 "Ordered between 1928-1929 by the Royal State Railway of Siam, the RSR 260 was a class of 4-6-2 (Pacific) locomotive built by Hanomag. These locomotives, which superseded the existing E-Classes commissioned between 1915-1921, serve as the new workhorse of the expanding railway network in Siam for both express and mixed traffic trains."
- #JGR DX50: First Batch 1936-1945, 2nd Batch (CX50) 1942-1943 to replace Hanomags
  SIA_train_equipment_2:0 "RSR 350 Mikado"
  SIA_train_equipment_2_short:0 "RSR 350"
  SIA_train_equipment_2_desc:0 "Also known as Japanese Government Railways DX50 locomotive, these locomotives imported from Japan were the first class of 2-8-2 (Mikado) that became successful within the Siamese service. The RSR later ordered more Mikado standard locomotives to meet railways as well as military demands."
- 
  SIB_infantry_equipment_0:0 "Vintovka Mosina obr.1891"
  SIB_infantry_equipment_0_short:0 "Mosina 1891"
  SIB_infantry_equipment_1:0 "Vintovka Mosina obr.1891/1930"
@@ -9493,7 +9413,6 @@
  SIC_infantry_equipment_3:0 "Selbstladegewehr Modell 40"
  SIC_infantry_equipment_3_short:0 "S.G. 40"
  SIC_infantry_equipment_3_desc:0 "Designed by the Mauser company in response to a desire of the German Army for a self-loading rifle with a backup bolt action, the Selbstladegewehr 40 is a massive leap forward in German small arms design. While initial prototypes were highly inaccurate, heavy, and prone to jamming, the German Heer eventually dropped some of its other specific requirements for the rifle. The end result was the initial prototype with only a few design edits, and it proved effective. As a response to growing tensions on the Italian peninsula, large numbers of these rifles were sent to the Sicilian Armed Forces."
- 
  SIC_train_equipment_1:0 "FS Gruppo 740"
  SIC_train_equipment_1_short:0 "FS Gr. 740"
  SIC_train_equipment_1_desc:0 "Designed by the Adriatic Railways shortly before the nationalisation of the railways in 1905, the 740 Group is a series of 'Consolidation' class locomotives. Built to haul heavy trains on the montainous lines of the Northern Appennine, while keeping a comparatively low axle load of 14 tons to run on older, less frequently mantained tracks, these engines excelled in their task, and were subsequently built in copious number before the Great War. Distributed across the Peninsula to relieve the older pre-nationalisation engines, a good number of those engines ended up in service in Sicily, and subsequently remained in our hands."
@@ -9662,18 +9581,15 @@
  SOV_armored_car_at_equipment:0 "KSP-76"
  SOV_armored_car_at_equipment_short:0 "KSP-76"
  SOV_amphibious_tank_equipment_1:0 "T-40"
- 
  SOV_train_equipment_1:0 "Parovoz tip Leninsky"
  SOV_train_equipment_1_short:0 "Type L"
  SOV_train_equipment_1_desc:0 "Designed in 1931, the Class P1 replaced many of the American-built Class Ye locomotives serving on the Russian network. In 1936, the locomotive class was fitted with a superheater to improve power output, creating the P1-21 variant. The solid performance of the class quickly led to massive orders and became the most popular locomotive on the Russian network, with workshops built solely for the production of this type. The class would be renamed the Class L after the Russian Civil War, after Vladimir Lenin, a socialist martyr."
- # Soviet Class L:
  SOV_train_equipment_2:0 "Parovoz Pobeda klass"
  SOV_train_equipment_2_short:0 "Class P"
  SOV_train_equipment_2_desc:0 "Developed at the Kolomna Factory and named after the February Railway connecting Moscow and Petrograd, the Class F locomotives are economical and suited for serving on the vast Russian railway network. Without a trailing wheel set and complicated components, serial production of the type was faster and cheaper compared to the Type P1. The class would be renamed the class P, after Pobeda, or ‘Victory’."
  SOV_train_equipment_3:0 "$RUS_train_equipment_3$"
  SOV_train_equipment_3_short:0 "$RUS_train_equipment_3$"
  SOV_train_equipment_3_desc:0 "$RUS_train_equipment_3$"
-
  SOV_railway_gun_equipment_1:0 "$RUS_railway_gun_equipment_1$"
  SOV_railway_gun_equipment_1_short:0 "$RUS_railway_gun_equipment_1_short$"
  SOV_railway_gun_equipment_1_desc:0 "$RUS_railway_gun_equipment_1_desc$"
@@ -9858,7 +9774,6 @@
  SRD_armored_car_equipment_2_short:0 "AMC-60-H20"
  SRD_gw_tank_equipment:0 "Renault FT"
  SRD_gw_tank_equipment_short:0 "FT"
- 
  SRD_train_equipment_1:0 "FS Gruppo 740"
  SRD_train_equipment_1_short:0 "FS Gr. 740"
  SRD_train_equipment_1_desc:0 "Designed by the Adriatic Railways shortly before the nationalisation of the railways in 1905, the 740 Group is a series of 'Consolidation' class locomotives. Built to haul heavy trains on the montainous lines of the Northern Appennine, while keeping a comparatively low axle load of 14 tons to run on older, less frequently mantained tracks, these engines excelled in their task, and were subsequently built in copious number before the Great War. Distributed across the Peninsula to relieve the older pre-nationalisation engines, a good number of those engines ended up hauling trains on the Sardinian Dorsal Railway, and subsequently remained in our hands."
@@ -9975,7 +9890,6 @@
  SRI_super_heavy_tank_equipment_1_short:0 "Il Duce"
  SRI_modern_tank_equipment_1:0 "M31/45"
  SRI_modern_tank_equipment_1_short:0 "M31/45"
- 
  SRI_train_equipment_1:0 "FS Gruppo 625"
  SRI_train_equipment_1_short:0 "FS Gr. 625"
  SRI_train_equipment_1_desc:0 "Designed in two batches by the Adriatic Railways in 1903 and the National Railways in 1909, the 625 Group are 'Mogul' class multirole engines built in Germany before the Great War. These engines were equipped with the 'Italian Bogie', a special frontal bogie designed to run on low radius bends on older lines, as well as the Caprotti valve gear. With the Northwestern lines and the Porrettana line between Bologna and Florence being rapidly electrified in the three-phase AC system, the 625 Group was dispatched to Turin to service the remaining lines, where it remained after the war, remaining in our hands."
@@ -10400,10 +10314,8 @@
  TEX_armored_car_at_equipment:0 "Armored Car, Model 1941A1"
  TEX_armored_car_at_equipment_short:0 "M1941A1 Armored Car"
  TEX_armored_car_at_equipment_desc:0 "The M1941 Armoured Car was developed by the Ford Motor Company. It was one of two designs submitted to meet a 1941 Ordnance Department requirement for a medium armoured car. Heavier than M1942 and designed around a 57-mm gun the car was adopted as the Army's first true anti-tank car."
- 
  TEX_train_equipment_1:0 "Pennsylvania I1s Class"
  TEX_train_equipment_2:0 "USATC S160 Class"
-
  TEX_railway_gun_equipment_1:0 "8-inch Mk. VI"
  TEX_artillery_equipment_1:0 "Field Gun, 75-mm, Model 1897A2"
  TEX_artillery_equipment_1_short:0 "M1897A2 75mm 야포"
@@ -10731,19 +10643,14 @@
  UKR_armored_car_equipment_2_short:0 "Sd. Kfz. 234"
  UKR_armored_car_at_equipment:0 "Schwerer Panzerspähwagen, Sonderkraftfahrzeug 234/2"
  UKR_armored_car_at_equipment_short:0 "Sd.Kfz. 234/2"
- 
  UKR_train_equipment_1:0 "K.Bay.Sts.B. S 3/6 Ukr."
  UKR_train_equipment_1_short:0 "Bayern S 3/6 Ukr."
  UKR_train_equipment_1_desc:0 "A modified variant of the Bayern S 3/6 L, the locomotive would largely be manufactured by the Ukrainische Machinenbaugesellschaft Hartmann in Lugansk."
  UKR_train_equipment_2:0 "Preu. Sts.B. G 13 Ukr."
  UKR_train_equipment_2_short:0 "Prussian G 13 Ukr."
- #UKR_train_equipment_2_desc:0 ""
  UKR_train_equipment_3:0 "$GER_train_equipment_3$"
  UKR_train_equipment_3_short:0 "$GER_train_equipment_3_short$"
- #UKR_train_equipment_3_desc:0 ""
-
  UKR_railway_gun_equipment_1:0 "TM-3-12"
- #UKR_railway_gun_equipment_1_short:0 ""
  UKR_railway_gun_equipment_1_desc:0 "Built from the salvaged naval guns of the Imperatritsa Mariya, the guns were put on a gun platform and pressed into service."
  UKR_artillery_equipment_1:0 "10,5-cm leichte Feldhaubitze Modell 33"
  UKR_artillery_equipment_1_short:0 "10,5-cm le.F.H. 33"
@@ -10806,7 +10713,6 @@
  UKR_super_heavy_tank_equipment_1_short:0 "P-VIII Cherepakha"
  UKR_modern_tank_equipment_1:0 "Modulnyj Panz I Horlytsia"
  UKR_modern_tank_equipment_1_short:0 "MP-I Horlytsia"
- 
  NIR_infantry_equipment_0:0 "No.1 Mk III 소총"
  NIR_infantry_equipment_0_short:0 "No.1 Mk III"
  NIR_infantry_equipment_1:0 "마우저 98b"

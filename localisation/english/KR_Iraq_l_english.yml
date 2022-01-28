@@ -27,17 +27,15 @@
  yasin_concedes:0 "라쉬드 알-가일라니가 내각의 일원임"
  yasin_concedes_NOT:0 "라쉬드 알-가일라니가 내각의 일원이 아님"
  taha_concedes:0 "타하 알-하쉬미가 부족 집단들과 동맹을 결성"
+ taha_concedes_NOT:0 "Taha al-Hashimi does not form an alliance with tribal elements"
  irq_iran_help_effect_tt:0 "§g문타피크 부대가 목표를 달성할 확률을 크게 높일 것입니다.§!\n"
  irq_remove_old_reforms_tt:0 "§R새 정부가 전임자들이 입안한 많은 개혁을 폐지하고,§! §r다음과 같은 효과를 불러옴:§!\n"
  irq_remove_society_eradicating_illiteracy_tt:0 "§Y심각한 빈곤§! 변동치\n연구 속도: §R-10%§!\n"
  irq_remove_reform_electoral_system_tt:0 "§Y만연한 부패§! \n매일 정치력 획득: §G+0.30§!\n소비재: §Y+10%§!\n안정도: §G+10%§!\n건설 속도: §R-5%§!\n"
  irq_remove_Modern_Family_Laws_tt:0 "§Y종파 분열§! 변동치\n안정도: §R-5%§!\n\n§Y만연한 부패§! 변동치\n소비재: §Y+5%§!"
- 
-### Cosmetic Tags ###
  IRQ:0 "이라크"
  IRQ_ADJ:0 "이라크"
  IRQ_DEF:0 "이라크"
-
  IRQ_totalist:0 "이라크 사회주의 공화국"
  IRQ_totalist_ADJ:0 "이라크"
  IRQ_totalist_DEF:0 "이라크 사회주의 공화국"
@@ -47,11 +45,9 @@
  IRQ_radical_socialist:0 "이라크 사회주의 공화국"
  IRQ_radical_socialist_ADJ:0 "이라크"
  IRQ_radical_socialist_DEF:0 "이라크 사회주의 공화국"
-
  IRQ_federation:0 "아랍 연방"
  IRQ_federation_ADJ:0 "아랍"
  IRQ_federation_DEF:0 "아랍 연방"
-
  IRQ_federation_totalist:0 "아랍 노동자연맹"
  IRQ_federation_totalist_ADJ:0 "아랍"
  IRQ_federation_totalist_DEF:0 "아랍 노동자연맹"
@@ -102,11 +98,9 @@
  IRQ_paternal_autocrat_party_long:0 "Nadi al-Muthanna"
  IRQ_national_populist_party:0 "알-무탄나 단체"
  IRQ_national_populist_party_long:0 "알-무탄나 단체"
- IRQ_Arab_League:0 "아랍국가연맹"
- 
  IRQ_saadun_party:0 "al-Sa'adun"
  IRQ_saadun_party_long:0 "al-Sa'adun"
-
+ IRQ_Arab_League:0 "아랍국가연맹"
  IRQ_Arab_League_desc:0 "공통의 언어를 사용하는 아랍 민족은 항상 자신들이 살던 제국 내에서 뚜렷한 집단을 형성해 왔습니다. 하지만 일부 사람들은 이런 형태의 연결성은 충분히 강력하지 않으며, 위대한 칼리프의 시대에서 그랬듯 하나로 재통합하는 것이 아랍 세계의 운명이라고 생각합니다. 그들은 통일된 아라비아를 만들어 낸다면 아대륙 전체가 마침내 진정한 르네상스를 경험하고 세계 정치에서 자리를 되찾을 것이라고 믿습니다.\n\n재통일을 앞당기기 위해서 초국가적 기구 (§Y아랍국가연맹§!)이 창설되었고 상당한 권한을 부여받았습니다. 하지만 범아랍 국가라는 꿈이 이루어지기 위해서는 다른 아랍 국가들이 자신의 주권을 일부 포기하고 우리의 계획에 동참하도록 설득해야 합니다."
  IRQ_invite_LOA:0 "아랍국가연맹에 [FROM.GetName] 초대"
  IRQ_Integrate_Arab_Federation:0 "[From.GetName] 통합"
@@ -145,6 +139,7 @@
  IRQ_Tarrif_Law:0 "이라크 관세법"
  IRQ_Industrial_Bank:0 "이라크 산업은행"
  IRQ_Agricultural_Bank:0 "이라크 농업은행"
+ IRQ_Road_Building:0 "Iraqi Infrastructure Effort"
  IRQ_National_Board_Supplies:0 "국가보급위원회"
  IRQ_Bomber_Focus:0 "이라크 공군 폭격기 계획"
  IRQ_Fighter_Focus:0 "이라크 공군 전투기 계획"
@@ -444,7 +439,6 @@
  irqfor.6.t:0 "[FROM.GetName]측이 우리의 제안을 거절하다"
  irqfor.6.d:0 "이라크 국가와 관련된 어떤 협력 관계도 원치 않았던 [FROM.GetName] 정부는 연맹에 가입하라는 제안을 거절했고, 자체적으로 계속해 나가겠다고 밝혔습니다."
  irqfor.6.a:0 "매우 유감스럽군."
-### Characters ###
  IRQ_yasin_al_hashimi:0 "Yasin al-Hashimi"
  IRQ_taha_al_hashimi:0 "Taha al-Hashimi"
  IRQ_rashid_al_gaylani:0 "Rashid al-Gaylani"
@@ -453,4 +447,3 @@
  IRQ_yusuf_salman_yusuf:0 "Yusuf Salman Yusuf"
  IRQ_ajami_al_saadun:0 "Ajami al-Sa'adun"
  IRQ_kamil_shabib:0 "Kamil Shabib"
-

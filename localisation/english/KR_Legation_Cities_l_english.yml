@@ -3,12 +3,10 @@
  LEC_FRANCIS_FESTING_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L\nAugust 28th, 1902\nDublin, United Kingdom\n§YMilitary Career:§L\nGraduated from Sandhurst in 1921. Festing was looking at a promising career in the British Indian Army or at Eastern Command, having served as Aide-de-Camp to John Burnett-Stuart, former General Officer Commanding, Madras District right up until the even of the revolution. Now like most of the British officer corps who lacked a Syndicalist bent he finds himself drifting between the old colonies. Lacking the budget to commission him the Empire elected not have him continue service in any of the extant dominions and thus he has wound up living with old army chums in Shanghai, where there's nobody to tell you to stop wearing the old uniform and a good chance of a stiff gin in the morning."
  LEC_WILLIAM_FAIRBAIRN_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L\nFebruary 28th, 1885\nRickmansworth, United Kingdom\n§YMilitary Career:§L\nA former Royal Marine and police officer in one of Shanghai's red light districts, William Ewart Fairbairn is most notable for his frankly frightening collection of scars accumulated from hundreds of street fights in the line of duty and for organising the SMP's specialist anti-riot squad. Known as "Dangerous Dan" Fairbairn is a master of boxing, wrestling, savate, jiujutsu, judo and kung fu, which he has used to develop his own style of combat known as Defendu. According to police records he has over 500 confirmed non-training fights both armed and unarmed under his belt, as well as a custom-made bullet-proof vest designed to stop bullets from a 7.63×25mm Mauser. He now spends most of his time encouraging other members of the Volunteer Corps to remember the basics of CQC."
  LEC_REGINALD_TYRWHITT_NAVY_DESC:0 "§YAdmiral Description\n§YBorn:§L\nMay 10th, 1870\nOxford, United Kingdom\n§YNaval Career:§L\nEnrolled as a cadet on the HMS Britannia in 1883, Sir Reginal Yorke Tyrwhitt rose through the ranks and eventually served during the Weltkrieg as commander of the Harwich Force, the squadron which fired the first shots of the war in 1914. Its most famous action under Tyrwhitt's command was the Cuxhaven raid, where sea-planes played a key role in attacking a German port from the air and escaping with no casualties. Tyrwhitt's only major blemish is his commendation of Captain John Knowles Im Thurn prior to his mismanagement causing the Plymouth Riots in 1925. Holding the position of Commander-in-Chief, China, in 1926 during the Northern Expedition Tyrwhitt is at least partially responsible for the evacuation of British forces to Australia and the subsequent "protection" of Hong Kong by the Germans, an act for which he has never quite been forgiven by his fellow Britons."
- 
  vickers_armstrong_lec:0 "Vickers-Armstrong"
  shanghai_electric:0 "Shanghai Electric Company"
  jiangnan_shipyard:0 "Jiangnan Shipyard"
  yungli_chemical:0 "Yungli Chemical Company"
-
  LEC_currency_1:0 "외환보유량 - 고갈"
  LEC_currency_1_desc:0 "공사관 도시의 외환보유량은 공사관위원회와 공부국이 합법 혹은 불법적으로 보유하고 있는 유동 현금과 자산을 나타내는 지표입니다. 위원회는 이제 파산했고, 각국의 정치권이 붕괴하는 공사관 도시들로부터 가능한 많은 걸 차지하려 들면서 안정도는 급속히 낮아지고 있습니다."
  LEC_currency_2:0 "외환보유량 - 빈곤"
@@ -728,7 +726,7 @@
  lec.71.d.AST:0 "[FROM.GetNameDefCap] has taken advantage of our withdrawal from the Entente to occupy Hong Kong. With Australasia grappling with unrest, it seems this is the end of the British presence in China."
  lec.71.d.LEC:0 "[FROM.GetNameDefCap] has occupied Hong Kong, unwilling to let such a major city fall into the hands of the British or Germans. While this is a blow to the Mandate, we can do nothing about this now."
  lec.71.a:0 "Whatever."
- lec.71.b:0 "Awful!" 
+ lec.71.b:0 "Awful!"
  lec.72.t:0 "The Collapse of the Legation Council's Government"
  lec.72.d:0 "As chaos overtakes Shanghai in the wake of the Council's decision to end the Mandate, our troops trapped in Shanghai are left without orders. The Japanese are making moves to occupy the city, but we don't know what they'll do yet. It seems they are moving to occupy the docks to wait for reinforcements, so some suggest our troops try to beat them there and secure supply lines. Others suggest that we should remain in the central city and defend from there. What should we do?"
  lec.72.a:0 "We must strike first - occupy the docks and the central city!"
@@ -1837,29 +1835,21 @@
  LEC_assemble_usa_gun_stockpile:0 "미제 무기 수입"
  LEC_assemble_ger_arty_stockpile:0 "독일제 대포 수입"
  LEC_assemble_japan_tank_squad:0 "일본제 전차 수입"
- 
-### Country Names ###
  LEC:0 "공사관 도시"
  LEC_ADJ:0 "공사관"
  LEC_DEF:0 "공사관 도시"
-
  LEC_shanghai:0 "상하이"
  LEC_shanghai_ADJ:0 "상하이"
  LEC_shanghai_DEF:0 "상하이"
-
  LEC_china:0 "중국"
  LEC_china_ADJ:0 "중국"
  LEC_china_DEF:0 "중국"
-
- LEC_japanese_shanghai_tag_national_populist:0 "상하이"
- LEC_japanese_shanghai_tag_national_populist_ADJ:0 "상하이"
- LEC_japanese_shanghai_tag_national_populist_DEF:0 "상하이"
  LEC_china_totalist:0 "중화도시코뮌연합"
  LEC_china_totalist_ADJ:0 "도시코뮌연합"
  LEC_china_totalist_DEF:0 "중화도시코뮌연합"
  LEC_china_syndicalist:0 "중화도시코뮌연합"
  LEC_china_syndicalist_ADJ:0 "도시코뮌연합"
- LEC_china_syndicalist_DEF:0 "중화도시코뮌연합" 
+ LEC_china_syndicalist_DEF:0 "중화도시코뮌연합"
  LEC_china_social_democrat:0 "국제위임통치령 중국"
  LEC_china_social_democrat_ADJ:0 "국제위임통치령"
  LEC_china_social_democrat_DEF:0 "국제위임통치령 중국"
@@ -1881,8 +1871,6 @@
  LEC_china_national_populist:0 "국제위임통치령 중국"
  LEC_china_national_populist_ADJ:0 "국제위임통치령"
  LEC_china_national_populist_DEF:0 "국제위임통치령 중국"
-
-### Characters ###
  LEC_tv_soong:0 "T.V. Soong"
  LEC_robert_ho_shai_lai:0 "Robert Ho Shai Lai"
  LEC_nelson_trusler_johnson:0 "Nelson Trusler Johnson"
@@ -1901,4 +1889,3 @@
  LEC_william_ewart_fairbairn:0 "William Ewart Fairbairn"
  LEC_nikolay_fomin:0 "Nikolay Fomin"
  LEC_reginald_yorke_tyrwhitt:0 "Reginald Yorke Tyrwhitt"
-

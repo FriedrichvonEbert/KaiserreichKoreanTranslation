@@ -1,14 +1,10 @@
 ﻿l_english:
-
-### Country Names ###
  CZE:0 "체코"
  CZE_ADJ:0 "체코"
  CZE_DEF:0 "체코"
-
  CZE_habsburg:0 "보헤미아"
  CZE_habsburg_ADJ:0 "보헤미아"
  CZE_habsburg_DEF:0 "보헤미아"
-
  CZE_habsburg_totalist:0 "보헤미아 사회주의 공화국"
  CZE_habsburg_totalist_ADJ:0 "보헤미아"
  CZE_habsburg_totalist_DEF:0 "보헤미아 사회주의 공화국"
@@ -18,11 +14,9 @@
  CZE_habsburg_radical_socialist:0 "보헤미아 사회주의 공화국"
  CZE_habsburg_radical_socialist_ADJ:0 "보헤미아"
  CZE_habsburg_radical_socialist_DEF:0 "보헤미아 사회주의 공화국"
-
  CZE_czechoslavakia:0 "체코슬로바키아"
  CZE_czechoslavakia_ADJ:0 "체코슬로바키아"
  CZE_czechoslavakia_DEF:0 "체코슬로바키아"
-
  CZE_totalist_party:0 "전위대"
  CZE_totalist_party_long:0 "혁명적 전위대"
  CZE_syndicalist_party:0 "연합회"
@@ -49,8 +43,6 @@
  CZE_BOHUSLAV_KOHOUT_ARMY_DESC:0 "§YGeneral Description\nBorn:§L December 5, 1896, in Litomyšl, Bohemia, Austria-Hungary\n§YMilitary Career:§L Bohuslav Kohout was not intending for a military career until the sudden death of his father in 1910. Before being admitted to the Prague Infantry Cadet School two years after the event, he had been an enthusiastic promoter of the scouting movement in the Czech lands. It wouldn’t be until March 1915 that Kohout graduated from the Cadet School and became an infantry platoon commander in June as part of the 20th Landwehr Infantry Regiment fighting in Galicia.\nIn 1916, he was sent to the Italian front as a machine gun platoon commander, then back to the Russian front the year after. In 1918, he transferred to the dragoons, promoted to Rittmeister (cavalry captain) the following year as he proved his skills from his days in the scouting movement. After the war, he stayed in the army, taking part in the re-formation of the Bohemian Landwehr and its cavalry component, and was soon sent to the Kriegsschule in Vienna to gain staff training. In 1925, he was made Major and became heavily involved in the Military Technical Committee of the War Ministry in the imperial capital.\nBy 1931, he was made colonel and began work on a modern handbook for soldiers. In 1933, it was published as "Handbook for Soldiers", originally intended for the Bohemian Landwehr, it was quickly translated, at his own request, into German and Hungarian, and would soon supersede older pre-war handbooks. Unlike the old handbooks, Kohout not only intended to improve the more practical aspects of everyday soldiering, but, being deeply influenced by values and his experiences in the scouting movement, also focused on morale and behaviour. This made the handbook distinct from similar pre-war manuals along with Kohout's intent to reach other ethnicities, hoping to ease ethnic tensions within the Bohemian Landwehr and create a more cohesive force. The work also caught the attention of reformists keen to eliminate the old chauvinistic attitudes rampant among the old guard of the Army and breathe new life into the institution as a multiethnic one. While only a colonel and with experience only leading small units during the war, Handbook for Soldiers is proving to be highly influential, promising to propel Kohout's career to new heights.\n\n\"Find a second German or a Hungarian and learn from them! And teach them too!\""
  CZE_EDUARD_HORAK_ARMY_DESC:0 "§YGeneral Description\nBorn:§L August, 1887, in Bohemia, Austria-Hungary\n§YMilitary Career:§L Little is known of his early life. By 1927, he was a staff officer serving in the Bohemian Landwehr. By 1930, he was promoted to colonel and commanded an infantry regiment. As of 1936, he is head of the Moravian district of the Bohemian Landwehr and is set to be promoted to Major General in the near future."
  CZE_VIKTOR_HOPPE_ARMY_DESC:0 "§YGeneral Description\nBorn:§L April 14, 1874, in Brno, Moravia, Austria-Hungary\n§YMilitary Career:§L Son of the lawyer and politician Bedřich Hoppe, Viktor began his military service after graduating from the Hranice Cadet School in 1895, followed by officer courses in Wels, Upper Austria. In 1900, he retired from active service and became part of the reserve, only to rejoin two years later as a repair officer.\nBy 1914, when the Weltkrieg began, he was head of the personnel department of the Prague military district before moving to the planning department. By then, he was already an informant for the Maffie resistance group, but this association never went further and barely hurt his career once Karl ascended the throne. By 1918, he had reached the rank of lieutenant colonel before being finally transferred from the Prague district to the Armee-Oberkommando (Army High Command) in Vienna. In 1920, he was part of the AOK’s cavalry department and was promoted to colonel, then major general after the war.\nWhile a respected staff officer, his lack of field command during the Weltkrieg makes him a general with little actual experience, and his ties with Czech nationalist organisations makes him distrusted among many German officers and largely forces him to stay within the Bohemian Landwehr."
-
-### Characters ###
  CZE_stanislav_kostka_neumann:0 "Stanislav Kostka Neumann"
  CZE_zdenek_nejedly:0 "Zdeněk Nejedlý"
  CZE_frantisek_soukup:0 "František Soukup"

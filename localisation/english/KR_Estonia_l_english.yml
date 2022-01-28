@@ -207,14 +207,12 @@
  EST_hidden_supply_caches_desc:0 "To ensure that our troops are well supplied in the deep Estonian forests, we will organise systems of hidden supply caches hidden in locations only our soldiers will know. In these caches, soldiers will be able to gather ammunition, guns, and grenades keeping our men supplied while possibly deep under enemy territory."
  EST_never_surrender:0 "Never Surrender"
  EST_never_surrender_desc:0 "The Estonian nation has indeed gone through dark and tragic times throughout its history, but through all the turmoil, blood, sweat, and tears - we are still here as a people. We fight ferociously; we will make them pay tenfold in blood with each inch of our dear Estonian land that they take. We will not stop fighting until victory is ours or until every last Estonian is dead!"
- 
  Riigi_Polevkivitoostus:0 "Riigi Põlevkivitööstus"
  funktechnische_fabrik_reval_est:0 "Raadio-Elektroonika Tehas"
  arsenal_tallinn_est:0 "Arsenal Tallinn"
  Raudteevalitsus:0 "Raudteevalitsus"
  Aviotehas_est:0 "Aviotehas"
  Vene_Balti_laevaehitustehas:0 "Vene-Balti laevaehitustehas"
- 
  EST_agrarian_issue:0 "The Agrarian Issue"
  EST_agrarian_issue_desc:0 "Most Estonians are still farmers, many of whom are still using antiquated equipment and farming techniques. In order to free up additional manpower and better feed our people, including being able to send greater exports abroad, we will need to begin addressing the issues with serious and comprehensive reforms."
  LAT_EST_roads_to_riga:0 "All Roads Lead to Riga"
@@ -397,12 +395,9 @@
  KREST.90.d:0 "Hidden event to have PatAuts stay neutral 50% of the time, and all paths to stay neutral if set to by the game rules.\n\nThe flags added by the neutrality option mean that the decisions to join factions don't appear, and AI Russia won't ask Estonia to join their faction."
  KREST.90.a:0 "Try to join the MA."
  KREST.90.b:0 "Always stay neutral."
- 
-### Country Names ###
  EST:0 "에스토니아"
  EST_ADJ:0 "에스토니아"
  EST_DEF:0 "에스토니아"
-
  EST_totalist:0 "에스토니아 사회주의 공화국"
  EST_totalist_ADJ:0 "에스토니아"
  EST_totalist_DEF:0 "에스토니아 사회주의 공화국"
@@ -412,8 +407,6 @@
  EST_radical_socialist:0 "에스토니아 사회주의 공화국"
  EST_radical_socialist_ADJ:0 "에스토니아"
  EST_radical_socialist_DEF:0 "에스토니아 사회주의 공화국"
-
-### Characters ###
  EST_jaan_anvelt:0 "Jaan Anvelt"
  EST_arnold_sommerling:0 "Arnold Sommerling"
  EST_august_rei:0 "August Rei"
@@ -427,4 +420,3 @@
  EST_jaan_kruus:0 "Jaan Kruus"
  EST_johan_laidoner:0 "Johan Laidoner"
  EST_johan_pitka:0 "Johan Pitka"
-

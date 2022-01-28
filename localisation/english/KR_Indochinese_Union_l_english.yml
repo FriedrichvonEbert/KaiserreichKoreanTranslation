@@ -101,7 +101,6 @@
  INC_People's_Air_Defence_idea:0 "인민대공"
  INC_People's_Air_Defence_idea_desc:0 "Indochina has created a robust network of air defence emplacements and prioritised the construction of new anti-air ordnance. The skies of Indochina are becoming increasingly secure."
  INC_Guerilla_in_the_Air_idea:0 "공중 게릴라"
- INC_Guerilla_in_the_Air_idea_desc:0 ""
  INC_Tank_Pannick_idea:0 "판처 공포"
  INC_Tank_Pannick_idea_desc:0 "Harrowing encounters with German Panzers by Indochinese guerrillas have demoralised many Indochinese soldiers and even occasionally cause rebel forces to route."
  INC_The_Night_Belongs_to_Charlie_idea:0 "찰리의 밤"
@@ -990,11 +989,9 @@
  INC_Special_Relationship_With_France_desc:0 "The Commune of France, the beacon of socialism of the world, bought revolution and liberation to Indochina. Most Indochinese revolutionaries joined revolution in France, and our just cause has been always supported by French comrades. It's only reasonable for us to develop a special relationship with the Commune of France."
  INC_Strengthen_Our_Tie_with_Calcutta:0 "Strengthen Ties With Calcutta"
  INC_Strengthen_Our_Tie_with_Calcutta_desc:0 "Calcutta is the centre of Asian revolution, we should consolidate our friendship with Bharatiya Commune."
- 
  INC:0 "인도차이나"
  INC_ADJ:0 "인도차이나"
  INC_DEF:0 "인도차이나"
-
  INC_totalist:0 "인도차이나 연방"
  INC_totalist_ADJ:0 "인도차이나"
  INC_totalist_DEF:0 "인도차이나 연방"
@@ -1025,11 +1022,9 @@
  INC_social_conservative:0 "인도차이나 연합"
  INC_social_conservative_ADJ:0 "인도차이나"
  INC_social_conservative_DEF:0 "인도차이나 연합"
-
  INC_DAI:0 "베트남"
  INC_DAI_ADJ:0 "베트남"
  INC_DAI_DEF:0 "베트남"
-
  INC_DAI_national_populist:0 "다이비엣 공화국"
  INC_DAI_national_populist_ADJ:0 "비엣"
  INC_DAI_national_populist_DEF:0 "다이비엣 공화국"
@@ -1060,11 +1055,9 @@
  INC_DAI_totalist:0 "인도차이나 연방"
  INC_DAI_totalist_ADJ:0 "인도차이나"
  INC_DAI_totalist_DEF:0 "인도차이나 연방"
- 
  LAO:0 "라오스"
  LAO_ADJ:0 "라오스"
  LAO_DEF:0 "라오스"
-
  LAO_totalist:0 "라오 인민 민주주의 공화국"
  LAO_totalist_ADJ:0 "라오스"
  LAO_totalist_DEF:0 "라오 인민 민주주의 공화국"
@@ -1095,8 +1088,6 @@
  LAO_national_populist:0 "란 상 왕국"
  LAO_national_populist_ADJ:0 "라오스"
  LAO_national_populist_DEF:0 "란 상 왕국"
-
-### Characters ###
  INC_pham_van_dong:0 "Pham Van Dong"
  INC_ta_thu_thau:0 "Ta Thu Thau"
  INC_vo_nguyen_giap:0 "Vo Nguyen Giap"
@@ -1112,8 +1103,5 @@
  INC_nguyen_binh:0 "Nguyen Binh"
  INC_ta_xuan_thu:0 "Ta Xuan Thu"
  INC_tran_van_giang:0 "Tran Van Giang"
-
-### Characters ###
  LAO_sisavang_phoulivong:0 "Sisavang Phoulivong"
  LAO_souphanouvong:0 "Souphanouvong"
-

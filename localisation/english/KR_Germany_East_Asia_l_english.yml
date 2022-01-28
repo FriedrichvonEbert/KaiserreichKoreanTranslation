@@ -492,7 +492,6 @@
  GEA_start_naval_blockade:0 "해군 봉쇄 시작"
  GEA_start_naval_blockade_desc:0 "인터내셔널의 수송선들이 남중국해로 자유롭게 드나들어 인도차이나 반군에게 지원을 보내고 있습니다. 이를 방치해선 안됩니다."
  GEA_shelling_on_Saigon:0 "사이공 포격"
- 
  GEA_reorganise_north_malaya:0 "북말라야 재통합"
  GEA_reorganise_north_malaya_desc:0 "Now that we have gain control over the Northern Malay sultanates, a recreation of the \"Unfederated Malay States\" shall serve as a temporary legal and administrative framework to integrate the local civil services under each individual sultans into a single unit.\n\nThis will give us greater control over these newly annexed territories."
  GEA_reorganise_sumatra:0 "수마트라 재통합"
@@ -511,7 +510,6 @@
  GEA_reorganise_cambodia_desc:0 "Now that we have managed to gain control over the Cambodia, we nay be able to finally split Stung Treng areas from Cochinchina administration to recreate the \"Kingdom of Cambodia\" protectorate.\n\nThis will give us greater control over the newly annexed territories rather than just simply put them under Saigon's."
  GEA_reorganise_laos:0 "Reorganise Laotian Territories"
  GEA_reorganise_laos_desc:0 "Now that we have finally gain full control over Laos, we will need to expand our civil services to cover the newly annexed territories on the other side of Mekong river."
- 
  GEA_Von_Tirpitz_University:0 "Von Tirpitz-Universität"
  GEA_Deutsche_Samoa_Gesellschaft:0 "Deutsche-Samoa Gesellschaft"
  GEA_Schantung_Bergbaugesellschaft:0 "Schantung Bergbaugesellschaft"
@@ -526,10 +524,8 @@
  GEA_Malaiisch_Fluggesellschaft:0 "Malaiische Luft-Reederei"
  GEA_Rumpler_Flugzeugwerke_Ostasien:0 "Rumpler Flugzeugwerke Ostasien"
  GEA_Norddeutscher_Lloyd:0 "Norddeutscher Lloyd Singapur"
- # Scrapped due to lack of icons:
  GEA_Saigon_Werft:0 "Saigon Werft"
  GEA_Germaniawerft:0 "Germaniawerft Saigon"
-
  GEA_colonial_nation:0 "식민 정부"
  GEA_colonial_nation_desc:0 "독일령 동아시아는 제한된 자치권을 가진 식민 정부입니다. 독일령 동아시아는 독일 본토에서 마르크화 예산을 할당받으며, 독일인 권력자에 의해 유지되고 있습니다."
  GEA_colonial_question:0 "식민지 문제"
@@ -592,22 +588,18 @@
  GEA_AOG_bonus_idea_5_desc:0 "우리는 동아시아 일반행정 감사회를 통해 주요 해안 도시 4개를 경제적 영향권에 두고 있습니다:\n- §G광저우§!\n- §G샤먼§!\n- §G원저우§!\n- §G난퉁§!"
  GEA_naval_attache_idea:0 "Ostasien Naval Mission"
  legation_council_member:0 "공사관 위원회의 회원"
- 
  GEA:0 "독일령 동아시아"
  GEA_ADJ:0 "독일령 동아시아"
  GEA_DEF:0 "독일령 동아시아"
-
-### Characters ###
- GEA_felix_von_luckner:0 "Felix von Luckner"
- GEA_hellmuth_von_muecke:0 "Hellmuth von Mücke"
- GEA_prinz_josias_zu_waldeck_und_pyrmont:0 "Prinz Josias zu Waldeck und Pyrmont"
- GEA_friedrich_von_kessinger:0 "Friedrich von Kessinger"
- GEA_hermann_voigt_ruscheweyh:0 "Hermann Voigt Ruscheweyh"
- GEA_erwin_rommel:0 "Erwin Rommel"
- GEA_dietrich_von_saucken:0 "Dietrich von Saucken"
- GEA_fritz_sachsse:0 "Fritz Sachße"
- GEA_fritz_bayerlein:0 "Fritz Bayerlein"
- GEA_otto_ciliax:0 "Otto Ciliax"
- GEA_rudolph_firle:0 "Rudolph Firle"
- GEA_gunther_plueschow:0 "Gunther Plüschow"
-
+ GEA_felix_von_luckner:0 "펠릭스 폰 루크너"
+ GEA_hellmuth_von_muecke:0 "헬무트 폰 뮈케"
+ GEA_prinz_josias_zu_waldeck_und_pyrmont:0 "프린츠 요시아스 추 발데크 운트 퓌르몬트"
+ GEA_friedrich_von_kessinger:0 "프리드리히 폰 케싱거"
+ GEA_hermann_voigt_ruscheweyh:0 "헤르만 포이크트 루셰바이"
+ GEA_erwin_rommel:0 "에르빈 롬멜"
+ GEA_dietrich_von_saucken:0 "디트리히 폰 자우켄"
+ GEA_fritz_sachsse:0 "프리츠 자흐세"
+ GEA_fritz_bayerlein:0 "프리츠 바이에를라인"
+ GEA_otto_ciliax:0 "오토 칠리악스"
+ GEA_rudolph_firle:0 "루돌프 피를레"
+ GEA_gunther_plueschow:0 "군터 플뤼쇼브"

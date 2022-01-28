@@ -1,9 +1,7 @@
 ﻿l_english:
-
  ADA:0 "아다마와"
  ADA_ADJ:0 "아다마와"
  ADA_DEF:0 "아다마와"
-
  ADA_totalist:0 "아다마와 코뮌"
  ADA_totalist_ADJ:0 "아다마와"
  ADA_totalist_DEF:0 "아다마와 코뮌"
@@ -22,19 +20,15 @@
  ADA_national_populist:0 "아다마와 군벌"
  ADA_national_populist_ADJ:0 "아다마와"
  ADA_national_populist_DEF:0 "아다마와 군벌"
-
  ANG:0 "앙골라"
  ANG_ADJ:0 "앙골라"
  ANG_DEF:0 "앙골라"
-
  BOT:0 "보츠나와"
  BOT_ADJ:0 "보츠나와"
  BOT_DEF:0 "보츠나와"
-
  BRD:0 "우룬디"
  BRD_ADJ:0 "우룬디"
  BRD_DEF:0 "우룬디"
-
  BRD_totalist:0 "우룬디 코뮌"
  BRD_totalist_ADJ:0 "우룬디"
  BRD_totalist_DEF:0 "우룬디 코뮌"
@@ -44,11 +38,9 @@
  BRD_radical_socialist:0 "우룬디 코뮌"
  BRD_radical_socialist_ADJ:0 "우룬디"
  BRD_radical_socialist_DEF:0 "우룬디 코뮌"
-
  BRT:0 "바로첼란드"
  BRT_ADJ:0 "바로첼란드"
  BRT_DEF:0 "바로첼란드"
-
  BRT_totalist:0 "바로첼란드 코뮌"
  BRT_totalist_ADJ:0 "바로첼란드"
  BRT_totalist_DEF:0 "바로첼란드 코뮌"
@@ -58,11 +50,9 @@
  BRT_radical_socialist:0 "바로첼란드 코뮌"
  BRT_radical_socialist_ADJ:0 "바로첼란드"
  BRT_radical_socialist_DEF:0 "바로첼란드 코뮌"
-
  CAR:0 "우방기 샤리"
  CAR_ADJ:0 "우방기"
  CAR_DEF:0 "우방기 샤리"
-
  CAR_EMR_social_democrat:0 "샤리 에미르국"
  CAR_EMR_social_democrat_ADJ:0 "샤리"
  CAR_EMR_social_democrat_DEF:0 "샤리 에미르국"
@@ -84,11 +74,9 @@
  CAR_EMR_national_populist:0 "샤리 에미르국"
  CAR_EMR_national_populist_ADJ:0 "샤리"
  CAR_EMR_national_populist_DEF:0 "샤리 에미르국"
-
  CHA:0 "차드"
  CHA_ADJ:0 "차드"
  CHA_DEF:0 "차드"
-
  CHA_totalist:0 "차드 연방"
  CHA_totalist_ADJ:0 "차드"
  CHA_totalist_DEF:0 "차드 연방"
@@ -101,15 +89,12 @@
  CHA_authoritarian_democrat:0 "와다이 제국"
  CHA_authoritarian_democrat_ADJ:0 "와다이"
  CHA_authoritarian_democrat_DEF:0 "와다이 제국"
-
  CMR:0 "카메룬"
  CMR_ADJ:0 "카메룬"
  CMR_DEF:0 "카메룬"
-
  CVG:0 "카보베르데 기니"
  CVG_ADJ:0 "카보베르데"
  CVG_DEF:0 "카보베르데 기니"
-
  CVG_totalist:0 "서아프리카 코뮌"
  CVG_totalist_ADJ:0 "카보베르데"
  CVG_totalist_DEF:0 "서아프리카 코뮌"
@@ -119,11 +104,9 @@
  CVG_radical_socialist:0 "서아프리카 코뮌"
  CVG_radical_socialist_ADJ:0 "카보베르데"
  CVG_radical_socialist_DEF:0 "서아프리카 코뮌"
-
  GHA:0 "가나"
  GHA_ADJ:0 "가나"
  GHA_DEF:0 "가나"
-
  GHA_totalist:0 "황금 해안"
  GHA_totalist_ADJ:0 "황금 해안"
  GHA_totalist_DEF:0 "황금 해안"
@@ -154,11 +137,9 @@
  GHA_national_populist:0 "아샨티"
  GHA_national_populist_ADJ:0 "아샨티"
  GHA_national_populist_DEF:0 "아샨티"
-
  GNA:0 "기니"
  GNA_ADJ:0 "기니"
  GNA_DEF:0 "기니"
-
  GNA_totalist:0 "기니 연방"
  GNA_totalist_ADJ:0 "기니"
  GNA_totalist_DEF:0 "기니 연방"
@@ -171,11 +152,9 @@
  GNA_national_populist:0 "푸타 잘루"
  GNA_national_populist_ADJ:0 "잘루"
  GNA_national_populist_DEF:0 "푸타 잘루"
-
  HAU:0 "하우사란드"
  HAU_ADJ:0 "하우사"
  HAU_DEF:0 "하우사란드"
-
  HAU_totalist:0 "하우사 코뮌연맹"
  HAU_totalist_ADJ:0 "하우사"
  HAU_totalist_DEF:0 "하우사 코뮌연맹"
@@ -200,15 +179,12 @@
  HAU_national_populist:0 "소코토 칼리프국"
  HAU_national_populist_ADJ:0 "소코토"
  HAU_national_populist_DEF:0 "소코토 칼리프국"
-
  IVO:0 "상아 해안"
  IVO_ADJ:0 "상아 해안"
  IVO_DEF:0 "상아 해안"
-
  KBR:0 "보르누"
  KBR_ADJ:0 "보르누"
  KBR_DEF:0 "보르누"
-
  KBR_totalist:0 "보르누 연방"
  KBR_totalist_ADJ:0 "보르누"
  KBR_totalist_DEF:0 "보르누 연방"
@@ -239,11 +215,9 @@
  KBR_national_populist:0 "보르누 에미르국"
  KBR_national_populist_ADJ:0 "보르누"
  KBR_national_populist_DEF:0 "보르누 에미르국"
-
  KIV:0 "키부"
  KIV_ADJ:0 "키부"
  KIV_DEF:0 "키부"
-
  KIV_totalist:0 "보요만 코뮌"
  KIV_totalist_ADJ:0 "보요만"
  KIV_totalist_DEF:0 "보요만 코뮌"
@@ -274,19 +248,15 @@
  KIV_national_populist:0 "키부국"
  KIV_national_populist_ADJ:0 "키부"
  KIV_national_populist_DEF:0 "키부국"
-
  KEN:0 "케냐"
  KEN_ADJ:0 "케냐"
  KEN_DEF:0 "케냐"
-
  KEN_KIK:0 "키쿠유란드"
  KEN_KIK_ADJ:0 "키쿠유"
  KEN_KIK_DEF:0 "키쿠유란드"
-
  KTG:0 "카탕가"
  KTG_ADJ:0 "카탕가"
  KTG_DEF:0 "카탕가"
-
  KTG_totalist:0 "카탕가 생디칼 공화국"
  KTG_totalist_ADJ:0 "카탕가"
  KTG_totalist_DEF:0 "카탕가 생디칼 공화국"
@@ -308,15 +278,12 @@
  KTG_national_populist:0 "룬다국"
  KTG_national_populist_ADJ:0 "룬다"
  KTG_national_populist_DEF:0 "룬다국"
-
  MAD:0 "마다가스카르"
  MAD_ADJ:0 "말라가시"
  MAD_DEF:0 "마다가스카르"
-
  MLI:0 "말리"
  MLI_ADJ:0 "말리"
  MLI_DEF:0 "말리"
-
  MLI_totalist:0 "말리 코뮌"
  MLI_totalist_ADJ:0 "말리"
  MLI_totalist_DEF:0 "말리 코뮌"
@@ -326,11 +293,9 @@
  MLI_radical_socialist:0 "말리 코뮌"
  MLI_radical_socialist_ADJ:0 "말리"
  MLI_radical_socialist_DEF:0 "말리 코뮌"
-
  MLW:0 "니아살랜드"
  MLW_ADJ:0 "니아살랜드"
  MLW_DEF:0 "니아살랜드"
-
  MLW_totalist:0 "말라위 사회주의 공화국"
  MLW_totalist_ADJ:0 "Malawian"
  MLW_totalist_DEF:0 "말라위 사회주의 공화국"
@@ -343,59 +308,45 @@
  MLW_national_populist:0 "마라비국"
  MLW_national_populist_ADJ:0 "마라비"
  MLW_national_populist_DEF:0 "마라비국"
-
  MRT:0 "모리타니"
  MRT_ADJ:0 "모리타니"
  MRT_DEF:0 "모리타니"
-
  MRT_national_populist:0 "트라르자 에미르국"
  MRT_national_populist_ADJ:0 "트라르자"
  MRT_national_populist_DEF:0 "트라르자 에미르국"
-
  MZB:0 "모잠비크"
  MZB_ADJ:0 "모잠비크"
  MZB_DEF:0 "모잠비크"
-
  NBL:0 "나미블란드"
  NBL_ADJ:0 "나미블란드"
  NBL_DEF:0 "나미블란드"
-
  NGA:0 "나이지리아"
  NGA_ADJ:0 "나이지리아"
  NGA_DEF:0 "나이지리아"
-
  NGR:0 "니제르"
  NGR_ADJ:0 "니제르"
  NGR_DEF:0 "니제르"
-
  RWA:0 "르완다"
  RWA_ADJ:0 "르완다"
  RWA_DEF:0 "르완다"
-
  SEN:0 "세네감비아"
  SEN_ADJ:0 "세네감비아"
  SEN_DEF:0 "세네감비아"
-
  SEN_national_populist:0 "욜로프국"
  SEN_national_populist_ADJ:0 "욜로프"
  SEN_national_populist_DEF:0 "욜로프국"
-
  SIE:0 "시에라리온"
  SIE_ADJ:0 "시에라리온"
  SIE_DEF:0 "시에라리온"
-
  SUD:0 "수단"
  SUD_ADJ:0 "수단"
  SUD_DEF:0 "수단"
-
  TKE:0 "추아파 군벌"
  TKE_ADJ:0 "추아파"
  TKE_DEF:0 "추아파 군벌"
-
  TOG:0 "토골란트"
  TOG_ADJ:0 "토골란트"
  TOG_DEF:0 "토골란트"
-
  TOG_totalist:0 "토골란트 코뮌"
  TOG_totalist_ADJ:0 "토골"
  TOG_totalist_DEF:0 "토골란트 코뮌"
@@ -408,11 +359,9 @@
  TOG_national_populist:0 "토고"
  TOG_national_populist_ADJ:0 "토고"
  TOG_national_populist_DEF:0 "토고"
-
  TRP:0 "트리폴리타니아"
  TRP_ADJ:0 "트리폴리타니아"
  TRP_DEF:0 "트리폴리타니아"
-
  TRP_totalist:0 "트리폴리타니아 연방"
  TRP_totalist_ADJ:0 "트리폴리타니아"
  TRP_totalist_DEF:0 "트리폴리타니아 연방"
@@ -434,11 +383,9 @@
  TRP_social_conservative:0 "트리폴리타니아 공화국"
  TRP_social_conservative_ADJ:0 "트리폴리타니아"
  TRP_social_conservative_DEF:0 "트리폴리타니아 공화국"
-
  TUN:0 "튀니지"
  TUN_ADJ:0 "튀니지"
  TUN_DEF:0 "튀니지"
-
  TUN_totalist:0 "튀니지 코뮌"
  TUN_totalist_ADJ:0 "튀니지"
  TUN_totalist_DEF:0 "튀니지 코뮌"
@@ -448,15 +395,12 @@
  TUN_radical_socialist:0 "튀니지 코뮌"
  TUN_radical_socialist_ADJ:0 "튀니지"
  TUN_radical_socialist_DEF:0 "튀니지 코뮌"
-
  TZN:0 "동아프리카"
  TZN_ADJ:0 "동아프리카"
  TZN_DEF:0 "동아프리카"
-
  TZN_subject:0 "$OVERLORDADJ$령 동아프리카"
  TZN_subject_ADJ:0 "$OVERLORDADJ$령 동아프리카"
  TZN_subject_DEF:0 "$OVERLORDADJ$령 동아프리카"
-
  TZN_totalist:0 "아자니아"
  TZN_totalist_ADJ:0 "아자니아"
  TZN_totalist_DEF:0 "아자니아"
@@ -466,11 +410,9 @@
  TZN_radical_socialist:0 "아자니아"
  TZN_radical_socialist_ADJ:0 "아자니아"
  TZN_radical_socialist_DEF:0 "아자니아"
-
  UGA:0 "우간다"
  UGA_ADJ:0 "우간다"
  UGA_DEF:0 "우간다"
-
  UGA_social_conservative:0 "부간다"
  UGA_social_conservative_ADJ:0 "부간다"
  UGA_social_conservative_DEF:0 "부간다"
@@ -483,11 +425,9 @@
  UGA_national_populist:0 "부간다"
  UGA_national_populist_ADJ:0 "부간다"
  UGA_national_populist_DEF:0 "부간다"
-
  VOL:0 "오트볼타"
  VOL_ADJ:0 "볼타"
  VOL_DEF:0 "오트볼타"
-
  VOL_totalist:0 "볼타 연방"
  VOL_totalist_ADJ:0 "볼타"
  VOL_totalist_DEF:0 "볼타 연방"
@@ -500,54 +440,30 @@
  VOL_social_democrat:0 "볼타 연방"
  VOL_social_democrat_ADJ:0 "볼타"
  VOL_social_democrat_DEF:0 "볼타 연방"
-
  ZAM:0 "잠베지아"
  ZAM_ADJ:0 "잠베지아"
  ZAM_DEF:0 "잠베지아"
-
  ZZB:0 "잔지바르"
  ZZB_ADJ:0 "잔지바르"
  ZZB_DEF:0 "잔지바르"
-
-### Characters ###
  ANG_monsenhor_alves_da_cunha:0 "Monsenhor Alves da Cunha"
-
-### Characters ###
  BOT_seretse_khama:0 "Seretse Khama"
-
-### Characters ###
  BRD_Mwambutsa_IV:0 "Mwambutsa IV"
-
-### Characters ###
  BRT_Yeta_III:0 "Yeta III"
-
-### Characters ###
  CAR_Barthelemy_Boganda:0 "Barthélemy Boganda"
  CAR_Ben_Aissa:0 "Ben Aissa"
  CAR_Binyamin_I:0 "Binyamin I"
-
-### Characters ###
  CHA_muhammad_urada_ibn_ibrahim:0 "Muhammad Urada ibn Ibrahim"
-
-### Characters ###
  CMR_Alexander_Duala_Bell:0 "Alexander Duala Bell"
  CMR_Karl_Atangana:0 "Karl Atangana"
-
-### Characters ###
  COG_Pedro_VIII_Afonso:0 "Pedro VIII Afonso"
-
-### Characters ###
  CVG_sergio_frusoni:0 "Sérgio Frusoni"
  CVG_martinho_nobre_de_melo:0 "Martinho Nobre de Melo"
-
-### Characters ###
  DAH_Agoli_Agbo:0 "Agoli-Agbo"
  DAH_Basile_Adjou_Moumouni:0 "Basile Adjou Moumouni"
  DAH_Christophe_Soglo:0 "Christophe Soglo"
  DAH_Justin_Ahomadegbe_Tometin:0 "Justin Ahomadégbé-Tomêtin"
  DAH_Sourou_Migan_M_J_Apithy:0 "Sourou-Migan M.J. Apithy"
-
-### Characters ###
  GHA_kojo_botsio:0 "Kojo Botsio"
  GHA_kwame_nkrumah:0 "Kwame Nkrumah"
  GHA_kofi_abrefa_busia:0 "Kofi Abrefa Busia"
@@ -557,54 +473,32 @@
  GHA_komla_agbeli_gbedemah:0 "Komla Agbeli Gbedemah"
  GHA_prempeh_ii:0 "Prempeh II"
  GHA_william_ofori_atta:0 "William Ofori Atta"
-
-### Characters ###
  GNA_louis_placide_blacher:0 "Louis-Placide Blacher"
  GNA_yacine_diallo:0 "Yacine Diallo"
  GNA_tierno_abdourahmani:0 "Tierno Abdourahmani"
  GNA_karamoko_dalen:0 "Karamoko Dalen"
  GNA_reymond_sarif_easmon:0 "Reymond Sarif Easmon"
-
-### Characters ###
  HAU_Malam_Jafar_ibn_Ishaq:0 "Malam Jafar ibn Ishaq"
  HAU_Siddiq_Abubakar_III:0 "Siddiq Abubakar III"
-
-### Characters ###
  IVO_Felix_Houphouet_Boigny:0 "Félix Houphouët-Boigny"
-
-### Characters ###
  KBR_shehu_sanda_kyarimi:0 "Shehu Sanda Kyarimi"
-
-### Characters ###
  KEN_stanley_mathenge:0 "Stanley Mathenge"
  KEN_rea_leakey:0 "Rea Leakey"
-
-### Characters ###
  KIV_Louis_de_Gonzague_Bobozo:0 "Louis de Gonzague Bobozo"
-
-### Characters ###
  KTG_Kitanika_Mabumba_Mushalila:0 "Kitanika Mabumba Mushalila"
  KTG_Pierre_Ryckmans:0 "Pierre Ryckmans"
  KTG_Charles_Tombeur:0 "Charles Tombeur"
  KTG_Armand_Huyghe:0 "Armand Huyghé"
-
-### Characters ###
  MLI_modibo_keita:0 "Modibo Keïta"
  MLI_mamadou_konate:0 "Mamadou Konaté"
  MLI_mamby_sidibe:0 "Mamby Sidibé"
  MLI_emile_belime:0 "Émile Bélime"
  MLI_hamallah_bin_muhammad_al_tishiti:0 "Hamallah bin Muhammad al-Tishiti"
-
-### Characters ###
  MLW_James_Frederick_Sangala:0 "James Frederick Sangala"
  MLW_Hastings_Banda:0 "Hastings Banda"
  MLW_Elliott_Kenan_Kamwana_Achirwa:0 "Elliott Kenan Kamwana Achirwa"
  MLW_George_Simeon_Mwase:0 "George Simeon Mwase"
-
-### Characters ###
  MZB_jose_augusto_da_costa_almeida:0 "José Augusto da Costa Almeida"
-
-### Characters ###
  NGA_Benjamin_Nnamdi_Azikiwe:0 "Benjamin Nnamdi Azikiwe"
  NGA_Humphrey_Chukwuka:0 "Humphrey Chukwuka"
  NGA_Christopher_Earle_Welby_Everard:0 "Christopher Earle Welby-Everard"
@@ -615,46 +509,26 @@
  NGA_Michael_Athokhamien_Imoudu:0 "Michael Athokhamien Imoudu"
  NGA_Samuel_Akisanya:0 "Samuel Akisanya"
  NGA_Edward_Twining:0 "Edward Twining"
-
-### Characters ###
  NGR_boubou_hama:0 "Boubou Hama"
-
-### Characters ###
  RWA_Yuhi_V:0 "Yuhi V"
-
-### Characters ###
  SIE_banja_tejan_sie:0 "Banja Tejan-Sie"
  SIE_george_giffard:0 "George Giffard"
  SIE_lashmer_whistler:0 "Lashmer Whistler"
  SIE_john_karefasmart:0 "John Karefa-Smart"
  SIE_amadu_wurie:0 "Amadu Wurie"
  SIE_mohammad_sanusi_mustapha:0 "Mohammad Sanusi Mustapha"
-
-### Characters ###
  SUD_abd_al_rahman_al_mahdi:0 "Abd al-Rahman al-Mahdi"
  SUD_ali_abd_al_latif:0 "Ali Abd al Latif"
  SUD_el_ferik_ibrahim_abboud:0 "El Ferik Ibrahim Abboud"
-
-### Characters ###
  TKE_Justin_Kokolo:0 "Justin Kokolo"
-
-### Characters ###
  TZN_Muhamed_Husan:0 "Muhamed Husan"
-
-### Characters ###
  UGA_Mutesa_II:0 "Mutesa II"
  UGA_Ignatius_K_Musaazi:0 "Ignatius K. Musaazi"
  UGA_Andrew_Cohen:0 "Andrew Cohen"
-
-### Characters ###
  VOL_nazi_boni:0 "Nazi Boni"
  VOL_henri_guissou:0 "Henri Guissou"
  VOL_joseph_ouedraogo:0 "Joseph Ouédraogo"
  VOL_joseph_conombo:0 "Joseph Conombo"
-
-### Characters ###
  ZAM_Kanyanta:0 "Kanyanta"
  ZAM_Ronald_Storrs:0 "Ronald Storrs"
-
-### Characters ###
  ZZB_Khalifa_II_bin_Harub_Al_Said:0 "Khalifa II bin Harub Al-Said"

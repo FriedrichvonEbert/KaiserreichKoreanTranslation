@@ -1,12 +1,9 @@
 ﻿l_english:
  Anqing_Clique:0 "안경군벌 중점계통도"
- 
-### Country Names ###
  ANQ:0 "안경"
  ANQ_ADJ:0 "안경"
  ANQ_DEF:0 "안경"
-
- ANQ_totalist:0 "안경 군벌"
+ ANQ_totalist:0 "안경군벌"
  ANQ_totalist_ADJ:0 "안경"
  ANQ_totalist_DEF:0 "안경군벌"
  ANQ_syndicalist:0 "안경군벌"
@@ -36,11 +33,9 @@
  ANQ_national_populist:0 "안경군벌"
  ANQ_national_populist_ADJ:0 "안경"
  ANQ_national_populist_DEF:0 "안경군벌"
-
  ANH:0 "안휘"
  ANH_ADJ:0 "안휘"
  ANH_DEF:0 "안휘"
-
  ANH_totalist:0 "안휘성"
  ANH_totalist_ADJ:0 "안휘"
  ANH_totalist_DEF:0 "안휘성"
@@ -71,8 +66,6 @@
  ANH_national_populist:0 "안휘성"
  ANH_national_populist_ADJ:0 "안휘"
  ANH_national_populist_DEF:0 "안휘성"
-
-### Parties ###
  ANQ_totalist_party:0 "국민당"
  ANQ_syndicalist_party:0 "국민당"
  ANQ_radical_socialist_party:0 "국민당"
@@ -84,8 +77,6 @@
  ANQ_authoritarian_democrat_party:0 "안경군벌"
  ANQ_paternal_autocrat_party:0 "안경군벌"
  ANQ_national_populist_party:0 "일관도"
- 
-### Leaders ###
  POLITICS_ANQ_CHEN_TIAOYUAN_DESC:0 "1916년 30살의 천댜오위안은 장쑤 지역 헌병대 지휘관이었습니다. 이런 보잘것없는 경력은 단명한 위안스카이 정권의 적극적인 방해로 이루어졌습니다. 하지만 위안스카이는 군사적 모험을 감행했고 천댜오위안과 같은 여러 젊은 장교들이 들어가고자 노리는 권력 공백을 남겼습니다. 이런 초기 시대 천댜오위안은 장쭝창의 부하로 복무했는데, 둘 사이의 우정은 장쭝창의 규율 부족이 명백해지자 갈라졌습니다. 비슷한 방식으로 천댜오위안의 충성심은 봉천군벌에서 쑨촨팡으로 이동해갔는데, 쑨촨팡은 천댜오위안에게 안후이군 지휘권을 맡기는 방식으로 나름의 감사를 표시했습니다.\n천댜오위안 지배하의 안후이는 독일 감사회의 독일 투자를 거부하는 정책을 추진했습니다. 장쑤나 푸젠의 동지들과는 달리 안후이 지역은 가난에 허덕이면서 산업 혁신을 따라가는 데 실패했습니다. 천댜오위안은 쑨촨팡의 친독일 정책에 적극적인 반감을 드러냈기 때문에 존경과 명예를 얻었습니다. 최근 독일과 쑨촨팡의 이해관계가 밀접하게 연결되면서 천댜오위안은 팔성연합과 쑨촨팡에 대한 신뢰를 완전히 잃어버렸습니다.\n천댜오위안의 군대는 독일에 대한 의존에서 벗어나 팔성연합을 개혁하고 내부 혁신과 반제국주의 군대와 연합을 맺기 위해 독립해 나갔습니다."
  POLITICS_ANQ_CHEN_TIAOYUAN_ARMY_DESC:0 "§Y장군 약력\n§Y출생:§L\n1886년 11월 12일\n청나라 즈리성 안신\n§Y군 경력:§L\n1916년 서른 살의 천댜오위안은 장쑤 지역 헌병대 지휘관이었습니다. 이런 보잘것없는 경력은 단명한 위안스카이 정권의 적극적인 방해로 이루어졌습니다. 하지만 위안스카이는 군사적 모험을 감행했고 천댜오위안과 같은 여러 젋은 장교들이 들어가고자 노리는 권력 공백을 남겼습니다. 이런 초기 시대 천댜오위안은 장쭝창의 부하로 복무했는데, 둘 사이의 우정은 장쭝창의 규율 부족이 명백해지자 갈라졌습니다. 비슷한 방식으로 천댜오위안의 충성심은 봉천군벌에서 쑨촨팡으로 이동해갔는데, 쑨촨팡은 천댜오위안에게 안후이군 지휘권을 맡기는 방식으로 나름의 감사를 표시했습니다.\n천댜오위안 지배 하의 안후이는 독일 감사회의 독일 투자를 거부하는 정책을 추진했습니다. 장쑤나 푸젠의 동지들과는 달리 안후이 지역은 가난에 허덕이면서 산업 혁신을 따라가는데 실패했습니다. 천댜오위안은 쑨촨팡의 친독일 정책에 적극적인 반감을 드러냈기 때문에 존경과 명예를 얻었습니다. 최근 독일과 쑨촨팡의 이해관계가 밀접하게 연결되면서 천댜오위안은 팔성연합과 쑨촨팡에 대한 신뢰를 완전히 잃어버렸습니다.\n천댜오위안의 군대는 독일에 대한 의존으로부터 벗어나 팔성연합을 개혁하고 내부 혁신과 반제국주의 군대와 연합을 맺기 위해 독립해 나갔습니다."
  POLITICS_ANQ_ZHANG_ZHONGLI_ARMY_DESC:0 "§Y장군 약력\n§Y출생:§L\n1883년\n청나라 장쑤성 샤오셴\n§Y군 경력:§L\n장중리는 북양 공화국 시절에 군에 입대했고, 한때 쑨촨팡의 군대에서 여단장과 사단장으로 복무했습니다. 북절 이후 그는 금융업에 뛰어들어 장쑤 지역 민간 정부 관료가 되었고 팔성연합에서 소금세 경찰 지휘관이 되어 꽤나 훌륭하게 업무를 수행했습니다. 누군가 장중리가 국민당 편에 선다고 비난했기 때문에 쑨촨팡은 그를 장쑤에서 안후이로 재배치했고, 이로 인해 장중리는 천댜오위안과 만나 안경 군벌의 주요 인사가 되었습니다."
@@ -236,7 +227,7 @@
  ANQ_can_attack_hnngxc_proqie_tt:0 "평화시 [GXC.GetName](와)과 [HNN.GetName](을)를 공격하기 위한 £decision_icon_small §H결정§!이 해금되었습니다.\n"
  anq_fengtian_guarantee_tt:0 "§H[FNG.GetNameDefCap]§!는 우리의 독립을 보장해줄 것입니다!\n"
  anq_qing_guarantee_tt:0 "§H[QIE.GetNameDefCap]§!은 우리의 독립을 보장해줄 것입니다!\n"
- anq_denounce_fengtian_tt:0 "§R만일 우리가 이러한 방식으로 그들을 비난한다면, 우리는 봉천 정부를 버릴 것입니다. 이로써 안경 군벌은 홀로 남아 취약한 상태에 이를 것입니다. 또한 현재 진행 중인 지원이 중단되며 혼란을 야기할 수 있습니다.§!\n"
+ anq_denounce_fengtian_tt:0 "§R만일 우리가 이러한 방식으로 그들을 비난한다면, 우리는 봉천 정부를 버릴 것입니다. 이로써 안경군벌은 홀로 남아 취약한 상태에 이를 것입니다. 또한 현재 진행 중인 지원이 중단되며 혼란을 야기할 수 있습니다.§!\n"
  anq_abandon_conference_tolerated_tt:0 "§R만일 우리가 회의에 참석하지 않는다면, 이는 봉천 정부를 버리는 것과 마찬가지입니다. 지난번 그들의 전쟁을 지지하지 않는 것은 용인할지 몰라도, 이번에는 그렇지 않을 것입니다. 이로써 안경 군벌은 홀로 남아 취약한 상태에 이를 것입니다. 또한 현재 진행 중인 지원이 중단되며 혼란을 야기할 수 있습니다.§!\n"
  anq_join_front_profengtian_tt:0 "§R우리가 연합전선에 합류한다면, 봉천 정부의 대의를 완전히 저버리게 될 것입니다. 우리는 이 전쟁을 통해 다른 중국 내 동맹들과 함께 하겠지만, 전쟁이 끝나는 즉시 우리는 홀로 서게 될 것입니다.§!\n"
  anq_change_gov_pataut:0 "The government changes to Paternal Autocrat.\n"
@@ -458,9 +449,7 @@
  ANQ_temporary_sanctions_desc:0 "최근 우리가 그들의 제안을 계속해서 거부하자, 청은 우리 영토에서 활동 중인 회사들을 처벌하기로 결정했습니다."
  ANQ_qing_enterprises:0 "청의 사업 투자"
  ANQ_qing_enterprises_desc:0 "최근 우리 정부의 행동은 청의 기업들이 대규모로 우리에 투자하게 했습니다."
- 
  ANQ_temporary_sanctions_qie:0 "Temporary Sanctions"
-
  ANQ_beijing_angry1:0 "청과의 관계가 무너지다"
  ANQ_beijing_angry2:0 "청과의 관계가 무너지다"
  ANQ_beijing_angry3:0 "청과의 관계가 무너지다"
@@ -1555,10 +1544,8 @@
  anq.231.d:0 "The Anqing Clique has officially broken all relations with Fengtian, denouncing them in the process. The leader of the Anqing Clique, Chen Tiaoyuan, has made a public statement saying that [FNG.GetLeader] cannot be trusted and that the [FNG.GetName] represents a step backwards for China. He has not stated exactly why relations broke down, but most likely the [FNG.GetName] could no longer guarantee Anqing's autonomy or compromised too much on the issue of Anti-Concessionism. Chen Tiaoyuan has not indicated if he will support other contenders for the national government, meaning the Anqing Clique stands alone, at least temporarily."
  anq.231.a:0 "We lose an important ally."
  anq.231.b:0 "China remains divided."
- 
- ### Characters ###
- ANQ_zhang_zhongli:0 "Zhang Zhongli"
- ANQ_peng_xuefeng:0 "Peng Xuefeng"
- ANQ_liu_heding:0 "Liu Heding"
- ANQ_shi_zhongcheng:0 "Shi Zhongcheng"
- ANQ_li_shengchun:0 "Li Shengchun"
+ ANQ_zhang_zhongli:0 "장중리"
+ ANQ_peng_xuefeng:0 "펑쉐펑"
+ ANQ_liu_heding:0 "류허딩"
+ ANQ_shi_zhongcheng:0 "스중청"
+ ANQ_li_shengchun:0 "리성춘"

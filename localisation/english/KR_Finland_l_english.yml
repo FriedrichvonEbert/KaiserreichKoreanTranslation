@@ -762,7 +762,6 @@
  finland.132.t:0 "독일이 동맹을 갱신했다"
  finland.132.d:0 "독일 외무부는 격변기를 겪은 후 우리 정부가 안정되었다고 보았고, 우리나라에 대한 우정의 손을 다시 뻗었습니다. 우리는 다시 한번 라이히스팍트의 일원이 되었습니다."
  finland.132.a:0 "우리 안전이 보장되었다."
- 
  nokia:0 "Nokia"
  salora:0 "Salora"
  rikkihappo:0 "Rikkihappo"
@@ -851,7 +850,6 @@
  FIN_red_earth_victory:0 "석간주 연정 집권"
  FIN_agrarian_victory:0 "농업동맹 집권"
  FIN_finland_is_stable:0 "다시금 안정된 핀란드"
- FIN_coalition_broken_up:0 "석간주 연정 붕괴"
  FIN_red_guard_weakening_success:0 "약화된 적위대"
  FIN_red_guard_weakening_fail:0 "강력한 적위대"
  FIN_black_monday_flag:0 "핀란드를 덮쳐온 검은 월요일"
@@ -894,7 +892,6 @@
  FIN:0 "핀란드"
  FIN_ADJ:0 "핀란드"
  FIN_DEF:0 "핀란드"
-
  FIN_totalist:0 "핀란드 사회주의 노동자 공화국"
  FIN_totalist_ADJ:0 "핀란드"
  FIN_totalist_DEF:0 "핀란드 사회주의 노동자 공화국"
@@ -955,8 +952,6 @@
  FIN_greater_finland_totalist:0 "대핀란드"
  FIN_greater_finland_totalist_ADJ:0 "핀란드"
  FIN_greater_finland_totalist_DEF:0 "대핀란드"
- 
-### Characters ###
  FIN_otto_wille_kuusinen:0 "Otto Wille Kuusinen"
  FIN_kullervo_manner:0 "Kullervo Manner"
  FIN_oskari_tokoi:0 "Oskari Tokoi"
@@ -988,4 +983,3 @@
  FIN_vaino_valve:0 "Väinö Valve"
  FIN_eero_rahola:0 "Eero Rahola"
  FIN_svante_sundman:0 "Svante Sundman"
-

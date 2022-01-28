@@ -87,7 +87,6 @@
  AFG_paternal_autocrat_party_long:0 "왕실"
  AFG_national_populist_party:0 "급진 이슬람주의자"
  AFG_national_populist_party_long:0 "급진 이슬람주의자"
- 
  AFG:0 "아프가니스탄"
  AFG_ADJ:0 "아프가니스탄"
  AFG_DEF:0 "아프가니스탄"
@@ -104,11 +103,8 @@
  AFG_national_populist_ADJ:0 "아프가니스탄"
  AFG_national_populist_DEF:0 "아프가니스탄 이슬람국"
  AFG_chaos_tooltip:0 "§g\n이 선택은 국가 전체에 §R혼란§!과 §R불안§!을 초래할 것입니다. 정부가 무너지면, §Y나디르 칸§!이 왕좌를 물려받을 것입니다§!"
- 
-### Characters ###
  AFG_amanullah_khan:0 "Amanullah Khan"
  AFG_mohammed_nadir_khan:0 "Mohammed Nadir Khan"
  AFG_habibullah_kalakani:0 "Habibullah Kalakani"
  AFG_shah_wali_khan:0 "Shah Wali Khan"
  AFG_mohammed_daoud_khan:0 "Mohammed Daoud Khan"
-

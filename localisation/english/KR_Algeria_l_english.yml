@@ -19,12 +19,9 @@
  ALG_paternal_autocrat_party_long:0 "알제리 행동"
  ALG_national_populist_party:0 "알제리 행동"
  ALG_national_populist_party_long:0 "알제리 행동"
- 
-### Country Names ###
  ALG:0 "알제리"
  ALG_ADJ:0 "알제리"
  ALG_DEF:0 "알제리"
-
  ALG_totalist:0 "알제리 공화국"
  ALG_totalist_ADJ:0 "알제리"
  ALG_totalist_DEF:0 "알제리 공화국"
@@ -46,8 +43,6 @@
  ALG_national_populist:0 "자이르"
  ALG_national_populist_ADJ:0 "알제리"
  ALG_national_populist_DEF:0 "자이르"
-
-### Characters ###
  ALG_amar_imache:0 "Amar Imache"
  ALG_belkacem_radjef:0 "Belkacem Radjef"
  ALG_mohammed_bellounis:0 "Mohammed Bellounis"
@@ -58,4 +53,3 @@
  ALG_larbi_ben_mhidi:0 "Larbi Ben M'hidi"
  ALG_youcef_zighoud:0 "Youcef Zighoud"
  ALG_krim_belkacem:0 "Krim Belkacem"
-

@@ -1,10 +1,7 @@
 ﻿l_english:
-
- ### Country Names ###
  BAY:0 "남독일"
  BAY_ADJ:0 "남독일"
  BAY_DEF:0 "남독일"
-
  BAY_totalist:0 "남독일 연방"
  BAY_totalist_ADJ:0 "남독일"
  BAY_totalist_DEF:0 "남독일 연방"
@@ -35,8 +32,6 @@
  BAY_national_populist:0 "남독일 연맹"
  BAY_national_populist_ADJ:0 "남독일"
  BAY_national_populist_DEF:0 "남독일 연맹"
- 
-### Parties ###
  BAY_totalist_party:0 "사회주의인민전선"
  BAY_totalist_party_long:0 "사회주의인민전선"
  BAY_radical_socialist_party:0 "극단주의농민연합"

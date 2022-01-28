@@ -3,7 +3,6 @@
  KUM:0 "쿠물 칸국"
  KUM_ADJ:0 "쿠물"
  KUM_DEF:0 "쿠물 칸국"
-
  KUM_totalist:0 "쿠물 코뮌"
  KUM_totalist_ADJ:0 "쿠물"
  KUM_totalist_DEF:0 "쿠물 코뮌"
@@ -13,11 +12,9 @@
  KUM_radical_socialist:0 "쿠물 코뮌"
  KUM_radical_socialist_ADJ:0 "쿠물"
  KUM_radical_socialist_DEF:0 "쿠물 코뮌"
-
  KUM_HAM:0 "합밀"
  KUM_HAM_ADJ:0 "합밀"
  KUM_HAM_DEF:0 "합밀"
-
  KUM_HAM_totalist:0 "합밀지구"
  KUM_HAM_totalist_ADJ:0 "합밀"
  KUM_HAM_totalist_DEF:0 "합밀지구"
@@ -48,11 +45,9 @@
  KUM_HAM_national_populist:0 "합밀지구"
  KUM_HAM_national_populist_ADJ:0 "합밀"
  KUM_HAM_national_populist_DEF:0 "합밀지구"
-
  KUM_uyghur:0 "위구르스탄"
  KUM_uyghur_ADJ:0 "위구르"
  KUM_uyghur_DEF:0 "위구르스탄"
-
  KUM_uyghur_totalist:0 "위구르 공화국"
  KUM_uyghur_totalist_ADJ:0 "위구르"
  KUM_uyghur_totalist_DEF:0 "위구르 공화국"
@@ -83,11 +78,9 @@
  KUM_uyghur_national_populist:0 "위구르 공화국"
  KUM_uyghur_national_populist_ADJ:0 "위구르"
  KUM_uyghur_national_populist_DEF:0 "위구르 공화국"
-
  KUM_xinjiang:0 "신장"
  KUM_xinjiang_ADJ:0 "신장"
  KUM_xinjiang_DEF:0 "신장"
-
  KUM_xinjiang_totalist:0 "신강 행정부"
  KUM_xinjiang_totalist_ADJ:0 "신장"
  KUM_xinjiang_totalist_DEF:0 "신강 행정부"
@@ -118,11 +111,9 @@
  KUM_xinjiang_national_populist:0 "신강 행정부"
  KUM_xinjiang_national_populist_ADJ:0 "신장"
  KUM_xinjiang_national_populist_DEF:0 "신강 행정부"
-
  KUM_zhongying:0 "합밀"
  KUM_zhongying_ADJ:0 "합밀"
  KUM_zhongying_DEF:0 "합밀"
-
  KUM_zhongying_totalist:0 "합밀군벌"
  KUM_zhongying_totalist_ADJ:0 "합밀"
  KUM_zhongying_totalist_DEF:0 "합밀군벌"
@@ -180,6 +171,7 @@
  POLITICS_BURHAN_SHAHIDI_DESC:0 "§YGeneral\n§Y출생:§L\n1894년 10월 3일\n러시아 제국 카잔현\n§Y정치 경력:§L\nBurhan Shahidi was born in 1894 in the Russian Kazan Governorate to a family whose ancestors had fled from Aksu after a failed peasant uprising during the Qing dynasty. His family was poor and he received little schooling in his early years. In 1912, after the Xinhai Revolution, Burhan accompanied Tatar merchants to Dihua in Xinjiang and worked as an apprentice and store-clerk. In 1914, Burhan was able to apply and receive Chinese citizenship from the Republic of China on account of his family's ancestry. He spoke Uyghur, Mandarin Chinese, Russian, Turkish and some Arabic and acted as the interpreter for Xinjiang Governor Yang Zengxin. Burhan's relations to the Turkic community soured as a result of working under Yang Zengxin, and fellow Uyghurs began to ostracize Burhan. Burhan's meager position in Yang's administration meant he was unable to mend this distrust, and the Uyghur community's drift towards rebellion alienated Burhan further. Ultimately Burhan choose to attend courses at Baoding Army School starting in 1929, allwoging him to be hired by Yang as both an administrator and officer. Upon Burhan's return to Xinjiang in 1934, he found the administration in decline, and unable to correct the widening gap between the Ughier community and has resigned himself to being an effective public servant under what he considers the best possible administration to industrialize Xinjiang."
  POLITICS_NASIR_SHAH_DESC:0 "Nasir was born and raised to be the new Khan of Kumul for all his life. His family are descendants of Khans from centuries ago, and they have ruled Kumul for just as long. Nasir's father, Masqud Shah, was a brutal authoritarian, which led to rebellions against his leadership in 1907 and 1912. Though these rebellions were crushed, the lingering resentment never went away, and when Nasir succeeded his father in 1930, much of that resentment carried over to Nasir. However, Nasir is not like his authoritarian father, and he is far more open to reform, wanting to give more power to his advisors and the Begs."
  KUM_legacy_masqud:0 "마스쿠드의 유산"
+ KUM_legacy_masqud_desc:0 "Masqud Shah, the previous ruler of the Kumul Khanate, was one of the most autocratic leaders so far in our history. Known for being a constant drunk, raising of the tax and corvée, and complete hate for technology made him highly controversial. This led to the 07' and 12' Uprisings, trying to overthrow him and the khanate itself. Nasīr Shah is now trying to right his father's wrongs in order to get his subjects to approve of his rule, but it will require significant work into the future."
  KUM_reordered_tax:0 "세법 재정리"
  KUM_chinese_immigration:0 "한족이민"
  KUM_rebuild_xinjiang_idea:0 "신강재건"
@@ -624,7 +616,6 @@
  KUM_steppe_scouts_desc:0 "Special divisions, made up of the steppe people, being created would give our divisions better scouting power, speed and reconnaissance."
  KUM_mountainous_province:0 "산악 훈련"
  KUM_mountainous_province_desc:0 "Assigning special brigades of Karakum peoples from the mountains will create uniquely resilient units for combat in our harsh mountain ranges of Xinjiang."
-
  KUM_nasir_shah:0 "Nasir Shah"
  KUM_bashir_shah:0 "Bashir Shah"
  KUM_yulbars_khan:0 "Yulbars Khan"

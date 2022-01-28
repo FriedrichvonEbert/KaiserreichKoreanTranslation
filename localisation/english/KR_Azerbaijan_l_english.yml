@@ -1,10 +1,7 @@
 ﻿l_english:
-
-### Country Names ###
  AZR:0 "아제르바이잔"
  AZR_ADJ:0 "아제르바이잔"
  AZR_DEF:0 "아제르바이잔"
- 
  AZR_totalist:0 "아제르바이잔 사회주의 공화국"
  AZR_totalist_ADJ:0 "아제르바이잔"
  AZR_totalist_DEF:0 "아제르바이잔 사회주의 공화국"
@@ -14,8 +11,6 @@
  AZR_radical_socialist:0 "아제르바이잔 사회주의 공화국"
  AZR_radical_socialist_ADJ:0 "아제르바이잔"
  AZR_radical_socialist_DEF:0 "아제르바이잔 사회주의 공화국"
-
-### Parties ###
  AZR_totalist_party:0 "볼셰비키당"
  AZR_totalist_party_long:0 "볼셰비키당"
  AZR_syndicalist_party:0 "생디칼리스트"
@@ -38,16 +33,12 @@
  AZR_national_populist_party_long:0 "투르크쿠루크당"
  AZR_democratic_coalition:0 "민주연합"
  AZR_democratic_coalition_long:0 "민주연합"
- 
-## Opinion Modifiers ##
  GER_war_aze:0 "바쿠 석유를 두고 교전 중임"
  GER_guarantee_AZR:0 "바쿠 석유 확약"
  GER_back_down_AZR:0 "바쿠 회담 결렬"
  GER_forced_AZR:0 "석유 양보 강요"
  RUS_helped_AZR:0 "우리의 명분을 지지함"
  RUS_didnt_help_AZR:0 "우리의 명분을 지지하지 않음"
- 
-### Characters ###
  AZR_mir_jafar_baghirov:0 "Mir Jafar Baghirov"
  AZR_aliheydar_garayev:0 "Aliheydar Garayev"
  AZR_alsan_bey_sefikurdski:0 "Alsan bey Sefikurdski"
@@ -60,4 +51,3 @@
  AZR_habib_bey_salimov:0 "Habib Bey Salimov"
  AZR_jamshid_nakhchivanski:0 "Jamshid Nakhchivanski"
  AZR_eldar_salmanov:0 "Eldar Salmanov"
-

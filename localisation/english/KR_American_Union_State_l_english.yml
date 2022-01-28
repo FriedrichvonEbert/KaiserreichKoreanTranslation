@@ -1,28 +1,23 @@
 ﻿l_english:
  TEX_focus:0 "미연합국 중점계통도"
-### Country Names ###
  TEX:0 "미국"
  TEX_ADJ:0 "미국"
  TEX_DEF:0 "미국"
-
- TEX_authoritarian_democrat:0 "미주연합"
+ TEX_authoritarian_democrat:0 "미연합국"
  TEX_authoritarian_democrat_ADJ:0 "미국"
- TEX_authoritarian_democrat_DEF:0 "미주연합"
- TEX_paternal_autocrat:0 "미주연합"
+ TEX_authoritarian_democrat_DEF:0 "미연합국"
+ TEX_paternal_autocrat:0 "미연합국"
  TEX_paternal_autocrat_ADJ:0 "미국"
- TEX_paternal_autocrat_DEF:0 "미주연합"
- TEX_national_populist:0 "미주연합"
+ TEX_paternal_autocrat_DEF:0 "미연합국"
+ TEX_national_populist:0 "미연합국"
  TEX_national_populist_ADJ:0 "미국"
- TEX_national_populist_DEF:0 "미주연합"
-
- TEX_ACW:0 "미주연합"
+ TEX_national_populist_DEF:0 "미연합국"
+ TEX_ACW:0 "미연합국"
  TEX_ACW_ADJ:0 "연합"
- TEX_ACW_DEF:0 "미주연합"
-
- TEX_commonwealth_national_populist:0 "미연합국"
+ TEX_ACW_DEF:0 "미연합국"
+ TEX_commonwealth_national_populist:0 "미연방국"
  TEX_commonwealth_national_populist_ADJ:0 "미국"
- TEX_commonwealth_national_populist_DEF:0 "미연합국"
-
+ TEX_commonwealth_national_populist_DEF:0 "미연방국"
  TEX_totalist_party:0 "사회당"
  TEX_totalist_party_long:0 "미국 사회당"
  TEX_syndicalist_party:0 "사회당"
@@ -42,19 +37,11 @@
  TEX_paternal_autocrat_party:0 "비상대권위원회"
  TEX_national_populist_party:0 "은색 군단"
  TEX_national_populist_party_long:0 "미국 은색 군단"
-### Traits ###
- #Huey Long:
  TEX_the_kingfish:0 "킹피쉬"
- #Earl Long:
  TEX_the_brothers_keeper:0 "The Brother's Keeper"
- #Moseley:
  TEX_wall_streets_paladin:0 "Wall Street's Paladin"
- #Lindbergh:
  TEX_head_in_the_clouds:0 "Head in the Clouds"
- #Pelley:
  TEX_rule_of_the_klan:0 "Rule of the Klan"
-
-### Leaders ###
  POLITICS_HUEY_LONG_DESC:0 "Like many people of his stature and personality, Governor Huey Pierce Long is known by many names, although the most common one is \"the Kingfish\". Born to a poor rural family in Louisiana, he clawed and bit his way to a legal career over the course of his life, all while gaining notoriety as one of the most talented legal minds of recent history, and as a dedicated defender of the interests of the poor. Within a shockingly brief time, he was already one of the most famous politicians in Louisiana, and so became one of the youngest governors in its history as a result.\n\nLouisiana would become the model province for a set of programs and policies which would collectively be labelled 'Share Our Wealth'. Long built a vast public services apparatus and an unprecedented system of social spending upon a patronage system which swiftly transformed Louisiana into a dictatorship, with the Long family at the helm. In America's increasingly volatile conditions, however, such forceful measures to help the poor became increasingly popular and thus formed the policy backbone of the America First Party, to whom Louisiana was an ideal to reach towards. Thanks to Long's increasingly wide and fragile reach of contacts and alliances across the whole country, it grew far out of Louisiana, and today, as the United States stand divided, they have all been put to action as a major force in the Second American Civil War.\n\nThe legal scene and the political soapbox are Long's natural waters, not army planning committees and military parades, and unlike the Syndicalists, this was not what he planned from the start - but now that all bets are off, may all enemies of the Kingfish tremble."
  POLITICS_GEORGE_VAN_HORN_MOSELEY:0 "필리핀의 기병 중위에서부터 워싱턴의 장성에 이르기까지 모즐리는 미 육군에서의 40년간의 복무동안 화려한 경력을 자랑합니다. 조지 패튼과 맥아더와 같은 장군들과 함께 복무한 경험은 휴이 롱을 지지하기로 한 그의 마지막 결정과 유대인 음모에 대한 그의 확고한 믿음에 영향을 주었습니다. 결국 모든 형태의 사회주의의 위험에 대한 그의 믿음은 그를 비상대권위원회의 완벽한 대변인으로 만들었습니다. 모즐리가 없었다면 세간에서 말하듯이 그가 연루되었다는 휴이 롱 실종사건에서 비상대권위원회가 휴이 롱을 계승하는 것은 불가능했을 것입니다."
  POLITICS_WILLIAM_DUDLEY_PELLEY:0 "39세의 윌리엄 펠리는 다소 상상력이 모자란 할리우드의 시나리오 작가이자 저널리스트였습니다. 그는 과거에 모험을 즐겼는데 그 대부분은 러시아를 방문하고 반유대주의 팸플릿의 내용을 흡수하는 것으로 이루어집니다. 1933년 그가 은색 군단을 설립했을 때, 펠리는 앵글로-색슨계 백인 우월주의 옹호자이자 호전적인 무당으로 변했습니다. 펠리의 신내림은 그 주변에 믿을 수 있는 동맹들만 남겨지게 했습니다. 그의 조직이 휴이 롱에게 지원받은 이후, 펠리는 같은 부류인 앵글로-색슨 우월주의자인 허버트 W 암스트롱을 만나 펠리-암스트롱 연대를 공식화했습니다. 묵인, 반사회주의, 그리고 기독교 정체성에 대한 믿음은 그의 정권의 근간을 이룹니다."
@@ -812,7 +799,6 @@
  TEX_JERAULD_WRIGHT_NAVY_DESC:0 "§Y제독 설명\n§Y출생:§L 1898년 6월 4일, 미합중국 매사추세트 주 앰허스트\n§Y군사 경력:§L 제롤드 ‘늙은 리톱스’ 라이트는 윌리엄 M. 라이트 소장의 둘째 아들로, 1914년 남북 전쟁 이래로 최연소로 입학한 해군 사관학교 장교 후보생이 되었고, 1917년 졸업했습니다. 그 후 라이트 중위는 벨트크리그 당시 대서양을 정찰하고 수송선을 호위하던 포함 USS 캐스틴에 배속되었으며, 1926년까지 그는 미 해군의 여러 구축함에서 복무했습니다. 1926년 라이트 중위는 포격 부대의 주보조원 자격으로 콜로라도급 전함 USS 메릴랜드에 배속되었습니다. 그는 또한 승진을 거듭하여 콜로라도 전함에서 포격 교실의 교사로 활동하며 포격과 대포에 대해 가르쳤습니다. 라이트 중령은 정찰함대의 펜사콜라급 순양함 USS 솔트레이크시티에 배속되어, 1931년 8월에는 부함장으로, 그리고 1932년 6월부터 1934년 6월까지는 포격 총관리직을 맡았습니다. 라이트 중령은 1934년 6월부터 1936년 6월까지 제 1대대의 대대장으로서 미합중국 해군 사관학교에서 복무하였습니다. 내전이 발발하자, 그는 AFP에 합류하여 해군 소장까지 빠르게 승진했습니다.\n§Y중요 사항:§L- 라이트는 시력 문제로 해군 항공대에서 거절당한 이후로 포격과 대포에 대해 지대한 관심을 가지고 있습니다."
  TEX_JOHN_MCCAIN_NAVY_DESC:0 "§Y제독 설명\n§Y출생:§L 1884년 8월 9일, 미합중국 미시시피 주 캐롤 카운티\n§Y군사 경력:§L 존 시드니 ‘늪’ 맥케인은 대농장주의 아들로, 2년간 미시시피 대학에 다녔고, 그곳에서 피 델타 세타 사교클럽에 가입했습니다. 그 후 그는 형 윌리엄 알렉산더 맥케인이 다녔던 웨스트포인트 육군 사관학교에 가기로 결심했습니다. 입학시험을 연습하기 위해, 그는 미합중국 해군 사관학교의 시험을 쳐보기로 했고, 그가 시험에 합격하자 그곳에 대신 들어가기로 했습니다. 장교 직을 얻은지 얼마 되지 않아, 맥케인은 1907년부터 1909년까지 전함 USS 코네티컷에 배속되어 대백색함대(Great White Fleet)의 세계 항해에 참여하였습니다. 그의 다음 임무는 대서양 소함대로, 해군은 그에게 캘리포니아 주 샌디에이고의 해군 기지에 있으라고 명령했습니다. 1914년부터 1915년까지 태평양 연안과 혼란스러운 멕시코를 순찰하던 중순양함 USS 콜로라도에서 부장과 기술 참모를 담당했습니다. 1915년 9월 그는 태평양 함대의 기함인 중순양함 USS 샌디에이고에 배속되었고, 1918년 말에 맥케인은 항해국으로 보내졌습니다. 1920년대와 1930년대 초반에, 맥케인은 USS 메릴랜드, USS 뉴멕시코, USS 니트로에서 근무했습니다. 그가 지휘하게 된 첫 함정은 USS 시리우스였습니다. 1935년 맥케인은 비행 훈련 학교에 입학했습니다. Graduating at 52 in 1936, he became one of the oldest men to become a naval aviator and in the end of 1936 he became commander the aircraft carrier USS Ranger and he is considered next in the line of promotion to rear admirals.\n§YImportant Notes:§L- His son has been affiliated with AFP in the past."
  TEX_ARTHUR_BRISTOL_NAVY_DESC:0 "§Y제독 설명\n§Y출생:§L 1886년 7월 15일, 미합중국 사우스캐롤라이나 주 찰스턴\n§Y군사 경력:§L 아서 리로이 브리스톨 주니어는 1902년 9월 23일 미합중국 해군 사관학교에 입학하여 1906년 졸업 했습니다. 전노급전함 USS 일리노이에서 2년간 정해진 복무를 마친 후에, 1908년 그는 소위를 임관 받았습니다. 1909년에는 메이플라워호로 옮겨졌고, 대통령 개인 요트에서 일하다가, 1912년부터 1년 반 동안 베를린에서 대사관부 해군 무관을 지냈습니다. 1913년 6월, 그는 고향에 돌아와 새로 건조된 구축함 커밍스를 지휘했습니다. 1년 뒤에는 미합중국 대서양 함대 소속 예비 어뢰 소함대의 테리호와 제2사단의 지휘권을 가졌습니다. 그 후 잠시 동안 구축함 자비스를 지휘했습니다. 1915년 말 브리스톨은 대서양 함대 소속 어뢰 소함대 사령부에서 보좌관 겸 어뢰 참모를 맡았고, 1916년 겨울에는 대서양 함대 소속 구축함 부대 사령관의 보좌관 겸 비서관으로 활동했습니다. 1917년 여름, 그는 대서양 함대 소속 순양함 부대 사령관의 보좌관 겸 비서관이 되었고, 1918년 2월에는 워싱턴에서 일하며 20대 말을 보냈습니다. 1921년 봄에는 마침내 해군 참모 총장실에서 일하게 되었습니다. 로드아일랜드 주 뉴포트의 해군대학에서 학생들을 가르치며 1922년 7월부터 1923년 5월을 보냈고, 그 후 1923년 5월부터 1924년 말까지 학교의 교사들을 지도하는 역할을 담당했습니다. 정찰대 사령관의 보좌관으로서 짧은 항해를 뒤따르고자, 그는 아메리카 해군 훈련에 참여하기 위해 브라질의 리우데자네이루로 향했습니다. 1927년 2월 드레드노트 사우스캐롤라이나로 향하여, 그 다음 해 4월까지 부장으로 근무했습니다. 그 후에는 드레드노트 노스캐롤라이나에서 부장으로 활동했습니다. 1934년 봄에는 전함 테네시의 함장으로 임명되었습니다. 내전이 발발하자 그는 롱의 대의에 합류하여 자신의 전함을 이끌고 뉴올리언스로 왔습니다. 이곳에서 그는 해군 소장으로 승진되었습니다.\n§Y중요 사항:§L- 그가 롱을 지지하고 있음에도 불구하고, 많은 사람들은 자신의 가족 때문에 롱의 편에 섰다고 생각하고 있습니다."
-### Characters ###
  TEX_huey_long:0 "Huey Long"
  TEX_earl_kemp_long:0 "Earl Kemp Long"
  TEX_george_van_horn_moseley:0 "George Van Horn Moseley"

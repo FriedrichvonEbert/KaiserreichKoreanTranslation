@@ -1,10 +1,7 @@
 ﻿l_english:
-
-### Country Names ###
  ASY:0 "아시리아"
  ASY_ADJ:0 "아시리아"
  ASY_DEF:0 "아시리아"
- 
  ASY_totalist:0 "아시리아 연합"
  ASY_totalist_ADJ:0 "아시리아"
  ASY_totalist_DEF:0 "아시리아 연합"
@@ -14,7 +11,6 @@
  ASY_radical_socialist:0 "아시리아 연합"
  ASY_radical_socialist_ADJ:0 "아시리아"
  ASY_radical_socialist_DEF:0 "아시리아 연합"
- 
  ASYK_social_democrat:0 "아시리아 왕국"
  ASYK_social_democrat_ADJ:0 "아시리아"
  ASYK_social_democrat_DEF:0 "아시리아 왕국"
@@ -36,8 +32,6 @@
  ASYK_national_populist:0 "아시리아 왕국"
  ASYK_national_populist_ADJ:0 "아시리아"
  ASYK_national_populist_DEF:0 "아시리아 왕국"
-
-### Parties ###
  ASY_totalist_party:0 "아시리아 사회당"
  ASY_totalist_party_long:0 "아시리아 사회당"
  ASY_radical_socialist_party:0 "아시리아 사회당"
@@ -58,8 +52,6 @@
  ASY_paternal_autocrat_party_long:0 "아시리아 사랑과 통합"
  ASY_national_populist_party:0 "아시리아 사랑과 통합"
  ASY_national_populist_party_long:0 "아시리아 사랑과 통합"
-
-### Ideas ###
  ASY_Technical_Illiteracy:0 "기술적 문맹"
  ASY_Technical_Illiteracy_desc:0 "농부와 부족민의 후손으로 이루어진 인구 구성은 바스라 프로젝트의 주요한 문제들 중 하나입니다. 오스만 교육 체제에서 강제적이고 자발적으로 베재된 우리 국민은 역량 발달 측면에서 크게 뒤쳐졌고, 그렇기 때문에 숙련된 인력도 부족한 상태입니다. 성직자 교육을 받은 아시리아인이 부족하지는 않지만, 기술자와 과학자 그리고 교육자가 심각하게 부족합니다."
  ASY_Poor_Land_Use:0 "심각한 빈곤"
@@ -70,14 +62,12 @@
  ASY_Ethno_Religious_Divide_desc:0 "하부 메소포타미아 평원은 수백년간 아랍 시아파과 수많은 아브라함계 소수종교 분파 운동의 중심지였습니다. 과거 무슬림이 지배했던 지역에 아시리아인의 도래로 인해 권력의 균형이 크게 뒤틀렸습니다. 그리고 레반트에 기독교 국가를 건설하려는 그들의 노력은 원주민 인구의 상당 부분을 무시하는 처사였습니다. 바그다드와의 통합과 종교적 자유의 보장을 열망하는 무슬림 인구는 시위와 의사 방해, 그리고 심지어 하부 메소포타미아 늪지대의 게릴라전을 통해 우리의 목표를 방해하기 때문에 아시리아 정부의 골칫거리가 되어왔습니다."
  ASY_Christian_Division:0 "아시리아인 분열"
  ASY_Christian_Division_desc:0 "칼데아 가톨릭, 네스토리우스파, 프로테스탄트 그리고 가톨릭. 강력한 종교적 권위와 통합이 없는 아시리아인 공동체에서 수년간 너무도 많은 분파 공동체가 떨어져 나갔고, 19세기 동안 계속해서 프랑스와 미국 그리고 영국에서 유입된 선교사들의 활동으로 인해 더욱 심각해졌습니다. 아시리아 동방교회의 마르 시문은 국왕 자리에 오르겠다는 야망을 품고 있으며 다른 집단들은 새로운 아시리아 행정부가 충분한 대표성을 띠지 못한다고 생각합니다. 이런 어려운 와중에도 아시리아가 해야 할 일은 아직도 많습니다."
- 
  ASY_Christian_Division2:0 "아시리아인 분열"
  ASY_Christian_Division2_desc:0 "칼데아 가톨릭, 네스토리우스파, 프로테스탄트 그리고 가톨릭. 강력한 종교적 권위와 통합이 없는 아시리아인 공동체에서 수년간 너무도 많은 분파 공동체가 떨어져 나갔고, 19세기 동안 계속해서 프랑스와 미국 그리고 영국에서 유입된 선교사들의 활동으로 인해 더욱 심각해졌습니다. 아시리아 동방교회의 마르 시문은 국왕 자리에 오르겠다는 야망을 품고 있으며 다른 집단들은 새로운 아시리아 행정부가 충분한 대표성을 띠지 못한다고 생각합니다. 이런 어려운 와중에도 아시리아가 해야 할 일은 아직도 많습니다."
  ASY_Raqa_Raqa:0 "'라카 라카'의 기억"
  ASY_Last_Stand:0 "아수르 최후의 보루"
  ASY_Papal_Support:0 "가톨릭 지원"
  ASY_Papal_Support_desc:0 "아시리아에서 살고 있는 가톨릭 신자들이 로마와 해외에 있는 형제 자매들에게 호소했습니다. 이는 결실을 맺었고 우리의 투쟁을 돕기 위한 지원이 왔습니다!"
- 
  ASY_Technical_Illiteracy2:0 "기술적 문맹"
  ASY_Technical_Illiteracy2_desc:0 "농부와 부족민의 후손으로 이루어진 인구 구성은 바스라 프로젝트의 주요한 문제들 중 하나입니다. 오스만 교육 체제에서 강제적이고 자발적으로 베재된 우리 국민은 역량 발달 측면에서 크게 뒤쳐졌고, 그렇기 때문에 숙련된 인력도 부족한 상태입니다. 성직자 교육을 받은 아시리아인이 부족하지는 않지만, 기술자와 과학자 그리고 교육자가 심각하게 부족합니다."
  ASY_Directorate_Education_Idea:0 "교육부 설립"
@@ -100,14 +90,12 @@
  ASY_Christian_Division4_desc:0 "칼데아 가톨릭, 네스토리우스파, 프로테스탄트 그리고 가톨릭. 강력한 종교적 권위와 통합이 없는 아시리아인 공동체에서 수년간 너무도 많은 분파 공동체가 떨어져 나갔고, 19세기 동안 계속해서 프랑스와 미국 그리고 영국에서 유입된 선교사들의 활동으로 인해 더욱 심각해졌습니다. 아시리아 동방교회의 마르 시문은 국왕 자리에 오르겠다는 야망을 품고 있으며 다른 집단들은 새로운 아시리아 행정부가 충분한 대표성을 띠지 못한다고 생각합니다. 이런 어려운 와중에도 아시리아가 해야 할 일은 아직도 많습니다."
  ASY_Lost_Sons_Assur:0 "아수르의 잃어버린 아들들"
  ASY_Lost_Sons_Assur_desc:0 "수많은 아시리아인들이 옛 오스만 제국을 떠나 어디론가로 더 나은 삶을 살기 위해 이민을 택했습니다. 이제 그들 중 일부가 고향으로 돌아오고 있고, 우리는 두 팔 벌려 저들을 환영할 것입니다."
- 
  ASY_Assyrian_Parliament_Idea:0 "아시리아 의회 개회"
  ASY_Assyrian_Parliament_Idea_desc:0 "총대주교가 비상 대권을 포기하겠다고 선언한 이래로 의회가 설립되고 가능한 한 빨리 선거가 치러졌습니다. 일단 선출된 기구가 설립된다면 정부가 수립될 수 있습니다. 그리고 독립선언 이래로 독재 권력을 쥐고 있던 총대주교가 마침내 권한을 내려놓았으니 이제 불평분자들이 안도의 한숨을 쉬게 되었습니다."
  ASY_Reformed_Bureaucracy:0 "개혁된 관료주의"
  ASY_Assyrian_Constitution:0 "아시리아 헌법"
  ASY_Petrochemical_Union:0 "아시리아 석유화학 연합"
  ASY_Petrochemical_Union2:0 "아시리아 석유화학 연합"
- 
  ASY_Entente_Oil_Concessions:0 "협상국 석유 양보"
  ASY_Ethno_Religious_Divide_CAN:0 "인종적-종교적 분열"
  ASY_Ethno_Religious_Divide_CAN_desc:0 "하부 메소포타미아 평원은 수백년간 아랍 시아파과 수많은 아브라함계 소수종교 분파 운동의 중심지였습니다. 과거 무슬림이 지배했던 지역에 아시리아인의 도래로 인해 권력의 균형이 크게 뒤틀렸습니다. 그리고 레반트에 기독교 국가를 건설하려는 그들의 노력은 원주민 인구의 상당 부분을 무시하는 처사였습니다. 바그다드와의 통합과 종교적 자유의 보장을 열망하는 무슬림 인구는 시위와 의사 방해, 그리고 심지어 하부 메소포타미아 늪지대의 게릴라전을 통해 우리의 목표를 방해하기 때문에 아시리아 정부의 골칫거리가 되어왔습니다."
@@ -131,27 +119,21 @@
  ASY_signaller_corps:0 "통신부대"
  ASY_Assyrian_Army_Idea:0 "아시리아군 창설"
  ASY_Assyrian_Army_Idea_desc:0 "조직되지 않은 민병대는 국가를 보호하는데 그다지 좋은 방식이 아닙니다. 끝없이 계속되는 수많은 자원 입대자 숫자에 감사를 느끼면서도, 다가오는 폭풍에 맞서기 위해서는 전문적인 군대를 발전시켜야 합니다."
- 
-### Tooltips ###
  ASY_expanded_levies_tt:0 "§Y바스라§! 에서 훈련병 숙련도와 1918년형 보병장비를 갖춘 £nato_unit_cavalry_icon_small 1개 §Y기병 사단§!을 획득합니다.\n§Y바스라§! 에서 훈련병 숙련도와 1918년형 보병장비를 갖춘 £nato_unit_cavalry_icon_small 1개 §Y보병 사단§!을 획득합니다.\n\n£GFX_army_experience §G레벨 1 장군§! §YOdisho Moshe§!를 획득합니다."
  ASY_madan_resistance_tt:0 "§Y마다안 저항군§!의 효과가 다음과 같이 변화합니다:\n징병 가능 인구 획득치: §G+5%§!\n사용 가능한 건설 슬롯 변동치: §G+15%§!\n사용 가능한 현지 자원: §G+15%§!\n현지 건설 속도: §G+5%§!"
  ASY_canadian_help_tt:0 "£GFX_army_experience §G레벨 2 장군§! §YHarold Bernard Charles Jones§!를 획득합니다."
  ASY_trucial_state_tt:0 "우리에게 다음과 같은 효과를 부여합니다:\n징집 가능한 인구 양: §G+15%§!\n사용 가능한 건설 공간 수량: §G+50%§!\n사용 가능한 지역 자원: §G+65%§!"
  ASY_gets_ENT_volunteers_tt:0 "Members of the Entente will attempt to send volunteers to aid Assyria."
- 
-### Decisions ####
  ASY_land_reclamation_decisions:0 "토지 개간 사업"
  ASY_land_reclamation_decisions_desc:0 "니네베 평원에 위치한 비옥한 토지에서 쫓겨난 아시리아 이주자들의 삶은 힘겨웠습니다. 세계대전이 끝날 무렵 시행된 대규모 재정착 계획을 통해 티그리스 유프라테스 하류의 늪지대로 강제로 이주당하면서 거주에 부적합하고 질병이 만연하며 까다로운 이 지역이 우리의 새로운 고향이 되었습니다. 수년이 지났고 우리 국민들은 새로운 환경에 적응했습니다. 우리는 농토와 목초지를 개간했고 (시온주의에서 보여준 성벽으로 둘러싼 정착지를 본딴) '칼카스' 마을들을 만들어 냈습니다. 비록 습지 아랍인과 시아파 부족과 같은 바스라 지역 원주민들과 빈번하고 어려운 분쟁이 일어나고 있기는 하지만, 새로운 아시리아를 건설하는 작업은 잘 진행되고 있습니다."
  ASY_Clear_Marsh_Arabs_decision:0 "마다안 영토 징발"
  ASY_Irrigation_decision:0 "관개 계획 시작"
- 
  ASY_al_Qurnah_decision:0 "알-쿠르나 정착촌 확장"
  ASY_az_Zubayr_decision:0 "알-주바이르 정착촌 확장"
  ASY_Cannery_Food_Processing_decision:0 "바스라 통조림 공장과 식품 가공 산업"
  ASY_Dates_decision:0 "대추야자 플랜테이션 개발"
  ASY_Sugar_Cane_decision:0 "사탕수수 플랜테이션 개발"
  ASY_Walled_Settlement_decision:0 "'칼키' 제도 확대"
- 
  ASY_gulf_protectorates_decisions:0 "페르시아 만 지배"
  ASY_gulf_protectorates_decisions_desc:0 "과거에 영국 해군과 유럽 석유 기업이 보호하던 걸프 만에서 갑자기 오스만 해군이 사라지면서 머지 않아 세계에서 가장 중요한 수역 중 하나가 될 가능성이 있는 지역에 힘의 공백이 생겼습니다. 필수적인 자원이 부족한 상황 속에서 유럽을 재정복할 기회를 호시탐탐 노리는 대영제국은 걸프만과 중요한 석유 매장지에 대한 영향력을 회복하는 것을 임무로 삼았습니다."
  ASY_Integrate_Gulf:0 "§Y[From.GetName]§! 보호령 수립"
@@ -414,8 +396,6 @@
  ass.27.a:0 "개자식들!"
  POLITICS_ODISHO_MOSHE_DESC:0 "§Y장군 약력\n§Y출생:§L\n1919\n오디쇼 모셰는 우연히 그 자리에 적절한 시간에 있었기 때문에 자휘관이 된 인물입니다. 랍 캄시(병장)에 불과했던 그는 메소포타미아 지역에 흩어져 살던 아시리아인 부족민들을 하나로 묶는데 성공했습니다. 초기 경력 동안 자신의 카르카스를 방어했던 그는 이후 아시리아 징집병에 합류했으며, 타고난 지휘관으로 보여집니다."
  POLITICS_SHIMUN_ESHAI_XXI_DESC:0 "1908년 2월 26일 남동부 아나톨리아에서 태어난 동방교회 총대주교 마르 에샤이 쉬문 21세는 그의 민족이 겪은 참상을 직접 목격한 인물입니다. 어린 시절에 그는 당시 총대주교였던 삼촌의 후계자로서 자랐지만, 세계대전이 중동에 다다르고 오스만의 아시리아인 박해가 심각해지던 와중에 복수심에 가득 찬 오스만군이 니네베 평원을 재정복한 1919년 고향을 떠날 수 밖에 없었습니다. 삼촌이 죽은 1920년 고작 12세의 나이로 사제 서품을 받은 그를 가족은 브리튼으로 유학보냈고 그는 온갖 노력을 다하며 성공회로부터 지원을 받았습니다. 불과 5년밖에 지나지 않은 시점에 생디칼리스트 혁명가들이 영국 정부를 무너트리면서 그는 또 다시 도망쳤습니다. 바스라에 있는 자신의 민족에게로 돌아온 그는 대재상부와의 협상에서 주도적인 역할을 맡았고 아시리아 민족의 비공식적인 지도자로 활동했습니다. 하지만 표면적인 지도력은 그의 아버지 다비드 마르 쉬문과 이모 수르마 드마르 쉬문의 손 안에 있었습니다. 그가 나이를 먹고 아시리아인에 대한 영향력이 강해지면서, 오스만 정부와 밀레트 체제 하의 공동체 사이에서 공식적인 연락 담당자였기 때문에 더욱 힘을 얻은 그는 공개적으로 독립운동을 지지했고 지하조직 아시리아 사랑과 통합의 일원이 되었습니다. 아시리아 공동체의 자치권을 없애고자 하는 오스만 정부의 중앙집권화 계획에 맞서 싸우고자 하는 그는 독립전쟁동안 공식적 지도자가 되었으며, 이 자리를 잃어버릴 것 같지는 않습니다."
-
-### Characters ###
  ASY_shimun_xxi_eshai:0 "Shimun XXI Eshai"
  ASY_dawid_mar_shimun:0 "Dawid d’Mar Shimun"
  ASY_agha_petros:0 "Agha Petros"

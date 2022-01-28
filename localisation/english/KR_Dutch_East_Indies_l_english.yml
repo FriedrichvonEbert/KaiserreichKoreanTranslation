@@ -882,8 +882,6 @@
  HOLEX_research_focus_desc:0 "Taking on a technological edge on the syndicalists using the technical know-how of our men should be relatively easy. The brightest minds of our nation are here, let us use their talents!"
  HOLEX_war_economy:0 "전시경제"
  HOLEX_war_economy_desc:0 "It is time to ready our economy for war. Undoubtedly, the syndicalists will be doing the same but with their flawed system. We can do better!"
- 
-### Companies ###
  shell_dei:0 "Shell"
  nimef:0 "NIMEF"
  machinefabriek_braat:0 "Machine Fabriek Braat"
@@ -894,7 +892,6 @@
  fokker_dei:0 "Fokker Insulinde"
  koolhoven_dei:0 "Koolhoven Soerabaja"
  kn_rotterdamsche_lloyd:0 "Koninklijke Rotterdamsche Lloyd"
-
  DEI_idea_black_monday:0 "검은 월요일"
  DEI_idea_bypassing_Singapur:0 "Singapur Circumvention"
  DEI_idea_piracy_curtailed:0 "Secure Malacca Strait"
@@ -1177,15 +1174,10 @@
  HolexSyndicalistOrGerman_german:0 " German menace"
  HolexSyndicalistOrGerman_else:0 " 적"
  DEI_parachute_bonus:0 "Parachutist bonus"
- 
-### Country Names ###
  DEI:0 "네덜란드령 동인도"
  DEI_ADJ:0 "네덜란드령 동인도"
  DEI_DEF:0 "네덜란드령 동인도"
-
-### Characters ###
  DEI_bonifacius_de_jonge:0 "Bonifacius de Jonge"
  DEI_alidius_tjarda_van_starkenborgh_stachouwer:0 "Alidius Tjarda van Starkenborgh Stachouwer"
  DEI_nico_palar_name:0 "Nico Palar"
  DEI_abdulkadir_widjojoatmodjo:0 "Abdulkadir Widjojoatmodjo"
-

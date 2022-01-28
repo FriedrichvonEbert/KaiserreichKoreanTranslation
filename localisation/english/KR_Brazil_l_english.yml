@@ -58,7 +58,6 @@
  POLITICS_JURACY_DESC:0 "A respected military man, Juracy gained notoriety by his fast rise in state politics in Bahia. However, the rise of such a notable outsider can usually be explained by loss of popularity and legitimacy by political leadership, and in the case of Bahia, it was the fall from grace of the oligarch JJ Seabra. Now at the helm of the entirety of Brazil as its head of state, a fact no doubt consequential of his immense political clout in his home state, he looks to both improve the economical situation and improve diplomatic ties with non hostile regimes to ensure better trading partners in these chaotic times."
  POLITICS_CARDOSO_MELO_DESC:0 "A paulista born in 1883, José Joaquim Cardoso de Melo Neto has always been an accomplished law and policy-maker. His terms as teacher of law were left behind when he joined politics more intensely after the revolt against Rio in his state in 1927, but he was active in a minor scale for a full decade prior in minor legislatures and activities. Having since been a staple figure in the Brazilian parliament, he now finds himself thrust into the position of president of the entire republic. As the position of his home state and fellow party members is a particularly favourable one, even after the years of chaos since Black Monday, he should have a relatively simple time driving the complex political machine of Brazil."
  POLITICS_CLAUDIO_SANTORO_DESC:0 "Claudio Franco de Sá Santoro was born in Manaus in 1919 and is an extremely renowned musician and composer. His music career began while still young, but his involvement with the Internationale is just as old, as he often found his colleagues involved with syndicalist and leftist organisations even from very early. His longstanding leftist sympathies made his art become quite the partisan affair, but since the establishment of the Union his work has received far greater attention, rather than scorn. Now using his fame in politics, the Manauense seeks to continue the work of his predecessors in the Union, and has for the time being left music as little more than a hobby, while many within Brazil worry about his relative lack of experience in positions of such importance"
- 
  BRA_CANDIDO_RONDON_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L May 5, 1865, in Santo Antônio do Leverger, Mato Grosso, Brazil\n§YMilitary Career:§L Joined a horse artillery regiment and the army as a whole in 1881, and graduated with a degree on natural sciences in Rio some years later. Was closely involved with the coup that toppled the monarchy despite his low rank at the time. In the years since, he has spent much of his time and effort mapping and exploring the far wilderness of northwestern Brazil and its immense jungles, and the specially dangerous task of establishing telegraph lines in that area. A fervent believer of positivist principles, he seeks strictly peaceful contact with the natives of inner Brazil, even at risk of harm; he narrowly escaped death by a poisoned arrow in 1913 but ordered his men not to fire back. His expeditions are each a dangerous and long adventure, with some, like the one he led to the River of Doubt alongside Theodore Roosevelt, internationally known. But he also does not hesitate to lead troops in defence of the republic, and has led troops on occasion against various revolts when he is not expedition, and has an extensive military record in dealing with such. His much higher rank in the military and age have thus far done little to diminish his adventurous spirit, as there is still much to explore the in the far wilds\n§YImportant Notes:§L He has spent great time and effort advocating for the rights of natives to the government in Rio, but his requests, so far, fell on deaf ears.\nHis men claim he has killed an alligator in an expedition armed only with a knife."
  BRA_SETEMBRINO_CARVALHO_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L September 13, 1861, in Uruguaiana, Rio Grande do Sul, Brazil\n§YMilitary Career:§L Joined the army at age 16, and became a artillery officer in 1882. Later became a military engineer, working throughout his home state on barracks and fortifications, but was also an advocate of military railways in the region. He joined politics after the republic was proclaimed, but was still first and foremost an army man, with military concerns always on his mind. In 1910 was named Minister of War in the Hermes da Fonseca administration, and juggled several high ranking positions in the republic ever since, reaching the rank of marshall just before the 1927 revolution. While his high ranking means he has with great frequency dealt with rebels, he generally grants them amnesty when they are fellow soldiers, such as in the common tenentist uprisings, but the harshness of the operation led by him the Contestado revolt in 1915 is still infamous. While generally out of politics, and public life in general for that matter, since the civil war, he's still one of the highest ranking and most respected servicemen in the country, and thus well positioned to take leadership in case of war."
  BRA_ISIDORO_LOPES_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L June 30, 1865, in Dom Pedrito, Rio Grande do Sul, Brazil\n§YMilitary Career:§L Graduated at the Porto Alegre Military School in 1883 as an artillery officer, and supported the republican coup in 1889. Between 1893 and 1895, he took part in a local revolt in Rio Grande do Sul, known as the Federalist Revolution, wherein he was defeated by government forces and exiled in Paris for a year before receiving amnesty. In 1926, he returned from Rio, where he was stationed, to Rio Grande do Sul, allegedly to deal with personal matters, but rising tensions in the capital clearly indicate it was to prepare for the inevitable conflict brewing. During the hostilities in 1927, Isidoro was in general command of the forces in the uprising, and thus is well known as the 'Marshall of the Revolution' for his leadership on the matter. Since then, his prestige has far surpassed those of other military leaders from the conflict, but he mostly keeps away from political affairs, albeit his disdain for the Old Republic is well known and vocal. He has been nonetheless invited to campaign for the Democratic Left, an offer which he refused, despite the fact his popularity is such that he may well be a viable presidential candidate.\n§YImportant Notes:§L His previous exile in Paris left an impression of him, especially regarding how backwards Brazil is to him."
@@ -80,10 +79,7 @@
  BRA_MOURAO_FILHO_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L May 9, 1900, in Diamantina, Minas Gerais, Brazil\n§YMilitary Career:§L Finished military studies at the Realengo academy at Rio in 1921. Was stationed in Santa Catarina during hostilities in 1927, and reached the rank of captain shortly thereafter. He was deeply disillusioned by the lack of immediate change, leading him to later join the integralist movement, having lent public support to some of its more radical figures. Has extensively written against 'liberal-democracy' and marxism alike, and has openly supported and advised in the establishment of integralist militias. A deeply religious and conservative man."
  BRA_NELSON_MELLO_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L August 20, 1899, in Santana do Livramento, Rio Grande do Sul, Brazil\n§YMilitary Career:§L Joined the army relatively early, and studied in the prestigious military school of Realengo, in Rio de Janeiro. Reached the rank of Captain during the war in 1927, having conspired in favour of the rebels while in Rio before joining their ranks proper, but still too young to be considered a top figure among military circles, especially among the army. Politically conservative and anti-socialist, he has personally led crackdowns against leftist uprisings in Rio de Janeiro more than three times since 1927."
  BRA_MARCONDES_SALGADO_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L July 1, 1890, in Pindamonhangaba, São Paulo, Brazil\n§YMilitary Career:§L A member of a distinguished military family dating back to the days of independence, and one of his ancestors was reportedly one of Pedro I's companions at the moment of independence. Júlio joined the army as a cavalry soldier at age 16, and by 1912 had already reached the rank of sergeant, rank of captain by 1924, and after the conflict in 1927 had been named general. A profoundly legalist man, Júlio distinguished himself fighting against insurrections throughout his career, taking barricaded positions by storm in a revolt in Rio in 1923, and had a key role in leading the forces of the State of São Paulo during the war in 1927, where he again performed competently leading local forces, this time against the federal government. He delivered rousing speeches on how São Paulo was not revolting, but upholding republican values that were supposed to maintain the unity of Brazil, and quickly rose to be one of the most famous military men of the entire nation. He is extremely respected especially in São Paulo and among legalist circles in Brazil. While a cavalry officer by career, he is a flexible and modern commander when compared to most of his peers. \n§YImportant Notes:§L An avid sportsman, Júlio is state champion of Polo and Fencing, and an expert horse rider, winning a national title in 1928."
- 
-### Ship Name Lists ###
  NAME_THEME_BRA_SUBMARINE_NUMBERED:0 "T-Class Submarines"
- 
  BRA_social_democrat_party:0 "좌익민주당"
  BRA_social_democrat_party_long:0 "좌익민주당                                            §g브라질의 노동운동은 작고 지역적, 이념적 노선들 사이에서 믿을 수 없을 정도로 분열되어 있습니다. 브라질 사람들의 생계를 개선하기 위한 시도로, 몇몇 온건파 지도자들은 지난 몇 년 동안 선거에 출마하였으며 프롤레타리아인들의 의지를 민주적인 방식으로 보여주기 위해 광범위하고 통합된 좌파 전선을 조직하려고 노력했습니다. 적절한 명칭의 좌익민주당은 1936년 이전에 대통령 후보가 있었지만, 그들은 중요성과 호소력이 미미했고, 주요 노동조합들 간의 지지조차 모을 수 없었습니다. 넓은 범위에서 추진력을 얻을 수 있도록 하기 위해서는 노동운동 전반의 정치 배경에 큰 변화가 필요할 것입니다. 하지만 만약 그러한 위업을 이룰 수 있다면, 그것은 현재 브라질에서 권력을 잡고 있는 포식적인 자본주의자들에게 믿을만한 위협이 될 수 있습니다.§!"
  BRA_social_conservative_party:0 "공화당"
@@ -162,30 +158,21 @@
  BRA_new_constitution_requirements:0 "We have §Csecured control§! of the §HSupreme Court§! and the §HNational Congress§! and have §Rquelled popular dissent§!."
  BRA_estado_novo_time:0 "Getúlio Vargas will proceed to establish a §PCentralist Dictatorship§! but be warned, we will face §Rextreme opposition!§!"
  BRA_vargas_defang:0 "The event allows for choosing between weakening the §SSocial Democrats§!, the §lLiberals§!, §cRepublicans§! or the §NIntegralists§!."
-
- BRA_soft_tooltip:0 "§CAdaptation:§! $RIGHT|+=%%0$."
+ BRA_soft_tooltip:0 "§CAdaptation:§! $RIGHT|+%%0$."
  BRA_soft_above_60_percent:0 "More than §H60%§! Militia Adaptation"
  BRA_soft_above_80_percent:0 "More than §H80%§! Militia Adaptation"
  BRA_soft_above_100_percent:0 "More than §H100%§! Militia Adaptation"
-
- BRA_hard_tooltip:0 "§CCentralisation:§! $RIGHT|+=%%0$."
+ BRA_hard_tooltip:0 "§CCentralisation:§! $RIGHT|+%%0$."
  BRA_hard_above_60_percent:0 "More than §H60%§! Militia Centralisation"
  BRA_hard_above_80_percent:0 "More than §H80%§! Militia Centralisation"
  BRA_hard_above_100_percent:0 "More than §H100%§! Militia Centralisation"
-
- BRA_armored_train_tooltip:0 "Based on doctrine picked we will gain different effects\n1. For Battlefield Control §HArmy Attack§! [?0.05|=+%0]\n2. For Manouver Warfare §HDivision Speed§! [?0.05|=+%0]"
-
+ BRA_armored_train_tooltip:0 "Based on doctrine picked we will gain different effects\n1. For Battlefield Control §HArmy Attack§! [?0.05|+%0]\n2. For Manouver Warfare §HDivision Speed§! [?0.05|+%0]"
  BRA_paratroop_tooltip:0 "£nato_unit_paratrooper_icon_small  Raise one §YParatrooper Division§! with 10 §YParatroopers§! battalions."
  BRA_amphibious_tooltip:0 "£nato_unit_marine_icon_small  Raise one §YMarine Divisions§! with 10 §YMarines§! battalions."
-
  BRA_port_tooltip:0 "§CCompleting all decisions in this category will grant us:§!"
-
- BRA_terrain_adaptation_effects:0 "Modify §H$BRA_battlefield_control$§! by\n$MODIFIER_TERRAIN_PENALTY_REDUCTION$: [?0.1|+=%1]"
-
- BRA_matilhas_de_caca_effects:0 "Replace §H$BRA_stray_dog_1$§! with §H$BRA_stray_dog_2$§!\nEffective change:\n$MODIFIER_CONVOY_RAIDING_EFFICIENCY_FACTOR$: [?0.1|+=%]"
-
- BRA_subbo_hunters_effects:0 "Replace §H$BRA_cruisers_1$§! with §H$BRA_cruisers_2$§!\nEffective change:\n$MODIFIER_CONVOY_RETREAT_SPEED$: [?0.1|+=%0]"
-
+ BRA_terrain_adaptation_effects:0 "Modify §H$BRA_battlefield_control$§! by\n$MODIFIER_TERRAIN_PENALTY_REDUCTION$: [?0.1|+%1]"
+ BRA_matilhas_de_caca_effects:0 "Replace §H$BRA_stray_dog_1$§! with §H$BRA_stray_dog_2$§!\nEffective change:\n$MODIFIER_CONVOY_RAIDING_EFFICIENCY_FACTOR$: [?0.1|+%]"
+ BRA_subbo_hunters_effects:0 "Replace §H$BRA_cruisers_1$§! with §H$BRA_cruisers_2$§!\nEffective change:\n$MODIFIER_CONVOY_RETREAT_SPEED$: [?0.1|+%0]"
  BRA_seized_factories:0 "공장 압류"
  BRA_taxing_church_property:0 "교회 재산세"
  BRA_patrianovistas:0 "고향의 전망"
@@ -197,7 +184,7 @@
  BRA_assuming_direct_control:0 "신국가가 힘을 가짐"
  BRA_first_congress_held:0 "제1차 노동조합총회를 개최했음"
  BRA_vargas_plan_over:0 "Vargas' centralist plans have been blocked"
-### Companies ###
+ BRA_invested:0 "We Picked our Investment"
  companhia_siderurgica_nacional:0 "Companhia Siderúrgica Nacional"
  universidade_federal_rio_de_janeiro:0 "Universidade Federal do Rio de Janeiro"
  ultra_brazil:0 "Ultra"
@@ -207,9 +194,6 @@
  companhia_aeronautica_paulista:0 "Companhia Aeronáutica Paulista"
  arsenal_marinha_rio_de_janeiro:0 "Arsenal de Marinha do Rio de Janeiro"
  estrada_ferro_central_brasil:0 "Estrada de Ferro Central do Brasil"
-
-### Ideas ###
-
  BRA_election_year:0 "선거 연도의 긴장감"
  BRA_decentralisation:0 "극단적인 지방 분권화"
  BRA_wake_of_civil_war:0 "전쟁의 흔적"
@@ -365,7 +349,6 @@
  BRA_election_year_desc:0 "아마도 브라질 역사상 가장 폭력적이고 논쟁이 많은 선거를 준비하면서 긴장감이 고조되고 있습니다. 정치적 대화는 열띤 논쟁과 거의 동의어이며 이념적 극단주의의 분위기가 국가의 대중을 둘러싸고 나타나고 있습니다."
  BRA_decentralisation_desc:0 "브라질 연방 공화국은 자국의 자치권을 항상 소중히 여겨왔습니다. 각자가 자신의 대통령, 자신의 정당, 그리고 자신의 군대를 가지고 있으며, 국민들은 이러한 지역 권리를 위해 기꺼이 죽을 각오가 되어 있습니다. 그러나, 이것은 매우 약하고 이빨 빠진 중앙 정부로 귀결되는데, 이것은 필요할 때 결단력 있게 행동하게 할 수 없습니다."
  BRA_wake_of_civil_war_desc:0 "내전만큼 회복에 오래 걸리는 상처는 거의 없습니다. 미나스 제라이스의 군대가 상파울루에 침입한 후 정치적 과두 정부와 지역 정체성 사이의 긴장이 마침내 전쟁터로 쏟아져 나감에 따라, 전쟁은 수천 명의 사망자와 더 많은 고아와 노숙자를 남겼습니다. 중앙 정부가 하려고 하는 어떤 행동들은 현재 엄청난 불신으로 보여지고 있고, 리우와 상파울루 사이의 국경에 야기된 완전한 피해는 아직 완전히 복구되지 않았습니다."
- BRA_fatherland_volunteers_desc:0 "위대한 역사에서 우리 군대의 유산을 기리는, 조국 자원병들은 공통된 브라질 사람들로부터 길러진 힘 그 이상이며, 이들은 국가를 위해 기꺼이 죽을 그들의 의지와 자유를 상징합니다."
  BRA_forager_idea_desc:0 "브라질에 군대를 보급하는 물류 병참은, 우리 군인들의 자율성을 요구하기에, 우리 군대는 가능한 한 많은 자원을 쓸 수 있는 능력을 가져야 합니다."
  BRA_planningspeed_desc:0 "우리의 장교들은 함께 작전을 계획할 수 있고, 어떤 경우에든 그 계획을 적용할 수 있습니다; 결론적으로, 전투 계획은 적과의 교전에서 뜻대로 되지는 않습니다."
  BRA_we_werent_expecting_special_forces_desc:0 "브라질의 특수부대는 잘 훈련되었으며, 그들은 외국의 침략으로부터 나라를 지키기 위해 몇 년을 전쟁의 기술을 연마하는데 보냈습니다. 그들의 수와 지형에 대한 숙달은 확실히 침략자가 조사해야 될 요소일 것입니다."
@@ -447,7 +430,7 @@
  BRA_doctrine_usa_desc:0 "The United States, Brazil's closest partner in diplomacy and in trade, is unparalleled in its economic and naval strength, but also in its military, whose more modern outlook on war would far better fit our plans of army reform than the German Empire's brutish discipline, which is unlikely to ever be instilled in our loose army institutions. A focus on modernisation of equipment, artillery support and combined arms will ensure Brazil will have an edge over local rivals"
  BRA_arty_doctrine:0 "Queen of the Battlefield"
  BRA_arty_doctrine_desc:0 "All forces in an army must act in conjunction for a successful engagement, but proper usage of Artillery is much more than simply firing at the enemy's general direction. The army must be prepared and trained to use our cannons to maximum efficiency in a combat situation, regardless of previous doctrine, with a focus on objectives; Our nation cannot afford to waste shells, even if it has plenty of men, after all."
- BRA_arty_doctrine_tt:0 "Modify §YBattlefield Control§! by\n§YTowed Artillery§!: £production_cost  Production Cost: [?-0.05|-=%]"
+ BRA_arty_doctrine_tt:0 "Modify §YBattlefield Control§! by\n§YTowed Artillery§!: £production_cost  Production Cost: [?-0.05|-%]"
  BRA_bigger_guns:0 "New Model Artillery"
  BRA_bigger_guns_desc:0 "The biggest deficiency in terms of equipment all armies in our nation possess is a lack of proper artillery pieces, made with modern warfare in mind. Such a glaring fault would doubtlessly, and ruthlessly, exploited by the enemies of the nation, and as such, measures must be taken to remedy, be it with the acquisition of foreign models, or with the expansion of our own domestic production of pieces to more significant levels"
  BRA_bigger_guns_tt:0 "Modify §YBattlefield Control§! by\n§YTowed Artillery§!: Soft Attack: §G10%§!"
@@ -456,13 +439,13 @@
  BRA_doctrine_bonus:0 "Theory of War"
  BRA_doctrine_bonus_desc:0 "No plan of battle survives contact with the enemy, however, few battles are successful without a plan behind it. In order to safeguard national security, the overarching doctrine of the National Army, until now varied on a commander to commander basis, must be organised and enforced from the top all the way to the operational level."
  BRA_armored_trains:0 "Renovate Armoured Trains"
- BRA_armored_trains_desc:0 "As the shadow of war looms over the entire world, even here in South America, we must be ready to not just repair and refit older combat locomotives, such as the ones dating from the years of the War, but also to purpose build new ones to ensure the safety of our major supply arteries linking the borders to the large cities of the Southeast "
+ BRA_armored_trains_desc:0 "As the shadow of war looms over the entire world, even here in South America, we must be ready to not just repair and refit older combat locomotives, such as the ones dating from the years of the War, but also to purpose build new ones to ensure the safety of our major supply arteries linking the borders to the large cities of the Southeast"
  BRA_german_doctrine:0 "Manoeuvre Warfare"
  BRA_german_doctrine_desc:0 "It's only natural a significant portion of our army officers seek to model our nation's army after the German one, the so called 'Young Turks' of Brazil, and said officers have extensive contact with peers in Germany, including Brazilian liaisons. Following their advice and re-organizing the army in a modern, displine fashion is a logical choice"
  BRA_fatherland_volunteers:0 "조국 자원병들"
  BRA_fatherland_volunteers_desc:0 "위대한 역사에서 우리 군대의 유산을 기리는, 조국 자원병들은 공통된 브라질 사람들로부터 길러진 힘 그 이상이며, 이들은 국가를 위해 기꺼이 죽을 그들의 의지와 자유를 상징합니다."
  BRA_forager_squads:0 "징발 부대"
- BRA_forager_squads_desc:0 "대군을 이끌 때, 보급품은 항상 거대한 문제입니다. 그 노력에 도움을 주기 위해 정찰대와 수색대대는 우리 군대에 대한 생존 훈련 외에도 식량을 모으기 위한 특별한 훈련을 진행할 것입니다."\
+ BRA_forager_squads_desc:0 "대군을 이끌 때, 보급품은 항상 거대한 문제입니다. 그 노력에 도움을 주기 위해 정찰대와 수색대대는 우리 군대에 대한 생존 훈련 외에도 식량을 모으기 위한 특별한 훈련을 진행할 것입니다."\"
  BRA_plano_infalivel_n1936:0 "계획 장교"
  BRA_plano_infalivel_n1936_desc:0 "이제 우리 장병들은 우리 부대가 현장에서 수행하는 모든 주요 작전을 준비하는 데 도움을 받을 것입니다. 일부에서는 이를 운영 자율성을 잠재적으로 감소시킬 수 있는 지나치게 중앙 집중적인 조치라고 평가하지만, 모든 장교가 대전략을 알고 있다고 가정할 수는 없습니다."
  BRA_macro_battlelines:0 "전략 전투라인"
@@ -925,22 +908,14 @@
  BRA_clear_line_of_sucession_desc:0 "의장직이 끝난 후 질서 정연한 변혁을 보장하기 위해 우리는 적절한 의정서를 만들 것인데, 그것은 장군들과 장교들 사이의 어떤 합의로도 결코 그들이 선호하는 후보를 지명하지 않는다는 것입니다."
  BRA_love_it_or_leave_it:0 "좋아하거나 떠나거나"
  BRA_love_it_or_leave_it_desc:0 "브라질은 지구상에서 가장 위대한 나라이고, 우리의 위대하고 현명한 지도자들은 그 사실을 확실히 하는데 노력을 아끼지 않았습니다. 동의하지 않는 사람들에게, 떠나는 문이 당신들이 이용할 수 있는 것입니다."
- 
- ### Decision Categories ###
-
  BRA_Resource_decisions:0 "Needs of War"
  BRA_Resource_decisions_desc:0 "Our nation, whose size rivals that of continents by itself, has vast natural resources that could turn the tide of not only wars, but our nation's history."
-
  BRA_Army_Reform_Soft:0 "Army Reform"
  BRA_Army_Reform_Soft_desc:0 "If there is one lesson to be learned from the events of 1927, is that the backlash from attempting to infringe in the military and administrative autonomy of states is instant and quite extreme. Command and operational centralisation does not, necessarily, imply a complete foregoing of existing military structure; after all, the victorious German army worked with several different armies of its constituent states under its national armed forces. \n\n§GCentralisation§!: [?BRA_reform_soft|0+%%]"
-
  BRA_Army_Reform_Hard:0 "Army Reform"
  BRA_Army_Reform_Hard_desc:0 "An army without cohesion is little more than a collection of armed people. Brazil cannot be held back by antiquated notions of decentralized military command; dissolving the antiquated, past century hierarchy of the state armies and militias will not be an easy task, especially so as those in cushy, pointless administrative and officer jobs will suddenly see their lazy career paths at risk, and the soldiers themselves might resent such direct meddling from the top, as they naturally tend to do. However, there is little time to act; Brazil's enemies amass at its borders, and we must be ready, no matter the price. \n\n§GCentralisation§!: [?BRA_reform_hard|0+%%]"
-
  BRA_Army_Reform_Top_Down:0 "The New Army"
  BRA_Army_Reform_Top_Down_desc:0 "There is no need for such antiquated, armed mobs in the service of greedy oligarchs in the new Brazil we are working so hard to build. The absurdity of having states within a state weakens and divides the nation, and as such, we will end the charade once and for all. The corrupt leadership who has long gained much ill gotten wealth from this arrangement will naturally lash out; and we must meet them in force and show our resolve. Their wickness must be stamped out!"
-
- ### Decisions ###
  BRA_rubber_army:0 "고무 군대"
  BRA_rubber_army_desc:0 "브라질의 많은 사람들은 일자리가 필요합니다. 브라질에 있는 많은 사람들은 오직 우리나라를 위해 최선을 다하기를 바랍니다. 민간인들이 아크레와 아마존의 가장 깊은 밀림에 고무를 모으도록 한다면, 우리의 전쟁 노력에 크게 도움이 될 수 있을 것입니다. 비록 우리가 그것을 쓸 필요가 없더라도, 우리는 그것을 최고 입찰자에게 팔 수 있습니다. 독일의 콩고와 말라야 통치에 대한 지배는 넓은 시장이 있음을 보장합니다."
  BRA_lobato:0 "로바토의 유정"
@@ -954,7 +929,7 @@
  BRA_CSN_RIO:0 "Establish CSN in Rio de Janeiro"
  BRA_CSN_RIO_desc:0 "While Rio de Janeiro has lagged behind São Paulo in terms of industrial prowess, establishing a large scale steel production plant there will be highly beneficial for our struggling shipbuilding industry, as commissioning ships abroad has become nearly impossible during the current times of war and tension. By creating a steel production plant in the city, we send a clear message of support to our navy, but at the cost of investments elsewhere."
  BRA_CSN_alegere:0 "Establish CSN in Porto Alegre"
- BRA_CSN_alegere_desc:0 "Porto Alegre is a city that, much like the state of which it is the capital of, has a disproportionate influence and importance due to military affairs. As the headquarters of our regional defenses, and the first line of defense in the only viable land path for an invasion of Brazil, the area always had somewhat of a military inclination. By creating a steel production plant in the city, we send a clear message of support to our armed forces, but at the cost of investments elsewhere." "
+ BRA_CSN_alegere_desc:0 "Porto Alegre is a city that, much like the state of which it is the capital of, has a disproportionate influence and importance due to military affairs. As the headquarters of our regional defenses, and the first line of defense in the only viable land path for an invasion of Brazil, the area always had somewhat of a military inclination. By creating a steel production plant in the city, we send a clear message of support to our armed forces, but at the cost of investments elsewhere.""
  BRA_CSN_salvador:0 "Establish CSN in Salvador da Bahia"
  BRA_CSN_salvador_desc:0 "The old capital of Brazil, Salvador, has seen better days. Between lack of federal investments, unparalleled recession and even a bizarre naval bombardment incident in the past decade, the city and the northeast of Brazil as a whole often feels left behind by the central government, which seems to always prioritize development in areas already quite well off and near the current capital of Rio. By creating a steel production plant in the city, we send a clear message of support to both the oligarchs and the people of these regions, and open opportunities for further development, but at the cost of short term investments elsewhere."
  BRA_deal_with_Minas_Gerais:0 "Dealing with the Mineiro leadership"
@@ -986,7 +961,7 @@
  BRA_crush_Sao_Paulo:0 "Subdue São Paulo"
  BRA_crush_Sao_Paulo_desc:0 "The paulista elite believes that they own the country, and some of them are so unthinkably wealthy, they might be forgiven for holding such an assumption. While there are many contingencies and plans in place, there is simply no way to make them bend to the greater good of the nation than a show of force that is swift and decisve, before any rebellious cries of ''respect to the constitution'' are used to justify a revolt. This, naturally, presents great risk, but the strategic importance of the state remands drastic measures."
  BRA_replace_officers:0 "Replace Officers"
- BRA_replace_officers_desc:0 "Featherbedding is rampant in the Brazilian military, as is the nepotism that is often behind it. The quickest way to solve it, of course, is to replace the officers who are often enough little more than glorified playing cards experts in uniform, with true men of a military career and disposition. "
+ BRA_replace_officers_desc:0 "Featherbedding is rampant in the Brazilian military, as is the nepotism that is often behind it. The quickest way to solve it, of course, is to replace the officers who are often enough little more than glorified playing cards experts in uniform, with true men of a military career and disposition."
  BRA_forced_standardisation:0 "Equipment Standardisation"
  BRA_forced_standardisation_desc:0 "Previously, equipping most units was up to the local authorities, which often resulted in each state using different equipment, uniforms and sometimes even calibers of ammunition. Centralizing such equipment procurement will be an expensive but extremely necessary step, and naturally an unpopular one, as it will be seen as more interference of the federal government in the army"
  BRA_central_conscription:0 "National Conscription"
@@ -1021,7 +996,6 @@
  BRA_become_brazil:0 "Become Brazil"
  BRA_become_brazil_desc:0 "The Brazilian republic can be restored!"
  BRA_can_restore_brazil:0 "Three of §Y[498.GetName]§!, §Y[499.GetName]§!, §Y[501.GetName]§!, §Y[505.GetName]§!, §Y[502.GetName]§!, or §Y[898.GetName]§! are owned and cores of §G[Root.GetNameDef]§!"
- 
  BRA_Arsenal_de_Marinha_do_Rio_de_Janeiro:0 "Expand the Arsenal da Marinha"
  BRA_Arsenal_de_Marinha_do_Rio_de_Janeiro_desc:0 ""The Navy Arsenal in Rio de Janeiro far predates our independence, a centennial institution truly. However, it was never really equipped for modern shipbuilding, as Brazil saw as more economical to simply commission ships with the wealth of coffee from major naval powers, such as Britain; this is how the pride of the navy, the Minas Gerais class, came to be. However, as the shadow of war looms over the Northern Hemisphere, we simply cannot rely on foreign shipbuilding, and the structure in our capital must be up to par for the challenges of modern naval war."
  BRA_Base_Naval_de_Val_de_Caes:0 "Create the Val-de-Cães complex"
@@ -1030,7 +1004,6 @@
  BRA_Base_Naval_em_Natal_desc:0 "Natal's strategic location is almost perfect for a naval base that could ensure complete dominion of the South Atlantic in the event of a war at sea. However, such a base would start quite literally from scratch, and would require a substantial amount of effort and especially money to be established and to run properly in wartime, as personnel will have to be brought from other states."
  BRA_Base_Naval_de_Aratu:0 "Found the Aratu Naval Base"
  BRA_Base_Naval_de_Aratu_desc:0 "Salvador is an ideal location for a base to protect he seas directly north of the Capital itself, and its geography lends itself well to this end. While most of the  personnel and basic materials for the establishing a naval base exist in the nearby city, which posses considerable population, the main issue will be procurting and transporting advanced materiel, especially so the sorts of steel needed for industrial grade weaponry and modern communication devices."
-
  BRA_new_civilian_factory:0 "Open New Plant in §H[FROM.GetName]§!"
  BRA_new_military_factory:0 "Open New Arms Factory in §H[FROM.GetName]§!"
  BRA_new_factories_rio:0 "Expand Electronic Plants in §HRio de Janeiro§!"
@@ -1057,25 +1030,18 @@
  BRA_mil_all_cost:0 "£army_experience §H50§! £pol_power §H40§!"
  BRA_mil_all_cost_blocked:0 "£army_experience §R50§! £pol_power §R40§!"
  BRA_mil_all_cost_tooltip:0 "It costs £army_experience §R50§! & £pol_power §R40§! to take the decision"
- 
  BRA_mil_xp_cost:0 "£army_experience §H50§!"
  BRA_mil_xp_cost_blocked:0 "£army_experience §R50§!"
  BRA_mil_xp_cost_tooltip:0 "It costs £army_experience §R50§!to take the decision"
-
  500_infantry_equipment:0 "£rifle_texticon §H500§!"
  500_infantry_equipment_blocked:0 "£rifle_texticon §R500§!"
  500_infantry_equipment_tooltip:0 "It costs $500_infantry_equipment_1_blocked$ to take the decision"
-
  XP_25:0 "£army_experience [?25|H0]"
  XP_25_blocked:0 "£army_experience [?25|R0]"
  XP_25_tooltip:0 "It costs $XP_25_blocked$ to take the decision"
-
  support_100:0 "£support_texticon  §H100§!"
  support_100_blocked:0 "£support_texticon  §R100§!"
  support_100_tooltip:0 "It costs $support_100_blocked$ to take the decision"
-
-
-### Events ###
  bra.1.t:0 "브라질 연방 공화국"
  bra.1.d:0 "영국 혁명과 주요 무역 상대국들의 위기 이후 경제가 붕괴될 때까지 세계대전에서 브라질의 중립성은 나라를 평화롭고 안정되게 유지시켰습니다. 상파울루와 미나스 제라이스 둘 다 1926년 선거 후보들을 각각 창당한 후 선거의 균형이 깨지면서 혼란의 시대는 정점에 이르렀습니다. 이후 사건은 큰 위기를 맞이하여, 내전이라고도 불리는 주간 전쟁을 시작했습니다. 상파울루는 연방정부에 대항한 전쟁에서 광범위한 지지를 받았습니다; 특히 중요한 것은 주앙 페소아 주와 리오그란데 도 술 주를 주도하는 북부 및 동부 주지사였습니다. 그들은 역사적인 국경 지대로 불균형적으로 강한 군대를 가지고 있었습니다. 이 지원으로, 제조업과 금전적 이득을 얻었고 연방 해군의 반란과 함께, 전쟁 종식은 반군들의 승리로 끝났고 페르난도 드 멜로는 잠시 공화국을 통치하고 현행 헌법으로 개정한 보르게스 드 메데이로스의 편을 들어 사임했습니다. 그 이후로, 공화국은 여러 가지 면에서, 특히 경제적으로 변화해 왔고, 두 대통령이 민주적으로 선출됨에 따라 여러 가지 면에서 번영해 왔습니다. 그러나 1936년 선거가 다가옴에 따라 생디칼리스트, 아나키스트, 통합주의자들이 계속해서 거리 싸움에 참여하고 정치인들의 미사여구가 분열되고 선동적이 되면서 정치적 급진주의가 대두되고 있습니다."
  bra.1.a:0 "지배와 진보에는 대가가 따른다"
@@ -1100,7 +1066,7 @@
  bra.7.d:0 "오랫동안 새로운 장비들이 배치되지 않은 후에, 새로운 군화와 다른 종류의 물품들이 지난 몇 년 동안 병영에 도착하기 시작했고, 병사들의 삶은 나아졌습니다. 하지만, 국가가 획득한 새로운 총은 가장 최근의 사건이었고, 보병들 사이에서 눈에 띄게 인기가 있습니다; 과거 세기의 오래된 총과 비교했을 때, 믿을 수 있고 정확합니다. 이것은 확실히 우리의 국가에 대한 보병의 의견을 향상시킬 것입니다."
  bra.7.a:0 "그들은 새 장난감을 좋아한다..."
  bra.8.t:0 "Our New Armored Trains"
- bra.8.d:0 "While the notion of heavily armored trains is nothing particularly new, usage of such locomotives in Brazil was kickstarted by the Revolution of 1927, whose short but relatively violent confrontations showed the edge the armoured trains from the industralzied state of São Paulo gave over its rivals. As the shadow of war looms over the entire world, even here in South America, we must be ready to not just repair and refit older locomotives, but also to purpose build new ones to ensure the safety of our major supply arteries linking the borders to the large cities of the Southeast "
+ bra.8.d:0 "While the notion of heavily armored trains is nothing particularly new, usage of such locomotives in Brazil was kickstarted by the Revolution of 1927, whose short but relatively violent confrontations showed the edge the armoured trains from the industralzied state of São Paulo gave over its rivals. As the shadow of war looms over the entire world, even here in South America, we must be ready to not just repair and refit older locomotives, but also to purpose build new ones to ensure the safety of our major supply arteries linking the borders to the large cities of the Southeast"
  bra.8.a:0 "대단해!"
  bra.9.t:0 "상파울루의 생디칼리스트 파업"
  bra.9.d:0 "5월 1일에 시위와 노동자들의 항의가 일반적으로 보기 드문 것은 아니지만, 현재 상파울루에서 벌어지고 있는 파업은 그들의 도구를 내려놓은 노동자들의 수가 매우 많기 때문에 주목할 만합니다. 그들은 정상적인 파업이 있은 후, 도시의 특정 지역들에 바리케이드를 칠 준비를 하고 있으며, 이 행동의 결과를 잘 알고 있습니다. 주 경찰에게 이 흉악한 반란자들을 단속하게 하는 것 말고는 선택의 여지가 거의 없습니다."
@@ -2014,7 +1980,6 @@
  bra.762.t:0 "[URG.GetNameDefCap]의 거절"
  bra.762.d:0 "시스플라틴의 개들이 우리의 관대한 자치권 제안 거부했습니다... 그들은 처벌을 받을 것입니다."
  bra.762.a:0 "그렇다면 전쟁이다!"
- 
  BRA:0 "브라질"
  BRA_ADJ:0 "브라질"
  BRA_DEF:0 "브라질"
@@ -2048,8 +2013,6 @@
  BRA_empire_national_populist:0 "브라질 제국"
  BRA_empire_national_populist_ADJ:0 "브라질"
  BRA_empire_national_populist_DEF:0 "브라질 제국"
- 
-### Characters ###
  BRA_abilio_de_nequete:0 "Abilio de Nequete"
  BRA_minervino_de_oliveira:0 "Minervino de Oliveira"
  BRA_carlos_frederico_werneck_de_lacerda:0 "Carlos Frederico Werneck de Lacerda"
@@ -2128,4 +2091,3 @@
  BRA_benjamin_de_almeida_sodre:0 "Benjamin de Almeida Sodré"
  BRA_adalberto_de_barros_nunes:0 "Adalberto de Barros Nunes"
  BRA_jose_isaias_de_noronha:0 "José Isaías de Noronha"
-

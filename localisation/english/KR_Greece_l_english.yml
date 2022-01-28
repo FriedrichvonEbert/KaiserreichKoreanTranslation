@@ -20,7 +20,6 @@
  GRE_paternal_autocrat_party_long:0 "자유사상가당"
  GRE_national_populist_party:0 "그리스 국민연합"
  GRE_national_populist_party_long:0 "그리스 국민연합"
- 
  spap:0 "SPAP"
  ntua:0 "NTUA"
  chropei:0 "Chropei"
@@ -767,63 +766,48 @@
  gre.261.d.nofaction:0 "[GRE.GetNameDefCap](이)가 고토 회복의 준비를 마쳤습니다. 문제는 이것입니다. : 동쪽으로 눈을 돌려 [184.GetName](와)과 같은 '전통적인' 그리스 땅이나 [183.GetName](와)과 같은 동지중해 섬들의 영유권을 주장할까요? 아니면 '위대한 이상'을 재조정해 [773.GetCapitalVictoryPointName]까지의 모든 영토의 영유권과 터키계가 대다수를 차지하고 있는 아나톨리아 서부해안의 영유권을 주장할까요? '위대한 이상'은 모호하고 위험한 꿈입니다... 우리가 이대로 밀고 나간다면 [Root.GetFactionName]의 눈에 공격적으로 비춰질 것이고, 세계에서 [Root.GetNameDef](을)를 왕따로 만들 것입니다."
  gre.261.a:0 "먹을 만큼만 먹자"
  gre.261.b:0 "We shall resurrect Megali in full!"
- 
  gre.500.t:0 "Metaxas Overthrows Greek Government"
  gre.500.d:0 "With Greece having been thrown into massive chaos following their loss in the Balkan War against Bulgaria, and the democratic government refusing to step down, former general Ioannis Metaxas stepped in today with a large group of army supporters and overthrew the government in a planned coup. Fighting in Athens is reported between Metaxas's soldiers and syndicalist groups loyal to Nikos Zachariadis, who Metaxas claims was close to overthrowing the government himself and 'steps were required to maintain order'. Syndicalists have vowed to fight back against the dictatorship, but for now it appears Metaxas is in full control."
  gre.500.a:0 "Interesting."
-
  gre.501.t:0 "Syndicalists Overthrow Greek Government"
  gre.501.d:0 "With Greece having been thrown into massive chaos following their loss in the Balkan War against Bulgaria, and the democratic government refusing to step down, syndicalist supporters under leader Nikos Zachariadis today stormed the parliament in Athens and took control. The government's popularity is such that the new syndicalist regime is enjoying far more support than it might have otherwise, though former general Ioannis Metaxas has vowed to 'restore order' in the country by removing the 'syndicalist threat'. While Zachariadis is currently in control, fears are that a new civil war is inevitable."
  gre.501.a:0 "Interesting."
-
  gre.502.t:0 "Greek Army Overthrows Government"
  gre.502.d:0 "With Greece having been thrown into massive chaos following their loss in the Balkan War against Bulgaria, and the democratic government refusing to step down, the Greek army today stepped in and overthrew the government in a coup. General Alexandros Papagos said in a statement that the measure was temporary, and that new elections would be held as soon as the army restored order in the face of increased syndicalist insurgency. Whether Papagos will relinquish power as he claims remains to be seen, and syndicalist leaders have sworn to fight this 'new dictatorship' with every means at their disposal, raising fears of a new civil war."
  gre.502.a:0 "Interesting."
-
  gre.503.t:0 "Rural Democratic Front Victorious in Greece"
  gre.503.d:0 "The restoration of the monarchy in Greece caused the country's leftist leaders to consolidate under the umbrella of the Rural Democratic Front, a party which has now seen victory in the country's recent elections under [GRE.GetLeader]. Many within the government had called on the party to be banned, a call which had been refused, and so now Greece faces a transformation into a socialist dictatorship with a mandate from the angry Greek electorate. Even so, portions of the military are already gathering in opposition to the new government, and there are fears that a new civil war will break out in Greece as a result."
  gre.503.a:0 "Interesting."
-
  gre.504.t:0 "Syndicalists Victorious in Greek Elections"
  gre.504.d:0 "The victory of the republicans in Greece caused the country's leftist leaders to consolidate under the umbrella of the Social Workers' Party of Greece, a party which has now seen victory in the country's recent elections under [GRE.GetLeader]. Many within the government had called on the party to be banned, a call which had been refused, and so now Greece faces a transformation into a syndicalist dictatorship with a mandate from the angry Greek electorate. Even so, portions of the military are already gathering in opposition to the new government, and there are fears that a new civil war will break out in Greece as a result."
  gre.504.a:0 "Interesting."
-
  gre.505.t:0 "Metaxas Overthrows Greek Government"
  gre.505.d:0 "The recent revelations in Greece that the government had rigged the referendum to produce a positive result for republicans has shaken the nation, to the point where former general Ioannis Metaxas has stepped in to take control. With the support of a large number of generals in the army, Metaxas declared that the former government leaders had been arrested and that he would see the nation restored to its 'proper path'. Syndicalists leaders have already declared the Metaxas regime an opportunistic act, and have sworn to take action again him and his new government."
  gre.505.a:0 "Interesting."
-
  gre.506.t:0 "Syndicalists Overthrow Greek Government"
  gre.506.d:0 "The recent revelations in Greece that the government had rigged the referendum to produce a positive result for the monarchists has shaken the nation, to the point where syndicalist leader Nikos Zachariadis has stepped in to take control. With the support of a large number of militia leaders, Zachariadis declared that the former government leaders had been arrested and that he would see the nation restored to its 'proper path'. Former general Ioannis Metaxas has already declared the new regime invalid, and has taken to the countryside with several loyalist generals to raise opposition, making a new civil war appear almost certain."
  gre.506.a:0 "Interesting."
-
  gre.507.t:0 "Syndicalists Win Greek Civil War"
  gre.507.d:0 "After months of fighting, syndicalist forces under Greek leader Nikos Zachariadis today took control of Athens and declared victory in the civil war. Zachariadis announced that a temporary government would be put in place until a proper congress of Greek trade unions and workers could be assembled to decide the nation's future. While fighting is still ongoing in many parts of Greece, it appears that the direction of the country's future has finally been settled."
  gre.507.a:0 "Interesting."
-
  gre.508.t:0 "Metaxas Wins Greek Civil War"
  gre.508.d:0 "After months of fighting, forces under former general Ioannis Metaxas today took control of Athens and declared victory in Greece's civil war. Metaxas announced that a temporary government under his control would be put in place until a tribunal could be assembled to decide the nation's future. While fighting is still ongoing in many parts of Greece, it appears that the direction of the country's future has finally been settled."
  gre.508.a:0 "Interesting."
-
  gre.509.t:0 "Republicans Win Greek Referendum"
  gre.509.d:0 "The recent referendum on the future of the Greek monarchy has finally ended, with republicans declaring victory. Greek Prime Minister [GRE.GetLeader] announced that King Alexander would not be invited back from exile, and that the country would remain a republic as per the wishes of the public. The referendum caused deep divisions in Greece, and while the matter of the monarchy may be settled, it will still be an uphill battle for the government to heal those divisions in the years to come."
  gre.509.a:0 "Interesting."
-
  gre.510.t:0 "Monarchy Restored in Greece"
  gre.510.d:0 "After weeks of deliberation, the Greek government has decided to return the crown to King Aléxandros I - who was exiled in 1923 following the establishment of the Third Republic. While many consider Aléxandros unpopular due to the part he played in the surrendering of the economy to Germany and Austria following the first Weltkrieg, it was felt he was still the most legitimate ruler. The king spoke to a massive, cheering crowd in Athens after returning for the first time in many years, saying that Greece had 'finally returned to the path it was meant to be on', and vowed to work with the country's leaders to forge a positive future."
  gre.510.a:0 "Interesting."
-
  gre.511.t:0 "Monarchy Restored in Greece"
  gre.511.d:0 "After weeks of deliberation, the Greek government has decided to give the crown to King Geórgios II - not to Aléxandros I, who is still alive, but who many feel should have always been the proper heir as Aléxandros's older brother... and who never received the crown in the first place due to his exile following the Weltkrieg. While there are lingering doubts as to his legitimacy, the government has assured the people that this fixes an error which had been made long before. The king spoke to a massive, cheering crowd in Athens after returning for the first time in many years, saying that Greece had 'finally returned to the path it was meant to be on', and vowed to work tirelessly to rebuild the country."
  gre.511.a:0 "Interesting."
-
  gre.512.t:0 "Monarchy Restored in Greece"
  gre.512.d:0 "The Greek government today announced it would be restoring the monarchy, forgoing the referendum that originally restored the kingdom in 1920 prior to its overthrow in 1923. Rather than restore the crown to Aléxandros I, however, it has instead passed the crown to his younger brother, Pávlos I. The new king, it is said, has much more radical and authoritarian ideas learned during his exile which are more in line with the new Greek government, though the rest of the royal family will be returning to Greece along with him. The king spoke to a massive, cheering crowd in Athens after returning for the first time in many years, saying that Greece had 'finally returned to the path it was meant to be on', and vowed to work tirelessly to rebuild the country."
  gre.512.a:0 "Interesting."
-
  GRE:0 "그리스"
  GRE_ADJ:0 "그리스"
  GRE_DEF:0 "그리스"
-
  GRE_totalist:0 "헬라스 사회주의 공화국"
  GRE_totalist_ADJ:0 "그리스"
  GRE_totalist_DEF:0 "헬라스 사회주의 공화국"
@@ -854,8 +838,6 @@
  GRE_kingdom_national_populist:0 "그리스 왕국"
  GRE_kingdom_national_populist_ADJ:0 "그리스"
  GRE_kingdom_national_populist_DEF:0 "그리스 왕국"
- 
-### Characters ###
  GRE_athanasios_klaras:0 "Athanasios Klaras"
  GRE_georgios_siantos:0 "Georgios Siantos"
  GRE_nikos_zachariadis:0 "Nikos Zachariadis"
@@ -891,4 +873,3 @@
  GRE_ioannis_toumbas:0 "Ioannis Toumbas"
  GRE_antonis_mezeviris:0 "Antonis Mezeviris"
  GRE_stylianos_lykoudis:0 "Stylianos Lykoudis"
-

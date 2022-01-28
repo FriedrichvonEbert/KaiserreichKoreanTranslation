@@ -74,12 +74,9 @@
  TRK_paternal_autocrat_party_long:0 "페르가나 임시정부"
  TRK_national_populist_party:0 "페르가나 임시정부"
  TRK_national_populist_party_long:0 "페르가나 임시정부"
- 
-### Country Names ###
  ALO:0 "알라시 오르다"
  ALO_ADJ:0 "알라시"
  ALO_DEF:0 "알라시 오르다"
-
  ALO_totalist:0 "알라시 사회주의 공화국"
  ALO_totalist_ADJ:0 "알라시"
  ALO_totalist_DEF:0 "알라시 사회주의 공화국"
@@ -89,19 +86,15 @@
  ALO_radical_socialist:0 "알라시 사회주의 공화국"
  ALO_radical_socialist_ADJ:0 "알라시"
  ALO_radical_socialist_DEF:0 "알라시 사회주의 공화국"
- 
  ALO_RUS_subject:0 "알라시 자치국"
  ALO_RUS_subject_ADJ:0 "알라시"
  ALO_RUS_subject_DEF:0 "알라시 자치국"
-
  ALO_SOV_subject:0 "알라시 자치국"
  ALO_SOV_subject_ADJ:0 "알라시"
  ALO_SOV_subject_DEF:0 "알라시 자치국"
-
- BUK:0 "Bukhara"
- BUK_ADJ:0 "Bukharan"
- BUK_DEF:0 "Bukhara"
- 
+ BUK:0 "부하라"
+ BUK_ADJ:0 "부하라"
+ BUK_DEF:0 "부하라"
  BUK_totalist:0 "부하라 공화국"
  BUK_totalist_ADJ:0 "부하라"
  BUK_totalist_DEF:0 "부하라 공화국"
@@ -111,19 +104,15 @@
  BUK_radical_socialist:0 "부하라 공화국"
  BUK_radical_socialist_ADJ:0 "부하라"
  BUK_radical_socialist_DEF:0 "부하라 공화국"
- 
  BUK_RUS_subject:0 "부하라 자치국"
  BUK_RUS_subject_DEF:0 "부하라 자치국"
  BUK_RUS_subject_ADJ:0 "부하라"
- 
  BUK_SOV_subject:0 "부하라 자치국"
  BUK_SOV_subject_DEF:0 "부하라 자치국"
  BUK_SOV_subject_ADJ:0 "부하라"
-
  KHI:0 "히바"
  KHI_ADJ:0 "히바"
  KHI_DEF:0 "히바"
-
  KHI_totalist:0 "화레즘 코뮌"
  KHI_totalist_ADJ:0 "화레즘"
  KHI_totalist_DEF:0 "화레즘 코뮌"
@@ -145,19 +134,15 @@
  KHI_social_conservative:0 "히바 공화국"
  KHI_social_conservative_ADJ:0 "히바"
  KHI_social_conservative_DEF:0 "히바 공화국"
- 
  KHI_RUS_subject:0 "화레즘 자치국"
  KHI_RUS_subject_ADJ:0 "화레즘"
  KHI_RUS_subject_DEF:0 "화레즘 자치국"
- 
  KHI_SOV_subject:0 "화레즘 자치국"
  KHI_SOV_subject_ADJ:0 "화레즘"
  KHI_SOV_subject_DEF:0 "화레즘 자치국"
-
  TRK:0 "투르케스탄"
  TRK_ADJ:0 "투르케스탄"
  TRK_DEF:0 "투르케스탄"
-
  TRK_totalist:0 "투르케스탄 코뮌"
  TRK_totalist_ADJ:0 "투르케스탄"
  TRK_totalist_DEF:0 "투르케스탄 코뮌"
@@ -185,20 +170,15 @@
  TRK_national_populist:0 "투르케스탄 공화국"
  TRK_national_populist_ADJ:0 "투르케스탄"
  TRK_national_populist_DEF:0 "투르케스탄 공화국"
- 
  TRK_RUS_subject:0 "투르케스탄 자치국"
  TRK_RUS_subject_ADJ:0 "투르케스탄"
  TRK_RUS_subject_DEF:0 "투르케스탄 자치국"
- 
  TRK_SOV_subject:0 "투르케스탄 자치국"
  TRK_SOV_subject_ADJ:0 "투르케스탄"
  TRK_SOV_subject_DEF:0 "투르케스탄 자치국"
-
-### Cosmetic Tags ###
  CA_united:0 "중앙아시아"
  CA_united_ADJ:0 "중앙아시아"
  CA_united_DEF:0 "중앙아시아"
- 
  CA_united_totalist:0 "중앙아시아 연방"
  CA_united_totalist_ADJ:0 "중앙아시아"
  CA_united_totalist_DEF:0 "중앙아시아 연방"
@@ -229,8 +209,6 @@
  CA_united_national_populist:0 "중앙아시아 연방"
  CA_united_national_populist_ADJ:0 "중앙아시아"
  CA_united_national_populist_DEF:0 "중앙아시아 연방"
- 
-### Characters ###
  ALO_zhumabay_shayakhmetov:0 "Zhumabay Shayakhmetov"
  ALO_saken_seifullin:0 "Saken Seifullin"
  ALO_alimkhan_yermekov:0 "Alimkhan Yermekov"
@@ -243,27 +221,20 @@
  ALO_smagul_sadwakasov:0 "Smagul Sadwakasov"
  ALO_sultanbek_khojanov:0 "Sultanbek Khojanov"
  ALO_zhumabay_shayakhmetuly:0 "Zhumabay Shayakhmetuly"
-
-### Characters ###
  BUK_fayzullah_khodjaev:0 "Fayzullah Khodjaev"
  BUK_sadriddin_ayni:0 "Sadriddin Ayni"
  BUK_mohammed_alim_khan:0 "Mohammed Alim Khan"
  BUK_ibrahim_bek:0 "Ibrahim Bek"
  BUK_mulla_abdul_qahhor:0 "Mulla Abdul Qahhor"
  BUK_shahmurad_khan:0 "Shahmurad Khan"
-
-### Characters ###
  KHI_balysh_ovezov:0 "Balysh Ovezov"
  KHI_junaid_khan:0 "Junaid Khan"
  KHI_eshi_khan:0 "Eshi Khan"
  KHI_oraz_geldy_kandzhik:0 "Oraz Geldy Kandzhik"
  KHI_azis_khan_chapykov:0 "Azis Khan Chapykov"
-
-### Characters ###
  TRK_turar_ryskulov:0 "Turar Ryskulov"
  TRK_mustafa_shokay:0 "Mustafa Shokay"
  TRK_madamin_bek:0 "Madamin Bek"
  TRK_kurshirmat:0 "Kurshirmat"
  TRK_muetdin_bek:0 "Muetdin Bek"
  TRK_katta_ergash:0 "Katta Ergash"
-

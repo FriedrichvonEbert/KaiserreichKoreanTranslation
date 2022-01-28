@@ -843,11 +843,9 @@
  egy.197.t:0 "Tripolitania Counters Our Influence"
  egy.197.d:0 "It seems that the government in Tripoli has caught wind of our latest attempt to pursue the pan-Arab dream in their state and pulled out all the stops in an attempt to 'protect' their citizens from 'foreign subterfuge'. A setback to be sure but the bureau in Cairo is confident that it is only temporary and is working hard to ensure that the next operation is all the more successful."
  egy.197.a:0 "A small setback."
-### Cosmetic Tags ###
  EGY:0 "이집트 공화국"
  EGY_ADJ:0 "이집트"
  EGY_DEF:0 "이집트 공화국"
-
  EGY_totalist:0 "이집트 공화국"
  EGY_totalist_ADJ:0 "이집트"
  EGY_totalist_DEF:0 "이집트 공화국"
@@ -878,7 +876,6 @@
  EGY_national_populist:0 "이집트 술탄국"
  EGY_national_populist_ADJ:0 "이집트"
  EGY_national_populist_DEF:0 "이집트 술탄국"
-
  EGY_khedivate_social_democrat:0 "이집트 케디브국"
  EGY_khedivate_social_democrat_ADJ:0 "이집트"
  EGY_khedivate_social_democrat_DEF:0 "이집트 케디브국"
@@ -900,8 +897,6 @@
  EGY_khedivate_national_populist:0 "이집트 케디브국"
  EGY_khedivate_national_populist_ADJ:0 "이집트"
  EGY_khedivate_national_populist_DEF:0 "이집트 케디브국"
-
-### Characters ###
  EGY_abdel_moneim_i:0 "Abdel Moneim I"
  EGY_abbas_ii:0 "Abbas II"
  EGY_gamel_abdel_nasser:0 "Gamel Abdel Nasser"

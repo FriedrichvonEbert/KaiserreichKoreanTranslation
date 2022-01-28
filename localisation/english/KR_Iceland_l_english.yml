@@ -396,35 +396,26 @@
  ICE_Expand_Ports_tt:0 "Unlocks §Ydecisions§! to deal with upgrading the ports of Iceland"
  DEN_allowed_greenland_fishing:0 "Denmark has allowed us to fish off the coast of Greenland"
  ICE_purchased_designs_tt:0 "Purchased Naval Designs"
-
  ICE_resist_minus_5_tt:0 "§GResistance Strength§! decreases by §R5§!\n"
  ICE_resist_minus_10_tt:0 "§GResistance Strength§! decreases by §R10§!\n"
  ICE_resist_minus_15_tt:0 "§GResistance Strength§! decreases by §R15§!\n"
-
  ICE_resist_plus_5_tt:0 "§GResistance Strength§! increases by §G5§!\n"
  ICE_resist_plus_10_tt:0 "§GResistance Strength§! increases by §G10§!\n"
  ICE_resist_plus_15_tt:0 "§GResistance Strength§! increases by §G15§!\n"
-
  ICE_popularity_minus_5_tt:0 "§CResistance Popularity§! decreases by §R5§!\n"
  ICE_popularity_minus_10_tt:0 "§CResistance Popularity§! decreases by §R10§!\n"
  ICE_popularity_minus_15_tt:0 "§CResistance Popularity§! decreases by §R15§!\n"
  ICE_popularity_minus_20_tt:0 "§CResistance Popularity§! decreases by §R20§!\n"
-
  ICE_popularity_plus_5_tt:0 "§CResistance Popularity§! increases by §G5§!\n"
  ICE_popularity_plus_10_tt:0 "§CResistance Popularity§! increases by §G10§!\n"
  ICE_popularity_plus_15_tt:0 "§CResistance Popularity§! increases by §G15§!\n"
  ICE_popularity_plus_20_tt:0 "§CResistance Popularity§! increases by §G20§!\n"
-
  ICE_occupation_minus_5_tt:0 "§ROccupation Strength§! decreases by §G5§!\n"
  ICE_occupation_minus_10_tt:0 "§ROccupation Strength§! decreases by §G10§!\n"
  ICE_occupation_minus_15_tt:0 "§ROccupation Strength§! decreases by §G15§!\n"
  ICE_occupation_minus_20_tt:0 "§ROccupation Strength§! decreases by §G20§!\n"
-
-#The resistance is capable of launching a small attack
-#The resistance is capable of launching an attack
  ICE_ready_small_attack:0 "§GResistance Strength§! is greater than §Y15§!\n§CResistance Popularity§! is greater than §Y20§!"
  ICE_ready_medium_attack:0 "§GResistance Strength§! is greater than §Y35§!\n§CResistance Popularity§! is greater than §Y40§!"
-
  ICE_Spread_Propaganda:0 "Spread Propaganda"
  ICE_Spread_Propaganda_desc:0 "Discretely, we shall move through the towns of this country and discretely plant messages that align with our cause to bring the people to our side."
  ICE_Broadcast_Propaganda:0 "Broadcast Propaganda"
@@ -903,11 +894,9 @@
  pos_twenty:0 "Declined Canadian fuel deal"
  neg_twenty:0 "Declined Canadian fuel deal"
  neg_sixty:0 "Expanded into our waters!"
- 
  ICE:0 "아이슬란드"
  ICE_ADJ:0 "아이슬란드"
  ICE_DEF:0 "아이슬란드"
-
  ICE_totalist:0 "아이슬란드 연방"
  ICE_totalist_ADJ:0 "아이슬란드"
  ICE_totalist_DEF:0 "아이슬란드 연방"
@@ -917,7 +906,6 @@
  ICE_radical_socialist:0 "아이슬란드 연방"
  ICE_radical_socialist_ADJ:0 "아이슬란드"
  ICE_radical_socialist_DEF:0 "아이슬란드 연방"
-
  ICE_icelandic_republic_social_democrat:0 "아이슬란드 공화국"
  ICE_icelandic_republic_social_democrat_ADJ:0 "아이슬란드"
  ICE_icelandic_republic_social_democrat_DEF:0 "아이슬란드 공화국"
@@ -939,7 +927,6 @@
  ICE_icelandic_republic_national_populist:0 "아이슬란드 공화국"
  ICE_icelandic_republic_national_populist_ADJ:0 "아이슬란드"
  ICE_icelandic_republic_national_populist_DEF:0 "아이슬란드 공화국"
-
  ICE_icelandic_kingdom_social_democrat:0 "아이슬란드 왕국"
  ICE_icelandic_kingdom_social_democrat_ADJ:0 "아이슬란드"
  ICE_icelandic_kingdom_social_democrat_DEF:0 "아이슬란드 왕국"
@@ -961,8 +948,6 @@
  ICE_icelandic_kingdom_national_populist:0 "아이슬란드 왕국"
  ICE_icelandic_kingdom_national_populist_ADJ:0 "아이슬란드"
  ICE_icelandic_kingdom_national_populist_DEF:0 "아이슬란드 왕국"
- 
-### Characters ###
  ICE_brynjolfur_bjarnason:0 "Brynjólfur Bjarnason"
  ICE_hannibal_valdimarsson:0 "Hannibal Valdimarsson"
  ICE_jon_baldvinsson:0 "Jón Baldvinsson"
@@ -975,4 +960,3 @@
  ICE_niels_juel_brockdorff:0 "Niels Juel-Brockdorff"
  ICE_soren_arendrup:0 "Søren Arendrup"
  ICE_asger_grandjean:0 "Asger Grandjean"
-

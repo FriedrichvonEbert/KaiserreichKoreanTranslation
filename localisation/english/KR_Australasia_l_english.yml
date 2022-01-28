@@ -1,11 +1,8 @@
 ﻿l_english:
  KR_Australasia:0 "오스트랄라시아 중점계통도"
- 
-### Country Names ###
  AST:0 "오스트랄라시아"
  AST_ADJ:0 "오스트랄라시아"
  AST_DEF:0 "오스트랄라시아"
-
  AST_totalist:0 "오스트랄라시아 연방"
  AST_totalist_ADJ:0 "오스트랄라시아"
  AST_totalist_DEF:0 "오스트랄라시아 연방"
@@ -36,11 +33,9 @@
  AST_national_populist:0 "오스트랄라시아 연합"
  AST_national_populist_ADJ:0 "오스트랄라시아"
  AST_national_populist_DEF:0 "오스트랄라시아 연합"
-
  AST_australia:0 "오스트레일리아"
  AST_australia_ADJ:0 "오스트레일리아"
  AST_australia_DEF:0 "오스트레일리아"
-
  AST_australia_totalist:0 "오스트레일리아 연방"
  AST_australia_totalist_ADJ:0 "오스트레일리아"
  AST_australia_totalist_DEF:0 "오스트레일리아 연방"
@@ -50,7 +45,6 @@
  AST_australia_radical_socialist:0 "오스트레일리아 연방"
  AST_australia_radical_socialist_ADJ:0 "오스트레일리아"
  AST_australia_radical_socialist_DEF:0 "오스트레일리아 연방"
-
  AST_republic_totalist:0 "오스트랄라시아 연방"
  AST_republic_totalist_ADJ:0 "오스트랄라시아"
  AST_republic_totalist_DEF:0 "오스트랄라시아 연방"
@@ -81,11 +75,9 @@
  AST_republic_national_populist:0 "오스트랄라시아 공화국"
  AST_republic_national_populist_ADJ:0 "오스트랄라시아"
  AST_republic_national_populist_DEF:0 "오스트랄라시아 공화국"
-
  AST_australia_republic:0 "오스트레일리아"
  AST_australia_republic_ADJ:0 "오스트레일리아"
  AST_australia_republic_DEF:0 "오스트레일리아"
-
  AST_australia_republic_totalist:0 "오스트레일리아 연방"
  AST_australia_republic_totalist_ADJ:0 "오스트레일리아"
  AST_australia_republic_totalist_DEF:0 "오스트레일리아 연방"
@@ -116,7 +108,6 @@
  AST_australia_republic_national_populist:0 "오스트레일리아 공화국"
  AST_australia_republic_national_populist_ADJ:0 "오스트레일리아"
  AST_australia_republic_national_populist_DEF:0 "오스트레일리아 공화국"
-
  AST_totalist_party:0 "최대주의당"
  AST_totalist_party_long:0 "오스트랄라시아 최대주의당"
  AST_radical_socialist_party:0 "사회당"
@@ -182,8 +173,6 @@
  AST_recent_trade_mission:0 "지난 3개월 내에 무역사절단을 보냈습니다."
  AST_labor_has_split:0 "생디칼리스트들이 노동당에서 분리되었습니다.\n"
  AST_rats_of_tobruk_effect_2:0 "엘리트 특공대가 시드니에 나타날 것입니다."
- 
-### Companies ###
  amalgamated_wireless_australasia:0 "Amalgamated Wireless Australasia"
  broken_hill:0 "Broken Hill Proprietary Company Ltd."
  commonwealth_oil_refineries:0 "Commonwealth Oil Refineries"
@@ -200,13 +189,10 @@
  cockatoo_island:0 "Cockatoo Island Naval Dockyard"
  walkers_limited:0 "Walkers Limited"
  vickers_armstrong_australasia:0 "Vickers-Armstrong Australasia"
-
-### Scripted Loc ###
  AST_airforce_royal:0 "RAAF"
  AST_airforce_default:0 "AAF"
  AST_navy_royal:0 "RAN"
  AST_navy_default:0 "AN"
-
  AST_oversized_fleet:0 "비대한 함대"
  AST_oversized_fleet_desc:0 "In the chaotic aftermath of Britain's downfall, many ships fled to Australasia to find refuge - far more than could be maintained in the country's meagre ports. Even with many ships mothballed (4 battleships, 2 battlecruisers, and almost 50 smaller ships), it still is too much for Australia to handle. A solution needs to be found."
  AST_upgrading_reserve:0 "해군 예비함 개선"
@@ -1193,8 +1179,6 @@
  austral.370.t:0 "식민지 유지"
  austral.370.d:0 "제안에 대한 진심어린 감사와 함께 [From.GetAdjective] 정부는 식민지를 돌려받는 것을 거절했습니다. 그들의 말로는 [Root.GetNameDefCap](은)는 명백히 그 땅에 자신들보다 더 나은 보호를 제공할 수 있으며 우리가 그들만큼 그 땅을 잘 관리할 것을 신뢰한다고 합니다."
  austral.370.a:0 "오? 그들이 그렇게 해주다니 대단하군."
- 
-### Characters ###
  AST_john_bramwell_miles:0 "John Bramwell Miles"
  AST_lance_sharkey:0 "Lance Sharkey"
  AST_fred_paterson:0 "Fred Paterson"

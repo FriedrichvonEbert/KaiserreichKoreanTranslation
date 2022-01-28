@@ -1,11 +1,8 @@
 ﻿l_english:
  bhutan_tree:0 "부탄 중점계통도"
- 
-### Country Names ###
  BHU:0 "부탄"
  BHU_ADJ:0 "부탄"
  BHU_DEF:0 "부탄"
-
  BHU_DRUK_authoritarian_democrat:0 "드루크 제국"
  BHU_DRUK_authoritarian_democrat_ADJ:0 "부탄"
  BHU_DRUK_authoritarian_democrat_DEF:0 "드루크 제국"
@@ -15,7 +12,6 @@
  BHU_DRUK_national_populist:0 "드루크 제국"
  BHU_DRUK_national_populist_ADJ:0 "부탄"
  BHU_DRUK_national_populist_DEF:0 "드루크 제국"
-
  POLITICS_JIGME_WANGCHUCK_DESC:0 "21세의 나이로 왕위에 오른 드루크걀포(용왕) 지그메 왕축은 자신이 흥미롭지는 않지만 유능한 지도자임을 증명하였습니다. 지그메는 이웃한 티베트와 인도의 불안정에도 세계에서의 부탄의 위치를 협상하였습니다. 비록 많은 사람들은 이러한 성공을 그의 공짐(총리)과 협력자인 소남 토프가이 도르지그에게 돌렸지만, 그의 산악 왕국은 현상을 유지하였습니다. 지평선에서 먹구름이 피어오르는 가운데 지그메가 젊은 왕국을 계속 장악할 수 있을지에 관하여 의문이 있습니다."
  POLITICS_TSHERING_PENJOR_DESC:0 "가혹하고 잔인한 남자인 체링 펜조르의 드루크걀포(용왕)로서의 능력을 의심하는 사람은 거의 없습니다. 그는 모순적이고, 금방 웃으면서도 금방 화를 내며, 수많은 후궁들을 거느리고 있지만, 아내는 없습니다. 파로 펜롭이 왜 군주의 죽음 이후 왕좌를 차지하였는지, 그가 확고하고 강력한 통치자로서 부탄을 인도할 필요를 느꼈는지, 아니면 단지 10년 전에 그에게 약속된 칭호를 원하였는지는 아무도 확실히 알지 못합니다."
  POLITICS_JIGME_DORJI_DESC:0 "작고한 지그메 국왕의 장남인 어린 지그메 도르지는 가문의 이름 외에는 권력을 거의 가지고 있지 않습니다. 그러나 선왕의 교육은 그를 산악 왕국 밖으로 데리고 나가 외부 세계의 지식과 자신의 왕국에서의 개혁을 위한 열망을 주기 시작하였습니다. 섭정인 소남 토프가이 도르지가 왕국을 통치하고 있지만, 지그메 도르지 국왕이 즉위 이후 국가를 위한 큰 계획이 있다는 것은 의심의 여지가 없습니다."
@@ -110,7 +106,7 @@
  BHU_Phuentscholing_Treaty_Puppet_desc:0 "The Treaty of Phuentscholing largely serves as a gateway into the wider world for Bhutan. Vast political concessions made with India has provided Bhutan with a small monetary stipend and the ability to trade through their southern border. With Bhutan now firmly within India's sphere of influence, the benefits of their economic partnership are especially strong."
  BHU_Indian_Trade:0 "인도와의 무역"
  BHU_Indian_Trade_desc:0 "Political concessions made with unified India has provided Bhutan with the ability to trade through their southern border, connecting them with the wider world and helping to strengthen the Bhutanese government."
- BHU_Mighty_Fruits1:0 "우리 위대함의 성과"
+ BHU_Mighty_Fruits:0 "The Fruits of our Might"
  BHU_Labour_Fruits:0 "The Fruits of our Labour"
  BHU_defence_effort1:0 "Defensive Effort"
  BHU_defence_effort2:0 "Defensive Effort"
@@ -264,7 +260,6 @@
  BHU_End_Great_Purge:0 "End the Great Purge"
  BHU_Integrate_Nepal:0 "시킴 통합"
  BHU_Confront_Nepal:0 "네팔에 맞서자"
- 
  BHU_Raid_Nepal:0 "Raid Nepal"
  BHU_Raid_Tibet:0 "Raid Tibet"
  BHU_Raid_India:0 "Raid India"
@@ -287,9 +282,6 @@
  BHU_Increase_Local_Military_Investment:0 "Equip Local Militia Cadres"
  BHU_Decrease_Local_Military_Investment:0 "Reduce Military Oversight"
  BHU_country_namechange_decision:0 "Proclaim the Thunder Dragon Empire"
- 
-### Flags ###
-
  economic_isolation:0 "고립 경제"
  BHU_stabilized:0 "국가가 안정화되었습니다"
  BHU_jw_win:0 "지그메 왕축이 드루크 걀포로서 통치함"
@@ -306,7 +298,6 @@
  bhu_mil_invest:0 "Military Investment"
  bhu_econ_dev:0 "Economic Development"
  bhu_raiding:0 "Currently Raiding"
-
  BHU_totalist_party:0 "드루크 국민의회"
  BHU_totalist_party_long:0 "Druk National Congress (Maximists)                         §gA club of noble exiles, socialists, and Indian agents, the Druk National Congress is a collection of misfits. Founded in Calcutta following a crackdown against radical Gewog leaders, the Congress has done very little since its creation. However, the rise of Subhas Chandra Bose has brought about increased Indian investment into the DNC, intending to use this collection of dissidents to destabilise Bhutan. The Maximist faction is intensely devoted to Bose and prioritizes destruction of reactionary elements in the country and loyalty to the Commune.§!"
  BHU_syndicalist_party:0 "드루크 국민의회"
@@ -775,8 +766,6 @@
  bhutan.127.t:0 "Sonam Topgye Dorji Falls from Grace"
  bhutan.127.d:0 "Gongzim Sonam Topgye Dorji has long been a close confidant of the king, ever since the minister clamoured to give Jigme the crown in the wake of his father’s death. In recent days, however, Jigme has listened to his first minister less and less, instead lending his ear to the Traditionalists under the Tshering Penjor. While Sonam Topgye continues to hold a great deal of power in Bhutan, with his Bhutan House as the centre of southern trade and his position as Gongzim intact, there is no question that his days of preeminence are over. In his place, the king has turned to Tshering Penjor’s two most senior lieutenants, Namgyal Bahadur and Zamadar Chencho, who seek to continue the kingdom’s new trajectory away from reform."
  bhutan.127.a:0 "A new chapter dawns in Bhutan"
-
-### Characters ###
  BHU_db_gurung:0 "D.B. Gurung"
  BHU_mahasur_chhetri:0 "Mahasur Chhetri"
  BHU_bal_bahadur_basnet:0 "Bal Bahadur Basnet"

@@ -1,10 +1,7 @@
 ﻿l_english:
-
-### Country Names ###
  CRO:0 "크로아티아"
  CRO_ADJ:0 "크로아티아"
  CRO_DEF:0 "크로아티아"
-
  CRO_totalist:0 "크로아티아 사회주의 공화국"
  CRO_totalist_ADJ:0 "크로아티아"
  CRO_totalist_DEF:0 "크로아티아 사회주의 공화국"
@@ -14,11 +11,9 @@
  CRO_radical_socialist:0 "크로아티아 사회주의 공화국"
  CRO_radical_socialist_ADJ:0 "크로아티아"
  CRO_radical_socialist_DEF:0 "크로아티아 사회주의 공화국"
-
  CRO_illyria:0 "일리리아"
  CRO_illyria_ADJ:0 "일리리아"
  CRO_illyria_DEF:0 "일리리아"
-
  CRO_illyria_totalist:0 "일리리아 사회주의 공화국"
  CRO_illyria_totalist_ADJ:0 "일리리아"
  CRO_illyria_totalist_DEF:0 "일리리아 사회주의 공화국"
@@ -28,11 +23,9 @@
  CRO_illyria_radical_socialist:0 "일리리아 사회주의 공화국"
  CRO_illyria_radical_socialist_ADJ:0 "일리리아"
  CRO_illyria_radical_socialist_DEF:0 "일리리아 사회주의 공화국"
-
  BOS:0 "보스니아"
  BOS_ADJ:0 "보스니아"
  BOS_DEF:0 "보스니아"
-
  BOS_totalist:0 "보스니아 사회주의 공화국"
  BOS_totalist_ADJ:0 "보스니아"
  BOS_totalist_DEF:0 "보스니아 사회주의 공화국"
@@ -42,7 +35,6 @@
  BOS_radical_socialist:0 "보스니아 사회주의 공화국"
  BOS_radical_socialist_ADJ:0 "보스니아"
  BOS_radical_socialist_DEF:0 "보스니아 사회주의 공화국"
-
  CRO_totalist_party:0 "사회노동당 (주도파)"
  CRO_totalist_party_long:0 "사회노동당 (주도파)"
  CRO_syndicalist_party:0 "사회노동당 (혁명파)"
@@ -69,8 +61,6 @@
  CRO_EDUARD_BONA_ARMY_DESC:0 "§YGeneral Description\nBorn:§L March 14, 1894, in Ogulin, Croatia-Slavonia, Austria-Hungary\n§YMilitary Career:§L Scion of the oldest of Dubrovnik’s noble families and one of the oldest in Europe, Bunić chose a military career early in his life. He had barely been commissioned as a junior officer when the Weltkrieg broke out, and he would serve through the entire war in various cavalry regiments. By the end of the war, he was a captain, and he stayed in the Home Guard afterwards. In 1924, he attended the Kriegsschule in Vienna to train as a staff officer before being assigned to the Ministry of Defence in Zagreb, slowly rising to the rank of colonel by 1936. While he has no frontline experience at a level higher than company-level, he is one of the few Croat officers with experience with cavalry, even if that arm of the Home Guard has seen limited love since the war."
  CRO_MATIJA_CANIC_ARMY_DESC:0 "§YGeneral Description\nBorn:§L 1901, in Gospić, Croatia-Slavonia, Austria-Hungary\n§YMilitary Career:§L Little is known about Čanić’s early life. What is known is that he served in the Croatian-Slavonian Home Guard during the latter part of the Weltkrieg. By the end of it, he was captain of a cavalry squadron of the 10th Home Guard Hussar Regiment. After the war, he remained in the Home Guard as it was reorganised into the military force of the reorganised Kingdom of Illyria. He was eventually set to Vienna to take staff officer courses at the Kriegsschule, graduating in 1926. He then served in the Illyrian Ministry of Defence, where he rose to the rank of colonel. It is no secret that he is a very young commander with limited experience, and what little he has was commanding nothing larger than a squadron."
  CRO_VLADIMIR_LAXA_ARMY_DESC:0 "§YGeneral Description\nBorn:§L January 21, 1870, in Sisak, Croatia-Slavonia, Austria-Hungary\n§YMilitary Career:§L Commissioned into the Austro-Hungarian Army in 1890, Laxa was already a senior officer when the Weltkrieg broke out. In 1917, as colonel of the general staff and commander of the 18th Infantry Brigade, he distinguished himself during the Eleventh Battle of the Isonzo: For \"heroism, enormous bravery, and tenaciously successful defence of positions\", he was awarded the Military Order of Maria Theresia, the Austro-Hungarian Army’s top award. He was, without a doubt, one of the most distinguished Croat senior officers of the war, and rapidly rose through the ranks after its conclusion. He is largely seen as de facto \"second-in-command\" of the Illyrian Home Guard behind Kvaternik, with General Dragojlov his nearest equivalent. However, his relationship with the former remains tense, and could become strained over disagreements in leadership style."
- 
-### Companies ###
  ganz_kroatien_slawonien:0 "Ganz Kroatien-Slawonien"
  koncar_elektroindustrija:0 "Končar Elektroindustrija"
  ina:0 "INA"
@@ -79,7 +69,6 @@
  tzv_gredelj:0 "TŽV Gredelj"
  aviatik_kroatien_slawonien:0 "Aviatik Kroatien-Slawonien"
  brodosplit:0 "Brodosplit"
-
  CRO_croatian_command:0 "크로아티아인 공무원"
  CRO_croatian_command_desc:0 "크로아티아인들은 일리리아를 오스트리아로부터 자유롭게 하기 위해 싸웠지만, 다른 일리리아인들은 도시에 숨어 아무것도 하지 않았습니다. 이러한 이유로 우리는 다른 국민들을 빼놓고 모든 공직을 크로아티아인들만 오를 수 있도록 제한해야 합니다."
  CRO_SLVintegration:0 "슬로베니아 통합"
@@ -98,11 +87,7 @@
  illyria.5.t:0 "고속도로 '통합'"
  illyria.5.d:0 "우리 수상이 일리리아에서 가장 큰 도시들 - 자그레브, 사라예보, 포드고리차 - 를 연결하기 위해 '통합'이라는 이름의 고속도로를 건설하자고 제안했습니다. 오스트리아의 지원금으로 충분한 인력을 고용하고 곧 건설을 완료할 수 있을 것입니다. 또한 이 계획은 실업률을 낮추고 왕국의 건설 시장에 활기를 불어넣는 데 도움을 줄 것입니다."
  illyria.5.a:0 "우리는 일했고, 일하며, 더 일할 것이다!"
- 
-### Characters ###
  BOS_dzafer_kulenovic:0 "Džafer Kulenović"
- 
-### Characters ###
  CRO_stjepan_radic:0 "Stjepan Radić"
  CRO_ivo_pillar:0 "Ivo Pillar"
  CRO_slavko_kvaternik:0 "Slavko Kvaternik"

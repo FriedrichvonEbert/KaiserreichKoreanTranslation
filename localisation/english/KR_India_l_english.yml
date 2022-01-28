@@ -1,69 +1,50 @@
 ﻿l_english:
-
  ASM:0 "아삼"
  ASM_ADJ:0 "아삼"
  ASM_DEF:0 "아삼"
-
  BNG:0 "벵갈"
  BNG_ADJ:0 "벵갈"
  BNG_DEF:0 "벵갈"
-
  BOM:0 "마하라슈트라"
  BOM_ADJ:0 "마하라슈트라"
  BOM_DEF:0 "마하라슈트라"
-
  CEY:0 "실론"
  CEY_ADJ:0 "실론"
  CEY_DEF:0 "실론"
-
  GUJ:0 "구자라트"
  GUJ_ADJ:0 "구자라트"
  GUJ_DEF:0 "구자라트"
-
  HYD:0 "하이데라바드"
  HYD_ADJ:0 "하이데라바드"
  HYD_DEF:0 "하이데라바드"
-
  INR:0 "바라티야 반란"
  INR_ADJ:0 "바라티야"
  INR_DEF:0 "바라티야 반군"
-
  KAS:0 "카슈미르"
  KAS_ADJ:0 "카슈미르"
  KAS_DEF:0 "카슈미르"
-
  MYS:0 "마이소르"
  MYS_ADJ:0 "마이소르"
  MYS_DEF:0 "마이소르"
-
  ORI:0 "오리사"
  ORI_ADJ:0 "오리사"
  ORI_DEF:0 "오리사"
-
  PAK:0 "파키스탄"
  PAK_ADJ:0 "파키스탄"
  PAK_DEF:0 "파키스탄"
-
  PAK_punjab:0 "펀자브"
  PAK_punjab_ADJ:0 "펀자브"
  PAK_punjab_DEF:0 "펀자브"
-
  PJB:0 "칼리스탄"
  PJB_ADJ:0 "칼리스탄"
  PJB_DEF:0 "칼리스탄"
-
  RJS:0 "라자스탄"
  RJS_ADJ:0 "라자스탄"
  RJS_DEF:0 "라자스탄"
-
  TRV:0 "트라방코르"
  TRV_ADJ:0 "트라방코르"
  TRV_DEF:0 "트라방코르"
-
-### Characters ###
  BNG_muzaffar_ahmed:0 "Muzaffar Ahmed"
-
-### Characters ###
  CEY_sugiswara_abeywardena_wickramasinghe:0 "Sugiswara Abeywardena Wickramasinghe"
  CEY_nanayakkarapathirage_martin_perera:0 "Nanayakkarapathirage Martin Perera"
  CEY_philip_gunawardena:0 "Philip Gunawardena"
@@ -75,19 +56,11 @@
  CEY_robert_burton_leslie:0 "Robert Burton Leslie"
  CEY_john_lionel_kotelawala:0 "John Lionel Kotelawala"
  CEY_willoughby_greaves_beauchamp:0 "Willoughby Greaves Beauchamp"
-
-### Characters ###
  GUJ_bahman_pestonji_wadia:0 "Bahman Pestonji Wadia"
  GUJ_sayajirao_gaekwad_iii:0 "Sayajirao Gaekwad III"
-
-### Characters ###
  PAK_aga_khan_iii:0 "Aga Khan III"
  PAK_liaquat_ali_khan:0 "Liaquat Ali Khan"
  PAK_allama_mashriqi:0 "Allama Mashriqi"
  PAK_abul_ala_maududi:0 "Abul A'la Maududi"
-
-### Characters ###
  PJB_tara_singh:0 "Tara Singh"
-
-### Characters ###
  RJS_sawai_man_singh_ii:0 "Sawai Man Singh II"

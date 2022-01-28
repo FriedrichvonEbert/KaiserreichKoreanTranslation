@@ -1,12 +1,8 @@
 ﻿l_english:
  costa_rica_focus:0 "코스타리카 중점계통도"
- 
-### Country Names ###
  COS:0 "코스타리카"
  COS_ADJ:0 "코스타리카"
  COS_DEF:0 "코스타리카"
-
-### Parties ###
  COS_totalist_party_long:0 "인민전위당"
  COS_totalist_party:0 "인민전위당"
  COS_syndicalist_party_long:0 "인민전위당"
@@ -896,8 +892,6 @@
  cos.131.t:0 "캐나다가 거절하다!"
  cos.131.d:0 "놀랍게도 캐나다 정부는 우리의 제안을 정중하게 거절했습니다. 언젠가 우리를 방위해 줘야 한다는 두려움 때문일 것입니다."
  cos.131.a:0 "최소한 시도는 해 봤잖아."
- 
-### Characters ###
  COS_manuel_mora_valverde:0 "Manuel Mora Valverde"
  COS_rafael_angel_calderon_guardia:0 "Rafael Ángel Calderón Guardia"
  COS_teodoro_picado_michalski:0 "Teodoro Picado Michalski"

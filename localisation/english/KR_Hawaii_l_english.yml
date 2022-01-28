@@ -20,7 +20,6 @@
  HAW_paternal_autocrat_party_long:0 "긴급이사회"
  HAW_national_populist_party:0 "하와이 국민당"
  HAW_national_populist_party_long:0 "하와이 국민당"
- 
  dole:0 "Hawaiian Pineapple Company"
  university_of_hawaii:0 "University of Hawaii"
  wahiawa_armory:0 "Wahiawa Armoury"
@@ -557,7 +556,6 @@
  HAW:0 "하와이"
  HAW_ADJ:0 "하와이"
  HAW_DEF:0 "하와이"
-
  HAW_totalist:0 "하와이 코뮌"
  HAW_totalist_ADJ:0 "하와이"
  HAW_totalist_DEF:0 "하와이 코뮌"
@@ -567,8 +565,6 @@
  HAW_radical_socialist:0 "하와이 코뮌"
  HAW_radical_socialist_ADJ:0 "하와이"
  HAW_radical_socialist_DEF:0 "하와이 코뮌"
-
-### Characters ###
  HAW_jack_denichi_kimoto:0 "Jack Denichi Kimoto"
  HAW_jack_wayne_hall:0 "Jack Wayne Hall"
  HAW_arthur_abraham_rutledge:0 "Arthur Abraham Rutledge"
@@ -588,4 +584,3 @@
  HAW_gordon_paiea_chung_hoon:0 "Gordon Pai'ea Chung-Hoon"
  HAW_benjamin_vaughan_mccandlish:0 "Benjamin Vaughan McCandlish"
  HAW_husband_edward_kimmel:0 "Husband Edward Kimmel"
-

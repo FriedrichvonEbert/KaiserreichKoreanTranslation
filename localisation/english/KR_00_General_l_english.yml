@@ -1,31 +1,14 @@
 ﻿l_english:
-
-###################
-### Please note ###
-###################
-# The splash screen credits are a list of all current contributors to the mod. It isn't a full list of everyone who helps out, or everyone who has ever helped
-# A more complete list can be found in \interface\credits.txt
-# When updating this list, please make sure to also update that credit list as well, as well as updating the other credit lists we keep (change notes, steam workshop descriptions etc.)
-# Some of those can only be updated by a Kaiserdev, so if you aren't one, please tell one when updating this list
-
-### Splash Screen Credits ###
  KR_SPLASH_TITLE:0 "카이저라이히에 오신 것을 환영합니다"
  KR_SPLASH_CREDITS:0 "§Y카라 개발팀 일동:§!\nAdrianator2, Alpinia, Arvidus, Asratius, Augenis, Blackfalcon501, Carmain, Chazem, Conor, DSFDarker, El Daddy, Flamefang, Gaboemi, Gideones, Hamfast, hildagrim, Ido, Igor050301, JazzyHugh, Jeankedezeehond, Jonny BL, KFateweaver, Kennedy, kergely, Krčo, Luwofe, Matoro, McOmghall, ~mw~ // miwaco, NukeGaming, OMD, Owenomaly, PPsyrius, Pelmen, RagnoStrangeros, Rei VL, Retrocognition, Rnk, Shiroe, Starguard, Story, suzuha, The Alpha Dog, The Irredentista, The Italian Jojo, Vidyaország, Zaddy-Chan and Zimbabwe Salt Co."
- 
- 
-### Main Menu Tooltips ###
  KR_MAIN_MENU_LINK:0 "카이저라이히 위키로 이동하려면 여기를 클릭하세요"
  LOGO_MAIN_MENU_LINK:0 "패치노트를 보려면 여기를 클릭하세요"
  KR_min_version_warning:0 "§YKR needs v1.11.5 or higher to run§!"
  KR_min_version_warning_desc:0 "If your version is below v1.11.5, you might have to subscribe to the open beta of HOI4.\n\nYou can subscribe to the §YHOI4 BETA§! by:\n• right-clicking on the game in your §GSteam Library§!\n• clicking "§GProperties...§!"\n• selecting the "§GBETAS§!" category in the menu\n• and there, choosing "§Gopen_beta - Open Beta§!" from the drop-down menu."
-
-### Diplomacy Tooltips ###
  REQUEST_EXP_FORCE_BLOCKED_TT:0 "§R이 나라는 당신의 군대 요청을 거부합니다.§!"
  RECALL_VOLUNTEERS_TITLE:0 "의용군 소환"
  RECALL_VOLUNTEERS_ACTION_DESC:0 "이 국가에 보낸 모든 의용군을 소환합니다."
  RECALL_VOLUNTEERS_ACTION_SEND_DESC:0 "§Y[FROM.GetNameDef]§! 측에 보낸 모든 자원병을 소환하겠습니까?"
- 
-### Regular Tooltips ###
  empty:0 ""
  if_FROM_agrees:0 "만일 §H[From.GetFlag] [From.GetNameDef]§! 측이 등의할 시:"
  needs_approval:0 "만일 §H[This.GetNameDef]§! 측이 동의할 시:"
@@ -50,7 +33,6 @@
  characters_will_be_recruited:0 "§GThe following characters will be recruited:§!"
  tooltip_immediate_effect_upon_focus_start:0 "§YImmediate effect upon focus start:§!\n"
  tooltip_effect_upon_focus_completion:0 "\n§GEffect upon focus completion:§!\n"
-
  same_wars_as_ROOT:0 "Isn't at war with anyone who isn't also at war with [Root.GetNameDef]"
  same_wars_as_FROM:0 "Isn't at war with anyone who isn't also at war with [From.GetNameDef]"
  same_wars_as_TARGET:0 "Isn't at war with anyone who isn't also at war with [?target.GetNameDef]"
@@ -59,8 +41,6 @@
  same_wars_as_JAP:0 "Isn't at war with anyone who isn't also at war with [JAP.GetNameDef]"
  same_wars_as_AUS:0 "Isn't at war with anyone who isn't also at war with [AUS.GetNameDef]"
  same_wars_as_ENT:0 "Isn't at war with anyone who isn't also at war with the Entente"
-
-### Regional Triggers ###
  is_in_asia:0 "(은)는 §H아시아§! 국가임"
  is_in_india:0 "(은)는 §H인도§! 국가임"
  is_in_europe:0 "(은)는 §H유럽§! 국가임"
@@ -71,8 +51,6 @@
  is_in_americas:0 "(은)는 §H미국§! 국가임"
  is_in_middle_east:0 "(은)는 §H중동§! 국가임"
  is_in_oceania:0 "(은)는 §H오세아니아§! 국가임"
- 
-### Actual Major Power tooltip ###
  is_actual_major_tooltip_base:0 " 강대국:"
  is_actual_major_tooltip_major:0 "\n     [THIS.MajorWorldPower_MajorCheck] $TRIGGER_IS_MAJOR$"
  is_actual_major_tooltip_OR:0 "\n     $TRIGGER_OR_STARTS$"
@@ -80,11 +58,8 @@
  is_actual_major_tooltip_average:0 "\n          [THIS.MajorWorldPower_MoreThanSeventyPercentAverage](은)는 7대 경제대국 평균 산업력의 70%보다 더 큰 산업력을 지님"
  is_actual_major_tooltip_countries:0 "\n          [THIS.MajorWorldPower_SpecialCase](은)는 §H독일§!, §H프랑스§!, §H영국§!, §H미국§!, §H러시아§! 혹은 §H일본§! 국가임"
  is_actual_major_tooltip_ENT:0 "\n          [THIS.MajorWorldPower_IsENT](은)는 §H협상국§!의 지도국임"
- 
  is_actual_major:0 "$is_actual_major_tooltip_base$$is_actual_major_tooltip_major$$is_actual_major_tooltip_OR$$is_actual_major_tooltip_seven_largest$$is_actual_major_tooltip_average$$is_actual_major_tooltip_countries$$is_actual_major_tooltip_ENT$"
  is_actual_major_without_exceptions:0 "$is_actual_major_tooltip_base$$is_actual_major_tooltip_major$$is_actual_major_tooltip_OR$$is_actual_major_tooltip_seven_largest$$is_actual_major_tooltip_average$"
- 
-### Renaming System ###
  toggle_renaming_button_tooltip:0 "[toggle_renaming_button_tooltip_loc]"
  toggle_renaming_button_tooltip_desc:0 "[toggle_renaming_button_tooltip_desc_loc]"
  toggle_renaming_button_tooltip_mp:0 "§R멀티플레이어에서는 비활성화됨§!"
@@ -92,14 +67,8 @@
  toggle_renaming_button_tooltip_enable_desc:0 "현재 이 게임은 각 지역과 도시명을 고정 지명으로 표기하고 있으므로, 지역 소유자에 따른 지명 변경이 비활성화 되어 있습니다.\n\n이곳을 눌러 유동 지명으로 변경이 가능합니다."
  toggle_renaming_button_tooltip_disable:0 "§H고정 지명으로 변경하기§!"
  toggle_renaming_button_tooltip_disable_desc:0 "현재 이 게임은 각 지역과 도시명을 유동 지명으로 표기하고 있으므로, 지역 소유자에 따른 지명 변경이 활성화 되어 있습니다.\n\n이곳을 눌러 고정 지명으로 변경이 가능합니다."
- 
-### Continents ###
  is_actually_an_island:0 "섬"
- 
-### Intelligence Agency Blocker ###
  INTELLIGENCE_AGENCY_BLOCK_TOOLTIP:0 "[!intelligence_agency_blocker_button_click_enabled]"
- 
-### Autonomy Levels ###
  kr_integrated_puppet:0 "동화된 괴뢰국"
  kr_occupied_puppet:0 "점령된 괴뢰국"
  kr_default_puppet:0 "괴뢰국"
@@ -115,8 +84,6 @@
  kr_crownland:0 "직할지"
  kr_oststaat:0 "동방주"
  kr_oststaat_autonomous:0 "자치 동방주"
- 
-### Autonomy Tooltips ###
  can_lower_autonomy_level:0 "자치도를 낮출 수 있음\n"
  can_raise_autonomy_level:0 "자치도를 높일 수 있음\n"
  puppet_can_become_free:0 "독립할 수 있음\n"
@@ -125,12 +92,8 @@
  may_become_free:0 "§Y[Root.GetNameDefCap]§!(은)는 독립을 향해가고 있음\n"
  clamour_for_independence:0 "독립을 요구함\n"
  clamour_for_autonomy:0 "자치를 요구함\n"
- 
-### Modifiers ###
  chief_of_staff_cost_factor:0 "국무장관 비용"
  chief_of_army_cost_factor:0 "육군장관 비용"
- 
-### Opinion Modifiers ###
  KR_friendly:0 "우호적"
  KR_close_allies:0 "혈맹"
  KR_deal_with_devil:0 "악마와의 거래"
@@ -145,49 +108,34 @@
  KR_hostile:0 "적대적임"
  KR_trade_agreement:0 "무역 협정"
  KR_trade_sanctions:0 "무역 제재"
- 
-### Focus Filters ###
  FOCUS_FILTER_PRODUCTION:0 "생산"
  FOCUS_FILTER_ARMY_BONUS:0 "육군"
  FOCUS_FILTER_NAVY_BONUS:0 "해군"
  FOCUS_FILTER_AIRFORCE_BONUS:0 "공군"
  FOCUS_FILTER_RESISTANCE:0 "저항군"
  FOCUS_FILTER_LEC_CURRENCY:0 "통화 비축"
- 
-### Autonomy Events ###
  FROM_becomes_puppet:0 "§H[From.GetNameDefCap]§!은 더이상 §H점령된 괴뢰국§!이 아닙니다."
  FROM_becomes_autonomous_puppet:0 "§H[From.GetNameDefCap]§!은 §H자치 괴뢰국§!이 됩니다."
  FROM_becomes_nominal_puppet:0 "§H[From.GetNameDefCap]§!은 §H명목상 괴뢰국§!이 됩니다."
- 
-### Compliance ###
  compliance_integration:0 "통합"
- 
-### Operatives ###
  operation_infiltrate_armed_forces_army_outcome:0 "$operation_infiltrate_armed_forces_army$ 효과적임"
  operation_infiltrate_armed_forces_army_risk:0 "$operation_infiltrate_armed_forces_army$ 위험"
  operation_infiltrate_armed_forces_army_cost:0 "$operation_infiltrate_armed_forces_army$ 손실"
- 
  operation_infiltrate_armed_forces_navy_outcome:0 "$operation_infiltrate_armed_forces_navy$ 효과적임"
  operation_infiltrate_armed_forces_navy_risk:0 "$operation_infiltrate_armed_forces_navy$ 위험"
  operation_infiltrate_armed_forces_navy_cost:0 "$operation_infiltrate_armed_forces_navy$ 손실"
- 
  operation_infiltrate_armed_forces_airforce_outcome:0 "$operation_infiltrate_armed_forces_airforce$ 효과적임"
  operation_infiltrate_armed_forces_airforce_risk:0 "$operation_infiltrate_armed_forces_airforce$ 위험"
  operation_infiltrate_armed_forces_airforce_cost:0 "$operation_infiltrate_armed_forces_airforce$ 손실"
- 
  operation_infiltrate_civilian_outcome:0 "$operation_infiltrate_civilian$ 효과적임"
  operation_infiltrate_civilian_risk:0 "$operation_infiltrate_civilian$ 위험"
  operation_infiltrate_civilian_cost:0 "$operation_infiltrate_civilian$ 손실"
- 
- ### Ship Name Lists ###
  NAME_THEME_ISLANDS:0 "Islands"
  NAME_THEME_ROYAL_BARGE:0 "Royal Barge"
  NAME_THEME_ROYAL_HOUSES:0 "Royal Houses & Nobilities"
  NAME_THEME_MOUNTAINS:0 "Mountains"
  NAME_THEME_INSPIRATIONAL:0 "Inspirational"
  NAME_THEME_STATES_CITIES:0 "States & Cities"
-
-### Colours (for use in scripted loc) ###
  colour_cyan:0 "C"
  colour_dirty_grey:0 "L"
  colour_white:0 "W"
@@ -198,7 +146,6 @@
  colour_grey:0 "g"
  colour_yellow:0 "Y"
  colour_orange:0 "O"
-
  colour_gradient_purple:0 "0"
  colour_gradient_lilac:0 "1"
  colour_gradient_blue:0 "2"
@@ -210,7 +157,6 @@
  colour_gradient_yellow:0 "8"
  colour_gradient_orange:0 "9"
  colour_gradient_red:0 "5"
-
  colour_totalist_red:0 "o"
  colour_syndicalist_red:0 "r"
  colour_socdem_pink:0 "S"
@@ -220,149 +166,106 @@
  colour_pataut_grey:0 "P"
  colour_natpop_brown:0 "N"
  colour_natpop_green:0 "n"
-
-### Events ###
  kr.political.100.t:0 "[Root.GetNameDef]의 질서 회복"
  kr.political.100.d:0 "[Root.GetNameDef](은)는 여전히 [overlord_name.GetAdjective]의 통제 하에 분투하고 있지만, [Root.GetAdjective] 군대는 이제 더 큰 자율성을 발휘하도록 자국의 국경에 대한 통제권을 주장하게 되었습니다. 이것은 독립과는 거리가 멀지만 국경을 통제하기 위해 더 이상 [overlord_name.GetAdjective] 군대에 의존 할 필요가 없다는 것을 의미합니다."
  kr.political.100.a:0 "훌륭하군."
- 
  kr.political.101.t:0 "[From.GetNameDef]의 질서 회복"
  kr.political.101.d:0 "[From.GetNameDef](은)는 여전히 [Root.GetAdjective]의 통제 하에 분투하고 있지만, [From.GetAdjective] 군대는 이제 더 큰 자율성을 발휘하도록 자국의 국경에 대한 통제권을 주장하게 되었습니다. 이것은 독립과는 거리가 멀지만 국경을 통제하기 위해 더 이상 [Root.GetAdjective] 군대에 의존 할 필요가 없다는 것을 의미합니다."
  kr.political.101.a:0 "그렇게 해라."
- 
  kr.political.102.t:0 "[Root.GetAdjective]의 더 많은 자치권?"
  kr.political.102.d.tfv:0 "[Root.GetNameDefCap](은)는 [overlord_name.GetAdjective] 정부의 통제 하에 있지만, 우리의 힘이 다시 강해지며 그 통제권은 확실히 줄어들기 시작하고 있습니다. [Root.GetAdjective]의 힘은 쉽게 억제될 수 있는 것이 아니며, 이미 우리의 지도자들은 우리 자신의 문제에 대한 더 많은 통제권을 요구하고 있습니다. 물론 [overlord_name.GetAdjective]에서도 오래 반대할 수는 없을 것입니다."
  kr.political.102.d:0 "[Root.GetNameDefCap](은)는 [overlord_name.GetAdjective] 정부의 통제 하에 있지만, 우리의 힘이 다시 강해지며 그 통제권은 줄어들기 시작하고 있습니다. [Root.GetAdjective]의 힘은 쉽게 억제될 수 있는 것이 아니며, 이미 우리의 지도자들은 우리 자신의 문제에 대한 더 많은 통제권을 요구하고 있고 그 효과는 온 나라에서 느낄 수 있습니다."
  kr.political.102.a:0 "[Root.GetNameDef] 만세!"
- 
  kr.political.103.t:0 "[From.GetAdjective]의 더 많은 자치권"
  kr.political.103.d:0 "[From.GetNameDefCap](은)는 [Root.GetAdjective] 정부의 통제 하에 있지만, 그들의 힘이 다시 강해지며 그 통제권은 확실히 줄어들기 시작하고 있습니다. [From.GetAdjective]의 힘은 쉽게 억제될 수 있는 것이 아니며, 이미 그들의 지도자들은 그들 자신의 문제에 대한 더 많은 통제권을 요구하고 있고 그 효과는 온 나라에서 느낄 수 있습니다."
  kr.political.103.a:0 "조심스럽게 지켜볼 필요가 있다."
- 
  kr.political.106.t:0 "독립을 위한 투쟁"
  kr.political.106.d.tfv:0 "현재, [Root.GetAdjective]정부에 대한 [overlord_name.GetAdjective]의 통제력이 약화되는 중 입니다. 우리는 그들이 통제하기엔 너무나 강력합니다. [Root.GetAdjective]의 사람들 사이에선 [Root.GetNameDef](이)가 자유로워져야 한다는 요구가 빗발치고 있는데, 조만간 우리의 시간이 올 것입니다."
  kr.political.106.d:0 "현재, [Root.GetAdjective]정부에 대한 [overlord_name.GetAdjective]의 통제력이 약화되는 중 입니다. 우리는 그들이 통제하기엔 너무나 강력합니다. [Root.GetAdjective]의 사람들 사이에선 [Root.GetNameDef](이)가 자유로워져야 한다는 요구가 빗발치고 있는데, 우리가 [overlord_name.GetNameDef]에게 독립을 요구할 것인지를 결정해야만 할 것으로 보입니다."
  kr.political.106.a:0 "자유로운 [Root.GetName] 만세!"
  kr.political.106.b:0 "그래, 우린 독립을 요구해야해."
  kr.political.106.c:0 "아니, 굳이 벌집을 들쑤실 필요는 없지."
- 
  kr.political.107.t:0 "[From.GetNameDefCap]의 독립 요구"
  kr.political.107.d:0 "현재, [From.GetAdjective]정부에 대한 [Root.GetAdjective]의 통제는 약화세를 그리는 중입니다. 그들을 우리가 완전히 억제하는데엔 너무나 역부족합니다. [From.GetAdjective]의 사람들 사이에선 [From.GetNameDef](을)를 해방시켜 달라는 탄원이 빗발쳤고, 이제 그들 정부측에선 완전 독립 요구를 공식적으로 제출하였습니다."
  kr.political.107.a:0 "우리가 아직 친구인 동안에는 풀어줘라."
  kr.political.107.b:0 "농담하는거지? 잊어버려."
- 
  kr.political.108.t:0 "독립 거부"
  kr.political.108.d:0 "[From.GetAdjective] 정부는 우리의 독립 요구에 침묵했습니다. 우리가 명목상 그들의 지배를 받고 있는 동안에도, 여전히 우린 제약을 받고 있습니다."
  kr.political.108.a:0 "여기서 안끝날 것 같은데."
- 
  KR_fight_for_independence:0 "독립선언"
  KR_fight_for_independence_desc:0 "[From.GetNameDefCap](이)가 우리의 독립 요구를 거절했을지 몰라도, 그로써 이 문제의 끝이 난게 아닙니다. 비록 우리가 이를 위하여 싸우더라도, 우린 자유로워질 것입니다!"
- 
  kr.political.109.t:0 "[From.GetNameDefCap]의 독립선언"
  kr.political.109.d:0 "우리가 [From.GetNameDef]의 독립 승인을 거부하는 것만으론 충분치 않았던 것으로 보입니다. 뭐가 어쨌건 그들은 본인들 스스로 [Root.GetAdjective]의 통제에서 자유로워졌다고 선언했습니다."
  kr.political.109.a:0 "흥! 풀어줘라."
  kr.political.109.b:0 "두고 보라지!"
- 
  kr.political.110.t:0 "독립을 위한 전쟁"
  kr.political.110.d:0 "우리의 예전 지배자들은 [Root.GetNameDef]에서 확실한 기반을 마련하지 못할 것 같지만... 우리도 이길 수 없기는 매한가지입니다. 아마도 이제 휴전을 촉구하고 이 일을 끝내야 할까요?"
  kr.political.110.a:0 "좋아, 이제 끝내자."
  kr.political.110.b:0 "아냐! 이건 이제 독립을 넘은 그 이상이라고!"
- 
  kr.political.111.t:0 "독립을 위한 [From.GetAdjective]의 전쟁"
  kr.political.111.d:0 "양 측 모두 뚜렷한 우위를 점하지 못한 가운데, 한동안 [Root.GetNameDef] 측과의 전쟁이 지속되었습니다. 아마 이제는 그들의 독립을 깔끔하게 인정하고 이 싸움을 끝내야 할 시기일 겁니다."
  kr.political.111.a:0 "좋다, 이제 끝내자."
  kr.political.111.b:0 "아니! 우리는 끝장을 보고만다!"
- 
  kr.political.250.t:0 "[marked_country.GetNameDef] 괴뢰화?"
  kr.political.250.d:0 "기존의 점령 괴뢰국 자치도 상태를 이용하여 [marked_country.GetNameDef] 측을 [to_be_overlord.GetNameDef]의 종속국으로 바꿀 것입니다. 이들이 다른 세력에 있으면 해당 세력을 떠나게 되지만, 현재 진행 중인 전쟁은 끝내지 않을 것입니다. 그러길 원한다면 별도로 처리하여야 합니다.\n\n§R참고: 이 행동은 카이저라이히의 컨텐츠를 망칠 가능성이 높습니다! 이로 인한 모든 불상사는 당신의 책임임을 명심하고 사용하세요!!§!"
  kr.political.250.a:0 "해라."
  kr.political.250.b:0 "그대로 하되 현 정부는 유지하도록 해라."
  kr.political.250.c:0 "다시 생각해보자..."
- 
  kr.political.251.t:0 "[marked_country.GetNameDef] 해방?"
  kr.political.251.d:0 "[marked_country.GetNameDef] 측을 완전히 독립시킵니다. (모드 내에서 자동으로 그렇게 하는 컨텐츠가 없다면) 현 정부를 바꾸지는 않을 것이고, [marked_country.GetNameDef] 측을 세력에서 빼내지는 않을 것입니다. 전쟁에 참전 중이더라도 빠져나가지 않을 것입니다.\n\n§R참고: 이 행동은 카이저라이히의 컨텐츠를 망칠 가능성이 높습니다! 이로 인한 모든 불상사는 당신의 책임임을 명심하고 사용하세요!!§!"
- 
  kr.political.252.t:0 "[to_be_faction_leader.GetFactionName] 가입?"
  kr.political.252.d:0 "[marked_country.GetNameDef] 측이 [to_be_faction_leader.GetFactionName] 세력에 가입합니다. 세력에 가입되어 있다면 현 세력을 탈퇴할 것이며, 세력의 지도국이라면 세력이 해체될 것입니다. 참여 중인 어떤 전쟁에도 변화는 없을 것입니다.\n\n§R참고: 이 행동은 카이저라이히의 컨텐츠를 망칠 가능성이 높습니다! 이로 인한 모든 불상사는 당신의 책임임을 명심하고 사용하세요!!§!"
- 
  kr.political.253.t:0 "[marked_country.GetFactionName] 주도?"
  kr.political.253.d:0 "[marked_country.GetNameDef] 측을 [marked_country.GetFactionName] 세력의 지도국으로 만들 것입니다.\n\n§R참고: 이 행동은 카이저라이히의 컨텐츠를 망칠 가능성이 높습니다! 이로 인한 모든 불상사는 당신의 책임임을 명심하고 사용하세요!!§!"
- 
  kr.political.254.t:0 "[marked_country.GetFactionName] 탈퇴?"
  kr.political.254.d:0 "[marked_country.GetNameDef] 측은 [marked_country.GetFactionName] 세력을 떠날 것이며, 만약 지도국이라면 세력이 해체될 것입니다. 현재 참여중인 전쟁에 영향을 끼치지도 않을 것입니다.\n\n§R참고: 이 행동은 카이저라이히의 컨텐츠를 망칠 가능성이 높습니다! 이로 인한 모든 불상사는 당신의 책임임을 명심하고 사용하세요!!§!"
- 
  kr.political.255.t:0 "[peace_target.GetNameDef] 측과의 평화?"
  kr.political.255.d:0 "[marked_country.GetNameDefCap] 측에서는 동맹들과 함께 [peace_target.GetNameDef] 및 그 동맹들과 무조건 평화를 맺을 것입니다.\n\n§R참고: 이 행동은 카이저라이히의 컨텐츠를 망칠 가능성이 높습니다! 이로 인한 모든 불상사는 당신의 책임임을 명심하고 사용하세요!!§!"
  kr.political.255.b:0 "[marked_country.GetNameDef] 측과 동맹국을 분리하고 난 다음에 평화를 맺자."
- 
  kr.political.256.t:0 "모든 전쟁에서의 평화?"
  kr.political.256.d:0 "[marked_country.GetNameDefCap](은)는 현재 진행중인 모든 전쟁에서 별도의 무조건 평화를 맺을 것입니다. 상대국이 종속국이라면 우선적으로 해방될 것이고, 세력 내에 있다면 우선적으로 탈퇴할 것입니다.\n\n§R참고: 이 행동은 카이저라이히의 컨텐츠를 망칠 가능성이 높습니다! 이로 인한 모든 불상사는 당신의 책임임을 명심하고 사용하세요!!§!"
- 
  kr.political.257.t:0 "[war_target.GetNameDef] 측과의 전쟁?"
  kr.political.257.d:0 "[marked_country.GetNameDefCap] 측은 [war_target.GetNameDef]에게 전쟁을 선포할 것입니다. 이 전쟁선포가 유효한지는 양국이 동맹이 아니라거나 이미 전쟁 상태에 돌입하지 않았다는 것 이외에 확인할 방법은 없습니다.\n\n§R참고: 이 행동은 카이저라이히의 컨텐츠를 망칠 가능성이 높습니다! 이로 인한 모든 불상사는 당신의 책임임을 명심하고 사용하세요!!§!"
- 
-### Unit Leader Events ###
  unit_leader.1.t:0 "병에 걸린 [From.GetName]"
  unit_leader.1.d:0 "국가에 헌신하던 [From.GetHerHis] 행동이 결국 [From.GetRank] [From.GetName] [From.GetHerselfHimself]을 너무나 몰아붙인 듯 합니다. [From.GetHerHis] 작전지역에서의 악천후로 인해, [From.GetRank]의 건강에 문제가 생겼으며, 회복하는데 시간이 좀 필요할 것 같습니다. [From.GetSheHe]가 회복되기 이전까지, [From.GetSheHe]는 [From.GetHerHis] 평상시만큼의 능력을 발휘하지 못할 것입니다."
  unit_leader.1.a:0 "유감스럽군."
- 
  unit_leader.2.t:0 "부상당한 [From.GetName]"
  unit_leader.2.d:0 "전투를 성공적으로 마무리지으려던 중, [From.GetRank] [From.GetName] [From.GetHerselfHimself]을 [From.GetHerHis] 부하들을 이끄는 동안 너무 큰 위험에 빠뜨린 듯 합니다. [From.GetSheHeCap]는 부상을 입었으며, 상처가 완전히 아무는데에는 시간이 좀 걸릴 것으로 보이는 한편, 그때까지 [From.GetRank]인 [From.GetHerHis] 평상시만큼의 능력을 발휘하지 못할 것입니다."
  unit_leader.2.a:0 "유감스럽군."
- 
-### Government in Exile Events ###
  mtg_exile_leader_added.1.t:0 "군복무를 원하는 [exile_nation.GetAdjective]의 망명 지도자"
  mtg_exile_leader_added.1.desc:0 "적에게 점령당한 영토와 여러 중립국들을 통한 길고 위험한 여정 끝에, 항복한 동맹의 군 고위 장교 중 한 명이 드디어 수도에 도착했습니다. 짧은 회복 시간 후, 그는 우리의 공동투쟁에서의 군복무를 원합니다."
  mtg_exile_leader_added.1.a:0 "당신의 싸움은 아직 끝나지 않았다."
- 
  mtg_exile_government.2.title:0 "[From.GetAdjective] 망명정부"
  mtg_exile_government.2.desc:0 "[From.GetLeader](은)는 [From.GetNameDef]의 영토를 반환하고 전후의 평화에 대비하여 [From.GetRulingParty]의 임시내각을 재성립할 것을 [Root.GetAdjective] 정부에 공식적으로 요청했습니다."
  mtg_exile_government.2.a:0 "그들의 영토를 돌려줄 때가 되었다."
  mtg_exile_government.2.b:0 "아직 때가 되지 않았다."
- 
  mtg_exile_government.3.title:0 "[From.GetName]의 해군 합병 요청"
  mtg_exile_government.3.desc:0 "[From.GetAdjective] 해군 수뇌부는 우리 해군을 그들의 해군에 통합하기 위한 계획을 우리에게 제시하였습니다. 그들은 [From.GetAdjective] 해군이 우리 해군을 지휘하게 되면 현재에 비해 효율성이 드라마틱하게 상승할 것이라 주장하고 있습니다."
  mtg_exile_government.3.a:0 "동의한다."
  mtg_exile_government.3.b:0 "저들의 시중을 드는 일은 없을 것이다."
- 
  mtg_exile_government.4.title:0 "[From.GetName]의 해군 합병 수락"
  mtg_exile_government.4.desc:0 "[From.GetAdjective] 정부는 우리의 제안에 동의했으며, 그들의 배를 우리 지휘하로 배속시키는 데 동의했습니다."
  mtg_exile_government.4.a:0 "훌륭하군."
- 
  mtg_exile_government.5.title:0 "[From.GetName]의 해군 합병 거절"
  mtg_exile_government.5.desc:0 "[From.GetAdjective] 정부는 그들의 해군이 결코 외세의 지휘를 받지 않을 것이라고 선언했습니다. 그들은 우리를 기꺼이 도울 것이지만, 독립적으로 도울 것입니다."
  mtg_exile_government.5.a:0 "그들은 동맹의 이익보다 스스로의 자존심을 더 우선시하는군."
- 
  mtg_generic.1.title:0 "정부 변화를 강요하는 [From.GetName]"
  mtg_generic.1.desc:0 "[From.GetNameDef](은)는 우리 현 정부에 대한 낮은 지지율을 근거로 들며, 정부 개혁을 요구했습니다."
  mtg_generic.1.a:0 "받아들일 수 밖에 없군."
- 
-### Land Units ###
  category_mounted_inf:0 "기마 보병"
- 
-### Sub-unit Modifiers ###
  modifier_army_sub_unit_category_bicycle_battalion_attack_factor:0 "자전거 대대 공격"
  modifier_army_sub_unit_category_bicycle_battalion_defence_factor:0 "자전거 대대 방어"
  modifier_army_sub_unit_category_bicycle_battalion_speed_factor:0 "자전거 대대 속도"
-
  modifier_army_sub_unit_category_mobile_infantry_attack_factor:0 "기마/차량화/기계화 공격"
  modifier_army_sub_unit_category_mobile_infantry_defence_factor:0 "기마/차량화/기계화 방어"
  modifier_army_sub_unit_category_mobile_infantry_speed_factor:0 "기마/차량화/기계화 속도"
- 
-### Tech ###
  military_police_tech:0 "헌병"
- 
-### Research Bonus Names ###
  refinery_bonus:0 "정유공장 보너스"
- 
-### Interface ### 
  can_replace_hog:0 "정부수반 재임명 가능"
  for_cannot_be_replaced:0 "외무장관 재임명 불가"
  eco_cannot_be_replaced:0 "경제장관 재임명 불가"
  sec_cannot_be_replaced:0 "내무장관 재임명 불가"
  ministers_cannot_be_replaced:0 "장관 재임명 불가"
- 
-### News Events ###
  toggle_news_button_tooltip:0 "[toggle_news_button_tooltip_loc]"
  toggle_news_button_tooltip_desc:0 "[toggle_news_button_tooltip_desc_loc]"
  toggle_news_button_tooltip_mp:0 "§R멀티플레이에서는 비활성화됨§!"
@@ -375,8 +278,6 @@
  toggle_news_text_all:0 "모든 뉴스 보기"
  toggle_news_text_regional:0 "지역 뉴스 보기"
  toggle_news_text_none:0 "뉴스 받지 않기"
- 
-### Factions ###
  all_zhili_faction:0 "직예군벌"
  austrian_empire_faction:0 "오스트리아-헝가리 군주국"
  austrian_sphere:0 "도나우-아드리아 연맹"
@@ -419,108 +320,79 @@
  united_front_faction:0 "중화통일전선"
  yunnan_R_KMT_faction:0 "화남국민당연합"
  SOV_faction:0 "제3인터내셔널 동부전선"
- 
-### Custom Triggers ###
  had_war:0 "전쟁에서 싸운적이 있음"
  is_invalid_war_target_tooltip:0 "유효한 전쟁 목표가 아님"
  is_valid_war_target_tooltip:0 "유효한 전쟁 목표임"
  not_during_ceasefire:0 "휴전이 지속되는 동안에는 안됨"
- 
-### Commonly used in scripted loc ###
  loc_royal:0 "royal"
  loc_royal_cap:0 "Royal"
- loc_royal_with_space:0 "$loc_royal$ "
- loc_royal_cap_with_space:0 "$loc_royal_cap$ "
-
+ loc_royal_with_space:0 "$loc_royal$"
+ loc_royal_cap_with_space:0 "$loc_royal_cap$"
  loc_has:0 "has"
  loc_have:0 "have"
-
  loc_its:0 "its"
  loc_their:0 "their"
  loc_theirs:0 "theirs"
-
-### Commonly used custom decision costs ###
  CP_5:0 "£command_power §H5§!"
  CP_5_blocked:0 "£command_power §R5§!"
  CP_5_tooltip:0 "$CP_5_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_10:0 "£command_power §H10§!"
  CP_10_blocked:0 "£command_power §R10§!"
  CP_10_tooltip:0 "$CP_10_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_15:0 "£command_power §H15§!"
  CP_15_blocked:0 "£command_power §R15§!"
  CP_15_tooltip:0 "$CP_15_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_20:0 "£command_power §H20§!"
  CP_20_blocked:0 "£command_power §R20§!"
  CP_20_tooltip:0 "$CP_20_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_25:0 "£command_power §H25§!"
  CP_25_blocked:0 "£command_power §R25§!"
  CP_25_tooltip:0 "$CP_25_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_30:0 "£command_power §H30§!"
  CP_30_blocked:0 "£command_power §R30§!"
  CP_30_tooltip:0 "$CP_30_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_35:0 "£command_power §H35§!"
  CP_35_blocked:0 "£command_power §R35§!"
  CP_35_tooltip:0 "$CP_35_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_40:0 "£command_power §H40§!"
  CP_40_blocked:0 "£command_power §R40§!"
  CP_40_tooltip:0 "$CP_40_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_45:0 "£command_power §H45§!"
  CP_45_blocked:0 "£command_power §R45§!"
  CP_45_tooltip:0 "$CP_45_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_50:0 "£command_power §H50§!"
  CP_50_blocked:0 "£command_power §R50§!"
  CP_50_tooltip:0 "$CP_50_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_55:0 "£command_power §H55§!"
  CP_55_blocked:0 "£command_power §R55§!"
  CP_55_tooltip:0 "$CP_55_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_60:0 "£command_power §H60§!"
  CP_60_blocked:0 "£command_power §R60§!"
  CP_60_tooltip:0 "$CP_60_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_65:0 "£command_power §H65§!"
  CP_65_blocked:0 "£command_power §R65§!"
  CP_65_tooltip:0 "$CP_65_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_70:0 "£command_power §H70§!"
  CP_70_blocked:0 "£command_power §R70§!"
  CP_70_tooltip:0 "$CP_70_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_75:0 "£command_power §H75§!"
  CP_75_blocked:0 "£command_power §R75§!"
  CP_75_tooltip:0 "$CP_75_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_80:0 "£command_power §H80§!"
  CP_80_blocked:0 "£command_power §R80§!"
  CP_80_tooltip:0 "$CP_80_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_85:0 "£command_power §H85§!"
  CP_85_blocked:0 "£command_power §R85§!"
  CP_85_tooltip:0 "$CP_85_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_90:0 "£command_power §H90§!"
  CP_90_blocked:0 "£command_power §R90§!"
  CP_90_tooltip:0 "$CP_90_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_95:0 "£command_power §H95§!"
  CP_95_blocked:0 "£command_power §R95§!"
  CP_95_tooltip:0 "$CP_95_blocked$만큼을 사용해 결정을 내립니다"
- 
  CP_100:0 "£command_power §H100§!"
  CP_100_blocked:0 "£command_power §R100§!"
  CP_100_tooltip:0 "$CP_100_blocked$만큼을 사용해 결정을 내립니다"
- 
-### Other ###
  unlock_focuses:0 "§G이 중점은 자동으로 통과될 것이며 다른 중점을 해금할 것입니다.§!\n"
  unlocks_after_event:0 "§G이 중점은 이벤트를 통해 자동적으로 해금될 것임§!\n"
  if_accepted:0 "수락된 경우:"
@@ -535,36 +407,20 @@
  generic_research_advances:0 "연구 발전"
  recruit_generic_spymaster:0 "정보부장 채용"
  recruit_generic_spymaster_desc:0 "유능한 국장이 될 법한 사람을 우리 정보기관에 배치해야 할 것입니다."
- 
-### Generic Ministers ###
  head_of_government:0 "정부수반"
  foreign_minister:0 "외무장관"
  economy_minister:0 "경제장관"
  security_minister:0 "내무장관"
  head_of_intel:0 "군사정보부장"
- 
- ### Country-Specific Ministers ###
- # BAT:
  knight_captain_of_liv_ord:0 "기사단 단장"
- # BAT:
  land_marshal_of_liv_ord:0 "지방사령관"
- # CAN:
  leader_of_the_british_exiles:0 "영국 총리"
- # LEC:
  underworld_boss:0 "암흑가 두목"
- # ROM:
  marshal_of_the_palace:0 "왕실원수"
- # SAF, SFR:
  minister_of_native_affairs:0 "원주민부 장관"
- # NFA:
  national_philosopher:0 "국가철학자"
- # JBS:
  faction_minister:0 "내부 파벌"
- # POL:
  kings_trusted_councillor:0 "왕이 신뢰하는 의원"
- 
-### Company Traits ###
-
  generic_arms_company:0 "Generic Arms Company"
  generic_tank_company:0 "Generic Tank Company"
  generic_fighter_company:0 "Generic Fighter Company"
@@ -572,8 +428,6 @@
  generic_car_company:0 "Generic Motorised Company"
  generic_industrial_company:0 "Generic Industrial Company"
  generic_naval_company:0 "Generic Naval Company"
-
-### Tank ###
  small_tank_producer_offense_0:0 "경전차 제조사"
  small_tank_producer_offense_1:0 "경전차 제조사"
  small_tank_producer_offense_2:0 "경전차 제조사"
@@ -601,8 +455,6 @@
  heavy_tank_producer_mass_0:0 "중전차 제조사"
  heavy_tank_producer_mass_1:0 "중전차 제조사"
  heavy_tank_producer_mass_2:0 "중전차 제조사"
- 
-### Air ###
  fighter_producer_offense_0:0 "전투기 제조사"
  fighter_producer_offense_1:0 "전투기 제조사"
  fighter_producer_offense_2:0 "전투기 제조사"
@@ -630,8 +482,6 @@
  nav_cas_producer_mass_0:0 "경폭격기 제조사"
  nav_cas_producer_mass_1:0 "경폭격기 제조사"
  nav_cas_producer_mass_2:0 "경폭격기 제조사"
- 
-### Arms ###
  motorised_equipment_producer_offense_0:0 "기계화 장비 제조사"
  motorised_equipment_producer_offense_1:0 "기계화 장비 제조사"
  motorised_equipment_producer_offense_2:0 "기계화 장비 제조사"
@@ -671,8 +521,6 @@
  army_equipment_producer_0:0 "군산 복합체"
  army_equipment_producer_1:0 "군산 복합체"
  army_equipment_producer_2:0 "군산 복합체"
- 
-### Naval ###
  capital_ship_producer_offense_0:0 "주력함 제조사"
  capital_ship_producer_offense_1:0 "주력함 제조사"
  capital_ship_producer_offense_2:0 "주력함 제조사"
@@ -703,16 +551,12 @@
  convoy_producer_0:0 "선박 회사"
  convoy_producer_1:0 "선박 회사"
  convoy_producer_2:0 "선박 회사"
- 
-### General Industry ###
  mining_company:0 "광산 회사"
  chemical_producer:0 "화학 회사"
  industrial_manufacturer:0 "산업 회사"
  electronics_manufacturer:0 "전자공학 제조사"
  railroad_company:0 "철도 회사"
  oil_concern:0 "석유 회사"
- 
-### General ###
  fighter_techs:0 "전투기 장비"
  fighter_techs_research:0 "전투기 장비 연구 시간"
  cat_strategic_destruction:0 "전략파괴 기술"
@@ -737,7 +581,6 @@
  capital_ship_tree:0 "주력함 작전"
  cat_armored_car:0 "장갑차"
  cat_special_units:0 "특수부대"
- 
  early_ship_hull_light:0 "$ship_hull_light_1$"
  basic_ship_hull_light:0 "$ship_hull_light_2$"
  improved_ship_hull_light:0 "$ship_hull_light_3$"
@@ -755,272 +598,128 @@
  basic_ship_hull_submarine:0 "$ship_hull_submarine_2$"
  improved_ship_hull_submarine:0 "$ship_hull_submarine_3$"
  advanced_ship_hull_submarine:0 "$ship_hull_submarine_4$"
-
-### Hidden Techs ###
  camel_corps_tech:0 "낙타 부대"
  camel_corps_tech_effect:0 "§H$camel_corps_tech$§! 활성화\n§H낙타기병\n    사막§!\n      공격: §G+15%§!\n      방어: §G+5%§!\n      이동: §G+3%§!"
- 
  tech_ski_infantry:0 "스키 보병"
  tech_ski_infantry_effect:0 "§H$tech_ski_infantry$§! 활성화\n§H보병\n    언덕§!\n      공격: §G+5%§!\n      방어: §G+5%§!\n      이동: §G+5%§!\n    §H산악§!\n      공격: §G+5%§!\n      방어: §G+5%§!\n      이동: §G+10%§!"
- 
  tech_marine_bonus:0 "개선된 해병대"
  tech_marine_bonus_effect:0 "§H$tech_marine_bonus$\n해병§! 활성화\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!\n§HAmtrac Battalion§!\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!\n§HAmphibious Tank Battalion§!\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!"
- 
  tech_marine_bonus_2:0 "숙련된 해병대"
  tech_marine_bonus_2_effect:0 "§H$tech_marine_bonus_2$\n해병§! 활성화\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!\n§HAmtrac Battalion§!\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!\n§HAmphibious Tank Battalion§!\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!"
- 
  jungle_warfare_effect:0 "§H$jungle_warfare$§! 활성화\n§H일반 보병\n    밀림§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!"
- 
  improved_field_hospitals:0 "개선된 야전 병원"
  improved_field_hospitals_effect:0 "§H$improved_field_hospitals$\n야전 병원§! 활성화\n      인력 회수: §G+20%§!\n      경험치 손실: §G-10%§!"
- 
  expanded_engineer_corps_tech:0 "확장된 공병 부대"
  expanded_engineer_corps_tech_effect:0 "§H$expanded_engineer_corps_tech$\n공병 중대§! 활성화\n      참호: §G+2§!\n    §H요새§!\n      공격: §G+10%§!\n      방어: §G+10%§!"
- 
  mountain_training_tech:0 "산악 훈련"
  mountain_training_tech_effect:0 "§H$mountain_training_tech$\n일반 보병§! 활성화\n    §H산악§!\n      공격: §G+5%§!\n      방어: §G+5%§!\n      이동: §G+10%§!"
- 
  improved_recon_units_tech:0 "향상된 정찰 부대"
  improved_recon_units_tech_effect:0 "§H$improved_recon_units_tech$\n정찰 중대§! 활성화\n      돌파: §G+1§!\n      정찰: §G+1§!"
- 
  asymmetrical_warfare:0 "비대칭 전투 훈련"
  asymmetrical_warfare_effect:0 "§H$asymmetrical_warfare$\n일반 보병§! 활성화\n    §H도심§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!"
- 
  desert_warfare:0 "사막 훈련"
  desert_warfare_effect:0 "§H$desert_warfare$§! 활성화\n§H일반 보병\n    사막§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!"
- 
  marsh_warfare:0 "습지 전투 훈련"
  marsh_warfare_effect:0 "§H$marsh_warfare$§! 활성화\n\n§H보병\n    습지§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!"
- 
  anti_fortification_artillery:0 "대요새 야포"
  anti_fortification_artillery_effect:0 "§H$anti_fortification_artillery$§! 활성화\n§H포병 지원§!\n    요새: 공격: §G+20%§!\n§H포병§!\n    요새: 공격: §G+20%§!\n§H차량화포병§!\n    요새: 공격: §G+20%§!"
- 
  tech_integrated_specialists:0 "통합된 특수부대"
  tech_integrated_specialists_effect:0 "§H$tech_integrated_specialists$§! 활성화\n특수부대 허용량: §G+5%§!\n§H특수부대§!\n      대인 공격: §G+5%§!\n      대물 공격: §G+5%§!"
- 
  tech_at_cavalry:0 "대전차 기병"
  tech_at_cavalry_effect:0 "§H$tech_at_cavalry$\nCavalry§! 활성화\n      관통: §G+75%§!\n      대물 공격: §G+10%§!"
- 
  tech_dragoon_tactics:0 "용기병 전술"
  tech_dragoon_tactics_effect:0 "§H$tech_dragoon_tactics$ 활성화\n기병대§!\n      최대 조직력: §G+5§!\n      회복률: §G+0.10§!\n      이동: §G+10%§!\n      야간 공격: §G+10§!"
- 
  tech_semi_motorised_cav:0 "준-차량화 기병"
  tech_semi_motorised_cav_effect:0 "§H$tech_semi_motorised_cav$ 활성화\n기병대§!\n      최대 조직력: §G+5§!\n      회복률: §G+0.10§!\n      이동: §G+15%§!"
- 
  tech_improved_encryption:0 "향상된 암호화"
  tech_improved_encryption_effect:0 "§H$tech_improved_encryption$§! 활성화\n$MODIFIER_CRYPTO_STRENGTH$: [?2|+  0]"
- 
  tech_mountain_artillery:0 "산악 포병"
  tech_mountain_artillery_effect:0 "§H$tech_mountain_artillery$§! 활성화\n§H포병\n    언덕§!\n      공격: §G+10%§!\n      이동: §G+10%§!\n    §H산§!\n      공격: §G+10%§!\n      이동: §G+10%§!"
- 
  tech_arctic_commando:0 "Arctic Commandos"
  tech_arctic_commando_effect:0 "Enables §H$tech_arctic_commando$§!\n    Special Forces Supply Grace: [?48|G1] Hour(s)\n    §HSpecial Forces§!\n        Cold acclimatization gain factor: §G+10%§!\n        §HHills§!\n          Movement: §G+5%§!\n        §HMountains§!\n          Movement: §G+5%§!"
- 
  tech_better_paratroopers:0 "Elite Paratroopers"
- tech_better_paratroopers_effect:0 "Enables §H$tech_better_paratroopers$§!\n§HParatroopers§!\n      Soft Attack: §G+10%§!\n      Recovery Rate: §G+0.20§!\n      Paratrooper Supply Grace: [?24|G1=] Hour(s)"
- 
-### Army Command Traits ###
-
-### Land ###
+ tech_better_paratroopers_effect:0 "Enables §H$tech_better_paratroopers$§!\n§HParatroopers§!\n      Soft Attack: §G+10%§!\n      Recovery Rate: §G+0.20§!\n      Paratrooper Supply Grace: [?24|G1] Hour(s)"
  land_defense_1:0 "방어적 교리"
  land_defense_2:0 "방어적 교리"
  land_defense_3:0 "방어적 교리"
- 
  land_offensive_1:0 "공격적 교리"
  land_offensive_2:0 "공격적 교리"
  land_offensive_3:0 "공격적 교리"
- 
  mobile_warfare_1:0 "기동전"
  mobile_warfare_2:0 "기동전"
  mobile_warfare_3:0 "기동전"
- 
  entrenchment_1:0 "대전기 교리"
  entrenchment_2:0 "대전기 교리"
  entrenchment_3:0 "대전기 교리"
- 
  morale_1:0 "사기를 북돋는 지도자"
  morale_2:0 "사기를 북돋는 지도자"
  morale_3:0 "사기를 북돋는 지도자"
- 
  organization_1:0 "전략적 계획가"
  organization_2:0 "전략적 계획가"
  organization_3:0 "전략적 계획가"
- 
  attrition_1:0 "신중한 계획가"
  attrition_2:0 "신중한 계획가"
  attrition_3:0 "신중한 계획가"
- 
  supply_use_1:0 "보급 계획가"
  supply_use_2:0 "보급 계획가"
  supply_use_3:0 "보급 계획가"
- 
-### Artillery ###
  artillery_offense_1:0 "공격적 포격"
  artillery_offense_2:0 "공격적 포격"
  artillery_offense_3:0 "공격적 포격"
- 
  artillery_defense_1:0 "방어적 포격"
  artillery_defense_2:0 "방어적 포격"
  artillery_defense_3:0 "방어적 포격"
- 
-### Infantry ###
  infantry_offense_1:0 "보병 돌격"
  infantry_offense_2:0 "보병 돌격"
  infantry_offense_3:0 "보병 돌격"
- 
  infantry_defense_1:0 "보병 방어"
  infantry_defense_2:0 "보병 방어"
  infantry_defense_3:0 "보병 방어"
- 
-### Tanks ###
  armored_offense_1:0 "기갑 돌격"
  armored_offense_2:0 "기갑 돌격"
  armored_offense_3:0 "기갑 돌격"
- 
  armored_defense_1:0 "기갑 방어"
  armored_defense_2:0 "기갑 방어"
  armored_defense_3:0 "기갑 방어"
- 
-### Cavalry ###
  cavalry_offense_1:0 "기병 돌격"
  cavalry_offense_2:0 "기병 돌격"
  cavalry_offense_3:0 "기병 돌격"
- 
  cavalry_defense_1:0 "기병 방어"
  cavalry_defense_2:0 "기병 방어"
  cavalry_defense_3:0 "기병 방어"
- 
-### Commando ###
  commando_offense_1:0 "특수병 돌격"
  commando_offense_2:0 "특수병 돌격"
  commando_offense_3:0 "특수병 돌격"
- 
  commando_defense_1:0 "특수병 방어"
  commando_defense_2:0 "특수병 방어"
  commando_defense_3:0 "특수병 방어"
- 
-### XP ###
  army_reform_1:0 "군 개혁가"
  army_reform_2:0 "군 개혁가"
  army_reform_3:0 "군 개혁가"
- 
-### Air ###
  concealment_1:0 "은엄폐 전문가"
  concealment_2:0 "은엄폐 전문가"
  concealment_3:0 "은엄폐 전문가"
- 
  air_reform_1:0 "공군 개혁가"
  air_reform_2:0 "공군 개혁가"
  air_reform_3:0 "공군 개혁가"
- 
  air_safety_1:0 "항공안전주의"
  air_safety_2:0 "항공안전주의"
  air_safety_3:0 "항공안전주의"
- 
  air_night_operations_1:0 "야간전 전문가"
  air_night_operations_2:0 "야간전 전문가"
  air_night_operations_3:0 "야간전 전문가"
- 
  air_ground_suppression_1:0 "지상제압"
  air_ground_suppression_2:0 "지상제압"
  air_ground_suppression_3:0 "지상제압"
- 
  air_weather_1:0 "전천후"
  air_weather_2:0 "전천후"
  air_weather_3:0 "전천후"
- 
  air_ace_promoter_1:0 "긍정적 영웅주의"
  air_ace_promoter_2:0 "긍정적 영웅주의"
  air_ace_promoter_3:0 "긍정적 영웅주의"
- 
- #air_naval_strike_1:0 "Naval Strike" already defined in Traits loc file
- #air_naval_strike_2:0 "Naval Strike" already defined in Traits loc file
- #air_naval_strike_3:0 "Naval Strike" already defined in Traits loc file
-
- #air_bomber_interception_1:0 "Bomber Interception" already defined in Traits loc file
- #air_bomber_interception_2:0 "Bomber Interception" already defined in Traits loc file
- #air_bomber_interception_3:0 "Bomber Interception" already defined in Traits loc file
-
- #air_air_superiority_1:0 "Air Superiority" already defined in Traits loc file
- #air_air_superiority_2:0 "Air Superiority" already defined in Traits loc file
- #air_air_superiority_3:0 "Air Superiority" already defined in Traits loc file
-
- #air_close_air_support_1:0 "Close Air Support" already defined in Traits loc file
- #air_close_air_support_2:0 "Close Air Support" already defined in Traits loc file
- #air_close_air_support_3:0 "Close Air Support" already defined in Traits loc file
-
- #air_strategic_bombing_1:0 "Strategic Bombing" already defined in Traits loc file
- #air_strategic_bombing_2:0 "Strategic Bombing" already defined in Traits loc file
- #air_strategic_bombing_3:0 "Strategic Bombing" already defined in Traits loc file
-
- #air_tactical_bombing_1:0 "Tactical Bombing" already defined in Traits loc file
- #air_tactical_bombing_2:0 "Tactical Bombing" already defined in Traits loc file
- #air_tactical_bombing_3:0 "Tactical Bombing" already defined in Traits loc file
-
- #air_airborne_1:0 "Airborne Assault" already defined in Traits loc file
- #air_airborne_2:0 "Airborne Assault" already defined in Traits loc file
- #air_airborne_3:0 "Airborne Assault" already defined in Traits loc file
-
-### Naval ###
- #navy_chief_naval_aviation_1:0 "Naval Aviation" already defined in Traits loc file
- #navy_chief_naval_aviation_2:0 "Naval Aviation" already defined in Traits loc file
- #navy_chief_naval_aviation_3:0 "Naval Aviation" already defined in Traits loc file
-
- #navy_chief_decisive_battle_1:0 "Decisive Battle Doctrine" already defined in Traits loc file
- #navy_chief_decisive_battle_2:0 "Decisive Battle Doctrine" already defined in Traits loc file
- #navy_chief_decisive_battle_3:0 "Decisive Battle Doctrine" already defined in Traits loc file
-
- #navy_chief_commerce_raiding_1:0 "Commerce Raiding Doctrine"
- #navy_chief_commerce_raiding_2:0 "Commerce Raiding Doctrine"
- #navy_chief_commerce_raiding_3:0 "Commerce Raiding Doctrine"
-
- #navy_chief_reform_1:0 "Naval Reformer"
- #navy_chief_reform_2:0 "Naval Reformer"
- #navy_chief_reform_3:0 "Naval Reformer"
-
- #navy_chief_maneuver_1:0 "Naval Manoeuvre"
- #navy_chief_maneuver_2:0 "Naval Manoeuvre"
- #navy_chief_maneuver_3:0 "Naval Manoeuvre"
-
- #navy_anti_submarine_1:0 "Anti-Submarine"
- #navy_anti_submarine_2:0 "Anti-Submarine"
- #navy_anti_submarine_3:0 "Anti-Submarine"
-
- #navy_naval_air_defense_1:0 "Naval Air Defence"
- #navy_naval_air_defense_2:0 "Naval Air Defence"
- #navy_naval_air_defense_3:0 "Naval Air Defence"
-
- #navy_fleet_logistics_1:0 "Fleet Logistics"
- #navy_fleet_logistics_2:0 "Fleet Logistics"
- #navy_fleet_logistics_3:0 "Fleet Logistics"
-
- #navy_amphibious_assault_1:0 "Amphibious Assault"
- #navy_amphibious_assault_2:0 "Amphibious Assault"
- #navy_amphibious_assault_3:0 "Amphibious Assault"
-
- #navy_submarine_1:0 "Submarine Warfare Doctrine"
- #navy_submarine_2:0 "Submarine Warfare Doctrine"
- #navy_submarine_3:0 "Submarine Warfare Doctrine"
-
- #navy_capital_ship_1:0 "Capital Fleet Doctrine"
- #navy_capital_ship_2:0 "Capital Fleet Doctrine"
- #navy_capital_ship_3:0 "Capital Fleet Doctrine"
-
- #navy_screen_1:0 "Forward Escort Doctrine"
- #navy_screen_2:0 "Forward Escort Doctrine"
- #navy_screen_3:0 "Forward Escort Doctrine"
-
- #navy_carrier_1:0 "Carrier Strike Doctrine"
- #navy_carrier_2:0 "Carrier Strike Doctrine"
- #navy_carrier_3:0 "Carrier Strike Doctrine"
-
  black_monday:0 "검은 월요일"
- 
  jet_aircraft_manufacturer:0 "제트 항공기 제조사"
- 
- ### Generic Focus Localisation ###
  generic_focus:0 "국가중점"
- ### Generic Ideas ###
  generic_liberty_idea:0 "자유정신"
  generic_liberty_idea_desc:0 "자유는 우리가 지키기로 약속했던 것이며, 이것은 현재 우리의 정책이나 국가의 상태에 항상 동의하지는 않을지라도 우리 국민들이 우리를 지지하도록 고무시킵니다."
  generic_militarism_focus:0 "군국주의"
@@ -1033,8 +732,6 @@
  generic_liberty_research_idea_desc:0 "우리는 열망있는 어떤 학생이 고등 교육을 받을 기회를 갖도록 하기 위해 겸손하지만 상대적으로 괜찮은 대학 보조금을 지불하고 있습니다. 이것은 우리의 지식인들의 크기를 증가시킬 것입니다."
  generic_welfare_idea:0 "복지정책"
  generic_welfare_idea_desc:0 "우리는 사회의 가장 가난한 사람들이 살아남기 위해 필요한 도움을 받도록 하고 있습니다. 그래서 그들은 스스로 먹고 살 필요가 없고 언젠가 우리 경제를 위해 일할 것입니다."
- 
-### Generic Focuses ###
  generic_army_effort:0 "현대전"
  generic_army_effort_desc:0 "세계대전은 처음부터 끝까지 나폴레옹 전쟁의 군대 사고에 대한 이해를 끝내고 소총, 기관총 및 포병 대포의 극단적이고 치명적인 상황을 확인함으로써 전쟁을 영원히 바꿔 놓았습니다. 우리 군대는 문자 그대로 적응하거나 소멸해야 합니다."
  generic_equipment_effort:0 "장비 현대화"
@@ -1055,7 +752,6 @@
  generic_armor_effort_desc:0 "전차는 현대전의 정점입니다. 이동식 차량은 포병과 견줄만한 대포로 무장하고 일반 소총이 통하지 않습니다. 비록 우리가 적은 양을 생산한다고 해도, 우리는 그 강철 괴수를 현명하게 사용하여 적을 뚫을 것입니다."
  generic_special_forces:0 "특수부대"
  generic_special_forces_desc:0 "특수 부대는 과거의 정예부대 이상입니다. 현대식 장비로, 징집병조차도 전쟁터에서 자신을 붙들 수 있습니다. 하지만, 어떤 상황은 너무 적대적이어서 그들은 특별한 훈련을 받은 사람들이 필요합니다. 산악병, 해병대, 공수부대 말입니다."
- 
  generic_aviation_effort:0 "공군"
  generic_aviation_effort_tt:0 "§Y공군기지§!를 위한 건설 슬롯이 충분하지 않음"
  generic_aviation_effort_desc:0 "항공분야는 거의 세계대전에 맞추어 탄생되었습니다. 심지어 이 전쟁이 끝난 지 20년이 지났는데도, 그것은 여전히 새로운 것이고, 모든 국가들은 다음 번에 그들의 비행기가 전쟁에 불려질 수 있는 준비를 하려고 노력합니다. 우리도 그래야만 하며, 우리는 튼튼한 공군을 찾아서 조직해야 합니다."
@@ -1071,7 +767,6 @@
  generic_rocket_effort_desc:0 "로켓 제조 분야는 아마도 군사 과학의 가장 최신의 분야 중 하나일 것입니다. 만약 우리 과학자들을 믿는다면, 로켓 엔진은 레디얼 엔진을 부끄럽게 하는 속도를 낼 수 있습니다. 어떤 사람들은 그들이 소리보다 더 빨리 갈 수 있다고 말하며, 확실히 상당히 흥분됩니다."
  generic_NAV_effort:0 "해군항공대"
  generic_NAV_effort_desc:0 "아마도 해군 전투의 주요한 돌파구 중 하나인 해군 폭격기는 어뢰와 같은 해군 전용 폭장으로 적 함대에 손실을 가할 수 있습니다. 우리의 함대를 지원함으로써, 그들은 주력함에 도전하고 해군 대열에 대혼란을 야기할 수 있습니다."
- 
  generic_naval_effort:0 "현대 조선소"
  generic_naval_effort_tt:0 "§Y해군 조선소§!를 위한 건설 슬롯이 충분하지 않음"
  generic_naval_effort_desc:0 "우리가 강력한 해군을 구축하려면 먼저 해군을 생산해야 합니다. 조선술의 방법은 발전해 왔으며, 오래된 건선거는 새로운 조선소가 만들어지는 만큼 새로 업그레이드되야 합니다. 현대의 배는 톱니바퀴가 없으며, 우리는 바다에 견줄만한 함대를 가지려면 커다란 모습을 보아야 합니다."
@@ -1087,7 +782,6 @@
  generic_destroyer_effort_desc:0 "잠수함의 설계와 전략적 사용을 연구함으로써 우리는 또한 잠수함에 대응하는 법을 배웠습니다. 우리의 구축함들은 그들이 수송선을 효과적으로 호위하고 순찰할 수 있도록 하기 위해 가볍고 작은 전문화된 장비들이 필요할 것입니다."
  generic_capital_ships_effort:0 "주력함"
  generic_capital_ships_effort_desc:0 "결국, 함대는 주력함이 없으면 아무것도 아니며, 오래된 전함과 현대 항공모함 이 둘이 역할에 적합합니다. 직접적인 충돌에 취약하기는 하지만, 우리가 적 함대를 안전한 거리에서 포탄과 편대를 보내면 적 함대에 막대한 피해를 입힐 수 있습니다."
- 
  generic_industrial_effort:0 "산업 수단"
  generic_industrial_effort_desc:0 "대규모 산업기지를 건설하기 위해서는 현대 산업의 기본을 확립해야 하며 어쩌면 초기 선택을 해야 할지도 모릅니다. 집중되거나 분산되어 있는 산업 중심지, 공작 도구와 건설 도구에 투자해야 합니다. 이 모든 것들은 집중해야 할 중요한 것들입니다."
  generic_construction_effort:0 "산업 보조금"
@@ -1110,7 +804,6 @@
  generic_infrastructure_effort_2_desc:0 "현대 국가들은 국가의 한 지점에서 다른 지점으로 어떤 것을 빠르고 효율적으로 가져올 수 있는 철도 중심지를 필요로 합니다. 이것은 우리가 철도를 확장하고 몇 년 전만 해도 우리에게 없었던 교차점을 만들어야 한다는 것을 의미합니다."
  generic_construction_effort_3:0 "산업망"
  generic_construction_effort_3_desc:0 "도로나 철도와 마찬가지로 산업들도 투입과 생산, 수입과 수출에 기초해 확장되는 대형 네트워크로 연결되어 있습니다. 우리의 사회기반시설이 개선됨에 따라, 이러한 연계들도 생겨나고 우리의 산업은 소수의 부유한 지방들의 경제에 의존할 수 있기 때문에 더 강해집니다."
- 
  generic_extra_tech_slot:0 "연구위원회"
  generic_extra_tech_slot_desc:0 "우리의 산업 성장은 일자리를 찾는 국내외 과학자들을 포함한 많은 지식인들을 끌어들였습니다. 우리는 우리의 산업 기반이 충분히 성장하여 민간 연구기관을 유치할 수 있을 때까지 그들이 일할 과제를 찾도록 연구위원회를 후원해야 합니다."
  generic_extra_tech_slot_2:0 "연구기관"
@@ -1119,7 +812,6 @@
  generic_technology_sharing_desc:0 "우리의 동맹국들과 기술적 진보를 공유함으로써, 우리의 전체 세력은 전시 연구와 개발을 보다 효율적으로 수행할 수 있을 것입니다. 물론, 우리는 우리의 도움이 그들에게 영향을 미친다는 것을 증명할 필요가 있을 것이고 일단 이 많은 것이 입증되면 우리는 그들의 연구로부터 큰 혜택을 받을 것입니다."
  generic_secret_weapons:0 "비밀무기"
  generic_secret_weapons_desc:0 "단지 전차와 비행기를 개발하는 데만 모든 여분의 자원을 소비하는 것은 유혹적이지만 전쟁에서 이기는 비결은 전자, 로켓, 핵 연구 등 과학의 완전히 새로운 분야에 있습니다. 우리가 강대국이 아니라고 해서, 그러한 분야에서 우리 자신의 발전을 이룰 수 없다는 뜻은 없습니다."
- 
  generic_political_effort:0 "정치 개혁"
  generic_political_effort_desc:0 "세계에 변화를 가져오려면, 우리는 우리나라에 변화를 가져올 수 있어야 합니다. 우리의 정치적 입지를 강화하는 것이 우선되어야 하고, 우리는 오래된 정치적 교리를 없애고 지금부터 국가가 어떻게 통치될 것인지에 대한 대담하고 야심찬 견해를 채택할 준비가 되어 있어야 합니다."
  generic_collectivist_ethos_kr:0 "국가 통합"
@@ -1140,9 +832,6 @@
  generic_welfare_desc:0 "교육의 권리와 평등은 두 가지 중요한 이정표입니다. 하지만 경제적 평등은 아마도 가장 어려운 것입니다. 우리가 이 지역에서 완벽한 평등에 도달할 수는 없을지라도, 우리는 적어도 공정한 복지 프로그램으로 우리나라의 가장 가난한 사람들을 도울 수는 있을 겁니다. 이것은 또한 우리의 소비 경제가 빠르게 성장하는데 도움을 줄 것입니다."
  generic_national_identity:0 "국가 정체성"
  generic_national_identity_desc:0 "이념 논쟁은 우리가 오랫동안 길을 잃을 수 있는 것이지만, 우리는 우리의 핵심이 무엇인지를 잊어서는 안 됩니다. 우리는 유일하고, 우리의 역사와 문화를 알고 있으며, 우리의 운명이 더욱 빛나기를 바랍니다. 만약 우리가 오늘날 더 나은 사회를 만들었다면, 우리는 내일 더 나은 국가를 만들 것입니다."
- 
- ### Debug Tag ###
  XXA:0 "Debug Tag"
  XXA_ADJ:0 "Debug"
  XXA_DEF:0 "the Debug Tag"
- 

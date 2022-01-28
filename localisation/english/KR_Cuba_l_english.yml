@@ -1,11 +1,8 @@
 ﻿l_english:
  CUB_focus:0 "쿠바 중점계통도"
- 
-### Country Names ###
  CUB:0 "쿠바"
  CUB_ADJ:0 "쿠바"
  CUB_DEF:0 "쿠바"
-
  CUB_totalist_party:0 "사회주의자"
  CUB_totalist_party_long:0 "사회주의 운동-공산주의자"
  CUB_radical_socialist_party:0 "사회주의자"
@@ -656,12 +653,9 @@
  CUB_anticatholicopinion:0 "반-성직 운동"
  CUB_peruvianrow:0 "Cuban-Peruvian Row"
  el_caballo:0 "말"
- 
-### Companies ###
  havanashipyard:0 "Havana Shipyard"
  Waco_Aircraft_Company:0 "WACO Aircraft Company"
  Waco_Aircraft_Company_desc:0 "Lacking a substantial domestic aircraft manufacturer, with the collapse of the Ohio-based WACO Aircraft Company, whose biplanes had achieved a stellar reputation among Cuban pilots, in 1931, the Cuban government purchased the company and enticed its design team to move to Cuba as well."
-
  CUB_partial_great_depression:0 "부분적인 암울함 회복"
  CUB_partial_great_depression_desc:0 "젊은 대통령 라파엘 트레호와 연합당의 정책은 대공황의 영향을 부분적으로 완화시켰습니다."
  CUB_double_dip:0 "이중 경기 불황"
@@ -2059,38 +2053,6 @@
  cuba.407.d_1:0 "미국 전역에서 반란이 일어났고 우리 정부는 신속하게 대응책을 발표하여 미노조연맹의 사회주의자들을 신랄하게 비난했습니다. 그러나 우리의 정확한 입장은 의도적으로 모호하게 남겨져 있습니다."
  cuba.407.d_2:0 "미국 전역에서 반란이 일어났고 우리 정부는 당장은 미노조연맹을 공식적으로 인정하지 않았지만 사회주의 대의와 도덕적 정당성은 인정하면서 신속하게 대응책을 발표했습니다. 우리는 또한 공격적이며 반동적인 미연합국의 휴이 롱을 비난했습니다."
  cuba.407.a:0 "집안이 분열되었군..."
- CUB_totalist:0 "쿠바"
- CUB_totalist_ADJ:0 "쿠바"
- CUB_totalist_DEF:0 "쿠바"
- CUB_syndicalist:0 "쿠바"
- CUB_syndicalist_ADJ:0 "쿠바"
- CUB_syndicalist_DEF:0 "쿠바"
- CUB_radical_socialist:0 "쿠바"
- CUB_radical_socialist_ADJ:0 "쿠바"
- CUB_radical_socialist_DEF:0 "쿠바"
- CUB_social_democrat:0 "쿠바"
- CUB_social_democrat_ADJ:0 "쿠바"
- CUB_social_democrat_DEF:0 "쿠바"
- CUB_social_liberal:0 "쿠바"
- CUB_social_liberal_ADJ:0 "쿠바"
- CUB_social_liberal_DEF:0 "쿠바"
- CUB_market_liberal:0 "쿠바"
- CUB_market_liberal_ADJ:0 "쿠바"
- CUB_market_liberal_DEF:0 "쿠바"
- CUB_social_conservative:0 "쿠바"
- CUB_social_conservative_ADJ:0 "쿠바"
- CUB_social_conservative_DEF:0 "쿠바"
- CUB_authoritarian_democrat:0 "쿠바"
- CUB_authoritarian_democrat_ADJ:0 "쿠바"
- CUB_authoritarian_democrat_DEF:0 "쿠바"
- CUB_paternal_autocrat:0 "쿠바"
- CUB_paternal_autocrat_ADJ:0 "쿠바"
- CUB_paternal_autocrat_DEF:0 "쿠바"
- CUB_national_populist:0 "쿠바"
- CUB_national_populist_ADJ:0 "쿠바"
- CUB_national_populist_DEF:0 "쿠바"
- 
-### Characters ###
  CUB_lazaro_pena_gonzalez:0 "Lázaro Peña González"
  CUB_sandalio_junco_camellon:0 "Sandalio Junco Camellón"
  CUB_julio_mella_mcpartland:0 "Julio Mella McPartland"

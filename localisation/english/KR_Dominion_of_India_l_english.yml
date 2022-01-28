@@ -64,8 +64,6 @@
  RAJ_canship_tt:0 "한 척의 순양함과 두 척의 구축함을 캐나다로부터 양도받을 것입니다."
  RAJ_neprev_tt:0 "두 개의 충성파 민병대가 생성될 것입니다."
  RAJ_prfsec_tt:0 "다섯 개의 분리주의자 사단이 토후 연방에 생성될 것입니다."
- 
-### Companies ###
  tata_steel:0 "Tata Steel"
  punjab_ordnance_factories:0 "Punjab Ordnance Factories"
  ashok_leyland:0 "Ashok Leyland"
@@ -73,7 +71,6 @@
  tata_air:0 "Tata Air"
  karachi_shipyard:0 "Karachi Shipyard"
  vickers_armstrong_india:0 "Vickers-Armstrong India"
- 
  RAJ_princely_power:0 "토후들의 권력"
  RAJ_princely_power_desc:0 "영국령 인도의 지배력은 오직 북부 토후들의 충성심 덕분에 살아남을 수 있었습니다. 그들은 중앙정부와 권력을 공유하지만 이것은 많은 낭비를 수반하는 복잡한 구식 체계입니다."
  RAJ_princely_domination:0 "토후들의 정권 장악"
@@ -559,14 +556,12 @@
  JINNAH_WINS:0 "Jinnah Wins"
  SOCIALISTS_WIN:0 "Socialists Win"
  UNIONISTS_WIN:0 "Unionists Win"
- 
  RAJ:0 "영국령 인도"
  RAJ_ADJ:0 "영국령 인도"
  RAJ_DEF:0 "영국령 인도"
- 
  RAJ_radical_socialist:0 "인도 자치령"
  RAJ_radical_socialist_ADJ:0 "영국령 인도"
- 'RAJ_radical_socialist_DEF:0 "인도 자치령"
+ RAJ_radical_socialist_DEF:0 "the Dominion of India"
  RAJ_social_democrat:0 "인도 자치령"
  RAJ_social_democrat_ADJ:0 "영국령 인도"
  RAJ_social_democrat_DEF:0 "인도 자치령"
@@ -588,11 +583,9 @@
  RAJ_national_populist:0 "인도 자치령"
  RAJ_national_populist_ADJ:0 "영국령 인도"
  RAJ_national_populist_DEF:0 "인도 자치령"
-
  RAJ_india:0 "인도"
  RAJ_india_ADJ:0 "인도"
  RAJ_india_DEF:0 "인도"
-
  RAJ_india_radical_socialist:0 "인도 자치령"
  RAJ_india_radical_socialist_ADJ:0 "영국령 인도"
  RAJ_india_radical_socialist_DEF:0 "인도 자치령"
@@ -617,12 +610,9 @@
  RAJ_india_national_populist:0 "인도 자치령"
  RAJ_india_national_populist_ADJ:0 "영국령 인도"
  RAJ_india_national_populist_DEF:0 "인도 자치령"
-
  RAJ_IND:0 "인도"
  RAJ_IND_ADJ:0 "인도"
  RAJ_IND_DEF:0 "인도"
-
-### Characters ###
  RAJ_ganga_singh:0 "Ganga Singh"
  RAJ_sikander_hayat_khan:0 "Sikander Hayat Khan"
  RAJ_malik_khizar_hayat_tiwana:0 "Malik Khizar Hayat Tiwana"

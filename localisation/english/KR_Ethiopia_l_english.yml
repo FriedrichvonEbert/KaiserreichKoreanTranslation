@@ -396,12 +396,9 @@
  ethiopia.33.t:0 "독일 황립 아비시니아 철도와 중앙아프리카의 몰락"
  ethiopia.33.d:0 "독일령 중앙아프리카가 몰락하면서 우리의 가장 큰 무역 상대는 더이상 존재하지 않게 되었습니다. 에티오피아 정부는 이제 이전에 중앙아프리카가 소유했던 몫의 통제권을 넘겨받았고, 우리나라를 스스로 산업화하는 계획이 곧 시작될 것입니다."
  ethiopia.33.a:0 "우리는 아무도 의지할 수 없다."
- 
-### Country Names ###
  ETH:0 "에티오피아"
  ETH_ADJ:0 "에티오피아"
  ETH_DEF:0 "에티오피아"
-
  ETH_totalist:0 "에티오피아 사회주의 공화국"
  ETH_totalist_ADJ:0 "에티오피아"
  ETH_totalist_DEF:0 "에티오피아 사회주의 공화국"
@@ -411,11 +408,8 @@
  ETH_radical_socialist:0 "에티오피아 사회주의 공화국"
  ETH_radical_socialist_ADJ:0 "에티오피아"
  ETH_radical_socialist_DEF:0 "에티오피아 사회주의 공화국"
-
-### Characters ###
  ETH_haile_selassie:0 "하일레 셀라시에"
  ETH_mulugeta_yeggazu:0 "물루게타 예가주"
  ETH_abebe_aregai:0 "아베베 아레가이"
  ETH_kassa_haile_darge:0 "카사 하일레 다르게"
  ETH_hailu_tekle_haymanot:0 "하일루 테클레 하이마노트"
-

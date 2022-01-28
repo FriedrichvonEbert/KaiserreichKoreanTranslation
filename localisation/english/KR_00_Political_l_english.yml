@@ -95,7 +95,6 @@
  restructure_supply_system_desc:0 "By redirecting building materials and railway workers, we can quickly create a small number of make-shift supply dumps along some of our railways. This is not sustainable, however. \n\n§RThis decision can only be taken once. The bonus will disappear if you construct more than 3 additional supply hubs.§!"
  seize_some_trains_woo:0 "Commandeer Civilian Trains"
  seize_some_trains_woo_desc:0 "With war looming, we are well within our rights to commandeer engines and rolling-stock for state use."
-
  debug_decisions:0 "디버그 결정"
  turn_off_plpc_debug:0 "플레이어 주도적 평화 회담 끄기"
  turn_off_plpc_debug_desc:0 "이는 일시적으로 플레이어 주도적 평화 회담 기능을 끌 것입니다. 평화 회담이 평소처럼 진행될 것이고, 플레이어가 포함되어 있다고 AI 국가들이 손을 떼지 않을 것을 의미합니다."

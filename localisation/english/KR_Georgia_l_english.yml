@@ -27,7 +27,6 @@
  GEO_paternal_autocrat_party_long:0 "애국연합(테트리 기오르기)                      §L성 기오르기의 형상에서 따온 이름을 가진 애국연합(테트리 기오르기)은 독일의 지원을 받은 조지아 독립 위원회에서 조지아의 미래에 대한 의견 불일치로 인하여 탄생했습니다. 수많은 군인, 문화운동가, 귀족들로 구성된 위원회는 조지아인들의 문화적 정체성을 되살릴 수 있는 자유롭고 독립적인 국가를 세우겠다는 확고한 신념을 가지고 있었지만, 독일이 국가에 점점 더 많은 경제적, 정치적 요구를 하기 시작하자 격분했습니다. 그들의 옛 후원자들을 거절한 애국연합은 1920년대 이후 군주정 하 자유 조지아 국가의 수립을 믿고 있습니다. 더 급진적인 당원들은 유럽의 극우 파시즘, 통합주의의 영향을 받아 그들의 방법을 모방하기를 희망하고 있습니다.§!"
  GEO_national_populist_party:0 "애국연합"
  GEO_national_populist_party_long:0 "애국연합(테트리 기오르기)                      §L성 기오르기의 형상에서 따온 이름을 가진 애국연합(테트리 기오르기)은 독일의 지원을 받은 조지아 독립 위원회에서 조지아의 미래에 대한 의견 불일치로 인하여 탄생했습니다. 수많은 군인, 문화운동가, 귀족들로 구성된 위원회는 조지아인들의 문화적 정체성을 되살릴 수 있는 자유롭고 독립적인 국가를 세우겠다는 확고한 신념을 가지고 있었지만, 독일이 국가에 점점 더 많은 경제적, 정치적 요구를 하기 시작하자 격분했습니다. 그들의 옛 후원자들을 거절한 애국연합은 1920년대 이후 군주정 하 자유 조지아 국가의 수립을 믿고 있습니다. 더 급진적인 당원들은 유럽의 극우 파시즘, 통합주의의 영향을 받아 그들의 방법을 모방하기를 희망하고 있습니다.§!"
-### Companies ###
  poti_shipyards:0 "Potis Gemtsashenshi"
  kutaisi_auto:0 "Kutaisis Saavtomobilo Karkhana"
  tbilisi_factory:0 "TSKSA Iaraghis Karkhana"
@@ -545,12 +544,9 @@
  geo.123.d:0 "사회민주당은 어느 정당도 과반을 얻지 못해 정부구성을 할 수 없는 상황에서 승리를 거뒀습니다. 그 까닭에 연정이 중요해졌습니다. 하나는 연방주의자이자 민족주의자, 분권주의자인 사회연방혁명당과 구성하는 것이고, 나머지 하나는 급진사회주의자인 사회혁명당과 구성하는 것입니다. 두 당 모두 연정 가능성이 열려있다는 것을 분명히 했습니다."
  geo.123.a:0 "사회연방혁명당과 연정을 구성한다."
  geo.123.b:0 "사회혁명당과 연정을 구성한다."
- 
-### Cosmetic Tags ###
  GEO:0 "조지아"
  GEO_ADJ:0 "조지아"
  GEO_DEF:0 "조지아"
-
  GEO_authoritarian_democrat:0 "조지아 왕국"
  GEO_authoritarian_democrat_ADJ:0 "조지아"
  GEO_authoritarian_democrat_DEF:0 "조지아 왕국"
@@ -560,7 +556,6 @@
  GEO_national_populist:0 "조지아 왕국"
  GEO_national_populist_ADJ:0 "조지아"
  GEO_national_populist_DEF:0 "조지아 왕국"
-
  GEO_kingdom_social_democrat:0 "조지아 왕국"
  GEO_kingdom_social_democrat_ADJ:0 "조지아"
  GEO_kingdom_social_democrat_DEF:0 "조지아 왕국"
@@ -585,8 +580,6 @@
  GEO_TCU:0 "트랜스코카시아"
  GEO_TCU_ADJ:0 "트랜스코카시아"
  GEO_TCU_DEF:0 "트랜스코카시아"
-
-### Characters ###
  GEO_king_giorgi:0 "Giorgi IX"
  GEO_king_ioakhim:0 "Ioakhim I"
  GEO_noe_zhordania:0 "Noe Zhordania"

@@ -302,8 +302,6 @@
  ALB_paternal_autocrat_party_long:0 "인민당"
  ALB_national_populist_party:0 "발리 콤페타르"
  ALB_national_populist_party_party_long:0 "발리 콤페타르"
- 
-### Companies ###
  telekomi_shqiptar:0 "Telekomi Shqiptar"
  acr:0 "ACR"
  armo:0 "ARMO"
@@ -408,12 +406,9 @@
  ALB_fier_county_oil_drilling_desc:0 "파토스-마린자나 드린자와 같은 피어 카운티의 많은 도시는 방대한 양의 기름을 우리에게 공급했기 때문에 자원이 풍부하다는 점에서 입증되었습니다. 우리가 피어 카운티 주변에서 계속 시추한다면, 아마도 운이 좋다면 더 많은 석유를 찾을수도 있습니다."
  ALB_emergency_food_aid:0 "긴급 식량 원조"
  ALB_emergency_food_aid_desc:0 "베를린 증권 거래소가 붕괴된 후 우리 농업 부문은 대부분 쇠퇴하고 실패했습니다. 이것은 기록적인 농업 생산 감소를 가져왔고, 우리의 가난한 시민들 중 많은 사람들이 기아에 직면해 있습니다. 그 결과 사태는 급속히 악화되었습니다. 만약 우리가 이 사람들에게 도움을 주지 않는다면, 우리는 폭동에 직면할지도 모릅니다."
- 
-### Country Names ###
  ALB:0 "알바니아"
  ALB_ADJ:0 "알바니아"
  ALB_DEF:0 "알바니아"
-
  ALB_totalist:0 "알바니아 사회주의 공화국"
  ALB_totalist_ADJ:0 "알바니아"
  ALB_totalist_DEF:0 "알바니아 사회주의 공화국"
@@ -444,8 +439,6 @@
  ALB_kingdom_national_populist:0 "알바니아 왕국"
  ALB_kingdom_national_populist_ADJ:0 "알바니아"
  ALB_kingdom_national_populist_DEF:0 "알바니아 왕국"
- 
-### Characters ###
  ALB_enver_hoxha:0 "Enver Hoxha"
  ALB_ali_kelmendi:0 "Ali Kelmendi"
  ALB_avni_rrustemi:0 "Avni Rrustemi"
@@ -461,4 +454,3 @@
  ALB_muharrem_bajraktari:0 "Muharrem Bajraktari"
  ALB_elez_isufi:0 "Elez Isufi"
  ALB_azem_galica:0 "Azem Galica"
-

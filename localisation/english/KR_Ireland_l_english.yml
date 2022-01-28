@@ -3,7 +3,6 @@
  IRE:0 "아일랜드"
  IRE_ADJ:0 "아일랜드"
  IRE_DEF:0 "아일랜드"
-
  IRE_totalist:0 "아일랜드 사회주의 공화국"
  IRE_totalist_ADJ:0 "아일랜드"
  IRE_totalist_DEF:0 "아일랜드 사회주의 공화국"
@@ -121,14 +120,11 @@
  NIR_ulster_stuff_desc:0 "The time has come to throw off the shackles of the Dublin government and for Belfast to fight for its freedom!"
  NIR_take_dublin:0 "Secure Dublin"
  NIR_take_dublin_desc:0 "Once we taken Dublin, independence will be ours."
-
  NIR_send_rifles:0 "Send Equipment to Ulster"
  NIR_send_advisors:0 "Send Military Advisors to Ulster"
-
  NIR_1000_guns:0 "£rifle_texticon §H1000§!§!"
  NIR_1000_guns_blocked:0 "£rifle_texticon §R1000§!"
  NIR_1000_guns_tooltip:0 "It costs $NIR_1000_guns$ to take this decision"
-
  ulster.1.t:0 "Entente Allies Send Weapons"
  ulster.1.d:0 "A detachment of weapons has recently arrived in Belfast docks sent from our allies in the Dominions to help equip the growing Ulster army."
  ulster.1.a:0 "Send them our thanks!"
@@ -136,7 +132,6 @@
  ulster.2.d:0 "The Canadian government has sent a detachment of military advisors to bolster our army."
  ulster.2.a:0 "Good old Canucks!"
  NIR_canadian_advisors:0 "Canadian Military Advisors"
- 
  goulding_chemicals:0 "Goulding Chemicals"
  murphy_radio:0 "Murphy"
  mcmullan_bros:0 "McMullan Bros. Ltd."
@@ -525,17 +520,14 @@
  IRE_luc_leads:0 "'§H$ire.125.t.luc$§!' 이벤트가 §H30§!일 안에 발생합니다."
  IRE_sean_leads:0 "'§H$ire.125.t.sean$§!' 이벤트가 §H45§!일 안에 발생합니다."
  IRE_paddy_leads:0 "'§H$ire.125.t.paddy$§!' 이벤트가 §H60§!일 안에 발생합니다."
- 
  IRE_target_morocco:0 "Morocco"
  IRE_target_indonesia:0 "Sumatra"
  IRE_target_brazil:0 "Rio Grande do Norte"
  IRE_target_south_africa:0 "Transvaal"
-
  IRE_resource_morocco:0 "steel"
  IRE_resource_indonesia:0 "oil and rubber"
  IRE_resource_brazil:0 "tungsten"
  IRE_resource_south_africa:0 "Transvaal"
-
  ire.125.t.luc:0 "외국사업 지원에 대한 뤼크 페터스의 보고"
  ire.125.t.sean:0 "외국사업 지원에 대한 숀 맥 이오인의 보고"
  ire.125.t.paddy:0 "외국사업 지원에 대한 패트릭 오닐의 보고"
@@ -972,8 +964,6 @@
  IRE_CAPITALFLEET2_desc:0 "Now that we have begun to build a grand fleet to match the British, we should look into the building of a Super-Heavy Battleship. While it will take a long time to build and will be expensive, the results should be worth it."
  IRE_DOCTRINE:0 "Doctrinal Innovation"
  IRE_DOCTRINE_desc:0 ""
- IRE_DIRECTCONFRONTATION:0 "직접 대치 교리"
- IRE_DIRECTCONFRONTATION_desc:0 "If Ireland is to be safe from a naval blockade or invasion, we must directly confront the British Navy and force them to turn back to their ports in Britain."
  IRE_MARINEFOCUS:0 "무르하그두리(Muirshaighdiúirí)"
  IRE_MARINEFOCUS_desc:0 "Now that we have expanded our navy, we should consider the training of an elite unit of marines to spearhead a land invasion. If this was to be successful we could finally take the 700 years fight for Irish freedom to British land."
  IRE_HOMEDEFENSE:0 "새넌강 요새화"
@@ -1253,7 +1243,7 @@
  ire.149.t:0 "얼스터의 패배"
  ire.149.d:0 "우리의 최선의 노력에도 불구하고, 얼스터 봉기는 아일랜드 공화국에 의해 결정적으로 진압되었습니다. 우리는 오늘 아침 아일랜드 공화국군이 데리와 벨파스트의 주요 도시를 완전히 점령했다는 보고를 받았습니다. 충성파 지도자들에게 무슨 일이 일어났는지 모르지만, 폭압적인 아일랜드 정부가 그들을 처형했다는 것은 의심의 여지가 없습니다. 아일랜드 문제에 개입하려는 우리의 시도는 우리나라에 혼란을 가져왔고, 몇몇은 우리가 일찍이 여기서 발을 뺐어야 했다고 주장했습니다."
  ire.149.a:0 "결국엔 우리가 이길 것이다."
- IRE_unionists_pacified:0 "The Unionists have been pacified through civil war or negotiation."
+ IRE_loyalists_pacified:0 "The Loyalists have been pacified through civil war or negotiation."
  ire.151.t:0 "얼스터에 평화를 가져올 때?"
  ire.151.d:0 "얼스터는 1년 동안 아일랜드 공화국의 침략에 길고 피비린내나는 저항을 해왔고, 가톨릭과 개신교 양측 모두 많은 목숨을 잃었습니다. 그들이 우리의 독립을 인정한다면 우리는 공화국과 평화를 이룰 수 있습니다. 만약 우리가 훨씬 더 장기적인 충돌을 피하고 싶다면, 이것은 분명히 최선의 행동 방침일 것입니다."
  ire.151.a:0 "더블린에 제안을 보내자."
@@ -1373,8 +1363,6 @@
  ire.247.t:0 "The Second Irish Revolution"
  ire.247.d:0 "Ireland has become yet another country in Europe to fall to syndicalism.\n\nShocking events were reported from Dublin, as after losing the election, President Collins attempted to disband the Oireachtas and rule by decree. In the riots that followed this announcement, a supporter of a rival party shot and killed the President, leading to a chaos erupting on the streets of Dublin. This furore eventually ended in the socialist paramilitary group the Irish Citizen Army seizing Leinster House, and with it, all apparatus of power.\n\nIreland is now expected to work closely with their old enemies in Britain, to further the cause of syndicalism worldwide."
  ire.247.a:0 "With their proximity to Britain and France,\nit was only a matter of time."
- 
-### Characters ###
  IRE_sean_murray:0 "Seán Murray"
  IRE_jim_larkin:0 "Jim Larkin"
  IRE_peadar_odonnell:0 "Peadar O'Donnell"
@@ -1395,4 +1383,3 @@
  IRE_daniel_mckenna:0 "Daniel McKenna"
  IRE_daniel_hogan:0 "Daniel Hogan"
  IRE_seamus_o_muiris:0 "Seamus Ó Muiris"
-

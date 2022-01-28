@@ -727,12 +727,9 @@
  hai_les.11.d:0 "With President Lescot's announcement that the high command of the Garde d'Haiti would be completely reformed, many of the lower-level black officers have had issues with this development. While they aren't numerous enough to make a serious challenge, it could still hamper the efficiency of the reforms. We can ask the section chiefs to crack down at individual army units, or we can organise around them, knowing they are discontent."
  hai_les.11.a:0 "Crack down."
  hai_les.11.b:0 "Let them be."
-### Country Names ###
  HAI:0 "아이티"
  HAI_ADJ:0 "아이티"
  HAI_DEF:0 "아이티"
-
-### Characters ###
  HAI_joseph_jolibois_fils:0 "Joseph Jolibois Fils"
  HAI_jacques_romain:0 "Jacques Romain"
  HAI_max_hudincourt:0 "Max Hudincourt"
@@ -747,4 +744,3 @@
  HAI_carl_brouard:0 "Carl Brouard"
  HAI_alfred_auguste_nemours:0 "Alfred Auguste Nemours"
  HAI_antonio_thrasybule_kebreau:0 "Antonio Thrasybule Kébreau"
-

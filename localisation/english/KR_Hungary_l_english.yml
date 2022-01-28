@@ -30,11 +30,9 @@
  HUN_DOME_SZTOJAY_ARMY_DESC:0 "§Y장군 약력\n출생:§L 1883년 1월 5일, 오스트리아-헝가리, 헝가리 왕국 베르셰츠\n§Y군 경력:§L Born Dimitrije Stojaković in Vojvodina, Sztójay attended a Cadet School in Pécs before attending the Kriegsschule in Vienna in 1910. At the start of the Weltkrieg, he was assigned to the staff of an infantry brigade, but eventually rose to the operational staff to the military commander of Bosnia. Before being transfered to the Armee-Oberkommando (Army High Command), he was the chief of staff of a brigade of mountain infantry in the Dolomites. Once in the AOK, he was assigned to the Evidenzbureau, the Austro-Hungarian military intelligence agency, where he specialized in counter-intelligence for the rest of the war. After the war, he rose to the rank of colonel in 1925, after which he formally Magyarised his name, and major general in 1933. Until 1935, he worked as a section chief in the Hungarian Ministry of Defense (“Honvéd Ministry”), at the end of which he was promoted to lieutenant general."
  HUN_SZILARD_BAKAY_ARMY_DESC:0 "§Y장군 약력\n출생:§L 1892년 9월 8일, 오스트리아-헝가리, 헝가리 왕국 부다페스트\n§Y군 경력:§L Bakay's father was a battalion commander in the 1st Infantry Regiment, passing away from a heart attack in 1897. As such, he received a scholarship in 1902 and enrolled in a military high school, before attending a cavalry cadet school in 1906. In 1909, he made it to the Theresian Military Academy, graduating three years later with remarkable grades. In 1914, at the start if the war, he was a deputy battalion commander fighting on the Serbian Front. He proved highly capable, leading a battalion the next year, and received the Order of the Iron Crown in 1916. He then led the 72nd Assault Battalion until 1918, where he attempted staff officer courses and was made captain. After the war, he was part of the general staff of the IV Corps and stationed in Pécs, graduating from the Ludovica Military Academy in 1922. In 1925, he was transferred to the War Ministry in Vienna, serving as a liaison officer and traveling often as part of different military missions for the Austro-Hungarian general staff. As a colonel in 1931, he was briefly a military attaché in Belgrade, before being promoted to major general and transferred to Sofia in 1935."
  HUN_KAROLY_BARTHA_ARMY_DESC:0 "§Y장군 약력\n출생:§L 1884년 6월 18일, 오스트리아-헝가리, 헝가리 왕국 부다페스트\n§Y군 경력:§L After attending the Technical Military Academy between 1908 and 1911, Bartha became an officer in the Austro-Hungarian technical troops. He would rise through the ranks during the Weltkrieg and become a senior officer by its conclusion. Following the war, he became a technical instructor at the Ludovika Academy until he was appointed a general in 1930, becoming de facto head of artillery for the Honvéd with the potential to attain the rank of Feldzeugmeister (general of artillery) for the Austro-Hungarian armed forces in the future."
-### Cosmetic Tags ###
  HUN:0 "헝가리"
  HUN_ADJ:0 "헝가리"
  HUN_DEF:0 "헝가리"
-
  HUN_totalist:0 "헝가리 사회주의 공화국"
  HUN_totalist_ADJ:0 "헝가리"
  HUN_totalist_DEF:0 "헝가리 사회주의 공화국"
@@ -44,8 +42,6 @@
  HUN_radical_socialist:0 "헝가리 사회주의 공화국"
  HUN_radical_socialist_ADJ:0 "헝가리"
  HUN_radical_socialist_DEF:0 "헝가리 사회주의 공화국"
-
-### Characters ###
  HUN_bela_kun:0 "Béla Kun"
  HUN_arpad_szakasits:0 "Árpád Szakasits"
  HUN_oszkar_jaszi:0 "Oszkár Jászi"

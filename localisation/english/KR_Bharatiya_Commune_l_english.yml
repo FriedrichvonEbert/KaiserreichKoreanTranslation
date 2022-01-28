@@ -1,12 +1,8 @@
 ﻿l_english:
-
  KR_Bharatiya_Commune:0 "바라티야 코뮌 중점계통도"
-
-### Country Names ###
  HND:0 "Red India"
  HND_ADJ:0 "Red Indian"
  HND_DEF:0 "Red India"
- 
  HND_totalist:0 "바라티야 코뮌"
  HND_totalist_ADJ:0 "바라티야"
  HND_totalist_DEF:0 "바라티야 코뮌"
@@ -16,15 +12,12 @@
  HND_radical_socialist:0 "바라티야 코뮌"
  HND_radical_socialist_ADJ:0 "바라티야"
  HND_radical_socialist_DEF:0 "바라티야 코뮌"
- 
  HND_hindustan:0 "힌두스탄"
  HND_hindustan_ADJ:0 "힌두스탄"
  HND_hindustan_DEF:0 "힌두스탄"
-
  HND_india:0 "인도"
  HND_india_ADJ:0 "인도"
  HND_india_DEF:0 "인도"
-
  HND_india_totalist:0 "바라티야 코뮌"
  HND_india_totalist_ADJ:0 "바라티야"
  HND_india_totalist_DEF:0 "바라티야 코뮌"
@@ -34,15 +27,12 @@
  HND_india_radical_socialist:0 "바라티야 코뮌"
  HND_india_radical_socialist_ADJ:0 "바라티야"
  HND_india_radical_socialist_DEF:0 "바라티야 코뮌"
-
  HND_TOT:0 "최대주의파 봉기"
  HND_TOT_ADJ:0 "최대주의파"
  HND_TOT_DEF:0 "최대주의파 봉기"
-
  HND_AGR:0 "농업주의자 봉기"
  HND_AGR_ADJ:0 "농업주의자"
  HND_AGR_DEF:0 "농업주의자 봉기"
-
  POLITICS_LALA_LAJPAT_RAI_DESC:0 "미국에서 독립운동을 하던 펀자비 힌두교 자선가인 라라 라지팟 라이가 인도에서의 새로운 사회주의 국가가 건국되었음을 공식적으로 천명하기 위해 돌아왔습니다. 1925년 말 영국 통치 체제가 붕괴되면서 라이는 인도의 다른 사회주의 인사들과 함께 벵갈 인민 공화국의 건국을 선언했습니다. 이 인민 공화국은 처음에는 무력으로 인도를 통합하는데 실패했지만, 대륙 북동부 3분의 1을 성공적으로 확보했습니다. 한때 인민 공화국 지도부의 비교적 온건파였던 라이는 통일에 대한 야망을 표현하고자 바라티야 코뮌으로 국명을 바꾸었고, 지금은 경쟁 사회주의 파벌들의 거센 반대에 직면해 있습니다. 고령인 데다가 영향력이 약해진 라이는 사임 의사를 밝혔습니다. 그의 후임자는 코뮌 자체의 미래를 결정게 될 것입니다."
  POLITICS_FAZLUL_HUQ_DESC:0 "현재 인정받은 생디칼리스트이자 벵골 무슬림 연맹의 전임 총무였던 파줄룰 후크는 자신의 '온건주의자' 파벌을 인도 국민회의 특별회의에서 승리로 이끌었습니다. 그는 노조 중심의 산업화와 사회주의 개혁의 점진적인 시행을 위해 캠페인을 벌였습니다. 그러나 선거에서의 성공에도 불구하고, 후크는 여전히 인도 국민회의의 반대파들의 강한 반대에 직면해 있습니다. 그럼에도 불구하고 역사적으로 빈곤한 동부 인도의 번영과 아마도 언젠가 전체 아대륙으로 확대될 번영에 대한 비전은 적어도 후크의 지지자들에게는 점점 더 성취 가능한 목표로 여겨집니다."
  POLITICS_CHANDRA_BOSE_DESC:0 "학창 시절에 수바스 찬드라 보세는 한때 사랑하는 인도를 모욕했다며 영국인 교장을 때린 적이 있습니다. 그 후 퇴학당한 보세는 거의 광적인 복수심에 불타 올랐습니다. 영국령 인도가 붕괴되기 직전에 보세는 인도의 독립을 반대하는 사람들에 대항하는 선동적인 연설로 많은 인도인들을 사회주의의 명분으로 끌어들였습니다. 보세와 최대주의자들의 인도국민국회에서의 성공과 함께 바라티야 코뮌은 전반적으로 군국주의와 비슷한 견해를 갖기 시작했으며, 이제는 자치령과 토후 연방의 심장부에 결정적인 한 방을 날릴 것으로 보여집니다."
@@ -50,15 +40,12 @@
  POLITICS_JAWAHARLAL_NEHRU_DESC:0 "Jawaharlal Nehru is almost certainly the most tactful of the Bharatiya Commune's prominent political leaders. With the collapse of the British Raj, Nehru, while a staunch advocate for immediate independence from the weakened Empire, worked tirelessly to mediate all manner of disputes among Indian leaders across the political spectrum. While his detractors would slander Nehru as indecisive and cowardly, Nehru's subtle political manoeuvring was essential for his ascension to the highest levels of the Indian National Congress, and now the Bharatiya Commune itself. Under Nehru's leadership, perhaps the factionalism which has plagued the Congress for decades may finally be assuaged."
  POLITICS_NIRMAL_KUMAR_BOSE_DESC:0 "Nirmal Kumar Bose, protégé of the famous Mohandas Gandhi, has assumed leadership of the Bharatiya Commune. He is likely to continue the agrarian reforms of Gandhi, and encourage the non-violent reunification of India. Many dissidents within the Bharatiya Commune, however, are displeased with Bose's rise to power, believing, despite official explanations to the contrary, that Bose masterminded Gandhi's demise."
  POLITICS_SHRIPAD_AMRIT_DANGE_DESC:0 "Shripad Amrit Dange is perhaps the most radical syndicalist within the Indian National Congress. Much like Nestor Makhno of the French Anarchistes, he advocates the eventual disestablishment of the very state itself. Unlike the Anarchistes however, rather than promoting rural collectivisation, Dange advocates industrialisation and the assumption by trade unions of the entire economic apparatus."
- 
-### Companies ###
  bengalese_steel_mills:0 "Bengalese Steel Mills"
  bengal_ordnance_factories:0 "Bengal Ordnance Factories"
  premier_automobiles:0 "Premier Automobiles Limited"
  chittaranjan_locomotive:0 "Chittaranjan Locomotive Works"
  indian_national_airways:0 "Indian National Airways"
  khulna_shipyard:0 "Khulna Shipyard"
- 
  HND_backwards_economy_1:0 "미개발된 경제"
  HND_backwards_economy_1_desc:0 "이 나라는 농업에 의존하고 있으며, 그 방법도 시대에 뒤쳐졌습니다."
  HND_backwards_economy_2:0 "회복 중인 경제"
@@ -696,8 +683,6 @@
  beng.135.a:0 "Nehru forms a coalition with the Maximists!"
  beng.135.b:0 "Nehru convinces the Agrarians to support his platform!"
  beng.135.c:0 "Nehru utilises Dange's union support to take the presidency!"
-
-### Characters ###
  HND_sardar_patel:0 "Sardar Patel"
  HND_lala_lajpat_rai:0 "Lala Lajpat Rai"
  HND_mohandas_karamchand_gandhi:0 "Mohandas Karamchand Gandhi"
