@@ -1,1 +1,12 @@
 ﻿l_english:
+ MINIMIZE_EVENT:0 "최소화하려면 §G클릭§!하세요. §H사건과 결정§! 탭 아래 이벤트가 위치할 것입니다."
+ THREAT_FROM_EFFECT:0 "행동으로 인한 위협"
+ GAME_OVER_TT:0 "§R당신으로 인해 게임이 종료됩니다.§!"
+ excellent:0 "훌륭하군."
+ unfortunate:0 "유감이군."
+ traitors:0 "배신자들!"
+ 15_days_tt:0 "시행되기까지 §Y15일§!이 걸릴 것입니다."
+ 30_days_tt:0 "시행되기까지 §Y30일§!이 걸릴 것입니다."
+ 45_days_tt:0 "시행되기까지 §Y45일§!이 걸릴 것입니다."
+ if_they_accept:0 "상대가 승낙할 경우:"
+ worrying:0 "걱정스럽군."

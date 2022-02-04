@@ -1,4 +1,4 @@
-﻿ l_english:
+﻿l_english:
  received_attache:0 "주재무관 허가"
  received_attache_desc:0 "외국의 주재무관이 우리나라에 거주합니다."
  ATTACHE_LIST:0 "$LIST$에서 우리에게 주재무관을 파견하였습니다. 우리가 받고 있는 영향:"
@@ -108,3 +108,16 @@
  SELECT_DESIGN_COMPANY_DESC:0 "이 §Y설계 회사§!를 선택함으로써, 회사가 고용되있는 동안엔 모든 연구된 장비에 영구적인 영향을 끼칠 것입니다.\n"
  DESIGN_COMPANY_DESC:0 "\n이 §Y설계 회사§!는 그들이 활성화된 동안 모든 연구된 장비에 영구적인 영향을 끼칠 것입니다."
  closed_economy_TT:0 "아무런 자원도 수출되지 않을 것입니다.\n\n"
+ SPIRIT_ADD_IDEA:0 "§G클릭으로 $GROUP|H$ 추가§!"
+ modifier_tactic_elastic_defense_preferred_weight_factor:1 "§Y탄력적인 방어§! 전술이 선호 전술이라면 해당 전술이 발동될 확률이 높아짐"
+ modifier_tactic_overwhelming_fire_preferred_weight_factor:1 "§Y압도적 화력§! 전술이 선호 전술이라면 해당 전술이 발동될 확률이 높아짐"
+ modifier_tactic_seize_bridge_preferred_weight_factor:1 "§Y교량 점거§! 전술이 선호 전술이라면 해당 전술이 발동될 확률이 높아짐"
+ modifier_tactic_infantry_charge_preferred_weight_factor:1 "§Y침투 공격§! 전술이 선호 전술이라면 해당 전술이 발동될 확률이 높아짐"
+ modifier_tactic_delay_preferred_weight_factor:1 "§Y지연§! 전술이 선호 전술이라면 해당 전술이 발동될 확률이 높아짐"
+ modifier_tactic_human_wave_tactics_preferred_weight_factor:1 "§Y대규모 돌격§! 전술이 선호 전술이라면 해당 전술이 발동될 확률이 높아짐"
+ modifier_tactic_unexpected_thrust_preferred_weight_factor:1 "§Y예상치 못한 진군§! 전술이 선호 전술이라면 해당 전술이 발동될 확률이 높아짐"
+ modifier_tactic_barrage_preferred_weight_factor:1 "§Y제압 사격§! 전술이 선호 전술이라면 해당 전술이 발동될 확률이 높아짐"
+ modifier_tactic_planned_attack_preferred_weight_factor:1 "§Y잘 계획된 공격§! 전술이 선호 전술이라면 해당 전술이 발동될 확률이 높아짐"
+ modifier_tactic_relentless_assault_preferred_weight_factor:1 "§Y가차없는 공격§! 전술이 선호 전술이라면 해당 전술이 발동될 확률이 높아짐"
+ ALREADY_HAS_ADVISOR_WITH_TRAIT:0 "이 특성을 가진 임명된 조언가가 있습니다."
+ CHANGE_ADVISOR:1 "\n여기를 클릭하고 대체할 인물을 선택하여 이 조언가를 변경할 수 있습니다."

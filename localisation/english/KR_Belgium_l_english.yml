@@ -413,7 +413,7 @@
  BEL_Support_the_Fleet:0 "함대 규모 증강"
  BEL_Support_the_Fleet_desc:0 "Further improvements will have to be made to our smaller ships if we wish to ensure dominance at sea."
  BEL_Adalberts_Dream:0 "[ROOT.BEL_GetAdalbertsDreamName]"
- BEL_Adalberts_Dream_desc:0 "With the neighbouring powers clearly mobilising against [ROOT.GetNameDef], [ROOT.GetLeader] sees no choice but to fully commit to his naval plans by pouring enormous amounts of resources into a large shipbuilding programme."
+ BEL_Adalberts_Dream_desc:0 "With neighbouring powers clearly mobilising against [ROOT.GetNameDef], [ROOT.GetLeader] sees no choice but to fully commit to his naval plans by pouring enormous amounts of resources into a large shipbuilding programme."
  BEL_Adalberts_Dream_Adalbert:0 "[ROOT.GetLeader]'s Dream"
  BEL_Adalberts_Dream_Generic:0 "Large Scale Naval Investments"
  BEL_Modernise_Destroyers:0 "구축함 현대화"

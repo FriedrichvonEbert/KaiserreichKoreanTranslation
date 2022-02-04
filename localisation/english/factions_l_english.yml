@@ -1,5 +1,5 @@
 ﻿l_english:
- FACTION_LEADER:0 "Faction leader: §Y$COUNTRY$§!"
- FACTION_MEMBER:0 "Faction member: §Y$COUNTRY$§!"
- FACTION_CREATED_UNDER_MASTER_TITLE:0 "Joined Master's Faction"
- FACTION_CREATED_UNDER_MASTER_MESSAGE:0 "We have joined $FACTION|H$ faction together under our master"
+ FACTION_LEADER:0 "세력 맹주국: §Y$COUNTRY$§!"
+ FACTION_MEMBER:0 "세력 회원국: §Y$COUNTRY$§!"
+ FACTION_CREATED_UNDER_MASTER_TITLE:0 "종주국의 세력 가입"
+ FACTION_CREATED_UNDER_MASTER_MESSAGE:0 "우리는 종주국과 함께 $FACTION|H$ 세력에 가입했습니다"

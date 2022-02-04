@@ -1,4 +1,4 @@
-﻿ l_english:
+﻿l_english:
  WHILE_FOCUSING:0 "이에 중점을 둘 시 다음 효과가 발생합니다:\n$EFF$"
  NATIONAL_FOCUS_MUTUALLY_EXCLUSIVE_TREE:0 "함께 채택할 수 없습니다."
  NATIONAL_FOCUS_EXCLUSIVE_INFO_DESC:0 "다음과 상호 배타적 :"

@@ -601,7 +601,7 @@
  hai_civ.15.d:0 "Following the beginning of the Haitian Civil War, and the continued breakdown of the American political system, Germany has begun to express interest in expanding their holdings in Haiti. With our regime desperate to gain the upper hand, these talks with the German government are vital."
  hai_civ.15.a:0 "We must secure German support!"
  hai_civ.16.t:0 "Haitian President [HAI.GetLeader] Asks for Support"
- hai_civ.16.d:0 "With the Haitian civil war raging between the incumbent President [HAI.GetLeader] and challenger [HAI.HAI_presidential_opponent], [HAI.GetLeader] has asked for our support. In exchange, they promise that Germany will gain a friendly port in the Caribbean and be able to expand their influence in the Americas."
+ hai_civ.16.d:0 "With the Haitian civil war raging between incumbent President [HAI.GetLeader] and challenger [HAI.HAI_presidential_opponent], [HAI.GetLeader] has asked for our support. In exchange, they promise that Germany will gain a friendly port in the Caribbean and be able to expand their influence in the Americas."
  hai_civ.16.a:0 "We shall back the legitimate Haitian government."
  hai_civ.16.b:0 "We shall not take sides."
  hai_civ.17.t:0 "Germany Shall Support us!"

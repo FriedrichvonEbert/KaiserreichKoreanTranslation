@@ -1,4 +1,4 @@
-﻿ l_english:
+﻿l_english:
  operation_boost_resistance:0 "저항 강화"
  operation_boost_resistance_desc:0 "§L적군이 점령한 영토의 저항군들은 전투를 계속하기 위한 지원을 간절히 바라고 있습니다. 그들은 상당한 양의 적군을 묶고 있으며, 매우 효과적인 투자가 될 것입니다.§!"
  operation_capture_cipher:0 "암호 탈취"
@@ -202,7 +202,7 @@
  coordinated_strike_direct_units_desc:0 "공격이 시작되면 그들은 무전으로 우리 부대를 고 부가 가치 목표물로 안내할 것입니다."
  coordinated_strike_direct_units_outcome:0 "그들은 부대를 성공적으로 지휘하며 적에게 가해지는 피해를 증가시켰습니다."
  coordinated_strike_occupy_bridges:0 "교량 점령"
- coordinated_strike_occupy_bridges_desc:0 "우리 대원이 지역에 있는 교량을 점령해 적의 반격과 교량 파괴를 막을 것입니다. "
+ coordinated_strike_occupy_bridges_desc:0 "우리 대원이 지역에 있는 교량을 점령해 적의 반격과 교량 파괴를 막을 것입니다."
  coordinated_strike_occupy_bridges_outcome:0 "우리 대원이 중요 교량 지점의 경비 병력을 제압하고 우리 부대가 작전을 순조롭게 진행하도록 설치된 폭약을 깔끔하게 제거했습니다."
  operation_coordinated_strike:0 "공격 편성"
  operation_coordinated_strike_desc:1 "§L [From.GetNameDef]에 승리하려면, 우리는 기습 한 방으로 그들을 궤멸시켜야 합니다§!\n\n목표 지역에 §Y항구 타격§!과 §Y전략폭격§! 공중 임무를 준비하면 작전이 끝날 때 기습하여 적국과의 전쟁을 시작할 것입니다."
@@ -223,7 +223,7 @@
  OUTCOME_VGOOD:0 "§G휼륭한§!"
  enemy_has_equal_or_better_radar_tech_trigger_tt:0 "적이 동등하거나 더 나은 레이더 기술을 보유하고 있습니다."
  OPERATION_BONUS_REWARD:0 "작전이 엄청난 성공을 거두었고, §G추가적인 보상§!을 얻었습니다!"
- intelligency_agency_resistance_boost_tt:0 "첩보 작전: $VALUE|=-%0$"
+ intelligency_agency_resistance_boost_tt:0 "첩보 작전: $VALUE|-%0$"
  targeted_sabotage_resources_2_tt:0 "[From.From.GetName]에서의 지역 저항세력은 지역 자원 추출을 사보타주 하기 위해 노력을 기울일 것입니다."
  targeted_sabotage_resources_3_tt:0 "[From.From.GetName]에서의 지역 저항세력은 지역 자원 추출을 사보타주 하기 위해 더 많은 노력을 기울일 것입니다."
  targeted_sabotage_industry_2_tt:0 "[From.From.GetName]에서의 지역 저항세력은 지역 공장을 사보타주 하기 위해 노력을 기울일 것입니다."
@@ -238,7 +238,6 @@
  launch_coup_exfiltration_outcome:0 "작전 개시 신호를 수신한 후, 우리의 공작원은 지정된 목표를 점령하기 위해 여러 부대를 이끌었습니다. 반란군이 영토의 일부를 성공적으로 장악했습니다."
  launch_coup_exfiltration_outcome_fail:0 "폭동의 혼란 속에서 우리는 우리의 정보원과 연락이 끊겼습니다. 우리는 무슨 일이 일어났는지 결코 알아낼 수 없을지도 모릅니다."
  free_agency_upgrade_tt:0 "무작위적으로 한 가지 §Y기관 개선§!을 얻습니다"
- 
  nuclear_espionage:0 "원자력 계획 침투"
  nuclear_espionage_desc:0 "우리 핵무기 계획은 다른 나라들보다 뒤쳐져 있습니다. 우리는 외국의 핵무기 프로그램 내부 침투 계획을 짜서 중요한 청사진과 데이터를 확보해야 합니다."
  nuclear_espionage_outcome_tt:0 "우리는 [FROM.GetAdjective]의 핵무기 계획 내부의 요원을 통해 핵무기 개발에 이용할 수 있는 기술 문서를 빼내려 할 것입니다."
