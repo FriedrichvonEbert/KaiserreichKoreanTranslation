@@ -162,7 +162,7 @@
  GBR_victoria_idea_desc:0 "영국은 군주제의 귀환과 영국의 전통, 그리고 민주주의의 구세주인 캐나다의 승리를 기념하는 동상을 만들었습니다!"
  KR_foreign_support:0 "외국의 지원"
  GBR_invite_five_eyes:0 "5개의 눈 계획에 [From.GetNameDef] 초대"
- GBR_invite_imperial_preference:0 "[From.GetNameDef]측 에 대영제국 무역특혜조약 제안"
+ GBR_invite_imperial_preference:0 "[From.GetNameDef]측에 대영제국 무역특혜조약 제안"
  GBR_reintegrate_malta:0 "몰타 재통합"
  GBR_support_britain:0 "영국 지원"
  GBR_support_britain_desc:0 "[GBR.GetNameDefCap](은)는 전쟁으로 초토화된 국가를 재건하고 있습니다. 우리는 가능한 한 많은 도움을 보내야 합니다!"

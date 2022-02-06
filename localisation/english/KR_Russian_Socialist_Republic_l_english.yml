@@ -31,7 +31,7 @@
  SOV_Protect_The_Baltics:0 "[FROM.GetNameDef] 보호"
  SOV_Control_The_Unions_tooltip:0 "Modify §H$SOV_proletarian_humanism$§! or §H$SOV_revolutionary_vanguard$§! by\nFactory Output: [?0.1|+%]"
  SOV_Proletarian_Revolution_tooltip:0 "Modify §H$SOV_revolutionary_vanguard$§! or §H$SOV_industrial_democracy$§! by\nIndustrial Research Speed: [?0.1|+%0]"
- SOV_Mass_Collectivisation_tooltip:0 "Modify §H$SOV_revolutionary_vanguard$§! or §H$SOV_industrial_democracy$§! by\n£prod_eff Production Efficiency Growth: [?0.15|+%]"
+ SOV_Mass_Collectivisation_tooltip:0 "§H$SOV_revolutionary_vanguard$§! 또는 §H$SOV_industrial_democracy$§! 변동치\n£prod_eff 생산 효율 성장: [?0.15|+=%]"
  SOV_Research_Investments_tooltip:0 "Modify §H$SOV_gosplan$§! by\nResearch Speed: [?0.1|+%]"
  SOV_Rally_The_Defectors_tooltip:0 "§RDefections will be hampered by Okhrannoye Otdeleniye operatives.§!"
  SOV_The_Peoples_Logistics_Corps_tooltip:0 "Modify §H$SOV_armament_production$§! by\nSupply Consumption: [?-0.1|-%1]\nArmy Fuel Consumption: [?-0.1|-%]"

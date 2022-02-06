@@ -1,8 +1,8 @@
 ﻿l_english:
- ddr.1.t:0 "Finding a new capital"
- ddr.1.d:0 "Due to enemy occupation of our natural capital in Berlin, we are forced to choose an alternative."
- ddr.1.a:0 "Königsberg has always been our capital"
- ddr.1.b:0 "Breslau is a good temporary choice"
+ ddr.1.t:0 "새 수도 찾기"
+ ddr.1.d:0 "적이 우리의 자연수도 베를린을 점령함에 따라 다른 수도를 찾을 수밖에 없습니다."
+ ddr.1.a:0 "쾨니히스베르크는 항상 우리 수도였다."
+ ddr.1.b:0 "브레슬라우는 임시수도로 좋은 선택이다."
  DDR:0 "프로이센"
  DDR_ADJ:0 "프로이센"
  DDR_DEF:0 "프로이센"

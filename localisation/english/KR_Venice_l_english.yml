@@ -157,7 +157,7 @@
  VNC_submarines_desc:0 "Submarines, also called U-Boats, were crucial to German victory in the Weltkrieg. Clearly any modern military must have them."
  VNC_destroyers:0 "구축함"
  VNC_destroyers_desc:0 "We must also defend against enemy submarines. Developing new destroyers is the most effective means to accomplish this."
- VNC_heavy_cruisers:0 "전투순양함"
+ VNC_heavy_cruisers:0 "순양전함"
  VNC_heavy_cruisers_desc:0 "The heaviest cruisers with the largest are needed to support our fleets and fill multiple non-standard roles."
  VNC_battle_cruisers:0 "전함"
  VNC_battle_cruisers_desc:0 "While we lack the ability to produce dreadnoughts in sufficient number, battleships are more than sufficient to repel any foe."
