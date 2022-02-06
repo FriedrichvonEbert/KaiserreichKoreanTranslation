@@ -6,11 +6,11 @@ tags={
 	"National Focuses"
 }
 dependencies={
-	"Korean Language (Europa)"
+	"Korean Language"
 	"Kaiserreich"
 }
 name="Kaiserreich Korean Translation"
 picture="thumbnail.png"
-supported_version="1.10.*"
+supported_version="1.11.5"
 path="C:/Users/hoone/Documents/Paradox Interactive/Hearts of Iron IV/mod/krkorean"
 remote_file_id="2098453801"
