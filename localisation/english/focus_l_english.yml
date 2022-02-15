@@ -21,7 +21,7 @@
  continuous_boost_freedom:0 "자치도 증가"
  continuous_boost_freedom_desc:0 "우리의 식민지 관료를 재조직하고 현지 관리자를 채용함으로써, 우리는 제때 맡은 일에 대한 책임을 질 수 있습니다."
  continuous_restrict_freedom:0 "종속국 탄압"
- continuous_restrict_freedom_desc:0 "우리의 식민지 속국은 \"자결권\"이나 \"국가 독립\"과 같은 다소 어리석은 사상에 젖어 들었습니다. 이제 이런 국가들이 제정신을 차리게 할 때입니다."
+ continuous_restrict_freedom_desc:0 "우리의 식민지 속국은 "자결권"이나 "국가 독립"과 같은 다소 어리석은 사상에 젖어 들었습니다. 이제 이런 국가들이 제정신을 차리게 할 때입니다."
  subject_autonomy_mod_tt:0 "종속국의 자치도: §G-0.5§!"
  unlocks_decision:0 "해금되는 결정: £decision_icon_small"
  TREE_FILTER_TOGGLE:0 "§G클릭§!하여 기타 필터 토글"

@@ -432,7 +432,7 @@
  ship_armor_bc_3_desc:0 "Designed with an eye towards weight limitations, this armour scheme attempts to maximize protection for the vital parts of a ship by leaving other areas exposed. This scheme is not supposed to stand up to battleship-grade weaponry for long."
  ship_armor_shbb:0 "450mm 수선부/210mm 갑판"
  ship_armor_shbb_short:0 "초중장갑 I"
- ship_armor_shbb_desc:0 "The last word in armour design, this armour scheme was intended to defeat all known main battery projectiles up to 18\", allowing a ship so equipped to engage and sink any other battleship in the world during it construction."
+ ship_armor_shbb_desc:0 "The last word in armour design, this armour scheme was intended to defeat all known main battery projectiles up to 18", allowing a ship so equipped to engage and sink any other battleship in the world during it construction."
  ship_armor_cruiser_1:0 "75mm 수선부/40mm 갑판"
  ship_armor_cruiser_1_short:0 "순양함 장갑 I"
  ship_armor_cruiser_1_desc:0 "An armour scheme intended to give a cruiser a slight edge when fighting against destroyers and other lightly-armed ships."
