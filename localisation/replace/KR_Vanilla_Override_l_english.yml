@@ -18,6 +18,7 @@
  MENU_FORUM:0 "카이저라이히 포럼\n패러독스 포럼에 로그인 한 후 열람할 수 있습니다"
  MENU_FACEBOOK:0 "카이저라이히 스팀"
  MENU_TWITTER:0 "카이저라이히 트위터"
+ MENU_PRIVACY_POLICY:0 "카이저라이히 위키"
 
  LOADING_GUI:0 "명예로운 평화에 서명하는 중"
  LOADING_HISTORY:0 "러시아에 개입하는 중"
@@ -55,7 +56,7 @@
  same_ruling_party:0 "기본"
  different_party_types:0 "기본"
  DIPLOMACY_REQUEST_EXP_FORCE_ACTION_DESC:0 "종속국에게 여러개의 사단에 대한 통제권을 요구합니다."
- DIPLOMACY_MILACC:0 "군사 이용"
+ SEND_VOLUNTEERS_INFO:0 "\n파병된 부대는 목적지에 도착하기 직전까지 지도에서 사라지고, 도착하면 다시 지도에 표시됩니다. 당신이 전쟁에 돌입하거나 파병받은 국가가 평화로워지면 자동적으로 귀환합니다."
 
 ### game_rules_l_english
  RULE_GROUP_GAMEPLAY:0 "게임 플레이"
@@ -186,7 +187,7 @@
  improved_worker_conditions_desc:0 "공장일은 힘들고 위험요소가 가득합니다. 공장 노동자들의 환경을 개선한다면, 단기적 측면에선 생산량은 줄어들겠지만, 장기적 측면으론 그만한 가치가 있습니다."
  foreign_politics:0 "외교정책"
  foreign_politics_desc:0 "좋은 외교정책은, 국가의 체급과는 상관없이 생존을 위해선 필수적입니다. 일부 국가가 동맹을 구축하려 공을 들이고 있지만, 공격적인 성향을 가진 경우엔 공공연한 갈등에서 상대국에 정면 도전을 선택하기도 합니다. 우리가 무엇을 선택하든 간에 어리석어서는 안 되며, 오로지 전략적인 외교정책만이 우리가 친선을 맺고 적을 짓밟을 수 있습니다."
- war_propaganda_against_warmonger_desc:0 "국가에서는 남녀노소 모두가 [From.GetNameDef] 측과 싸움에 이바지해 줄 것을 요구하는 바입니다!"
+ war_propaganda_against_warmonger_desc:0 "국가에서 남녀노소 모두가 [From.GetNameDef] 측과의 싸움에 이바지해 달라고 강력히 요구하고 있습니다!"
 
 ############################################
 ### Part Two - 바닐라와 비교시 미미한 변경만 존재 ###
