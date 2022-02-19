@@ -26,5 +26,5 @@
  unity_parade_desc:0 "[From.GetAdjective] 의용군의 베테랑 병사들은 망할 적들에게서 승리를 거두었으며 이 공동 희생은 자부심의 원천입니다. 우리는 국내에서 군사 행진을 통해 불굴의 힘을 보여줄 것입니다. 적법한 [From.GetAdjective] 정부 출신의  비평가들은 이것을 자원 낭비라고 반대할 수도 있지만, 우리의 성공을 의심하는 자들을 침묵시킬 필요는 있습니다."
  joint_training_exercise:0 "[From.GetAdjective]-[Root.GetAdjective] 간 연합 훈련"
  joint_training_exercise_desc:0 "육해공에서 우리 연합군은 그들의 영토에서 [From.GetAdjective] 동맹국을 몰아낸 세계 문명의 미래를 위협한 폭군적인 침략자들을 격파할 것입니다. 우리는 호전적인 사람들에 맞서 전쟁을 벌이는 더 나은 방법을 배우기 위한 훈련을 시작할 것입니다."
- custom_cost_joint_training_exercise:0 "£command_power  §Y25§!"
- custom_cost_joint_training_exercise_blocked:0 "£command_power  §R25§!"
+ custom_cost_joint_training_exercise:0 ""
+ custom_cost_joint_training_exercise_blocked:0 ""

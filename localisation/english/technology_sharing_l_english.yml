@@ -10,7 +10,7 @@
  TECH_SHARNG_RESEARCH_BONUS_VALUE_DESC:0 "기술 공유: $VALUE|+%0$\n"
  LICENSED_PRODUCTION_RESEARCH_BONUS_VALUE_DESC:0 "면허 생산: $VALUE|+%0$\n"
  TECH_SHARNG_RESEARCH_BONUS_VALUE_DETAILED_DESC:0 "\n$NAME|H$ 회원은 다음과 같은 국가에 $VALUE|G%0$만큼의 추가치(최대 $MAX|H%0$)를 제공함:"
- TECH_SHARNG_RESEARCH_BONUS_VALUE_DETAILED_COUNTRY:0 "\n@$TAG$$COUNTRY|H$"
+ TECH_SHARNG_RESEARCH_BONUS_VALUE_DETAILED_COUNTRY:0 ""
  continuous_tech_share_group_name:0 "세력 연구"
  continuous_tech_share_group_desc:0 "당신의 활성화된 지속적 중점으로 인해 세력의 연구 시간이 단축되었습니다."
  NO_OTHER_SHARING_GROUPS:0 "기술 공유 그룹에 속하지 않음"

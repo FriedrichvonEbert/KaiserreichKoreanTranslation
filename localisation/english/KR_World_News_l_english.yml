@@ -1441,7 +1441,7 @@
  worldnews.471.b:0 "그렇다면 우리만 양면전쟁을 벌이고 있는건 아닌 것 같군."
  worldnews.471.c:0 "혁명을 분쇄시킬 수 없다! 우리는 또다시 승리하리라!"
  worldnews.471.e:0 "협상국이 또다시 패배할까, 아니면 혁명에 금이 갈까?"
- worldnews.472.t:0 "러시아의 벨트크리그 개입"
+ worldnews.472.t:0 "러시아의 세계대전 개입"
  worldnews.472.d:0 "Relations between Russia and Germany have been poor ever since the Treaty of Brest-Litovsk, widely considered a national humiliation by the former, tore and transformed the lands under her rule into German client states. But with the scars of the Weltkrieg still marking her, many hoped that the Russian Eagle would be forced to surrender her aspirations in the west. Today, these hopes have been mercilessly dashed as soldiers of [219.Owner.GetNameDef] begin marching once more through Eastern Europe. [219.Owner.GetLeader] has consequently announced a state of war with [GER.GetNameDef], swearing to restore the nation's honour and calling for national unity to enthusiastic crowds at Red Square."
  worldnews.472.a:0 "브레스트-리토프스크의 일을 복수하겠다! 하나이자 나눠질 수 없는 러시아여, 영원하여라!"
  worldnews.472.b:0 "러시아는 잉여로운 나라기에, 우린 저들을 손쉽게 분쇄시킬 것이다."
