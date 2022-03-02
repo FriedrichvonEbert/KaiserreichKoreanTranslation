@@ -679,7 +679,7 @@
  CENmil_increase_firepower_desc:0 "Our army currently operates a massive amount of diverse equipment, e.g. we currently use not one but multiple versions of the outdated Mauser rifle! In the chaos that is our military arsenal, nothing short of a massive standardisation program will be able to sort things out."
  CENmil_standard_equi:0 "중화기"
  CENmil_standard_equi_desc:0 "Our army lacks heavy fire weapons despite the fact that artillery has proven to be decisive in the battles of the Weltkrieg. We need to rapidly equip our army with heavy guns and train specialised battalions to operate them."
- CENmil_heavy_guns:0 "차량화 노력"
+ CENmil_heavy_guns:0 "차량화 주력"
  CENmil_heavy_guns_desc:0 "As we reform and expand our army, we are facing severe logistical issues. The terrain of Central America is rough and roads are rare, however we still need to get our artillery pieces from the factory or the port to our divisions on the border. Trucks will solve this problem."
  CENmil_chain_command:0 "지휘체계 재정립"
  CENmil_chain_command_desc:0 "Just like our military arsenal, our chain of command is nothing short of anarchy. As we are in the process of integrating armies from multiple nations into one, which all had different doctrines and hierarchies, no one knows anymore who takes orders from who and who is on top. We need to fully reorganise the entire chain of command."
