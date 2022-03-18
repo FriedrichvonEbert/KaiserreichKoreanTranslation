@@ -421,7 +421,7 @@
  rocket_artillery_equipment_1_desc:0 "로켓포는 덜 정확하고 전통적인 야포의 포대보다 사격지속률이 낮습니다. 그러나, 압도적인 영향력을 지닌 다연장 로켓으로 일제타격할 수 있는 능력을 가지고 있습니다."
  rocket_artillery_equipment_2:0 "진보된 로켓포"
  rocket_artillery_equipment_2_desc:0 "회전 안정 로켓으로 경포 포대의 범위를 증가시켰다."
- artillery_equipment_1:0 "견인 야포"
+ artillery_equipment_1:0 "견인포"
  artillery_equipment_1_short:0 "야포"
  artillery_equipment_1_desc:0 "야포는 개인화기의 유효범위보다 훨씬 멀리까지 포탄을 발사할 수 있는, 승무원에 의해 작동되는 대포나 곡사포 같은 대구경 무기를 의미합니다."
  artillery_equipment_2:0 "향상된 야포"

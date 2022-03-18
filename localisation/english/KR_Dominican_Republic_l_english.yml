@@ -357,7 +357,7 @@
  DOM_anti_haitian_1:0 "잠재한 반-아이티 정서"
  DOM_rojo_election:0 "적색당이 선거에서 승리하다"
  DOM_repub_election:0 "공화당이 선거에서 승리하다"
- DOM_coup_succeeds:0 "트루히요의 쿠데타가 성공하다"
+ DOM_coup_succeeds:0 "트루히요의 쿠데타가 성공함"
  DOM_estrella_wins:0 "에스트렐라가 트루히요를 무찌르다"
  DOM_trujillo_wins:0 "트루히요가 에스트렐라를 무찌르다"
  DOM_estrella_gone:0 "에스트렐라의 임기가 끝나다"

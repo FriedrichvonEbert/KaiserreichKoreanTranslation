@@ -358,7 +358,7 @@
  siam.21.t:0 "Royalist Rebels Surrender (AI side)"
  siam.21.d:0 "This event isn't meant to fire for Human players - please report this as a bug if this appears to you"
  siam.21.a:0 "They surrendered (Parliamentarians)"
- siam.22.t:0 "쁠랙 피분 송크람의 쿠데타"
+ siam.22.t:0 "쁠랙 피분송크람의 쿠데타"
  siam.22.d:0 "As time has passed and people have adjusted to the seizure of power, the situation in [SIA.GetSIAshortname] has finally begun to stabilise. It is finally time to..."
  siam.22.a:0 "...계엄령을 철회할 때이다."
  siam.22.b:0 "...권력을 잡아야 할 때이다."

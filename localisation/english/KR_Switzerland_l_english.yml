@@ -1175,7 +1175,7 @@
  SWI_army_reorganization_tooltip:0 "§CThis will begin a referendum that will provide the nation with§!§Y Land Doctrine §!§Cif passed.§!"
  SWI_freemasonry_tooltip:0 "§CThis will begin a referendum that will provide the nation with§!§Y Political Power §!§Cif passed.§!"
  SWI_transport_of_goods_tooltip:0 "§CThis will begin a referendum that will provide the nation with§!§Y Construction Research §!§Cif passed.§!"
- SWI_commerce_tooltip:0 "Modify §YSwiss Merchant Marine§! by\nConstruction Speed: §G+10.00%§!\n§YTrade Convoy§!: £production_cost  Production Cost: §G-10.00%§!"
+ SWI_commerce_tooltip:0 "§YSwiss Merchant Marine§! 변동치\n건설 속도: §G+10.00%§!\n§Y무역 수송선§!: £production_cost  생산 비용: §G-10.00%§!"
  SWI_not_socialist:0 "다음이 아님: 사회주의 정부를 가짐"
  SWI_integration_choice:0 "Our government will proceed with integrating Bircher's political militias."
  SWI_aggressive_integration:0 "민병대 §Y2§!사단을 얻을 것입니다."

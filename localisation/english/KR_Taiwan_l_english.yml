@@ -27,7 +27,7 @@
  taiwan.3.d:0 "Taiwan's recent separation from Japan, which brought to an end to over forty years of exchange and integration, not only left the island economically adrift, but also brought difficult questions of identity. It seems Taiwan has finally made a decision in that regard, as we have received a petition from [TAI.CApital.GetCapitalVictoryPointName], verified by our consulate there, requesting reunification with [taiwan_union_target.GetName]. Regardless of the island's inhabitants' preferences, as the victors, it is ultimately our choice to make."
  taiwan.3.a:0 "당연하지."
  taiwan.3.b:0 "아니, 분리되어 있는게 낫다."
- taiwan.4.t:0 "[FROM.GetNameDefCap] Approves Union with [taiwan_union_target.GetNameDef]"
+ taiwan.4.t:0 "[FROM.GetNameDefCap]이(가) [taiwan_union_target.GetNameDef]의 통합을 승인하다"
  taiwan.4.d:0 "Good news! Our overlords in [FROM.Capital.GetCapitalVictoryPointName] have approved our request to reunite with [taiwan_union_target.GetNameDef]!"
  taiwan.4.a:0 "만세!"
  taiwan.5.t:0 "[FROM.GetNameDefCap] Denies Union with [taiwan_union_target.GetNameDef]"

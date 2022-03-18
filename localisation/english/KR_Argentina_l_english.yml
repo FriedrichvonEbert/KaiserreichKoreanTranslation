@@ -1000,7 +1000,7 @@
  ARG_Modernise_Agriculture:0 "Modernise Agriculture"
  ARG_Modernise_Agriculture_desc:0 "Modern agricultural methods, new fertilizers, and widespread machine use can considerably enhance production output, eliminating the risk of famine and allowing more food to be exported."
  ARG_Vina_Dam_mission_desc:0 "To further boost Cordoba's industrialisation process, the local administration has proposed the construction of a large hydro-electric installation to not only power the region's evolving industry but also to provide irrigation for thousands of acres of agricultural land, the province's main economic engine. Even with governmental support, the construction will take time to complete, but the investments should pay back in the long run."
- ARG_integrate_state_decision:0 "Integrate [FROM.GetName]"
+ ARG_integrate_state_decision:0 "[FROM.GetName] 통합"
  ARG_integrate_state_decision_desc:0 "[FROM.GetName] was annexed after a successful military campaign. To make the state a proper component of the country, we must crush the partisans while also installing civilian administration and spreading our ideology and culture."
  ARG_shared_industry_decisions:0 "Industrial Expansion"
  ARG_dockyards_dec:0 "Build Dockyard in [FROM.GetName]"

@@ -92,7 +92,7 @@
  idea_group_heavy_aircraft_manufacturer:0 "중비행기 제조사"
  idea_group_trade_laws:0 "무역법"
  idea_group_trade_laws_desc:0 "우리 나라를 위한 무역법을 선택하세요"
- free_trade:0 "자유 무역"
+ free_trade:0 "자유무역"
  export_focus:0 "수출 중점"
  limited_exports:0 "제한적 수출"
  closed_economy:0 "폐쇄 경제"
